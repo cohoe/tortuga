@@ -1,0 +1,43 @@
+---
+- name: City of Gold Sling
+  status: red
+  origin:
+    creator: Joaquín Simó
+    venue: Death & Co
+    location: New York NY
+  spec:
+    - name: original
+      glassware: highball
+      ingredients:
+        - name: haymans old tom gin
+          quantity: 1.5
+          unit: oz
+        - name: el dorado 12-year rum
+          quantity: .5
+          unit: oz
+        - name: donns spices #2
+          quantity: .75
+          unit: oz
+        - name: vieux pontarlier absinthe
+          quantity: 1
+          unit: dash
+        - name: pineapple juice
+          quantity: 1
+          unit: oz
+        - name: lime juice
+          quantity: .5
+          unit: oz
+        - name: orgeat
+          quantity: .25
+          unit: oz
+        - name: house peychauds bitters
+          quantity: 1
+          unit: oz
+      instructions:
+        - shake all the ingredients with ice, then strain into a highball glass filled with ice cubes
+      garnish:
+        - pineapple wedge
+      straw: false
+      citations:
+        - title: Death & Co
+          page: 155

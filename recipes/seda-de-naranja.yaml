@@ -1,0 +1,35 @@
+---
+- name: Seda De Naranja
+  status: green
+  origin:
+    creator: Phil Ward
+    venue: Death & Co
+    location: New York NY
+    year: 2007
+  spec:
+    - name: original
+      glassware: coupe
+      ingredients:
+        - name: el tesoro reposado tequila
+          quantity: .75
+          unit: oz
+        - name: grand marnier
+          quantity: .75
+          unit: oz
+        - name: house orange bitters
+          quantity: 1
+          unit: dash
+        - name: dry champagne
+      instructions:
+        - stir all the ingredients (except the champagne) over ice, then strain into a coupe
+        - top with champagne
+      straw: false
+      citations:
+        - title: 'Death & Co: Modern Classic Cocktails'
+          author:
+            - David Kaplan
+            - Nick Fauchald
+            - Alex Day
+          date: 2014-10-07
+          publisher: Ten Speed Press
+          page: 227

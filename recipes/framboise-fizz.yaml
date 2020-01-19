@@ -1,0 +1,31 @@
+---
+- name: Framboise Fizz
+  status: green
+  origin:
+    creator: Michael Klein
+    venue: PDT
+    location: New York NY
+  spec:
+    - name: original
+      glassware: coupe
+      ingredients:
+        - name: siete leguas reposado tequila
+          quantity: 1.5
+          unit: oz
+        - name: marie brizard white creme de cacao
+          quantity: .75
+          unit: oz
+        - name: lemon juice
+          quantity: .75
+          unit: oz
+        - name: framboise boon lambic
+          quantity: 2
+          unit: oz
+      instructions:
+        - shake with ice, then strain into a chilled egg coupe
+      garnish:
+        - 3 raspberries on a pick
+      straw: false
+      citations:
+        - title: PDT Cocktails
+          href: https://mixologytech.com/pdt/index.html

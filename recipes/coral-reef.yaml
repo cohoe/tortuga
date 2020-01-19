@@ -1,0 +1,34 @@
+---
+- name: Coral Reef
+  status: green
+  origin:
+    creator: Lyn Farmer
+    venue: Silversea Cruises
+    location: Miami FL
+    year: 2011
+  spec:
+    - name: original
+      glassware: highball
+      ingredients:
+        - name: plymouth gin
+          quantity: 2
+          unit: oz
+        - name: st-germain
+          quantity: 1
+          unit: oz
+        - name: aperol
+          quantity: .75
+          unit: oz
+        - name: club soda
+      instructions:
+        - build in a highball glass over ice
+      garnish:
+        - lemon twist
+      straw: false
+      citations:
+        - title: 101 Best New Cocktails
+          href: https://mixologytech.com/gaz/index.html
+      notes:
+        - presumably top with club soda, which gaz sez is optional
+        - this is better without the soda
+        - with soda (2oz) its too watered down and not fizzy though my soda may be running out of juice

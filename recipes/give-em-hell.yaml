@@ -1,0 +1,40 @@
+---
+- name: Give Em Hell!
+  status: red
+  origin:
+    creator: Damon Boelte & Sother Teague
+    venue: Sexton Midnight Club
+    location: New Orleans LA
+    year: 2019
+  spec:
+    - name: original
+      glassware: bowl
+      ingredients:
+        - name: the sexton irish whiskey
+          quantity: 1
+          unit: oz
+        - name: orgeat
+          quantity: 1
+          unit: oz
+        - name: genepy
+          quantity: 1
+          unit: oz
+        - name: lime juice
+          quantity: 1
+          unit: oz
+        - name: green tea
+          quantity: 1
+          unit: oz
+        - name: absinthe
+          unit: dash
+      instructions:
+        - add all ingredients to a punch bowl, with absinthe to taste
+        - adjust to taste if needed (sometimes the tea and citrus vary in potency)
+      garnish:
+        - lime wheels
+        - freshly grated nutmeg
+      straw: false
+  citations:
+    - title: Recipes From The Sexton Midnight Club New Orleans
+      publisher: Vice
+      href: https://www.vice.com/en_us/partners/the-sexton-midnight-club/recipes-from-the-sexton-midnight-club-new-orleans

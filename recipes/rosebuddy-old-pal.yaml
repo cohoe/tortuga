@@ -1,0 +1,29 @@
+---
+- name: Rosebuddy Old Pal
+  status: red
+  origin:
+    venue: Rosebud
+    location: Somerville MA
+  spec:
+    - name: original
+      glassware: rocks
+      ingredients:
+        - name: old overholt rye
+          quantity: 2
+          unit: oz
+        - name: dry vermouth
+          quantity: .75
+          unit: oz
+        - name: campari
+          quantity: .75
+          unit: oz
+        - name: apricot liqueur
+          quantity: .5
+          unit: oz
+      instructions:
+        - stir all ingredients in a mixing glass with ice, then strain into a rocks glass over a large ice cube
+      straw: false
+      citations:
+      notes:
+        - equal-parts spec too much campari, still work in progress
+        - apricot quantity still guestimate

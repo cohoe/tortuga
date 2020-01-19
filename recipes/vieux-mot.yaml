@@ -1,0 +1,28 @@
+---
+- name: Vieux Mot
+  status: green
+  origin:
+    creator: Don Lee
+    year: 2007
+  spec:
+    - name: original
+      glassware: coupe
+      ingredients:
+        - name: plymouth gin
+          quantity: 1.5
+          unit: oz
+        - name: lemon juice
+          quantity: .75
+          unit: oz
+        - name: st-germain
+          quantity: .5
+          unit: oz
+        - name: simple syrup
+          quantity: .5
+          unit: oz
+      instructions:
+        - shake with ice, then strain into a chilled coupe glass
+      straw: false
+      citations:
+        - title: PDT Cocktails
+          href: https://mixologytech.com/pdt/index.html

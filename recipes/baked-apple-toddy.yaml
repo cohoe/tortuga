@@ -1,0 +1,36 @@
+---
+- name: Baked Apple Toddy
+  status: red
+  origin:
+    creator: Sother Teague
+  spec:
+    - name: original
+      glassware: mug
+      ingredients:
+        - name: apple brandy
+          quantity: 1.5
+          unit: oz
+        - name: hot apple cider
+          quantity: 1
+          unit: oz
+        - name: cinnamon syrup
+          quantity: .5
+          unit: oz
+        - name: lemon juice
+          quantity: .25
+          unit: oz
+        - name: bar keep apple bitters
+          quantity: 2
+          unit: dash
+      instructions:
+        - fill a mug with hot water, letting sit for 1 minute to warm the mug
+        - pour out the water and add all ingredients
+      garnish:
+        - nutmeg
+        - apple chip
+      straw: false
+      citations:
+        - title: I'm Just Here for the Drinks
+          page: 123
+      notes:
+        - feel like a stir or something is missing

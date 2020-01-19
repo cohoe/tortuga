@@ -1,0 +1,44 @@
+---
+- name: Angus Story Daiquiri
+  status: green
+  origin:
+    creator: Phil Ward
+    venue: Death & Co
+    location: New York NY
+    year: 2012
+    story: >-
+      The venerable British bartender Angus Winchester came in one night
+      and asked me to make him a three-rum daiquiri. This is the result.
+  spec:
+    - name: original
+      glassware: coupe
+      ingredients:
+        - name: appleton estate v/x rum
+          quantity: .75
+          unit: oz
+        - name: ron del barrilito 3-star rum
+          quantity: .75
+          unit: oz
+        - name: la favorite rhum agricole blanc
+          quantity: .5
+          unit: oz
+        - name: lime juice
+          quantity: .75
+          unit: oz
+        - name: cane sugar syrup
+          quantity: .5
+          unit: oz
+      instructions:
+        - shake all the ingredients with ice, then strain into a coupe
+      garnish:
+        - lime wedge
+      straw: false
+      citations:
+        - title: 'Death & Co: Modern Classic Cocktails'
+          author:
+            - David Kaplan
+            - Nick Fauchald
+            - Alex Day
+          date: 2014-10-07
+          publisher: Ten Speed Press
+          page: 260

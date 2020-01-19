@@ -1,0 +1,29 @@
+---
+- name: Pete's Word
+  status: red
+  origin:
+    creator: Phil Ward
+    venue: Death & Co
+    location: New York NY
+  spec:
+    - name: original
+      glassware: coupe
+      ingredients:
+        - name: laphroaig 10-year scotch
+          quantity: .75
+          unit: oz
+        - name: luxardo maraschino liqueur
+          quantity: .75
+          unit: oz
+        - name: green chartreuse
+          quantity: .75
+          unit: oz
+        - name: lime juice
+          quantity: .75
+          unit: oz
+      instructions:
+        - shake all the ingredients with ice, then strain into a coupe
+      straw: false
+      citations:
+        - title: Death & Co
+          page: 202

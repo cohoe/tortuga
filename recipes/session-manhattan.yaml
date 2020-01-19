@@ -1,0 +1,32 @@
+---
+- name: Session Manhattan
+  status: green
+  origin:
+  spec:
+    - name: original
+      glassware: coupe
+      ingredients:
+        - name: sweet vermouth
+          quantity: 1
+          unit: oz
+        - name: rye whiskey
+          quantity: .75
+          unit: oz
+        - name: amontillado sherry
+          quantity: .75
+          unit: oz
+        - name: dry vermouth
+          quantity: .5
+          unit: oz
+        - name: angostura bitters
+          quantity: 2
+          unit: dash
+      instructions:
+        - add all the ingredients in a mixing glass, add ice, and stir until chilled
+        - strain into a coupe
+      garnish:
+        - lemon twist
+      straw: false
+      citations:
+        - title: Punch
+          href: https://punchdrink.com/recipes/session-manhattan/

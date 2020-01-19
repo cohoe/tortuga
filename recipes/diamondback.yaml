@@ -1,0 +1,31 @@
+---
+- name: Diamondback
+  status: green
+  spec:
+    - name: original
+      glassware: nicknora
+      ingredients:
+        - name: rittenhouse 100 rye
+          quantity: 2
+          unit: oz
+        - name: laird's bonded apple brandy
+          quantity: .5
+          unit: oz
+        - name: yellow chartreuse
+          quantity: .5
+          unit: oz
+      instructions:
+        - stir all the ingredients over ice, then strain into a Nick & Nora glass
+      straw: false
+      citations:
+        - title: 'Death & Co: Modern Classic Cocktails'
+          author:
+            - David Kaplan
+            - Nick Fauchald
+            - Alex Day
+          date: 2014-10-07
+          publisher: Ten Speed Press
+          page: 142
+  notes:
+    - tastes like just the rye, barely any hint of the other ingredients
+    - from a night at Drink, try equal parts

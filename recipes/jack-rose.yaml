@@ -1,0 +1,25 @@
+---
+- name: Jack Rose
+  status: green
+  origin:
+    year: 1910
+  spec:
+    - name: original
+      glassware: coupe
+      ingredients:
+        - name: laird's apple brandy
+          quantity: 2
+          unit: oz
+        - name: lemon juice
+          quantity: .75
+          unit: oz
+        - name: jack rudy grenadine
+          quantity: .75
+          unit: oz
+      instructions:
+        - shake with ice, then fine-strain into a chilled coupe
+      straw: false
+      citations:
+        - title: Meehan's Bartender Manual
+      notes:
+        - Death & Co does 1oz apple brandy, 1oz calvados, .5oz lemon, .5oz lime

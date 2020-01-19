@@ -1,0 +1,48 @@
+---
+- name: Creole Saz
+  status: green
+  origin:
+    creator: Joaquín Simó
+    venue: Death & Co
+    location: New York NY
+    year: 2008
+    story: >-
+      It's hard to predict which D&C drinks will be replicated elsewhere. This
+      sazerac variation has ended up on the menus of cocktail bars all over
+      the world.
+  spec:
+    - name: original
+      glassware: rocks
+      ingredients:
+        - name: vieux pontarlier absinthe
+        - name: zacapa 23-year rum
+          quantity: 2
+          unit: oz
+        - name: cane sugar syrup
+          quantity: 1
+          unit: tsp
+        - name: house peychaud's bitters
+          quantity: 3
+          unit: dash
+        - name: angostura bitters
+          quantity: 1
+          unit: dash
+        - name: bittermens xocolatl mole bitters
+          quantity: 1
+          unit: dash
+        - name: lemon twist
+          quantity: 1
+      instructions:
+        - rinse a double rocks with absinthe and dump
+        - stir the remaining ingredients (except the lemon twist) over ice, then strain into the glass
+        - squeeze the lemon twist over the drink and discard
+      straw: false
+      citations:
+        - title: 'Death & Co: Modern Classic Cocktails'
+          author:
+            - David Kaplan
+            - Nick Fauchald
+            - Alex Day
+          date: 2014-10-07
+          publisher: Ten Speed Press
+          page: 257

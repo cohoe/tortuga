@@ -1,0 +1,35 @@
+---
+- name: Uppercut
+  status: None
+  origin:
+    creator: Sother Teague
+    venue: Amor y Amargo
+    location: New York NY
+  spec:
+    - name: original
+      glassware: UNKNOWN
+      ingredients:
+        - name: bourbon
+          quantity: 1
+          unit: oz
+        - name: applejack
+          quantity: .75
+          unit: oz
+        - name: becherovka
+          quantity: .25
+          unit: oz
+        - name: orange juice
+          quantity: .25
+          unit: oz
+        - name: lemon juice
+          quantity: .5
+          unit: oz
+        - name: hard cider
+      instructions:
+        - build in a glass over ice and top with cider
+      garnish:
+        - sliced apples or grapes
+      straw: false
+      citations:
+        - title: I'm Just Here for the Drinks
+          page: 77

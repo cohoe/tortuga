@@ -1,0 +1,28 @@
+---
+- name: Preakness
+  status: red
+  origin:
+  spec:
+    - name: original
+      glassware: coupe
+      ingredients:
+        - name: old grand-dad 114 bourbon
+          quantity: 1.5
+          unit: oz
+        - name: carpano antica formula vermouth
+          quantity: .75
+          unit: oz
+        - name: bénédictine
+          quantity: .25
+          unit: oz
+        - name: bitter truth aromatic bitters
+          quantity: 1
+          unit: dash
+      instructions:
+        - stir all the ingredients over ice, then strain into a coupe
+      garnish:
+        - orange twist
+      straw: false
+      citations:
+        - title: Death & Co
+          page: 149

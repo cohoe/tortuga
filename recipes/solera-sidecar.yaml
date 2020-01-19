@@ -1,0 +1,46 @@
+---
+- name: Solera Sidecar
+  status: yellow
+  origin:
+    creator: Joaquín Simó
+    venue: Death & Co
+    location: New York NY
+    year: 2009
+    story: >-
+      This play on the Sidecar tastes like a dessert pastry. The sherry
+      lends a butty flavor, the amaro provides a biscotti note, and the
+      cognac is fruity and floral.
+  spec:
+    - name: original
+      glassware: coupe
+      ingredients:
+        - name: hine h cognac
+          quantity: 1.5
+          unit: oz
+        - name: east india solera sherry
+          quantity: .5
+          unit: oz
+        - name: grand marnier
+          quantity: .25
+          unit: oz
+        - name: lazzaroni amaretto
+          quantity: .25
+          unit: oz
+        - name: lemon juice
+          quantity: .5
+          unit: oz
+        - name: simple syrup
+          quantity: .25
+          unit: oz
+      instructions:
+        - shake all the ingreidnets with ice, then strain into the coupe
+      straw: false
+      citations:
+        - title: 'Death & Co: Modern Classic Cocktails'
+          author:
+            - David Kaplan
+            - Nick Fauchald
+            - Alex Day
+          date: 2014-10-07
+          publisher: Ten Speed Press
+          page: 0

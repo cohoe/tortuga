@@ -1,0 +1,47 @@
+---
+- name: Electric Kool-Aid Acid Test
+  status: green
+  origin:
+    creator: Phil Ward
+    venue: Death & Co
+    location: New York NY
+    year: 2008
+    story: >-
+      This is a classic Mr. Potato Head spec. With gin it becomes a ramble;
+      with rum it's a Seersucker; and with apple brandy it's a Sloe
+      Scobeyville Sling.
+  spec:
+    - name: original
+      glassware: pilsner
+      ingredients:
+        - name: plymouth gin, scarlet ibis rum, lairds bonded apple brandy, or siembra azul blanco tequila
+          quantity: 1
+          unit: oz
+        - name: sloe gin
+          quantity: 1
+          unit: oz
+        - name: lemon juice
+          quantity: 1
+          unit: oz
+        - name: simple syrup
+          quantity: .75
+          unit: oz
+        - name: blackberries
+          quantity: 3
+        - name: luxardo maraschino liqueur
+          quantity: .25
+          unit: oz
+      instructions:
+        - short shake all the ingredients (except the maraschino liqueur) with 3 ice cubes, then strain into a pilsner glass filled with crushed ice
+        - empty the ice from the shaker and add the blackberries and maraschino liqueur
+        - gently muddle the blackberries, then pour over the drink
+      straw: true
+      citations:
+        - title: 'Death & Co: Modern Classic Cocktails'
+          author:
+            - David Kaplan
+            - Nick Fauchald
+            - Alex Day
+          date: 2014-10-07
+          publisher: Ten Speed Press
+          page: 252

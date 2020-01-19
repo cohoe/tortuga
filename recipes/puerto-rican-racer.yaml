@@ -1,0 +1,35 @@
+---
+- name: Puerto Rican Racer
+  status: red
+  origin:
+    creator: Thomas Waugh
+    venue: Death & Co
+    location: New York NY
+  spec:
+    - name: original
+      glassware: rocks
+      ingredients:
+        - name: ron del barrilito 3-star rum
+          quantity: 2
+          unit: oz
+        - name: lairds bonded apple brandy
+          quantity: .5
+          unit: oz
+        - name: yellow chartreuse
+          quantity: .5
+          unit: oz
+        - name: grenadine
+          quantity: 1
+          unit: tsp
+        - name: house peychauds bitters
+          quantity: 1
+          unit: dash
+      instructions:
+        - stir all the ingredients over ice, then strain into a double rocks glass over 1 large ice cube
+      straw: false
+      citations:
+        - title: Death & Co
+          page: 180
+      notes:
+        - scant .5oz of chartreuse
+        - this is a rum-diamondback

@@ -1,0 +1,47 @@
+---
+- name: Dead Poet
+  status: green
+  origin:
+    creator: Keegan McGregor
+    venue: Field Guide
+    location: Halifax NS
+  spec:
+    - name: original
+      glassware: coupe
+      ingredients:
+        - name: blanco tequila
+          quantity: 1
+          unit: oz
+        - name: dry vermouth
+          quantity: 1
+          unit: oz
+        - name: mezcal
+          quantity: .5
+          unit: oz
+        - name: bénédictine
+          quantity: .5
+          unit: oz
+        - name: yellow chartreuse
+          quantity: 1
+          unit: tsp
+        - name: orange bitters
+          quantity: 2
+          unit: dash
+        - name: lime peel
+      instructions:
+        - stir all the ingredients with ice, then strain into a chilled glass
+        - twist a lime peel over the drink
+      garnish:
+        - twisted lime peel
+      straw: false
+      citations:
+        - title: 'Tequila Cocktail: Dead Poet'
+          author: Imbibe
+          href: http://imbibemagazine.com/dead-poet-tequila-cocktail/
+          date: 2019-08-29
+  images:
+    - text: dead poet
+      href: https://stackoverflow.com/questions/4766230/map-shift-tab-in-vim-to-inverse-tab-in-vim
+      credit: Jessica Emin
+  notes:
+    - Two French liqueurs give this robust mix an equally bold aroma.

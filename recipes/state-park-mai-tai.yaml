@@ -1,0 +1,35 @@
+---
+- name: State Park Mai Tai
+  status: green
+  origin:
+    venue: State Park & The Baldwin Bar
+    location: Cambridge & Woburn MA
+  spec:
+    - name: original
+      glassware: tiki
+      ingredients:
+        - name: light-aged cuban-style rum
+          quantity: .75
+          unit: oz
+        - name: aged jamaican rum
+          quantity: .75
+          unit: oz
+        - name: dry orange curaçao
+          quantity: .75
+          unit: oz
+        - name: lime juice
+          quantity: .75
+          unit: oz
+        - name: orgeat
+          quantity: .75
+          unit: oz
+        - name: simple syrup
+          quantity: .75
+          unit: oz
+      instructions:
+        - shake all ingredients with ice and strain into a tiki glass with crushed ice
+      straw: false
+      citations:
+      notes:
+        - ingredients from Baldwin Bar, recipe from State Park (old monk + privateer ambre)
+        - could do .25oz simple and stil be OK

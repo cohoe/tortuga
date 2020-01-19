@@ -1,0 +1,42 @@
+---
+- name: St-Germain Redux
+  status: green
+  origin:
+    creator: Phil Ward
+    venue: Death & Co
+    location: New York NY
+    year: 2008
+  spec:
+    - name: original
+      glassware: wine
+      ingredients:
+        - name: beefeater london dry gin, appleton estate v/x rum, siembra azul blanco tequila, compass box asyla scotch, calvados, or hine h cognac
+          quantity: 1
+          unit: oz
+        - name: dry champagne
+          quantity: 1
+          unit: oz
+        - name: st-germain
+          quantity: 1
+          unit: oz
+        - name: club soda
+          quantity: 1
+          unit: oz
+      instructions:
+        - combine all the ingredients in a wine glass filled with ice cubes and stir until cold
+      garnish:
+        - lemon twist
+      straw: false
+      citations:
+        - title: 'Death & Co: Modern Classic Cocktails'
+          author:
+            - David Kaplan
+            - Nick Fauchald
+            - Alex Day
+          date: 2014-10-07
+          publisher: Ten Speed Press
+          page: 253
+      notes:
+        - appleton was acceptable, good low abv
+        - may do better with real st-germain not st-elder
+

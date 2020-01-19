@@ -1,0 +1,44 @@
+---
+- name: Tiki Tak
+  status: yellow
+  origin:
+    creator: Andrew Porteus
+    venue: Montana's Trail House
+    location: Brooklyn NY
+  spec:
+    - name: original
+      glassware: stemless wine
+      ingredients:
+        - name: Lo-Fi dry vermouth
+          quantity: 1
+          unit: oz
+        - name: pineapple juice
+          quantity: 1
+          unit: oz
+        - name: lime juice
+          quantity: .5
+          unit: oz
+        - name: giffard banana liqueur
+          quantity: .25
+          unit: oz
+        - name: velvet falernum
+          quantity: .25
+          unit: oz
+        - name: peychauds bitters
+          quantity: 2
+          unit: dash
+      instructions:
+        - shake all ingredients with ice then roll into a stemless wine glass
+        - top with crushed ice
+      garnish:
+        - umbrella-skewered cherry
+        - lime wedge
+      straw: false
+      citations:
+        - title: Tiki Tak Cocktail Recipe
+          author: PUNCH
+          href: https://punchdrink.com/recipes/tiki-tak/
+  notes:
+    - one
+  tags:
+    - lowabv

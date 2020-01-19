@@ -1,0 +1,25 @@
+---
+- name: French 95
+  status: red
+  origin:
+  spec:
+    - name: original
+      glassware: fizz
+      ingredients:
+        - name: buffalo trace bourbon
+          quantity: 2
+          unit: oz
+        - name: lemon juice
+          quantity: .75
+          unit: oz
+        - name: cane sugar syrup
+          quantity: .5
+          unit: oz
+        - name: dry champagne
+      instructions:
+        - short shake all the ingredients (except the champagne) with 3 ice cubes, then strain into a fizz glass over 2 ice cubes
+        - top with champagne
+      straw: false
+      citations:
+        - title: Death & Co
+          page: 143

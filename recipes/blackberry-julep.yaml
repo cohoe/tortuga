@@ -1,0 +1,30 @@
+---
+- name: Blackberry Julep
+  status: red
+  origin:
+    creator: Dale DeGroff
+    venue: Blackbird Bar Restaurant
+    location: New York NY
+  spec:
+    - name: original
+      glassware: highball
+      ingredients:
+        - name: hendricks gin
+          quantity: 1.5
+          unit: oz
+        - name: lemon juice
+          quantity: 1
+          unit: oz
+        - name: marie brizard blackberry liqueur
+          quantity: 1
+          unit: oz
+      instructions:
+        - shake all ingredients with ice and strain into a highball glass
+        - stir until the glass begins to frost
+      garnish:
+        - tablespoon marinated mixed berries
+        - mint sprig
+      straw: false
+      citations:
+        - title: I'm Just Here for the Drinks
+          page: 38

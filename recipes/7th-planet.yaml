@@ -1,0 +1,29 @@
+---
+- name: 7th Planet
+  status: red
+  origin:
+    creator: Rick Dobbs
+  spec:
+    - name: original
+      glassware: UNKNOWN
+      ingredients:
+        - name: olmeca altos reposado tequila
+          quantity: 2
+          unit: oz
+        - name: giffard blue curacao
+          quantity: .5
+          unit: oz
+        - name: lime juice
+          quantity: 1
+          unit: oz
+        - name: prosecco
+      instructions:
+        - combine all ingredients except prosecco and shake with ice
+        - strain into an ice-filled highball
+        - top with prosecco
+      garnish:
+        - lime wheel
+      straw: false
+      citations:
+        - title: I'm Just Here for the Drinks
+          page: 167

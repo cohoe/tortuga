@@ -1,0 +1,44 @@
+---
+- name: Paddy Melt
+  status: yellow
+  origin:
+    creator: Joaquín Simó
+    venue: Death & Co
+    location: New York NY
+    year: 2011
+    story: >-
+      Guests who swear up and down that they hate whiskey will gulp down
+      four of these in an evening.
+  spec:
+    - name: original
+      glassware: fizz
+      ingredients:
+        - name: knappogue castle 12-year irish whiskey
+          quantity: 1.5
+          unit: oz
+        - name: chamomile-infused old overholt rye
+          quantity: .5
+          unit: oz
+        - name: amaro meletti
+          quantity: .5
+          unit: oz
+        - name: lemon juice
+          quantity: .75
+          unit: oz
+        - name: cane sugar syrup
+          quantity: .5
+          unit: oz
+      instructions:
+        - shake all the ingredients with ice, then strain into a fancy fizz glass
+      straw: false
+      citations:
+        - title: 'Death & Co: Modern Classic Cocktails'
+          author:
+            - David Kaplan
+            - Nick Fauchald
+            - Alex Day
+          date: 2014-10-07
+          publisher: Ten Speed Press
+      notes:
+        - accidently did with bourbon once, it was ok but didnt have the right balance
+        - been doing with rittenhouse 100 but i wonder if there are some more-herbal-less-spicy ryes out there

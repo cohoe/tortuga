@@ -1,0 +1,32 @@
+---
+- name: European Union
+  status: red
+  origin:
+    creator: Alex Day
+    venue: Death & Co
+    location: New York NY
+  spec:
+    - name: original
+      glassware: coupe
+      ingredients:
+        - name: haymans old tom gin
+          quantity: 1.5
+          unit: oz
+        - name: martini sweet vermouth
+          quantity: 1
+          unit: oz
+        - name: busnel VSOP calvados
+          quantity: .5
+          unit: oz
+        - name: strega
+          quantity: 1
+          unit: tsp
+        - name: bitter truth aromatic bitters
+          quantity: 1
+          unit: dash
+      instructions:
+        - stir all the ingredients over ice, then strain into a coupe
+      straw: false
+      citations:
+        - title: Death & Co
+          page: 162

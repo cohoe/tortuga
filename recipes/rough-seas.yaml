@@ -1,0 +1,36 @@
+---
+- name: Rough Seas
+  status: red
+  origin:
+    creator: Sother Teague
+  spec:
+    - name: original
+      glassware: swizzle
+      ingredients:
+        - name: avua cachaça prata
+          quantity: 1
+          unit: oz
+        - name: jägermeister
+          quantity: 1
+          unit: oz
+        - name: lemon juice
+          quantity: .75
+          unit: oz
+        - name: orgeat
+          quantity: .75
+          unit: oz
+        - name: ginger syrup
+          quantity: .75
+          unit: oz
+        - name: peychauds bitters
+      instructions:
+        - whip shake with a few pebbles
+        - pour over fresh pebble ice in a swizzle glass
+        - mound more ice on top like a snow cone and paint with peychauds
+      straw: false
+      citations:
+        - title: I'm Just Here for the Drinks
+          author: Sother Teague
+          date: 2018
+          publisher: Media Lab Books
+          page: 217

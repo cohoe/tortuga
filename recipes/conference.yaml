@@ -1,0 +1,41 @@
+---
+- name: Conference
+  status: green
+  origin:
+    creator: Brian Miller
+    venue: Death & Co
+    location: New York NY
+  spec:
+    - name: original
+      glassware: rocks
+      ingredients:
+        - name: rittenhouse 100 rye
+          quantity: .5
+          unit: oz
+        - name: buffalo trace bourbon
+          quantity: .5
+          unit: oz
+        - name: calvados
+          quantity: .5
+          unit: oz
+        - name: hine h cognac
+          quantity: .5
+          unit: oz
+        - name: demerara syrup
+          quantity: 1
+          unit: tsp
+        - name: angostura bitters
+          quantity: 2
+          unit: dash
+        - name: bittermens xocolatl mole bitters
+          quantity: 1
+          unit: dash
+      instructions:
+        - stir all the ingredients over ice, then strain into a double rocks glass over 1 large ice cube
+      garnish:
+        - lemon twist
+        - orange twist
+      straw: false
+      citations:
+        - title: Death & Co
+          page: 137

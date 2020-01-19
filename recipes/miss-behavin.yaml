@@ -1,0 +1,39 @@
+---
+- name: Miss Behavin'
+  status: yellow
+  origin:
+    creator: Brian Miller
+    venue: Death & Co
+    location: New York NY
+    year: 2008
+  spec:
+    - name: original
+      glassware: flute
+      ingredients:
+        - name: clear creek pear brandy
+          quantity: .75
+          unit: oz
+        - name: lairds bonded apple brandy
+          quantity: .75
+          unit: oz
+        - name: lemon juice
+          quantity: .75
+          unit: oz
+        - name: simple syrup
+          quantity: 1
+          unit: oz
+        - name: dry champagne
+      instructions:
+        - stir all the ingredients (except the champagne) over ice, then strain into a flute
+        - top with champagne
+      garnish:
+        - anjou pear slice
+      straw: false
+      citations:
+        - title: 'Death & Co: Modern Classic Cocktails'
+          author:
+            - David Kaplan
+            - Nick Fauchald
+            - Alex Day
+          date: 2014-10-07
+          publisher: Ten Speed Press

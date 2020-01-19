@@ -1,0 +1,36 @@
+---
+- name: Ingénue
+  status: red
+  origin:
+    creator: Brian Miller
+    venue: Death & Co
+    location: New York NY
+    year: 2009
+    story: >-
+      The name came to me first, then the drink followed: a cognc-based
+      Manhattan variation with a nod to tiki.
+  spec:
+    - name: original
+      glassware: coupe
+      ingredients:
+        - name: pierre ferrand ambre cognac
+          quantity: 2
+          unit: oz
+        - name: dolin rouge vermouth
+          quantity: 1
+          unit: oz
+        - name: cinnamon bark syrup
+          quantity: 1
+          unit: tsp
+      instructions:
+        - stir all the ingredients over ice, then strain into a coupe
+      straw: false
+      citations:
+        - title: 'Death & Co: Modern Classic Cocktails'
+          author:
+            - David Kaplan
+            - Nick Fauchald
+            - Alex Day
+          date: 2014-10-07
+          publisher: Ten Speed Press
+          page: 267

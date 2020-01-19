@@ -1,0 +1,29 @@
+---
+- name: Maple Bourbon Sour
+  status: green
+  origin:
+    creator: Laura Bailey
+  spec:
+    - name: original
+      glassware: rocks
+      ingredients:
+        - name: bourbon
+          quantity: 2
+          unit: oz
+        - name: lemon juice
+          quantity: 1.5
+          unit: oz
+        - name: maple syrup
+          quantity: .75
+          unit: oz
+      instructions:
+        - shake all ingredients over ice then strain into a rocks glass over a large ice ball
+      garnish:
+        - lemon wedge
+      straw: false
+  citations:
+    - title: "Between the Sheets: Laura's Maple Bourbon Sour"
+      author: Critical Role
+      href: https://www.youtube.com/watch?v=oC-tvSnpRrM
+  notes:
+    - on paper the lemon juice seems high, need to try it out and perhaps refactor

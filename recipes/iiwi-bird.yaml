@@ -1,0 +1,35 @@
+---
+- name: ‘I‘iwi Bird
+  status: red
+  origin:
+    creator: Jenna Rycroft
+    venue: Bar Mezzana
+    location: Boston MA
+  spec:
+    - name: original
+      glassware: coupe
+      ingredients:
+        - name: privateer tiki gin
+          quantity: 2
+          unit: oz
+        - name: aperol
+          quantity: .5
+          unit: oz
+        - name: passion fruit syrup
+          quantity: .5
+          unit: oz
+        - name: lime juice
+          quantity: .5
+          unit: oz
+      instructions:
+        - shake all ingredients with ice and strain into a coupe
+      straw: false
+      citations:
+        - title: "Crafting Cocktails: Jenna Rycroft's 'I'iwi Bird"
+          publisher: Bevspot
+          date: 2017-05-23
+          href: https://www.bevspot.com/blog/2017/05/23/crafting-cocktails-jenna-rycroft-iiwi-bird/
+  tags:
+    - boston
+  notes:
+    - had this at shore leave with alex, did not write down notes other than citadelle gin

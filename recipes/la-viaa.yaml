@@ -1,0 +1,39 @@
+---
+- name: La Viáa
+  status: yellow
+  origin:
+    creator: Alex Day
+    venue: Death & Co
+    location: New York NY
+    year: 2009
+    story: >-
+      For this, my first foray into lower-alcohol cocktails, I used two
+      of my pet ingredients: sherry and Amaro Nonino. It tastes similar
+      to a Manhattan but much lighter.
+  spec:
+    - name: original
+      glassware: coupe
+      ingredients:
+        - name: russell's reserve rye whiskey
+          quantity: 1
+          unit: oz
+        - name: amaro nonino
+          quantity: 1
+          unit: oz
+        - name: lustau east india solera sherry
+          quantity: 1
+          unit: oz
+        - name: regans orange bitters
+          quantity: 1
+          unit: dash
+      instructions:
+        - Stir all the ingredients over ice, then strain into a coupe
+      citations:
+        - title: 'Death & Co: Modern Classic Cocktails'
+          author:
+            - David Kaplan
+            - Nick Fauchald
+            - Alex Day
+          date: 2014-10-07
+          publisher: Ten Speed Press
+          href: http://www.upneat.rocks/recipes/la-viaa

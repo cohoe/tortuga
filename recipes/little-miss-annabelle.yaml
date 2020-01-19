@@ -1,0 +1,46 @@
+---
+- name: Little Miss Annabelle
+  status: yellow
+  origin:
+    creator: Joaquín Simó
+    venue: Death & Co
+    location: New York NY
+    year: 2009
+    story: >-
+      I named this variation on the Sidecar after the daughter of Alexandre Gabriel,
+      who owns Pierre Ferrand. It has a rich mouthfeel for such a small amount of
+      sweetener.
+  spec:
+    - name: original
+      glassware: coupe
+      ingredients:
+        - name: pierre ferrand ambre cognac
+          quantity: 2
+          unit: oz
+        - name: mathilde poire pear liqueur
+          quantity: .25
+          unit: oz
+        - name: bénédictine
+          quantity: .25
+          unit: oz
+        - name: lemon juice
+          quantity: .75
+          unit: oz
+        - name: cane sugar syrup
+          quantity: .25
+          unit: oz
+        - name: house peychaud's bitters
+          quantity: 1
+          unit: dash
+      instructions:
+        - shake all the ingredients with ice, then strain into a coupe
+      straw: false
+      citations:
+        - title: 'Death & Co: Modern Classic Cocktails'
+          author:
+            - David Kaplan
+            - Nick Fauchald
+            - Alex Day
+          date: 2014-10-07
+          publisher: Ten Speed Press
+          page: 213

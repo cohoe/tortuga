@@ -1,0 +1,37 @@
+---
+- name: Diki-Diki
+  status: green
+  origin:
+    creator: Robert Vermiere
+    venue: Embassy Club
+    location: London
+    year: 1922
+  spec:
+    - name: original
+      glassware: coupe
+      ingredients:
+        - name: calvados
+          quantity: 2
+          unit: oz
+        - name: swedish punsch
+          quantity: 1
+          unit: oz
+        - name: grapefruit juice
+          quantity: 1
+          unit: oz
+      instructions:
+        - shake all ingredients with ice and strain into a chilled coupe glass
+      straw: false
+      citations:
+        - title: Difford's Guide
+          href: https://www.diffordsguide.com/cocktails/recipe/2628/diki-diki
+        - title: Martin's Index of Cocktails
+          href: https://mixologytech.com/martinsindex/index.html
+        - title: Cold glass
+          href: https://cold-glass.com/2012/08/26/is-that-your-real-name-the-diki-diki-cocktail/
+      notes:
+        - newer recipes call for 4:1:1 ratio
+        - 4:1:1 everything else gets lost, maybe 2:.75:.5 would amplify things a bit
+        - 2:.75:5 still a bit too apple forward, bit watery
+        - this could use a workshop
+        - suggested to do lairds straight apple brandy instead

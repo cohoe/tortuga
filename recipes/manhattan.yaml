@@ -1,0 +1,50 @@
+---
+- name: Manhattan
+  status: green
+  origin:
+  spec:
+    - name: Death & Co
+      glassware: coupe
+      ingredients:
+        - name: rittenhouse 100 rye
+          quantity: 2.5
+          unit: oz
+        - name: house sweet vermouth
+          quantity: .75
+          unit: oz
+        - name: angostura bitters
+          quantity: 2
+          unit: dash
+      instructions:
+        - stir all the ingredients over ice, then strain into a coupe
+      garnish:
+        - 1 brandied cherry
+      straw: false
+      citations:
+        - title: 'Death & Co: Modern Classic Cocktails'
+          author:
+            - David Kaplan
+            - Nick Fauchald
+            - Alex Day
+          date: 2014-10-07
+          publisher: Ten Speed Press
+      notes:
+        - house sweet vermouth is equal parts dolin rouge and punt e mes
+    - name: original
+      glassware: rocks
+      ingredients:
+        - name: rye whiskey
+          quantity: 2
+          unit: oz
+        - name: sweet vermouth
+          quantity: .5
+          unit: oz
+        - name: angostura bitters
+          quantity: 1
+          unit: dash
+      instructions:
+        - stir all the ingredients over ice, then strain into a chilled rocks glass
+      garnish:
+        - maraschino cherry
+      straw: false
+      citations:

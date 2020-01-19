@@ -1,0 +1,38 @@
+---
+- name: Session Margarita
+  status: red
+  origin:
+  spec:
+    - name: original
+      glassware: rocks
+      ingredients:
+        - name: manzanilla sherry
+          quantity: 1.5
+          unit: oz
+        - name: tequila
+          quantity: .75
+          unit: oz
+        - name: combier orange
+          quantity: .75
+          unit: oz
+        - name: lime juice
+          quantity: .75
+          unit: oz
+        - name: agave syrup
+          quantity: 1
+          unit: barspoon
+        - name: salt
+          quantity: 1
+          unit: pinch
+      instructions:
+        - put all the ingredients in a shaking tin then add ice and shake until chilled
+        - strain into a rocks glass filled with ice
+      garnish:
+        - lime wheel
+      straw: false
+      citations:
+        - title: Punch
+          href: https://punchdrink.com/recipes/session-margarita/
+      notes:
+        - mezcal could be used in place of tequila
+        - made with an aging bottle of amontillado sherry, may have contributed to negative outlook

@@ -1,0 +1,48 @@
+---
+- name: Fairbanks Loan No. 2
+  status: yellow
+  origin:
+    creator: Brian Kane
+    venue: The International
+    location: Philadelphia PA
+    story: >-
+      This loose interpretation of the Douglas Fairbanks, a Prohibition-era
+      cocktail poured at Sloppy Joe’s in Havana, is "reminiscent of a
+      Daiquiri on steroids," says Brian Kane. Originally made with gin,
+      apricot brandy and egg white, the drink is named after the influential
+      silent film actor who became one of Hollywood’s earliest megastars.
+  spec:
+    - name: original
+      glassware: coupe
+      ingredients:
+        - name: beefeater gin
+          quantity: .75
+          unit: oz
+        - name: plantation pineapple rum
+          quantity: .75
+          unit: oz
+        - name: lilletperitif
+          quantity: .5
+          unit: oz
+        - name: honey syrup
+          quantity: .25
+          unit: oz
+        - name: lemon juice
+          quantity: .25
+          unit: oz
+        - name: lime juice
+          quantity: .25
+          unit: oz
+      instructions:
+        - combine all ingredients in a mixing tin and shake with ice
+        - strain into a chilled coupe or cocktail glass
+      garnish:
+        - lemon twist
+      straw: false
+      citations:
+        - title: Fairbanks Loan No. 2 Cocktail
+          author: PUNCH
+          href: https://punchdrink.com/recipes/fairbanks-loan-2/
+      notes:
+        - honey syrup should be 1:1 honey:water
+        - lilletperitif is 4:2:1 lillet:cynar:campari

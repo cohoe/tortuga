@@ -1,0 +1,33 @@
+---
+- name: Upper Crust
+  status: red
+  origin:
+  spec:
+    - name: original
+      glassware: coupe
+      ingredients:
+        - name: cognac
+          quantity: 1
+          unit: oz
+        - name: old tom gin
+          quantity: .5
+          unit: oz
+        - name: maraschino liqueur
+          quantity: .25
+          unit: oz
+        - name: lemon juice
+          quantity: .75
+          unit: oz
+        - name: orgeat
+          quantity: .5
+          unit: oz
+      instructions:
+        - shake all ingredients and strain into a sugar-rimmed nick-and-nora or coupe glass
+      garnish:
+        - wide and long lemon twist
+      straw: false
+      citations:
+        - title: I'm Just Here for the Drinks
+          page: 236
+      notes:
+        - an ok drink, feels like too high on the lemon at .75oz

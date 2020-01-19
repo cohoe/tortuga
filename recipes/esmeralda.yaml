@@ -1,0 +1,39 @@
+---
+- name: Esmeralda
+  status: red
+  origin:
+    creator: Ben Sandrof
+    venue: Drink
+    location: Boston MA
+  spec:
+    - name: original
+      glassware: coupe
+      ingredients:
+        - name: isaura ouro 3 year cachaça
+          quantity: 1.5
+          unit: oz
+        - name: st-germain
+          quantity: .5
+          unit: oz
+        - name: lime juice
+          quantity: .5
+          unit: oz
+        - name: simple syrup
+          quantity: .5
+          unit: oz
+        - name: caol ila 12 year scotch
+          unit: rinse
+      instructions:
+        - shake all ingredients except the scotch with ice
+        - strain into a coupe glass rinsed with scotch
+      straw: false
+      citations:
+        - title: Cocktail Virgin Slut
+          href: http://cocktailvirgin.blogspot.com/2010/02/esmeralda.html
+        - title: Difford's Guide
+          href: https://www.diffordsguide.com/cocktails/recipe/3514/esmeralda-cocktail
+      notes:
+        - the Diffords spec is way to smokey, likey because it uses a pour rather than a rinse
+        - the blog claims to have the recipe from the creator via text
+        - 2:1 cane syrup rather than simple could be better
+        - aged vs unaged cachaca could play a role in this

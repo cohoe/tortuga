@@ -1,0 +1,37 @@
+---
+- name: Rum Negroni
+  status: green
+  origin:
+    creator: Sother Teague
+    venue: Amor y Amargo
+    location: New York NY
+  spec:
+    - name: original
+      glassware: rocks
+      ingredients:
+        - name: aged rum
+          quantity: 2
+          unit: oz
+        - name: sweet vermouth
+          quantity: 1
+          unit: oz
+        - name: amaro meletti
+          quantity: 1
+          unit: oz
+        - name: angostura bitters
+          quantity: 1.5
+          unit: dash
+      instructions:
+        - build all ingredients in a rocks glass
+        - add one large format ice cube
+        - stir to combine
+      garnish:
+        - orange twist
+      straw: false
+      citations:
+        - title: I'm Just Here for the Drinks
+          page: 201
+        - title: I'm Just Here for the Drinks
+          page: 37
+      notes:
+        - I add a dash or two of orange bitters if not doing the orange twist

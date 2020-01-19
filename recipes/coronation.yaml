@@ -1,0 +1,42 @@
+---
+- name: Coronation
+  status: red
+  origin:
+    creator:
+    venue:
+    location:
+    year:
+    story:
+  spec:
+    - name: original
+      origin:
+        creator:
+        venue:
+        location:
+        year:
+      glassware: martini
+      ingredients:
+        - name: manzanilla sherry
+          quantity: 2
+          unit: oz
+        - name: dry vermouth
+          quantity: .75
+          unit: oz
+        - name: maraschino liqueur
+          quantity: .25
+          unit: oz
+        - name: orange bitters
+          quantity: 2
+          unit: dash
+      instructions:
+        - add all ingredients to a mixing glass
+        - add ice and stir for about 30 seconds
+        - serve up
+      garnish:
+        - lemon twist
+      straw: false
+      citations:
+        - title: Sherry Cocktails Class
+  notes:
+    - from the sherry class at Rebel Rebel
+    - was ok, not my favorite of the two

@@ -1,0 +1,32 @@
+---
+- name: Merci
+  status: green
+  origin:
+    creator: Brian
+    venue: Northside Speakeasy
+    location: Akron OH
+    story: >-
+      Named for something an Italian mob boss would say.
+  spec:
+    - name: original
+      glassware: coupe
+      ingredients:
+        - name: yellow chartreuse
+          quantity: .75
+          unit: oz
+        - name: aperol
+          quantity: .75
+          unit: oz
+        - name: domaine de canton
+          quantity: .75
+          unit: oz
+        - name: cardamaro
+          quantity: .75
+          unit: oz
+      instructions:
+        - stir all ingredients over ice and strain into a chilled coupe glass
+      straw: false
+      citations:
+        - title: Direct
+  notes:
+    - pronounced with mandarine tones 3-1

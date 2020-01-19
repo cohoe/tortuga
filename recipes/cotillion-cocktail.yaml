@@ -1,0 +1,43 @@
+---
+- name: Cotillion Cocktail
+  status: red
+  origin:
+    creator: Scott Kennedy
+    venue: Cafe Cancale
+    location: Chicago IL
+    story: >-
+      The vibrant flavors of orange and lemon juice balance out the warm
+      vanilla and oak notes of aged spirits in this southern favorite.
+      At Café Cancale in Chicago, Scott Kennedy uses dry curaçao instead
+      of triple sec.
+  spec:
+    - name: original
+      glassware: coupe
+      ingredients:
+        - name: old forester 86-proof bourbon
+          quantity: 1
+          unit: oz
+        - name: angostura 5-year rum
+          quantity: .75
+          unit: oz
+        - name: dry curaçao
+          quantity: .5
+          unit: oz
+        - name: lemon juice
+          quantity: .75
+          unit: oz
+        - name: orange juice
+          quantity: .5
+          unit: oz
+      instructions:
+        - combine all the ingredients in a shaker with ice, then shake to chill
+        - double strain into a chilled glass
+      garnish:
+        - flamed orange peel
+      straw: false
+  citations:
+    - title: Cotillion Cocktail
+      author: Imbibe
+      date: 2019-09-03
+      publisher: Imbibe Magazine
+      href: https://imbibemagazine.com/cotillion-cocktail/

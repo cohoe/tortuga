@@ -1,0 +1,51 @@
+---
+- name: Fish House Punch
+  status: yellow
+  origin:
+    creator:
+    venue:
+    location:
+    year:
+    story:
+  spec:
+    - name: original
+      origin:
+        creator:
+        venue:
+        location:
+        year:
+      glassware: snifter
+      ingredients:
+        - name: sugar cubes
+          quantity: 4
+        - name: club soda
+          quantity: 2
+          unit: oz
+        - name: lemon juice
+          quantity: 1
+          unit: oz
+        - name: hine h cognac
+          quantity: 1
+          unit: oz
+        - name: appleton v/x rum
+          quantity: 1
+          unit: oz
+        - name: massenez crème de pêche peach liqueur
+          quantity: .5
+          unit: oz
+      instructions:
+        - in a mixing glass, muddle the sugar cubes with 1 ounce of the club soda until the sugar is broken up
+        - add the remaining ingredients (except the remaining club soda) and stir over ice until cold, then strain into a brandy snifter over 1 large cube
+        - top with the remaining 1 ounce club soda
+      garnish:
+        - peach slices
+      straw: false
+      citations:
+        - title: 'Death & Co: Modern Classic Cocktails'
+          author:
+            - David Kaplan
+            - Nick Fauchald
+            - Alex Day
+          date: 2014-10-07
+          publisher: Ten Speed Press
+          page: 0

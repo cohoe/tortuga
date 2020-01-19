@@ -1,0 +1,41 @@
+---
+- name: Jack Sparrow Flip
+  status: red
+  origin:
+    creator: Brian Miller
+    venue: Death & Co
+    location: New York NY
+    year: 2008
+  spec:
+    - name: original
+      glassware: fizz
+      ingredients:
+        - name: flor de caña
+          quantity: 2
+          unit: oz
+        - name: sandeman rainwater madeira
+          quantity: .75
+          unit: oz
+        - name: demerara syrup
+          quantity: .75
+          unit: oz
+        - name: egg
+          quantity: 1
+        - name: fee brothers whiskey barrel-aged bitters
+          quantity: 2
+          unit: dash
+      instructions:
+        - dry shake all the ingredients, then add 3 ice cubes and shake again
+        - double strain into a fancy fizz glass
+      garnish:
+        - cinnamon
+      straw: false
+      citations:
+        - title: 'Death & Co: Modern Classic Cocktails'
+          author:
+            - David Kaplan
+            - Nick Fauchald
+            - Alex Day
+          date: 2014-10-07
+          publisher: Ten Speed Press
+          page: 245

@@ -1,0 +1,40 @@
+---
+- name: 18th Century
+  status: green
+  origin:
+    creator: Phil ward
+    venue: Death & Co
+    location: New York NY
+  spec:
+    - name: original
+      glassware: coupe
+      ingredients:
+        - name: van oosten batavia arrack
+          quantity: 1.5
+          unit: oz
+        - name: marie brizard white creme de cacao
+          quantity: .75
+          unit: oz
+        - name: carpano antica formula vermouth
+          quantity: .75
+          unit: oz
+        - name: lime juice
+          quantity: .75
+          unit: oz
+      instructions:
+        - shake all ingredients with ice, then strain into a coupe
+      garnish:
+      straw: false
+      citations:
+        - title: 'Death & Co: Modern Classic Cocktails'
+          author:
+            - David Kaplan
+            - Nick Fauchald
+            - Alex Day
+          date: 2014-10-07
+          publisher: Ten Speed Press
+          location: Berkeley
+          page: 170
+      notes:
+        - very unusual flavor likely due to the arrack
+        - shaken and vermouth

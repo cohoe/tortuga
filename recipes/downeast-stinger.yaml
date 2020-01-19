@@ -1,0 +1,29 @@
+---
+- name: Downeast Stinger
+  status: green
+  origin:
+    venue: Charlie's Kitchen
+    location: Cambridge MA
+  spec:
+    - name: original
+      glassware: pint
+      ingredients:
+        - name: amaretto
+          quantity: 1
+          unit: oz
+        - name: goslings black seal rum
+          quantity: 1
+          unit: oz
+        - name: pineapple juice
+          quantity: 1
+          unit: oz
+        - name: downeast original unfiltered hard cider
+          quantity: 4
+          unit: oz
+      instructions:
+        - build in a pint glass over ice cubes
+      garnish:
+        - maraschino cherry
+        - lemon wedge
+      straw: false
+      citations:

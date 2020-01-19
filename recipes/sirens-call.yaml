@@ -1,0 +1,34 @@
+---
+- name: Siren's Call
+  status: red
+  origin:
+    venue: Blueprint
+    location: Brooklyn NY
+  spec:
+    - name: original
+      glassware: rocks
+      ingredients:
+        - name: clement rhum
+          quantity: 1
+          unit: oz
+        - name: banks 5 island rum
+          quantity: 1
+          unit: oz
+        - name: lime juice
+          quantity: 1
+          unit: oz
+        - name: apricot syrup
+          quantity: .5
+          unit: oz
+        - name: cinnamon syrup
+          quantity: .25
+          unit: oz
+      instructions:
+        - shake all ingredients with ice then strain into a rocks glass over one large ice cube
+      garnish:
+        - spritz of absinthe
+      straw: false
+      citations:
+        - title: Direct
+          author: Grant Cohoe
+          date: 2019

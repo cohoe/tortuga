@@ -1,0 +1,39 @@
+---
+- name: Smokey Old Fashioned
+  status: yellow
+  origin:
+    creator: Elliott Clark
+  spec:
+    - name: original
+      glassware: rocks
+      ingredients:
+        - name: mezcal
+          quantity: 1
+          unit: oz
+        - name: dark rum
+          quantity: 1
+          unit: oz
+        - name: drambuie
+          quantity: .25
+          unit: oz
+        - name: demerara syrup
+          quantity: .25
+          unit: oz
+        - name: angostura bitters
+          quantity: 1
+          unit: dash
+        - name: orange bitters
+          quantity: 1
+          unit: dash
+      instructions:
+        - combine all ingredients into a mixing glass with ice and stir to chill
+        - strain the cocktail into a rocks glass over ice
+      garnish:
+        - orange peel
+      straw: false
+      citations:
+        - title: How to Upgrade an Old Fashioned with Mezcal and Rum
+          author: Elliott Clark
+          publisher: Esquire
+          date: 2018-09-07
+          href: https://www.esquire.com/food-drink/drinks/a23023411/best-mezcal-rum-old-fashioned-cocktail-recipe/

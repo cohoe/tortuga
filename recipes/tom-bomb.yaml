@@ -1,0 +1,44 @@
+---
+- name: Tom Bomb
+  status: yellow
+  origin:
+    creator: Jillian Vose
+    venue: Death & Co
+    location: New York NY
+    year: 2011
+    story: >-
+      This was my first Death & Co drink. It uses the popular tiki flavor
+      combination of pineapple, lemon, and spice, the latter in Donn's Spices #2.
+  spec:
+    - name: original
+      glassware: coupe
+      ingredients:
+        - name: ransom old tom gin
+          quantity: 1.5
+          unit: oz
+        - name: donn's spices #2
+          quantity: .25
+          unit: oz
+        - name: lemon juice
+          quantity: .5
+          unit: oz
+        - name: pineapple juice
+          quantity: .5
+          unit: oz
+        - name: orgeat
+          quantity: .25
+          unit: oz
+        - name: acacia honey syrup
+          quantity: .25
+          unit: oz
+      instructions:
+        - shake all the ingredients with ice, then strain into a coupe
+      straw: false
+      citations:
+        - title: 'Death & Co: Modern Classic Cocktails'
+          author:
+            - David Kaplan
+            - Nick Fauchald
+            - Alex Day
+          date: 2014-10-07
+          publisher: Ten Speed Press

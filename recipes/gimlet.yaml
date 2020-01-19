@@ -1,0 +1,50 @@
+---
+- name: Gimlet
+  status: green
+  spec:
+    - name: Clover Club
+      origin:
+        creator: Tom Macy
+        venue: Clover Club
+        location: Brooklyn NY
+      glassware: coupe
+      ingredients:
+        - name: tanqueray gin
+          quantity: 2
+          unit: oz
+        - name: simple syrup
+          quantity: .75
+          unit: oz
+        - name: lime juice
+          quantity: .5
+          unit: oz
+      instructions:
+        - muddle two lime wedges in the syrup and add to a shaker with the rest of the ingredients including juice
+        - shake with ice and fine-strain into a glass
+      straw: false
+    - name: Frenchette
+      origin:
+        creator: Sarah Morrissey
+        venue: Frenchette
+        location: New York NY
+      glassware: coupe
+      ingredients:
+        - name: tanqueray gin
+          quantity: 2
+          unit: oz
+        - name: 1.5:1 simple syrup
+          quantity: .75
+          unit: oz
+        - name: lime juice
+          quantity: 1
+          unit: oz
+      instructions:
+        - shake with ice and strain into a glass
+      straw: false
+      notes:
+        - lime juice should be fine-strained
+  citations:
+    - title: In Search of the Ultimate Gimlet
+      author: Robert Simonson
+      date: 2018-07-19
+      href: https://punchdrink.com/articles/best-gin-gimlet-cocktail-recipe/

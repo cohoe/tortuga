@@ -1,0 +1,52 @@
+---
+- name: Refreshing & Lively
+  recipes:
+    - champs-elysees
+    - esmeralda
+    - paddy-melt
+    - petticoat
+    - queen-christina
+    - sour-reverend
+    - tommys-margarita
+- name: Complex & Fascinating
+  recipes:
+    - applejack-rabbit
+    - downeast-stinger
+    - flor-de-jerez
+    - framboise-fizz
+    - paper-plane
+    - standbys-corn-n-oil
+    - state-park-mai-tai
+- name: Bitter & Bold
+  recipes:
+    - coral-reef
+    - golden-handcuffs
+    - legend
+    - rum-negroni
+    - south-sider
+- name: Strong & Boozey
+  recipes:
+    - conference
+    - freehand-old-fashioned
+    - how-do-i-compare
+    - oaxaca-old-fashioned
+    - martinez
+- name: Classic & Timeless
+  recipes:
+    - daiquiri
+    - gin-and-tonic
+    - manhattan
+    - margarita
+    - martini
+    - negroni
+    - old-fashioned
+- name: Iconic & Quintessential
+  recipes:
+    - boulevardier
+    - caipirinha
+    - french-75
+    - gimlet
+    - kir-royale
+    - moscow-mule
+    - sidecar
+    - ti-punch

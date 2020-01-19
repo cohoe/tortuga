@@ -1,0 +1,34 @@
+---
+- name: Petticoat
+  status: yellow
+  origin:
+    creator: Jessica Gonzalez
+    venue: Death & Co
+    location: New York NY
+    year: 2009
+  spec:
+    - name: original
+      glassware: coupe
+      ingredients:
+        - name: szechuan peppercorn-infused plymouth gin
+          quantity: 2
+          unit: oz
+        - name: velvet falernum
+          quantity: .25
+          unit: oz
+        - name: marie brizard apricot liqueur
+          quantity: .25
+          unit: oz
+        - name: lime juice
+          quantity: .75
+          unit: oz
+        - name: cane syrup
+          quantity: .25
+          unit: oz
+      instructions:
+        - shake all the ingredients with ice, then strain into a coupe
+      straw: false
+      citations:
+        - title: Death & Co
+      notes:
+        - might be able to get away without the sichuan gin, though it does sound interesting

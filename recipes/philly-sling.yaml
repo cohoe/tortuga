@@ -1,0 +1,35 @@
+---
+- name: Philly Sling
+  status: red
+  origin:
+    creator: Derek Brown
+    venue: Columbia Room
+    location: New York NY
+  spec:
+    - name: original
+      glassware: coupe
+      ingredients:
+        - name: calvados
+          quantity: 1.5
+          unit: oz
+        - name: plymouth sloe gin
+          quantity: 1
+          unit: oz
+        - name: lemon juice
+          quantity: .5
+          unit: oz
+        - name: simple syrup
+          quantity: .25
+          unit: oz
+        - name: fee brothers whiskey barrel-aged bitters
+          quantity: 1
+          unit: dash
+      instructions:
+        - shake all ingredients with ice
+        - strain into a chilled coupe or nick-and-nora glass
+      garnish:
+        - apple chip
+      straw: false
+      citations:
+        - title: I'm Just Here for the Drinks
+          page: 139

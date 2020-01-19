@@ -1,0 +1,40 @@
+---
+- name: Lilywhacker
+  status: yellow
+  origin:
+    creator: Phil Ward
+    venue: Death & Co
+    location: New York NY
+    year: 2008
+  spec:
+    - name: original
+      glassware: coupe
+      ingredients:
+        - name: laird's bonded apple brandy
+          quantity: 2
+          unit: oz
+        - name: carpano antica formula vermouth
+          quantity: .75
+          unit: oz
+        - name: cointreau
+          quantity: .5
+          unit: oz
+        - name: bittermens xocolatl mole bitters
+          quantity: 1
+          unit: dash
+      instructions:
+        - stir all the ingredients over ice, then strain into a coupe
+      straw: false
+      citations:
+        - title: 'Death & Co: Modern Classic Cocktails'
+          author:
+            - David Kaplan
+            - Nick Fauchald
+            - Alex Day
+          date: 2014-10-07
+          publisher: Ten Speed Press
+          page: 218
+      notes:
+        - much improved when served over ice cube
+        - good fall flavors of apple and spice with a hint of orange (basically its components)
+        - not sure it really stands out

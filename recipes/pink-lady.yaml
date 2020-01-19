@@ -1,0 +1,34 @@
+---
+- name: Pink Lady
+  status: red
+  origin:
+  spec:
+    - name: original
+      glassware: UNKNOWN
+      ingredients:
+        - name: plymouth gin
+          quantity: 1.5
+          unit: oz
+        - name: laird's bonded apple brandy
+          quantity: .5
+          unit: oz
+        - name: lemon juice
+          quantity: .75
+          unit: oz
+        - name: simple syrup
+          quantity: .75
+          unit: oz
+        - name: grenadine
+          quantity: .25
+          unit: oz
+        - name: egg white
+          quantity: 1
+      instructions:
+        - dry shake all the ingredients, then shake again with ice
+        - double strain into a rocks glass over 1 large ice cube
+      garnish:
+        - 3 brandied cherries on a cocktail pick
+      straw: false
+      citations:
+        - title: Death & Co
+          page: 63

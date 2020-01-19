@@ -1,0 +1,42 @@
+---
+- name: Baldwin Rum & Sherry
+  status: yellow
+  origin:
+    venue: The Baldwin Bar at Sichuan Garden
+    location: Woburn MA
+    year: 2018
+    story: ->
+      I asked for something rum and sherry. This was pretty great. Although
+      in handing the spec to various bartenders they suggest changes, mostly
+      due to its quantity of Orgeat.
+  spec:
+    - name: original
+      glassware: rocks
+      ingredients:
+        - name: solera rum
+          quantity: 1.5
+          unit: oz
+        - name: orgeat
+          quantity: .75
+          unit: oz
+        - name: lemon juice
+          quantity: .5
+          unit: oz
+        - name: pineapple juice
+          quantity: .5
+          unit: oz
+        - name: pedro ximenez sherry
+          quantity: .25
+          unit: oz
+        - name: amontillado sherry
+          quantity: .25
+          unit: oz
+      instructions:
+        - shake all ingredients with ice and strain into a rocks glass over one large ice cube
+      garnish:
+        - nutmeg
+      straw: false
+      citations:
+        - title: Direct
+      notes:
+        - el dorado 12 and zacapa 23 were the originals used

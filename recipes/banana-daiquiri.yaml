@@ -1,0 +1,33 @@
+---
+- name: Banana Daiquiri
+  status: red
+  origin:
+    creator: Matt Belanger
+    venue: Death & Co
+    location: New York NY
+  spec:
+    - name: original
+      glassware: coupe
+      ingredients:
+        - name: giffard banane du bresil
+          quantity: .75
+          unit: oz
+        - name: Rum-Bar gold
+          quantity: 1.75
+          unit: oz
+        - name: Rum-Bar White Overproof
+          quantity: .25
+          unit: oz
+        - name: lime juice
+          quantity: .75
+          unit: oz
+        - name: simple syrup
+          quantity: .25
+          unit: oz
+      instructions:
+        - combine all ingredients in a shaker with ice
+        - shake vigorously and double strain into a coupe glass
+      straw: false
+      citations:
+        - title: Go Bananas - Giffard - Back Bar Project
+          href: https://backbarproject.com/portfolio/giffard/go-bananas/

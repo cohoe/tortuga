@@ -1,0 +1,35 @@
+---
+- name: Elder Fashion
+  status: green
+  origin:
+    creator: Phil Ward
+    venue: Death & Co
+    location: New York NY
+    year: 2007
+  spec:
+    - name: original
+      glassware: rocks
+      ingredients:
+        - name: plymouth gin
+          quantity: 2
+          unit: oz
+        - name: st-germain
+          quantity: .5
+          unit: oz
+        - name: house orange bitters
+          quantity: 2
+          unit: dash
+      instructions:
+        - stir all the ingredients over ice, then strain into a double rocks glass over 1 large ice cube
+      garnish:
+        - grapefruit twist
+      straw: false
+      citations:
+        - title: 'Death & Co: Modern Classic Cocktails'
+          author:
+            - David Kaplan
+            - Nick Fauchald
+            - Alex Day
+          date: 2014-10-07
+          publisher: Ten Speed Press
+          page: 270

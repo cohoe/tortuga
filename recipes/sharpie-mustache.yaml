@@ -1,0 +1,37 @@
+---
+- name: Sharpie Mustache
+  status: yellow
+  origin:
+    creator: Chris Elford
+    venue: Amor y Amargo
+    location: New York NY
+  spec:
+    - name: original
+      glassware: flask
+      ingredients:
+        - name: rittenhouse 100 rye
+          quantity: .75
+          unit: oz
+        - name: beefeater london dry gin
+          quantity: .75
+          unit: oz
+        - name: bonal gentiane quina
+          quantity: .75
+          unit: oz
+        - name: amaro meletti
+          quantity: .75
+          unit: oz
+        - name: bittermens elemakule tiki bitters
+          quantity: 2
+          unit: dash
+      instructions:
+        - stir with plenty of ice to chill and dilute
+      garnish:
+        - orange twist
+      straw: false
+      citations:
+        - title: I'm Just Here for the Drinks
+          author: Sother Teague
+          date: 2018
+          publisher: Media Lab Books
+          page: 219

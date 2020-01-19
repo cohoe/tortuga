@@ -1,0 +1,27 @@
+---
+- name: Sidecar
+  status: green
+  origin:
+    location: London
+    year: 1922
+  spec:
+    - name: original
+      glassware: coupe
+      ingredients:
+        - name: rémy martin VSOP cognac
+          quantity: 2
+          unit: oz
+        - name: lemon juice
+          quantity: .75
+          unit: oz
+        - name: cointreau
+          quantity: .5
+          unit: oz
+        - name: simple syrup
+          quantity: .25
+          unit: oz
+      instructions:
+        - shake with ice, then fine-strain into a chilled coupe
+      straw: false
+      citations:
+        - title: Meehan's Bartender Manual

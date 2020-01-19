@@ -1,0 +1,35 @@
+---
+- name: Standby's Corn n Oil
+  status: green
+  origin:
+    creator: Joe Robinson
+    venue: Standby
+    location: Detroit
+  spec:
+    - name: original
+      glassware: collins
+      ingredients:
+        - name: aged rum
+          quantity: 1
+          unit: oz
+        - name: falernum
+          quantity: 1.5
+          unit: oz
+        - name: lime juice
+          quantity: .75
+          unit: oz
+        - name: angostura bitters
+          quantity: 1
+          unit: oz
+        - name: blackstrap rum
+          quantity: 1
+          unit: oz
+      instructions:
+        - shake all ingredients except blackstrap rum and bitters, then strain into a collins glass
+        - add crushed ice and float the blackstrap rum and bitters
+      straw: true
+      citations:
+        - title: Imbibe
+          href: http://imbibemagazine.com/corn-n-oil/
+      notes:
+        - stir to combine before drinking

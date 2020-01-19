@@ -1,0 +1,28 @@
+---
+- name: Caipirinha
+  status: green
+  origin:
+    location: Brazil
+  spec:
+    - name: original
+      glassware: rocks
+      ingredients:
+        - name: cachaça
+          quantity: 2
+          unit: oz
+        - name: lime
+          quantity: .5
+        - name: demerara sugar
+          quantity: 2
+          unit: barspoon
+      instructions:
+        - muddle the lime and sugar, then add the Cachaça
+        - shake with ice and pour unstrained into a chilled rocks glass
+      straw: false
+      citations:
+        - title: PDT Cocktails
+          href: https://mixologytech.com/pdt/index.html
+        - title: Tropical Bar Book
+          date: 1989
+      notes:
+        - 2bs sugar or 2 cubes

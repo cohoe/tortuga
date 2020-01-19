@@ -1,0 +1,38 @@
+---
+- name: Adonis Spritz
+  status: red
+  origin:
+    creator: Carlo Caroscio
+    venue: Backbar
+    location: Somerville MA
+  spec:
+    - name: original
+      glassware: wine
+      ingredients:
+        - name: fino sherry
+          quantity: 1.5
+          unit: oz
+        - name: carpano antica sweet vermouth
+          quantity: 1.5
+          unit: oz
+        - name: orange bitters
+          quantity: 1
+          unit: dash
+        - name: angostura bitters
+          quantity: 1
+          unit: dash
+        - name: sparking wine
+          quantity: 3
+          unit: oz
+      instructions:
+        - add ice to a white or red wine glass
+        - add all ingredients and stir briefly
+      garnish:
+        - orange twist
+        - orange half wheel
+      straw: false
+      citations:
+        - title: Sherry Cocktails Class
+  notes:
+    - from the sherry class at Rebel Rebel
+  tags:

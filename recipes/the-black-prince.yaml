@@ -1,0 +1,36 @@
+---
+- name: The Black Prince
+  status: red
+  origin:
+    creator: Phil Ward
+    venue: Death & Co
+    location: New York NY
+    year: 2008
+  spec:
+    - name: original
+      glassware: coupe
+      ingredients:
+        - name: zacapa 23-year rum
+          quantity: 2
+          unit: oz
+        - name: punt e mes
+          quantity: .75
+          unit: oz
+        - name: amaro averna
+          quantity: .5
+          unit: oz
+        - name: house orange bitters
+          quantity: 1
+          unit: dash
+      instructions:
+        - stir all the ingredients over ice, then strain into a coupe
+      straw: false
+      citations:
+        - title: 'Death & Co: Modern Classic Cocktails'
+          author:
+            - David Kaplan
+            - Nick Fauchald
+            - Alex Day
+          date: 2014-10-07
+          publisher: Ten Speed Press
+          page: 267

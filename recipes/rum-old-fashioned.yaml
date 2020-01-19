@@ -1,0 +1,76 @@
+---
+- name: Rum Old Fashioned
+  status: green
+  spec:
+    - name: Two Rum
+      origin:
+        venue: Drink
+        location: Boston MA
+        year: 2018
+        story: >-
+          Early on in our drinking careers, Brendan asked for something boozy
+          and rum based. We were surprised how tame the Smith & Cross became.
+      glassware: rocks
+      ingredients:
+        - name: smith & cross rum
+          quantity: .5
+          unit: oz
+        - name: el dorado 12 rum
+          quantity: 1.5
+          unit: oz
+        - name: demerara syrup
+          quantity: .5
+          unit: oz
+        - name: mole bitters
+          quantity: 1
+          unit: dash
+        - name: orange bitters
+          quantity: 2
+          unit: dash
+      instructions:
+        - stir all the ingredients with ice then strain into a rocks glass over one large ice cube
+      garnish:
+        - orange twist
+      straw: false
+      citations:
+        - title: Self
+      notes:
+        - spec guestimated based on the Franklin Mortgage spec
+    - name: Three Rum
+      origin:
+        creator: Mike Treffehn
+        venue: The Franklin Mortgage & Investment Co
+        location: Philadelphia PA
+      glassware: rocks
+      ingredients:
+        - name: appleton estate reserve rum
+          quantity: 1
+          unit: oz
+        - name: ron zacapa 23
+          quantity: .5
+          unit: oz
+        - name: smith & cross rum
+          quantity: .5
+          unit: oz
+        - name: rich demerara syrup
+          quantity: 1
+          unit: tsp
+        - name: orange bitters
+          quantity: 2
+          unit: dash
+        - name: mole bitters
+          quantity: 1
+          unit: dash
+      instructions:
+        - stir all the ingredients with ice then strain into a rocks glass over one large ice cube
+      garnish:
+        - orange twist
+      straw: false
+      citations:
+        - title: Three Rum Old Fashioned Recipe
+          publisher: Serious Eats
+          author: Lizz Schumer
+          date: 2014-01-07
+          href: https://www.seriouseats.com/recipes/2014/01/franklin-mortgage-three-rum-old-fashioned-cocktail-recipe.html
+      notes:
+        - demerara syrup should be 2:1 sugar:water

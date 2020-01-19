@@ -1,0 +1,32 @@
+---
+- name: Mai Tai
+  status: green
+  origin:
+    creator: Victor Bergeron
+    year: 1944
+  spec:
+    - name: original
+      glassware: UNKNOWN
+      ingredients:
+        - name: clement premiere canne rhum
+          quantity: 1
+          unit: oz
+        - name: appleton estate reserver rum
+          quantity: 1
+          unit: oz
+        - name: lime juice
+          quantity: .75
+          unit: oz
+        - name: small hand foods orgeat
+          quantity: .75
+          unit: oz
+        - name: pierre ferrand dry curacao
+          quantity: .5
+          unit: oz
+      instructions:
+        - shake with ice, then strain into a chilled rocks glass filled with pebble ice
+      garnish:
+        - mint sprig
+      straw: false
+      citations:
+        - title: Meehan's Bartender Manual

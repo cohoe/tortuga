@@ -1,0 +1,40 @@
+---
+- name: Snowballin'
+  status: red
+  origin:
+    creator: Damon Boelte & Sother Teague
+    venue: Sexton Midnight Club
+    location: New Orleans LA
+    year: 2019
+  spec:
+    - name: original
+      glassware: collins
+      ingredients:
+        - name: the sexton irish whiskey
+          quantity: 1.5
+          unit: oz
+        - name: amontillado sherry
+          quantity: 1.5
+          unit: oz
+        - name: pineapple juice
+          quantity: .5
+          unit: oz
+        - name: cinnamon clove syrup
+          quantity: .75
+          unit: oz
+        - name: peychauds bitters
+          quantity: 2
+          unit: dash
+      instructions:
+        - whip, shake, and dirty pour into a Collins glass
+        - fill with fresh pebble ice (mound the top)
+        - dash Peychaud bitters on top for New Orleans "snowball" effect.
+      garnish:
+        - pineapple
+      straw: false
+      notes:
+        - for clove syrup - 1:1 simple infused with cinnamon sticks and cloves
+  citations:
+    - title: Recipes From The Sexton Midnight Club New Orleans
+      publisher: Vice
+      href: https://www.vice.com/en_us/partners/the-sexton-midnight-club/recipes-from-the-sexton-midnight-club-new-orleans

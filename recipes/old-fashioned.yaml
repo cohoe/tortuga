@@ -1,0 +1,26 @@
+---
+- name: Old Fashioned
+  status: green
+  origin:
+  spec:
+    - name: original
+      glassware: rocks
+      ingredients:
+        - name: bourbon
+          quantity: 2
+          unit: oz
+        - name: simple syrup
+          quantity: .25
+          unit: oz
+        - name: angostura bitters
+          quantity: 2
+          unit: dash
+      instructions:
+        - stir all the ingredients with ice, then strain into a rocks glass with a large ice cube
+        - rub an orange peel around the rim of the glass
+      garnish:
+        - orange peel
+      straw: false
+      citations:
+      notes:
+        - the orange peel does actually make a difference

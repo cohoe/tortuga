@@ -1,0 +1,35 @@
+---
+- name: Garrigue
+  status: green
+  origin:
+    creator: Karim Mehdi
+    venue: SABA
+    location: Dublin, Ireland
+  spec:
+    - name: original
+      glassware: coupe
+      ingredients:
+        - name: bacardi superior
+          quantity: 1.66
+          unit: oz
+        - name: lemon juice
+          quantity: .66
+          unit: oz
+        - name: yellow chartreuse
+          quantity: .5
+          unit: oz
+        - name: orgeat
+          quantity: .5
+          unit: oz
+        - name: sea salt
+          quantity: 1
+          unit: pinch
+      instructions:
+        - shake over ice and fine-strain into a chilled coupe glass
+      garnish:
+        - lemon twist
+        - dried lavender sprig
+      straw: false
+      citations:
+        - title: 101 Best New Cocktails
+          href: https://mixologytech.com/gaz/index.html

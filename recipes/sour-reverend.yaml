@@ -1,0 +1,25 @@
+---
+- name: Drink Name
+  status: green
+  origin:
+    creator: Grant Cohoe
+    location: Cambridge MA
+  spec:
+    - name: original
+      glassware: rocks
+      ingredients:
+        - name: plantation pineapple rum
+          quantity: 2
+          unit: oz
+        - name: lemon juice
+          quantity: .75
+          unit: oz
+        - name: simple syrup
+          quantity: .75
+          unit: oz
+      instructions:
+        - shake all ingredients with ice and strain into a rocks glass over fresh ice
+      straw: false
+      citations:
+      notes:
+        - this is a classic sour spec with the plantation pineapple and bit less of the other bits

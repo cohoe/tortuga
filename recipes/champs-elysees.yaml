@@ -1,0 +1,39 @@
+---
+- name: Champs-Élysées
+  status: green
+  origin:
+    creator: Harry Craddock
+    venue: Savoy-Plaza Hotel
+    location: New York NY
+    year: 1930
+  spec:
+    - name: original
+      glassware: coupe
+      ingredients:
+        - name: cognac
+          quantity: 2
+          unit: oz
+        - name: lemon juice
+          quantity: .75
+          unit: oz
+        - name: green chartreuse
+          quantity: .75
+          unit: oz
+        - name: simple syrup
+          quantity: .25
+          unit: oz
+        - name: angostura bitters
+          quantity: 1
+          unit: dash
+      instructions:
+        - shake with ice, then strain into a chilled coupe
+      garnish:
+        - lemon twist
+      straw: false
+      citations:
+        - title: PDT Cocktails
+          href: https://mixologytech.com/pdt/index.html
+        - title: The Canon Cocktail Book
+          page: 94
+      notes:
+        - canon replaces green with yellow and removes simple, 1.5:.5:.5 spec

@@ -1,0 +1,45 @@
+---
+- name: Saz Who?
+  status: green
+  origin:
+    creator: Brian Miller
+    venue: Death & Co
+    location: New York NY
+    year: 2009
+  spec:
+    - name: original
+      glassware: rocks
+      ingredients:
+        - name: cruzan single-barrel rum
+          quantity: 1.5
+          unit: oz
+        - name: clear creek pear brandy
+          quantity: .5
+          unit: oz
+        - name: vieux pontarlier absinthe
+          quantity: 2
+          unit: dash
+        - name: demerara syrup
+          quantity: 1
+          unit: tsp
+        - name: house peychauds bitters
+          quantity: 4
+          unit: dash
+        - name: angostura bitters
+          quantity: 1
+          unit: dash
+        - name: lemon twist
+          quantity: 1
+      instructions:
+        - stir all the ingredients (except the lemon twist) over ice, then strain into a double rocks glass
+        - squeeze the lemon twist over the drink and discard
+      straw: false
+      citations:
+        - title: 'Death & Co: Modern Classic Cocktails'
+          author:
+            - David Kaplan
+            - Nick Fauchald
+            - Alex Day
+          date: 2014-10-07
+          publisher: Ten Speed Press
+          page: 257

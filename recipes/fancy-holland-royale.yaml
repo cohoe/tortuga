@@ -1,0 +1,41 @@
+---
+- name: Fancy Holland Royale
+  status: green
+  origin:
+    creator: Thomas Waugh
+    venue: Death & Co
+    location: New York NY
+    year: 2008
+    story: >-
+      This started as a genever-based martini, then Phil topped it with
+      champagne.
+  spec:
+    - name: original
+      glassware: flute
+      ingredients:
+        - name: bols genever
+          quantity: 1.5
+          unit: oz
+        - name: grand marnier
+          quantity: .75
+          unit: oz
+        - name: cane sugar syrup
+          quantity: 1
+          unit: tsp
+        - name: fee brothers whiskey barrel-aged bitters
+          quantity: 1
+          unit: dash
+        - name: dry champagne
+      instructions:
+        - stir all the ingredients (except the champagne) over ice, then strain into a flute
+        - top with champagne
+      straw: false
+      citations:
+        - title: 'Death & Co: Modern Classic Cocktails'
+          author:
+            - David Kaplan
+            - Nick Fauchald
+            - Alex Day
+          date: 2014-10-07
+          publisher: Ten Speed Press
+          page: 223

@@ -1,0 +1,29 @@
+---
+- name: Field Cocktail
+  status: green
+  origin:
+    creator: Jim Meehan
+    venue: PDT
+    location: New York NY
+    year: 2010
+  spec:
+    - name: original
+      glassware: coupe
+      ingredients:
+        - name: pierre ferrand ambre cognac
+          quantity: 2
+          unit: oz
+        - name: noilly prat dry vermouth
+          quantity: 1
+          unit: oz
+        - name: pineapple juice
+          quantity: .75
+          unit: oz
+      instructions:
+        - stir with ice then strain into a chilled coupe
+      garnish:
+        - pineapple leaf
+      straw: false
+      citations:
+        - title: PDT Cocktails
+          href: https://mixologytech.com/pdt/index.html

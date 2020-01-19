@@ -1,0 +1,36 @@
+---
+- name: Range Life
+  status: yellow
+  origin:
+    creator: Phil Ward
+    venue: Death & Co
+    location: New York NY
+    year: 2008
+  spec:
+    - name: original
+      glassware: coupe
+      ingredients:
+        - name: el tesoro reposado tequila
+          quantity: 2
+          unit: oz
+        - name: campari
+          quantity: .5
+          unit: oz
+        - name: grand marnier
+          quantity: .5
+          unit: oz
+        - name: punt e mes
+          quantity: .5
+          unit: oz
+      instructions:
+        - stir all the ingredients over ice, then strain into a coupe
+      straw: false
+      citations:
+        - title: 'Death & Co: Modern Classic Cocktails'
+          author:
+            - David Kaplan
+            - Nick Fauchald
+            - Alex Day
+          date: 2014-10-07
+          publisher: Ten Speed Press
+          page: 258

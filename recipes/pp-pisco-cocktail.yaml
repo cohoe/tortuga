@@ -1,0 +1,49 @@
+---
+- name: P&P Pisco Cocktail
+  status: red
+  origin:
+    creator: Casey Robison
+    location: Seattle WA
+    story: >-
+      This fizzy pisco cocktail matches the floral qualities of
+      pisco with the earthiness of Pimm's.
+  spec:
+    - name: original
+      glassware: collins
+      ingredients:
+        - name: pisco
+          quantity: 1
+          unit: oz
+        - name: pimm's no. 1
+          quantity: 1
+          unit: oz
+        - name: maraschino liqueur
+          quantity: .25
+          unit: oz
+        - name: lime juice
+          quantity: .5
+          unit: oz
+        - name: lemon juice
+          quantity: .5
+          unit: oz
+        - name: rich simple syrup (2:1)
+          quantity: .25
+          unit: oz
+        - name: angostura bitters
+          quantity: 3
+          unit: dash
+        - name: ginger beer
+      instructions:
+        - combine ingredients in a shaker with ice and shake to chill
+        - strain into a Collins glass filled with crushed ice
+        - top with chilled ginger beer
+      garnish:
+        - mint sprig
+        - cucumber
+        - lemon
+      straw: false
+      citations:
+        - title: P&P Pisco Cocktail
+          publisher: Imbibe
+          date: 2015-09-14
+          href: https://imbibemagazine.com/pp-pisco-cocktail/

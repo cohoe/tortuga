@@ -1,0 +1,24 @@
+---
+- name: Gin and Tonic
+  status: green
+  origin:
+    location: Spain
+  spec:
+    - name: original
+      glassware: highball
+      ingredients:
+        - name: london dry gin
+          quantity: 2
+          unit: oz
+        - name: tonic water
+          quantity: 4
+          unit: oz
+      instructions:
+        - add gin to a highball glass with ice cubes and top with tonic
+      garnish:
+        - lime wedge
+      straw: false
+      citations:
+      notes:
+        - can add 1oz or so of any fruit juice (or .5oz of syrup)
+        - can squeeze out the lime before garnishing

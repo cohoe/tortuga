@@ -1,0 +1,32 @@
+---
+- name: Oaxaca Old-Fashioned
+  status: green
+  origin:
+    creator: Phil Ward
+    venue: Death & Co
+    location: New York NY
+    year: 2007
+  spec:
+    - name: original
+      glassware: coupe
+      ingredients:
+        - name: el tesoro reposado tequila
+          quantity: 1.5
+          unit: oz
+        - name: del maguey san luis del rio mezcal
+          quantity: .5
+          unit: oz
+        - name: agave nectar
+          quantity: 1
+          unit: tsp
+        - name: angostura bitters
+          quantity: 2
+          unit: dash
+      instructions:
+        - stir all the ingredients over ice, then strain into a coupe
+        - flame an orange twist over the drink
+      garnish:
+        - flamed orange twist
+      straw: false
+      citations:
+        - title: Death & Co

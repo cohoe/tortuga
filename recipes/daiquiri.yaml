@@ -1,0 +1,26 @@
+---
+- name: Daiquiri
+  status: green
+  origin:
+    location: Cuba
+  spec:
+    - name: original
+      glassware: coupe
+      ingredients:
+        - name: light-aged cuban-style rum
+          quantity: 2
+          unit: oz
+        - name: lime juice
+          quantity: 1
+          unit: oz
+        - name: simple syrup
+          quantity: 1
+          unit: oz
+      instructions:
+        - shake all ingredients with ice then strain into a chilled coupe glass
+      garnish:
+        - lime wheel
+      straw: false
+      citations:
+      notes:
+        - Plantation 3-Star works great for this

@@ -1,0 +1,30 @@
+---
+- name: Shipwrecked
+  status: red
+  origin:
+  spec:
+    - name: original
+      glassware: coupe
+      ingredients:
+        - name: el dorado 8-year rum
+          quantity: 1.5
+          unit: oz
+        - name: del maguey vida mezcal
+          quantity: .5
+          unit: oz
+        - name: lime juice
+          quantity: .75
+          unit: oz
+        - name: agave nectar
+          quantity: .5
+          unit: oz
+      instructions:
+        - shake all ingredients with ice and strain into a chilled coupe
+      garnish:
+        - lime wheel
+      straw: false
+      citations:
+        - title: I'm Just Here for the Drinks
+          page: 238
+      notes:
+        - yes it does mean agave nectar

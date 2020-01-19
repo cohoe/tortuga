@@ -1,0 +1,31 @@
+---
+- name: Golden Handcuffs
+  status: green
+  origin:
+    creator: Stuart Humphries
+    venue: The Pass & Provisions
+    location: Houston TX
+  spec:
+    - name: original
+      glassware: rocks
+      ingredients:
+        - name: plantation pineapple rum
+          quantity: 1
+          unit: oz
+        - name: aperol
+          quantity: 1
+          unit: oz
+        - name: swedish punsch
+          quantity: .5
+          unit: oz
+        - name: angostura bitters
+          quantity: 1
+          unit: dash
+      instructions:
+        - stir all ingredients and strain into a rocks glass over a large ice cube
+      garnish:
+        - aleppo dusted orange wheel
+      straw: false
+      citations:
+        - title: Punch
+          href: https://punchdrink.com/recipes/golden-handcuffs/

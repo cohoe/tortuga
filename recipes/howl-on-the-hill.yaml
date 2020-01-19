@@ -1,0 +1,35 @@
+---
+- name: Howl on the Hill
+  status: red
+  origin:
+    creator: Jezssica Gonzalez
+    venue: Death & Co
+    location: New York NY
+  spec:
+    - name: original
+      glassware: coupe
+      ingredients:
+        - name: el dorado 15-year rum
+          quantity: 1.5
+          unit: oz
+        - name: santa teresa 1796 rum
+          quantity: .5
+          unit: oz
+        - name: carpano antica formula vermouth
+          quantity: .75
+          unit: oz
+        - name: fernet-branca
+          quantity: .5
+          unit: oz
+        - name: yellow chartreuse
+          quantity: .25
+          unit: oz
+        - name: vieux pontarlier absinthe
+          quantity: 1
+          unit: dash
+      instructions:
+        - stir all the ingredients over ice, then strain into a coupe
+      straw: false
+      citations:
+        - title: Death & Co
+          page: 178

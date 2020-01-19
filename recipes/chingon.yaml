@@ -1,0 +1,37 @@
+---
+- name: Chingon
+  status: red
+  origin:
+    creator: Brian Miller
+    venue: Death & Co
+    location: New York NY
+  spec:
+    - name: original
+      glassware: coupe
+      ingredients:
+        - name: sieta leguas reposado tequila
+          quantity: 2
+          unit: oz
+        - name: bénédictine
+          quantity: .25
+          unit: oz
+        - name: orange juice
+          quantity: .5
+          unit: oz
+        - name: lime juice
+          quantity: .5
+          unit: oz
+        - name: orgeat
+          quantity: .5
+          unit: oz
+      instructions:
+        - shake all the ingredients with ice and strain into a coupe.
+      garnish:
+        - orange twist
+      straw: false
+      citations:
+        - title: Death & Co
+          page: 182
+      notes:
+        - has an odd citrus twang, feels a bit slightly orange/lime forward with a touch of tequila
+        - friuty and tequila overall concept, very easy downing

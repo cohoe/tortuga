@@ -1,0 +1,23 @@
+---
+- name: Martini
+  status: green
+  origin:
+  spec:
+    - name: original
+      glassware: martini
+      ingredients:
+        - name: london dry gin
+          quantity: 1.5
+          unit: oz
+        - name: dry vermouth
+          quantity: .5
+          unit: oz
+        - name: orange bitters
+          quantity: 1
+          unit: dash
+      instructions:
+        - stir all the ingredients with ice, then strain into a chilled martini glass
+      garnish:
+        - lemon twist
+      straw: false
+      citations:

@@ -1,0 +1,39 @@
+---
+- name: Doctor Cocktail
+  status: green
+  origin:
+    creator: Hugo Ensslin
+    year: 1916
+  spec:
+    - name: Bergeron Bartenders Guide
+      origin:
+        creator: Trader Vic
+        year: 1947
+      glassware: coupe
+      ingredients:
+        - name: swedish punsch
+          quantity: 1.5
+          unit: oz
+        - name: jamaican rum
+          quantity: .75
+          unit: oz
+        - name: lemon juice
+          quantity: 1
+          unit: tsp
+        - name: orange juice
+          quantity: 1
+          unit: tsp
+      instructions:
+        - shake well with cracked ice and strain into chilled cocktail glass
+      garnish:
+        - lemon twist
+      straw: false
+      citations:
+        - title: Punch and Rum - the Doctor Cocktail
+          author: Douglas M. Ford
+          href: https://cold-glass.com/2012/08/15/punch-and-rum-the-doctor-cocktail/
+      notes:
+        - Kronan Swedish Punsch and Smith & Cross (or Myers) rum
+        - .5oz lime juice also suggested
+        - this may benefit from not-S&C rum, as there is a huge amount of unnecessary hogo
+        - regular appleton may be a good substitute

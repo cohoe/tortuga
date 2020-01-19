@@ -1,0 +1,29 @@
+---
+- name: Shruff's End
+  status: green
+  origin:
+    creator: Phil Ward
+    venue: Death & Co
+    location: New York NY
+    year: 2008
+  spec:
+    - name: original
+      glassware: coupe
+      ingredients:
+        - name: laphroaig 10-year scotch
+          quantity: 1
+          unit: oz
+        - name: laird's bonded apple brandy
+          quantity: 1
+          unit: oz
+        - name: benedictine
+          quantity: .5
+          unit: oz
+        - name: house peychaud's bitters
+          quantity: 2
+          unit: dash
+      instructions:
+        - stir all the ingredients over ice, then strain into a coupe
+      straw: false
+      citations:
+        - title: Death & Co

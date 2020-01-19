@@ -1,0 +1,31 @@
+---
+- name: Division Bell
+  status: green
+  origin:
+    creator: Phil Ward
+    venue: Mayahuel
+    location: New York NY
+  spec:
+    - name: original
+      glassware: coupe
+      ingredients:
+        - name: del maguey vida mezcal
+          quantity: 1
+          unit: oz
+        - name: aperol
+          quantity: .75
+          unit: oz
+        - name: luxardo maraschino liqueur
+          quantity: .5
+          unit: oz
+        - name: lime juice
+          quantity: .75
+          unit: oz
+      instructions:
+        - shake all ingredients with ice and strain into a chilled coupe glass
+      garnish:
+        - orange twist
+      straw: false
+      citations:
+        - title: Difford's Guide
+          href: https://www.diffordsguide.com/cocktails/recipe/3634/division-bell

@@ -1,0 +1,32 @@
+---
+- name: Light and Day
+  status: red
+  origin:
+    creator: Alex Day
+    venue: Death & Co
+    location: New York NY
+  spec:
+    - name: original
+      glassware: coupe
+      ingredients:
+        - name: plymouth gin
+          quantity: 2
+          unit: oz
+        - name: yellow charteuse
+          quantity: .5
+          unit: oz
+        - name: maraska maraschino liqueur
+          quantity: .25
+          unit: oz
+        - name: orange juice
+          quantity: .25
+          unit: oz
+        - name: house peychauds bitters
+          quantity: 4
+          unit: dash
+      instructions:
+        - stir all the ingredients over ice, then strain into a coupe
+      straw: false
+      citations:
+        - title: Death & Co
+          page: 165

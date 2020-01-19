@@ -1,0 +1,43 @@
+---
+- name: Kentucky Tanlines
+  status: red
+  origin:
+    creator:
+    venue: Blueprint
+    location: Brooklyn NY
+  spec:
+    - name: original
+      glassware: rocks
+      ingredients:
+        - name: bourbon
+          quantity: 1
+          unit: oz
+        - name: yaguara ouro cachaca
+          quantity: 1
+          unit: oz
+        - name: amaro nardini
+          quantity: .25
+          unit: oz
+        - name: pineapple juice
+          quantity: .75
+          unit: oz
+        - name: lime juice
+          quantity: .5
+          unit: oz
+        - name: vanilla syrup
+          quantity: .5
+          unit: oz
+        - name: angostura bitters
+          quantity: 1
+          unit: dash
+      instructions:
+        - shake all ingredients with ice, then strain into a rocks glass over one large ice cube
+      garnish:
+        - lightly grated nutmeg
+        - pineapple wedge
+      straw: false
+      citations:
+        - title: Direct
+          date: 2019
+  notes:
+    - bartender made note of the quality of pineapple juice used

@@ -1,0 +1,44 @@
+---
+- name: Port au Prince
+  status: red
+  origin:
+  spec:
+    - name: original
+      glassware: pilsner
+      ingredients:
+        - name: barbancourt 3-star rum
+          quantity: 1
+          unit: oz
+        - name: el dorado 3-year rum
+          quantity: 1
+          unit: oz
+        - name: lemon hart 151 rum
+          quantity: .25
+          unit: oz
+        - name: velvet falernum
+          quantity: .75
+          unit: oz
+        - name: lime juice
+          quantity: .75
+          unit: oz
+        - name: pineapple juice
+          quantity: .5
+          unit: oz
+        - name: grenadine
+          quantity: .25
+          unit: oz
+        - name: ginger syrup
+          quantity: 1
+          unit: tsp
+        - name: bittermens elemakule tiki bitters
+          quantity: 6
+          unit: drop
+      instructions:
+        - short shake all the ingredients with 3 ice cubes, then strain into a pilsner glass filled with crushed ice
+      garnish:
+        - pineapple
+        - brandied cherry flag
+      straw: false
+      citations:
+        - title: Death & Co
+          page: 149

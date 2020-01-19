@@ -1,0 +1,35 @@
+---
+- name: How Do I Compare
+  status: green
+  origin:
+  spec:
+    - name: original
+      glassware: rocks
+      ingredients:
+        - name: apple brandy
+          quantity: .75
+          unit: oz
+        - name: bourbon
+          quantity: .75
+          unit: oz
+        - name: bénédictine
+          quantity: .5
+          unit: oz
+        - name: cointreau
+          quantity: .25
+          unit: oz
+        - name: apple bitters
+          quantity: 2
+          unit: dash
+      instructions:
+        - add all ingredients to a rocks glass without ice
+      garnish:
+        - orange twist, discarded
+      straw: false
+      citations:
+        - title: I'm Just Here for the Drinks
+          page: 233
+      notes:
+        - this is a scaffa, a room temperature cocktail
+        - much improved with done as a scaffa and not accidentily with ice
+        - test

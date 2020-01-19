@@ -1,0 +1,34 @@
+---
+- name: Just the Paperwork
+  status: red
+  origin:
+    creator: Sother Teague
+  spec:
+    - name: original
+      glassware: rocks
+      ingredients:
+        - name: amaro nonino
+          quantity: 1.5
+          unit: oz
+        - name: cognac
+          quantity: 1
+          unit: oz
+        - name: cocchi americano
+          quantity: 1
+          unit: oz
+        - name: water
+          quantity: .5
+          unit: oz
+        - name: orange bitters
+          quantity: 2
+          unit: dash
+      instructions:
+        - build in a rocks glass and serve neat
+      garnish:
+        - orange twist
+      straw: false
+      citations:
+        - title: I'm Just Here for the Drinks
+          page: 192
+      notes:
+        - no ice involved

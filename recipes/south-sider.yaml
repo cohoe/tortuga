@@ -1,0 +1,50 @@
+---
+- name: South Sider
+  status: green
+  origin:
+    creator: Alex Day
+    venue: Death & Co
+    location: New York NY
+    year: 2009
+    story: >-
+      This drink is inspired by the Chicago Cocktail from the iconic New
+      York speakeasy Milk & Honey, which is essentially a rum Manhattan.
+      The splash of champagne acts more like a garnish, lightening up the
+      drink a little bit.
+  spec:
+    - name: original
+      glassware: coupe
+      ingredients:
+        - name: el dorado 12-year rum
+          quantity: 2
+          unit: oz
+        - name: carpano antica formula vermouth
+          quantity: 1
+          unit: oz
+        - name: angostura bitters
+          quantity: 1
+          unit: dash
+        - name: house peychauds bitters
+          quantity: 1
+          unit: dash
+        - name: dry champagne
+          quantity: .5
+          unit: oz
+      instructions:
+        - stir all the ingredients (except the champagne) over ice, then strain into a coupe
+        - top with the champagne
+      garnish:
+        - orange twist
+      straw: false
+      citations:
+        - title: 'Death & Co: Modern Classic Cocktails'
+          author:
+            - David Kaplan
+            - Nick Fauchald
+            - Alex Day
+          date: 2014-10-07
+          publisher: Ten Speed Press
+          page: 227
+      notes:
+        - i agree with the assessment of a rum manhattan
+        - this may go better over a large ice cube rather than a coupe

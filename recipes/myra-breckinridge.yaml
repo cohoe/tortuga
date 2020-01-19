@@ -1,0 +1,42 @@
+---
+- name: Myra Breckinridge
+  status: red
+  origin:
+    creator: Phil Ward
+    venue: Death & Co
+    location: New York NY
+    year: 2008
+    story: >-
+      Anthony Sarnicola, a regular at the bar, named this drink and described
+      it as "a sex change for Laphroaig"
+  spec:
+    - name: original
+      glassware: pilsner
+      ingredients:
+        - name: laphroaig 10-year scotch
+          quantity: 2
+          unit: oz
+        - name: vieux pontarlier absinthe
+          quantity: 2
+          unit: dash
+        - name: lime juice
+          quantity: .75
+          unit: oz
+        - name: cane sugar syrup
+          quantity: .5
+          unit: oz
+      instructions:
+        - dry shake all the ingredients, then dump into a pilsner glass filled with crushed ice
+        - swizzle until cold
+      garnish:
+        - mint sprig
+      straw: true
+      citations:
+        - title: 'Death & Co: Modern Classic Cocktails'
+          author:
+            - David Kaplan
+            - Nick Fauchald
+            - Alex Day
+          date: 2014-10-07
+          publisher: Ten Speed Press
+          page: 250

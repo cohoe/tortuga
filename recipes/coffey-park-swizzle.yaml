@@ -1,0 +1,51 @@
+---
+- name: Coffey Park Swizzle
+  status: yellow
+  origin:
+    creator: Alex Day
+    venue: Death & Co
+    location: New York NY
+    year: 2008
+    story: >-
+      This was the first of many sherry cocktails I've created. It's my
+      tribute to the Queen's Park Swizzle, the most classic drink in
+      the category.
+  spec:
+    - name: original
+      glassware: pilsner
+      ingredients:
+        - name: barbancourt 3-star rum
+          quantity: 1
+          unit: oz
+        - name: lustau amontillado sherry
+          quantity: 1
+          unit: oz
+        - name: velvet falernum
+          quantity: .25
+          unit: oz
+        - name: lime juice
+          quantity: .75
+          unit: oz
+        - name: ginger syrup
+          quantity: .75
+          unit: oz
+        - name: angostura bitters
+          quantity: 3
+          unit: dash
+      instructions:
+        - whip all the ingredients (except the bitters), shaking with a few pieces of crushed ice just until incorporated
+        - strain into a pilsner glass filled with crushed ice
+        - swizzle until cold
+        - add the bitters and swizzle them into the top of the drink
+      garnish:
+        - mint sprig
+      straw: true
+      citations:
+        - title: 'Death & Co: Modern Classic Cocktails'
+          author:
+            - David Kaplan
+            - Nick Fauchald
+            - Alex Day
+          date: 2014-10-07
+          publisher: Ten Speed Press
+          page: 249

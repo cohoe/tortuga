@@ -1,0 +1,30 @@
+---
+- name: Negroni di Aquila
+  status: red
+  origin:
+    creator: Nathan Ozug
+    venue: Longman & Eagle
+    location: Chicago IL
+    year: 2010
+  spec:
+    - name: original
+      glassware: goblet
+      ingredients:
+        - name: aperol
+          quantity: 1
+          unit: oz
+        - name: punt e mes
+          quantity: 1
+          unit: oz
+        - name: prosecco
+      instructions:
+        - in a goblet or rocks glass, combine the Aperol and Punt e Mes with ice and stir to chill
+        - top with prosecco
+      garnish:
+        - orange twist
+      straw: false
+      citations:
+        - title: Negroni di Aquila From Longman & Eagle
+          author: Imbibe
+          date: 2019-09-19
+          href: https://imbibemagazine.com/negroni-di-aquila/

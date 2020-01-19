@@ -1,0 +1,39 @@
+---
+- name: Kola Sour
+  status: red
+  origin:
+    creator: Sother Teague
+    venue: Amor y Amargo
+    location: New York NY
+  spec:
+    - name: original
+      glassware: rocks
+      ingredients:
+        - name: bank 5 island rum
+          quantity: 1
+          unit: oz
+        - name: meletti amaro
+          quantity: 1
+          unit: oz
+        - name: orgeat
+          quantity: .5
+          unit: oz
+        - name: lemon juice
+          quantity: .75
+          unit: oz
+        - name: small egg white
+          quantity: 1
+        - name: bittercube vanilla cherry bark bitters
+          quantity: 1
+          unit: dash
+      instructions:
+        - dry shake all ingredients except the rum
+        - add ice then shake to combine
+        - strain into a rocks glass over a large ice cube
+      straw: false
+      citations:
+        - title: I'm Just Here for the Drinks
+          author: Sother Teague
+          date: 2018
+          publisher: Media Lab Books
+          page: 203

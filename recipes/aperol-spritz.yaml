@@ -1,0 +1,25 @@
+---
+- name: Aperol Spritz
+  status: green
+  origin:
+  spec:
+    - name: original
+      glassware: wine
+      ingredients:
+        - name: prosecco
+          quantity: 3
+          unit: oz
+        - name: aperol
+          quantity: 2
+          unit: oz
+        - name: soda water
+          quantity: 1
+          unit: oz
+      instructions:
+        - add all ingredients to a wineglass over ice
+      garnish:
+        - orange wheel
+      straw: false
+      citations:
+        - title: Liquor.com
+          href: https://www.liquor.com/recipes/aperol-spritz/#gs.zdyg4j

@@ -1,0 +1,33 @@
+---
+- name: The Vanderbilt
+  status: red
+  origin:
+    creator: Scott Teague
+    venue: Death & Co
+    location: New York NY
+    year: 2013
+  spec:
+    - name: original
+      glassware: rocks
+      ingredients:
+        - name: laird's bonded apple brandy
+          quantity: 1.5
+          unit: oz
+        - name: gran classico bitter
+          quantity: 1
+          unit: oz
+        - name: mathilde poire pear liqueur
+          quantity: .75
+          unit: oz
+      instructions:
+        - stir all the ingredients over ice, then strain into a double rocks glass over 1 large ice cube
+      straw: false
+      citations:
+        - title: 'Death & Co: Modern Classic Cocktails'
+          author:
+            - David Kaplan
+            - Nick Fauchald
+            - Alex Day
+          date: 2014-10-07
+          publisher: Ten Speed Press
+          page: 259

@@ -1,0 +1,43 @@
+---
+- name: Sunset At Gowanus
+  status: green
+  origin:
+    creator: Alex Day
+    venue: Death & Co
+    location: New York NY
+    year: 2008
+    story: >-
+      In this decadent daiquiri variation, the bright fruity character of
+      Santa Teresa rum becomes even more pronounced thanks to the apple brandy
+      and maple syrup.
+  spec:
+    - name: original
+      glassware: coupe
+      ingredients:
+        - name: santa teresa 1796 rum
+          quantity: 2
+          unit: oz
+        - name: laird's bonded apple brandy
+          quantity: .25
+          unit: oz
+        - name: yellow chartreuse
+          quantity: .25
+          unit: oz
+        - name: lime juice
+          quantity: .75
+          unit: oz
+        - name: grade b maple syrup
+          quantity: .5
+          unit: oz
+      instructions:
+        - shake all the ingredients with ice, then strain into a coupe
+      straw: false
+      citations:
+        - title: 'Death & Co: Modern Classic Cocktails'
+          author:
+            - David Kaplan
+            - Nick Fauchald
+            - Alex Day
+          date: 2014-10-07
+          publisher: Ten Speed Press
+          page: 263

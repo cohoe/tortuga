@@ -1,0 +1,27 @@
+---
+- name: Tommy's Margarita
+  status: green
+  origin:
+    venue: Tommy's Mexican Restaurant
+    location: San Francisco CA
+  spec:
+    - name: original
+      glassware: rocks
+      ingredients:
+        - name: L&J blanco tequila
+          quantity: 2
+          unit: oz
+        - name: lime juice
+          quantity: 1
+          unit: oz
+        - name: agave syrup
+          quantity: 1
+          unit: oz
+      instructions:
+        - shake with ice, then strain into a rocks glass filled with ice cubes
+      straw: false
+      citations:
+        - title: PDT Cocktails
+          href: https://mixologytech.com/pdt/index.html
+      notes:
+        - reposado tequila adds nothing significant to this drink

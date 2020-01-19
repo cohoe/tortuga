@@ -1,0 +1,49 @@
+---
+- name: Delores Royale
+  status: green
+  origin:
+    creator: Anne Robinson
+    venue: Westlight
+    location: Brooklyn NY
+    story: >-
+      The Delores Royale, a clear wink at the seasonal change from summer
+      to fall, adds weight to its smoky mezcal base by way of apricot
+      liqueur and amontillado sherry—then is brightened by citrus (in the
+      form of mandarin vodka and lime) and topped with sparkling wine, in
+      a refreshing nod to late summer spritzes.
+  spec:
+    - name: original
+      glassware: coupe
+      ingredients:
+        - name: del maguey vida mezcal
+          quantity: 1
+          unit: oz
+        - name: lustau los arcos amontillado sherry
+          quantity: .75
+          unit: oz
+        - name: lime juice
+          quantity: .75
+          unit: oz
+        - name: hangar one mandarin vodka
+          quantity: .5
+          unit: oz
+        - name: agave syrup
+          quantity: .5
+          unit: oz
+        - name: rothman & winter apricot liqueur
+          quantity: .25
+          unit: oz
+        - name: cava
+          quantity: 1.5
+          unit: oz
+      instructions:
+        - shake all ingredients except the cava with ice, then strain into a coupe glass
+      garnish:
+        - lime wheel
+      straw: false
+      citations:
+        - title: Delores Royale
+          author: PUNCH
+          href: https://punchdrink.com/recipes/delores-royale/
+      notes:
+        - patron citronge mango or smirnoff mango sorbet may sub in nicely here

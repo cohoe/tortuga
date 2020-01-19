@@ -1,0 +1,35 @@
+---
+- name: Guillotine
+  status: yellow
+  origin:
+    creator: franky marshall
+    venue: Le Boudoir
+    location: Brooklyn NY
+  spec:
+    - name: original
+      glassware: snifter
+      ingredients:
+        - name: mezcal
+          quantity: 1
+          unit: oz
+        - name: blended scotch whiskey
+          quantity: .75
+          unit: oz
+        - name: giffard creme de banane liqueur
+          quantity: .25
+          unit: oz
+        - name: honey syrup
+          quantity: .25
+          unit: oz
+      instructions:
+        - stir all ingredients with plenty of ice in a large mixing glass
+        - strain into a snifter over a large-format ice cube
+      garnish:
+        - lemon twist, discarded
+      straw: false
+      citations:
+        - title: I'm Just Here for the Drinks
+          author: Sother Teague
+          date: 2018
+          publisher: Media Lab Books
+          page: 240

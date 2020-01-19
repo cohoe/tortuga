@@ -1,0 +1,56 @@
+---
+- name: Flor de Jerez
+  status: green
+  origin:
+    creator: Joaquín Simó
+    venue: Death & Co
+    location: New York NY
+    year: 2009
+    story: >-
+      Oh, sherry. Sometime around 2009 every one of our bartenders fell hard
+      for this fortified wine because of how its flavors and acidity mingle
+      so well with other cocktail ingredients. (We also loved that it's a
+      cheap-as-hell base ingredient--you can buy a great bottle for under
+      $12.) Joaquín was particularly smitten with the amontillado style of
+      sherry, which is dry but smells sweat, leaving room for the bartender
+      to add other sweeteners to a drink. In his Flor de Jerez, Joaquín uses
+      rum to bring out the sherry's darker, raisiny flavors, and apricot
+      liqueur to bring out its fruity notes.
+  spec:
+  - name: original
+    glassware: coupe
+    ingredients:
+      - name: appleton estate reserve rum
+        quantity: .5
+        unit: oz
+      - name: lustau amontillado sherry
+        quantity: 1.5
+        unit: oz
+      - name: rothman & winter apricot liqueur
+        quantity: .25
+        unit: oz
+      - name: lemon juice
+        quantity: .75
+        unit: oz
+      - name: cane sugar syrup
+        quantity: .5
+        unit: oz
+      - name: angostura bitters
+        quantity: 1
+        unit: dash
+    instructions:
+      - shake all the ingredients with ice, then strain into a coupe
+    straw: false
+    citations:
+      - title: 'Death & Co: Modern Classic Cocktails'
+        author:
+          - David Kaplan
+          - Nick Fauchald
+          - Alex Day
+        date: 2014-10-07
+        publisher: Ten Speed Press
+        page: 107
+  citations:
+  notes:
+    - one
+  tags:

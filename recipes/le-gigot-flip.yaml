@@ -1,0 +1,44 @@
+---
+- name: Le Gigot Flip
+  status: yellow
+  origin:
+    creator: Phil Ward
+    venue: Death & Co
+    location: New York NY
+    year: 2008
+  spec:
+    - name: original
+      glassware: coupe
+      ingredients:
+        - name: santa teresa 1796 rum
+          quantity: 2
+          unit: oz
+        - name: cherry heering
+          quantity: .5
+          unit: oz
+        - name: demerara syrup
+          quantity: .25
+          unit: oz
+        - name: egg yolk
+          quantity: 1
+        - name: heavy cream
+          quantity: .5
+          unit: oz
+        - name: bittermens xocolatl mole bitters
+          quantity: 2
+          unit: oz
+      instructions:
+        - dry shake all the ingredients, then shake again with ice
+        - double strain into a coupe
+      garnish:
+        - brandied cherry
+      straw: false
+      citations:
+        - title: 'Death & Co: Modern Classic Cocktails'
+          author:
+            - David Kaplan
+            - Nick Fauchald
+            - Alex Day
+          date: 2014-10-07
+          publisher: Ten Speed Press
+          page: 246

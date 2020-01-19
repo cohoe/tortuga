@@ -1,0 +1,25 @@
+---
+- name: Kir Royale
+  status: green
+  origin:
+    creator: Félix Kir
+    location: Dijon, France
+    era: 1940s
+  spec:
+    - name: original
+      glassware: flute
+      ingredients:
+        - name: laurent-perrier brut champagne
+          quantity: 5
+          unit: oz
+        - name: merlet crème de cassis
+          quantity: .25
+          unit: oz
+      instructions:
+        - build in a flute glass
+      garnish:
+        - lemon twist
+      straw: false
+      citations:
+        - title: PDT Cocktails
+          href: https://mixologytech.com/pdt/index.html

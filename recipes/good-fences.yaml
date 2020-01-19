@@ -1,0 +1,32 @@
+---
+- name: Good Fences
+  status: red
+  origin:
+    creator: Sother Teague
+    venue: Amor y Amargo
+    location: New York NY
+  spec:
+    - name: original
+      glassware: highball
+      ingredients:
+        - name: cinnamon syrup
+          quantity: .5
+          unit: oz
+        - name: bourbon
+          quantity: 2
+          unit: oz
+        - name: hard cider
+          quantity: 4
+          unit: oz
+      instructions:
+        - pour bouron and syrup into a highball filled with ice
+        - top with cider
+      garnish:
+        - grated cinnamon
+        - apple slice
+      straw: false
+      citations:
+        - title: I'm Just Here for the Drinks
+          page: 113
+      notes:
+        - feel like this should get a stir to combine syrup/bourbon more

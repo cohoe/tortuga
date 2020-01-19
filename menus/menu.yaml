@@ -1,0 +1,13 @@
+---
+- name: random
+  recipes:
+    - 18th-century
+    - diamondback
+    - flor-de-jerez
+    - moscow-mule
+    - freehand-old-fashioned
+    - how-do-i-compare
+- name: other
+  recipes:
+    - 18th-century
+    - moscow-mule

@@ -1,0 +1,34 @@
+---
+- name: Adelita
+  status: red
+  origin:
+    creator: Carrie Cole
+    venue: The Hawthorne
+    location: Boston MA
+  spec:
+    - name: original
+      glassware: coupe
+      ingredients:
+        - name: siete leguas reposado tequila
+          quantity: 1
+          unit: oz
+        - name: cocchi americano
+          quantity: 1
+          unit: oz
+        - name: dolin dry vermouth
+          quantity: 1
+          unit: oz
+        - name: crème de violette
+          quantity: 1
+          unit: barspoon
+      instructions:
+        - stir all ingredients over ice and strain into coupe glass
+      garnish:
+        - lemon twist
+      straw: false
+      citations:
+        - title: Adelita Cocktail Recipe
+          author: PUNCH
+          href: https://punchdrink.com/recipes/adelita/
+  tags:
+    - boston

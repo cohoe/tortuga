@@ -1,0 +1,54 @@
+---
+- name: Martinez
+  status: green
+  spec:
+    - name: PDT
+      glassware: coupe
+      ingredients:
+        - name: hayman's old tom gin
+          quantity: 1.5
+          unit: oz
+        - name: dolin rouge vermouth
+          quantity: 1.5
+          unit: oz
+        - name: luxardo maraschino liqueur
+          quantity: .25
+          unit: oz
+        - name: adam elmegirab's boker's bitters
+          quantity: 2
+          unit: dash
+      instructions:
+        - stir with ice, then strain into a chilled coupe
+      garnish:
+        - orange twist
+      straw: false
+      citations:
+        - title: PDT Cocktails
+          href:
+    - name: Dante NYC
+      origin:
+        venue: Dante NYC
+        location: Brooklyn NY
+      ingredients:
+        - name: otto's athens vermouth
+          quantity: 2
+          unit: oz
+        - name: old duff genever
+          quantity: 1
+          unit: oz
+        - name: maraschino liqueur
+          quantity: 1
+          unit: barspoon
+        - name: boker's bitters
+          quantity: 2
+          unit: dash
+      instructions:
+        - stir with ice, then strain into a chilled coupe
+      citations:
+        - title: Dante
+          href: https://www.dante-nyc.com/menus/#cocktails
+        - title: The Speakeasy Podcast
+  citations:
+    - title: Modern Bartenders' Guide
+      author: O.H. Byron
+      date: 1884

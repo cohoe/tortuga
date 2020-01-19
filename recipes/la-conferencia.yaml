@@ -1,0 +1,51 @@
+---
+- name: La Conferencia
+  status: green
+  origin:
+    creator: Phil ward
+    venue: Death & Co
+    location: New York NY
+    year: 2008
+    story: >-
+      I was so impressed (and jealous) when Brian created his Conference
+      cocktail that I had to rip it off. My version replaced the whiskey with
+      tequila, naturally.
+  spec:
+    - name: original
+      glassware: rocks
+      ingredients:
+        - name: el tesoro reposado tequila
+          quantity: .5
+          unit: oz
+        - name: del maguey vida mezcal
+          quantity: .5
+          unit: oz
+        - name: la favorite rhum agricole blanc
+          quantity: .5
+          unit: oz
+        - name: santa teresa rum
+          quantity: .5
+          unit: oz
+        - name: cane sugar syrup
+          quantity: .25
+          unit: oz
+        - name: angostura bitters
+          quantity: 1
+          unit: dash
+        - name: bittermens xocolatl mole bitters
+          quantity: 1
+          unit: dash
+      instructions:
+        - stir all the ingredients over ice, then strain into a double rocks glass
+      garnish:
+        - orange twist
+      straw: false
+      citations:
+        - title: 'Death & Co: Modern Classic Cocktails'
+          author:
+            - David Kaplan
+            - Nick Fauchald
+            - Alex Day
+          date: 2014-10-07
+          publisher: Ten Speed Press
+          page: 272

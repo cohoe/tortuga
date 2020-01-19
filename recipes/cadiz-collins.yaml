@@ -1,0 +1,42 @@
+---
+- name: Cadiz Collins
+  status: red
+  origin:
+    creator: Alex Day
+    venue: Death & Co
+    location: New York NY
+  spec:
+    - name: original
+      glassware: highball
+      ingredients:
+        - name: orange wheel
+          quantity: 1
+        - name: fee brothers whiskey barrel-aged bitters
+          quantity: 3
+          unit: dash
+        - name: plymouth gin
+          quantity: 2
+          unit: oz
+        - name: lustau amontillado sherry
+          quantity: .75
+          unit: oz
+        - name: lemon juice
+          quantity: .5
+          unit: oz
+        - name: demerara syrup
+          quantity: .5
+          unit: oz
+        - name: club soda
+      instructions:
+        - in a shaker, muddle the orange wheel and bitters
+        - add the remaining ingredients (except the club soda) and shake with ice, then strain into a highball glass filled with ice cubes
+        - top with club soda
+      garnish:
+        - orange crescent
+      straw: false
+      citations:
+        - title: Death & Co
+          page: 154
+      notes:
+        - cadiz with accent-up, cant copy-paste from kindle
+        - serve with straw

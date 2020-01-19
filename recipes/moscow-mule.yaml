@@ -1,0 +1,63 @@
+---
+- name: Moscow Mule
+  status: green
+  origin:
+    creator: Jack Morgan & John G. Martin
+    location: Hollywood CA
+    year: 1940
+  spec:
+    - name: PDT
+      glassware: mule
+      origin:
+        venue: Please Don't Tell
+        location: New York NY
+      ingredients:
+        - name: fentimans ginger beer
+          quantity: 4
+          unit: oz
+        - name: smirnoff vodka
+          quantity: 1.5
+          unit: oz
+        - name: lime juice
+          quantity: .5
+          unit: oz
+      instructions:
+        - build in a chilled mule mug, then fill with ice cubes
+      garnish:
+        - lime shell
+        - candied ginger on a pick
+      citations:
+        - title: Meehan's Bartender Manual
+          author: Jim Meehan
+          publisher: Ten Speed Press
+          location: Berkeley
+          date: 2017-10-17
+      notes:
+        - this is a test note for a single spec
+    - name: Death & Co
+      glassware: highball
+      origin:
+        venue: Death & Co
+        location: New York NY
+      ingredients:
+        - name: charbay vodka
+          quantity: 2
+          unit: oz
+        - name: lime juice
+          quantity: .5
+          unit: oz
+        - name: ginger syrup
+          quantity: .75
+          unit: oz
+        - name: club soda
+      instructions:
+        - short shake all the ingredients (except the club soda) with 3 ice cubes, then strain into a highball glass filled with ice cubes
+        - top with club soda
+      garnish:
+        - lime wheel
+        - candied ginger flag
+      straw: yes
+      notes:
+  citations:
+  notes:
+    - this is a test note for all specs

@@ -1,0 +1,31 @@
+---
+- name: Queen Christina
+  status: green
+  origin:
+    creator: Tom Mahne
+    venue: Eastern Standard
+    location: Boston MA
+  spec:
+    - name: original
+      glassware: coupe
+      ingredients:
+        - name: bourbon
+          quantity: 1.5
+          unit: oz
+        - name: swedish punsch
+          quantity: .75
+          unit: oz
+        - name: lemon juice
+          quantity: .75
+          unit: oz
+        - name: simple syrup
+          quantity: .25
+          unit: oz
+      instructions:
+        - shake all the ingredients with ice, then strain into a chilled glass
+      straw: false
+      citations:
+        - title: Imbibe
+          href: http://imbibemagazine.com/eastern-standard-queen-christina/
+      notes:
+        - swap irish whiskey for a mrs-doyle (slightly different spec though)

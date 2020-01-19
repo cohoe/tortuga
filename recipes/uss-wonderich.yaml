@@ -1,0 +1,46 @@
+---
+- name: U.S.S. Wonderich
+  status: red
+  origin:
+    creator: Jeff Beachbum Berry
+    venue: Latitude 29
+    location: New Orleans LA
+    story: >-
+      Jeff Beachbum Berry conceived of this recipe as an 
+      "intermission drink"-a light refresher intended to be consumed in
+      between full-strength cocktails. The name pays tribute to David
+      Wondrich, a proponent of this practice, and incidentally, the
+      first guest to request a sherry drink at Berry's famed New Orleans
+      tiki bar, Latitude 29.
+  spec:
+    - name: original
+      glassware: coupe
+      ingredients:
+        - name: amontillado sherry
+          quantity: 1.5
+          unit: oz
+        - name: pineapple juice
+          quantity: .75
+          unit: oz
+        - name: sweet vermouth
+          quantity: .75
+          unit: oz
+        - name: sabra liqueur
+          quantity: .75
+          unit: oz
+        - name: angostura bitters
+          quantity: 1
+          unit: dash
+      instructions:
+        - combine all ingredients in a mixing tin and shake with ice
+        - strain into a chilled coupe or cocktail glass
+      garnish:
+        - pineapple wedge
+      straw: false
+      notes:
+        - sub Sabra with .5oz allspice liqueur
+  citations:
+    - title: U.S.S. Wonderich Cockrail Recipe
+      author: Punch
+      publisher: PUNCH
+      href: https://punchdrink.com/recipes/uss-wondrich/

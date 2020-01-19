@@ -1,0 +1,30 @@
+---
+- name: Montgomery Smith
+  status: green
+  origin:
+    creator: Nate Dumas
+    venue: PDT
+    location: New York NY
+  spec:
+    - name: original
+      glassware: coupe
+      ingredients:
+        - name: cognac
+          quantity: 2
+          unit: oz
+        - name: bénédictine
+          quantity: .5
+          unit: oz
+        - name: Fernet-Branca
+          quantity: .25
+          unit: oz
+      instructions:
+        - combine all ingredients in a mixing glass over ice and stir until chilled.
+        - strain into a chilled coupe or cocktail glass.
+      garnish:
+        - lemon twist
+      straw: false
+      citations:
+        - title: Montgomery Smith Cocktail
+          author: PUNCH
+          href: https://punchdrink.com/recipes/montgomery-smith/

@@ -1,0 +1,43 @@
+---
+- name: Bitter French
+  status: red
+  origin:
+    creator: Phil Ward
+    venue: Death & Co
+    location: New York NY
+    year: 2008
+    story: >-
+      In my opinion, this French 75 variation is the best beginner Campari
+      drink in history.
+  spec:
+    - name: original
+      glassware: flute
+      ingredients:
+        - name: plymouth gin
+          quantity: 1
+          unit: oz
+        - name: campari
+          quantity: .25
+          unit: oz
+        - name: lemon juice
+          quantity: .5
+          unit: oz
+        - name: simple syrup
+          quantity: .5
+          unit: oz
+        - name: dry champagne
+        - name: grapefruit twist
+      instructions:
+        - shake all the ingredients (except the champagne and grapefruit twist) with ice, then strain into a flute
+        - top with champagne
+        - squeeze the grapefruit twist over the drink and discard
+      straw: false
+      citations:
+        - title: 'Death & Co: Modern Classic Cocktails'
+          author:
+            - David Kaplan
+            - Nick Fauchald
+            - Alex Day
+          date: 2014-10-07
+          publisher: Ten Speed Press
+          page: 220

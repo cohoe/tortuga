@@ -1,0 +1,48 @@
+---
+- name: Pennington Daiquiri
+  status: red
+  origin:
+    creator: Tyson Buhler
+    venue: Lost Hours
+    location: New York NY
+    story: >-
+      At Lost Hours, the new Koreatown bar from the team behind Death & Co,
+      the cocktail menu is structured around the four elements of nature:
+      Air, Water, Earth, and Fire. From the Earth section, the Pennington
+      Daiquiri zeros in on "green" flavors. "The grassiness of rhum agricole
+      balanced by the herbaceous flavor of Suze helps create a complex but
+      easy-drinking Daiquiri-inspired cocktail," says beverage director
+      Tyson Buhler.
+  spec:
+    - name: original
+      glassware: coupe
+      ingredients:
+        - name: Rhum JM agricole blanc 
+          quantity: 1
+          unit: oz
+        - name: bertoux brandy
+          quantity: .75
+          unit: oz
+        - name: lemon juice
+          quantity: .75
+          unit: oz
+        - name: suze
+          quantity: .5
+          unit: oz
+        - name: honey syrup (3:1)
+          quantity: .5
+          unit: oz
+        - name: simple syrup
+          quantity: .25
+          unit: oz
+      instructions:
+        - combine all the ingredients in a shaker with ice and shake until chilled
+        - double strain into a chilled coupe
+      garnish:
+        - lime wedge
+      straw: false
+  citations:
+    - title: Imbibe Magazine
+      author: Imbibe
+      date: 2019-03-12
+      href: https://imbibemagazine.com/pennington-daiquiri/

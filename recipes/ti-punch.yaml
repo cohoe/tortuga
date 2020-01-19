@@ -1,0 +1,26 @@
+---
+- name: Ti' Punch
+  status: green
+  origin:
+    location: Martinique
+    year: 1890
+  spec:
+    - name: original
+      glassware: rocks
+      ingredients:
+        - name: la favorite rhum agricole blanc
+          quantity: 2
+          unit: oz
+        - name: lime
+          quantity: .5
+        - name: cane sugar syrup
+          quantity: 1
+          unit: tsp
+      instructions:
+        - in a rocks glass, muddle the lime and cane syrup until the lime is well juiced
+        - add the rum and cracked ice and stir until cold
+      straw: false
+      citations:
+        - title: Death & Co
+      notes:
+        - Meehan uses Neisson Reserve Speciale rhum agricole

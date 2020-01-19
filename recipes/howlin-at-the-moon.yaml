@@ -1,0 +1,36 @@
+---
+- name: Howlin at the Moon
+  status: red
+  origin:
+    creator: Brad Farran
+    venue: Death & Co
+    location: New York NY
+  spec:
+    - name: original
+      glassware: rocks
+      ingredients:
+        - name: lemon twist
+          quantity: 1
+        - name: bols barrel-aged genever
+          quantity: 2
+          unit: oz
+        - name: marie brizard white creme de cacao
+          quantity: 2
+          unit: tsp
+        - name: cane sugar syrup
+          quantity: .5
+          unit: tsp
+        - name: bittercube cherry bark and vanilla bitters
+          quantity: 2
+          unit: dash
+      instructions:
+        - in a mixing glass, muddle the lemon twist
+        - add the remaining ingredients and stir over ice, then strain into a double rocks glass over 1 large ice cube
+      garnish:
+        - orange twist
+      straw: false
+      citations:
+        - title: Death & Co
+          page: 163
+  notes:
+    - might be able to work something with the lockhouse barrel-rested gin and unaged genever

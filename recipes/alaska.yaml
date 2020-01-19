@@ -1,0 +1,32 @@
+---
+- name: Alaska
+  status: green
+  origin:
+    creator: Robert Simonson
+    year: 2017
+  spec:
+    - name: original
+      glassware: coupe
+      ingredients:
+        - name: old tom gin
+          quantity: 2
+          unit: oz
+        - name: yellow chartreuse
+          quantity: 1
+          unit: oz
+        - name: orange bitters
+          quantity: 2
+          unit: dash
+      instructions:
+        - stir all ingredients over ice and strain into a chilled coupe
+      garnish:
+        - orange twist
+      straw: false
+      citations:
+        - title: Punch
+          href: https://punchdrink.com/recipes/alaska/
+        - title: Death & Co
+      notes:
+        - original spec calls for shaking, but given the ingredients that seems excessive
+        - not totally sure on the origin, article is not super clear
+        - per Death & Co's Thomas Waugh on the Mainland, this is a martini with yellow

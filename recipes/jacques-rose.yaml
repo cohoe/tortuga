@@ -1,0 +1,43 @@
+---
+- name: Jacques Rose
+  status: green
+  origin:
+    creator: Scott Kennedy
+    venue: Café Cancale
+    location: Chicago IL
+    story: >-
+      This is a fancy version of a tasty and simple cocktail [Jack Rose]
+      that has stood the test of time.
+  spec:
+    - name: original
+      glassware: sour
+      ingredients:
+        - name: daron calvados fine
+          quantity: 2
+          unit: oz
+        - name: Café Cancale grenadine
+          quantity: .5
+          unit: oz
+        - name: lemon juice
+          quantity: .75
+          unit: oz
+        - name: demerara syrup
+          quantity: .25
+          unit: oz
+        - name: angostura bitters
+          quantity: 2
+          unit: dash
+      instructions:
+        - combine all of the ingredients in a shaker
+        - add ice and shake to chill
+        - double strain into a chilled glass
+      garnish:
+        - lemon peel
+      straw: false
+      citations:
+        - title: Jaques Rose Cocktail
+          author: Imbibe
+          href: https://imbibemagazine.com/jacques-rose-cocktail/
+      notes:
+        - 1:1 demerara syrup
+        - grenadine recipe at source

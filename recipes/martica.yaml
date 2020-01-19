@@ -1,0 +1,39 @@
+---
+- name: Martica
+  status: green
+  origin:
+    creator: Phil ward
+    venue: Death & Co
+    location: New York NY
+    year: 2007
+  spec:
+    - name: original
+      glassware: coupe
+      ingredients:
+        - name: hine h cognac
+          quantity: 1
+          unit: oz
+        - name: appleton estate v/x rum
+          quantity: 1
+          unit: oz
+        - name: carpano antica formula vermout
+          quantity: .75
+          unit: oz
+        - name: luxardo maraschino liqueur
+          quantity: .25
+          unit: oz
+        - name: angostura bitters
+          quantity: 1
+          unit: dash
+      instructions:
+        - stir all the ingredients over ice, then strain into a coupe
+      straw: false
+      citations:
+        - title: 'Death & Co: Modern Classic Cocktails'
+          author:
+            - David Kaplan
+            - Nick Fauchald
+            - Alex Day
+          date: 2014-10-07
+          publisher: Ten Speed Press
+          page: 218

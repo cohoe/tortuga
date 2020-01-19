@@ -1,0 +1,37 @@
+---
+- name: Wooden Ship
+  status: yellow
+  origin:
+    creator: Thomas Waugh
+    venue: Death & Co
+    location: New York NY
+    year: 2011
+  spec:
+    - name: original
+      glassware: rocks
+      ingredients:
+        - name: tanqueray no. ten gin
+          quantity: 1
+          unit: oz
+        - name: bols genever
+          quantity: 1
+          unit: oz
+        - name: grand marnier
+          quantity: .5
+          unit: oz
+        - name: cane sugar syrup
+          quantity: .5
+          unit: tsp
+        - name: fee brothers whiskey barrel-aged bitters
+          quantity: 1
+          unit: dash
+      instructions:
+        - stir all the ingredients over ice, then strain into a rocks glass
+      garnish:
+        - lemon twist
+      straw: false
+      citations:
+        - title: Death & Co
+      notes:
+        - no. 10 gin is described as citrus-forward, maybe like the privateer tiki
+        - sub either bluecoat or lockhouse in for the gin, and cointreau for the marnier

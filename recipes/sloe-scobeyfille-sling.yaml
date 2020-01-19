@@ -1,0 +1,43 @@
+---
+- name: Sloe Scobeyville Sling
+  status: red
+  origin:
+    creator: Phil ward
+    venue: Death & Co
+    location: New York NY
+    year: 2008
+  spec:
+    - name: original
+      glassware: highball
+      ingredients:
+        - name: laird's bonded apple brandy
+          quantity: 2
+          unit: oz
+        - name: plymouth sloe gin
+          quantity: 1
+          unit: oz
+        - name: lemon juice
+          quantity: .5
+          unit: oz
+        - name: simple syrup
+          quantity: .75
+          unit: oz
+        - name: peychaud's bitters
+          quantity: 2
+          unit: dash
+        - name: club soda
+      instructions:
+        - short shake all the ingredients (except the club soda) with 3 ice cubes, then strain into a highball glass filled with ice cubes
+        - top with club soda
+      garnish:
+        - apple slice
+      straw: true
+      citations:
+        - title: 'Death & Co: Modern Classic Cocktails'
+          author:
+            - David Kaplan
+            - Nick Fauchald
+            - Alex Day
+          date: 2014-10-07
+          publisher: Ten Speed Press
+          page: 214

@@ -1,0 +1,31 @@
+---
+- name: Paper Plane
+  status: green
+  origin:
+    creator: Sam Ross
+    venue: Little Branch
+    location: New York NY
+  spec:
+    - name: original
+      glassware: coupe
+      ingredients:
+        - name: bourbon
+          quantity: .75
+          unit: oz
+        - name: aperol
+          quantity: .75
+          unit: oz
+        - name: amaro nonino
+          quantity: .75
+          unit: oz
+        - name: lemon juice
+          quantity: .75
+          unit: oz
+      instructions:
+        - shake all ingredients with ice and strain into a chilled coupe glass
+      garnish:
+        - lemon twist
+      straw: false
+      citations:
+        - title: Imbibe
+          href: http://imbibemagazine.com/paper-plane-cocktail/

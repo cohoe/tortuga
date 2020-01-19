@@ -1,0 +1,96 @@
+---
+- name: French 75
+  status: green
+  origin:
+    creator: Judge Jr
+    year: 1927
+  spec:
+    - name: original
+      glassware: coupe
+      ingredients:
+        - name: london dry gin
+          quantity: 1
+          unit: oz
+        - name: lemon juice
+          quantity: .5
+          unit: oz
+        - name: simple syrup
+          quantity: .5
+          unit: oz
+        - name: brut champagne
+          quantity: 1
+          unit: oz
+      instructions:
+        - shake all ingredients except champagne with ice, then strain into a chilled coupe
+        - top with champagne
+      garnish:
+        - lemon twist
+      straw: false
+      citations:
+        - title: PDT Cocktails
+          href: https://mixologytech.com/pdt/index.html
+    - name: Punch Winner
+      origin:
+        creator: Tim Miner
+        venue: The Long Island Bar
+      glassware: flute
+      ingredients:
+        - name: h by hine cognac
+          quantity: 1
+          unit: oz
+        - name: lemon juice
+          quantity: .5
+          unit: oz
+        - name: simple syrup
+          quantity: .5
+          unit: oz
+        - name: louis roederer champagne brut primier
+      instructions:
+        - shake all ingredients except champagne with ice, then strain into a chilled coupe and top with champagne
+        - express a lemon twist over the glass then discard
+      citation:
+        - title: In Search of the Ultimate French 75
+          publisher: Punch
+          href: https://punchdrink.com/articles/ultimate-best-french-75-cocktail-recipe/
+        - title: Tim Miner's French 75
+          publisher: Punch
+          href: https://punchdrink.com/recipes/tim-miners-french-75/
+      notes:
+        - this is quite good, despite having thrown most of it on the floor
+    - name: Punch Runnerup
+      origin:
+        creator: Sarah Morrissey
+        venue: Frenchette
+      glassware: flute
+      ingredients:
+        - name: plymouth gin
+          quantity: 1.5
+          unit: oz
+        - name: lemon juice
+          quantity: 1
+          unit: oz
+        - name: cane syrup
+          quantity: .75
+          unit: oz
+        - name: orange bitters
+          quantity: 2
+          unit: dash
+        - name: sparkling wine
+          quantity: 2
+          unit: oz
+      instructions:
+        - shake all ingredients except champagne with ice, then strain into a chilled coupe and top with champagne
+      garnish:
+        - thin, spiraled lemon twist
+      citation:
+        - title: In Search of the Ultimate French 75
+          publisher: Punch
+          href: https://punchdrink.com/articles/ultimate-best-french-75-cocktail-recipe/
+        - title: Sarah Morrissey's French 75
+          publisher: Punch
+          href: https://punchdrink.com/recipes/sarah-morrisseys-french-75/
+      notes:
+        - cane at 1:1
+        - noted for its crushability
+        - too much sweet with the 2:1 cane, cut it in half and it would probably be ok
+        - does not fit in a coupe

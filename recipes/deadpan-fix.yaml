@@ -1,0 +1,38 @@
+---
+- name: Deadpan Fix
+  status: red
+  origin:
+    creator: Jessica Gonzalez
+    venue: Death & Co
+    location: New York NY
+    year: 2011
+  spec:
+    - name: original
+      glassware: coupe
+      ingredients:
+        - name: rittenhouse 100 rye
+          quantity: 1.5
+          unit: oz
+        - name: campari
+          quantity: .25
+          unit: oz
+        - name: grand marnier
+          quantity: .25
+          unit: oz
+        - name: grapefruit juice
+          quantity: .75
+          unit: oz
+        - name: lemon juice
+          quantity: .5
+          unit: oz
+        - name: ginger syrup
+          quantity: .25
+          unit: oz
+      instructions:
+        - shake all ingredients with ice, then strain into a coupe
+      garnish:
+        - orange twist
+      straw: false
+      citations:
+        - title: Death & Co
+          page: 199

@@ -1,0 +1,42 @@
+---
+- name: Not-Quite-Georgia Julep
+  status: green
+  origin:
+    creator: Phil Ward
+    venue: Death & Co
+    location: New York NY
+    year: 2008
+  spec:
+    - name: original
+      glassware: julep
+      ingredients:
+        - name: cognac
+          quantity: 1
+          unit: oz
+        - name: lairds bonded apple brandy
+          quantity: 1
+          unit: oz
+        - name: massenez crème de pêche peach liqueur
+          quantity: 1
+          unit: tsp
+        - name: simple syrup
+          quantity: 1
+          unit: tsp
+      instructions:
+        - put all the ingredients in a julep tin
+        - fill the tin halfway with crushed ice
+        - stir with a teaspoon, churning the ice as you go, for about 10 seconds, holding the tin by rim so the entire tin can eventually frost up
+        - add more crushed ice to fill the tin two-thirds full and stir until the tin is completely frosted
+        - add more ice to form a cone above the rum
+      garnish:
+        - mint bouquet (in the center of the ice)
+      straw: true
+      citations:
+        - title: 'Death & Co: Modern Classic Cocktails'
+          author:
+            - David Kaplan
+            - Nick Fauchald
+            - Alex Day
+          date: 2014-10-07
+          publisher: Ten Speed Press
+          page: 244

@@ -1,0 +1,31 @@
+---
+- name: Corn n Oil
+  status: green
+  origin:
+    venue: Barbados
+  spec:
+    - name: original
+      glassware: rocks
+      ingredients:
+        - name: cruzan blackstrap rum
+          quantity: 2
+          unit: oz
+        - name: john d taylor velvet falernum
+          quantity: .5
+          unit: oz
+        - name: lime juice
+          quantity: .5
+          unit: oz
+        - name: angostura bitters
+          quantity: 3
+          unit: dash
+      instructions:
+        - stir all ingredients over cracked ice in a rocks glass
+      garnish:
+        - lime wedge
+      straw: false
+      citations:
+        - title: Punch
+          href: https://punchdrink.com/recipes/corn-n-oil/
+      notes:
+        - specs between PDT, Punch, and Imbibe vary greatly

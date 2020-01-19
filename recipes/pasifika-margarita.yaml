@@ -1,0 +1,42 @@
+---
+- name: Pasifika Margarita
+  status: yellow
+  origin:
+    creator: Samuel Jimenez
+    location: Oakland CA
+  spec:
+    - name: original
+      glassware: highball
+      ingredients:
+        - name: patrón silver
+          quantity: 1.5
+          unit: oz
+        - name: patrón citrónge orange
+          quantity: .5
+          unit: oz
+        - name: coconut water
+          quantity: 1
+          unit: oz
+        - name: pineapple juice
+          quantity: .5
+          unit: oz
+        - name: lime juice
+          quantity: .5
+          unit: oz
+        - name: simple syrup
+          quantity: 1
+          unit: barspoon
+        - name: li hing mui syrup
+          quantity: 1
+          unit: barspoon
+      instructions:
+        - shake all ingredients with ice and strain into a highball filled with ice
+      garnish:
+        - 2 pineapple fronds
+      straw: false
+      citations:
+        - title: Direct
+        - title: 2019 Margarita of the Year
+          href: https://www.patrontequila.com/margarita-of-the-year/2019/pasifika-margarita.html
+      notes:
+        - li hing mui syrup is 8:8:1 water:sugar:li-hing-mui 

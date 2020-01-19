@@ -1,0 +1,36 @@
+---
+- name: Freehand Old Fashioned
+  status: green
+  origin:
+    creator: Jason Kilgore
+    venue: The Hawthorne
+    location: Boston MA
+  spec:
+    - name: original
+      glassware: rocks
+      ingredients:
+        - name: plantation pineapple rum
+          quantity: 2
+          unit: oz
+        - name: demerara syrup
+          quantity: .25
+          unit: oz
+        - name: galliano ristretto coffee liqueur
+          quantity: 1
+          unit: tsp
+        - name: angostura bitters
+          quantity: 1
+          unit: dash
+        - name: orange bitters
+          quantity: 1
+          unit: dash
+      instructions:
+        - stir all the ingredients with ice, then strain over a large ice cube
+        - twist an orange peel over the drink
+      garnish:
+        - orange peel
+      straw: false
+      citations:
+        - title: Imbibe Magazine
+          date: 2019
+          issue: July/August

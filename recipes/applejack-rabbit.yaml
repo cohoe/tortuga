@@ -1,0 +1,28 @@
+---
+- name: Applejack Rabbit
+  status: green
+  origin:
+    creator: Judge Jr
+    year: 1927
+  spec:
+    - name: original
+      glassware: coupe
+      ingredients:
+        - name: laird's bonded apple brandy
+          quantity: 2
+          unit: oz
+        - name: lemon juice
+          quantity: .5
+          unit: oz
+        - name: orange juice
+          quantity: .5
+          unit: oz
+        - name: grade B maple syrup
+          quantity: .5
+          unit: oz
+      instructions:
+        - shake with ice, then strain into a chilled coupe
+      straw: false
+      citations:
+        - title: PDT Cocktails
+          href: https://mixologytech.com/pdt/index.html

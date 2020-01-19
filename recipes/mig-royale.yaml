@@ -1,0 +1,37 @@
+---
+- name: Mig Royale
+  status: green
+  origin:
+    creator: Phil Ward
+    venue: Death & Co
+    location: New York NY
+    year: 2007
+  spec:
+    - name: original
+      glassware: coupe
+      ingredients:
+        - name: plymouth gin
+          quantity: 1
+          unit: oz
+        - name: cointreau
+          quantity: .75
+          unit: oz
+        - name: luxardo maraschino liqueur
+          quantity: .5
+          unit: oz
+        - name: lemon juice
+          quantity: .5
+          unit: oz
+        - name: dry champagne
+      instructions:
+        - shake all the ingredients (except the champagne) with ice, then strain into a coupe
+      straw: false
+      citations:
+        - title: 'Death & Co: Modern Classic Cocktails'
+          author:
+            - David Kaplan
+            - Nick Fauchald
+            - Alex Day
+          date: 2014-10-07
+          publisher: Ten Speed Press
+          page: 224

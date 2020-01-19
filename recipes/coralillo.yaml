@@ -1,0 +1,32 @@
+---
+- name: Coralillo
+  status: red
+  origin:
+    creator: Thomas Waugh
+    venue: Death & Co
+    location: New York NY
+    year: 2011
+  spec:
+    - name: original
+      glassware: coupe
+      ingredients:
+        - name: el tesoro anejo tequila
+          quantity: 1.5
+          unit: oz
+        - name: yellow chartreuse
+          quantity: .75
+          unit: oz
+        - name: busnel VSOP calvados
+          quantity: .75
+          unit: oz
+        - name: clear creek pear brandy
+          quantity: .25
+          unit: oz
+      instructions:
+        - stir all the ingredients over ice, then strain into a coupe
+      garnish:
+        - fuji apple slice
+      straw: false
+      citations:
+        - title: Death & Co
+          page: 190

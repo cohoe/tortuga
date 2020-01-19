@@ -1,0 +1,42 @@
+---
+- name: Odd Bedfellows
+  status: red
+  origin:
+    creator: Sother Teague
+  spec:
+    - name: original
+      glassware: fancy fizz
+      ingredients:
+        - name: fernet-branca
+          quantity: 1
+          unit: oz
+        - name: el dorado 8-year rum
+          quantity: .75
+          unit: oz
+        - name: creme de cacao
+          quantity: .5
+          unit: oz
+        - name: smith and cross jamaican rum
+          quantity: .25
+          unit: oz
+        - name: pineapple juice
+          quantity: 1.5
+          unit: oz
+        - name: coconut cream
+          quantity: 1
+          unit: oz
+      instructions:
+        - whip shake with a few pebbles of ice to chill and aerate
+        - pour into a glass filled with pebble ice
+        - top with more pebble ice
+      garnish:
+        - pineapple wedge
+        - mint sprigs
+        - grated bitter chocolate (optional)
+      straw: false
+      citations:
+        - title: I'm Just Here for the Drinks
+          author: Sother Teague
+          date: 2018
+          publisher: Media Lab Books
+          page: 194

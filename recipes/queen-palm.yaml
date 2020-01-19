@@ -1,0 +1,38 @@
+---
+- name: Queen Palm
+  status: red
+  origin:
+    creator: Thomas Waugh
+    venue: Death & Co
+    location: New York NY
+  spec:
+    - name: original
+      glassware: coupe
+      ingredients:
+        - name: plymouth gin
+          quantity: 1.5
+          unit: oz
+        - name: donn's spices #2
+          quantity: .5
+          unit: oz
+        - name: kalani ron de coco coconut liqueur
+          quantity: 3
+          unit: dash
+        - name: grapefruit juice
+          quantity: .5
+          unit: oz
+        - name: lime juice
+          quantity: .5
+          unit: oz
+        - name: coconut water
+          quantity: .5
+          unit: oz
+        - name: cane sugar syrup
+          quantity: 1
+          unit: tsp
+      instructions:
+        - shake all the ingredients with ice, then strain into a coupe
+      straw: false
+      citations:
+        - title: Death & Co
+          page: 159

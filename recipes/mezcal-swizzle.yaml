@@ -1,0 +1,39 @@
+---
+- name: Mezcal Swizzle
+  status: red
+  origin:
+  spec:
+    - name: original
+      glassware: collins
+      ingredients:
+        - name: mezcal
+          quantity: 1
+          unit: oz
+        - name: amontillado sherry
+          quantity: 1
+          unit: oz
+        - name: ginger syrup
+          quantity: .5
+          unit: oz
+        - name: falernum
+          quantity: .5
+          unit: oz
+        - name: grapefruit juice
+          quantity: .5
+          unit: oz
+        - name: lime juice
+          quantity: .5
+          unit: oz
+      instructions:
+        - combine all ingredients with a few pieces of pebble ice
+        - whip shake until melted then pour into a collins glass
+        - top with pebble ice
+      garnish:
+        - grapefruit
+        - sal de gusano
+      straw: false
+      citations:
+        - title: I'm Just Here for the Drinks
+          page: 155
+      notes:
+        - Sother says this is a non-swizzle swizzle
