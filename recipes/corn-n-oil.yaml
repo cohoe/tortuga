@@ -3,7 +3,7 @@
   status: green
   origin:
     venue: Barbados
-  spec:
+  specs:
     - name: original
       glassware: rocks
       ingredients:

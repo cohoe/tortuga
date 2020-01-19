@@ -9,7 +9,7 @@
     story: >-
       This started as a genever-based martini, then Phil topped it with
       champagne.
-  spec:
+  specs:
     - name: original
       glassware: flute
       ingredients:

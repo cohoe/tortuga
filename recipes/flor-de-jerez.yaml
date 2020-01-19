@@ -16,7 +16,7 @@
       to add other sweeteners to a drink. In his Flor de Jerez, Joaquín uses
       rum to bring out the sherry's darker, raisiny flavors, and apricot
       liqueur to bring out its fruity notes.
-  spec:
+  specs:
   - name: original
     glassware: coupe
     ingredients:

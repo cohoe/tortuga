@@ -5,7 +5,7 @@
     creator:
     venue: Blueprint
     location: Brooklyn NY
-  spec:
+  specs:
     - name: original
       glassware: rocks
       ingredients:

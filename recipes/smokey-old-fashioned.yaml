@@ -3,7 +3,7 @@
   status: yellow
   origin:
     creator: Elliott Clark
-  spec:
+  specs:
     - name: original
       glassware: rocks
       ingredients:

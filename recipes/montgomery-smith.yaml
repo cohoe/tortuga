@@ -5,7 +5,7 @@
     creator: Nate Dumas
     venue: PDT
     location: New York NY
-  spec:
+  specs:
     - name: original
       glassware: coupe
       ingredients:

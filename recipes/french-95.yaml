@@ -2,7 +2,7 @@
 - name: French 95
   status: red
   origin:
-  spec:
+  specs:
     - name: original
       glassware: fizz
       ingredients:

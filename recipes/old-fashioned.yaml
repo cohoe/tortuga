@@ -2,7 +2,7 @@
 - name: Old Fashioned
   status: green
   origin:
-  spec:
+  specs:
     - name: original
       glassware: rocks
       ingredients:

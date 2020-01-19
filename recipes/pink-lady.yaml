@@ -2,7 +2,7 @@
 - name: Pink Lady
   status: red
   origin:
-  spec:
+  specs:
     - name: original
       glassware: UNKNOWN
       ingredients:

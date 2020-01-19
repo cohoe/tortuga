@@ -5,7 +5,7 @@
     creator: Jason Kilgore
     venue: The Hawthorne
     location: Boston MA
-  spec:
+  specs:
     - name: original
       glassware: rocks
       ingredients:

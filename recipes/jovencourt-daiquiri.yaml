@@ -9,7 +9,7 @@
     story: >-
       This cocktail was my first epiphany about using mezcal in a mixed
       drink. Doing so is common now, but nobody was mixing with it back then.
-  spec:
+  specs:
     - name: original
       glassware: coupe
       ingredients:

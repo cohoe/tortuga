@@ -4,7 +4,7 @@
   origin:
     venue: State Park & The Baldwin Bar
     location: Cambridge & Woburn MA
-  spec:
+  specs:
     - name: original
       glassware: tiki
       ingredients:

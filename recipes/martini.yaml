@@ -2,7 +2,7 @@
 - name: Martini
   status: green
   origin:
-  spec:
+  specs:
     - name: original
       glassware: martini
       ingredients:

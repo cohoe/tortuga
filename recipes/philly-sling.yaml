@@ -5,7 +5,7 @@
     creator: Derek Brown
     venue: Columbia Room
     location: New York NY
-  spec:
+  specs:
     - name: original
       glassware: coupe
       ingredients:

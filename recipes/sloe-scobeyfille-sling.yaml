@@ -6,7 +6,7 @@
     venue: Death & Co
     location: New York NY
     year: 2008
-  spec:
+  specs:
     - name: original
       glassware: highball
       ingredients:

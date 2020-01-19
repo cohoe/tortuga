@@ -5,7 +5,7 @@
     creator: Félix Kir
     location: Dijon, France
     era: 1940s
-  spec:
+  specs:
     - name: original
       glassware: flute
       ingredients:

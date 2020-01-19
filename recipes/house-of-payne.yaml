@@ -9,7 +9,7 @@
     story: ->
       Raspberries and Campari have a great affinity for each other, so I
       combined them, along with sloe gin, in this Negroni variation.
-  spec:
+  specs:
     - name: original
       glassware: rocks
       ingredients:

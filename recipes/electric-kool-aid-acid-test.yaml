@@ -10,7 +10,7 @@
       This is a classic Mr. Potato Head spec. With gin it becomes a ramble;
       with rum it's a Seersucker; and with apple brandy it's a Sloe
       Scobeyville Sling.
-  spec:
+  specs:
     - name: original
       glassware: pilsner
       ingredients:

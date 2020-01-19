@@ -3,7 +3,7 @@
   status: green
   origin:
     location: Spain
-  spec:
+  specs:
     - name: original
       glassware: highball
       ingredients:

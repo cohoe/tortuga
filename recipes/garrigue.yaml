@@ -5,7 +5,7 @@
     creator: Karim Mehdi
     venue: SABA
     location: Dublin, Ireland
-  spec:
+  specs:
     - name: original
       glassware: coupe
       ingredients:

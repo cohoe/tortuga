@@ -4,7 +4,7 @@
   origin:
     location: London
     year: 1922
-  spec:
+  specs:
     - name: original
       glassware: coupe
       ingredients:

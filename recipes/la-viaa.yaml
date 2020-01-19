@@ -10,7 +10,7 @@
       For this, my first foray into lower-alcohol cocktails, I used two
       of my pet ingredients: sherry and Amaro Nonino. It tastes similar
       to a Manhattan but much lighter.
-  spec:
+  specs:
     - name: original
       glassware: coupe
       ingredients:

@@ -3,7 +3,7 @@
   status: green
   origin:
     location: Cuba
-  spec:
+  specs:
     - name: original
       glassware: coupe
       ingredients:

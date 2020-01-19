@@ -5,7 +5,7 @@
     creator: Carrie Cole
     venue: The Hawthorne
     location: Boston MA
-  spec:
+  specs:
     - name: original
       glassware: coupe
       ingredients:

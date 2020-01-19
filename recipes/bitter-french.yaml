@@ -9,7 +9,7 @@
     story: >-
       In my opinion, this French 75 variation is the best beginner Campari
       drink in history.
-  spec:
+  specs:
     - name: original
       glassware: flute
       ingredients:

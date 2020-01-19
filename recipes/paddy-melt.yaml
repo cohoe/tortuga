@@ -9,7 +9,7 @@
     story: >-
       Guests who swear up and down that they hate whiskey will gulp down
       four of these in an evening.
-  spec:
+  specs:
     - name: original
       glassware: fizz
       ingredients:

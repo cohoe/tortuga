@@ -3,7 +3,7 @@
   status: red
   origin:
     creator: Sother Teague
-  spec:
+  specs:
     - name: original
       glassware: rocks
       ingredients:

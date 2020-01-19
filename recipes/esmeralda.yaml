@@ -5,7 +5,7 @@
     creator: Ben Sandrof
     venue: Drink
     location: Boston MA
-  spec:
+  specs:
     - name: original
       glassware: coupe
       ingredients:

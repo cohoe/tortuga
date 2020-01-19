@@ -4,7 +4,7 @@
   origin:
     creator: Robert Simonson
     year: 2017
-  spec:
+  specs:
     - name: original
       glassware: coupe
       ingredients:

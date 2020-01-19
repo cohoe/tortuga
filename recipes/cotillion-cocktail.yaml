@@ -10,7 +10,7 @@
       vanilla and oak notes of aged spirits in this southern favorite.
       At Café Cancale in Chicago, Scott Kennedy uses dry curaçao instead
       of triple sec.
-  spec:
+  specs:
     - name: original
       glassware: coupe
       ingredients:

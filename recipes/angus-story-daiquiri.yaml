@@ -9,7 +9,7 @@
     story: >-
       The venerable British bartender Angus Winchester came in one night
       and asked me to make him a three-rum daiquiri. This is the result.
-  spec:
+  specs:
     - name: original
       glassware: coupe
       ingredients:

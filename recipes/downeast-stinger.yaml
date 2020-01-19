@@ -4,7 +4,7 @@
   origin:
     venue: Charlie's Kitchen
     location: Cambridge MA
-  spec:
+  specs:
     - name: original
       glassware: pint
       ingredients:

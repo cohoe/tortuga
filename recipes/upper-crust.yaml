@@ -2,7 +2,7 @@
 - name: Upper Crust
   status: red
   origin:
-  spec:
+  specs:
     - name: original
       glassware: coupe
       ingredients:

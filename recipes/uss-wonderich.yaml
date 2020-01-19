@@ -12,7 +12,7 @@
       Wondrich, a proponent of this practice, and incidentally, the
       first guest to request a sherry drink at Berry's famed New Orleans
       tiki bar, Latitude 29.
-  spec:
+  specs:
     - name: original
       glassware: coupe
       ingredients:

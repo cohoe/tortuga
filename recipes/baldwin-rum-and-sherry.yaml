@@ -9,7 +9,7 @@
       I asked for something rum and sherry. This was pretty great. Although
       in handing the spec to various bartenders they suggest changes, mostly
       due to its quantity of Orgeat.
-  spec:
+  specs:
     - name: original
       glassware: rocks
       ingredients:

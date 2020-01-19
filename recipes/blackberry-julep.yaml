@@ -5,7 +5,7 @@
     creator: Dale DeGroff
     venue: Blackbird Bar Restaurant
     location: New York NY
-  spec:
+  specs:
     - name: original
       glassware: highball
       ingredients:

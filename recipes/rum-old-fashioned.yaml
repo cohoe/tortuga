@@ -1,7 +1,7 @@
 ---
 - name: Rum Old Fashioned
   status: green
-  spec:
+  specs:
     - name: Two Rum
       origin:
         venue: Drink

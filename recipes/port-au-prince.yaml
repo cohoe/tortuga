@@ -2,7 +2,7 @@
 - name: Port au Prince
   status: red
   origin:
-  spec:
+  specs:
     - name: original
       glassware: pilsner
       ingredients:

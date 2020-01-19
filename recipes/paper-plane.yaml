@@ -5,7 +5,7 @@
     creator: Sam Ross
     venue: Little Branch
     location: New York NY
-  spec:
+  specs:
     - name: original
       glassware: coupe
       ingredients:

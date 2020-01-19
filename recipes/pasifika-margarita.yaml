@@ -4,7 +4,7 @@
   origin:
     creator: Samuel Jimenez
     location: Oakland CA
-  spec:
+  specs:
     - name: original
       glassware: highball
       ingredients:

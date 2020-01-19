@@ -5,7 +5,7 @@
     creator: Sother Teague
     venue: Amor y Amargo
     location: New York NY
-  spec:
+  specs:
     - name: original
       glassware: highball
       ingredients:

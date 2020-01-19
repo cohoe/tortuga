@@ -6,7 +6,7 @@
     venue: Sexton Midnight Club
     location: New Orleans LA
     year: 2019
-  spec:
+  specs:
     - name: original
       glassware: collins
       ingredients:

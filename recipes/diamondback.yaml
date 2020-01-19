@@ -1,7 +1,7 @@
 ---
 - name: Diamondback
   status: green
-  spec:
+  specs:
     - name: original
       glassware: nicknora
       ingredients:

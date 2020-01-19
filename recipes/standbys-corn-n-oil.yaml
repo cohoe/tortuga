@@ -5,7 +5,7 @@
     creator: Joe Robinson
     venue: Standby
     location: Detroit
-  spec:
+  specs:
     - name: original
       glassware: collins
       ingredients:

@@ -6,7 +6,7 @@
     venue: PDT
     location: New York NY
     year: 2010
-  spec:
+  specs:
     - name: original
       glassware: coupe
       ingredients:

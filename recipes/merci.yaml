@@ -7,7 +7,7 @@
     location: Akron OH
     story: >-
       Named for something an Italian mob boss would say.
-  spec:
+  specs:
     - name: original
       glassware: coupe
       ingredients:

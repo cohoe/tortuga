@@ -10,7 +10,7 @@
       This was the first of many sherry cocktails I've created. It's my
       tribute to the Queen's Park Swizzle, the most classic drink in
       the category.
-  spec:
+  specs:
     - name: original
       glassware: pilsner
       ingredients:

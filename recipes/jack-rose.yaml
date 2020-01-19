@@ -3,7 +3,7 @@
   status: green
   origin:
     year: 1910
-  spec:
+  specs:
     - name: original
       glassware: coupe
       ingredients:

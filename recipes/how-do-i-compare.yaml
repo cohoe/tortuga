@@ -2,7 +2,7 @@
 - name: How Do I Compare
   status: green
   origin:
-  spec:
+  specs:
     - name: original
       glassware: rocks
       ingredients:

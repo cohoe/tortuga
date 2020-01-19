@@ -8,7 +8,7 @@
     story: >-
       This is a fancy version of a tasty and simple cocktail [Jack Rose]
       that has stood the test of time.
-  spec:
+  specs:
     - name: original
       glassware: sour
       ingredients:

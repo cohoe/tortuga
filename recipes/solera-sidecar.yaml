@@ -10,7 +10,7 @@
       This play on the Sidecar tastes like a dessert pastry. The sherry
       lends a butty flavor, the amaro provides a biscotti note, and the
       cognac is fruity and floral.
-  spec:
+  specs:
     - name: original
       glassware: coupe
       ingredients:

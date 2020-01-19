@@ -10,7 +10,7 @@
       In this decadent daiquiri variation, the bright fruity character of
       Santa Teresa rum becomes even more pronounced thanks to the apple brandy
       and maple syrup.
-  spec:
+  specs:
     - name: original
       glassware: coupe
       ingredients:

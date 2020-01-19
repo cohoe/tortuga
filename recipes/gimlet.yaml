@@ -1,7 +1,7 @@
 ---
 - name: Gimlet
   status: green
-  spec:
+  specs:
     - name: Clover Club
       origin:
         creator: Tom Macy

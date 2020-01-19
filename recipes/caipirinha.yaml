@@ -3,7 +3,7 @@
   status: green
   origin:
     location: Brazil
-  spec:
+  specs:
     - name: original
       glassware: rocks
       ingredients:

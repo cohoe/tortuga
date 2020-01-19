@@ -4,7 +4,7 @@
   origin:
     creator: Victor Bergeron
     year: 1944
-  spec:
+  specs:
     - name: original
       glassware: UNKNOWN
       ingredients:

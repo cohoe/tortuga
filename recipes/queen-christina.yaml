@@ -5,7 +5,7 @@
     creator: Tom Mahne
     venue: Eastern Standard
     location: Boston MA
-  spec:
+  specs:
     - name: original
       glassware: coupe
       ingredients:

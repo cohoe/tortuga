@@ -5,7 +5,7 @@
     creator: Carlo Caroscio
     venue: Backbar
     location: Somerville MA
-  spec:
+  specs:
     - name: original
       glassware: wine
       ingredients:

@@ -9,7 +9,7 @@
     story: >-
       The name came to me first, then the drink followed: a cognc-based
       Manhattan variation with a nod to tiki.
-  spec:
+  specs:
     - name: original
       glassware: coupe
       ingredients:

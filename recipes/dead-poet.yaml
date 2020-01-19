@@ -5,7 +5,7 @@
     creator: Keegan McGregor
     venue: Field Guide
     location: Halifax NS
-  spec:
+  specs:
     - name: original
       glassware: coupe
       ingredients:

@@ -5,7 +5,7 @@
     creator: Stuart Humphries
     venue: The Pass & Provisions
     location: Houston TX
-  spec:
+  specs:
     - name: original
       glassware: rocks
       ingredients:

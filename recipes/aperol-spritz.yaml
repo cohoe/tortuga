@@ -2,7 +2,7 @@
 - name: Aperol Spritz
   status: green
   origin:
-  spec:
+  specs:
     - name: original
       glassware: wine
       ingredients:

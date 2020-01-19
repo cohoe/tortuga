@@ -5,7 +5,7 @@
     creator: franky marshall
     venue: Le Boudoir
     location: Brooklyn NY
-  spec:
+  specs:
     - name: original
       glassware: snifter
       ingredients:

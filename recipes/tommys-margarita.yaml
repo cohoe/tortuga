@@ -4,7 +4,7 @@
   origin:
     venue: Tommy's Mexican Restaurant
     location: San Francisco CA
-  spec:
+  specs:
     - name: original
       glassware: rocks
       ingredients:

@@ -3,7 +3,7 @@
   status: green
   origin:
     location: Mexico
-  spec:
+  specs:
     - name: original
       glassware: rocks
       ingredients:

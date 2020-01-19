@@ -5,7 +5,7 @@
     creator: Jenna Rycroft
     venue: Bar Mezzana
     location: Boston MA
-  spec:
+  specs:
     - name: original
       glassware: coupe
       ingredients:

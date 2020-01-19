@@ -1,7 +1,7 @@
 ---
 - name: Martinez
   status: green
-  spec:
+  specs:
     - name: PDT
       glassware: coupe
       ingredients:

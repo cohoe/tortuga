@@ -2,7 +2,7 @@
 - name: Last Word
   status: green
   origin:
-  spec:
+  specs:
     - name: original
       glassware: coupe
       ingredients:

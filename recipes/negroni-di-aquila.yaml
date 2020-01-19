@@ -6,7 +6,7 @@
     venue: Longman & Eagle
     location: Chicago IL
     year: 2010
-  spec:
+  specs:
     - name: original
       glassware: goblet
       ingredients:

@@ -5,7 +5,7 @@
     creator: Michael Klein
     venue: PDT
     location: New York NY
-  spec:
+  specs:
     - name: original
       glassware: coupe
       ingredients:

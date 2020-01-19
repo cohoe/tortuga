@@ -10,7 +10,7 @@
       It's hard to predict which D&C drinks will be replicated elsewhere. This
       sazerac variation has ended up on the menus of cocktail bars all over
       the world.
-  spec:
+  specs:
     - name: original
       glassware: rocks
       ingredients:

@@ -2,7 +2,7 @@
 - name: Manhattan
   status: green
   origin:
-  spec:
+  specs:
     - name: Death & Co
       glassware: coupe
       ingredients:

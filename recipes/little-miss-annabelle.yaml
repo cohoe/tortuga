@@ -10,7 +10,7 @@
       I named this variation on the Sidecar after the daughter of Alexandre Gabriel,
       who owns Pierre Ferrand. It has a rich mouthfeel for such a small amount of
       sweetener.
-  spec:
+  specs:
     - name: original
       glassware: coupe
       ingredients:

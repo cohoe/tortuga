@@ -3,7 +3,7 @@
   status: green
   origin:
     creator: Laura Bailey
-  spec:
+  specs:
     - name: original
       glassware: rocks
       ingredients:

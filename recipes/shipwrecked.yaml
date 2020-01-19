@@ -2,7 +2,7 @@
 - name: Shipwrecked
   status: red
   origin:
-  spec:
+  specs:
     - name: original
       glassware: coupe
       ingredients:

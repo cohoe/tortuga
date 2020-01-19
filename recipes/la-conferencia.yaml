@@ -10,7 +10,7 @@
       I was so impressed (and jealous) when Brian created his Conference
       cocktail that I had to rip it off. My version replaced the whiskey with
       tequila, naturally.
-  spec:
+  specs:
     - name: original
       glassware: rocks
       ingredients:

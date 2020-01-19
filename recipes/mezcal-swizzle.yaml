@@ -2,7 +2,7 @@
 - name: Mezcal Swizzle
   status: red
   origin:
-  spec:
+  specs:
     - name: original
       glassware: collins
       ingredients:

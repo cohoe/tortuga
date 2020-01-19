@@ -10,7 +10,7 @@
       This drink contains all things French: French absinth, French cognac
       French-colony rum, and bitters that originated in Haiti, a former
       French colony.
-  spec:
+  specs:
     - name: original
       glassware: rocks
       ingredients:

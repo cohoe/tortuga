@@ -5,7 +5,7 @@
     creator: Jack Morgan & John G. Martin
     location: Hollywood CA
     year: 1940
-  spec:
+  specs:
     - name: PDT
       glassware: mule
       origin:

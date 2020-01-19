@@ -2,7 +2,7 @@
 - name: Session Margarita
   status: red
   origin:
-  spec:
+  specs:
     - name: original
       glassware: rocks
       ingredients:

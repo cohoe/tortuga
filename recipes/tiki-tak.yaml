@@ -5,7 +5,7 @@
     creator: Andrew Porteus
     venue: Montana's Trail House
     location: Brooklyn NY
-  spec:
+  specs:
     - name: original
       glassware: stemless wine
       ingredients:

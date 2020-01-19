@@ -9,7 +9,7 @@
     story: >-
       This was my first Death & Co drink. It uses the popular tiki flavor
       combination of pineapple, lemon, and spice, the latter in Donn's Spices #2.
-  spec:
+  specs:
     - name: original
       glassware: coupe
       ingredients:

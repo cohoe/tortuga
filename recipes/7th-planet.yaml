@@ -3,7 +3,7 @@
   status: red
   origin:
     creator: Rick Dobbs
-  spec:
+  specs:
     - name: original
       glassware: UNKNOWN
       ingredients:

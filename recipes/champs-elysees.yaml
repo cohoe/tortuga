@@ -6,7 +6,7 @@
     venue: Savoy-Plaza Hotel
     location: New York NY
     year: 1930
-  spec:
+  specs:
     - name: original
       glassware: coupe
       ingredients:

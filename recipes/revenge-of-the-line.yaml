@@ -10,7 +10,7 @@
       base in his Revenge of the Line. Complemented by yellow Chartreuse,
       lime and charred pineapple, the drink reads like a beachside bonfire
       in a glass.
-  spec:
+  specs:
     - name: original
       glassware: rocks
       ingredients:

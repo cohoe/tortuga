@@ -2,7 +2,7 @@
 - name: Airmail
   status: red
   origin:
-  spec:
+  specs:
     - name: original
       glassware: flute
       ingredients:

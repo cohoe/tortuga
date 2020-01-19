@@ -9,7 +9,7 @@
     story: >-
       Anthony Sarnicola, a regular at the bar, named this drink and described
       it as "a sex change for Laphroaig"
-  spec:
+  specs:
     - name: original
       glassware: pilsner
       ingredients:

@@ -4,7 +4,7 @@
   origin:
     creator: Grant Cohoe
     location: Cambridge MA
-  spec:
+  specs:
     - name: original
       glassware: rocks
       ingredients:

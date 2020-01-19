@@ -7,7 +7,7 @@
     story: >-
       This fizzy pisco cocktail matches the floral qualities of
       pisco with the earthiness of Pimm's.
-  spec:
+  specs:
     - name: original
       glassware: collins
       ingredients:

@@ -11,7 +11,7 @@
       York speakeasy Milk & Honey, which is essentially a rum Manhattan.
       The splash of champagne acts more like a garnish, lightening up the
       drink a little bit.
-  spec:
+  specs:
     - name: original
       glassware: coupe
       ingredients:

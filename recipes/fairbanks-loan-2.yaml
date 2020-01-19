@@ -11,7 +11,7 @@
       Daiquiri on steroids," says Brian Kane. Originally made with gin,
       apricot brandy and egg white, the drink is named after the influential
       silent film actor who became one of Hollywood’s earliest megastars.
-  spec:
+  specs:
     - name: original
       glassware: coupe
       ingredients:
