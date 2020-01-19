@@ -1,5 +1,5 @@
 ---
-- name: Negroni
+- display_name: Negroni
   status: green
   origin:
     location: Italy

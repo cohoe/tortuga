@@ -1,5 +1,5 @@
 ---
-- name: Montgomery Smith
+- display_name: Montgomery Smith
   status: green
   origin:
     creator: Nate Dumas

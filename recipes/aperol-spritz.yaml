@@ -1,5 +1,5 @@
 ---
-- name: Aperol Spritz
+- display_name: Aperol Spritz
   status: green
   origin:
   specs:

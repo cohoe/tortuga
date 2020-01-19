@@ -1,5 +1,5 @@
 ---
-- name: Champs-Élysées
+- display_name: Champs-Élysées
   status: green
   origin:
     creator: Harry Craddock

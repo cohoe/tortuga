@@ -1,5 +1,5 @@
 ---
-- name: Philly Sling
+- display_name: Philly Sling
   status: red
   origin:
     creator: Derek Brown

@@ -1,5 +1,5 @@
 ---
-- name: Lilywhacker
+- display_name: Lilywhacker
   status: yellow
   origin:
     creator: Phil Ward

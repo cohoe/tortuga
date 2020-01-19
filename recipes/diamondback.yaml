@@ -1,5 +1,5 @@
 ---
-- name: Diamondback
+- display_name: Diamondback
   status: green
   specs:
     - name: original

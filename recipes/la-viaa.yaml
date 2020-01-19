@@ -1,5 +1,5 @@
 ---
-- name: La Viáa
+- display_name: La Viáa
   status: yellow
   origin:
     creator: Alex Day

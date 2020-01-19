@@ -1,5 +1,5 @@
 ---
-- name: Puerto Rican Racer
+- display_name: Puerto Rican Racer
   status: red
   origin:
     creator: Thomas Waugh

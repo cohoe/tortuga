@@ -1,5 +1,5 @@
 ---
-- name: Pennington Daiquiri
+- display_name: Pennington Daiquiri
   status: red
   origin:
     creator: Tyson Buhler

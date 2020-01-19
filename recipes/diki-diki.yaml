@@ -1,5 +1,5 @@
 ---
-- name: Diki-Diki
+- display_name: Diki-Diki
   status: green
   origin:
     creator: Robert Vermiere

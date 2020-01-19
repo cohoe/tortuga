@@ -1,5 +1,5 @@
 ---
-- name: Pressure Drop
+- display_name: Pressure Drop
   status: red
   origin:
     creator: Thomas Waugh

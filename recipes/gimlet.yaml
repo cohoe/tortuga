@@ -1,5 +1,5 @@
 ---
-- name: Gimlet
+- display_name: Gimlet
   status: green
   specs:
     - name: Clover Club

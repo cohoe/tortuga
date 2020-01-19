@@ -1,5 +1,5 @@
 ---
-- name: Diamanteback
+- display_name: Diamanteback
   status: red
   origin:
     venue: Drink

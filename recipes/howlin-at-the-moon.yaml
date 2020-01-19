@@ -1,5 +1,5 @@
 ---
-- name: Howlin at the Moon
+- display_name: Howlin at the Moon
   status: red
   origin:
     creator: Brad Farran

@@ -1,5 +1,5 @@
 ---
-- name: Odd Bedfellows
+- display_name: Odd Bedfellows
   status: red
   origin:
     creator: Sother Teague

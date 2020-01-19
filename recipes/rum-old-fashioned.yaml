@@ -1,5 +1,5 @@
 ---
-- name: Rum Old Fashioned
+- display_name: Rum Old Fashioned
   status: green
   specs:
     - name: Two Rum

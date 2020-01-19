@@ -1,5 +1,5 @@
 ---
-- name: Coronation
+- display_name: Coronation
   status: red
   origin:
     creator:

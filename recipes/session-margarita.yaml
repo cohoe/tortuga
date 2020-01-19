@@ -1,5 +1,5 @@
 ---
-- name: Session Margarita
+- display_name: Session Margarita
   status: red
   origin:
   specs:

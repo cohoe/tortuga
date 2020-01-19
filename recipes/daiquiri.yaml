@@ -1,5 +1,5 @@
 ---
-- name: Daiquiri
+- display_name: Daiquiri
   status: green
   origin:
     location: Cuba

@@ -1,5 +1,5 @@
 ---
-- name: Le Gigot Flip
+- display_name: Le Gigot Flip
   status: yellow
   origin:
     creator: Phil Ward

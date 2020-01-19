@@ -1,5 +1,5 @@
 ---
-- name: Tiki Tak
+- display_name: Tiki Tak
   status: yellow
   origin:
     creator: Andrew Porteus

@@ -1,5 +1,5 @@
 ---
-- name: Spaghetti Western
+- display_name: Spaghetti Western
   status: green
   origin:
     creator: Jessica Gonzalez

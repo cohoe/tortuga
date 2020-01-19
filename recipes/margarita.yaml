@@ -1,5 +1,5 @@
 ---
-- name: Margarita
+- display_name: Margarita
   status: green
   origin:
     location: Mexico

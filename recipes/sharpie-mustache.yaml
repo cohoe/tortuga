@@ -1,5 +1,5 @@
 ---
-- name: Sharpie Mustache
+- display_name: Sharpie Mustache
   status: yellow
   origin:
     creator: Chris Elford

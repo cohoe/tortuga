@@ -1,5 +1,5 @@
 ---
-- name: House Of Payne
+- display_name: House Of Payne
   status: red
   origin:
     creator: Phil Ward

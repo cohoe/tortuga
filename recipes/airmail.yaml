@@ -1,5 +1,5 @@
 ---
-- name: Airmail
+- display_name: Airmail
   status: red
   origin:
   specs:

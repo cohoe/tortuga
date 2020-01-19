@@ -1,5 +1,5 @@
 ---
-- name: Shipwrecked
+- display_name: Shipwrecked
   status: red
   origin:
   specs:

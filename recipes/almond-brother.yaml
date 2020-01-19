@@ -1,5 +1,5 @@
 ---
-- name: Almond Brother
+- display_name: Almond Brother
   status: red
   origin:
     creator: Jason Littrell

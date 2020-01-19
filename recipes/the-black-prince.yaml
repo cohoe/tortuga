@@ -1,5 +1,5 @@
 ---
-- name: The Black Prince
+- display_name: The Black Prince
   status: red
   origin:
     creator: Phil Ward

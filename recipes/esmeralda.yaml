@@ -1,5 +1,5 @@
 ---
-- name: Esmeralda
+- display_name: Esmeralda
   status: red
   origin:
     creator: Ben Sandrof

@@ -1,5 +1,5 @@
 ---
-- name: Pete's Word
+- display_name: Pete's Word
   status: red
   origin:
     creator: Phil Ward

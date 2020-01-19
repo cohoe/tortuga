@@ -1,5 +1,5 @@
 ---
-- name: Framboise Fizz
+- display_name: Framboise Fizz
   status: green
   origin:
     creator: Michael Klein

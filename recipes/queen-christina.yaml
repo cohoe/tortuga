@@ -1,5 +1,5 @@
 ---
-- name: Queen Christina
+- display_name: Queen Christina
   status: green
   origin:
     creator: Tom Mahne

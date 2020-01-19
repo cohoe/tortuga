@@ -1,5 +1,5 @@
 ---
-- name: Doctor Cocktail
+- display_name: Doctor Cocktail
   status: green
   origin:
     creator: Hugo Ensslin

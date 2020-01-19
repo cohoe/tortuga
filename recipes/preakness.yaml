@@ -1,5 +1,5 @@
 ---
-- name: Preakness
+- display_name: Preakness
   status: red
   origin:
   specs:

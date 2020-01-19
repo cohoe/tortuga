@@ -1,5 +1,5 @@
 ---
-- name: Baked Apple Toddy
+- display_name: Baked Apple Toddy
   status: red
   origin:
     creator: Sother Teague

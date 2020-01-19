@@ -1,5 +1,5 @@
 ---
-- name: Adelita
+- display_name: Adelita
   status: red
   origin:
     creator: Carrie Cole

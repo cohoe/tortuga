@@ -1,5 +1,5 @@
 ---
-- name: Fish House Punch
+- display_name: Fish House Punch
   status: yellow
   origin:
     creator:

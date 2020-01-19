@@ -1,5 +1,5 @@
 ---
-- name: Martinez
+- display_name: Martinez
   status: green
   specs:
     - name: PDT

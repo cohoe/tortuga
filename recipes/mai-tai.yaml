@@ -1,5 +1,5 @@
 ---
-- name: Mai Tai
+- display_name: Mai Tai
   status: green
   origin:
     creator: Victor Bergeron

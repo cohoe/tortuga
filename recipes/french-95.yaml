@@ -1,5 +1,5 @@
 ---
-- name: French 95
+- display_name: French 95
   status: red
   origin:
   specs:

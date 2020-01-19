@@ -1,5 +1,5 @@
 ---
-- name: Smokey Old Fashioned
+- display_name: Smokey Old Fashioned
   status: yellow
   origin:
     creator: Elliott Clark

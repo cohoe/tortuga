@@ -1,5 +1,5 @@
 ---
-- name: Little Miss Annabelle
+- display_name: Little Miss Annabelle
   status: yellow
   origin:
     creator: Joaquín Simó

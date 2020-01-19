@@ -1,5 +1,5 @@
 ---
-- name: Jack Sparrow Flip
+- display_name: Jack Sparrow Flip
   status: red
   origin:
     creator: Brian Miller

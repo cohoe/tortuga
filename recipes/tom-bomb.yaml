@@ -1,5 +1,5 @@
 ---
-- name: Tom Bomb
+- display_name: Tom Bomb
   status: yellow
   origin:
     creator: Jillian Vose

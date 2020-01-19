@@ -1,5 +1,5 @@
 ---
-- name: Flor de Jerez
+- display_name: Flor de Jerez
   status: green
   origin:
     creator: Joaquín Simó

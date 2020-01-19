@@ -1,5 +1,5 @@
 ---
-- name: State Park Mai Tai
+- display_name: State Park Mai Tai
   status: green
   origin:
     venue: State Park & The Baldwin Bar

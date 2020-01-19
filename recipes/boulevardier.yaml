@@ -1,5 +1,5 @@
 ---
-- name: Boulevardier
+- display_name: Boulevardier
   status: green
   origin:
     creator: Harry McElhone

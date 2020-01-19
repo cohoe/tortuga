@@ -1,5 +1,5 @@
 ---
-- name: Snowballin'
+- display_name: Snowballin'
   status: red
   origin:
     creator: Damon Boelte & Sother Teague

@@ -1,5 +1,5 @@
 ---
-- name: Elder Fashion
+- display_name: Elder Fashion
   status: green
   origin:
     creator: Phil Ward

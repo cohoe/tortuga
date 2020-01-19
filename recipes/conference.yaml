@@ -1,5 +1,5 @@
 ---
-- name: Conference
+- display_name: Conference
   status: green
   origin:
     creator: Brian Miller

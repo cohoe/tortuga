@@ -1,5 +1,5 @@
 ---
-- name: Downeast Stinger
+- display_name: Downeast Stinger
   status: green
   origin:
     venue: Charlie's Kitchen

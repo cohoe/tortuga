@@ -1,5 +1,5 @@
 ---
-- name: Negroni di Aquila
+- display_name: Negroni di Aquila
   status: red
   origin:
     creator: Nathan Ozug

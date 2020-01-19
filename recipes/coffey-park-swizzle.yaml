@@ -1,5 +1,5 @@
 ---
-- name: Coffey Park Swizzle
+- display_name: Coffey Park Swizzle
   status: yellow
   origin:
     creator: Alex Day

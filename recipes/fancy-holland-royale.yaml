@@ -1,5 +1,5 @@
 ---
-- name: Fancy Holland Royale
+- display_name: Fancy Holland Royale
   status: green
   origin:
     creator: Thomas Waugh

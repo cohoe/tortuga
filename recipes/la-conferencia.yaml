@@ -1,5 +1,5 @@
 ---
-- name: La Conferencia
+- display_name: La Conferencia
   status: green
   origin:
     creator: Phil ward

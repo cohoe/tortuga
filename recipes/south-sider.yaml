@@ -1,5 +1,5 @@
 ---
-- name: South Sider
+- display_name: South Sider
   status: green
   origin:
     creator: Alex Day

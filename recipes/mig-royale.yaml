@@ -1,5 +1,5 @@
 ---
-- name: Mig Royale
+- display_name: Mig Royale
   status: green
   origin:
     creator: Phil Ward

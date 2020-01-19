@@ -1,5 +1,5 @@
 ---
-- name: Seda De Naranja
+- display_name: Seda De Naranja
   status: green
   origin:
     creator: Phil Ward

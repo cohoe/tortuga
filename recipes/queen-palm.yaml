@@ -1,5 +1,5 @@
 ---
-- name: Queen Palm
+- display_name: Queen Palm
   status: red
   origin:
     creator: Thomas Waugh

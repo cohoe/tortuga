@@ -1,5 +1,5 @@
 ---
-- name: Manhattan
+- display_name: Manhattan
   status: green
   origin:
   specs:

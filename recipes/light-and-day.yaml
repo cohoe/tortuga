@@ -1,5 +1,5 @@
 ---
-- name: Light and Day
+- display_name: Light and Day
   status: red
   origin:
     creator: Alex Day

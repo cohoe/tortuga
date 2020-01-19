@@ -1,5 +1,5 @@
 ---
-- name: Martini
+- display_name: Martini
   status: green
   origin:
   specs:

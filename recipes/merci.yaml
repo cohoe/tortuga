@@ -1,5 +1,5 @@
 ---
-- name: Merci
+- display_name: Merci
   status: green
   origin:
     creator: Brian

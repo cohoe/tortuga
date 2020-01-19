@@ -1,5 +1,5 @@
 ---
-- name: P&P Pisco Cocktail
+- display_name: P&P Pisco Cocktail
   status: red
   origin:
     creator: Casey Robison

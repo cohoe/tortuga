@@ -1,5 +1,5 @@
 ---
-- name: Golden Handcuffs
+- display_name: Golden Handcuffs
   status: green
   origin:
     creator: Stuart Humphries

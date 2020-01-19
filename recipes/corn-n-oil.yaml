@@ -1,5 +1,5 @@
 ---
-- name: Corn n Oil
+- display_name: Corn n Oil
   status: green
   origin:
     venue: Barbados

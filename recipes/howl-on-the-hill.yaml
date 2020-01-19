@@ -1,5 +1,5 @@
 ---
-- name: Howl on the Hill
+- display_name: Howl on the Hill
   status: red
   origin:
     creator: Jezssica Gonzalez

@@ -1,5 +1,5 @@
 ---
-- name: Oaxaca Old-Fashioned
+- display_name: Oaxaca Old-Fashioned
   status: green
   origin:
     creator: Phil Ward

@@ -1,5 +1,5 @@
 ---
-- name: Uppercut
+- display_name: Uppercut
   status: None
   origin:
     creator: Sother Teague

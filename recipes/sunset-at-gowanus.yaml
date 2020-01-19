@@ -1,5 +1,5 @@
 ---
-- name: Sunset At Gowanus
+- display_name: Sunset At Gowanus
   status: green
   origin:
     creator: Alex Day

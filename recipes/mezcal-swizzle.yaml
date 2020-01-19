@@ -1,5 +1,5 @@
 ---
-- name: Mezcal Swizzle
+- display_name: Mezcal Swizzle
   status: red
   origin:
   specs:

@@ -1,5 +1,5 @@
 ---
-- name: Coralillo
+- display_name: Coralillo
   status: red
   origin:
     creator: Thomas Waugh

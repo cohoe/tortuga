@@ -1,5 +1,5 @@
 ---
-- name: Drink Name
+- display_name: Drink Name
   status: green
   origin:
     creator: Grant Cohoe

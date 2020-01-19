@@ -1,5 +1,5 @@
 ---
-- name: Cotillion Cocktail
+- display_name: Cotillion Cocktail
   status: red
   origin:
     creator: Scott Kennedy

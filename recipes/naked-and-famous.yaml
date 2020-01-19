@@ -1,5 +1,5 @@
 ---
-- name: Naked and Famous
+- display_name: Naked and Famous
   status: green
   origin:
     creator: Joaquín Simó

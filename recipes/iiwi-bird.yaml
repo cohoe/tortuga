@@ -1,5 +1,5 @@
 ---
-- name: ‘I‘iwi Bird
+- display_name: ‘I‘iwi Bird
   status: red
   origin:
     creator: Jenna Rycroft

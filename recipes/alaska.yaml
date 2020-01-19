@@ -1,5 +1,5 @@
 ---
-- name: Alaska
+- display_name: Alaska
   status: green
   origin:
     creator: Robert Simonson

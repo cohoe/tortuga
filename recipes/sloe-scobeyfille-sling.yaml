@@ -1,5 +1,5 @@
 ---
-- name: Sloe Scobeyville Sling
+- display_name: Sloe Scobeyville Sling
   status: red
   origin:
     creator: Phil ward

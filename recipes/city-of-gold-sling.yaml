@@ -1,5 +1,5 @@
 ---
-- name: City of Gold Sling
+- display_name: City of Gold Sling
   status: red
   origin:
     creator: Joaquín Simó

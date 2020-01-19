@@ -1,5 +1,5 @@
 ---
-- name: Solera Sidecar
+- display_name: Solera Sidecar
   status: yellow
   origin:
     creator: Joaquín Simó

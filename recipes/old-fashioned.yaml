@@ -1,5 +1,5 @@
 ---
-- name: Old Fashioned
+- display_name: Old Fashioned
   status: green
   origin:
   specs:

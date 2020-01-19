@@ -1,5 +1,5 @@
 ---
-- name: Paddy Melt
+- display_name: Paddy Melt
   status: yellow
   origin:
     creator: Joaquín Simó

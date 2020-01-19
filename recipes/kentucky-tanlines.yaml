@@ -1,5 +1,5 @@
 ---
-- name: Kentucky Tanlines
+- display_name: Kentucky Tanlines
   status: red
   origin:
     creator:

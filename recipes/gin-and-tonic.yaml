@@ -1,5 +1,5 @@
 ---
-- name: Gin and Tonic
+- display_name: Gin and Tonic
   status: green
   origin:
     location: Spain

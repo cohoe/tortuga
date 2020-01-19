@@ -1,5 +1,5 @@
 ---
-- name: Revenge of the Line
+- display_name: Revenge of the Line
   status: yellow
   origin:
     creator: Channing Centeno

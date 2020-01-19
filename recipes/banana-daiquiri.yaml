@@ -1,5 +1,5 @@
 ---
-- name: Banana Daiquiri
+- display_name: Banana Daiquiri
   status: red
   origin:
     creator: Matt Belanger

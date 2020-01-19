@@ -1,5 +1,5 @@
 ---
-- name: St-Germain Redux
+- display_name: St-Germain Redux
   status: green
   origin:
     creator: Phil Ward

@@ -1,5 +1,5 @@
 ---
-- name: Port au Prince
+- display_name: Port au Prince
   status: red
   origin:
   specs:

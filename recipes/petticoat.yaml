@@ -1,5 +1,5 @@
 ---
-- name: Petticoat
+- display_name: Petticoat
   status: yellow
   origin:
     creator: Jessica Gonzalez

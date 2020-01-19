@@ -1,5 +1,5 @@
 ---
-- name: Ingénue
+- display_name: Ingénue
   status: red
   origin:
     creator: Brian Miller

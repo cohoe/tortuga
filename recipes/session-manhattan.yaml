@@ -1,5 +1,5 @@
 ---
-- name: Session Manhattan
+- display_name: Session Manhattan
   status: green
   origin:
   specs:

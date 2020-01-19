@@ -1,5 +1,5 @@
 ---
-- name: Pasifika Margarita
+- display_name: Pasifika Margarita
   status: yellow
   origin:
     creator: Samuel Jimenez

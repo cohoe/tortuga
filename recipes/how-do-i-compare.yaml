@@ -1,5 +1,5 @@
 ---
-- name: How Do I Compare
+- display_name: How Do I Compare
   status: green
   origin:
   specs:

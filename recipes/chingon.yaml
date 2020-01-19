@@ -1,5 +1,5 @@
 ---
-- name: Chingon
+- display_name: Chingon
   status: red
   origin:
     creator: Brian Miller

@@ -1,5 +1,5 @@
 ---
-- name: Caipirinha
+- display_name: Caipirinha
   status: green
   origin:
     location: Brazil

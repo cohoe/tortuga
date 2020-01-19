@@ -1,5 +1,5 @@
 ---
-- name: Wicked Kiss
+- display_name: Wicked Kiss
   status: red
   origin:
     creator: Phil Ward

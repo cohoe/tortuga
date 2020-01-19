@@ -1,5 +1,5 @@
 ---
-- name: Bitter French
+- display_name: Bitter French
   status: red
   origin:
     creator: Phil Ward

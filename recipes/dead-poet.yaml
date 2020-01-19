@@ -1,5 +1,5 @@
 ---
-- name: Dead Poet
+- display_name: Dead Poet
   status: green
   origin:
     creator: Keegan McGregor

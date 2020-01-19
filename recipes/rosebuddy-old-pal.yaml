@@ -1,5 +1,5 @@
 ---
-- name: Rosebuddy Old Pal
+- display_name: Rosebuddy Old Pal
   status: red
   origin:
     venue: Rosebud

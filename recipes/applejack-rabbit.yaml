@@ -1,5 +1,5 @@
 ---
-- name: Applejack Rabbit
+- display_name: Applejack Rabbit
   status: green
   origin:
     creator: Judge Jr

@@ -1,5 +1,5 @@
 ---
-- name: Vieux Mot
+- display_name: Vieux Mot
   status: green
   origin:
     creator: Don Lee

@@ -1,5 +1,5 @@
 ---
-- name: Rough Seas
+- display_name: Rough Seas
   status: red
   origin:
     creator: Sother Teague

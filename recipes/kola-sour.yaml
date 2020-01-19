@@ -1,5 +1,5 @@
 ---
-- name: Kola Sour
+- display_name: Kola Sour
   status: red
   origin:
     creator: Sother Teague

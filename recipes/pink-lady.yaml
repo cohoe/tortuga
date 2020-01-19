@@ -1,5 +1,5 @@
 ---
-- name: Pink Lady
+- display_name: Pink Lady
   status: red
   origin:
   specs:

@@ -1,5 +1,5 @@
 ---
-- name: Tommy's Margarita
+- display_name: Tommy's Margarita
   status: green
   origin:
     venue: Tommy's Mexican Restaurant

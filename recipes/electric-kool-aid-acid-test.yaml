@@ -1,5 +1,5 @@
 ---
-- name: Electric Kool-Aid Acid Test
+- display_name: Electric Kool-Aid Acid Test
   status: green
   origin:
     creator: Phil Ward

@@ -1,5 +1,5 @@
 ---
-- name: Old Ironsides
+- display_name: Old Ironsides
   status: red
   origin:
     creator: Brian Miller

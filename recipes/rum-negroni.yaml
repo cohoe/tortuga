@@ -1,5 +1,5 @@
 ---
-- name: Rum Negroni
+- display_name: Rum Negroni
   status: green
   origin:
     creator: Sother Teague

@@ -1,5 +1,5 @@
 ---
-- name: Baldwin Rum & Sherry
+- display_name: Baldwin Rum & Sherry
   status: yellow
   origin:
     venue: The Baldwin Bar at Sichuan Garden

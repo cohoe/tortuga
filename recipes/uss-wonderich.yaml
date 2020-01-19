@@ -1,5 +1,5 @@
 ---
-- name: U.S.S. Wonderich
+- display_name: U.S.S. Wonderich
   status: red
   origin:
     creator: Jeff Beachbum Berry

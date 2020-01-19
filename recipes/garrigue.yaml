@@ -1,5 +1,5 @@
 ---
-- name: Garrigue
+- display_name: Garrigue
   status: green
   origin:
     creator: Karim Mehdi

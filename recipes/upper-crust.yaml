@@ -1,5 +1,5 @@
 ---
-- name: Upper Crust
+- display_name: Upper Crust
   status: red
   origin:
   specs:

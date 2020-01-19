@@ -1,5 +1,5 @@
 ---
-- name: Division Bell
+- display_name: Division Bell
   status: green
   origin:
     creator: Phil Ward

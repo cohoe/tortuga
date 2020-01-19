@@ -1,5 +1,5 @@
 ---
-- name: Give Em Hell!
+- display_name: Give Em Hell!
   status: red
   origin:
     creator: Damon Boelte & Sother Teague

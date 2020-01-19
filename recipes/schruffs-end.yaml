@@ -1,5 +1,5 @@
 ---
-- name: Shruff's End
+- display_name: Shruff's End
   status: red
   origin:
     creator: Phil ward

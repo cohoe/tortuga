@@ -1,5 +1,5 @@
 ---
-- name: Wooden Ship
+- display_name: Wooden Ship
   status: yellow
   origin:
     creator: Thomas Waugh

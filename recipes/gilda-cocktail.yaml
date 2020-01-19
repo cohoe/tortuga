@@ -1,5 +1,5 @@
 ---
-- name: Gilda Cocktail
+- display_name: Gilda Cocktail
   status: red
   origin:
     creator: Brian Miller

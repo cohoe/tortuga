@@ -1,5 +1,5 @@
 ---
-- name: Jacques Rose
+- display_name: Jacques Rose
   status: green
   origin:
     creator: Scott Kennedy
