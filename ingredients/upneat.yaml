@@ -2851,11 +2851,6 @@
   slug: aquavit
   type: family
 
-- display_name: Aquavit
-  parent: aquavit
-  slug: aquavit
-  type: ingredient
-
 - display_name: Krogstad Aquavit
   parent: aquavit
   slug: krogstad-aquavit
@@ -2886,98 +2881,98 @@
   slug: brandy
   type: family
 
-- display_name: Brandy
+- display_name: Grape Brandy
   parent: brandy
-  slug: brandy
+  slug: grape-brandy
   type: ingredient
 
 - display_name: Armagnac
-  parent: brandy
+  parent: grape-brandy
   slug: armagnac
   type: ingredient
 
 - display_name: Cardenal Mendoza Brandy
-  parent: brandy
+  parent: grape-brandy
   slug: cardenal-mendoza-brandy
   type: ingredient
 
 - display_name: Clear Creek Plum Brandy
-  parent: brandy
+  parent: grape-brandy
   slug: clear-creek-plum-brandy
   type: ingredient
 
 - display_name: Cognac
-  parent: brandy
+  parent: grape-brandy
   slug: cognac
   type: ingredient
 
 - display_name: Courvoisier Cognac
-  parent: brandy
+  parent: grape-brandy
   slug: courvoisier-cognac
   type: ingredient
 
 - display_name: Courvoisier Millennium Cognac
-  parent: brandy
+  parent: grape-brandy
   slug: courvoisier-millennium-cognac
   type: ingredient
 
 - display_name: Gran Duque D'Alba Brandy De Jerez
-  parent: brandy
+  parent: grape-brandy
   slug: gran-duque-d-alba-brandy-de-jerez
   type: ingredient
 
 - display_name: Guillon-Painturaud Cognac Grande Champagne VSOP
-  parent: brandy
+  parent: grape-brandy
   slug: guillon-painturaud-cognac-grande-champagne-vsop
   type: ingredient
 
 - display_name: Hine H Cognac
-  parent: brandy
+  parent: grape-brandy
   slug: hine-h-cognac
   type: ingredient
 
 - display_name: Hine V.S.O.P. Cognac
-  parent: brandy
+  parent: grape-brandy
   slug: hine-v-s-o-p-cognac
   type: ingredient
 
 - display_name: Louis Royer Force 53 Cognac
-  parent: brandy
+  parent: grape-brandy
   slug: louis-royer-force-53-cognac
   type: ingredient
 
 - display_name: Martell V.S.O.P. Cognac
-  parent: brandy
+  parent: grape-brandy
   slug: martell-v-s-o-p-cognac
   type: ingredient
 
 - display_name: Pierre Ferrand 1840 Cognac
-  parent: brandy
+  parent: grape-brandy
   slug: pierre-ferrand-1840-cognac
   type: ingredient
 
 - display_name: Pierre Ferrand Ambre Cognac
-  parent: brandy
+  parent: grape-brandy
   slug: pierre-ferrand-ambre-cognac
   type: ingredient
 
 - display_name: "R\xE9my Martin V.S.O.P. Cognac"
-  parent: brandy
+  parent: grape-brandy
   slug: remy-martin-v-s-o-p-cognac
   type: ingredient
 
 - display_name: Spanish Brandy
-  parent: brandy
+  parent: grape-brandy
   slug: spanish-brandy
   type: ingredient
 
 - display_name: Tariquet VS Classique Bas-Armagnac
-  parent: brandy
+  parent: grape-brandy
   slug: tariquet-vs-classique-bas-armagnac
   type: ingredient
 
 - display_name: VS Cognac
-  parent: brandy
+  parent: grape-brandy
   slug: vs-cognac
   type: ingredient
 
@@ -3041,13 +3036,13 @@
   slug: waqar-pisco
   type: ingredient
 
-- display_name: Fruit
+- display_name: Fruit Brandy
   parent: spirits
-  slug: fruit
+  slug: fruit-brandy
   type: family
 
 - display_name: Apple Brandy
-  parent: fruit
+  parent: fruit-brandy
   slug: apple-brandy
   type: ingredient
 
@@ -3072,7 +3067,7 @@
   type: ingredient
 
 - display_name: Applejack
-  parent: fruit
+  parent: fruit-brandy
   slug: applejack
   type: ingredient
 
@@ -3087,17 +3082,17 @@
   type: ingredient
 
 - display_name: Apricot Brandy
-  parent: fruit
+  parent: fruit-brandy
   slug: apricot-brandy
   type: ingredient
 
 - display_name: Blackberry Brandy
-  parent: fruit
+  parent: fruit-brandy
   slug: blackberry-brandy
   type: ingredient
 
 - display_name: Calvados
-  parent: fruit
+  parent: fruit-brandy
   slug: calvados
   type: ingredient
 
@@ -3107,7 +3102,7 @@
   type: ingredient
 
 - display_name: Cherry Brandy
-  parent: fruit
+  parent: fruit-brandy
   slug: cherry-brandy
   type: ingredient
 
@@ -3126,18 +3121,8 @@
   slug: massenez-kirsch-vieux-cherry-brandy
   type: ingredient
 
-- display_name: Peach Schnapps
-  parent: fruit
-  slug: peach-schnapps
-  type: ingredient
-
-- display_name: Peachtree Schnapps
-  parent: peach-schnapps
-  slug: peachtree-schnapps
-  type: ingredient
-
 - display_name: Pear Brandy
-  parent: fruit
+  parent: fruit-brandy
   slug: pear-brandy
   type: ingredient
 
@@ -3147,7 +3132,7 @@
   type: ingredient
 
 - display_name: Raspberry Brandy
-  parent: fruit
+  parent: fruit-brandy
   slug: raspberry-brandy
   type: ingredient
 
@@ -3189,11 +3174,6 @@
 - display_name: Bols Genever
   parent: genever
   slug: bols-genever
-  type: ingredient
-
-- display_name: Gin
-  parent: gin
-  slug: gin
   type: ingredient
 
 - display_name: Anchor Junipero Gin
@@ -3351,23 +3331,13 @@
   slug: plymouth-sloe-gin
   type: ingredient
 
-- display_name: Plant
-  parent: spirits
-  slug: plant
-  type: family
-
 - display_name: Peppermint Schnapps
-  parent: plant
+  parent: liqueur
   slug: peppermint-schnapps
   type: ingredient
 
-- display_name: Rice
-  parent: spirits
-  slug: rice
-  type: family
-
 - display_name: Batavia Arrack
-  parent: rice
+  parent: sugarcane
   slug: batavia-arrack
   type: ingredient
 
@@ -3811,11 +3781,6 @@
   slug: rhum-clement-creole-shrubb
   type: ingredient
 
-- display_name: "Rhum Cl\xE9ment V.S.O.P"
-  parent: rum
-  slug: rhum-clement-v-s-o-p
-  type: ingredient
-
 - display_name: "Rhum Cl\xE9ment V.S.O.P."
   parent: rum
   slug: rhum-clement-v-s-o-p
@@ -3989,11 +3954,6 @@
 - display_name: Stolichnaya Vanil Vodka
   parent: vanilla-vodka
   slug: stolichnaya-vanil-vodka
-  type: ingredient
-
-- display_name: Vodka
-  parent: vodka
-  slug: vodka
   type: ingredient
 
 - display_name: Absolut Vodka
