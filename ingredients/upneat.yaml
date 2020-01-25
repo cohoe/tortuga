@@ -2518,47 +2518,2023 @@
   type: ingredient
 
 - display_name: Spirits
-  slug: sweet
+  slug: spirits
   type: category
 
+- display_name: Agave
+  parent: spirits
+  slug: agave
+  type: family
 
+- display_name: Infused Tequila
+  parent: agave
+  slug: infused-tequila
+  type: ingredient
 
+- display_name: Cacao Nib-Infused Cabeza Blanco Tequila
+  parent: infused-tequila
+  slug: cacao-nib-infused-cabeza-blanco-tequila
+  type: ingredient
 
+- display_name: "Jalape\xF1o-Infused Siembra Azul Blanco Tequila"
+  parent: infused-tequila
+  slug: jalapeno-infused-siembra-azul-blanco-tequila
+  type: ingredient
 
+- display_name: Lapsang Souchong-Infused Siembra Azul Blanco Tequila
+  parent: infused-tequila
+  slug: lapsang-souchong-infused-siembra-azul-blanco-tequila
+  type: ingredient
 
+- display_name: Queen Of Earl Tea-Infused Siembra Azul Reposado Tequila
+  parent: infused-tequila
+  slug: queen-of-earl-tea-infused-siembra-azul-reposado-tequila
+  type: ingredient
 
+- display_name: Spiced Pear-Infused Siembra Azul Blanco Tequila
+  parent: infused-tequila
+  slug: spiced-pear-infused-siembra-azul-blanco-tequila
+  type: ingredient
 
+- display_name: Mezcal
+  parent: agave
+  slug: mezcal
+  type: ingredient
 
+- display_name: Del Maguey Chichicapa Mezcal
+  parent: mezcal
+  slug: del-maguey-chichicapa-mezcal
+  type: ingredient
 
+- display_name: Del Maguey Crema De Mezcal
+  parent: mezcal
+  slug: del-maguey-crema-de-mezcal
+  type: ingredient
 
+- display_name: Del Maguey Espadin Especial Mezcal
+  parent: mezcal
+  slug: del-maguey-espadin-especial-mezcal
+  type: ingredient
 
+- display_name: Del Maguey San Luis Del Rio Mezcal
+  parent: mezcal
+  slug: del-maguey-san-luis-del-rio-mezcal
+  type: ingredient
 
+- display_name: Del Maguey Vida Mezcal
+  parent: mezcal
+  slug: del-maguey-vida-mezcal
+  type: ingredient
 
+- display_name: Ilegal Reposado Mezcal
+  parent: mezcal
+  slug: ilegal-reposado-mezcal
+  type: ingredient
 
+- display_name: Los Amantes Joven Mezcal
+  parent: mezcal
+  slug: los-amantes-joven-mezcal
+  type: ingredient
 
+- display_name: Los Nahuales Mezcal
+  parent: mezcal
+  slug: los-nahuales-mezcal
+  type: ingredient
 
+- display_name: Sombra Mezcal
+  parent: mezcal
+  slug: sombra-mezcal
+  type: ingredient
 
+- display_name: Tequila
+  parent: agave
+  slug: tequila
+  type: ingredient
 
+- display_name: 100% Blue Agave Tequila
+  parent: tequila
+  slug: 100-blue-agave-tequila
+  type: ingredient
 
+- display_name: Cabeza Blanco Tequila
+  parent: tequila
+  slug: cabeza-blanco-tequila
+  type: ingredient
 
+- display_name: Cabrito Blanco Tequila
+  parent: tequila
+  slug: cabrito-blanco-tequila
+  type: ingredient
 
+- display_name: Centinela Reposado Tequila
+  parent: tequila
+  slug: centinela-reposado-tequila
+  type: ingredient
 
+- display_name: Chinaco Verde Blanco Tequila
+  parent: tequila
+  slug: chinaco-verde-blanco-tequila
+  type: ingredient
 
+- display_name: Cuervo Gold
+  parent: tequila
+  slug: cuervo-gold
+  type: ingredient
 
+- display_name: "Don Julio A\xF1ejo Tequila"
+  parent: tequila
+  slug: don-julio-anejo-tequila
+  type: ingredient
 
+- display_name: Don Julio Blanco Tequila
+  parent: tequila
+  slug: don-julio-blanco-tequila
+  type: ingredient
 
+- display_name: Don Julio Reposado Tequila
+  parent: tequila
+  slug: don-julio-reposado-tequila
+  type: ingredient
 
+- display_name: "El Tesoro A\xF1ejo Tequila"
+  parent: tequila
+  slug: el-tesoro-anejo-tequila
+  type: ingredient
 
+- display_name: El Tesoro Platinum Tequila
+  parent: tequila
+  slug: el-tesoro-platinum-tequila
+  type: ingredient
 
+- display_name: El Tesoro Reposado Tequila
+  parent: tequila
+  slug: el-tesoro-reposado-tequila
+  type: ingredient
 
+- display_name: Fortaleza Reposado Tequila
+  parent: tequila
+  slug: fortaleza-reposado-tequila
+  type: ingredient
 
+- display_name: Good Tequila
+  parent: tequila
+  slug: good-tequila
+  type: ingredient
 
+- display_name: Gran Centenario Blanco Tequila
+  parent: tequila
+  slug: gran-centenario-blanco-tequila
+  type: ingredient
 
+- display_name: Gran Centenario Reposado Tequila
+  parent: tequila
+  slug: gran-centenario-reposado-tequila
+  type: ingredient
 
+- display_name: "Jos\xE9 Cuervo Platino Tequila"
+  parent: tequila
+  slug: jose-cuervo-platino-tequila
+  type: ingredient
 
+- display_name: Jose Cuervo Tradicional Tequila
+  parent: tequila
+  slug: jose-cuervo-tradicional-tequila
+  type: ingredient
 
+- display_name: L & J Blanco Tequila
+  parent: tequila
+  slug: l-j-blanco-tequila
+  type: ingredient
 
+- display_name: Ocho 2012 Plata Tequila
+  parent: tequila
+  slug: ocho-2012-plata-tequila
+  type: ingredient
 
+- display_name: "Ocho A\xF1ejo Tequila"
+  parent: tequila
+  slug: ocho-anejo-tequila
+  type: ingredient
+
+- display_name: Partida Blanco Tequila
+  parent: tequila
+  slug: partida-blanco-tequila
+  type: ingredient
+
+- display_name: Partida Reposado Tequila
+  parent: tequila
+  slug: partida-reposado-tequila
+  type: ingredient
+
+- display_name: "Pueblo Viejo A\xF1ejo Tequila"
+  parent: tequila
+  slug: pueblo-viejo-anejo-tequila
+  type: ingredient
+
+- display_name: Pueblo Viejo Reposado Tequila
+  parent: tequila
+  slug: pueblo-viejo-reposado-tequila
+  type: ingredient
+
+- display_name: Sauza Conmemorativo Tequila
+  parent: tequila
+  slug: sauza-conmemorativo-tequila
+  type: ingredient
+
+- display_name: Sauza Hornitos Tequila
+  parent: tequila
+  slug: sauza-hornitos-tequila
+  type: ingredient
+
+- display_name: "Siembra Azul A\xF1ejo Tequila"
+  parent: tequila
+  slug: siembra-azul-anejo-tequila
+  type: ingredient
+
+- display_name: Siembra Azul Blanco Tequila
+  parent: tequila
+  slug: siembra-azul-blanco-tequila
+  type: ingredient
+
+- display_name: Siembra Azul Reposado Tequila
+  parent: tequila
+  slug: siembra-azul-reposado-tequila
+  type: ingredient
+
+- display_name: Siete Leguas Blanco Tequila
+  parent: tequila
+  slug: siete-leguas-blanco-tequila
+  type: ingredient
+
+- display_name: Siete Leguas Reposado Tequila
+  parent: tequila
+  slug: siete-leguas-reposado-tequila
+  type: ingredient
+
+- display_name: Tapatio 110 Blanco Tequila
+  parent: tequila
+  slug: tapatio-110-blanco-tequila
+  type: ingredient
+
+- display_name: White Tequila
+  parent: tequila
+  slug: white-tequila
+  type: ingredient
+
+- display_name: Anise
+  parent: spirits
+  slug: anise
+  type: family
+
+- display_name: Absinthe
+  parent: anise
+  slug: absinthe
+  type: ingredient
+
+- display_name: Edouard Absinthe
+  parent: absinthe
+  slug: edouard-absinthe
+  type: ingredient
+
+- display_name: Pernod Absinthe
+  parent: absinthe
+  slug: pernod-absinthe
+  type: ingredient
+
+- display_name: Pernod Fils
+  parent: absinthe
+  slug: pernod-fils
+  type: ingredient
+
+- display_name: St. George Absinthe
+  parent: absinthe
+  slug: st-george-absinthe
+  type: ingredient
+
+- display_name: Vieux Pontarlier Absinthe
+  parent: absinthe
+  slug: vieux-pontarlier-absinthe
+  type: ingredient
+
+- display_name: Anisette
+  parent: anise
+  slug: anisette
+  type: ingredient
+
+- display_name: Pernod
+  parent: anise
+  slug: pernod
+  type: ingredient
+
+- display_name: Ricard
+  parent: anise
+  slug: ricard
+  type: ingredient
+
+- display_name: Ricard Pastis
+  parent: ricard
+  slug: ricard-pastis
+  type: ingredient
+
+- display_name: Sambuca
+  parent: anise
+  slug: sambuca
+  type: ingredient
+
+- display_name: Borsci Sambuca
+  parent: sambuca
+  slug: borsci-sambuca
+  type: ingredient
+
+- display_name: Aquavit
+  parent: spirits
+  slug: aquavit
+  type: family
+
+- display_name: Aquavit
+  parent: aquavit
+  slug: aquavit
+  type: ingredient
+
+- display_name: Krogstad Aquavit
+  parent: aquavit
+  slug: krogstad-aquavit
+  type: ingredient
+
+- display_name: Linie Aquavit
+  parent: aquavit
+  slug: linie-aquavit
+  type: ingredient
+
+- display_name: OP Flavored Vodka
+  parent: aquavit
+  slug: op-flavored-vodka
+  type: ingredient
+
+- display_name: Infused Aquavit
+  parent: aquavit
+  slug: infused-aquavit
+  type: ingredient
+
+- display_name: Black Sesame-Infused Krogstad Aquavit
+  parent: infused-aquavit
+  slug: black-sesame-infused-krogstad-aquavit
+  type: ingredient
+
+- display_name: Brandy
+  parent: spirits
+  slug: brandy
+  type: family
+
+- display_name: Brandy
+  parent: brandy
+  slug: brandy
+  type: ingredient
+
+- display_name: Armagnac
+  parent: brandy
+  slug: armagnac
+  type: ingredient
+
+- display_name: Cardenal Mendoza Brandy
+  parent: brandy
+  slug: cardenal-mendoza-brandy
+  type: ingredient
+
+- display_name: Clear Creek Plum Brandy
+  parent: brandy
+  slug: clear-creek-plum-brandy
+  type: ingredient
+
+- display_name: Cognac
+  parent: brandy
+  slug: cognac
+  type: ingredient
+
+- display_name: Courvoisier Cognac
+  parent: brandy
+  slug: courvoisier-cognac
+  type: ingredient
+
+- display_name: Courvoisier Millennium Cognac
+  parent: brandy
+  slug: courvoisier-millennium-cognac
+  type: ingredient
+
+- display_name: Gran Duque D'Alba Brandy De Jerez
+  parent: brandy
+  slug: gran-duque-d-alba-brandy-de-jerez
+  type: ingredient
+
+- display_name: Guillon-Painturaud Cognac Grande Champagne VSOP
+  parent: brandy
+  slug: guillon-painturaud-cognac-grande-champagne-vsop
+  type: ingredient
+
+- display_name: Hine H Cognac
+  parent: brandy
+  slug: hine-h-cognac
+  type: ingredient
+
+- display_name: Hine V.S.O.P. Cognac
+  parent: brandy
+  slug: hine-v-s-o-p-cognac
+  type: ingredient
+
+- display_name: Louis Royer Force 53 Cognac
+  parent: brandy
+  slug: louis-royer-force-53-cognac
+  type: ingredient
+
+- display_name: Martell V.S.O.P. Cognac
+  parent: brandy
+  slug: martell-v-s-o-p-cognac
+  type: ingredient
+
+- display_name: Pierre Ferrand 1840 Cognac
+  parent: brandy
+  slug: pierre-ferrand-1840-cognac
+  type: ingredient
+
+- display_name: Pierre Ferrand Ambre Cognac
+  parent: brandy
+  slug: pierre-ferrand-ambre-cognac
+  type: ingredient
+
+- display_name: "R\xE9my Martin V.S.O.P. Cognac"
+  parent: brandy
+  slug: remy-martin-v-s-o-p-cognac
+  type: ingredient
+
+- display_name: Spanish Brandy
+  parent: brandy
+  slug: spanish-brandy
+  type: ingredient
+
+- display_name: Tariquet VS Classique Bas-Armagnac
+  parent: brandy
+  slug: tariquet-vs-classique-bas-armagnac
+  type: ingredient
+
+- display_name: VS Cognac
+  parent: brandy
+  slug: vs-cognac
+  type: ingredient
+
+- display_name: Infused Brandy
+  parent: brandy
+  slug: infused-brandy
+  type: ingredient
+
+- display_name: Walnut-Infused Hine V.S.O.P. Cognac
+  parent: infused-brandy
+  slug: walnut-infused-hine-v-s-o-p-cognac
+  type: ingredient
+
+- display_name: Infused Pisco
+  parent: brandy
+  slug: infused-pisco
+  type: ingredient
+
+- display_name: Chamomile-Infused Barsol Quebranta Pisco
+  parent: infused-pisco
+  slug: chamomile-infused-barsol-quebranta-pisco
+  type: ingredient
+
+- display_name: Spiced Macchu Pisco
+  parent: infused-pisco
+  slug: spiced-macchu-pisco
+  type: ingredient
+
+- display_name: Strawberry-And Pineapple-Infused Macchu Pisco
+  parent: infused-pisco
+  slug: strawberry-and-pineapple-infused-macchu-pisco
+  type: ingredient
+
+- display_name: Pisco
+  parent: brandy
+  slug: pisco
+  type: ingredient
+
+- display_name: Barsol Quebranta Pisco
+  parent: pisco
+  slug: barsol-quebranta-pisco
+  type: ingredient
+
+- display_name: Campo De Encanto Acholado Pisco
+  parent: pisco
+  slug: campo-de-encanto-acholado-pisco
+  type: ingredient
+
+- display_name: La Diablada Pisco
+  parent: pisco
+  slug: la-diablada-pisco
+  type: ingredient
+
+- display_name: Macchu Pisco
+  parent: pisco
+  slug: macchu-pisco
+  type: ingredient
+
+- display_name: Waqar Pisco
+  parent: pisco
+  slug: waqar-pisco
+  type: ingredient
+
+- display_name: Fruit
+  parent: spirits
+  slug: fruit
+  type: family
+
+- display_name: Apple Brandy
+  parent: fruit
+  slug: apple-brandy
+  type: ingredient
+
+- display_name: Clear Creek Apple Brandy
+  parent: apple-brandy
+  slug: clear-creek-apple-brandy
+  type: ingredient
+
+- display_name: Laird's Bonded Apple Brandy
+  parent: apple-brandy
+  slug: laird-s-bonded-apple-brandy
+  type: ingredient
+
+- display_name: "Sch\xF6nauer Apfel Schnapps"
+  parent: apple-brandy
+  slug: schonauer-apfel-schnapps
+  type: ingredient
+
+- display_name: "Sch\xF6nauer Apple Schnapps"
+  parent: apple-brandy
+  slug: schonauer-apple-schnapps
+  type: ingredient
+
+- display_name: Applejack
+  parent: fruit
+  slug: applejack
+  type: ingredient
+
+- display_name: Applejack Or Calvados
+  parent: applejack
+  slug: applejack-or-calvados
+  type: ingredient
+
+- display_name: Laird's Applejack
+  parent: applejack
+  slug: laird-s-applejack
+  type: ingredient
+
+- display_name: Apricot Brandy
+  parent: fruit
+  slug: apricot-brandy
+  type: ingredient
+
+- display_name: Blackberry Brandy
+  parent: fruit
+  slug: blackberry-brandy
+  type: ingredient
+
+- display_name: Calvados
+  parent: fruit
+  slug: calvados
+  type: ingredient
+
+- display_name: Busnel VSOP Calvados
+  parent: calvados
+  slug: busnel-vsop-calvados
+  type: ingredient
+
+- display_name: Cherry Brandy
+  parent: fruit
+  slug: cherry-brandy
+  type: ingredient
+
+- display_name: Clear Creek Kirschwasser
+  parent: cherry-brandy
+  slug: clear-creek-kirschwasser
+  type: ingredient
+
+- display_name: Kirsch
+  parent: cherry-brandy
+  slug: kirsch
+  type: ingredient
+
+- display_name: Massenez Kirsch Vieux Cherry Brandy
+  parent: cherry-brandy
+  slug: massenez-kirsch-vieux-cherry-brandy
+  type: ingredient
+
+- display_name: Peach Schnapps
+  parent: fruit
+  slug: peach-schnapps
+  type: ingredient
+
+- display_name: Peachtree Schnapps
+  parent: peach-schnapps
+  slug: peachtree-schnapps
+  type: ingredient
+
+- display_name: Pear Brandy
+  parent: fruit
+  slug: pear-brandy
+  type: ingredient
+
+- display_name: Clear Creek Pear Brandy
+  parent: pear-brandy
+  slug: clear-creek-pear-brandy
+  type: ingredient
+
+- display_name: Raspberry Brandy
+  parent: fruit
+  slug: raspberry-brandy
+  type: ingredient
+
+- display_name: Pasquet Marie-Framboise
+  parent: raspberry-brandy
+  slug: pasquet-marie-framboise
+  type: ingredient
+
+- display_name: Trimbach Framboise Brandy
+  parent: raspberry-brandy
+  slug: trimbach-framboise-brandy
+  type: ingredient
+
+- display_name: Gin
+  parent: spirits
+  slug: gin
+  type: family
+
+- display_name: Genever
+  parent: gin
+  slug: genever
+  type: ingredient
+
+- display_name: Anchor Genevieve
+  parent: genever
+  slug: anchor-genevieve
+  type: ingredient
+
+- display_name: Anchor Genevieve Gin
+  parent: genever
+  slug: anchor-genevieve-gin
+  type: ingredient
+
+- display_name: Bols Barrel-Aged Genever
+  parent: genever
+  slug: bols-barrel-aged-genever
+  type: ingredient
+
+- display_name: Bols Genever
+  parent: genever
+  slug: bols-genever
+  type: ingredient
+
+- display_name: Gin
+  parent: gin
+  slug: gin
+  type: ingredient
+
+- display_name: Anchor Junipero Gin
+  parent: gin
+  slug: anchor-junipero-gin
+  type: ingredient
+
+- display_name: Aviation Gin
+  parent: gin
+  slug: aviation-gin
+  type: ingredient
+
+- display_name: Beefeater 24 Gin
+  parent: gin
+  slug: beefeater-24-gin
+  type: ingredient
+
+- display_name: Beefeater Gin
+  parent: gin
+  slug: beefeater-gin
+  type: ingredient
+
+- display_name: Beefeater London Dry Gin
+  parent: gin
+  slug: beefeater-london-dry-gin
+  type: ingredient
+
+- display_name: Berkshire Mountain Distillers' Greylock Gin
+  parent: gin
+  slug: berkshire-mountain-distillers-greylock-gin
+  type: ingredient
+
+- display_name: Bombay Gin
+  parent: gin
+  slug: bombay-gin
+  type: ingredient
+
+- display_name: Bombay London Dry Gin
+  parent: gin
+  slug: bombay-london-dry-gin
+  type: ingredient
+
+- display_name: Bombay Sapphire Gin
+  parent: gin
+  slug: bombay-sapphire-gin
+  type: ingredient
+
+- display_name: Bruichladdich Botanist Gin
+  parent: gin
+  slug: bruichladdich-botanist-gin
+  type: ingredient
+
+- display_name: Dorothy Parker Gin
+  parent: gin
+  slug: dorothy-parker-gin
+  type: ingredient
+
+- display_name: Dry Gin
+  parent: gin
+  slug: dry-gin
+  type: ingredient
+
+- display_name: Fords Gin
+  parent: gin
+  slug: fords-gin
+  type: ingredient
+
+- display_name: Hayman's Old Tom Gin
+  parent: gin
+  slug: hayman-s-old-tom-gin
+  type: ingredient
+
+- display_name: Hendrick's Gin
+  parent: gin
+  slug: hendrick-s-gin
+  type: ingredient
+
+- display_name: Martin Miller's Westbourne-Strength Gin
+  parent: gin
+  slug: martin-miller-s-westbourne-strength-gin
+  type: ingredient
+
+- display_name: Old Tom Gin
+  parent: gin
+  slug: old-tom-gin
+  type: ingredient
+
+- display_name: Perry's Tot Navy-Strength Gin
+  parent: gin
+  slug: perry-s-tot-navy-strength-gin
+  type: ingredient
+
+- display_name: Plymouth, Beefeater London Dry, Or Tanqueray London Dry Gin
+  parent: gin
+  slug: plymouth-beefeater-london-dry-or-tanqueray-london-dry-gin
+  type: ingredient
+
+- display_name: Plymouth Gin
+  parent: gin
+  slug: plymouth-gin
+  type: ingredient
+
+- display_name: Ransom Old Tom Gin
+  parent: gin
+  slug: ransom-old-tom-gin
+  type: ingredient
+
+- display_name: Tanqueray Gin
+  parent: gin
+  slug: tanqueray-gin
+  type: ingredient
+
+- display_name: Tanqueray London Dry Gin
+  parent: gin
+  slug: tanqueray-london-dry-gin
+  type: ingredient
+
+- display_name: Tanqueray No. Ten Gin
+  parent: gin
+  slug: tanqueray-no-ten-gin
+  type: ingredient
+
+- display_name: Infused Gin
+  parent: gin
+  slug: infused-gin
+  type: ingredient
+
+- display_name: Pennyroyal-Infused Hayman's Old Tom Gin
+  parent: infused-gin
+  slug: pennyroyal-infused-hayman-s-old-tom-gin
+  type: ingredient
+
+- display_name: Rose-Infused Plymouth Gin
+  parent: infused-gin
+  slug: rose-infused-plymouth-gin
+  type: ingredient
+
+- display_name: Sugar Snap Pea-Infused Plymouth Gin
+  parent: infused-gin
+  slug: sugar-snap-pea-infused-plymouth-gin
+  type: ingredient
+
+- display_name: Szechuan Peppercorn-Infused Plymouth Gin
+  parent: infused-gin
+  slug: szechuan-peppercorn-infused-plymouth-gin
+  type: ingredient
+
+- display_name: Sloe Gin
+  parent: gin
+  slug: sloe-gin
+  type: ingredient
+
+- display_name: Plymouth Sloe Gin
+  parent: sloe-gin
+  slug: plymouth-sloe-gin
+  type: ingredient
+
+- display_name: Plant
+  parent: spirits
+  slug: plant
+  type: family
+
+- display_name: Peppermint Schnapps
+  parent: plant
+  slug: peppermint-schnapps
+  type: ingredient
+
+- display_name: Rice
+  parent: spirits
+  slug: rice
+  type: family
+
+- display_name: Batavia Arrack
+  parent: rice
+  slug: batavia-arrack
+  type: ingredient
+
+- display_name: Van Oosten Batavia Arrack
+  parent: batavia-arrack
+  slug: van-oosten-batavia-arrack
+  type: ingredient
+
+- display_name: Sugarcane
+  parent: spirits
+  slug: sugarcane
+  type: family
+
+- display_name: Banana Rum
+  parent: sugarcane
+  slug: banana-rum
+  type: ingredient
+
+- display_name: Cruzan Banana Rum
+  parent: banana-rum
+  slug: cruzan-banana-rum
+  type: ingredient
+
+- display_name: "Cacha\xE7a"
+  parent: sugarcane
+  slug: cachaca
+  type: ingredient
+
+- display_name: "Avu\xE1 Amburana Cacha\xE7a"
+  parent: cachaca
+  slug: avua-amburana-cachaca
+  type: ingredient
+
+- display_name: "Beleza Pura Cacha\xE7a"
+  parent: cachaca
+  slug: beleza-pura-cachaca
+  type: ingredient
+
+- display_name: "M\xE3e De Ouro Cacha\xE7a"
+  parent: cachaca
+  slug: mae-de-ouro-cachaca
+  type: ingredient
+
+- display_name: "Sagatiba Cacha\xE7a"
+  parent: cachaca
+  slug: sagatiba-cachaca
+  type: ingredient
+
+- display_name: Citrus Rum
+  parent: sugarcane
+  slug: citrus-rum
+  type: ingredient
+
+- display_name: "Bacardi Lim\xF3n Rum"
+  parent: citrus-rum
+  slug: bacardi-limon-rum
+  type: ingredient
+
+- display_name: Coconut Rum
+  parent: sugarcane
+  slug: coconut-rum
+  type: ingredient
+
+- display_name: Cruzan Coconut Rum
+  parent: coconut-rum
+  slug: cruzan-coconut-rum
+  type: ingredient
+
+- display_name: Malibu Coconut Rum
+  parent: coconut-rum
+  slug: malibu-coconut-rum
+  type: ingredient
+
+- display_name: "Infused Cacha\xE7a"
+  parent: sugarcane
+  slug: infused-cachaca
+  type: ingredient
+
+- display_name: "Sencha Green Tea-Infused Leblon Cacha\xE7a"
+  parent: infused-cachaca
+  slug: sencha-green-tea-infused-leblon-cachaca
+  type: ingredient
+
+- display_name: "Strawberry-Infused M\xE3e De Ouro Cacha\xE7a"
+  parent: infused-cachaca
+  slug: strawberry-infused-mae-de-ouro-cachaca
+  type: ingredient
+
+- display_name: Infused Rum
+  parent: sugarcane
+  slug: infused-rum
+  type: ingredient
+
+- display_name: Banana Chip-Infused Gosling's Black Seal Rum
+  parent: infused-rum
+  slug: banana-chip-infused-gosling-s-black-seal-rum
+  type: ingredient
+
+- display_name: Granny Smith Apple-Infused Rhum Barbancourt
+  parent: infused-rum
+  slug: granny-smith-apple-infused-rhum-barbancourt
+  type: ingredient
+
+- display_name: "Pineapple-Infused Flor De Ca\xF1a Extra-Dry White Rum"
+  parent: infused-rum
+  slug: pineapple-infused-flor-de-cana-extra-dry-white-rum
+  type: ingredient
+
+- display_name: "Popcorn-Infused Flor De Ca\xF1a Silver Dry Rum"
+  parent: infused-rum
+  slug: popcorn-infused-flor-de-cana-silver-dry-rum
+  type: ingredient
+
+- display_name: "Summer Royale Tea-Infused Flor De Ca\xF1a White Rum"
+  parent: infused-rum
+  slug: summer-royale-tea-infused-flor-de-cana-white-rum
+  type: ingredient
+
+- display_name: Rum
+  parent: sugarcane
+  slug: rum
+  type: ingredient
+
+- display_name: Aged Rum
+  parent: rum
+  slug: aged-rum
+  type: ingredient
+
+- display_name: "A\xF1ejo Rum"
+  parent: rum
+  slug: anejo-rum
+  type: ingredient
+
+- display_name: Angostura 5-Year Rum
+  parent: rum
+  slug: angostura-5-year-rum
+  type: ingredient
+
+- display_name: Appleton Estate Reserve Rum
+  parent: rum
+  slug: appleton-estate-reserve-rum
+  type: ingredient
+
+- display_name: Appleton Estate V/X Rum
+  parent: rum
+  slug: appleton-estate-v-x-rum
+  type: ingredient
+
+- display_name: Appleton Jamaican Rum
+  parent: rum
+  slug: appleton-jamaican-rum
+  type: ingredient
+
+- display_name: Appleton Reserve Rum
+  parent: rum
+  slug: appleton-reserve-rum
+  type: ingredient
+
+- display_name: Appleton Rum
+  parent: rum
+  slug: appleton-rum
+  type: ingredient
+
+- display_name: Bacardi 8 Rum
+  parent: rum
+  slug: bacardi-8-rum
+  type: ingredient
+
+- display_name: Bacardi Light Rum
+  parent: rum
+  slug: bacardi-light-rum
+  type: ingredient
+
+- display_name: Bacardi Ron Superior Limited Edition
+  parent: rum
+  slug: bacardi-ron-superior-limited-edition
+  type: ingredient
+
+- display_name: Bacardi Rum
+  parent: rum
+  slug: bacardi-rum
+  type: ingredient
+
+- display_name: Bacardi Silver Rum
+  parent: rum
+  slug: bacardi-silver-rum
+  type: ingredient
+
+- display_name: Banks 5 Island Rum
+  parent: rum
+  slug: banks-5-island-rum
+  type: ingredient
+
+- display_name: Banks 5-Island White Rum
+  parent: rum
+  slug: banks-5-island-white-rum
+  type: ingredient
+
+- display_name: Barbados Rum
+  parent: rum
+  slug: barbados-rum
+  type: ingredient
+
+- display_name: Barbancourt 3-Star Rum
+  parent: rum
+  slug: barbancourt-3-star-rum
+  type: ingredient
+
+- display_name: Barbancourt 8-Year-Old Rhum
+  parent: rum
+  slug: barbancourt-8-year-old-rhum
+  type: ingredient
+
+- display_name: Barbancourt Rhum Blanc
+  parent: rum
+  slug: barbancourt-rhum-blanc
+  type: ingredient
+
+- display_name: Barbancourt White Rum
+  parent: rum
+  slug: barbancourt-white-rum
+  type: ingredient
+
+- display_name: "Ca\xF1a Brava Rum"
+  parent: rum
+  slug: cana-brava-rum
+  type: ingredient
+
+- display_name: Cruzan Black Strap Rum
+  parent: rum
+  slug: cruzan-black-strap-rum
+  type: ingredient
+
+- display_name: Cruzan Single-Barrel Rum
+  parent: rum
+  slug: cruzan-single-barrel-rum
+  type: ingredient
+
+- display_name: Dark Rum
+  parent: rum
+  slug: dark-rum
+  type: ingredient
+
+- display_name: "Diplom\xE1tico Reserva Exclusiva Rum"
+  parent: rum
+  slug: diplomatico-reserva-exclusiva-rum
+  type: ingredient
+
+- display_name: Dusser's Navy Rum
+  parent: rum
+  slug: dusser-s-navy-rum
+  type: ingredient
+
+- display_name: El Dorado 12-Year Rum
+  parent: rum
+  slug: el-dorado-12-year-rum
+  type: ingredient
+
+- display_name: El Dorado 151 Rum
+  parent: rum
+  slug: el-dorado-151-rum
+  type: ingredient
+
+- display_name: El Dorado 15-Year-Old Rum
+  parent: rum
+  slug: el-dorado-15-year-old-rum
+  type: ingredient
+
+- display_name: El Dorado 15-Year Rum
+  parent: rum
+  slug: el-dorado-15-year-rum
+  type: ingredient
+
+- display_name: El Dorado 3-Year Rum
+  parent: rum
+  slug: el-dorado-3-year-rum
+  type: ingredient
+
+- display_name: El Dorado High-Strength 151 Rum
+  parent: rum
+  slug: el-dorado-high-strength-151-rum
+  type: ingredient
+
+- display_name: "Flor De Ca\xF1a 7-Year Rum"
+  parent: rum
+  slug: flor-de-cana-7-year-rum
+  type: ingredient
+
+- display_name: "Flor De Ca\xF1a Extra-Dry White Rum"
+  parent: rum
+  slug: flor-de-cana-extra-dry-white-rum
+  type: ingredient
+
+- display_name: "Flor De Ca\xF1a Silver Dry Rum"
+  parent: rum
+  slug: flor-de-cana-silver-dry-rum
+  type: ingredient
+
+- display_name: Gold Rum
+  parent: rum
+  slug: gold-rum
+  type: ingredient
+
+- display_name: Good Medium-bodied Rum
+  parent: rum
+  slug: good-medium-bodied-rum
+  type: ingredient
+
+- display_name: Gosling's Black Seal Rum
+  parent: rum
+  slug: gosling-s-black-seal-rum
+  type: ingredient
+
+- display_name: Gosling's Dark Rum
+  parent: rum
+  slug: gosling-s-dark-rum
+  type: ingredient
+
+- display_name: Gosling's Or Myers's Dark Rum
+  parent: rum
+  slug: gosling-s-or-myers-s-dark-rum
+  type: ingredient
+
+- display_name: Havana Club 7-Year-Old Rum
+  parent: rum
+  slug: havana-club-7-year-old-rum
+  type: ingredient
+
+- display_name: Heavy-bodied Rum
+  parent: rum
+  slug: heavy-bodied-rum
+  type: ingredient
+
+- display_name: J. M. Rhum Blanc
+  parent: rum
+  slug: j-m-rhum-blanc
+  type: ingredient
+
+- display_name: La Favorite Rhum Agricole Ambre
+  parent: rum
+  slug: la-favorite-rhum-agricole-ambre
+  type: ingredient
+
+- display_name: La Favorite Rhum Agricole Blanc
+  parent: rum
+  slug: la-favorite-rhum-agricole-blanc
+  type: ingredient
+
+- display_name: Lemon Hart 151 Rum
+  parent: rum
+  slug: lemon-hart-151-rum
+  type: ingredient
+
+- display_name: Lemon Hart Original Rum
+  parent: rum
+  slug: lemon-hart-original-rum
+  type: ingredient
+
+- display_name: Lemon Hart Overproof Rum
+  parent: rum
+  slug: lemon-hart-overproof-rum
+  type: ingredient
+
+- display_name: Light Rum
+  parent: rum
+  slug: light-rum
+  type: ingredient
+
+- display_name: Matusalem Gran Reserva 15-Year Rum
+  parent: rum
+  slug: matusalem-gran-reserva-15-year-rum
+  type: ingredient
+
+- display_name: Matusalem Gran Reserva Rum
+  parent: rum
+  slug: matusalem-gran-reserva-rum
+  type: ingredient
+
+- display_name: Mount Gay Eclipse Amber Rum
+  parent: rum
+  slug: mount-gay-eclipse-amber-rum
+  type: ingredient
+
+- display_name: Mount Gay Eclipse Rum
+  parent: rum
+  slug: mount-gay-eclipse-rum
+  type: ingredient
+
+- display_name: Mount Gay Eclipse White Rum
+  parent: rum
+  slug: mount-gay-eclipse-white-rum
+  type: ingredient
+
+- display_name: Mount Gay Rum
+  parent: rum
+  slug: mount-gay-rum
+  type: ingredient
+
+- display_name: Mount Gay X.O. Rum
+  parent: rum
+  slug: mount-gay-x-o-rum
+  type: ingredient
+
+- display_name: Myers's Dark Rum
+  parent: rum
+  slug: myers-s-dark-rum
+  type: ingredient
+
+- display_name: Neisson Rhum Agricole Blanc
+  parent: rum
+  slug: neisson-rhum-agricole-blanc
+  type: ingredient
+
+- display_name: Neisson Rhum Blanc
+  parent: rum
+  slug: neisson-rhum-blanc
+  type: ingredient
+
+- display_name: "Neisson Rhum R\xE9serve Sp\xE9ciale"
+  parent: rum
+  slug: neisson-rhum-reserve-speciale
+  type: ingredient
+
+- display_name: Overproof Rum, Such As Wray & Nephew Or Bacardi 151
+  parent: rum
+  slug: overproof-rum-such-as-wray-nephew-or-bacardi-151
+  type: ingredient
+
+- display_name: Pampero Aniversario Rum
+  parent: rum
+  slug: pampero-aniversario-rum
+  type: ingredient
+
+- display_name: Plantation Barbados 5-Year Rum
+  parent: rum
+  slug: plantation-barbados-5-year-rum
+  type: ingredient
+
+- display_name: "Rhum Cl\xE9ment Cr\xE9ole Shrubb"
+  parent: rum
+  slug: rhum-clement-creole-shrubb
+  type: ingredient
+
+- display_name: "Rhum Cl\xE9ment V.S.O.P"
+  parent: rum
+  slug: rhum-clement-v-s-o-p
+  type: ingredient
+
+- display_name: "Rhum Cl\xE9ment V.S.O.P."
+  parent: rum
+  slug: rhum-clement-v-s-o-p
+  type: ingredient
+
+- display_name: Rhum Jm 100-Proof Agricole Blanc
+  parent: rum
+  slug: rhum-jm-100-proof-agricole-blanc
+  type: ingredient
+
+- display_name: Ron Del Barrilito 3-Star Rum
+  parent: rum
+  slug: ron-del-barrilito-3-star-rum
+  type: ingredient
+
+- display_name: Ron Zacapa Centenario 23 Rum
+  parent: rum
+  slug: ron-zacapa-centenario-23-rum
+  type: ingredient
+
+- display_name: Santa Teresa 1796 Rum
+  parent: rum
+  slug: santa-teresa-1796-rum
+  type: ingredient
+
+- display_name: Santa Teresa Rum
+  parent: rum
+  slug: santa-teresa-rum
+  type: ingredient
+
+- display_name: Scarlet Ibis Rum
+  parent: rum
+  slug: scarlet-ibis-rum
+  type: ingredient
+
+- display_name: Smith & Cross Jamaican Rum
+  parent: rum
+  slug: smith-cross-jamaican-rum
+  type: ingredient
+
+- display_name: Smith & Cross Rum
+  parent: rum
+  slug: smith-cross-rum
+  type: ingredient
+
+- display_name: St. James Royal Ambre Rhum Agricole
+  parent: rum
+  slug: st-james-royal-ambre-rhum-agricole
+  type: ingredient
+
+- display_name: White Rum
+  parent: rum
+  slug: white-rum
+  type: ingredient
+
+- display_name: Wray & Nephew Overproof Rum
+  parent: rum
+  slug: wray-nephew-overproof-rum
+  type: ingredient
+
+- display_name: Zacapa 23 Centenario Rum
+  parent: rum
+  slug: zacapa-23-centenario-rum
+  type: ingredient
+
+- display_name: Zacapa 23-Year Rum
+  parent: rum
+  slug: zacapa-23-year-rum
+  type: ingredient
+
+- display_name: Spiced Rum
+  parent: sugarcane
+  slug: spiced-rum
+  type: ingredient
+
+- display_name: Swedish Punsch
+  parent: sugarcane
+  slug: swedish-punsch
+  type: ingredient
+
+- display_name: Carlshamns Flaggpunsch
+  parent: swedish-punsch
+  slug: carlshamns-flaggpunsch
+  type: ingredient
+
+- display_name: Kronan Swedish Punsch
+  parent: swedish-punsch
+  slug: kronan-swedish-punsch
+  type: ingredient
+
+- display_name: Vodka
+  parent: spirits
+  slug: vodka
+  type: family
+
+- display_name: Chocolate Vodka
+  parent: vodka
+  slug: chocolate-vodka
+  type: ingredient
+
+- display_name: Alchemia Chocolate Vodka
+  parent: chocolate-vodka
+  slug: alchemia-chocolate-vodka
+  type: ingredient
+
+- display_name: Citrus Vodka
+  parent: vodka
+  slug: citrus-vodka
+  type: ingredient
+
+- display_name: Absolut Citron Vodka
+  parent: citrus-vodka
+  slug: absolut-citron-vodka
+  type: ingredient
+
+- display_name: Absolut Mandrin Vodka
+  parent: citrus-vodka
+  slug: absolut-mandrin-vodka
+  type: ingredient
+
+- display_name: Citron Vodka
+  parent: citrus-vodka
+  slug: citron-vodka
+  type: ingredient
+
+- display_name: Orange Vodka
+  parent: citrus-vodka
+  slug: orange-vodka
+  type: ingredient
+
+- display_name: Stolichnaya Limonaya Vodka
+  parent: citrus-vodka
+  slug: stolichnaya-limonaya-vodka
+  type: ingredient
+
+- display_name: Stolichnaya Ohranj Vodka
+  parent: citrus-vodka
+  slug: stolichnaya-ohranj-vodka
+  type: ingredient
+
+- display_name: Fruit Vodka
+  parent: vodka
+  slug: fruit-vodka
+  type: ingredient
+
+- display_name: 42 Below Kiwi Vodka
+  parent: fruit-vodka
+  slug: 42-below-kiwi-vodka
+  type: ingredient
+
+- display_name: Absolut Kurant Vodka
+  parent: fruit-vodka
+  slug: absolut-kurant-vodka
+  type: ingredient
+
+- display_name: Heart Of The Hudson Apple Vodka
+  parent: fruit-vodka
+  slug: heart-of-the-hudson-apple-vodka
+  type: ingredient
+
+- display_name: Pepper Vodka
+  parent: vodka
+  slug: pepper-vodka
+  type: ingredient
+
+- display_name: Vanilla Vodka
+  parent: vodka
+  slug: vanilla-vodka
+  type: ingredient
+
+- display_name: Stolichnaya Vanil Vodka
+  parent: vanilla-vodka
+  slug: stolichnaya-vanil-vodka
+  type: ingredient
+
+- display_name: Vodka
+  parent: vodka
+  slug: vodka
+  type: ingredient
+
+- display_name: Absolut Vodka
+  parent: vodka
+  slug: absolut-vodka
+  type: ingredient
+
+- display_name: Karlsson's Gold Vodka
+  parent: vodka
+  slug: karlsson-s-gold-vodka
+  type: ingredient
+
+- display_name: Smirnoff Black Vodka
+  parent: vodka
+  slug: smirnoff-black-vodka
+  type: ingredient
+
+- display_name: Stolichnaya Vodka
+  parent: vodka
+  slug: stolichnaya-vodka
+  type: ingredient
+
+- display_name: Whisk(e)y
+  parent: spirits
+  slug: whisk-e-y
+  type: family
+
+- display_name: American Whiskey
+  parent: whisk-e-y
+  slug: american-whiskey
+  type: ingredient
+
+- display_name: Bernheim Wheat Whiskey
+  parent: american-whiskey
+  slug: bernheim-wheat-whiskey
+  type: ingredient
+
+- display_name: Bourbon Or Rye Whiskey
+  parent: american-whiskey
+  slug: bourbon-or-rye-whiskey
+  type: ingredient
+
+- display_name: Glen Thunder Corn Whiskey
+  parent: american-whiskey
+  slug: glen-thunder-corn-whiskey
+  type: ingredient
+
+- display_name: High West Silver Oat Whiskey
+  parent: american-whiskey
+  slug: high-west-silver-oat-whiskey
+  type: ingredient
+
+- display_name: Bourbon Whiskey
+  parent: whisk-e-y
+  slug: bourbon-whiskey
+  type: ingredient
+
+- display_name: Baker's Bourbon
+  parent: bourbon-whiskey
+  slug: baker-s-bourbon
+  type: ingredient
+
+- display_name: Buffalo Trace Bourbon
+  parent: bourbon-whiskey
+  slug: buffalo-trace-bourbon
+  type: ingredient
+
+- display_name: Bulleit Bourbon
+  parent: bourbon-whiskey
+  slug: bulleit-bourbon
+  type: ingredient
+
+- display_name: Bulleit Bourbon Whiskey
+  parent: bourbon-whiskey
+  slug: bulleit-bourbon-whiskey
+  type: ingredient
+
+- display_name: Eagle Rare 10-Year Bourbon
+  parent: bourbon-whiskey
+  slug: eagle-rare-10-year-bourbon
+  type: ingredient
+
+- display_name: Elijah Craig 12-Year Bourbon
+  parent: bourbon-whiskey
+  slug: elijah-craig-12-year-bourbon
+  type: ingredient
+
+- display_name: Elijah Craig 12-Year-Old Bourbon Whiskey
+  parent: bourbon-whiskey
+  slug: elijah-craig-12-year-old-bourbon-whiskey
+  type: ingredient
+
+- display_name: Evan Williams Single-Barrel Bourbon
+  parent: bourbon-whiskey
+  slug: evan-williams-single-barrel-bourbon
+  type: ingredient
+
+- display_name: George T. Stagg Bourbon Whiskey
+  parent: bourbon-whiskey
+  slug: george-t-stagg-bourbon-whiskey
+  type: ingredient
+
+- display_name: Maker's Mark Bourbon Whiskey
+  parent: bourbon-whiskey
+  slug: maker-s-mark-bourbon-whiskey
+  type: ingredient
+
+- display_name: Old Grand-Dad 114 Bourbon
+  parent: bourbon-whiskey
+  slug: old-grand-dad-114-bourbon
+  type: ingredient
+
+- display_name: Old Grand-Dad Bonded Bourbon Whiskey
+  parent: bourbon-whiskey
+  slug: old-grand-dad-bonded-bourbon-whiskey
+  type: ingredient
+
+- display_name: Old Weller Antique 107 Bourbon
+  parent: bourbon-whiskey
+  slug: old-weller-antique-107-bourbon
+  type: ingredient
+
+- display_name: Russell's Reserve 10-Year Bourbon
+  parent: bourbon-whiskey
+  slug: russell-s-reserve-10-year-bourbon
+  type: ingredient
+
+- display_name: Stagg Bourbon
+  parent: bourbon-whiskey
+  slug: stagg-bourbon
+  type: ingredient
+
+- display_name: Wild Turkey 101 Bourbon
+  parent: bourbon-whiskey
+  slug: wild-turkey-101-bourbon
+  type: ingredient
+
+- display_name: Woodford Reserve Bourbon
+  parent: bourbon-whiskey
+  slug: woodford-reserve-bourbon
+  type: ingredient
+
+- display_name: Canadian Whiskey
+  parent: whisk-e-y
+  slug: canadian-whiskey
+  type: ingredient
+
+- display_name: Canadian Club Whiskey
+  parent: canadian-whiskey
+  slug: canadian-club-whiskey
+  type: ingredient
+
+- display_name: Crown Royal Canadian Whiskey
+  parent: canadian-whiskey
+  slug: crown-royal-canadian-whiskey
+  type: ingredient
+
+- display_name: Infused American Whiskey
+  parent: whisk-e-y
+  slug: infused-american-whiskey
+  type: ingredient
+
+- display_name: Hibiscus-Infused Bernheim Wheat Whiskey
+  parent: infused-american-whiskey
+  slug: hibiscus-infused-bernheim-wheat-whiskey
+  type: ingredient
+
+- display_name: Lavender-Infused Bernheim Original Wheat Whiskey
+  parent: infused-american-whiskey
+  slug: lavender-infused-bernheim-original-wheat-whiskey
+  type: ingredient
+
+- display_name: Infused Bourbon
+  parent: whisk-e-y
+  slug: infused-bourbon
+  type: ingredient
+
+- display_name: Fig-Infused Elijah Craig Bourbon
+  parent: infused-bourbon
+  slug: fig-infused-elijah-craig-bourbon
+  type: ingredient
+
+- display_name: Pecan-Infused Buffalo Trace Bourbon
+  parent: infused-bourbon
+  slug: pecan-infused-buffalo-trace-bourbon
+  type: ingredient
+
+- display_name: Infused Bourbon Whiskey
+  parent: whisk-e-y
+  slug: infused-bourbon-whiskey
+  type: ingredient
+
+- display_name: Benton's Bacon Fat-Infused Four Roses Bourbon
+  parent: infused-bourbon-whiskey
+  slug: benton-s-bacon-fat-infused-four-roses-bourbon
+  type: ingredient
+
+- display_name: Black Tea-Infused Elijah Craig 12-Year-Old Bourbon Whiskey
+  parent: infused-bourbon-whiskey
+  slug: black-tea-infused-elijah-craig-12-year-old-bourbon-whiskey
+  type: ingredient
+
+- display_name: Goji Berry-Infused Four Roses Single Barrel Bourbon Whiskey
+  parent: infused-bourbon-whiskey
+  slug: goji-berry-infused-four-roses-single-barrel-bourbon-whiskey
+  type: ingredient
+
+- display_name: Infused Rye Whiskey
+  parent: whisk-e-y
+  slug: infused-rye-whiskey
+  type: ingredient
+
+- display_name: Birch-Infused Rittenhouse Bonded Rye Whiskey
+  parent: infused-rye-whiskey
+  slug: birch-infused-rittenhouse-bonded-rye-whiskey
+  type: ingredient
+
+- display_name: Chamomile-Infused Old Overholt Rye Whiskey
+  parent: infused-rye-whiskey
+  slug: chamomile-infused-old-overholt-rye-whiskey
+  type: ingredient
+
+- display_name: Dandelion Root-Infused Rittenhouse Bonded Rye Whiskey
+  parent: infused-rye-whiskey
+  slug: dandelion-root-infused-rittenhouse-bonded-rye-whiskey
+  type: ingredient
+
+- display_name: Dried Currant-Infused Wild Turkey Rye Whiskey
+  parent: infused-rye-whiskey
+  slug: dried-currant-infused-wild-turkey-rye-whiskey
+  type: ingredient
+
+- display_name: Red Thai Chile-Infused Rittenhouse Rye Whiskey
+  parent: infused-rye-whiskey
+  slug: red-thai-chile-infused-rittenhouse-rye-whiskey
+  type: ingredient
+
+- display_name: Infused Scotch Whisky
+  parent: whisk-e-y
+  slug: infused-scotch-whisky
+  type: ingredient
+
+- display_name: Apricot-Infused Famous Grouse Scotch Whisky
+  parent: infused-scotch-whisky
+  slug: apricot-infused-famous-grouse-scotch-whisky
+  type: ingredient
+
+- display_name: Chamomile-Infused Compass Box Asyla Blended Scotch Whisky
+  parent: infused-scotch-whisky
+  slug: chamomile-infused-compass-box-asyla-blended-scotch-whisky
+  type: ingredient
+
+- display_name: Coconut Green Tea-Infused Famous Grouse Scotch Whisky
+  parent: infused-scotch-whisky
+  slug: coconut-green-tea-infused-famous-grouse-scotch-whisky
+  type: ingredient
+
+- display_name: Fuji Apple-Infused Famous Grouse Scotch
+  parent: infused-scotch-whisky
+  slug: fuji-apple-infused-famous-grouse-scotch
+  type: ingredient
+
+- display_name: Irish Whiskey
+  parent: whisk-e-y
+  slug: irish-whiskey
+  type: ingredient
+
+- display_name: Black Bush Irish Whiskey
+  parent: irish-whiskey
+  slug: black-bush-irish-whiskey
+  type: ingredient
+
+- display_name: Bushmills Irish Whiskey
+  parent: irish-whiskey
+  slug: bushmills-irish-whiskey
+  type: ingredient
+
+- display_name: Clontarf 1014 Irish Whiskey
+  parent: irish-whiskey
+  slug: clontarf-1014-irish-whiskey
+  type: ingredient
+
+- display_name: Jameson 12-Year-Old Irish Whiskey
+  parent: irish-whiskey
+  slug: jameson-12-year-old-irish-whiskey
+  type: ingredient
+
+- display_name: Jameson Irish Whiskey
+  parent: irish-whiskey
+  slug: jameson-irish-whiskey
+  type: ingredient
+
+- display_name: Knappogue Castle 12-Year Irish Whiskey
+  parent: irish-whiskey
+  slug: knappogue-castle-12-year-irish-whiskey
+  type: ingredient
+
+- display_name: Redbreast 12-Year Irish Whiskey
+  parent: irish-whiskey
+  slug: redbreast-12-year-irish-whiskey
+  type: ingredient
+
+- display_name: Japanese Whisky
+  parent: whisk-e-y
+  slug: japanese-whisky
+  type: ingredient
+
+- display_name: Nikka Taketsuru 12-Year-Old Japanese Malt Whisky
+  parent: japanese-whisky
+  slug: nikka-taketsuru-12-year-old-japanese-malt-whisky
+  type: ingredient
+
+- display_name: Suntory Hakushu 12-Year Japanese Whisky
+  parent: japanese-whisky
+  slug: suntory-hakushu-12-year-japanese-whisky
+  type: ingredient
+
+- display_name: Suntory Royal Japanese Whisky
+  parent: japanese-whisky
+  slug: suntory-royal-japanese-whisky
+  type: ingredient
+
+- display_name: Yamazaki 12-Year Japanese Whisky
+  parent: japanese-whisky
+  slug: yamazaki-12-year-japanese-whisky
+  type: ingredient
+
+- display_name: Yamazaki 12-Year-Old Japanese Single Malt Whisky
+  parent: japanese-whisky
+  slug: yamazaki-12-year-old-japanese-single-malt-whisky
+  type: ingredient
+
+- display_name: Rye Whiskey
+  parent: whisk-e-y
+  slug: rye-whiskey
+  type: ingredient
+
+- display_name: Old Overholt Rye Whiskey
+  parent: rye-whiskey
+  slug: old-overholt-rye-whiskey
+  type: ingredient
+
+- display_name: Old Potrero Hotaling's Rye Whiskey
+  parent: rye-whiskey
+  slug: old-potrero-hotaling-s-rye-whiskey
+  type: ingredient
+
+- display_name: Old Potrero Rye Whiskey
+  parent: rye-whiskey
+  slug: old-potrero-rye-whiskey
+  type: ingredient
+
+- display_name: Rittenhouse 100 Rye Whiskey
+  parent: rye-whiskey
+  slug: rittenhouse-100-rye-whiskey
+  type: ingredient
+
+- display_name: Rittenhouse Bonded Rye Whiskey
+  parent: rye-whiskey
+  slug: rittenhouse-bonded-rye-whiskey
+  type: ingredient
+
+- display_name: Russell's Reserve Rye Whiskey
+  parent: rye-whiskey
+  slug: russell-s-reserve-rye-whiskey
+  type: ingredient
+
+- display_name: Sazerac 6-Year Rye Whiskey
+  parent: rye-whiskey
+  slug: sazerac-6-year-rye-whiskey
+  type: ingredient
+
+- display_name: Templeton Rye Whiskey
+  parent: rye-whiskey
+  slug: templeton-rye-whiskey
+  type: ingredient
+
+- display_name: Wild Turkey Russell's Reserve 6-Year-Old Rye Whiskey
+  parent: rye-whiskey
+  slug: wild-turkey-russell-s-reserve-6-year-old-rye-whiskey
+  type: ingredient
+
+- display_name: Wild Turkey Rye Whiskey
+  parent: rye-whiskey
+  slug: wild-turkey-rye-whiskey
+  type: ingredient
+
+- display_name: Scotch Whisky
+  parent: whisk-e-y
+  slug: scotch-whisky
+  type: ingredient
+
+- display_name: Ardbeg 10-Year-Old Single Malt Scotch Whisky
+  parent: scotch-whisky
+  slug: ardbeg-10-year-old-single-malt-scotch-whisky
+  type: ingredient
+
+- display_name: Benromach 12-Year-Old Single Malt Scotch Whisky
+  parent: scotch-whisky
+  slug: benromach-12-year-old-single-malt-scotch-whisky
+  type: ingredient
+
+- display_name: Bowmore 12-Year Scotch Whisky
+  parent: scotch-whisky
+  slug: bowmore-12-year-scotch-whisky
+  type: ingredient
+
+- display_name: Bruichladdich Port Charlotte 7-Year Scotch Whisky
+  parent: scotch-whisky
+  slug: bruichladdich-port-charlotte-7-year-scotch-whisky
+  type: ingredient
+
+- display_name: Caol Ila 12-Year Scotch Whisky
+  parent: scotch-whisky
+  slug: caol-ila-12-year-scotch-whisky
+  type: ingredient
+
+- display_name: Chivas Regal 12-Year-Old Blended Scotch Whisky
+  parent: scotch-whisky
+  slug: chivas-regal-12-year-old-blended-scotch-whisky
+  type: ingredient
+
+- display_name: Compass Box Asyla Blended Scotch Whisky
+  parent: scotch-whisky
+  slug: compass-box-asyla-blended-scotch-whisky
+  type: ingredient
+
+- display_name: Compass Box Asyla Scotch Whisky
+  parent: scotch-whisky
+  slug: compass-box-asyla-scotch-whisky
+  type: ingredient
+
+- display_name: Compass Box Oak Cross Blended Malt Scotch Whisky
+  parent: scotch-whisky
+  slug: compass-box-oak-cross-blended-malt-scotch-whisky
+  type: ingredient
+
+- display_name: Compass Box Peat Monster Blended Malt Scotch Whisky
+  parent: scotch-whisky
+  slug: compass-box-peat-monster-blended-malt-scotch-whisky
+  type: ingredient
+
+- display_name: Famous Grouse Blended Scotch Whisky
+  parent: scotch-whisky
+  slug: famous-grouse-blended-scotch-whisky
+  type: ingredient
+
+- display_name: Famous Grouse Scotch Whisky
+  parent: scotch-whisky
+  slug: famous-grouse-scotch-whisky
+  type: ingredient
+
+- display_name: Full-bodied Scotch Whisky
+  parent: scotch-whisky
+  slug: full-bodied-scotch-whisky
+  type: ingredient
+
+- display_name: Glenlivet 12-Year-Old Single Malt Scotch Whisky
+  parent: scotch-whisky
+  slug: glenlivet-12-year-old-single-malt-scotch-whisky
+  type: ingredient
+
+- display_name: Highland Park 12-Year Scotch Whisky
+  parent: scotch-whisky
+  slug: highland-park-12-year-scotch-whisky
+  type: ingredient
+
+- display_name: Highlands Malt Scotch Whisky
+  parent: scotch-whisky
+  slug: highlands-malt-scotch-whisky
+  type: ingredient
+
+- display_name: Laphraoig Islay Whisky
+  parent: scotch-whisky
+  slug: laphraoig-islay-whisky
+  type: ingredient
+
+- display_name: Laphroaig 10-Year-Old Single Malt Scotch Whisky
+  parent: scotch-whisky
+  slug: laphroaig-10-year-old-single-malt-scotch-whisky
+  type: ingredient
+
+- display_name: Laphroaig 10-Year Scotch Whisky
+  parent: scotch-whisky
+  slug: laphroaig-10-year-scotch-whisky
+  type: ingredient
+
+- display_name: Laphroaig 12-Year Scotch Whisky
+  parent: scotch-whisky
+  slug: laphroaig-12-year-scotch-whisky
+  type: ingredient
+
+- display_name: Macallan Fine Oak 10-Year Scotch Whisky
+  parent: scotch-whisky
+  slug: macallan-fine-oak-10-year-scotch-whisky
+  type: ingredient
+
+- display_name: Oban 14-Year-Old Single Malt Scotch Whisky
+  parent: scotch-whisky
+  slug: oban-14-year-old-single-malt-scotch-whisky
+  type: ingredient
+
+- display_name: Scotch Whisky (warmed)
+  parent: scotch-whisky
+  slug: scotch-whisky-warmed
+  type: ingredient
+
+- display_name: Smoky Blended Scotch Whisky
+  parent: scotch-whisky
+  slug: smoky-blended-scotch-whisky
+  type: ingredient
+
+- display_name: Talisker 10-Year-Old Single Malt Scotch Whisky
+  parent: scotch-whisky
+  slug: talisker-10-year-old-single-malt-scotch-whisky
+  type: ingredient
+
+- display_name: Tennessee Whiskey
+  parent: whisk-e-y
+  slug: tennessee-whiskey
+  type: ingredient
+
+- display_name: George Dickel No. 12 Tennessee Whiskey
+  parent: tennessee-whiskey
+  slug: george-dickel-no-12-tennessee-whiskey
+  type: ingredient
+
+- display_name: Jack Daniel's Tennessee Whiskey
+  parent: tennessee-whiskey
+  slug: jack-daniel-s-tennessee-whiskey
+  type: ingredient
+
+- display_name: Whiskey
+  parent: whisk-e-y
+  slug: whiskey
+  type: ingredient
+
+- display_name: Sweet
+  parent: null
+  slug: sweet
+  type: category
 
 - display_name: Chocolate
   parent: sweet
