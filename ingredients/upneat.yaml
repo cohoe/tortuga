@@ -1,5 +1,4 @@
 - display_name: Animal
-  parent: null
   slug: animal
   type: category
 - display_name: Dairy
@@ -127,7 +126,6 @@
   slug: beef-broth
   type: ingredient
 - display_name: Bitter
-  parent: null
   slug: bitter
   type: category
 - display_name: Amaro
@@ -403,7 +401,6 @@
   slug: a-b-smeby-verbena-bitters
   type: ingredient
 - display_name: Fermented
-  parent: null
   slug: fermented
   type: category
 - display_name: Beer
@@ -971,7 +968,6 @@
   slug: sauvignon-blanc
   type: ingredient
 - display_name: Fruits
-  parent: null
   slug: fruits
   type: category
 - display_name: Berry
@@ -1563,7 +1559,6 @@
   slug: raspberry-syrup
   type: ingredient
 - display_name: Plants
-  parent: null
   slug: plants
   type: category
 - display_name: Coffee
@@ -1815,7 +1810,6 @@
   slug: boiron-rhubarb-puree
   type: ingredient
 - display_name: Savory
-  parent: null
   slug: savory
   type: category
 - display_name: Salt
@@ -1959,7 +1953,6 @@
   slug: rice-vinegar
   type: ingredient
 - display_name: Soft Drinks
-  parent: null
   slug: soft-drinks
   type: category
 - display_name: Citrus
@@ -2107,7 +2100,6 @@
   slug: water-or-soda-water
   type: ingredient
 - display_name: Spirits
-  parent: null
   slug: spirits
   type: category
 - display_name: Agave
@@ -3719,7 +3711,6 @@
   slug: whiskey
   type: ingredient
 - display_name: Sweet
-  parent: null
   slug: sweet
   type: category
 - display_name: Chocolate
