@@ -1631,7 +1631,7 @@
   type: ingredient
 
 - display_name: Ruby Red Grapefruit Juice
-  parent: grapefruit-juice
+  parent: grapefruit
   slug: ruby-red-grapefruit-juice
   type: ingredient
 
