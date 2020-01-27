@@ -1,4578 +1,5555 @@
+
 - display_name: Animal
   slug: animal
   type: category
+
 - display_name: Dairy
   parent: animal
   slug: dairy
   type: family
+
 - display_name: Condensed Milk
   parent: dairy
   slug: condensed-milk
   type: ingredient
+
 - display_name: Sweetened Condensed Milk
   parent: condensed-milk
   slug: sweetened-condensed-milk
   type: ingredient
+
 - display_name: Half-and-half
   parent: dairy
   slug: half-and-half
   type: ingredient
+
 - display_name: Heavy Cream
   parent: dairy
   slug: heavy-cream
   type: ingredient
+
 - display_name: Honey Nut Cheerio-Infused Cream
   parent: heavy-cream
   slug: honey-nut-cheerio-infused-cream
   type: ingredient
+
 - display_name: Ice Cream (vanilla)
   parent: dairy
   slug: ice-cream-vanilla
   type: ingredient
+
 - display_name: Irish Cream
   parent: dairy
   slug: irish-cream
   type: ingredient
+
 - display_name: Baileys Irish Cream
   parent: irish-cream
   slug: baileys-irish-cream
   type: ingredient
+
 - display_name: Milk
   parent: dairy
   slug: milk
   type: ingredient
+
 - display_name: Milk Or Cream
   parent: milk
   slug: milk-or-cream
   type: ingredient
+
 - display_name: Milk Or Half-and-half
   parent: milk
   slug: milk-or-half-and-half
   type: ingredient
+
 - display_name: Whole Milk
   parent: milk
   slug: whole-milk
   type: ingredient
+
 - display_name: Vanilla Butter
   parent: dairy
   slug: vanilla-butter
   type: ingredient
+
 - display_name: Whipped Cream
   parent: dairy
   slug: whipped-cream
   type: ingredient
+
 - display_name: Whipped Irish Coffee Cream
   parent: whipped-cream
   slug: whipped-irish-coffee-cream
   type: ingredient
+
 - display_name: Whipped Cream (unsweetened)
   parent: dairy
   slug: whipped-cream-unsweetened
   type: ingredient
-- display_name: Whole Milk
-  parent: dairy
-  slug: whole-milk
-  type: ingredient
+
 - display_name: Yogurt
   parent: dairy
   slug: yogurt
   type: ingredient
+
 - display_name: Greek Yogurt
   parent: yogurt
   slug: greek-yogurt
   type: ingredient
+
 - display_name: Egg
   parent: animal
   slug: egg
   type: family
-- display_name: Egg
-  parent: egg
-  slug: egg
-  type: ingredient
-- display_name: Egg
-  parent: egg
-  slug: egg
-  type: ingredient
+
 - display_name: Egg White
   parent: egg
   slug: egg-white
   type: ingredient
+
 - display_name: Egg Yolk
   parent: egg
   slug: egg-yolk
   type: ingredient
+
 - display_name: Organic Egg
   parent: egg
   slug: organic-egg
   type: ingredient
+
 - display_name: Marine
   parent: animal
   slug: marine
   type: family
+
 - display_name: Clamato Juice
   parent: marine
   slug: clamato-juice
   type: ingredient
+
 - display_name: Clam Juice
   parent: marine
   slug: clam-juice
   type: ingredient
+
 - display_name: Soup
   parent: animal
   slug: soup
   type: family
+
 - display_name: Beef Broth
   parent: soup
   slug: beef-broth
   type: ingredient
+
 - display_name: Bitter
   slug: bitter
   type: category
+
 - display_name: Amaro
   parent: bitter
   slug: amaro
   type: family
+
 - display_name: Amaro Abano
   parent: amaro
   slug: amaro-abano
   type: ingredient
+
 - display_name: Luxardo Amaro Abano
   parent: amaro-abano
   slug: luxardo-amaro-abano
   type: ingredient
+
 - display_name: Amaro Averna
   parent: amaro
   slug: amaro-averna
   type: ingredient
+
 - display_name: Amaro Ciociaro
   parent: amaro
   slug: amaro-ciociaro
   type: ingredient
+
 - display_name: Amaro Lucano
   parent: amaro
   slug: amaro-lucano
   type: ingredient
+
 - display_name: Amaro Luxardo
   parent: amaro
   slug: amaro-luxardo
   type: ingredient
+
 - display_name: Amaro Meletti
   parent: amaro
   slug: amaro-meletti
   type: ingredient
+
 - display_name: Amaro Nardini
   parent: amaro
   slug: amaro-nardini
   type: ingredient
+
 - display_name: Amaro Nonino
   parent: amaro
   slug: amaro-nonino
   type: ingredient
+
 - display_name: Amaro Ramazzotti
   parent: amaro
   slug: amaro-ramazzotti
   type: ingredient
+
 - display_name: Amer Picon
   parent: amaro
   slug: amer-picon
   type: ingredient
+
 - display_name: Averna Amaro
   parent: amaro
   slug: averna-amaro
   type: ingredient
+
 - display_name: Campari
   parent: amaro
   slug: campari
   type: ingredient
+
 - display_name: Cacao Nib-Infused Campari
   parent: campari
   slug: cacao-nib-infused-campari
   type: ingredient
+
 - display_name: Coffee-And Chile-Infused Campari
   parent: campari
   slug: coffee-and-chile-infused-campari
   type: ingredient
+
 - display_name: Cardamaro
   parent: amaro
   slug: cardamaro
   type: ingredient
+
 - display_name: Cynar
   parent: amaro
   slug: cynar
   type: ingredient
+
 - display_name: Fernet-Branca
   parent: amaro
   slug: fernet-branca
   type: ingredient
-- display_name: Fernet Branca
-  parent: fernet-branca
-  slug: fernet-branca
-  type: ingredient
+
 - display_name: Gran Classico Bitter
   parent: amaro
   slug: gran-classico-bitter
   type: ingredient
+
 - display_name: Bitters
   parent: bitter
   slug: bitters
   type: family
+
 - display_name: Abbott's Bitters
   parent: bitters
   slug: abbott-s-bitters
   type: ingredient
+
 - display_name: Amargo Chuncho Bitters
   parent: bitters
   slug: amargo-chuncho-bitters
   type: ingredient
+
 - display_name: Angostura Bitters
   parent: bitters
   slug: angostura-bitters
   type: ingredient
+
 - display_name: Apple Bitters
   parent: bitters
   slug: apple-bitters
   type: ingredient
+
 - display_name: Bar Code Baked Apple Bitters
   parent: apple-bitters
   slug: bar-code-baked-apple-bitters
   type: ingredient
+
 - display_name: Aromatic Bitters
   parent: bitters
   slug: aromatic-bitters
   type: ingredient
+
 - display_name: Bitter Truth Aromatic Bitters
   parent: aromatic-bitters
   slug: bitter-truth-aromatic-bitters
   type: ingredient
+
 - display_name: Barrel-Aged Bitters
   parent: bitters
   slug: barrel-aged-bitters
   type: ingredient
+
 - display_name: Fee Brothers Whiskey Barrel-Aged Bitters
   parent: barrel-aged-bitters
   slug: fee-brothers-whiskey-barrel-aged-bitters
   type: ingredient
+
 - display_name: Feldman's BarreleAged Bitters
   parent: barrel-aged-bitters
   slug: feldman-s-barreleaged-bitters
   type: ingredient
-- display_name: Bitters
-  parent: bitters
-  slug: bitters
-  type: ingredient
+
 - display_name: Angostura Or Orange Bitters
   parent: bitters
   slug: angostura-or-orange-bitters
   type: ingredient
+
 - display_name: Bokers Bitters (substitute Angostura Bitters)
   parent: bitters
   slug: bokers-bitters-substitute-angostura-bitters
   type: ingredient
+
 - display_name: Fee Brothers Old Fashioned Bitters
   parent: bitters
   slug: fee-brothers-old-fashioned-bitters
   type: ingredient
+
 - display_name: Orange Bitters (or Angostura Bitters)
   parent: bitters
   slug: orange-bitters-or-angostura-bitters
   type: ingredient
+
 - display_name: Bitter Truth Jerry Thomas' Own Decanter Bitters
   parent: bitters
   slug: bitter-truth-jerry-thomas-own-decanter-bitters
   type: ingredient
+
 - display_name: Celery Bitters
   parent: bitters
   slug: celery-bitters
   type: ingredient
+
 - display_name: Bitter Truth Celery Bitters
   parent: celery-bitters
   slug: bitter-truth-celery-bitters
   type: ingredient
+
 - display_name: The Bitter Truth Celery Bitters
   parent: celery-bitters
   slug: the-bitter-truth-celery-bitters
   type: ingredient
+
 - display_name: Cherry Bark & Vanilla Bitters
   parent: bitters
   slug: cherry-bark-vanilla-bitters
   type: ingredient
+
 - display_name: Bittercube Cherry Bark & Vanilla Bitters
   parent: cherry-bark-vanilla-bitters
   slug: bittercube-cherry-bark-vanilla-bitters
   type: ingredient
+
 - display_name: Grapefruit Bitters
   parent: bitters
   slug: grapefruit-bitters
   type: ingredient
+
 - display_name: Bittermens Hopped Grapefruit Bitters
   parent: grapefruit-bitters
   slug: bittermens-hopped-grapefruit-bitters
   type: ingredient
+
 - display_name: Fee Brothers Grapefruit Bitters
   parent: grapefruit-bitters
   slug: fee-brothers-grapefruit-bitters
   type: ingredient
+
 - display_name: The Bitter Truth Grapefruit Bitters
   parent: grapefruit-bitters
   slug: the-bitter-truth-grapefruit-bitters
   type: ingredient
+
 - display_name: Lemon Bitters
   parent: bitters
   slug: lemon-bitters
   type: ingredient
+
 - display_name: The Bitter Truth Lemon Bitters
   parent: lemon-bitters
   slug: the-bitter-truth-lemon-bitters
   type: ingredient
+
 - display_name: Mole Bitters
   parent: bitters
   slug: mole-bitters
   type: ingredient
+
 - display_name: Bittermens Xocolatl Mole Bitters
   parent: mole-bitters
   slug: bittermens-xocolatl-mole-bitters
   type: ingredient
+
 - display_name: Orange Bitters
   parent: bitters
   slug: orange-bitters
   type: ingredient
+
 - display_name: Angostura Orange Bitters
   parent: orange-bitters
   slug: angostura-orange-bitters
   type: ingredient
+
 - display_name: House Orange Bitters
   parent: orange-bitters
   slug: house-orange-bitters
   type: ingredient
+
 - display_name: Regan's Orange Bitters
   parent: orange-bitters
   slug: regan-s-orange-bitters
   type: ingredient
+
 - display_name: Regans' Orange Bitters
   parent: orange-bitters
   slug: regans-orange-bitters
   type: ingredient
+
 - display_name: Peach Bitters
   parent: bitters
   slug: peach-bitters
   type: ingredient
+
 - display_name: Fee Brothers Peach Bitters
   parent: peach-bitters
   slug: fee-brothers-peach-bitters
   type: ingredient
+
 - display_name: Peychaud's Bitters
   parent: bitters
   slug: peychaud-s-bitters
   type: ingredient
+
 - display_name: House Peychaud's Bitters
   parent: peychaud-s-bitters
   slug: house-peychaud-s-bitters
   type: ingredient
+
 - display_name: Pimento Bitters
   parent: bitters
   slug: pimento-bitters
   type: ingredient
+
 - display_name: Dale Degroff's Pimento Bitters
   parent: pimento-bitters
   slug: dale-degroff-s-pimento-bitters
   type: ingredient
+
 - display_name: Rhubarb Bitters
   parent: bitters
   slug: rhubarb-bitters
   type: ingredient
+
 - display_name: Fee Brothers Rhubarb Bitters
   parent: rhubarb-bitters
   slug: fee-brothers-rhubarb-bitters
   type: ingredient
+
 - display_name: Tiki Bitters
   parent: bitters
   slug: tiki-bitters
   type: ingredient
-- display_name: Bittermens 'Elemakule Tiki Bitters
+
+- display_name: "Bittermens 'Elemakule Tiki Bitters"
   parent: tiki-bitters
   slug: bittermens-elemakule-tiki-bitters
   type: ingredient
+
 - display_name: Verbena Bitters
   parent: bitters
   slug: verbena-bitters
   type: ingredient
+
 - display_name: A.B. Smeby Verbena Bitters
   parent: verbena-bitters
   slug: a-b-smeby-verbena-bitters
   type: ingredient
+
 - display_name: Fermented
   slug: fermented
   type: category
+
 - display_name: Beer
   parent: fermented
   slug: beer
   type: family
-- display_name: Beer
-  parent: beer
-  slug: beer
-  type: ingredient
+
 - display_name: Ale
   parent: beer
   slug: ale
   type: ingredient
+
 - display_name: Blanche De Bruxelles Beer
   parent: beer
   slug: blanche-de-bruxelles-beer
   type: ingredient
+
 - display_name: Brooklyn Black Chocolate Stout
   parent: beer
   slug: brooklyn-black-chocolate-stout
   type: ingredient
+
 - display_name: Full Sail Session Black Lager
   parent: beer
   slug: full-sail-session-black-lager
   type: ingredient
+
 - display_name: Green Flash IPA
   parent: beer
   slug: green-flash-ipa
   type: ingredient
+
 - display_name: Guinness Stout
   parent: beer
   slug: guinness-stout
   type: ingredient
+
 - display_name: Lager
   parent: beer
   slug: lager
   type: ingredient
+
 - display_name: Mackeson Stout
   parent: beer
   slug: mackeson-stout
   type: ingredient
+
 - display_name: Negra Modelo Beer
   parent: beer
   slug: negra-modelo-beer
   type: ingredient
+
 - display_name: Oud Beersel Framboise
   parent: beer
   slug: oud-beersel-framboise
   type: ingredient
+
 - display_name: Southampton Double White Ale
   parent: beer
   slug: southampton-double-white-ale
   type: ingredient
+
 - display_name: Southampton Pumpkin Ale
   parent: beer
   slug: southampton-pumpkin-ale
   type: ingredient
+
 - display_name: Victory Pilsner
   parent: beer
   slug: victory-pilsner
   type: ingredient
+
 - display_name: Cider
   parent: fermented
   slug: cider
   type: family
+
 - display_name: Apple Cider
   parent: cider
   slug: apple-cider
   type: ingredient
+
 - display_name: Doc's Hard Apple Cider
   parent: apple-cider
   slug: doc-s-hard-apple-cider
   type: ingredient
+
 - display_name: Dupont Brut Sparkling Cider
   parent: apple-cider
   slug: dupont-brut-sparkling-cider
   type: ingredient
+
 - display_name: Hot Apple Cider
   parent: apple-cider
   slug: hot-apple-cider
   type: ingredient
+
 - display_name: Red Jacket Orchard Apple Cider
   parent: apple-cider
   slug: red-jacket-orchard-apple-cider
   type: ingredient
+
 - display_name: Red Jacket Orchards Apple Cider
   parent: apple-cider
   slug: red-jacket-orchards-apple-cider
   type: ingredient
+
 - display_name: Pear Cider
   parent: cider
   slug: pear-cider
   type: ingredient
+
 - display_name: Doc's Hard Pear Cider
   parent: pear-cider
   slug: doc-s-hard-pear-cider
   type: ingredient
+
 - display_name: Pommeau
   parent: cider
   slug: pommeau
   type: ingredient
+
 - display_name: Drouhin Pommeau
   parent: pommeau
   slug: drouhin-pommeau
   type: ingredient
+
 - display_name: Fortified Wine
   parent: fermented
   slug: fortified-wine
   type: family
+
 - display_name: Lillet Blanc
   parent: fortified-wine
   slug: lillet-blanc
   type: ingredient
+
 - display_name: "Lillet Ros\xE9"
   parent: fortified-wine
   slug: lillet-rose
   type: ingredient
+
 - display_name: "Rose-Infused Lillet Ros\xE9"
   parent: lillet-rose
   slug: rose-infused-lillet-rose
   type: ingredient
+
 - display_name: Lillet Rouge
   parent: fortified-wine
   slug: lillet-rouge
   type: ingredient
+
 - display_name: Madeira
   parent: fortified-wine
   slug: madeira
   type: ingredient
+
 - display_name: Blandy's 5-Year Malmsey Madeira
   parent: madeira
   slug: blandy-s-5-year-malmsey-madeira
   type: ingredient
+
 - display_name: Blandy's Sercial Madeira
   parent: madeira
   slug: blandy-s-sercial-madeira
   type: ingredient
+
 - display_name: Sandeman Rainwater Madeira
   parent: madeira
   slug: sandeman-rainwater-madeira
   type: ingredient
+
 - display_name: Port
   parent: fortified-wine
   slug: port
   type: ingredient
+
 - display_name: 5-year Tawny Port
   parent: port
   slug: 5-year-tawny-port
   type: ingredient
+
 - display_name: Dow's Ruby Port
   parent: port
   slug: dow-s-ruby-port
   type: ingredient
+
 - display_name: Dow's Tawny Port
   parent: port
   slug: dow-s-tawny-port
   type: ingredient
+
 - display_name: Noval Black Port
   parent: port
   slug: noval-black-port
   type: ingredient
+
 - display_name: Offley Rich Tawny Port
   parent: port
   slug: offley-rich-tawny-port
   type: ingredient
+
 - display_name: Otima 10-Year Tawny Port
   parent: port
   slug: otima-10-year-tawny-port
   type: ingredient
+
 - display_name: Ruby Port
   parent: port
   slug: ruby-port
   type: ingredient
+
 - display_name: Sandeman Ruby Port
   parent: port
   slug: sandeman-ruby-port
   type: ingredient
+
 - display_name: White Port
   parent: port
   slug: white-port
   type: ingredient
+
 - display_name: Red Dubonnet
   parent: fortified-wine
   slug: red-dubonnet
   type: ingredient
+
 - display_name: Dubonnet Rouge
   parent: red-dubonnet
   slug: dubonnet-rouge
   type: ingredient
+
 - display_name: Sherry
   parent: fortified-wine
   slug: sherry
   type: ingredient
+
 - display_name: Alvear Festival Pale Cream Sherry
   parent: sherry
   slug: alvear-festival-pale-cream-sherry
   type: ingredient
+
 - display_name: Barbadillo Principe Amontillado Sherry
   parent: sherry
   slug: barbadillo-principe-amontillado-sherry
   type: ingredient
+
 - display_name: Dry Sack Sherry
   parent: sherry
   slug: dry-sack-sherry
   type: ingredient
+
 - display_name: Dry Sherry
   parent: sherry
   slug: dry-sherry
   type: ingredient
+
 - display_name: East India Solera Sherry
   parent: sherry
   slug: east-india-solera-sherry
   type: ingredient
+
 - display_name: Fino Sherry
   parent: sherry
   slug: fino-sherry
   type: ingredient
+
 - display_name: Harveys Bristol Cream Sherry
   parent: sherry
   slug: harveys-bristol-cream-sherry
   type: ingredient
+
 - display_name: La Cigarrera Manzanilla Sherry
   parent: sherry
   slug: la-cigarrera-manzanilla-sherry
   type: ingredient
+
 - display_name: Lustau Amontillado Sherry
   parent: sherry
   slug: lustau-amontillado-sherry
   type: ingredient
+
 - display_name: Lustau Cream Sherry
   parent: sherry
   slug: lustau-cream-sherry
   type: ingredient
+
 - display_name: Lustau East India Sherry
   parent: sherry
   slug: lustau-east-india-sherry
   type: ingredient
+
 - display_name: Lustau East India Solera Reserva Sherry
   parent: sherry
   slug: lustau-east-india-solera-reserva-sherry
   type: ingredient
+
 - display_name: Lustau East India Solera Sherry
   parent: sherry
   slug: lustau-east-india-solera-sherry
   type: ingredient
+
 - display_name: Lustau Los Arcos Amontillado Sherry
   parent: sherry
   slug: lustau-los-arcos-amontillado-sherry
   type: ingredient
+
 - display_name: Lustau Manzanilla Sherry
   parent: sherry
   slug: lustau-manzanilla-sherry
   type: ingredient
+
 - display_name: Lustau Oloroso Sherry
   parent: sherry
   slug: lustau-oloroso-sherry
   type: ingredient
+
 - display_name: Lustau Palo Cortado Sherry
   parent: sherry
   slug: lustau-palo-cortado-sherry
   type: ingredient
+
 - display_name: "Lustau Pedro Xim\xE9nez Sherry"
   parent: sherry
   slug: lustau-pedro-ximenez-sherry
   type: ingredient
+
 - display_name: Medium Sherry
   parent: sherry
   slug: medium-sherry
   type: ingredient
+
 - display_name: Morenita Cream Sherry
   parent: sherry
   slug: morenita-cream-sherry
   type: ingredient
+
 - display_name: "Toro Albal\xE1 Pedro Xim\xE9nez Sherry"
   parent: sherry
   slug: toro-albala-pedro-ximenez-sherry
   type: ingredient
+
 - display_name: Williams & Humbert Dry Sack Medium Sherry
   parent: sherry
   slug: williams-humbert-dry-sack-medium-sherry
   type: ingredient
+
 - display_name: Rice
   parent: fermented
   slug: rice
   type: family
+
 - display_name: Sake
   parent: rice
   slug: sake
   type: ingredient
+
 - display_name: Bek Se Ju "100-year Wine"
   parent: sake
   slug: bek-se-ju-100-year-wine
   type: ingredient
+
 - display_name: Dry Sake
   parent: sake
   slug: dry-sake
   type: ingredient
+
 - display_name: Kamoizumi Nigori Sake
   parent: sake
   slug: kamoizumi-nigori-sake
   type: ingredient
+
 - display_name: Kamoizumi "Shusen" Sake
   parent: sake
   slug: kamoizumi-shusen-sake
   type: ingredient
+
 - display_name: Masumi Arabashiri Sake
   parent: sake
   slug: masumi-arabashiri-sake
   type: ingredient
+
 - display_name: Masumi Arabishiri Sake
   parent: sake
   slug: masumi-arabishiri-sake
   type: ingredient
+
 - display_name: Masumi "Okuden" Junmai Sake
   parent: sake
   slug: masumi-okuden-junmai-sake
   type: ingredient
-- display_name: Masumi Okuden Junmai Sake
-  parent: sake
-  slug: masumi-okuden-junmai-sake
-  type: ingredient
+
 - display_name: Vermouth
   parent: fermented
   slug: vermouth
   type: family
+
 - display_name: Bianco Vermouth
   parent: vermouth
   slug: bianco-vermouth
   type: ingredient
+
 - display_name: Contratta Vermouth Bianco
   parent: bianco-vermouth
   slug: contratta-vermouth-bianco
   type: ingredient
+
 - display_name: Dolin Blanc Vermouth
   parent: bianco-vermouth
   slug: dolin-blanc-vermouth
   type: ingredient
+
 - display_name: Martini Bianco Vermouth
   parent: bianco-vermouth
   slug: martini-bianco-vermouth
   type: ingredient
+
 - display_name: Dry Vermouth
   parent: vermouth
   slug: dry-vermouth
   type: ingredient
-- display_name: Dolin Blanc Vermouth
-  parent: dry-vermouth
-  slug: dolin-blanc-vermouth
-  type: ingredient
+
 - display_name: Dolin Dry Vermouth
   parent: dry-vermouth
   slug: dolin-dry-vermouth
   type: ingredient
+
 - display_name: Dry French Vermouth
   parent: dry-vermouth
   slug: dry-french-vermouth
   type: ingredient
+
 - display_name: Martini & Rossi Dry Vermouth
   parent: dry-vermouth
   slug: martini-rossi-dry-vermouth
   type: ingredient
+
 - display_name: Noilly Prat Dry Vermouth
   parent: dry-vermouth
   slug: noilly-prat-dry-vermouth
   type: ingredient
+
 - display_name: Vya Dry Vermouth
   parent: dry-vermouth
   slug: vya-dry-vermouth
   type: ingredient
+
 - display_name: Infused Vermouth
   parent: vermouth
   slug: infused-vermouth
   type: ingredient
+
 - display_name: Ancho Chile-Infused Dolin Rouge Vermouth
   parent: infused-vermouth
   slug: ancho-chile-infused-dolin-rouge-vermouth
   type: ingredient
+
 - display_name: Basil-Infused Dolin Blanc Vermouth
   parent: infused-vermouth
   slug: basil-infused-dolin-blanc-vermouth
   type: ingredient
+
 - display_name: Chamomile-Infused Bianco Vermouth
   parent: infused-vermouth
   slug: chamomile-infused-bianco-vermouth
   type: ingredient
+
 - display_name: Cinnamon Orange Tea-Infused Sweet Vermouth
   parent: infused-vermouth
   slug: cinnamon-orange-tea-infused-sweet-vermouth
   type: ingredient
+
 - display_name: Coffee-Infused Carpano Antica Formula Vermouth
   parent: infused-vermouth
   slug: coffee-infused-carpano-antica-formula-vermouth
   type: ingredient
+
 - display_name: Earl Grey-Infused Dolin Blanc Vermouth
   parent: infused-vermouth
   slug: earl-grey-infused-dolin-blanc-vermouth
   type: ingredient
+
 - display_name: Grapefruit-Infused Punt E Mes
   parent: infused-vermouth
   slug: grapefruit-infused-punt-e-mes
   type: ingredient
+
 - display_name: Jujube Tea-Infused Vya Sweet Vermouth
   parent: infused-vermouth
   slug: jujube-tea-infused-vya-sweet-vermouth
   type: ingredient
+
 - display_name: Sage-Infused Dolin Blanc Vermouth
   parent: infused-vermouth
   slug: sage-infused-dolin-blanc-vermouth
   type: ingredient
+
 - display_name: Watermelon-Infused Dolin Dry Vermouth
   parent: infused-vermouth
   slug: watermelon-infused-dolin-dry-vermouth
   type: ingredient
+
 - display_name: Punt E Mes
   parent: vermouth
   slug: punt-e-mes
   type: ingredient
+
 - display_name: Sweet Vermouth
   parent: vermouth
   slug: sweet-vermouth
   type: ingredient
+
 - display_name: Carpano Antica Formula Vermouth
   parent: sweet-vermouth
   slug: carpano-antica-formula-vermouth
   type: ingredient
+
 - display_name: Carpano Antica Sweet Vermouth
   parent: sweet-vermouth
   slug: carpano-antica-sweet-vermouth
   type: ingredient
+
 - display_name: Cocchi Vermouth Di Torino
   parent: sweet-vermouth
   slug: cocchi-vermouth-di-torino
   type: ingredient
+
 - display_name: Contratto Americano Rosso Vermouth
   parent: sweet-vermouth
   slug: contratto-americano-rosso-vermouth
   type: ingredient
+
 - display_name: Dolin Rouge Vermouth
   parent: sweet-vermouth
   slug: dolin-rouge-vermouth
   type: ingredient
+
 - display_name: Dolin Sweet Vermouth
   parent: sweet-vermouth
   slug: dolin-sweet-vermouth
   type: ingredient
+
 - display_name: House Sweet Vermouth
   parent: sweet-vermouth
   slug: house-sweet-vermouth
   type: ingredient
+
 - display_name: Martini & Rossi Sweet Vermouth
   parent: sweet-vermouth
   slug: martini-rossi-sweet-vermouth
   type: ingredient
+
 - display_name: Martini Sweet Vermouth
   parent: sweet-vermouth
   slug: martini-sweet-vermouth
   type: ingredient
+
 - display_name: Sweet Italian Vermouth
   parent: sweet-vermouth
   slug: sweet-italian-vermouth
   type: ingredient
+
 - display_name: Vya Sweet Vermouth
   parent: sweet-vermouth
   slug: vya-sweet-vermouth
   type: ingredient
+
 - display_name: Wine
   parent: fermented
   slug: wine
   type: family
+
 - display_name: Champagne
   parent: wine
   slug: champagne
   type: ingredient
+
 - display_name: Dry Champagne
   parent: champagne
   slug: dry-champagne
   type: ingredient
-- display_name: "M\xF6et Imperial Champagne"
-  parent: champagne
-  slug: moet-imperial-champagne
-  type: ingredient
+
 - display_name: "Mo\xEBt Imperial Champagne"
   parent: champagne
   slug: moet-imperial-champagne
   type: ingredient
+
 - display_name: Cocchi Americano
   parent: wine
   slug: cocchi-americano
   type: ingredient
+
 - display_name: Cocchi Americano Rosa
   parent: wine
   slug: cocchi-americano-rosa
   type: ingredient
+
 - display_name: Red Wine
   parent: wine
   slug: red-wine
   type: ingredient
+
 - display_name: Beaujolais Nouveau
   parent: red-wine
   slug: beaujolais-nouveau
   type: ingredient
+
 - display_name: Dry Red Wine
   parent: red-wine
   slug: dry-red-wine
   type: ingredient
+
 - display_name: Paumanok Cabernet Franc
   parent: red-wine
   slug: paumanok-cabernet-franc
   type: ingredient
+
 - display_name: Red Rioja Wine
   parent: red-wine
   slug: red-rioja-wine
   type: ingredient
+
 - display_name: "Ros\xE9 Wine"
   parent: wine
   slug: rose-wine
   type: ingredient
+
 - display_name: "Shinn Estate Ros\xE9"
   parent: rose-wine
   slug: shinn-estate-rose
   type: ingredient
+
 - display_name: Sparkling Wine
   parent: wine
   slug: sparkling-wine
   type: ingredient
+
 - display_name: "Carpen\xE8 Malvolti Prosecco"
   parent: sparkling-wine
   slug: carpene-malvolti-prosecco
   type: ingredient
+
 - display_name: Prosecco
   parent: sparkling-wine
   slug: prosecco
   type: ingredient
+
 - display_name: "Sparkling Ros\xE9"
   parent: sparkling-wine
   slug: sparkling-rose
   type: ingredient
+
 - display_name: Tokaji Wine
   parent: wine
   slug: tokaji-wine
   type: ingredient
+
 - display_name: "Tokaji Asz\xFA 5 Puttonyos \"Red Label\""
   parent: tokaji-wine
   slug: tokaji-aszu-5-puttonyos-red-label
   type: ingredient
+
 - display_name: White Wine
   parent: wine
   slug: white-wine
   type: ingredient
+
 - display_name: Channing Daughters Scuttlehole Chardonnay
   parent: white-wine
   slug: channing-daughters-scuttlehole-chardonnay
   type: ingredient
+
 - display_name: Dr. Konstantin Frank Dry Riesling
   parent: white-wine
   slug: dr-konstantin-frank-dry-riesling
   type: ingredient
+
 - display_name: Morro Bay Chardonnay
   parent: white-wine
   slug: morro-bay-chardonnay
   type: ingredient
+
 - display_name: Sauvignon Blanc
   parent: white-wine
   slug: sauvignon-blanc
   type: ingredient
+
 - display_name: Fruits
   slug: fruits
   type: category
+
 - display_name: Berry
   parent: fruits
   slug: berry
   type: family
+
 - display_name: Blackberry
   parent: berry
   slug: blackberry
   type: ingredient
+
 - display_name: Blueberry
   parent: berry
   slug: blueberry
   type: ingredient
+
 - display_name: Blueberries
   parent: blueberry
   slug: blueberries
   type: ingredient
+
 - display_name: Cranberry
   parent: berry
   slug: cranberry
   type: ingredient
+
 - display_name: Macerated Cranberry
   parent: cranberry
   slug: macerated-cranberry
   type: ingredient
+
 - display_name: Mixed-Berry Marinade
   parent: berry
   slug: mixed-berry-marinade
   type: ingredient
+
 - display_name: Raspberry
   parent: berry
   slug: raspberry
   type: ingredient
+
 - display_name: Strawberry
   parent: berry
   slug: strawberry
   type: ingredient
+
 - display_name: Citrus
   parent: fruits
   slug: citrus
   type: family
+
 - display_name: Calamondin
   parent: citrus
   slug: calamondin
   type: ingredient
+
 - display_name: "Boiron Kalamansi Pur\xE9e"
   parent: calamondin
   slug: boiron-kalamansi-puree
   type: ingredient
+
 - display_name: Citrus Fruit
   parent: citrus
   slug: citrus-fruit
   type: ingredient
+
 - display_name: Lemon Or Lime
   parent: citrus-fruit
   slug: lemon-or-lime
   type: ingredient
+
 - display_name: Lemon Or Lime Juice
   parent: citrus-fruit
   slug: lemon-or-lime-juice
   type: ingredient
+
 - display_name: Kaffir Lime
   parent: citrus
   slug: kaffir-lime
   type: ingredient
+
 - display_name: Lemon
   parent: citrus
   slug: lemon
   type: ingredient
-- display_name: Fuji Apple Juice
-  parent: lemon
-  slug: fuji-apple-juice
-  type: ingredient
+
 - display_name: Lemon Juice
   parent: lemon
   slug: lemon-juice
   type: ingredient
+
 - display_name: Lime
   parent: citrus
   slug: lime
   type: ingredient
+
 - display_name: Lime Juice
   parent: lime
   slug: lime-juice
   type: ingredient
+
 - display_name: Orange
   parent: citrus
   slug: orange
   type: ingredient
+
 - display_name: Orange Flower Water
   parent: citrus
   slug: orange-flower-water
   type: ingredient
+
 - display_name: Tangerine
   parent: citrus
   slug: tangerine
   type: ingredient
+
 - display_name: Tangerine Juice
   parent: tangerine
   slug: tangerine-juice
   type: ingredient
+
 - display_name: Dried
   parent: fruits
   slug: dried
   type: family
+
 - display_name: Fruit
   parent: fruits
   slug: fruit
   type: family
+
 - display_name: Apple
   parent: fruit
   slug: apple
   type: ingredient
+
 - display_name: Fuji Apple
   parent: apple
   slug: fuji-apple
   type: ingredient
+
 - display_name: Granny Smith Apple
   parent: apple
   slug: granny-smith-apple
   type: ingredient
+
 - display_name: Banana
   parent: fruit
   slug: banana
   type: ingredient
+
 - display_name: Cherry
   parent: fruit
   slug: cherry
   type: ingredient
+
 - display_name: Brandied Cherry
   parent: cherry
   slug: brandied-cherry
   type: ingredient
+
 - display_name: Kirsch Brandied Cherry
   parent: cherry
   slug: kirsch-brandied-cherry
   type: ingredient
+
 - display_name: Maraschino Cherry
   parent: cherry
   slug: maraschino-cherry
   type: ingredient
+
 - display_name: Pitted Cherry
   parent: cherry
   slug: pitted-cherry
   type: ingredient
+
 - display_name: Sour Cherries
   parent: cherry
   slug: sour-cherries
   type: ingredient
+
 - display_name: Sweet Cherries
   parent: cherry
   slug: sweet-cherries
   type: ingredient
+
 - display_name: Grape
   parent: fruit
   slug: grape
   type: ingredient
+
 - display_name: Concord Grape
   parent: grape
   slug: concord-grape
   type: ingredient
+
 - display_name: Green Grapes
   parent: grape
   slug: green-grapes
   type: ingredient
+
 - display_name: Mango
   parent: fruit
   slug: mango
   type: ingredient
+
 - display_name: "Mango Pur\xE9e"
   parent: mango
   slug: mango-puree
   type: ingredient
+
 - display_name: Melon
   parent: fruit
   slug: melon
   type: ingredient
+
 - display_name: Canteloupe
   parent: melon
   slug: canteloupe
   type: ingredient
+
 - display_name: Honeydew Melon Juice
   parent: melon
   slug: honeydew-melon-juice
   type: ingredient
+
 - display_name: Yellow And Honeydew Melon
   parent: melon
   slug: yellow-and-honeydew-melon
   type: ingredient
+
 - display_name: Nectarine
   parent: fruit
   slug: nectarine
   type: ingredient
+
 - display_name: Passion Fruit
   parent: fruit
   slug: passion-fruit
   type: ingredient
+
 - display_name: "Boiron Passion Fruit Pur\xE9e"
   parent: passion-fruit
   slug: boiron-passion-fruit-puree
   type: ingredient
+
 - display_name: "Passion Fruit Pur\xE9e"
   parent: passion-fruit
   slug: passion-fruit-puree
   type: ingredient
+
 - display_name: Peach
   parent: fruit
   slug: peach
   type: ingredient
+
 - display_name: "Peach Pur\xE9e"
   parent: peach
   slug: peach-puree
   type: ingredient
+
 - display_name: Sweet Georgia Peach
   parent: peach
   slug: sweet-georgia-peach
   type: ingredient
+
 - display_name: "White Peach Pur\xE9e"
   parent: peach
   slug: white-peach-puree
   type: ingredient
+
 - display_name: Pear
   parent: fruit
   slug: pear
   type: ingredient
+
 - display_name: Anjou Pear
   parent: pear
   slug: anjou-pear
   type: ingredient
+
 - display_name: Bartlett Pear
   parent: pear
   slug: bartlett-pear
   type: ingredient
+
 - display_name: Persimmon
   parent: fruit
   slug: persimmon
   type: ingredient
+
 - display_name: Dried Persimmon
   parent: persimmon
   slug: dried-persimmon
   type: ingredient
+
 - display_name: Pineapple
   parent: fruit
   slug: pineapple
   type: ingredient
+
 - display_name: Prickly Pear
   parent: fruit
   slug: prickly-pear
   type: ingredient
+
 - display_name: "Perfect Pur\xE9es Of Napa Valley Prickly Pear Pur\xE9e"
   parent: prickly-pear
   slug: perfect-purees-of-napa-valley-prickly-pear-puree
   type: ingredient
+
 - display_name: Tamarind
   parent: fruit
   slug: tamarind
   type: ingredient
+
 - display_name: "Tamarind Pur\xE9e"
   parent: tamarind
   slug: tamarind-puree
   type: ingredient
+
 - display_name: Tropical Fruit
   parent: fruit
   slug: tropical-fruit
   type: ingredient
+
 - display_name: "Tropical Fruit Pur\xE9e"
   parent: tropical-fruit
   slug: tropical-fruit-puree
   type: ingredient
+
 - display_name: Watermelon
   parent: fruit
   slug: watermelon
   type: ingredient
+
 - display_name: Fruit That Seems Like Vegetable
   parent: fruits
   slug: fruit-that-seems-like-vegetable
   type: family
+
 - display_name: Bell Pepper
   parent: fruit-that-seems-like-vegetable
   slug: bell-pepper
   type: ingredient
+
 - display_name: Green Bell Pepper
   parent: bell-pepper
   slug: green-bell-pepper
   type: ingredient
+
 - display_name: Red Bell Pepper
   parent: bell-pepper
   slug: red-bell-pepper
   type: ingredient
+
 - display_name: "Red Bell Pepper Pur\xE9e"
   parent: bell-pepper
   slug: red-bell-pepper-puree
   type: ingredient
+
 - display_name: Cucumber
   parent: fruit-that-seems-like-vegetable
   slug: cucumber
   type: ingredient
+
 - display_name: "Jalape\xF1o"
   parent: fruit-that-seems-like-vegetable
   slug: jalapeno
   type: ingredient
+
 - display_name: "Jalape\xF1o With A Few Seeds"
   parent: jalapeno
   slug: jalapeno-with-a-few-seeds
   type: ingredient
+
 - display_name: "Seeded Jalape\xF1o"
   parent: jalapeno
   slug: seeded-jalapeno
   type: ingredient
+
 - display_name: Pumpkin
   parent: fruit-that-seems-like-vegetable
   slug: pumpkin
   type: ingredient
+
 - display_name: "Libby's Pumpkin Pur\xE9e"
   parent: pumpkin
   slug: libby-s-pumpkin-puree
   type: ingredient
+
 - display_name: "Pumpkin Pur\xE9e"
   parent: pumpkin
   slug: pumpkin-puree
   type: ingredient
+
 - display_name: Tomato
   parent: fruit-that-seems-like-vegetable
   slug: tomato
   type: ingredient
+
 - display_name: Cherry Tomato
   parent: tomato
   slug: cherry-tomato
   type: ingredient
+
 - display_name: Juice
   parent: fruits
   slug: juice
   type: family
+
 - display_name: Apple Juice
   parent: juice
   slug: apple-juice
   type: ingredient
+
 - display_name: Fuji Apple Juice
   parent: apple-juice
   slug: fuji-apple-juice
   type: ingredient
+
 - display_name: Granny Smith Apple Juice
   parent: apple-juice
   slug: granny-smith-apple-juice
   type: ingredient
+
 - display_name: Blood Orange
   parent: juice
   slug: blood-orange
   type: ingredient
+
 - display_name: Blood Orange Juice
   parent: blood-orange
   slug: blood-orange-juice
   type: ingredient
-- display_name: Blood Orange Juice
-  parent: juice
-  slug: blood-orange-juice
-  type: ingredient
+
 - display_name: Cantaloupe
   parent: juice
   slug: cantaloupe
   type: ingredient
+
 - display_name: Cantaloupe Juice
   parent: cantaloupe
   slug: cantaloupe-juice
   type: ingredient
+
 - display_name: Cranberry Juice
   parent: juice
   slug: cranberry-juice
   type: ingredient
+
 - display_name: Grapefruit
   parent: juice
   slug: grapefruit
   type: ingredient
+
 - display_name: Grapefruit Juice
   parent: grapefruit
   slug: grapefruit-juice
   type: ingredient
-- display_name: Grapefruit Juice
-  parent: juice
-  slug: grapefruit-juice
-  type: ingredient
+
 - display_name: Ruby Red Grapefruit Juice
-  parent: grapefruit-juice
+  parent: grapefruit
   slug: ruby-red-grapefruit-juice
   type: ingredient
+
 - display_name: Grape Juice
   parent: juice
   slug: grape-juice
   type: ingredient
+
 - display_name: Fusion Verjus Blanc
   parent: grape-juice
   slug: fusion-verjus-blanc
   type: ingredient
+
 - display_name: Guava Juice
   parent: juice
   slug: guava-juice
   type: ingredient
-- display_name: Lemon Juice
-  parent: juice
-  slug: lemon-juice
-  type: ingredient
-- display_name: Lime Juice
-  parent: juice
-  slug: lime-juice
-  type: ingredient
+
 - display_name: Orange Juice
   parent: juice
   slug: orange-juice
   type: ingredient
+
 - display_name: Passion Fruit Juice
   parent: juice
   slug: passion-fruit-juice
   type: ingredient
+
 - display_name: Pineapple Juice
   parent: juice
   slug: pineapple-juice
   type: ingredient
+
 - display_name: Pomegranate Juice
   parent: juice
   slug: pomegranate-juice
   type: ingredient
+
 - display_name: Raspberry Juice
   parent: juice
   slug: raspberry-juice
   type: ingredient
+
 - display_name: Sangrita
   parent: juice
   slug: sangrita
   type: ingredient
+
 - display_name: Tomato Juice
   parent: juice
   slug: tomato-juice
   type: ingredient
+
 - display_name: Watermelon Juice
   parent: juice
   slug: watermelon-juice
   type: ingredient
+
 - display_name: Preserved
   parent: fruits
   slug: preserved
   type: family
+
 - display_name: Apple Butter
   parent: preserved
   slug: apple-butter
   type: ingredient
+
 - display_name: Red Jacket Orchards Apple Butter
   parent: apple-butter
   slug: red-jacket-orchards-apple-butter
   type: ingredient
+
 - display_name: Apricot Preserves
   parent: preserved
   slug: apricot-preserves
   type: ingredient
+
 - display_name: Bonne Maman Apricot Preserves
   parent: apricot-preserves
   slug: bonne-maman-apricot-preserves
   type: ingredient
+
 - display_name: Caribbean Cream
   parent: preserved
   slug: caribbean-cream
   type: ingredient
-- display_name: Coco Lopez
-  parent: preserved
-  slug: coco-lopez
-  type: ingredient
+
 - display_name: Coconut Cream
   parent: preserved
   slug: coconut-cream
   type: ingredient
+
 - display_name: Coco Lopez
   parent: coconut-cream
   slug: coco-lopez
   type: ingredient
+
 - display_name: Fig Jam
   parent: preserved
   slug: fig-jam
   type: ingredient
+
 - display_name: St. Dalfour Fig Jam
   parent: fig-jam
   slug: st-dalfour-fig-jam
   type: ingredient
+
 - display_name: Lemon Curd
   parent: preserved
   slug: lemon-curd
   type: ingredient
+
 - display_name: Marmalade
   parent: preserved
   slug: marmalade
   type: ingredient
+
 - display_name: Bonne Maman Orange Marmalade
   parent: marmalade
   slug: bonne-maman-orange-marmalade
   type: ingredient
+
 - display_name: Light Marmalade
   parent: marmalade
   slug: light-marmalade
   type: ingredient
+
 - display_name: Orange Marmalade
   parent: marmalade
   slug: orange-marmalade
   type: ingredient
+
 - display_name: Pumpkin Butter
   parent: preserved
   slug: pumpkin-butter
   type: ingredient
+
 - display_name: Raspberry Preserves
   parent: preserved
   slug: raspberry-preserves
   type: ingredient
+
 - display_name: Bonne Maman Raspberry Preserves
   parent: raspberry-preserves
   slug: bonne-maman-raspberry-preserves
   type: ingredient
+
 - display_name: Strawberry Preserves
   parent: preserved
   slug: strawberry-preserves
   type: ingredient
+
 - display_name: Bonne Maman Strawberry Preserves
   parent: strawberry-preserves
   slug: bonne-maman-strawberry-preserves
   type: ingredient
+
 - display_name: Rind
   parent: fruits
   slug: rind
   type: family
+
 - display_name: Grapefruit Peel
   parent: rind
   slug: grapefruit-peel
   type: ingredient
+
 - display_name: Lemon Peel
   parent: rind
   slug: lemon-peel
   type: ingredient
+
 - display_name: Orange Peel
   parent: rind
   slug: orange-peel
   type: ingredient
-- display_name: Syrup
+
+- display_name: Cordial
   parent: fruits
-  slug: syrup
+  slug: cordial
   type: family
+
 - display_name: Blackcurrant Cordial
-  parent: syrup
+  parent: cordial
   slug: blackcurrant-cordial
   type: ingredient
+
 - display_name: American Fruits Black Currant Cordial
   parent: blackcurrant-cordial
   slug: american-fruits-black-currant-cordial
   type: ingredient
+
 - display_name: Cranberry Cordial
-  parent: syrup
+  parent: cordial
   slug: cranberry-cordial
   type: ingredient
+
 - display_name: Grapefruit Cordial
-  parent: syrup
+  parent: cordial
   slug: grapefruit-cordial
   type: ingredient
+
 - display_name: Small Hand Foods Grapefruit Cordial
   parent: grapefruit-cordial
   slug: small-hand-foods-grapefruit-cordial
   type: ingredient
+
 - display_name: Kumquat Cordial
-  parent: syrup
+  parent: cordial
   slug: kumquat-cordial
   type: ingredient
+
 - display_name: Lemon Cordial
-  parent: syrup
+  parent: cordial
   slug: lemon-cordial
   type: ingredient
+
 - display_name: Lime Cordial
-  parent: syrup
+  parent: cordial
   slug: lime-cordial
   type: ingredient
+
 - display_name: Rose's Lime Juice
   parent: lime-cordial
   slug: rose-s-lime-juice
   type: ingredient
+
 - display_name: Rose's Or Angostura Preserved Lime Juice
   parent: lime-cordial
   slug: rose-s-or-angostura-preserved-lime-juice
   type: ingredient
+
 - display_name: Toby's Lime Cordial
   parent: lime-cordial
   slug: toby-s-lime-cordial
   type: ingredient
+
 - display_name: Raspberry Syrup
-  parent: syrup
+  parent: cordial
   slug: raspberry-syrup
   type: ingredient
+
 - display_name: Plants
   slug: plants
   type: category
+
 - display_name: Coffee
   parent: plants
   slug: coffee
   type: family
-- display_name: Coffee
-  parent: coffee
-  slug: coffee
-  type: ingredient
+
 - display_name: Coffee Concentrate
   parent: coffee
   slug: coffee-concentrate
   type: ingredient
+
 - display_name: Freshly Brewed Coffee
   parent: coffee
   slug: freshly-brewed-coffee
   type: ingredient
+
 - display_name: Hot Coffee
   parent: coffee
   slug: hot-coffee
   type: ingredient
+
 - display_name: Espresso
   parent: coffee
   slug: espresso
   type: ingredient
+
 - display_name: Cold Espresso
   parent: espresso
   slug: cold-espresso
   type: ingredient
+
 - display_name: Flower
   parent: plants
   slug: flower
   type: family
+
 - display_name: Rose Water
   parent: flower
   slug: rose-water
   type: ingredient
+
 - display_name: Marivani Rose Flower Water
   parent: rose-water
   slug: marivani-rose-flower-water
   type: ingredient
+
 - display_name: Herb
   parent: plants
   slug: herb
   type: family
+
 - display_name: Basil
   parent: herb
   slug: basil
   type: ingredient
+
 - display_name: Thai Basil
   parent: basil
   slug: thai-basil
   type: ingredient
+
 - display_name: Dill
   parent: herb
   slug: dill
   type: ingredient
+
 - display_name: Dry Dill
   parent: dill
   slug: dry-dill
   type: ingredient
+
 - display_name: Fresh Dill
   parent: dill
   slug: fresh-dill
   type: ingredient
+
 - display_name: Fennel
   parent: herb
   slug: fennel
   type: ingredient
+
 - display_name: Fennel Bulb
   parent: fennel
   slug: fennel-bulb
   type: ingredient
+
 - display_name: Goldenseal
   parent: herb
   slug: goldenseal
   type: ingredient
+
 - display_name: Herb Pharm Goldenseal Tincture
   parent: goldenseal
   slug: herb-pharm-goldenseal-tincture
   type: ingredient
+
 - display_name: Lavender
   parent: herb
   slug: lavender
   type: ingredient
+
 - display_name: Lavender Tincture
   parent: lavender
   slug: lavender-tincture
   type: ingredient
+
 - display_name: Mint
   parent: herb
   slug: mint
   type: ingredient
+
 - display_name: Mint Leaves
   parent: mint
   slug: mint-leaves
   type: ingredient
+
 - display_name: Oregano
   parent: herb
   slug: oregano
   type: ingredient
+
 - display_name: Rosemary
   parent: herb
   slug: rosemary
   type: ingredient
+
 - display_name: Sage
   parent: herb
   slug: sage
   type: ingredient
+
 - display_name: Shiso
   parent: herb
   slug: shiso
   type: ingredient
+
 - display_name: Sorrel
   parent: herb
   slug: sorrel
   type: ingredient
+
 - display_name: Spiced Sorrel
   parent: sorrel
   slug: spiced-sorrel
   type: ingredient
-- display_name: Juice
-  parent: plants
-  slug: juice
-  type: family
+
 - display_name: Carrot Juice
-  parent: juice
+  parent: vegetable
   slug: carrot-juice
   type: ingredient
+
 - display_name: Plant
   parent: plants
   slug: plant
   type: family
+
 - display_name: Tobacco
   parent: plant
   slug: tobacco
   type: ingredient
+
 - display_name: Aftel Tobacco Essence
   parent: tobacco
   slug: aftel-tobacco-essence
   type: ingredient
+
 - display_name: Spice
   parent: plants
   slug: spice
   type: family
+
 - display_name: Cardamom
   parent: spice
   slug: cardamom
   type: ingredient
+
 - display_name: Cinnamon
   parent: spice
   slug: cinnamon
   type: ingredient
+
 - display_name: Cloves
   parent: spice
   slug: cloves
   type: ingredient
+
 - display_name: Curry Leaf
   parent: spice
   slug: curry-leaf
   type: ingredient
+
 - display_name: Ginger
   parent: spice
   slug: ginger
   type: ingredient
+
 - display_name: Freshly-Peeled Ginger
   parent: ginger
   slug: freshly-peeled-ginger
   type: ingredient
+
 - display_name: Mustard
   parent: spice
   slug: mustard
   type: ingredient
+
 - display_name: Gulden's Spicy Brown Mustard
   parent: mustard
   slug: gulden-s-spicy-brown-mustard
   type: ingredient
+
 - display_name: Nutmeg
   parent: spice
   slug: nutmeg
   type: ingredient
+
 - display_name: Pepper
   parent: spice
   slug: pepper
   type: ingredient
+
 - display_name: Black Pepper
   parent: pepper
   slug: black-pepper
   type: ingredient
+
 - display_name: Ground Pepper
   parent: pepper
   slug: ground-pepper
   type: ingredient
+
 - display_name: Whole Black Peppercorn
   parent: pepper
   slug: whole-black-peppercorn
   type: ingredient
+
 - display_name: Tea
   parent: plants
   slug: tea
   type: family
-- display_name: Tea
-  parent: tea
-  slug: tea
-  type: ingredient
+
 - display_name: Chilled Brewed Hibiscus Tea
   parent: tea
   slug: chilled-brewed-hibiscus-tea
   type: ingredient
+
 - display_name: Freshly Brewed Chamomile Tea
   parent: tea
   slug: freshly-brewed-chamomile-tea
   type: ingredient
+
 - display_name: Golden Star Sparkling White Jasmine Tea
   parent: tea
   slug: golden-star-sparkling-white-jasmine-tea
   type: ingredient
+
 - display_name: Hot Tea
   parent: tea
   slug: hot-tea
   type: ingredient
+
 - display_name: Lipton Cold-brew Tea
   parent: tea
   slug: lipton-cold-brew-tea
   type: ingredient
+
 - display_name: Vegetable
   parent: plants
   slug: vegetable
   type: family
+
 - display_name: Asparagus
   parent: vegetable
   slug: asparagus
   type: ingredient
+
 - display_name: Celery
   parent: vegetable
   slug: celery
   type: ingredient
+
 - display_name: Celery Juice
   parent: vegetable
   slug: celery-juice
   type: ingredient
+
 - display_name: Rhubarb
   parent: vegetable
   slug: rhubarb
   type: ingredient
+
 - display_name: "Boiron Rhubarb Pur\xE9e"
   parent: rhubarb
   slug: boiron-rhubarb-puree
   type: ingredient
+
 - display_name: Savory
   slug: savory
   type: category
+
 - display_name: Salt
   parent: savory
   slug: salt
   type: family
+
 - display_name: Celery Salt
   parent: salt
   slug: celery-salt
   type: ingredient
-- display_name: Salt
-  parent: salt
-  slug: salt
-  type: ingredient
+
 - display_name: Coarse Salt, For Rimming
   parent: salt
   slug: coarse-salt-for-rimming
   type: ingredient
+
 - display_name: Kosher Salt
   parent: salt
   slug: kosher-salt
   type: ingredient
+
 - display_name: Sauce
   parent: savory
   slug: sauce
   type: family
+
 - display_name: Hot Sauce
   parent: sauce
   slug: hot-sauce
   type: ingredient
+
 - display_name: Cholula Hot Sauce
   parent: hot-sauce
   slug: cholula-hot-sauce
   type: ingredient
+
 - display_name: Tabasco Chipotle Sauce
   parent: hot-sauce
   slug: tabasco-chipotle-sauce
   type: ingredient
+
 - display_name: Tabasco Sauce
   parent: hot-sauce
   slug: tabasco-sauce
   type: ingredient
+
 - display_name: Soy Sauce
   parent: sauce
   slug: soy-sauce
   type: ingredient
+
 - display_name: Tomato Ketchup
   parent: sauce
   slug: tomato-ketchup
   type: ingredient
+
 - display_name: Worcestershire Sauce
   parent: sauce
   slug: worcestershire-sauce
   type: ingredient
+
 - display_name: Seasoning
   parent: savory
   slug: seasoning
   type: family
+
 - display_name: Wasabi
   parent: seasoning
   slug: wasabi
   type: ingredient
+
 - display_name: Vinegar
   parent: savory
   slug: vinegar
   type: family
+
 - display_name: Balsamic Vinegar
   parent: vinegar
   slug: balsamic-vinegar
   type: ingredient
+
 - display_name: Aged Balsamic Vinegar
   parent: balsamic-vinegar
   slug: aged-balsamic-vinegar
   type: ingredient
+
 - display_name: Brine
   parent: vinegar
   slug: brine
   type: ingredient
+
 - display_name: Pickled Ramp Brine
   parent: brine
   slug: pickled-ramp-brine
   type: ingredient
+
 - display_name: Cherry Shrub
   parent: vinegar
   slug: cherry-shrub
   type: ingredient
+
 - display_name: Toby's Sour Cherry Shrub
   parent: cherry-shrub
   slug: toby-s-sour-cherry-shrub
   type: ingredient
+
 - display_name: Concord Shrub
   parent: vinegar
   slug: concord-shrub
   type: ingredient
+
 - display_name: Creole Shrub
   parent: vinegar
   slug: creole-shrub
   type: ingredient
+
 - display_name: "Rhum Cl\xE9ment Creole Shrub"
   parent: creole-shrub
   slug: rhum-clement-creole-shrub
   type: ingredient
+
 - display_name: Gastrique
   parent: vinegar
   slug: gastrique
   type: ingredient
+
 - display_name: Strawberry-Balsamic Gastrique
   parent: gastrique
   slug: strawberry-balsamic-gastrique
   type: ingredient
+
 - display_name: Tarragon And Agave Nectar Gastrique
   parent: gastrique
   slug: tarragon-and-agave-nectar-gastrique
   type: ingredient
+
 - display_name: Malt Vinegar
   parent: vinegar
   slug: malt-vinegar
   type: ingredient
+
 - display_name: Olive Brine
   parent: vinegar
   slug: olive-brine
   type: ingredient
+
 - display_name: Pepper Shrub
   parent: vinegar
   slug: pepper-shrub
   type: ingredient
+
 - display_name: Bittermens Hellfire Habanero Shrub
   parent: pepper-shrub
   slug: bittermens-hellfire-habanero-shrub
   type: ingredient
+
 - display_name: Quince Shrub
   parent: vinegar
   slug: quince-shrub
   type: ingredient
+
 - display_name: Quince Shrub (Huilerie Beaujolaise Vinaigre De Coing)
   parent: quince-shrub
   slug: quince-shrub-huilerie-beaujolaise-vinaigre-de-coing
   type: ingredient
+
 - display_name: Rice Vinegar
   parent: vinegar
   slug: rice-vinegar
   type: ingredient
+
 - display_name: Soft Drinks
   slug: soft-drinks
   type: category
-- display_name: Citrus
-  parent: soft-drinks
-  slug: citrus
-  type: family
+
 - display_name: Grapefruit Soda
-  parent: citrus
+  parent: fruit-soda
   slug: grapefruit-soda
   type: ingredient
+
 - display_name: San Pellegrino Pompelmo Grapefruit Soda
   parent: grapefruit-soda
   slug: san-pellegrino-pompelmo-grapefruit-soda
   type: ingredient
+
 - display_name: Lemonade
-  parent: citrus
+  parent: fruit-soda
   slug: lemonade
   type: ingredient
+
 - display_name: Lemon-Lime Soda
-  parent: citrus
+  parent: fruit-soda
   slug: lemon-lime-soda
   type: ingredient
+
 - display_name: 7-Up
   parent: lemon-lime-soda
   slug: 7-up
   type: ingredient
+
 - display_name: Lemon Soda
-  parent: citrus
+  parent: fruit-soda
   slug: lemon-soda
   type: ingredient
+
 - display_name: Fever-Tree Bitter Lemon Soda
   parent: lemon-soda
   slug: fever-tree-bitter-lemon-soda
   type: ingredient
+
 - display_name: San Pellegrino Limonata
   parent: lemon-soda
   slug: san-pellegrino-limonata
   type: ingredient
+
 - display_name: Cola
   parent: soft-drinks
   slug: cola
   type: family
-- display_name: Cola
-  parent: cola
-  slug: cola
-  type: ingredient
+
 - display_name: Coca-Cola
   parent: cola
   slug: coca-cola
   type: ingredient
+
 - display_name: Coca-Cola Classic
   parent: cola
   slug: coca-cola-classic
   type: ingredient
-- display_name: Fruit
+
+- display_name: Fruit Soda
   parent: soft-drinks
-  slug: fruit
+  slug: fruit-soda
   type: family
+
 - display_name: Coconut Water
-  parent: fruit
+  parent: water
   slug: coconut-water
   type: ingredient
+
 - display_name: Liquiteria Coconut Water
   parent: coconut-water
   slug: liquiteria-coconut-water
   type: ingredient
-- display_name: Rice
+
+- display_name: Grain Milk
   parent: soft-drinks
-  slug: rice
+  slug: grain-milk
   type: family
+
 - display_name: Horchata
-  parent: rice
+  parent: grain-milk
   slug: horchata
   type: ingredient
+
 - display_name: House Horchata
   parent: horchata
   slug: house-horchata
   type: ingredient
+
 - display_name: Root
   parent: soft-drinks
   slug: root
   type: family
+
 - display_name: Ginger Ale
   parent: root
   slug: ginger-ale
   type: ingredient
+
 - display_name: Fever Tree Ginger Ale
   parent: ginger-ale
   slug: fever-tree-ginger-ale
   type: ingredient
+
 - display_name: Ginger Beer
   parent: root
   slug: ginger-beer
   type: ingredient
+
 - display_name: House Ginger Beer
   parent: ginger-beer
   slug: house-ginger-beer
   type: ingredient
+
 - display_name: Root Beer
   parent: root
   slug: root-beer
   type: ingredient
+
 - display_name: Fitz's Root Beer
   parent: root-beer
   slug: fitz-s-root-beer
   type: ingredient
+
 - display_name: Water
   parent: soft-drinks
   slug: water
   type: family
+
 - display_name: Corn Water
   parent: water
   slug: corn-water
   type: ingredient
+
 - display_name: Ice
   parent: water
   slug: ice
   type: ingredient
+
 - display_name: Soda Water
   parent: water
   slug: soda-water
   type: ingredient
+
 - display_name: Club Soda
   parent: soda-water
   slug: club-soda
   type: ingredient
+
 - display_name: Tonic Water
   parent: water
   slug: tonic-water
   type: ingredient
+
 - display_name: Q Tonic Water
   parent: tonic-water
   slug: q-tonic-water
   type: ingredient
-- display_name: Water
-  parent: water
-  slug: water
-  type: ingredient
+
 - display_name: Hot Water
   parent: water
   slug: hot-water
   type: ingredient
+
 - display_name: Water Or Soda Water
   parent: water
   slug: water-or-soda-water
   type: ingredient
+
 - display_name: Spirits
   slug: spirits
   type: category
+
 - display_name: Agave
   parent: spirits
   slug: agave
   type: family
+
 - display_name: Infused Tequila
   parent: agave
   slug: infused-tequila
   type: ingredient
+
 - display_name: Cacao Nib-Infused Cabeza Blanco Tequila
   parent: infused-tequila
   slug: cacao-nib-infused-cabeza-blanco-tequila
   type: ingredient
+
 - display_name: "Jalape\xF1o-Infused Siembra Azul Blanco Tequila"
   parent: infused-tequila
   slug: jalapeno-infused-siembra-azul-blanco-tequila
   type: ingredient
+
 - display_name: Lapsang Souchong-Infused Siembra Azul Blanco Tequila
   parent: infused-tequila
   slug: lapsang-souchong-infused-siembra-azul-blanco-tequila
   type: ingredient
+
 - display_name: Queen Of Earl Tea-Infused Siembra Azul Reposado Tequila
   parent: infused-tequila
   slug: queen-of-earl-tea-infused-siembra-azul-reposado-tequila
   type: ingredient
+
 - display_name: Spiced Pear-Infused Siembra Azul Blanco Tequila
   parent: infused-tequila
   slug: spiced-pear-infused-siembra-azul-blanco-tequila
   type: ingredient
+
 - display_name: Mezcal
   parent: agave
   slug: mezcal
   type: ingredient
+
 - display_name: Del Maguey Chichicapa Mezcal
   parent: mezcal
   slug: del-maguey-chichicapa-mezcal
   type: ingredient
+
 - display_name: Del Maguey Crema De Mezcal
   parent: mezcal
   slug: del-maguey-crema-de-mezcal
   type: ingredient
+
 - display_name: Del Maguey Espadin Especial Mezcal
   parent: mezcal
   slug: del-maguey-espadin-especial-mezcal
   type: ingredient
+
 - display_name: Del Maguey San Luis Del Rio Mezcal
   parent: mezcal
   slug: del-maguey-san-luis-del-rio-mezcal
   type: ingredient
+
 - display_name: Del Maguey Vida Mezcal
   parent: mezcal
   slug: del-maguey-vida-mezcal
   type: ingredient
+
 - display_name: Ilegal Reposado Mezcal
   parent: mezcal
   slug: ilegal-reposado-mezcal
   type: ingredient
+
 - display_name: Los Amantes Joven Mezcal
   parent: mezcal
   slug: los-amantes-joven-mezcal
   type: ingredient
+
 - display_name: Los Nahuales Mezcal
   parent: mezcal
   slug: los-nahuales-mezcal
   type: ingredient
+
 - display_name: Sombra Mezcal
   parent: mezcal
   slug: sombra-mezcal
   type: ingredient
+
 - display_name: Tequila
   parent: agave
   slug: tequila
   type: ingredient
+
 - display_name: 100% Blue Agave Tequila
   parent: tequila
   slug: 100-blue-agave-tequila
   type: ingredient
+
 - display_name: Cabeza Blanco Tequila
   parent: tequila
   slug: cabeza-blanco-tequila
   type: ingredient
+
 - display_name: Cabrito Blanco Tequila
   parent: tequila
   slug: cabrito-blanco-tequila
   type: ingredient
+
 - display_name: Centinela Reposado Tequila
   parent: tequila
   slug: centinela-reposado-tequila
   type: ingredient
+
 - display_name: Chinaco Verde Blanco Tequila
   parent: tequila
   slug: chinaco-verde-blanco-tequila
   type: ingredient
+
 - display_name: Cuervo Gold
   parent: tequila
   slug: cuervo-gold
   type: ingredient
+
 - display_name: "Don Julio A\xF1ejo Tequila"
   parent: tequila
   slug: don-julio-anejo-tequila
   type: ingredient
+
 - display_name: Don Julio Blanco Tequila
   parent: tequila
   slug: don-julio-blanco-tequila
   type: ingredient
+
 - display_name: Don Julio Reposado Tequila
   parent: tequila
   slug: don-julio-reposado-tequila
   type: ingredient
+
 - display_name: "El Tesoro A\xF1ejo Tequila"
   parent: tequila
   slug: el-tesoro-anejo-tequila
   type: ingredient
+
 - display_name: El Tesoro Platinum Tequila
   parent: tequila
   slug: el-tesoro-platinum-tequila
   type: ingredient
+
 - display_name: El Tesoro Reposado Tequila
   parent: tequila
   slug: el-tesoro-reposado-tequila
   type: ingredient
+
 - display_name: Fortaleza Reposado Tequila
   parent: tequila
   slug: fortaleza-reposado-tequila
   type: ingredient
+
 - display_name: Good Tequila
   parent: tequila
   slug: good-tequila
   type: ingredient
+
 - display_name: Gran Centenario Blanco Tequila
   parent: tequila
   slug: gran-centenario-blanco-tequila
   type: ingredient
+
 - display_name: Gran Centenario Reposado Tequila
   parent: tequila
   slug: gran-centenario-reposado-tequila
   type: ingredient
+
 - display_name: "Jos\xE9 Cuervo Platino Tequila"
   parent: tequila
   slug: jose-cuervo-platino-tequila
   type: ingredient
+
 - display_name: Jose Cuervo Tradicional Tequila
   parent: tequila
   slug: jose-cuervo-tradicional-tequila
   type: ingredient
+
 - display_name: L & J Blanco Tequila
   parent: tequila
   slug: l-j-blanco-tequila
   type: ingredient
+
 - display_name: Ocho 2012 Plata Tequila
   parent: tequila
   slug: ocho-2012-plata-tequila
   type: ingredient
+
 - display_name: "Ocho A\xF1ejo Tequila"
   parent: tequila
   slug: ocho-anejo-tequila
   type: ingredient
+
 - display_name: Partida Blanco Tequila
   parent: tequila
   slug: partida-blanco-tequila
   type: ingredient
+
 - display_name: Partida Reposado Tequila
   parent: tequila
   slug: partida-reposado-tequila
   type: ingredient
+
 - display_name: "Pueblo Viejo A\xF1ejo Tequila"
   parent: tequila
   slug: pueblo-viejo-anejo-tequila
   type: ingredient
+
 - display_name: Pueblo Viejo Reposado Tequila
   parent: tequila
   slug: pueblo-viejo-reposado-tequila
   type: ingredient
+
 - display_name: Sauza Conmemorativo Tequila
   parent: tequila
   slug: sauza-conmemorativo-tequila
   type: ingredient
+
 - display_name: Sauza Hornitos Tequila
   parent: tequila
   slug: sauza-hornitos-tequila
   type: ingredient
+
 - display_name: "Siembra Azul A\xF1ejo Tequila"
   parent: tequila
   slug: siembra-azul-anejo-tequila
   type: ingredient
+
 - display_name: Siembra Azul Blanco Tequila
   parent: tequila
   slug: siembra-azul-blanco-tequila
   type: ingredient
+
 - display_name: Siembra Azul Reposado Tequila
   parent: tequila
   slug: siembra-azul-reposado-tequila
   type: ingredient
+
 - display_name: Siete Leguas Blanco Tequila
   parent: tequila
   slug: siete-leguas-blanco-tequila
   type: ingredient
+
 - display_name: Siete Leguas Reposado Tequila
   parent: tequila
   slug: siete-leguas-reposado-tequila
   type: ingredient
+
 - display_name: Tapatio 110 Blanco Tequila
   parent: tequila
   slug: tapatio-110-blanco-tequila
   type: ingredient
+
 - display_name: White Tequila
   parent: tequila
   slug: white-tequila
   type: ingredient
+
 - display_name: Anise
   parent: spirits
   slug: anise
   type: family
+
 - display_name: Absinthe
   parent: anise
   slug: absinthe
   type: ingredient
+
 - display_name: Edouard Absinthe
   parent: absinthe
   slug: edouard-absinthe
   type: ingredient
+
 - display_name: Pernod Absinthe
   parent: absinthe
   slug: pernod-absinthe
   type: ingredient
+
 - display_name: Pernod Fils
   parent: absinthe
   slug: pernod-fils
   type: ingredient
+
 - display_name: St. George Absinthe
   parent: absinthe
   slug: st-george-absinthe
   type: ingredient
+
 - display_name: Vieux Pontarlier Absinthe
   parent: absinthe
   slug: vieux-pontarlier-absinthe
   type: ingredient
+
 - display_name: Anisette
   parent: anise
   slug: anisette
   type: ingredient
+
 - display_name: Pernod
   parent: anise
   slug: pernod
   type: ingredient
+
 - display_name: Ricard
   parent: anise
   slug: ricard
   type: ingredient
+
 - display_name: Ricard Pastis
   parent: ricard
   slug: ricard-pastis
   type: ingredient
+
 - display_name: Sambuca
   parent: anise
   slug: sambuca
   type: ingredient
+
 - display_name: Borsci Sambuca
   parent: sambuca
   slug: borsci-sambuca
   type: ingredient
+
 - display_name: Aquavit
   parent: spirits
   slug: aquavit
   type: family
-- display_name: Aquavit
-  parent: aquavit
-  slug: aquavit
-  type: ingredient
+
 - display_name: Krogstad Aquavit
   parent: aquavit
   slug: krogstad-aquavit
   type: ingredient
+
 - display_name: Linie Aquavit
   parent: aquavit
   slug: linie-aquavit
   type: ingredient
+
 - display_name: OP Flavored Vodka
   parent: aquavit
   slug: op-flavored-vodka
   type: ingredient
+
 - display_name: Infused Aquavit
   parent: aquavit
   slug: infused-aquavit
   type: ingredient
+
 - display_name: Black Sesame-Infused Krogstad Aquavit
   parent: infused-aquavit
   slug: black-sesame-infused-krogstad-aquavit
   type: ingredient
+
 - display_name: Brandy
   parent: spirits
   slug: brandy
   type: family
-- display_name: Brandy
+
+- display_name: Grape Brandy
   parent: brandy
-  slug: brandy
+  slug: grape-brandy
   type: ingredient
+
 - display_name: Armagnac
-  parent: brandy
+  parent: grape-brandy
   slug: armagnac
   type: ingredient
+
 - display_name: Cardenal Mendoza Brandy
-  parent: brandy
+  parent: grape-brandy
   slug: cardenal-mendoza-brandy
   type: ingredient
+
 - display_name: Clear Creek Plum Brandy
-  parent: brandy
+  parent: grape-brandy
   slug: clear-creek-plum-brandy
   type: ingredient
+
 - display_name: Cognac
-  parent: brandy
+  parent: grape-brandy
   slug: cognac
   type: ingredient
+
 - display_name: Courvoisier Cognac
-  parent: brandy
+  parent: grape-brandy
   slug: courvoisier-cognac
   type: ingredient
+
 - display_name: Courvoisier Millennium Cognac
-  parent: brandy
+  parent: grape-brandy
   slug: courvoisier-millennium-cognac
   type: ingredient
+
 - display_name: Gran Duque D'Alba Brandy De Jerez
-  parent: brandy
+  parent: grape-brandy
   slug: gran-duque-d-alba-brandy-de-jerez
   type: ingredient
+
 - display_name: Guillon-Painturaud Cognac Grande Champagne VSOP
-  parent: brandy
+  parent: grape-brandy
   slug: guillon-painturaud-cognac-grande-champagne-vsop
   type: ingredient
+
 - display_name: Hine H Cognac
-  parent: brandy
+  parent: grape-brandy
   slug: hine-h-cognac
   type: ingredient
+
 - display_name: Hine V.S.O.P. Cognac
-  parent: brandy
+  parent: grape-brandy
   slug: hine-v-s-o-p-cognac
   type: ingredient
+
 - display_name: Louis Royer Force 53 Cognac
-  parent: brandy
+  parent: grape-brandy
   slug: louis-royer-force-53-cognac
   type: ingredient
+
 - display_name: Martell V.S.O.P. Cognac
-  parent: brandy
+  parent: grape-brandy
   slug: martell-v-s-o-p-cognac
   type: ingredient
+
 - display_name: Pierre Ferrand 1840 Cognac
-  parent: brandy
+  parent: grape-brandy
   slug: pierre-ferrand-1840-cognac
   type: ingredient
+
 - display_name: Pierre Ferrand Ambre Cognac
-  parent: brandy
+  parent: grape-brandy
   slug: pierre-ferrand-ambre-cognac
   type: ingredient
+
 - display_name: "R\xE9my Martin V.S.O.P. Cognac"
-  parent: brandy
+  parent: grape-brandy
   slug: remy-martin-v-s-o-p-cognac
   type: ingredient
+
 - display_name: Spanish Brandy
-  parent: brandy
+  parent: grape-brandy
   slug: spanish-brandy
   type: ingredient
+
 - display_name: Tariquet VS Classique Bas-Armagnac
-  parent: brandy
+  parent: grape-brandy
   slug: tariquet-vs-classique-bas-armagnac
   type: ingredient
+
 - display_name: VS Cognac
-  parent: brandy
+  parent: grape-brandy
   slug: vs-cognac
   type: ingredient
+
 - display_name: Infused Brandy
   parent: brandy
   slug: infused-brandy
   type: ingredient
+
 - display_name: Walnut-Infused Hine V.S.O.P. Cognac
   parent: infused-brandy
   slug: walnut-infused-hine-v-s-o-p-cognac
   type: ingredient
+
 - display_name: Infused Pisco
   parent: brandy
   slug: infused-pisco
   type: ingredient
+
 - display_name: Chamomile-Infused Barsol Quebranta Pisco
   parent: infused-pisco
   slug: chamomile-infused-barsol-quebranta-pisco
   type: ingredient
+
 - display_name: Spiced Macchu Pisco
   parent: infused-pisco
   slug: spiced-macchu-pisco
   type: ingredient
+
 - display_name: Strawberry-And Pineapple-Infused Macchu Pisco
   parent: infused-pisco
   slug: strawberry-and-pineapple-infused-macchu-pisco
   type: ingredient
+
 - display_name: Pisco
   parent: brandy
   slug: pisco
   type: ingredient
+
 - display_name: Barsol Quebranta Pisco
   parent: pisco
   slug: barsol-quebranta-pisco
   type: ingredient
+
 - display_name: Campo De Encanto Acholado Pisco
   parent: pisco
   slug: campo-de-encanto-acholado-pisco
   type: ingredient
+
 - display_name: La Diablada Pisco
   parent: pisco
   slug: la-diablada-pisco
   type: ingredient
+
 - display_name: Macchu Pisco
   parent: pisco
   slug: macchu-pisco
   type: ingredient
+
 - display_name: Waqar Pisco
   parent: pisco
   slug: waqar-pisco
   type: ingredient
-- display_name: Fruit
+
+- display_name: Fruit Brandy
   parent: spirits
-  slug: fruit
+  slug: fruit-brandy
   type: family
+
 - display_name: Apple Brandy
-  parent: fruit
+  parent: fruit-brandy
   slug: apple-brandy
   type: ingredient
+
 - display_name: Clear Creek Apple Brandy
   parent: apple-brandy
   slug: clear-creek-apple-brandy
   type: ingredient
+
 - display_name: Laird's Bonded Apple Brandy
   parent: apple-brandy
   slug: laird-s-bonded-apple-brandy
   type: ingredient
+
 - display_name: "Sch\xF6nauer Apfel Schnapps"
   parent: apple-brandy
   slug: schonauer-apfel-schnapps
   type: ingredient
+
 - display_name: "Sch\xF6nauer Apple Schnapps"
   parent: apple-brandy
   slug: schonauer-apple-schnapps
   type: ingredient
+
 - display_name: Applejack
-  parent: fruit
+  parent: fruit-brandy
   slug: applejack
   type: ingredient
+
 - display_name: Applejack Or Calvados
   parent: applejack
   slug: applejack-or-calvados
   type: ingredient
+
 - display_name: Laird's Applejack
   parent: applejack
   slug: laird-s-applejack
   type: ingredient
+
 - display_name: Apricot Brandy
-  parent: fruit
+  parent: fruit-brandy
   slug: apricot-brandy
   type: ingredient
+
 - display_name: Blackberry Brandy
-  parent: fruit
+  parent: fruit-brandy
   slug: blackberry-brandy
   type: ingredient
+
 - display_name: Calvados
-  parent: fruit
+  parent: fruit-brandy
   slug: calvados
   type: ingredient
+
 - display_name: Busnel VSOP Calvados
   parent: calvados
   slug: busnel-vsop-calvados
   type: ingredient
+
 - display_name: Cherry Brandy
-  parent: fruit
+  parent: fruit-brandy
   slug: cherry-brandy
   type: ingredient
+
 - display_name: Clear Creek Kirschwasser
   parent: cherry-brandy
   slug: clear-creek-kirschwasser
   type: ingredient
+
 - display_name: Kirsch
   parent: cherry-brandy
   slug: kirsch
   type: ingredient
+
 - display_name: Massenez Kirsch Vieux Cherry Brandy
   parent: cherry-brandy
   slug: massenez-kirsch-vieux-cherry-brandy
   type: ingredient
-- display_name: Peach Schnapps
-  parent: fruit
-  slug: peach-schnapps
-  type: ingredient
-- display_name: Peachtree Schnapps
-  parent: peach-schnapps
-  slug: peachtree-schnapps
-  type: ingredient
+
 - display_name: Pear Brandy
-  parent: fruit
+  parent: fruit-brandy
   slug: pear-brandy
   type: ingredient
+
 - display_name: Clear Creek Pear Brandy
   parent: pear-brandy
   slug: clear-creek-pear-brandy
   type: ingredient
+
 - display_name: Raspberry Brandy
-  parent: fruit
+  parent: fruit-brandy
   slug: raspberry-brandy
   type: ingredient
+
 - display_name: Pasquet Marie-Framboise
   parent: raspberry-brandy
   slug: pasquet-marie-framboise
   type: ingredient
+
 - display_name: Trimbach Framboise Brandy
   parent: raspberry-brandy
   slug: trimbach-framboise-brandy
   type: ingredient
+
 - display_name: Gin
   parent: spirits
   slug: gin
   type: family
+
 - display_name: Genever
   parent: gin
   slug: genever
   type: ingredient
+
 - display_name: Anchor Genevieve
   parent: genever
   slug: anchor-genevieve
   type: ingredient
+
 - display_name: Anchor Genevieve Gin
   parent: genever
   slug: anchor-genevieve-gin
   type: ingredient
+
 - display_name: Bols Barrel-Aged Genever
   parent: genever
   slug: bols-barrel-aged-genever
   type: ingredient
+
 - display_name: Bols Genever
   parent: genever
   slug: bols-genever
   type: ingredient
-- display_name: Gin
-  parent: gin
-  slug: gin
-  type: ingredient
+
 - display_name: Anchor Junipero Gin
   parent: gin
   slug: anchor-junipero-gin
   type: ingredient
+
 - display_name: Aviation Gin
   parent: gin
   slug: aviation-gin
   type: ingredient
+
 - display_name: Beefeater 24 Gin
   parent: gin
   slug: beefeater-24-gin
   type: ingredient
+
 - display_name: Beefeater Gin
   parent: gin
   slug: beefeater-gin
   type: ingredient
+
 - display_name: Beefeater London Dry Gin
   parent: gin
   slug: beefeater-london-dry-gin
   type: ingredient
+
 - display_name: Berkshire Mountain Distillers' Greylock Gin
   parent: gin
   slug: berkshire-mountain-distillers-greylock-gin
   type: ingredient
+
 - display_name: Bombay Gin
   parent: gin
   slug: bombay-gin
   type: ingredient
+
 - display_name: Bombay London Dry Gin
   parent: gin
   slug: bombay-london-dry-gin
   type: ingredient
+
 - display_name: Bombay Sapphire Gin
   parent: gin
   slug: bombay-sapphire-gin
   type: ingredient
+
 - display_name: Bruichladdich Botanist Gin
   parent: gin
   slug: bruichladdich-botanist-gin
   type: ingredient
+
 - display_name: Dorothy Parker Gin
   parent: gin
   slug: dorothy-parker-gin
   type: ingredient
+
 - display_name: Dry Gin
   parent: gin
   slug: dry-gin
   type: ingredient
+
 - display_name: Fords Gin
   parent: gin
   slug: fords-gin
   type: ingredient
+
 - display_name: Hayman's Old Tom Gin
   parent: gin
   slug: hayman-s-old-tom-gin
   type: ingredient
+
 - display_name: Hendrick's Gin
   parent: gin
   slug: hendrick-s-gin
   type: ingredient
+
 - display_name: Martin Miller's Westbourne-Strength Gin
   parent: gin
   slug: martin-miller-s-westbourne-strength-gin
   type: ingredient
+
 - display_name: Old Tom Gin
   parent: gin
   slug: old-tom-gin
   type: ingredient
+
 - display_name: Perry's Tot Navy-Strength Gin
   parent: gin
   slug: perry-s-tot-navy-strength-gin
   type: ingredient
+
 - display_name: Plymouth, Beefeater London Dry, Or Tanqueray London Dry Gin
   parent: gin
   slug: plymouth-beefeater-london-dry-or-tanqueray-london-dry-gin
   type: ingredient
+
 - display_name: Plymouth Gin
   parent: gin
   slug: plymouth-gin
   type: ingredient
+
 - display_name: Ransom Old Tom Gin
   parent: gin
   slug: ransom-old-tom-gin
   type: ingredient
+
 - display_name: Tanqueray Gin
   parent: gin
   slug: tanqueray-gin
   type: ingredient
+
 - display_name: Tanqueray London Dry Gin
   parent: gin
   slug: tanqueray-london-dry-gin
   type: ingredient
+
 - display_name: Tanqueray No. Ten Gin
   parent: gin
   slug: tanqueray-no-ten-gin
   type: ingredient
+
 - display_name: Infused Gin
   parent: gin
   slug: infused-gin
   type: ingredient
+
 - display_name: Pennyroyal-Infused Hayman's Old Tom Gin
   parent: infused-gin
   slug: pennyroyal-infused-hayman-s-old-tom-gin
   type: ingredient
+
 - display_name: Rose-Infused Plymouth Gin
   parent: infused-gin
   slug: rose-infused-plymouth-gin
   type: ingredient
+
 - display_name: Sugar Snap Pea-Infused Plymouth Gin
   parent: infused-gin
   slug: sugar-snap-pea-infused-plymouth-gin
   type: ingredient
+
 - display_name: Szechuan Peppercorn-Infused Plymouth Gin
   parent: infused-gin
   slug: szechuan-peppercorn-infused-plymouth-gin
   type: ingredient
+
 - display_name: Sloe Gin
   parent: gin
   slug: sloe-gin
   type: ingredient
+
 - display_name: Plymouth Sloe Gin
   parent: sloe-gin
   slug: plymouth-sloe-gin
   type: ingredient
-- display_name: Plant
-  parent: spirits
-  slug: plant
-  type: family
+
 - display_name: Peppermint Schnapps
-  parent: plant
+  parent: liqueur
   slug: peppermint-schnapps
   type: ingredient
-- display_name: Rice
-  parent: spirits
-  slug: rice
-  type: family
+
 - display_name: Batavia Arrack
-  parent: rice
+  parent: sugarcane
   slug: batavia-arrack
   type: ingredient
+
 - display_name: Van Oosten Batavia Arrack
   parent: batavia-arrack
   slug: van-oosten-batavia-arrack
   type: ingredient
+
 - display_name: Sugarcane
   parent: spirits
   slug: sugarcane
   type: family
+
 - display_name: Banana Rum
   parent: sugarcane
   slug: banana-rum
   type: ingredient
+
 - display_name: Cruzan Banana Rum
   parent: banana-rum
   slug: cruzan-banana-rum
   type: ingredient
+
 - display_name: "Cacha\xE7a"
   parent: sugarcane
   slug: cachaca
   type: ingredient
+
 - display_name: "Avu\xE1 Amburana Cacha\xE7a"
   parent: cachaca
   slug: avua-amburana-cachaca
   type: ingredient
+
 - display_name: "Beleza Pura Cacha\xE7a"
   parent: cachaca
   slug: beleza-pura-cachaca
   type: ingredient
+
 - display_name: "M\xE3e De Ouro Cacha\xE7a"
   parent: cachaca
   slug: mae-de-ouro-cachaca
   type: ingredient
+
 - display_name: "Sagatiba Cacha\xE7a"
   parent: cachaca
   slug: sagatiba-cachaca
   type: ingredient
+
 - display_name: Citrus Rum
   parent: sugarcane
   slug: citrus-rum
   type: ingredient
+
 - display_name: "Bacardi Lim\xF3n Rum"
   parent: citrus-rum
   slug: bacardi-limon-rum
   type: ingredient
+
 - display_name: Coconut Rum
   parent: sugarcane
   slug: coconut-rum
   type: ingredient
+
 - display_name: Cruzan Coconut Rum
   parent: coconut-rum
   slug: cruzan-coconut-rum
   type: ingredient
+
 - display_name: Malibu Coconut Rum
   parent: coconut-rum
   slug: malibu-coconut-rum
   type: ingredient
+
 - display_name: "Infused Cacha\xE7a"
   parent: sugarcane
   slug: infused-cachaca
   type: ingredient
+
 - display_name: "Sencha Green Tea-Infused Leblon Cacha\xE7a"
   parent: infused-cachaca
   slug: sencha-green-tea-infused-leblon-cachaca
   type: ingredient
+
 - display_name: "Strawberry-Infused M\xE3e De Ouro Cacha\xE7a"
   parent: infused-cachaca
   slug: strawberry-infused-mae-de-ouro-cachaca
   type: ingredient
+
 - display_name: Infused Rum
   parent: sugarcane
   slug: infused-rum
   type: ingredient
+
 - display_name: Banana Chip-Infused Gosling's Black Seal Rum
   parent: infused-rum
   slug: banana-chip-infused-gosling-s-black-seal-rum
   type: ingredient
+
 - display_name: Granny Smith Apple-Infused Rhum Barbancourt
   parent: infused-rum
   slug: granny-smith-apple-infused-rhum-barbancourt
   type: ingredient
+
 - display_name: "Pineapple-Infused Flor De Ca\xF1a Extra-Dry White Rum"
   parent: infused-rum
   slug: pineapple-infused-flor-de-cana-extra-dry-white-rum
   type: ingredient
+
 - display_name: "Popcorn-Infused Flor De Ca\xF1a Silver Dry Rum"
   parent: infused-rum
   slug: popcorn-infused-flor-de-cana-silver-dry-rum
   type: ingredient
+
 - display_name: "Summer Royale Tea-Infused Flor De Ca\xF1a White Rum"
   parent: infused-rum
   slug: summer-royale-tea-infused-flor-de-cana-white-rum
   type: ingredient
+
 - display_name: Rum
   parent: sugarcane
   slug: rum
   type: ingredient
+
 - display_name: Aged Rum
   parent: rum
   slug: aged-rum
   type: ingredient
+
 - display_name: "A\xF1ejo Rum"
   parent: rum
   slug: anejo-rum
   type: ingredient
+
 - display_name: Angostura 5-Year Rum
   parent: rum
   slug: angostura-5-year-rum
   type: ingredient
+
 - display_name: Appleton Estate Reserve Rum
   parent: rum
   slug: appleton-estate-reserve-rum
   type: ingredient
+
 - display_name: Appleton Estate V/X Rum
   parent: rum
   slug: appleton-estate-v-x-rum
   type: ingredient
+
 - display_name: Appleton Jamaican Rum
   parent: rum
   slug: appleton-jamaican-rum
   type: ingredient
+
 - display_name: Appleton Reserve Rum
   parent: rum
   slug: appleton-reserve-rum
   type: ingredient
+
 - display_name: Appleton Rum
   parent: rum
   slug: appleton-rum
   type: ingredient
+
 - display_name: Bacardi 8 Rum
   parent: rum
   slug: bacardi-8-rum
   type: ingredient
+
 - display_name: Bacardi Light Rum
   parent: rum
   slug: bacardi-light-rum
   type: ingredient
+
 - display_name: Bacardi Ron Superior Limited Edition
   parent: rum
   slug: bacardi-ron-superior-limited-edition
   type: ingredient
+
 - display_name: Bacardi Rum
   parent: rum
   slug: bacardi-rum
   type: ingredient
+
 - display_name: Bacardi Silver Rum
   parent: rum
   slug: bacardi-silver-rum
   type: ingredient
+
 - display_name: Banks 5 Island Rum
   parent: rum
   slug: banks-5-island-rum
   type: ingredient
+
 - display_name: Banks 5-Island White Rum
   parent: rum
   slug: banks-5-island-white-rum
   type: ingredient
+
 - display_name: Barbados Rum
   parent: rum
   slug: barbados-rum
   type: ingredient
+
 - display_name: Barbancourt 3-Star Rum
   parent: rum
   slug: barbancourt-3-star-rum
   type: ingredient
+
 - display_name: Barbancourt 8-Year-Old Rhum
   parent: rum
   slug: barbancourt-8-year-old-rhum
   type: ingredient
+
 - display_name: Barbancourt Rhum Blanc
   parent: rum
   slug: barbancourt-rhum-blanc
   type: ingredient
+
 - display_name: Barbancourt White Rum
   parent: rum
   slug: barbancourt-white-rum
   type: ingredient
+
 - display_name: "Ca\xF1a Brava Rum"
   parent: rum
   slug: cana-brava-rum
   type: ingredient
+
 - display_name: Cruzan Black Strap Rum
   parent: rum
   slug: cruzan-black-strap-rum
   type: ingredient
+
 - display_name: Cruzan Single-Barrel Rum
   parent: rum
   slug: cruzan-single-barrel-rum
   type: ingredient
+
 - display_name: Dark Rum
   parent: rum
   slug: dark-rum
   type: ingredient
+
 - display_name: "Diplom\xE1tico Reserva Exclusiva Rum"
   parent: rum
   slug: diplomatico-reserva-exclusiva-rum
   type: ingredient
+
 - display_name: Dusser's Navy Rum
   parent: rum
   slug: dusser-s-navy-rum
   type: ingredient
+
 - display_name: El Dorado 12-Year Rum
   parent: rum
   slug: el-dorado-12-year-rum
   type: ingredient
+
 - display_name: El Dorado 151 Rum
   parent: rum
   slug: el-dorado-151-rum
   type: ingredient
+
 - display_name: El Dorado 15-Year-Old Rum
   parent: rum
   slug: el-dorado-15-year-old-rum
   type: ingredient
+
 - display_name: El Dorado 15-Year Rum
   parent: rum
   slug: el-dorado-15-year-rum
   type: ingredient
+
 - display_name: El Dorado 3-Year Rum
   parent: rum
   slug: el-dorado-3-year-rum
   type: ingredient
+
 - display_name: El Dorado High-Strength 151 Rum
   parent: rum
   slug: el-dorado-high-strength-151-rum
   type: ingredient
+
 - display_name: "Flor De Ca\xF1a 7-Year Rum"
   parent: rum
   slug: flor-de-cana-7-year-rum
   type: ingredient
+
 - display_name: "Flor De Ca\xF1a Extra-Dry White Rum"
   parent: rum
   slug: flor-de-cana-extra-dry-white-rum
   type: ingredient
+
 - display_name: "Flor De Ca\xF1a Silver Dry Rum"
   parent: rum
   slug: flor-de-cana-silver-dry-rum
   type: ingredient
+
 - display_name: Gold Rum
   parent: rum
   slug: gold-rum
   type: ingredient
+
 - display_name: Good Medium-bodied Rum
   parent: rum
   slug: good-medium-bodied-rum
   type: ingredient
+
 - display_name: Gosling's Black Seal Rum
   parent: rum
   slug: gosling-s-black-seal-rum
   type: ingredient
+
 - display_name: Gosling's Dark Rum
   parent: rum
   slug: gosling-s-dark-rum
   type: ingredient
+
 - display_name: Gosling's Or Myers's Dark Rum
   parent: rum
   slug: gosling-s-or-myers-s-dark-rum
   type: ingredient
+
 - display_name: Havana Club 7-Year-Old Rum
   parent: rum
   slug: havana-club-7-year-old-rum
   type: ingredient
+
 - display_name: Heavy-bodied Rum
   parent: rum
   slug: heavy-bodied-rum
   type: ingredient
+
 - display_name: J. M. Rhum Blanc
   parent: rum
   slug: j-m-rhum-blanc
   type: ingredient
+
 - display_name: La Favorite Rhum Agricole Ambre
   parent: rum
   slug: la-favorite-rhum-agricole-ambre
   type: ingredient
+
 - display_name: La Favorite Rhum Agricole Blanc
   parent: rum
   slug: la-favorite-rhum-agricole-blanc
   type: ingredient
+
 - display_name: Lemon Hart 151 Rum
   parent: rum
   slug: lemon-hart-151-rum
   type: ingredient
+
 - display_name: Lemon Hart Original Rum
   parent: rum
   slug: lemon-hart-original-rum
   type: ingredient
+
 - display_name: Lemon Hart Overproof Rum
   parent: rum
   slug: lemon-hart-overproof-rum
   type: ingredient
+
 - display_name: Light Rum
   parent: rum
   slug: light-rum
   type: ingredient
+
 - display_name: Matusalem Gran Reserva 15-Year Rum
   parent: rum
   slug: matusalem-gran-reserva-15-year-rum
   type: ingredient
+
 - display_name: Matusalem Gran Reserva Rum
   parent: rum
   slug: matusalem-gran-reserva-rum
   type: ingredient
+
 - display_name: Mount Gay Eclipse Amber Rum
   parent: rum
   slug: mount-gay-eclipse-amber-rum
   type: ingredient
+
 - display_name: Mount Gay Eclipse Rum
   parent: rum
   slug: mount-gay-eclipse-rum
   type: ingredient
+
 - display_name: Mount Gay Eclipse White Rum
   parent: rum
   slug: mount-gay-eclipse-white-rum
   type: ingredient
+
 - display_name: Mount Gay Rum
   parent: rum
   slug: mount-gay-rum
   type: ingredient
+
 - display_name: Mount Gay X.O. Rum
   parent: rum
   slug: mount-gay-x-o-rum
   type: ingredient
+
 - display_name: Myers's Dark Rum
   parent: rum
   slug: myers-s-dark-rum
   type: ingredient
+
 - display_name: Neisson Rhum Agricole Blanc
   parent: rum
   slug: neisson-rhum-agricole-blanc
   type: ingredient
+
 - display_name: Neisson Rhum Blanc
   parent: rum
   slug: neisson-rhum-blanc
   type: ingredient
+
 - display_name: "Neisson Rhum R\xE9serve Sp\xE9ciale"
   parent: rum
   slug: neisson-rhum-reserve-speciale
   type: ingredient
+
 - display_name: Overproof Rum, Such As Wray & Nephew Or Bacardi 151
   parent: rum
   slug: overproof-rum-such-as-wray-nephew-or-bacardi-151
   type: ingredient
+
 - display_name: Pampero Aniversario Rum
   parent: rum
   slug: pampero-aniversario-rum
   type: ingredient
+
 - display_name: Plantation Barbados 5-Year Rum
   parent: rum
   slug: plantation-barbados-5-year-rum
   type: ingredient
+
 - display_name: "Rhum Cl\xE9ment Cr\xE9ole Shrubb"
   parent: rum
   slug: rhum-clement-creole-shrubb
   type: ingredient
-- display_name: "Rhum Cl\xE9ment V.S.O.P"
-  parent: rum
-  slug: rhum-clement-v-s-o-p
-  type: ingredient
+
 - display_name: "Rhum Cl\xE9ment V.S.O.P."
   parent: rum
   slug: rhum-clement-v-s-o-p
   type: ingredient
+
 - display_name: Rhum Jm 100-Proof Agricole Blanc
   parent: rum
   slug: rhum-jm-100-proof-agricole-blanc
   type: ingredient
+
 - display_name: Ron Del Barrilito 3-Star Rum
   parent: rum
   slug: ron-del-barrilito-3-star-rum
   type: ingredient
+
 - display_name: Ron Zacapa Centenario 23 Rum
   parent: rum
   slug: ron-zacapa-centenario-23-rum
   type: ingredient
+
 - display_name: Santa Teresa 1796 Rum
   parent: rum
   slug: santa-teresa-1796-rum
   type: ingredient
+
 - display_name: Santa Teresa Rum
   parent: rum
   slug: santa-teresa-rum
   type: ingredient
+
 - display_name: Scarlet Ibis Rum
   parent: rum
   slug: scarlet-ibis-rum
   type: ingredient
+
 - display_name: Smith & Cross Jamaican Rum
   parent: rum
   slug: smith-cross-jamaican-rum
   type: ingredient
+
 - display_name: Smith & Cross Rum
   parent: rum
   slug: smith-cross-rum
   type: ingredient
+
 - display_name: St. James Royal Ambre Rhum Agricole
   parent: rum
   slug: st-james-royal-ambre-rhum-agricole
   type: ingredient
+
 - display_name: White Rum
   parent: rum
   slug: white-rum
   type: ingredient
+
 - display_name: Wray & Nephew Overproof Rum
   parent: rum
   slug: wray-nephew-overproof-rum
   type: ingredient
+
 - display_name: Zacapa 23 Centenario Rum
   parent: rum
   slug: zacapa-23-centenario-rum
   type: ingredient
+
 - display_name: Zacapa 23-Year Rum
   parent: rum
   slug: zacapa-23-year-rum
   type: ingredient
+
 - display_name: Spiced Rum
   parent: sugarcane
   slug: spiced-rum
   type: ingredient
+
 - display_name: Swedish Punsch
   parent: sugarcane
   slug: swedish-punsch
   type: ingredient
+
 - display_name: Carlshamns Flaggpunsch
   parent: swedish-punsch
   slug: carlshamns-flaggpunsch
   type: ingredient
+
 - display_name: Kronan Swedish Punsch
   parent: swedish-punsch
   slug: kronan-swedish-punsch
   type: ingredient
+
 - display_name: Vodka
   parent: spirits
   slug: vodka
   type: family
+
 - display_name: Chocolate Vodka
   parent: vodka
   slug: chocolate-vodka
   type: ingredient
+
 - display_name: Alchemia Chocolate Vodka
   parent: chocolate-vodka
   slug: alchemia-chocolate-vodka
   type: ingredient
+
 - display_name: Citrus Vodka
   parent: vodka
   slug: citrus-vodka
   type: ingredient
+
 - display_name: Absolut Citron Vodka
   parent: citrus-vodka
   slug: absolut-citron-vodka
   type: ingredient
+
 - display_name: Absolut Mandrin Vodka
   parent: citrus-vodka
   slug: absolut-mandrin-vodka
   type: ingredient
+
 - display_name: Citron Vodka
   parent: citrus-vodka
   slug: citron-vodka
   type: ingredient
+
 - display_name: Orange Vodka
   parent: citrus-vodka
   slug: orange-vodka
   type: ingredient
+
 - display_name: Stolichnaya Limonaya Vodka
   parent: citrus-vodka
   slug: stolichnaya-limonaya-vodka
   type: ingredient
+
 - display_name: Stolichnaya Ohranj Vodka
   parent: citrus-vodka
   slug: stolichnaya-ohranj-vodka
   type: ingredient
+
 - display_name: Fruit Vodka
   parent: vodka
   slug: fruit-vodka
   type: ingredient
+
 - display_name: 42 Below Kiwi Vodka
   parent: fruit-vodka
   slug: 42-below-kiwi-vodka
   type: ingredient
+
 - display_name: Absolut Kurant Vodka
   parent: fruit-vodka
   slug: absolut-kurant-vodka
   type: ingredient
+
 - display_name: Heart Of The Hudson Apple Vodka
   parent: fruit-vodka
   slug: heart-of-the-hudson-apple-vodka
   type: ingredient
+
 - display_name: Pepper Vodka
   parent: vodka
   slug: pepper-vodka
   type: ingredient
+
 - display_name: Vanilla Vodka
   parent: vodka
   slug: vanilla-vodka
   type: ingredient
+
 - display_name: Stolichnaya Vanil Vodka
   parent: vanilla-vodka
   slug: stolichnaya-vanil-vodka
   type: ingredient
-- display_name: Vodka
-  parent: vodka
-  slug: vodka
-  type: ingredient
+
 - display_name: Absolut Vodka
   parent: vodka
   slug: absolut-vodka
   type: ingredient
+
 - display_name: Karlsson's Gold Vodka
   parent: vodka
   slug: karlsson-s-gold-vodka
   type: ingredient
+
 - display_name: Smirnoff Black Vodka
   parent: vodka
   slug: smirnoff-black-vodka
   type: ingredient
+
 - display_name: Stolichnaya Vodka
   parent: vodka
   slug: stolichnaya-vodka
   type: ingredient
+
 - display_name: Whisk(e)y
   parent: spirits
   slug: whisk-e-y
   type: family
+
 - display_name: American Whiskey
   parent: whisk-e-y
   slug: american-whiskey
   type: ingredient
+
 - display_name: Bernheim Wheat Whiskey
   parent: american-whiskey
   slug: bernheim-wheat-whiskey
   type: ingredient
+
 - display_name: Bourbon Or Rye Whiskey
   parent: american-whiskey
   slug: bourbon-or-rye-whiskey
   type: ingredient
+
 - display_name: Glen Thunder Corn Whiskey
   parent: american-whiskey
   slug: glen-thunder-corn-whiskey
   type: ingredient
+
 - display_name: High West Silver Oat Whiskey
   parent: american-whiskey
   slug: high-west-silver-oat-whiskey
   type: ingredient
+
 - display_name: Bourbon Whiskey
   parent: whisk-e-y
   slug: bourbon-whiskey
   type: ingredient
+
 - display_name: Baker's Bourbon
   parent: bourbon-whiskey
   slug: baker-s-bourbon
   type: ingredient
+
 - display_name: Buffalo Trace Bourbon
   parent: bourbon-whiskey
   slug: buffalo-trace-bourbon
   type: ingredient
+
 - display_name: Bulleit Bourbon
   parent: bourbon-whiskey
   slug: bulleit-bourbon
   type: ingredient
+
 - display_name: Bulleit Bourbon Whiskey
   parent: bourbon-whiskey
   slug: bulleit-bourbon-whiskey
   type: ingredient
+
 - display_name: Eagle Rare 10-Year Bourbon
   parent: bourbon-whiskey
   slug: eagle-rare-10-year-bourbon
   type: ingredient
+
 - display_name: Elijah Craig 12-Year Bourbon
   parent: bourbon-whiskey
   slug: elijah-craig-12-year-bourbon
   type: ingredient
+
 - display_name: Elijah Craig 12-Year-Old Bourbon Whiskey
   parent: bourbon-whiskey
   slug: elijah-craig-12-year-old-bourbon-whiskey
   type: ingredient
+
 - display_name: Evan Williams Single-Barrel Bourbon
   parent: bourbon-whiskey
   slug: evan-williams-single-barrel-bourbon
   type: ingredient
+
 - display_name: George T. Stagg Bourbon Whiskey
   parent: bourbon-whiskey
   slug: george-t-stagg-bourbon-whiskey
   type: ingredient
+
 - display_name: Maker's Mark Bourbon Whiskey
   parent: bourbon-whiskey
   slug: maker-s-mark-bourbon-whiskey
   type: ingredient
+
 - display_name: Old Grand-Dad 114 Bourbon
   parent: bourbon-whiskey
   slug: old-grand-dad-114-bourbon
   type: ingredient
+
 - display_name: Old Grand-Dad Bonded Bourbon Whiskey
   parent: bourbon-whiskey
   slug: old-grand-dad-bonded-bourbon-whiskey
   type: ingredient
+
 - display_name: Old Weller Antique 107 Bourbon
   parent: bourbon-whiskey
   slug: old-weller-antique-107-bourbon
   type: ingredient
+
 - display_name: Russell's Reserve 10-Year Bourbon
   parent: bourbon-whiskey
   slug: russell-s-reserve-10-year-bourbon
   type: ingredient
+
 - display_name: Stagg Bourbon
   parent: bourbon-whiskey
   slug: stagg-bourbon
   type: ingredient
+
 - display_name: Wild Turkey 101 Bourbon
   parent: bourbon-whiskey
   slug: wild-turkey-101-bourbon
   type: ingredient
+
 - display_name: Woodford Reserve Bourbon
   parent: bourbon-whiskey
   slug: woodford-reserve-bourbon
   type: ingredient
+
 - display_name: Canadian Whiskey
   parent: whisk-e-y
   slug: canadian-whiskey
   type: ingredient
+
 - display_name: Canadian Club Whiskey
   parent: canadian-whiskey
   slug: canadian-club-whiskey
   type: ingredient
+
 - display_name: Crown Royal Canadian Whiskey
   parent: canadian-whiskey
   slug: crown-royal-canadian-whiskey
   type: ingredient
+
 - display_name: Infused American Whiskey
   parent: whisk-e-y
   slug: infused-american-whiskey
   type: ingredient
+
 - display_name: Hibiscus-Infused Bernheim Wheat Whiskey
   parent: infused-american-whiskey
   slug: hibiscus-infused-bernheim-wheat-whiskey
   type: ingredient
+
 - display_name: Lavender-Infused Bernheim Original Wheat Whiskey
   parent: infused-american-whiskey
   slug: lavender-infused-bernheim-original-wheat-whiskey
   type: ingredient
+
 - display_name: Infused Bourbon
   parent: whisk-e-y
   slug: infused-bourbon
   type: ingredient
+
 - display_name: Fig-Infused Elijah Craig Bourbon
   parent: infused-bourbon
   slug: fig-infused-elijah-craig-bourbon
   type: ingredient
+
 - display_name: Pecan-Infused Buffalo Trace Bourbon
   parent: infused-bourbon
   slug: pecan-infused-buffalo-trace-bourbon
   type: ingredient
+
 - display_name: Infused Bourbon Whiskey
   parent: whisk-e-y
   slug: infused-bourbon-whiskey
   type: ingredient
+
 - display_name: Benton's Bacon Fat-Infused Four Roses Bourbon
   parent: infused-bourbon-whiskey
   slug: benton-s-bacon-fat-infused-four-roses-bourbon
   type: ingredient
+
 - display_name: Black Tea-Infused Elijah Craig 12-Year-Old Bourbon Whiskey
   parent: infused-bourbon-whiskey
   slug: black-tea-infused-elijah-craig-12-year-old-bourbon-whiskey
   type: ingredient
+
 - display_name: Goji Berry-Infused Four Roses Single Barrel Bourbon Whiskey
   parent: infused-bourbon-whiskey
   slug: goji-berry-infused-four-roses-single-barrel-bourbon-whiskey
   type: ingredient
+
 - display_name: Infused Rye Whiskey
   parent: whisk-e-y
   slug: infused-rye-whiskey
   type: ingredient
+
 - display_name: Birch-Infused Rittenhouse Bonded Rye Whiskey
   parent: infused-rye-whiskey
   slug: birch-infused-rittenhouse-bonded-rye-whiskey
   type: ingredient
+
 - display_name: Chamomile-Infused Old Overholt Rye Whiskey
   parent: infused-rye-whiskey
   slug: chamomile-infused-old-overholt-rye-whiskey
   type: ingredient
+
 - display_name: Dandelion Root-Infused Rittenhouse Bonded Rye Whiskey
   parent: infused-rye-whiskey
   slug: dandelion-root-infused-rittenhouse-bonded-rye-whiskey
   type: ingredient
+
 - display_name: Dried Currant-Infused Wild Turkey Rye Whiskey
   parent: infused-rye-whiskey
   slug: dried-currant-infused-wild-turkey-rye-whiskey
   type: ingredient
+
 - display_name: Red Thai Chile-Infused Rittenhouse Rye Whiskey
   parent: infused-rye-whiskey
   slug: red-thai-chile-infused-rittenhouse-rye-whiskey
   type: ingredient
+
 - display_name: Infused Scotch Whisky
   parent: whisk-e-y
   slug: infused-scotch-whisky
   type: ingredient
+
 - display_name: Apricot-Infused Famous Grouse Scotch Whisky
   parent: infused-scotch-whisky
   slug: apricot-infused-famous-grouse-scotch-whisky
   type: ingredient
+
 - display_name: Chamomile-Infused Compass Box Asyla Blended Scotch Whisky
   parent: infused-scotch-whisky
   slug: chamomile-infused-compass-box-asyla-blended-scotch-whisky
   type: ingredient
+
 - display_name: Coconut Green Tea-Infused Famous Grouse Scotch Whisky
   parent: infused-scotch-whisky
   slug: coconut-green-tea-infused-famous-grouse-scotch-whisky
   type: ingredient
+
 - display_name: Fuji Apple-Infused Famous Grouse Scotch
   parent: infused-scotch-whisky
   slug: fuji-apple-infused-famous-grouse-scotch
   type: ingredient
+
 - display_name: Irish Whiskey
   parent: whisk-e-y
   slug: irish-whiskey
   type: ingredient
+
 - display_name: Black Bush Irish Whiskey
   parent: irish-whiskey
   slug: black-bush-irish-whiskey
   type: ingredient
+
 - display_name: Bushmills Irish Whiskey
   parent: irish-whiskey
   slug: bushmills-irish-whiskey
   type: ingredient
+
 - display_name: Clontarf 1014 Irish Whiskey
   parent: irish-whiskey
   slug: clontarf-1014-irish-whiskey
   type: ingredient
+
 - display_name: Jameson 12-Year-Old Irish Whiskey
   parent: irish-whiskey
   slug: jameson-12-year-old-irish-whiskey
   type: ingredient
+
 - display_name: Jameson Irish Whiskey
   parent: irish-whiskey
   slug: jameson-irish-whiskey
   type: ingredient
+
 - display_name: Knappogue Castle 12-Year Irish Whiskey
   parent: irish-whiskey
   slug: knappogue-castle-12-year-irish-whiskey
   type: ingredient
+
 - display_name: Redbreast 12-Year Irish Whiskey
   parent: irish-whiskey
   slug: redbreast-12-year-irish-whiskey
   type: ingredient
+
 - display_name: Japanese Whisky
   parent: whisk-e-y
   slug: japanese-whisky
   type: ingredient
+
 - display_name: Nikka Taketsuru 12-Year-Old Japanese Malt Whisky
   parent: japanese-whisky
   slug: nikka-taketsuru-12-year-old-japanese-malt-whisky
   type: ingredient
+
 - display_name: Suntory Hakushu 12-Year Japanese Whisky
   parent: japanese-whisky
   slug: suntory-hakushu-12-year-japanese-whisky
   type: ingredient
+
 - display_name: Suntory Royal Japanese Whisky
   parent: japanese-whisky
   slug: suntory-royal-japanese-whisky
   type: ingredient
+
 - display_name: Yamazaki 12-Year Japanese Whisky
   parent: japanese-whisky
   slug: yamazaki-12-year-japanese-whisky
   type: ingredient
+
 - display_name: Yamazaki 12-Year-Old Japanese Single Malt Whisky
   parent: japanese-whisky
   slug: yamazaki-12-year-old-japanese-single-malt-whisky
   type: ingredient
+
 - display_name: Rye Whiskey
   parent: whisk-e-y
   slug: rye-whiskey
   type: ingredient
+
 - display_name: Old Overholt Rye Whiskey
   parent: rye-whiskey
   slug: old-overholt-rye-whiskey
   type: ingredient
+
 - display_name: Old Potrero Hotaling's Rye Whiskey
   parent: rye-whiskey
   slug: old-potrero-hotaling-s-rye-whiskey
   type: ingredient
+
 - display_name: Old Potrero Rye Whiskey
   parent: rye-whiskey
   slug: old-potrero-rye-whiskey
   type: ingredient
+
 - display_name: Rittenhouse 100 Rye Whiskey
   parent: rye-whiskey
   slug: rittenhouse-100-rye-whiskey
   type: ingredient
+
 - display_name: Rittenhouse Bonded Rye Whiskey
   parent: rye-whiskey
   slug: rittenhouse-bonded-rye-whiskey
   type: ingredient
+
 - display_name: Russell's Reserve Rye Whiskey
   parent: rye-whiskey
   slug: russell-s-reserve-rye-whiskey
   type: ingredient
+
 - display_name: Sazerac 6-Year Rye Whiskey
   parent: rye-whiskey
   slug: sazerac-6-year-rye-whiskey
   type: ingredient
+
 - display_name: Templeton Rye Whiskey
   parent: rye-whiskey
   slug: templeton-rye-whiskey
   type: ingredient
+
 - display_name: Wild Turkey Russell's Reserve 6-Year-Old Rye Whiskey
   parent: rye-whiskey
   slug: wild-turkey-russell-s-reserve-6-year-old-rye-whiskey
   type: ingredient
+
 - display_name: Wild Turkey Rye Whiskey
   parent: rye-whiskey
   slug: wild-turkey-rye-whiskey
   type: ingredient
+
 - display_name: Scotch Whisky
   parent: whisk-e-y
   slug: scotch-whisky
   type: ingredient
+
 - display_name: Ardbeg 10-Year-Old Single Malt Scotch Whisky
   parent: scotch-whisky
   slug: ardbeg-10-year-old-single-malt-scotch-whisky
   type: ingredient
+
 - display_name: Benromach 12-Year-Old Single Malt Scotch Whisky
   parent: scotch-whisky
   slug: benromach-12-year-old-single-malt-scotch-whisky
   type: ingredient
+
 - display_name: Bowmore 12-Year Scotch Whisky
   parent: scotch-whisky
   slug: bowmore-12-year-scotch-whisky
   type: ingredient
+
 - display_name: Bruichladdich Port Charlotte 7-Year Scotch Whisky
   parent: scotch-whisky
   slug: bruichladdich-port-charlotte-7-year-scotch-whisky
   type: ingredient
+
 - display_name: Caol Ila 12-Year Scotch Whisky
   parent: scotch-whisky
   slug: caol-ila-12-year-scotch-whisky
   type: ingredient
+
 - display_name: Chivas Regal 12-Year-Old Blended Scotch Whisky
   parent: scotch-whisky
   slug: chivas-regal-12-year-old-blended-scotch-whisky
   type: ingredient
+
 - display_name: Compass Box Asyla Blended Scotch Whisky
   parent: scotch-whisky
   slug: compass-box-asyla-blended-scotch-whisky
   type: ingredient
+
 - display_name: Compass Box Asyla Scotch Whisky
   parent: scotch-whisky
   slug: compass-box-asyla-scotch-whisky
   type: ingredient
+
 - display_name: Compass Box Oak Cross Blended Malt Scotch Whisky
   parent: scotch-whisky
   slug: compass-box-oak-cross-blended-malt-scotch-whisky
   type: ingredient
+
 - display_name: Compass Box Peat Monster Blended Malt Scotch Whisky
   parent: scotch-whisky
   slug: compass-box-peat-monster-blended-malt-scotch-whisky
   type: ingredient
+
 - display_name: Famous Grouse Blended Scotch Whisky
   parent: scotch-whisky
   slug: famous-grouse-blended-scotch-whisky
   type: ingredient
+
 - display_name: Famous Grouse Scotch Whisky
   parent: scotch-whisky
   slug: famous-grouse-scotch-whisky
   type: ingredient
+
 - display_name: Full-bodied Scotch Whisky
   parent: scotch-whisky
   slug: full-bodied-scotch-whisky
   type: ingredient
+
 - display_name: Glenlivet 12-Year-Old Single Malt Scotch Whisky
   parent: scotch-whisky
   slug: glenlivet-12-year-old-single-malt-scotch-whisky
   type: ingredient
+
 - display_name: Highland Park 12-Year Scotch Whisky
   parent: scotch-whisky
   slug: highland-park-12-year-scotch-whisky
   type: ingredient
+
 - display_name: Highlands Malt Scotch Whisky
   parent: scotch-whisky
   slug: highlands-malt-scotch-whisky
   type: ingredient
+
 - display_name: Laphraoig Islay Whisky
   parent: scotch-whisky
   slug: laphraoig-islay-whisky
   type: ingredient
+
 - display_name: Laphroaig 10-Year-Old Single Malt Scotch Whisky
   parent: scotch-whisky
   slug: laphroaig-10-year-old-single-malt-scotch-whisky
   type: ingredient
+
 - display_name: Laphroaig 10-Year Scotch Whisky
   parent: scotch-whisky
   slug: laphroaig-10-year-scotch-whisky
   type: ingredient
+
 - display_name: Laphroaig 12-Year Scotch Whisky
   parent: scotch-whisky
   slug: laphroaig-12-year-scotch-whisky
   type: ingredient
+
 - display_name: Macallan Fine Oak 10-Year Scotch Whisky
   parent: scotch-whisky
   slug: macallan-fine-oak-10-year-scotch-whisky
   type: ingredient
+
 - display_name: Oban 14-Year-Old Single Malt Scotch Whisky
   parent: scotch-whisky
   slug: oban-14-year-old-single-malt-scotch-whisky
   type: ingredient
+
 - display_name: Scotch Whisky (warmed)
   parent: scotch-whisky
   slug: scotch-whisky-warmed
   type: ingredient
+
 - display_name: Smoky Blended Scotch Whisky
   parent: scotch-whisky
   slug: smoky-blended-scotch-whisky
   type: ingredient
+
 - display_name: Talisker 10-Year-Old Single Malt Scotch Whisky
   parent: scotch-whisky
   slug: talisker-10-year-old-single-malt-scotch-whisky
   type: ingredient
+
 - display_name: Tennessee Whiskey
   parent: whisk-e-y
   slug: tennessee-whiskey
   type: ingredient
+
 - display_name: George Dickel No. 12 Tennessee Whiskey
   parent: tennessee-whiskey
   slug: george-dickel-no-12-tennessee-whiskey
   type: ingredient
+
 - display_name: Jack Daniel's Tennessee Whiskey
   parent: tennessee-whiskey
   slug: jack-daniel-s-tennessee-whiskey
   type: ingredient
+
 - display_name: Whiskey
   parent: whisk-e-y
   slug: whiskey
   type: ingredient
+
 - display_name: Sweet
   slug: sweet
   type: category
+
 - display_name: Chocolate
   parent: sweet
   slug: chocolate
   type: family
+
 - display_name: Cocoa Powder (unsweetened)
   parent: chocolate
   slug: cocoa-powder-unsweetened
   type: ingredient
+
 - display_name: Hershey's Unsweetened Cocoa Powder
   parent: cocoa-powder-unsweetened
   slug: hershey-s-unsweetened-cocoa-powder
   type: ingredient
+
 - display_name: Honey
   parent: sweet
   slug: honey
   type: family
-- display_name: Honey
-  parent: honey
-  slug: honey
-  type: ingredient
-- display_name: Ice
+
+- display_name: Frozen
   parent: sweet
-  slug: ice
+  slug: frozen
   type: family
+
 - display_name: Italian Ice
-  parent: ice
+  parent: frozen
   slug: italian-ice
   type: ingredient
+
 - display_name: Lemon Italian Ice
   parent: italian-ice
   slug: lemon-italian-ice
   type: ingredient
+
 - display_name: Sorbet
-  parent: ice
+  parent: frozen
   slug: sorbet
   type: ingredient
+
 - display_name: Ciao Bella Coconut Sorbet
   parent: sorbet
   slug: ciao-bella-coconut-sorbet
   type: ingredient
+
 - display_name: Liqueur
   parent: sweet
   slug: liqueur
   type: family
+
 - display_name: "Aliz\xE9 Gold Passion"
   parent: liqueur
   slug: alize-gold-passion
   type: ingredient
+
 - display_name: "Aliz\xE9 Red Passion"
   parent: liqueur
   slug: alize-red-passion
   type: ingredient
+
 - display_name: Allspice Dram
   parent: liqueur
   slug: allspice-dram
   type: ingredient
+
 - display_name: St. Elizabeth Allspice Dram
   parent: allspice-dram
   slug: st-elizabeth-allspice-dram
   type: ingredient
+
 - display_name: Amaretto
   parent: liqueur
   slug: amaretto
   type: ingredient
+
 - display_name: Amaretto Di Saronno
   parent: amaretto
   slug: amaretto-di-saronno
   type: ingredient
+
 - display_name: Lazzaroni Amaretto
   parent: amaretto
   slug: lazzaroni-amaretto
   type: ingredient
+
 - display_name: Luxardo Amaretto
   parent: amaretto
   slug: luxardo-amaretto
   type: ingredient
+
 - display_name: Aperol
   parent: liqueur
   slug: aperol
   type: ingredient
+
 - display_name: Apricot Liqueur
   parent: liqueur
   slug: apricot-liqueur
   type: ingredient
+
 - display_name: Marie Brizard Apricot Liqueur
   parent: apricot-liqueur
   slug: marie-brizard-apricot-liqueur
   type: ingredient
+
 - display_name: Marie Brizard Apry
   parent: apricot-liqueur
   slug: marie-brizard-apry
   type: ingredient
+
 - display_name: Rothman & Winter Apricot Liqueur
   parent: apricot-liqueur
   slug: rothman-winter-apricot-liqueur
   type: ingredient
+
 - display_name: Rothman & Winter Orchard Apricot Liqueur
   parent: apricot-liqueur
   slug: rothman-winter-orchard-apricot-liqueur
   type: ingredient
+
 - display_name: Bacardi Tropico
   parent: liqueur
   slug: bacardi-tropico
   type: ingredient
+
 - display_name: Banana Liqueur
   parent: liqueur
   slug: banana-liqueur
   type: ingredient
+
 - display_name: Marie Brizard Banana Liqueur
   parent: banana-liqueur
   slug: marie-brizard-banana-liqueur
   type: ingredient
+
 - display_name: Becherovka Liqueur
   parent: liqueur
   slug: becherovka-liqueur
   type: ingredient
+
 - display_name: "B\xE9n\xE9dictine"
   parent: liqueur
   slug: benedictine
   type: ingredient
+
 - display_name: Berentzen's Apple Liqueur
   parent: liqueur
   slug: berentzen-s-apple-liqueur
   type: ingredient
+
 - display_name: Blackberry Liqueur
   parent: liqueur
   slug: blackberry-liqueur
   type: ingredient
+
 - display_name: "Cr\xE8me De Mure (blackberry Liqueur)"
   parent: blackberry-liqueur
   slug: creme-de-mure-blackberry-liqueur
   type: ingredient
+
 - display_name: Marie Brizard Blackberry Liqueur
   parent: blackberry-liqueur
   slug: marie-brizard-blackberry-liqueur
   type: ingredient
+
 - display_name: "Massenez Cr\xE8me De M\xFBre Blackberry Liqueur"
   parent: blackberry-liqueur
   slug: massenez-creme-de-mure-blackberry-liqueur
   type: ingredient
+
 - display_name: Blood Orange Liqueur
   parent: liqueur
   slug: blood-orange-liqueur
   type: ingredient
+
 - display_name: Solerno Blood Orange Liqueur
   parent: blood-orange-liqueur
   slug: solerno-blood-orange-liqueur
   type: ingredient
+
 - display_name: "Blue Cura\xE7ao"
   parent: liqueur
   slug: blue-curacao
   type: ingredient
+
 - display_name: Cherry Heering
   parent: liqueur
   slug: cherry-heering
   type: ingredient
+
 - display_name: Peter Heering Cherry Heering
   parent: cherry-heering
   slug: peter-heering-cherry-heering
   type: ingredient
+
 - display_name: Cherry Liqueur
   parent: liqueur
   slug: cherry-liqueur
   type: ingredient
+
 - display_name: Marie Brizard Cherry Liqueur
   parent: cherry-liqueur
   slug: marie-brizard-cherry-liqueur
   type: ingredient
+
 - display_name: Rothman & Winter Cherry Liqueur
   parent: cherry-liqueur
   slug: rothman-winter-cherry-liqueur
   type: ingredient
+
 - display_name: Chocolate Liqueur
   parent: liqueur
   slug: chocolate-liqueur
   type: ingredient
+
 - display_name: Godiva Liqueur (dark)
   parent: chocolate-liqueur
   slug: godiva-liqueur-dark
   type: ingredient
+
 - display_name: Godiva Original Liqueur
   parent: chocolate-liqueur
   slug: godiva-original-liqueur
   type: ingredient
+
 - display_name: Coconut Liqueur
   parent: liqueur
   slug: coconut-liqueur
   type: ingredient
+
 - display_name: Kalani Ron De Coco Coconut Liqueur
   parent: coconut-liqueur
   slug: kalani-ron-de-coco-coconut-liqueur
   type: ingredient
+
 - display_name: Coffee Liqueur
   parent: liqueur
   slug: coffee-liqueur
   type: ingredient
+
 - display_name: Galliano Ristretto
   parent: coffee-liqueur
   slug: galliano-ristretto
   type: ingredient
+
 - display_name: Illy Espresso Liqueur
   parent: coffee-liqueur
   slug: illy-espresso-liqueur
   type: ingredient
+
 - display_name: "Cr\xE8me De Banane"
   parent: liqueur
   slug: creme-de-banane
   type: ingredient
+
 - display_name: "Green Cr\xE8me De Banane"
   parent: creme-de-banane
   slug: green-creme-de-banane
   type: ingredient
+
 - display_name: "Marie Brizard Cr\xE8me De Banane"
   parent: creme-de-banane
   slug: marie-brizard-creme-de-banane
   type: ingredient
+
 - display_name: "Cr\xE8me De Cacao"
   parent: liqueur
   slug: creme-de-cacao
   type: ingredient
+
 - display_name: "Dark Cr\xE8me De Cacao"
   parent: creme-de-cacao
   slug: dark-creme-de-cacao
   type: ingredient
+
 - display_name: "Marie Brizard Cr\xE8me De Cacao"
   parent: creme-de-cacao
   slug: marie-brizard-creme-de-cacao
   type: ingredient
+
 - display_name: "Marie Brizard Dark Cr\xE8me De Cacao"
   parent: creme-de-cacao
   slug: marie-brizard-dark-creme-de-cacao
   type: ingredient
+
 - display_name: "Marie Brizard White Cr\xE8me De Cacao"
   parent: creme-de-cacao
   slug: marie-brizard-white-creme-de-cacao
   type: ingredient
-- display_name: "Marie Brizard White Cr\xE8me De Cacao."
-  parent: creme-de-cacao
-  slug: marie-brizard-white-creme-de-cacao
-  type: ingredient
+
 - display_name: "White Cr\xE8me De Cacao"
   parent: creme-de-cacao
   slug: white-creme-de-cacao
   type: ingredient
+
 - display_name: "Cr\xE8me De Cassis"
   parent: liqueur
   slug: creme-de-cassis
   type: ingredient
+
 - display_name: "Theuriet Cr\xE8me De Cassis"
   parent: creme-de-cassis
   slug: theuriet-creme-de-cassis
   type: ingredient
+
 - display_name: "Cr\xE8me De Menthe"
   parent: liqueur
   slug: creme-de-menthe
   type: ingredient
+
 - display_name: "Green Cr\xE8me De Menthe"
   parent: creme-de-menthe
   slug: green-creme-de-menthe
   type: ingredient
+
 - display_name: "Marie Brizard White Cr\xE8me De Menthe"
   parent: creme-de-menthe
   slug: marie-brizard-white-creme-de-menthe
   type: ingredient
+
 - display_name: "White Cr\xE8me De Menthe"
   parent: creme-de-menthe
   slug: white-creme-de-menthe
   type: ingredient
+
 - display_name: "Cr\xE8me De Noyaux"
   parent: liqueur
   slug: creme-de-noyaux
   type: ingredient
+
 - display_name: "Cr\xE8me De Violette"
   parent: liqueur
   slug: creme-de-violette
   type: ingredient
+
 - display_name: "Cr\xE8me Yvette"
   parent: creme-de-violette
   slug: creme-yvette
   type: ingredient
+
 - display_name: "Rothman & Winter Cr\xE8me De Violette"
   parent: creme-de-violette
   slug: rothman-winter-creme-de-violette
   type: ingredient
+
 - display_name: "Cura\xE7ao"
   parent: liqueur
   slug: curacao
   type: ingredient
+
 - display_name: "Gabriel Boudier Cura\xE7ao"
   parent: curacao
   slug: gabriel-boudier-curacao
   type: ingredient
+
 - display_name: "Marie Brizard Orange Cura\xE7ao"
   parent: curacao
   slug: marie-brizard-orange-curacao
   type: ingredient
+
 - display_name: "Pierre Ferrand Dry Cura\xE7ao"
   parent: curacao
   slug: pierre-ferrand-dry-curacao
   type: ingredient
+
 - display_name: 'Donn''s Spices #2'
   parent: liqueur
   slug: donn-s-spices-2
   type: ingredient
+
 - display_name: Drambuie
   parent: liqueur
   slug: drambuie
   type: ingredient
+
 - display_name: "\xC9lixir Combier"
   parent: liqueur
   slug: elixir-combier
   type: ingredient
+
 - display_name: Frangelico
   parent: liqueur
   slug: frangelico
   type: ingredient
+
 - display_name: Galliano
   parent: liqueur
   slug: galliano
   type: ingredient
+
 - display_name: Galliano L'Autentico
   parent: galliano
   slug: galliano-l-autentico
   type: ingredient
+
 - display_name: "G\xE9n\xE9pi"
   parent: liqueur
   slug: genepi
   type: ingredient
+
 - display_name: "Dolin G\xE9n\xE9py Des Alpes Liqueur"
   parent: genepi
   slug: dolin-genepy-des-alpes-liqueur
   type: ingredient
+
 - display_name: Gentian Liqueur
   parent: liqueur
   slug: gentian-liqueur
   type: ingredient
+
 - display_name: Bonal Gentiane-Quina
   parent: gentian-liqueur
   slug: bonal-gentiane-quina
   type: ingredient
+
 - display_name: Salers Gentiane Aperitif
   parent: gentian-liqueur
   slug: salers-gentiane-aperitif
   type: ingredient
+
 - display_name: Suze Saveur D'Autrefois Liqueur
   parent: gentian-liqueur
   slug: suze-saveur-d-autrefois-liqueur
   type: ingredient
+
 - display_name: Ginger Liqueur
   parent: liqueur
   slug: ginger-liqueur
   type: ingredient
+
 - display_name: Canton Ginger Liqueur
   parent: ginger-liqueur
   slug: canton-ginger-liqueur
   type: ingredient
+
 - display_name: Grand Marnier
   parent: liqueur
   slug: grand-marnier
   type: ingredient
+
 - display_name: Grapefruit Liqueur
   parent: liqueur
   slug: grapefruit-liqueur
   type: ingredient
+
 - display_name: Combier Pamplemousse Rose Liqueur
   parent: grapefruit-liqueur
   slug: combier-pamplemousse-rose-liqueur
   type: ingredient
+
 - display_name: Green Chartreuse
   parent: liqueur
   slug: green-chartreuse
   type: ingredient
+
 - display_name: Honey Liqueur
   parent: liqueur
   slug: honey-liqueur
   type: ingredient
+
 - display_name: 42 Below Manuka Honey Vodka
   parent: honey-liqueur
   slug: 42-below-manuka-honey-vodka
   type: ingredient
+
 - display_name: "B\xE4renj\xE4ger Honey Liqueur"
   parent: honey-liqueur
   slug: barenjager-honey-liqueur
   type: ingredient
+
 - display_name: "B\xE4renj\xE4ger Honey Liqueur Honey Liqueur"
   parent: honey-liqueur
   slug: barenjager-honey-liqueur-honey-liqueur
   type: ingredient
+
 - display_name: Nonino Gioiello
   parent: honey-liqueur
   slug: nonino-gioiello
   type: ingredient
+
 - display_name: Irish Mist
   parent: liqueur
   slug: irish-mist
   type: ingredient
+
 - display_name: "Kahl\xFAa"
   parent: liqueur
   slug: kahlua
   type: ingredient
+
 - display_name: Licor 43
   parent: liqueur
   slug: licor-43
   type: ingredient
+
 - display_name: Limoncello
   parent: liqueur
   slug: limoncello
   type: ingredient
+
 - display_name: "Mandarine Napol\xE9on Liqueur"
   parent: liqueur
   slug: mandarine-napoleon-liqueur
   type: ingredient
+
 - display_name: Maraschino Liqueur
   parent: liqueur
   slug: maraschino-liqueur
   type: ingredient
+
 - display_name: Luxardo Maraschino Liqueur
   parent: maraschino-liqueur
   slug: luxardo-maraschino-liqueur
   type: ingredient
+
 - display_name: Maraska Maraschino Liqueur
   parent: maraschino-liqueur
   slug: maraska-maraschino-liqueur
   type: ingredient
+
 - display_name: Metaxa
   parent: liqueur
   slug: metaxa
   type: ingredient
+
 - display_name: Midori
   parent: liqueur
   slug: midori
   type: ingredient
+
 - display_name: Orange Liqueur
   parent: liqueur
   slug: orange-liqueur
   type: ingredient
+
 - display_name: Santa Teresa Orange Liqueur
   parent: orange-liqueur
   slug: santa-teresa-orange-liqueur
   type: ingredient
+
 - display_name: Parfait Amour
   parent: liqueur
   slug: parfait-amour
   type: ingredient
+
 - display_name: Marie Brizard Parfait Amour
   parent: parfait-amour
   slug: marie-brizard-parfait-amour
   type: ingredient
+
 - display_name: Passion Fruit Liqueur
   parent: liqueur
   slug: passion-fruit-liqueur
   type: ingredient
+
 - display_name: Passoa Passion-fruit Liqueur
   parent: passion-fruit-liqueur
   slug: passoa-passion-fruit-liqueur
   type: ingredient
+
 - display_name: Patxaran Liqueur
   parent: liqueur
   slug: patxaran-liqueur
   type: ingredient
+
 - display_name: "Zoco Pachar\xE1n Navarro Liqueur"
   parent: patxaran-liqueur
   slug: zoco-pacharan-navarro-liqueur
   type: ingredient
+
 - display_name: Peach Liqueur
   parent: liqueur
   slug: peach-liqueur
   type: ingredient
+
 - display_name: Marie Brizard Peach Liqueur
   parent: peach-liqueur
   slug: marie-brizard-peach-liqueur
   type: ingredient
+
 - display_name: "Massenez Cr\xE8me De P\xEAche Peach Liqueur"
   parent: peach-liqueur
   slug: massenez-creme-de-peche-peach-liqueur
   type: ingredient
+
 - display_name: "Mathilde P\xEAche Liqueur"
   parent: peach-liqueur
   slug: mathilde-peche-liqueur
   type: ingredient
+
 - display_name: Peachtree Schnapps
   parent: peach-liqueur
   slug: peachtree-schnapps
   type: ingredient
+
 - display_name: Pear Liqueur
   parent: liqueur
   slug: pear-liqueur
   type: ingredient
+
 - display_name: Belle De Brillet Pear Liqueur
   parent: pear-liqueur
   slug: belle-de-brillet-pear-liqueur
   type: ingredient
+
 - display_name: Mathilde Pear Liqueur
   parent: pear-liqueur
   slug: mathilde-pear-liqueur
   type: ingredient
+
 - display_name: Mathilde Poire Pear Liqueur
   parent: pear-liqueur
   slug: mathilde-poire-pear-liqueur
   type: ingredient
+
 - display_name: Rothman & Winter Orchard Pear Liqueur
   parent: pear-liqueur
   slug: rothman-winter-orchard-pear-liqueur
   type: ingredient
+
 - display_name: Rothman & Winter Pear Liqueur
   parent: pear-liqueur
   slug: rothman-winter-pear-liqueur
   type: ingredient
+
 - display_name: Pendennis Mix
   parent: liqueur
   slug: pendennis-mix
   type: ingredient
+
 - display_name: Pimm's No. 1
   parent: liqueur
   slug: pimm-s-no-1
   type: ingredient
+
 - display_name: Pimms No. 1
   parent: liqueur
   slug: pimms-no-1
   type: ingredient
+
 - display_name: Pimms No. 1 Cup
   parent: pimms-no-1
   slug: pimms-no-1-cup
   type: ingredient
+
 - display_name: Pineau Des Charentes
   parent: liqueur
   slug: pineau-des-charentes
   type: ingredient
+
 - display_name: De Fussigny Pineau Des Charentes
   parent: pineau-des-charentes
   slug: de-fussigny-pineau-des-charentes
   type: ingredient
+
 - display_name: Pasquet Pineau Des Charentes
   parent: pineau-des-charentes
   slug: pasquet-pineau-des-charentes
   type: ingredient
+
 - display_name: Pine Liqueur
   parent: liqueur
   slug: pine-liqueur
   type: ingredient
+
 - display_name: Zirbenz Stone Pine Liqueur
   parent: pine-liqueur
   slug: zirbenz-stone-pine-liqueur
   type: ingredient
+
 - display_name: Pomegranate Liqueur
   parent: liqueur
   slug: pomegranate-liqueur
   type: ingredient
+
 - display_name: Pama Pomegranate Liqueur
   parent: pomegranate-liqueur
   slug: pama-pomegranate-liqueur
   type: ingredient
+
 - display_name: Raspberry Liqueur
   parent: liqueur
   slug: raspberry-liqueur
   type: ingredient
+
 - display_name: Chambord Raspberry Liqueur
   parent: raspberry-liqueur
   slug: chambord-raspberry-liqueur
   type: ingredient
+
 - display_name: Rose Liqueur
   parent: liqueur
   slug: rose-liqueur
   type: ingredient
+
 - display_name: Koval Rose Hip Liqueur
   parent: rose-liqueur
   slug: koval-rose-hip-liqueur
   type: ingredient
+
 - display_name: Royal Combier Liqueur
   parent: liqueur
   slug: royal-combier-liqueur
   type: ingredient
+
 - display_name: "Saint-Rapha\xEBl Ap\xE9rtif De France"
   parent: liqueur
   slug: saint-raphael-apertif-de-france
   type: ingredient
+
 - display_name: Sour Apple Pucker
   parent: liqueur
   slug: sour-apple-pucker
   type: ingredient
+
 - display_name: Southern Comfort
   parent: liqueur
   slug: southern-comfort
   type: ingredient
-- display_name: St-Germain
+
+- display_name: Elderflower Liqueur
   parent: liqueur
-  slug: st-germain
+  slug: elderflower-liqueur
   type: ingredient
-- display_name: St. Germain Elderflower Liqueur
-  parent: st-germain
+
+- display_name: St-Germain Elderflower Liqueur
+  parent: elderflower-liqueur
   slug: st-germain-elderflower-liqueur
   type: ingredient
-- display_name: St. Germain-Elderflower Liqueur
-  parent: st-germain
-  slug: st-germain-elderflower-liqueur
-  type: ingredient
+
 - display_name: Strawberry Liqueur
   parent: liqueur
   slug: strawberry-liqueur
   type: ingredient
+
 - display_name: Marie Brizard Strawberry Liqueur
   parent: strawberry-liqueur
   slug: marie-brizard-strawberry-liqueur
   type: ingredient
+
 - display_name: "Merlet Cr\xE8me De Fraise Des Bois Strawberry Liqueur"
   parent: strawberry-liqueur
   slug: merlet-creme-de-fraise-des-bois-strawberry-liqueur
   type: ingredient
+
 - display_name: Strega Liqueur
   parent: liqueur
   slug: strega-liqueur
   type: ingredient
+
 - display_name: Triple Sec
   parent: liqueur
   slug: triple-sec
   type: ingredient
+
 - display_name: Cointreau
   parent: triple-sec
   slug: cointreau
   type: ingredient
+
 - display_name: Tuaca
   parent: liqueur
   slug: tuaca
   type: ingredient
+
 - display_name: Vanilla Liqueur
   parent: liqueur
   slug: vanilla-liqueur
   type: ingredient
+
 - display_name: Navan Vanilla Liqueur
   parent: vanilla-liqueur
   slug: navan-vanilla-liqueur
   type: ingredient
+
 - display_name: Walnut Liqueur
   parent: liqueur
   slug: walnut-liqueur
   type: ingredient
+
 - display_name: Monteverdi Nocino Walnut Liqueur
   parent: walnut-liqueur
   slug: monteverdi-nocino-walnut-liqueur
   type: ingredient
+
 - display_name: Yellow Chartreuse
   parent: liqueur
   slug: yellow-chartreuse
   type: ingredient
+
 - display_name: Zwack Liqueur
   parent: liqueur
   slug: zwack-liqueur
   type: ingredient
+
 - display_name: Sugar
   parent: sweet
   slug: sugar
   type: family
-- display_name: Sugar
-  parent: sugar
-  slug: sugar
-  type: ingredient
+
 - display_name: Angostura Bitters-soaked Demerara Sugar
   parent: sugar
   slug: angostura-bitters-soaked-demerara-sugar
   type: ingredient
+
 - display_name: Demerara Sugar
   parent: sugar
   slug: demerara-sugar
   type: ingredient
+
 - display_name: Fine White Sugar
   parent: sugar
   slug: fine-white-sugar
   type: ingredient
+
 - display_name: White Sugar
   parent: sugar
   slug: white-sugar
   type: ingredient
+
 - display_name: Syrup
   parent: sweet
   slug: syrup
   type: family
+
 - display_name: Agave Nectar
   parent: syrup
   slug: agave-nectar
   type: ingredient
+
 - display_name: Agave Syrup
   parent: agave-nectar
   slug: agave-syrup
   type: ingredient
+
 - display_name: Brown Sugar Syrup
   parent: syrup
   slug: brown-sugar-syrup
   type: ingredient
+
 - display_name: Demerara Syrup
   parent: brown-sugar-syrup
   slug: demerara-syrup
   type: ingredient
+
 - display_name: Falernum
   parent: syrup
   slug: falernum
   type: ingredient
+
 - display_name: John D. Taylor's Velvet Falernum
   parent: falernum
   slug: john-d-taylor-s-velvet-falernum
   type: ingredient
+
 - display_name: Velvet Falernum
   parent: falernum
   slug: velvet-falernum
   type: ingredient
+
 - display_name: Grenadine
   parent: syrup
   slug: grenadine
   type: ingredient
+
 - display_name: House Grenadine
   parent: grenadine
   slug: house-grenadine
   type: ingredient
+
 - display_name: Gum Syrup
   parent: syrup
   slug: gum-syrup
   type: ingredient
+
 - display_name: Honey Syrup
   parent: syrup
   slug: honey-syrup
   type: ingredient
+
 - display_name: Acacia Honey Syrup
   parent: honey-syrup
   slug: acacia-honey-syrup
   type: ingredient
+
 - display_name: Infused Syrup
   parent: syrup
   slug: infused-syrup
   type: ingredient
+
 - display_name: Banana Syrup
   parent: infused-syrup
   slug: banana-syrup
   type: ingredient
+
 - display_name: Black Cardamom Syrup
   parent: infused-syrup
   slug: black-cardamom-syrup
   type: ingredient
+
 - display_name: Braeburn Apple Syrup
   parent: infused-syrup
   slug: braeburn-apple-syrup
   type: ingredient
+
 - display_name: Cinnamon Bark Syrup
   parent: infused-syrup
   slug: cinnamon-bark-syrup
   type: ingredient
+
 - display_name: Clove Syrup
   parent: infused-syrup
   slug: clove-syrup
   type: ingredient
+
 - display_name: Cumin Syrup
   parent: infused-syrup
   slug: cumin-syrup
   type: ingredient
+
 - display_name: Curried Ginger Syrup
   parent: infused-syrup
   slug: curried-ginger-syrup
   type: ingredient
+
 - display_name: Espresso-Infused Demerara Syrup
   parent: infused-syrup
   slug: espresso-infused-demerara-syrup
   type: ingredient
+
 - display_name: Eurovanille Vanilla Syrup
   parent: infused-syrup
   slug: eurovanille-vanilla-syrup
   type: ingredient
+
 - display_name: Ginger Syrup
   parent: infused-syrup
   slug: ginger-syrup
   type: ingredient
+
 - display_name: Hibiscus Syrup
   parent: infused-syrup
   slug: hibiscus-syrup
   type: ingredient
+
 - display_name: Lemongrass Syrup
   parent: infused-syrup
   slug: lemongrass-syrup
   type: ingredient
+
 - display_name: Mymoune Rose Syrup
   parent: infused-syrup
   slug: mymoune-rose-syrup
   type: ingredient
+
 - display_name: Passion Fruit Syrup
   parent: infused-syrup
   slug: passion-fruit-syrup
   type: ingredient
+
 - display_name: Scarlet Glow Syrup
   parent: infused-syrup
   slug: scarlet-glow-syrup
   type: ingredient
+
 - display_name: Vanilla Syrup
   parent: infused-syrup
   slug: vanilla-syrup
   type: ingredient
+
 - display_name: Maple Syrup
   parent: syrup
   slug: maple-syrup
   type: ingredient
+
 - display_name: Deep Mountain Grade B Maple Syrup
   parent: maple-syrup
   slug: deep-mountain-grade-b-maple-syrup
   type: ingredient
+
 - display_name: Grade B Maple Syrup
   parent: maple-syrup
   slug: grade-b-maple-syrup
   type: ingredient
+
 - display_name: Orgeat
   parent: syrup
   slug: orgeat
   type: ingredient
+
 - display_name: Kassatly Chtaura Orgeat
   parent: orgeat
   slug: kassatly-chtaura-orgeat
   type: ingredient
+
 - display_name: Pomegranate Molasses
   parent: syrup
   slug: pomegranate-molasses
   type: ingredient
+
 - display_name: Al Wadi Pomegranate Molasses
   parent: pomegranate-molasses
   slug: al-wadi-pomegranate-molasses
   type: ingredient
+
 - display_name: Rice Syrup
   parent: syrup
   slug: rice-syrup
   type: ingredient
+
 - display_name: Ssal-Yut Rice Syrup
   parent: rice-syrup
   slug: ssal-yut-rice-syrup
   type: ingredient
+
 - display_name: Rich Syrup
   parent: syrup
   slug: rich-syrup
   type: ingredient
+
 - display_name: Rich Cane Sugar Syrup
   parent: rich-syrup
   slug: rich-cane-sugar-syrup
   type: ingredient
+
 - display_name: Rich Demerara Syrup
   parent: rich-syrup
   slug: rich-demerara-syrup
   type: ingredient
+
 - display_name: Simple Syrup
   parent: syrup
   slug: simple-syrup
   type: ingredient
+
 - display_name: Caramelized Simple Syrup
   parent: simple-syrup
   slug: caramelized-simple-syrup
   type: ingredient
+
 - display_name: Sugar Cane Syrup
   parent: syrup
   slug: sugar-cane-syrup
   type: ingredient
+
 - display_name: Martinique Sugar Cane Syrup
   parent: sugar-cane-syrup
   slug: martinique-sugar-cane-syrup
   type: ingredient
+
 - display_name: Tonic Syrup
   parent: syrup
   slug: tonic-syrup
   type: ingredient
+
 - display_name: Zombie Mix
   parent: syrup
   slug: zombie-mix
