@@ -1,0 +1,41 @@
+---
+- name: Normandy Old Fashioned
+  status: green
+  origin:
+    creator: Erik Hakkinen
+    venue: Roquette
+    location: Seattle WA
+    story: >-
+      French and American apple brandies form a rich foundation for this
+      simple cocktail.
+  spec:
+      glassware: rocks
+      ingredients:
+        - name: domaine du manoir de montreuil reserve
+          quantity: 1.5
+          unit: oz
+        - name: lairds 7.5 year apple brandy
+          quantity: 1.5
+          unit: oz
+        - name: 2:1 simple syrup
+          quantity: .25
+          unit: oz
+        - name: angostura bitters
+          quantity: 2
+          unit: dash
+        - name: orange bitters
+          quantity: 1
+          unit: dash
+        - name: pimento bitters
+          quantity: 1
+          unit: dash
+      instructions:
+        - stir all of the ingredients with ice o chill, strain into a glass over a single large ice cube
+      garnish:
+        - orange twist
+        - cherry
+      straw: false
+      citations:
+        - title: Imbibe Magazine
+          date: 2019-01
+          page: 57

@@ -1,0 +1,43 @@
+---
+- name: Blackthorn
+  status: green
+  origin:
+    location: New Orleans LA
+    era: 1800s
+    story: >-
+      With vague roots in 19th century New Orleans, the Blackthorn is one of
+      the few classic cocktails to highlight Irish whiskey.
+  spec:
+    - name: Lazy Bird
+      origin:
+        creator: Lee Zaremba
+        venue: Lazy Bird
+        location: Chicago IL
+      glassware: rocks
+      ingredients:
+        - name: knappogue 12 year irish whiskey
+          quantity: 2
+          unit: oz
+        - name: dry vermouth
+          quantity: .5
+          unit: oz
+        - name: sweet vermouth
+          quantity: .5
+          unit: oz
+        - name: angostura bitters
+          quantity: 2
+          unit: dash
+        - name: absinthe
+          quantity: 1
+          unit: dash
+      instructions:
+        - stir all ingredients with ice, then strain into a glass filled with fresh ice
+      garnish:
+        - lemon twist
+      straw: false
+      citations:
+        - title: Imbibe Magazine
+          date: 2019-01
+          page: 81
+  notes:
+    - i want to like this more, but it came out somewhat watery. Did with Dead Rabbit.
