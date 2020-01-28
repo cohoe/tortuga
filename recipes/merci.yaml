@@ -23,6 +23,7 @@
         - name: cardamaro
           quantity: .75
           unit: oz
+      construction: stir
       instructions:
         - stir all ingredients over ice and strain into a chilled coupe glass
       straw: false

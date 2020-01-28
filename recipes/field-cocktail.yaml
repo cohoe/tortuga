@@ -19,6 +19,7 @@
         - name: pineapple juice
           quantity: .75
           unit: oz
+      construction: stir
       instructions:
         - stir with ice then strain into a chilled coupe
       garnish:

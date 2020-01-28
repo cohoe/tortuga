@@ -33,6 +33,7 @@
         - name: house peychauds bitters
           quantity: 1
           unit: oz
+      construction: shake
       instructions:
         - shake all the ingredients with ice, then strain into a highball glass filled with ice cubes
       garnish:

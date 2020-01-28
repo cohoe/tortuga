@@ -15,6 +15,7 @@
         - name: demerara sugar
           quantity: 2
           unit: barspoon
+      construction: shake
       instructions:
         - muddle the lime and sugar, then add the Cachaça
         - shake with ice and pour unstrained into a chilled rocks glass

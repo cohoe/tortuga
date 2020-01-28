@@ -21,6 +21,7 @@
         - name: lime juice
           quantity: .5
           unit: oz
+      construction: build
       instructions:
         - build in a chilled mule mug, then fill with ice cubes
       garnish:
@@ -50,6 +51,7 @@
           quantity: .75
           unit: oz
         - name: club soda
+      construction: shake
       instructions:
         - short shake all the ingredients (except the club soda) with 3 ice cubes, then strain into a highball glass filled with ice cubes
         - top with club soda

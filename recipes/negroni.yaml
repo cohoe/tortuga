@@ -16,6 +16,7 @@
         - name: sweet vermouth
           quantity: 1
           unit: oz
+      construction: stir
       instructions:
         - stir all the ingredients with ice, then strain into a rocks glass with a large ice cube
       garnish:

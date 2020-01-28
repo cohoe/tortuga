@@ -15,6 +15,7 @@
         - name: orange bitters
           quantity: 1
           unit: dash
+      construction: stir
       instructions:
         - stir all the ingredients with ice, then strain into a chilled martini glass
       garnish:

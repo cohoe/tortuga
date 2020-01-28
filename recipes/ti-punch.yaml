@@ -16,6 +16,7 @@
         - name: cane sugar syrup
           quantity: 1
           unit: tsp
+      construction: stir
       instructions:
         - in a rocks glass, muddle the lime and cane syrup until the lime is well juiced
         - add the rum and cracked ice and stir until cold

@@ -35,6 +35,7 @@
         - name: simple syrup
           quantity: .25
           unit: oz
+      construction: shake
       instructions:
         - combine all the ingredients in a shaker with ice and shake until chilled
         - double strain into a chilled coupe

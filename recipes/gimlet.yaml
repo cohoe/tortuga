@@ -18,6 +18,7 @@
         - name: lime juice
           quantity: .5
           unit: oz
+      construction: shake
       instructions:
         - muddle two lime wedges in the syrup and add to a shaker with the rest of the ingredients including juice
         - shake with ice and fine-strain into a glass
@@ -38,6 +39,7 @@
         - name: lime juice
           quantity: 1
           unit: oz
+      construction: shake
       instructions:
         - shake with ice and strain into a glass
       straw: false

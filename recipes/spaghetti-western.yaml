@@ -22,6 +22,7 @@
         - name: house orange bitters
           quantity: 1
           unit: dash
+      construction: stir
       instructions:
         - stir all the ingredients over ice, then strain into an old-fashioned glass over 1 large ice cube
       garnish:

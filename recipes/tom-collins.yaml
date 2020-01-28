@@ -26,6 +26,7 @@
           quantity: .75
           unit: oz
         - name: club soda
+      construction: shake
       instructions:
         - short shake all the ingredients (except the club soda) with 3 ice cubes, then strain into a highball glass filled with ice cubes
         - top with club soda

@@ -24,6 +24,7 @@
         - name: lime juice
           quantity: .5
           unit: oz
+      construction: shake
       instructions:
         - combine all ingredients with a few pieces of pebble ice
         - whip shake until melted then pour into a collins glass

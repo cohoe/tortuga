@@ -33,6 +33,7 @@
         - name: lime juice
           quantity: .25
           unit: oz
+      construction: shake
       instructions:
         - combine all ingredients in a mixing tin and shake with ice
         - strain into a chilled coupe or cocktail glass

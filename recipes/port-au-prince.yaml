@@ -33,6 +33,7 @@
         - name: bittermens elemakule tiki bitters
           quantity: 6
           unit: drop
+      construction: shake
       instructions:
         - short shake all the ingredients with 3 ice cubes, then strain into a pilsner glass filled with crushed ice
       garnish:

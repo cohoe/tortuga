@@ -30,6 +30,7 @@
         - name: absinthe
           quantity: 1
           unit: dash
+      construction: stir
       instructions:
         - stir all ingredients with ice, then strain into a glass filled with fresh ice
       garnish:

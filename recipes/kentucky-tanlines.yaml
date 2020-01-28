@@ -30,6 +30,7 @@
         - name: angostura bitters
           quantity: 1
           unit: dash
+      construction: shake
       instructions:
         - shake all ingredients with ice, then strain into a rocks glass over one large ice cube
       garnish:

@@ -27,6 +27,7 @@
         - name: orange bitters
           quantity: 2
           unit: dash
+      construction: stir
       instructions:
         - stir all the ingredients with ice then strain into a rocks glass over one large ice cube
       garnish:
@@ -61,6 +62,7 @@
         - name: mole bitters
           quantity: 1
           unit: dash
+      construction: stir
       instructions:
         - stir all the ingredients with ice then strain into a rocks glass over one large ice cube
       garnish:

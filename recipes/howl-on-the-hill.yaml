@@ -27,6 +27,7 @@
         - name: vieux pontarlier absinthe
           quantity: 1
           unit: dash
+      construction: stir
       instructions:
         - stir all the ingredients over ice, then strain into a coupe
       straw: false

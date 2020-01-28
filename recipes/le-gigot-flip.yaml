@@ -27,6 +27,7 @@
         - name: bittermens xocolatl mole bitters
           quantity: 2
           unit: oz
+      construction: shake
       instructions:
         - dry shake all the ingredients, then shake again with ice
         - double strain into a coupe

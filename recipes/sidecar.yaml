@@ -20,6 +20,7 @@
         - name: simple syrup
           quantity: .25
           unit: oz
+      construction: shake
       instructions:
         - shake with ice, then fine-strain into a chilled coupe
       straw: false

@@ -23,6 +23,7 @@
         - name: orange juice
           quantity: 1
           unit: tsp
+      construction: shake
       instructions:
         - shake well with cracked ice and strain into chilled cocktail glass
       garnish:

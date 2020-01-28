@@ -27,6 +27,7 @@
           unit: oz
         - name: dry champagne
         - name: grapefruit twist
+      construction: shake
       instructions:
         - shake all the ingredients (except the champagne and grapefruit twist) with ice, then strain into a flute
         - top with champagne

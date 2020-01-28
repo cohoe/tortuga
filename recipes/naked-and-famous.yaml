@@ -22,6 +22,7 @@
         - name: lime juice
           quantity: .75
           unit: oz
+      construction: shake
       instructions:
         - shake all the ingredients with ice, then strain into a coupe
       straw: false

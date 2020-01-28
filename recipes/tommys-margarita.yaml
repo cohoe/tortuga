@@ -17,6 +17,7 @@
         - name: agave syrup
           quantity: 1
           unit: oz
+      construction: shake
       instructions:
         - shake with ice, then strain into a rocks glass filled with ice cubes
       straw: false

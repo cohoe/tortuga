@@ -25,6 +25,7 @@
         - name: peychauds bitters
           quantity: 2
           unit: dash
+      construction: shake
       instructions:
         - whip, shake, and dirty pour into a Collins glass
         - fill with fresh pebble ice (mound the top)

@@ -26,6 +26,7 @@
         - name: bittercube vanilla cherry bark bitters
           quantity: 1
           unit: dash
+      construction: shake
       instructions:
         - dry shake all ingredients except the rum
         - add ice then shake to combine

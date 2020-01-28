@@ -29,6 +29,7 @@
         - name: orange juice
           quantity: .5
           unit: oz
+      construction: shake
       instructions:
         - combine all the ingredients in a shaker with ice, then shake to chill
         - double strain into a chilled glass

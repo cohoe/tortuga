@@ -21,6 +21,7 @@
         - name: angostura bitters
           quantity: 1.5
           unit: dash
+      construction: stir
       instructions:
         - build all ingredients in a rocks glass
         - add one large format ice cube

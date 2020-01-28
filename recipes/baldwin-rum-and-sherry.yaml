@@ -31,6 +31,7 @@
         - name: amontillado sherry
           quantity: .25
           unit: oz
+      construction: shake
       instructions:
         - shake all ingredients with ice and strain into a rocks glass over one large ice cube
       garnish:

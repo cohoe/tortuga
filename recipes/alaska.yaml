@@ -17,6 +17,7 @@
         - name: orange bitters
           quantity: 2
           unit: dash
+      construction: stir
       instructions:
         - stir all ingredients over ice and strain into a chilled coupe
       garnish:

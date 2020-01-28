@@ -27,6 +27,7 @@
         - name: peychauds bitters
           quantity: 2
           unit: dash
+      construction: shake
       instructions:
         - shake all ingredients with ice then roll into a stemless wine glass
         - top with crushed ice

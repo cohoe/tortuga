@@ -17,6 +17,7 @@
           quantity: 1
           unit: oz
         - name: prosecco
+      construction: shake
       instructions:
         - combine all ingredients except prosecco and shake with ice
         - strain into an ice-filled highball

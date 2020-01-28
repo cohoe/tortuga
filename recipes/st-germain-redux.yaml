@@ -22,6 +22,7 @@
         - name: club soda
           quantity: 1
           unit: oz
+      construction: stir
       instructions:
         - combine all the ingredients in a wine glass filled with ice cubes and stir until cold
       garnish:

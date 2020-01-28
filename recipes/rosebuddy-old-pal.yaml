@@ -20,6 +20,7 @@
         - name: apricot liqueur
           quantity: .5
           unit: oz
+      construction: stir
       instructions:
         - stir all ingredients in a mixing glass with ice, then strain into a rocks glass over a large ice cube
       straw: false

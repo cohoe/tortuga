@@ -23,6 +23,7 @@
           quantity: .75
           unit: oz
         - name: peychauds bitters
+      construction: shake
       instructions:
         - whip shake with a few pebbles
         - pour over fresh pebble ice in a swizzle glass

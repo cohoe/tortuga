@@ -27,6 +27,7 @@
         - name: maple syrup
           quantity: .25
           unit: oz
+      construction: shake
       instructions:
         - shake all the ingredients with ice, then strain into a coupe
       straw: false

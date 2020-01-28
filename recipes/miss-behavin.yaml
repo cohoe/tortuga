@@ -23,6 +23,7 @@
           quantity: 1
           unit: oz
         - name: dry champagne
+      construction: stir
       instructions:
         - stir all the ingredients (except the champagne) over ice, then strain into a flute
         - top with champagne

@@ -17,39 +17,40 @@
       rum to bring out the sherry's darker, raisiny flavors, and apricot
       liqueur to bring out its fruity notes.
   specs:
-  - name: original
-    glassware: coupe
-    ingredients:
-      - name: appleton estate reserve rum
-        quantity: .5
-        unit: oz
-      - name: lustau amontillado sherry
-        quantity: 1.5
-        unit: oz
-      - name: rothman & winter apricot liqueur
-        quantity: .25
-        unit: oz
-      - name: lemon juice
-        quantity: .75
-        unit: oz
-      - name: cane sugar syrup
-        quantity: .5
-        unit: oz
-      - name: angostura bitters
-        quantity: 1
-        unit: dash
-    instructions:
-      - shake all the ingredients with ice, then strain into a coupe
-    straw: false
-    citations:
-      - title: 'Death & Co: Modern Classic Cocktails'
-        author:
-          - David Kaplan
-          - Nick Fauchald
-          - Alex Day
-        date: 2014-10-07
-        publisher: Ten Speed Press
-        page: 107
+    - name: original
+      glassware: coupe
+      ingredients:
+        - name: appleton estate reserve rum
+          quantity: .5
+          unit: oz
+        - name: lustau amontillado sherry
+          quantity: 1.5
+          unit: oz
+        - name: rothman & winter apricot liqueur
+          quantity: .25
+          unit: oz
+        - name: lemon juice
+          quantity: .75
+          unit: oz
+        - name: cane sugar syrup
+          quantity: .5
+          unit: oz
+        - name: angostura bitters
+          quantity: 1
+          unit: dash
+      construction: shake
+      instructions:
+        - shake all the ingredients with ice, then strain into a coupe
+      straw: false
+      citations:
+        - title: 'Death & Co: Modern Classic Cocktails'
+          author:
+            - David Kaplan
+            - Nick Fauchald
+            - Alex Day
+          date: 2014-10-07
+          publisher: Ten Speed Press
+          page: 107
   citations:
   notes:
     - one

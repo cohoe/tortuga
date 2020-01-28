@@ -23,6 +23,7 @@
         - name: bittercube cherry bark and vanilla bitters
           quantity: 2
           unit: dash
+      construction: stir
       instructions:
         - in a mixing glass, muddle the lemon twist
         - add the remaining ingredients and stir over ice, then strain into a double rocks glass over 1 large ice cube

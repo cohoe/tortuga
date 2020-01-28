@@ -30,6 +30,7 @@
         - name: dry champagne
           quantity: .5
           unit: oz
+      construction: stir
       instructions:
         - stir all the ingredients (except the champagne) over ice, then strain into a coupe
         - top with the champagne

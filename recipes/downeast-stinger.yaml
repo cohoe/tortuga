@@ -20,6 +20,7 @@
         - name: downeast original unfiltered hard cider
           quantity: 4
           unit: oz
+      construction: build
       instructions:
         - build in a pint glass over ice cubes
       garnish:

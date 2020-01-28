@@ -33,6 +33,7 @@
           quantity: 3
           unit: dash
         - name: ginger beer
+      construction: shake
       instructions:
         - combine ingredients in a shaker with ice and shake to chill
         - strain into a Collins glass filled with crushed ice

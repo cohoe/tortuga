@@ -29,6 +29,7 @@
           unit: dash
         - name: lemon twist
           quantity: 1
+      construction: stir
       instructions:
         - rinse a rocks glass with absinthe and dump
         - stir the remaining ingredients (except the lemon twist) over ice, then strain into the glass

@@ -27,6 +27,7 @@
           quantity: .5
           unit: oz
         - name: club soda
+      construction: shake
       instructions:
         - in a shaker, muddle the orange wheel and bitters
         - add the remaining ingredients (except the club soda) and shake with ice, then strain into a highball glass filled with ice cubes

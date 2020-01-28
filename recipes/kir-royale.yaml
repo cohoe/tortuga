@@ -15,6 +15,7 @@
         - name: merlet crème de cassis
           quantity: .25
           unit: oz
+      construction: build
       instructions:
         - build in a flute glass
       garnish:

@@ -29,6 +29,7 @@
         - name: grade b maple syrup
           quantity: .5
           unit: oz
+      construction: shake
       instructions:
         - shake all the ingredients with ice, then strain into a coupe
       straw: false

@@ -31,6 +31,7 @@
         - name: luxardo maraschino liqueur
           quantity: .25
           unit: oz
+      construction: shake
       instructions:
         - short shake all the ingredients (except the maraschino liqueur) with 3 ice cubes, then strain into a pilsner glass filled with crushed ice
         - empty the ice from the shaker and add the blackberries and maraschino liqueur

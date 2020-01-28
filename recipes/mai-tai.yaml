@@ -23,6 +23,7 @@
         - name: pierre ferrand dry curacao
           quantity: .5
           unit: oz
+      construction: shake
       instructions:
         - shake with ice, then strain into a chilled rocks glass filled with pebble ice
       garnish:

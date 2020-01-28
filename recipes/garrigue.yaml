@@ -24,6 +24,7 @@
         - name: sea salt
           quantity: 1
           unit: pinch
+      construction: shake
       instructions:
         - shake over ice and fine-strain into a chilled coupe glass
       garnish:

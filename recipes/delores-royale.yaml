@@ -36,6 +36,7 @@
         - name: cava
           quantity: 1.5
           unit: oz
+      construction: shake
       instructions:
         - shake all ingredients except the cava with ice, then strain into a coupe glass
       garnish:

@@ -20,6 +20,7 @@
         - name: brut champagne
           quantity: 1
           unit: oz
+      construction: shake
       instructions:
         - shake all ingredients except champagne with ice, then strain into a chilled coupe
         - top with champagne
@@ -45,6 +46,7 @@
           quantity: .5
           unit: oz
         - name: louis roederer champagne brut primier
+      construction: shake
       instructions:
         - shake all ingredients except champagne with ice, then strain into a chilled coupe and top with champagne
         - express a lemon twist over the glass then discard
@@ -78,6 +80,7 @@
         - name: sparkling wine
           quantity: 2
           unit: oz
+      construction: shake
       instructions:
         - shake all ingredients except champagne with ice, then strain into a chilled coupe and top with champagne
       garnish:

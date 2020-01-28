@@ -22,6 +22,7 @@
         - name: orange bitters
           quantity: 2
           unit: dash
+      construction: build
       instructions:
         - build in a rocks glass and serve neat
       garnish:

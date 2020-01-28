@@ -16,6 +16,7 @@
           quantity: .5
           unit: oz
         - name: dry champagne
+      construction: shake
       instructions:
         - short shake all the ingredients (except the champagne) with 3 ice cubes, then strain into a fizz glass over 2 ice cubes
         - top with champagne

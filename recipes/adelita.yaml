@@ -21,6 +21,7 @@
         - name: crème de violette
           quantity: 1
           unit: barspoon
+      construction: stir
       instructions:
         - stir all ingredients over ice and strain into coupe glass
       garnish:

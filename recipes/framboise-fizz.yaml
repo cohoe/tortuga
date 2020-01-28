@@ -21,6 +21,7 @@
         - name: framboise boon lambic
           quantity: 2
           unit: oz
+      construction: shake
       instructions:
         - shake with ice, then strain into a chilled egg coupe
       garnish:

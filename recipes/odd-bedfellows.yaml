@@ -25,6 +25,7 @@
         - name: coconut cream
           quantity: 1
           unit: oz
+      construction: shake
       instructions:
         - whip shake with a few pebbles of ice to chill and aerate
         - pour into a glass filled with pebble ice

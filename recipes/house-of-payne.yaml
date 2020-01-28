@@ -24,6 +24,7 @@
         - name: campari
           quantity: 1
           unit: oz
+      construction: stir
       instructions:
         - in a mixing glass, gently muddle the raspberries
         - add the remaining ingredients and stir over ice

@@ -25,6 +25,7 @@
         - name: cane sugar syrup
           quantity: .5
           unit: oz
+      construction: shake
       instructions:
         - dry shake all the ingredients, then dump into a pilsner glass filled with crushed ice
         - swizzle until cold

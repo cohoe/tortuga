@@ -25,6 +25,7 @@
         - name: fee brothers whiskey barrel-aged bitters
           quantity: 1
           unit: dash
+      construction: stir
       instructions:
         - stir all the ingredients over ice, then strain into a rocks glass
       garnish:

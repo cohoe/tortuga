@@ -24,6 +24,7 @@
         - name: blackstrap rum
           quantity: 1
           unit: oz
+      construction: shake
       instructions:
         - shake all ingredients except blackstrap rum and bitters, then strain into a collins glass
         - add crushed ice and float the blackstrap rum and bitters
