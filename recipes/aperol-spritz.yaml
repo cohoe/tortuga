@@ -15,6 +15,7 @@
         - name: soda water
           quantity: 1
           unit: oz
+      construction: build
       instructions:
         - add all ingredients to a wineglass over ice
       garnish:

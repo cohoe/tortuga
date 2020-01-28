@@ -26,8 +26,9 @@
         - name: regans orange bitters
           quantity: 1
           unit: dash
+      construction: stir
       instructions:
-        - Stir all the ingredients over ice, then strain into a coupe
+        - stir all the ingredients over ice, then strain into a coupe
       citations:
         - title: 'Death & Co: Modern Classic Cocktails'
           author:
