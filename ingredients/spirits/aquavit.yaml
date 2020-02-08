@@ -1,0 +1,30 @@
+---
+- display_name: Aquavit
+  parent: spirits
+  slug: aquavit
+  type: family
+
+- display_name: Krogstad Aquavit
+  parent: aquavit
+  slug: krogstad-aquavit
+  type: ingredient
+
+- display_name: Linie Aquavit
+  parent: aquavit
+  slug: linie-aquavit
+  type: ingredient
+
+- display_name: OP Flavored Vodka
+  parent: aquavit
+  slug: op-flavored-vodka
+  type: ingredient
+
+- display_name: Infused Aquavit
+  parent: aquavit
+  slug: infused-aquavit
+  type: ingredient
+
+- display_name: Black Sesame-Infused Krogstad Aquavit
+  parent: infused-aquavit
+  slug: black-sesame-infused-krogstad-aquavit
+  type: ingredient

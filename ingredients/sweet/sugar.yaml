@@ -1,0 +1,25 @@
+---
+- display_name: Sugar
+  parent: sweet
+  slug: sugar
+  type: family
+
+- display_name: Angostura Bitters-soaked Demerara Sugar
+  parent: sugar
+  slug: angostura-bitters-soaked-demerara-sugar
+  type: ingredient
+
+- display_name: Demerara Sugar
+  parent: sugar
+  slug: demerara-sugar
+  type: ingredient
+
+- display_name: Fine White Sugar
+  parent: sugar
+  slug: fine-white-sugar
+  type: ingredient
+
+- display_name: White Sugar
+  parent: sugar
+  slug: white-sugar
+  type: ingredient

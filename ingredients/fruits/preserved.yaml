@@ -1,0 +1,100 @@
+---
+- display_name: Preserved
+  parent: fruits
+  slug: preserved
+  type: family
+
+- display_name: Apple Butter
+  parent: preserved
+  slug: apple-butter
+  type: ingredient
+
+- display_name: Red Jacket Orchards Apple Butter
+  parent: apple-butter
+  slug: red-jacket-orchards-apple-butter
+  type: ingredient
+
+- display_name: Apricot Preserves
+  parent: preserved
+  slug: apricot-preserves
+  type: ingredient
+
+- display_name: Bonne Maman Apricot Preserves
+  parent: apricot-preserves
+  slug: bonne-maman-apricot-preserves
+  type: ingredient
+
+- display_name: Caribbean Cream
+  parent: preserved
+  slug: caribbean-cream
+  type: ingredient
+
+- display_name: Coconut Cream
+  parent: preserved
+  slug: coconut-cream
+  type: ingredient
+
+- display_name: Coco Lopez
+  parent: coconut-cream
+  slug: coco-lopez
+  type: ingredient
+
+- display_name: Fig Jam
+  parent: preserved
+  slug: fig-jam
+  type: ingredient
+
+- display_name: St. Dalfour Fig Jam
+  parent: fig-jam
+  slug: st-dalfour-fig-jam
+  type: ingredient
+
+- display_name: Lemon Curd
+  parent: preserved
+  slug: lemon-curd
+  type: ingredient
+
+- display_name: Marmalade
+  parent: preserved
+  slug: marmalade
+  type: ingredient
+
+- display_name: Bonne Maman Orange Marmalade
+  parent: marmalade
+  slug: bonne-maman-orange-marmalade
+  type: ingredient
+
+- display_name: Light Marmalade
+  parent: marmalade
+  slug: light-marmalade
+  type: ingredient
+
+- display_name: Orange Marmalade
+  parent: marmalade
+  slug: orange-marmalade
+  type: ingredient
+
+- display_name: Pumpkin Butter
+  parent: preserved
+  slug: pumpkin-butter
+  type: ingredient
+
+- display_name: Raspberry Preserves
+  parent: preserved
+  slug: raspberry-preserves
+  type: ingredient
+
+- display_name: Bonne Maman Raspberry Preserves
+  parent: raspberry-preserves
+  slug: bonne-maman-raspberry-preserves
+  type: ingredient
+
+- display_name: Strawberry Preserves
+  parent: preserved
+  slug: strawberry-preserves
+  type: ingredient
+
+- display_name: Bonne Maman Strawberry Preserves
+  parent: strawberry-preserves
+  slug: bonne-maman-strawberry-preserves
+  type: ingredient

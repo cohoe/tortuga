@@ -1,0 +1,110 @@
+---
+- display_name: Fruit Brandy
+  parent: spirits
+  slug: fruit-brandy
+  type: family
+
+- display_name: Apple Brandy
+  parent: fruit-brandy
+  slug: apple-brandy
+  type: ingredient
+
+- display_name: Clear Creek Apple Brandy
+  parent: apple-brandy
+  slug: clear-creek-apple-brandy
+  type: ingredient
+
+- display_name: Laird's Bonded Apple Brandy
+  parent: apple-brandy
+  slug: laird-s-bonded-apple-brandy
+  type: ingredient
+
+- display_name: "Sch\xF6nauer Apfel Schnapps"
+  parent: apple-brandy
+  slug: schonauer-apfel-schnapps
+  type: ingredient
+
+- display_name: "Sch\xF6nauer Apple Schnapps"
+  parent: apple-brandy
+  slug: schonauer-apple-schnapps
+  type: ingredient
+
+- display_name: Applejack
+  parent: fruit-brandy
+  slug: applejack
+  type: ingredient
+
+- display_name: Applejack Or Calvados
+  parent: applejack
+  slug: applejack-or-calvados
+  type: ingredient
+
+- display_name: Laird's Applejack
+  parent: applejack
+  slug: laird-s-applejack
+  type: ingredient
+
+- display_name: Apricot Brandy
+  parent: fruit-brandy
+  slug: apricot-brandy
+  type: ingredient
+
+- display_name: Blackberry Brandy
+  parent: fruit-brandy
+  slug: blackberry-brandy
+  type: ingredient
+
+- display_name: Calvados
+  parent: fruit-brandy
+  slug: calvados
+  type: ingredient
+
+- display_name: Busnel VSOP Calvados
+  parent: calvados
+  slug: busnel-vsop-calvados
+  type: ingredient
+
+- display_name: Cherry Brandy
+  parent: fruit-brandy
+  slug: cherry-brandy
+  type: ingredient
+
+- display_name: Clear Creek Kirschwasser
+  parent: cherry-brandy
+  slug: clear-creek-kirschwasser
+  type: ingredient
+
+- display_name: Kirsch
+  parent: cherry-brandy
+  slug: kirsch
+  type: ingredient
+
+- display_name: Massenez Kirsch Vieux Cherry Brandy
+  parent: cherry-brandy
+  slug: massenez-kirsch-vieux-cherry-brandy
+  type: ingredient
+
+- display_name: Pear Brandy
+  parent: fruit-brandy
+  slug: pear-brandy
+  type: ingredient
+
+- display_name: Clear Creek Pear Brandy
+  parent: pear-brandy
+  slug: clear-creek-pear-brandy
+  type: ingredient
+
+- display_name: Raspberry Brandy
+  parent: fruit-brandy
+  slug: raspberry-brandy
+  type: ingredient
+
+- display_name: Pasquet Marie-Framboise
+  parent: raspberry-brandy
+  slug: pasquet-marie-framboise
+  type: ingredient
+
+- display_name: Trimbach Framboise Brandy
+  parent: raspberry-brandy
+  slug: trimbach-framboise-brandy
+  type: ingredient

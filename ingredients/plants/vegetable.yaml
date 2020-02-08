@@ -1,0 +1,30 @@
+---
+- display_name: Vegetable
+  parent: plants
+  slug: vegetable
+  type: family
+
+- display_name: Asparagus
+  parent: vegetable
+  slug: asparagus
+  type: ingredient
+
+- display_name: Celery
+  parent: vegetable
+  slug: celery
+  type: ingredient
+
+- display_name: Celery Juice
+  parent: vegetable
+  slug: celery-juice
+  type: ingredient
+
+- display_name: Rhubarb
+  parent: vegetable
+  slug: rhubarb
+  type: ingredient
+
+- display_name: "Boiron Rhubarb Pur\xE9e"
+  parent: rhubarb
+  slug: boiron-rhubarb-puree
+  type: ingredient

@@ -1,0 +1,85 @@
+---
+- display_name: Dairy
+  parent: animal
+  slug: dairy
+  type: family
+
+- display_name: Condensed Milk
+  parent: milk
+  slug: condensed-milk
+  type: ingredient
+
+- display_name: Sweetened Condensed Milk
+  parent: condensed-milk
+  slug: sweetened-condensed-milk
+  type: ingredient
+
+- display_name: Half-and-half
+  parent: milk
+  slug: half-and-half
+  type: ingredient
+
+- display_name: Heavy Cream
+  parent: milk
+  slug: heavy-cream
+  type: ingredient
+
+- display_name: Honey Nut Cheerio-Infused Cream
+  parent: heavy-cream
+  slug: honey-nut-cheerio-infused-cream
+  type: ingredient
+
+- display_name: Vanilla Ice Cream
+  parent: dairy
+  slug: vanilla-ice-cream
+  type: ingredient
+
+- display_name: Irish Cream
+  parent: dairy
+  slug: irish-cream
+  type: ingredient
+
+- display_name: Baileys Irish Cream
+  parent: irish-cream
+  slug: baileys-irish-cream
+  type: product
+
+- display_name: Milk
+  parent: dairy
+  slug: milk
+  type: ingredient
+
+- display_name: Whole Milk
+  parent: milk
+  slug: whole-milk
+  type: ingredient
+
+- display_name: Vanilla Butter
+  parent: dairy
+  slug: vanilla-butter
+  type: ingredient
+
+- display_name: Whipped Cream
+  parent: dairy
+  slug: whipped-cream
+  type: ingredient
+
+- display_name: Whipped Irish Coffee Cream
+  parent: whipped-cream
+  slug: whipped-irish-coffee-cream
+  type: ingredient
+
+- display_name: Unsweetened Whipped Cream
+  parent: whipped-cream
+  slug: unsweetened-whipped-cream
+  type: ingredient
+
+- display_name: Yogurt
+  parent: dairy
+  slug: yogurt
+  type: ingredient
+
+- display_name: Greek Yogurt
+  parent: yogurt
+  slug: greek-yogurt
+  type: ingredient

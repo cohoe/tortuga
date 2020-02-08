@@ -1,0 +1,36 @@
+---
+- display_name: Animal
+  slug: animal
+  type: category
+
+- display_name: Bitter
+  slug: bitter
+  type: category
+
+- display_name: Fermented
+  slug: fermented
+  type: category
+
+- display_name: Fruits
+  slug: fruits
+  type: category
+
+- display_name: Plants
+  slug: plants
+  type: category
+
+- display_name: Savory
+  slug: savory
+  type: category
+
+- display_name: Soft Drinks
+  slug: soft-drinks
+  type: category
+
+- display_name: Spirits
+  slug: spirits
+  type: category
+
+- display_name: Sweet
+  slug: sweet
+  type: category

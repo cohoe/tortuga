@@ -1,0 +1,10 @@
+---
+- display_name: Soup
+  parent: animal
+  slug: soup
+  type: family
+
+- display_name: Beef Broth
+  parent: soup
+  slug: beef-broth
+  type: ingredient

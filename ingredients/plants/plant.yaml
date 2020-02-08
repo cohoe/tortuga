@@ -1,0 +1,15 @@
+---
+- display_name: Plant
+  parent: plants
+  slug: plant
+  type: family
+
+- display_name: Tobacco
+  parent: plant
+  slug: tobacco
+  type: ingredient
+
+- display_name: Aftel Tobacco Essence
+  parent: tobacco
+  slug: aftel-tobacco-essence
+  type: ingredient

@@ -1,0 +1,260 @@
+---
+- display_name: Agave
+  parent: spirits
+  slug: agave
+  type: family
+
+- display_name: Infused Tequila
+  parent: agave
+  slug: infused-tequila
+  type: ingredient
+
+- display_name: Cacao Nib-Infused Cabeza Blanco Tequila
+  parent: infused-tequila
+  slug: cacao-nib-infused-cabeza-blanco-tequila
+  type: ingredient
+
+- display_name: "Jalape\xF1o-Infused Siembra Azul Blanco Tequila"
+  parent: infused-tequila
+  slug: jalapeno-infused-siembra-azul-blanco-tequila
+  type: ingredient
+
+- display_name: Lapsang Souchong-Infused Siembra Azul Blanco Tequila
+  parent: infused-tequila
+  slug: lapsang-souchong-infused-siembra-azul-blanco-tequila
+  type: ingredient
+
+- display_name: Queen Of Earl Tea-Infused Siembra Azul Reposado Tequila
+  parent: infused-tequila
+  slug: queen-of-earl-tea-infused-siembra-azul-reposado-tequila
+  type: ingredient
+
+- display_name: Spiced Pear-Infused Siembra Azul Blanco Tequila
+  parent: infused-tequila
+  slug: spiced-pear-infused-siembra-azul-blanco-tequila
+  type: ingredient
+
+- display_name: Mezcal
+  parent: agave
+  slug: mezcal
+  type: ingredient
+
+- display_name: Del Maguey Chichicapa Mezcal
+  parent: mezcal
+  slug: del-maguey-chichicapa-mezcal
+  type: ingredient
+
+- display_name: Del Maguey Crema De Mezcal
+  parent: mezcal
+  slug: del-maguey-crema-de-mezcal
+  type: ingredient
+
+- display_name: Del Maguey Espadin Especial Mezcal
+  parent: mezcal
+  slug: del-maguey-espadin-especial-mezcal
+  type: ingredient
+
+- display_name: Del Maguey San Luis Del Rio Mezcal
+  parent: mezcal
+  slug: del-maguey-san-luis-del-rio-mezcal
+  type: ingredient
+
+- display_name: Del Maguey Vida Mezcal
+  parent: mezcal
+  slug: del-maguey-vida-mezcal
+  type: ingredient
+
+- display_name: Ilegal Reposado Mezcal
+  parent: mezcal
+  slug: ilegal-reposado-mezcal
+  type: ingredient
+
+- display_name: Los Amantes Joven Mezcal
+  parent: mezcal
+  slug: los-amantes-joven-mezcal
+  type: ingredient
+
+- display_name: Los Nahuales Mezcal
+  parent: mezcal
+  slug: los-nahuales-mezcal
+  type: ingredient
+
+- display_name: Sombra Mezcal
+  parent: mezcal
+  slug: sombra-mezcal
+  type: ingredient
+
+- display_name: Tequila
+  parent: agave
+  slug: tequila
+  type: ingredient
+
+- display_name: 100% Blue Agave Tequila
+  parent: tequila
+  slug: 100-blue-agave-tequila
+  type: ingredient
+
+- display_name: Cabeza Blanco Tequila
+  parent: tequila
+  slug: cabeza-blanco-tequila
+  type: ingredient
+
+- display_name: Cabrito Blanco Tequila
+  parent: tequila
+  slug: cabrito-blanco-tequila
+  type: ingredient
+
+- display_name: Centinela Reposado Tequila
+  parent: tequila
+  slug: centinela-reposado-tequila
+  type: ingredient
+
+- display_name: Chinaco Verde Blanco Tequila
+  parent: tequila
+  slug: chinaco-verde-blanco-tequila
+  type: ingredient
+
+- display_name: Cuervo Gold
+  parent: tequila
+  slug: cuervo-gold
+  type: ingredient
+
+- display_name: "Don Julio A\xF1ejo Tequila"
+  parent: tequila
+  slug: don-julio-anejo-tequila
+  type: ingredient
+
+- display_name: Don Julio Blanco Tequila
+  parent: tequila
+  slug: don-julio-blanco-tequila
+  type: ingredient
+
+- display_name: Don Julio Reposado Tequila
+  parent: tequila
+  slug: don-julio-reposado-tequila
+  type: ingredient
+
+- display_name: "El Tesoro A\xF1ejo Tequila"
+  parent: tequila
+  slug: el-tesoro-anejo-tequila
+  type: ingredient
+
+- display_name: El Tesoro Platinum Tequila
+  parent: tequila
+  slug: el-tesoro-platinum-tequila
+  type: ingredient
+
+- display_name: El Tesoro Reposado Tequila
+  parent: tequila
+  slug: el-tesoro-reposado-tequila
+  type: ingredient
+
+- display_name: Fortaleza Reposado Tequila
+  parent: tequila
+  slug: fortaleza-reposado-tequila
+  type: ingredient
+
+- display_name: Good Tequila
+  parent: tequila
+  slug: good-tequila
+  type: ingredient
+
+- display_name: Gran Centenario Blanco Tequila
+  parent: tequila
+  slug: gran-centenario-blanco-tequila
+  type: ingredient
+
+- display_name: Gran Centenario Reposado Tequila
+  parent: tequila
+  slug: gran-centenario-reposado-tequila
+  type: ingredient
+
+- display_name: "Jos\xE9 Cuervo Platino Tequila"
+  parent: tequila
+  slug: jose-cuervo-platino-tequila
+  type: ingredient
+
+- display_name: Jose Cuervo Tradicional Tequila
+  parent: tequila
+  slug: jose-cuervo-tradicional-tequila
+  type: ingredient
+
+- display_name: L & J Blanco Tequila
+  parent: tequila
+  slug: l-j-blanco-tequila
+  type: ingredient
+
+- display_name: Ocho 2012 Plata Tequila
+  parent: tequila
+  slug: ocho-2012-plata-tequila
+  type: ingredient
+
+- display_name: "Ocho A\xF1ejo Tequila"
+  parent: tequila
+  slug: ocho-anejo-tequila
+  type: ingredient
+
+- display_name: Partida Blanco Tequila
+  parent: tequila
+  slug: partida-blanco-tequila
+  type: ingredient
+
+- display_name: Partida Reposado Tequila
+  parent: tequila
+  slug: partida-reposado-tequila
+  type: ingredient
+
+- display_name: "Pueblo Viejo A\xF1ejo Tequila"
+  parent: tequila
+  slug: pueblo-viejo-anejo-tequila
+  type: ingredient
+
+- display_name: Pueblo Viejo Reposado Tequila
+  parent: tequila
+  slug: pueblo-viejo-reposado-tequila
+  type: ingredient
+
+- display_name: Sauza Conmemorativo Tequila
+  parent: tequila
+  slug: sauza-conmemorativo-tequila
+  type: ingredient
+
+- display_name: Sauza Hornitos Tequila
+  parent: tequila
+  slug: sauza-hornitos-tequila
+  type: ingredient
+
+- display_name: "Siembra Azul A\xF1ejo Tequila"
+  parent: tequila
+  slug: siembra-azul-anejo-tequila
+  type: ingredient
+
+- display_name: Siembra Azul Blanco Tequila
+  parent: tequila
+  slug: siembra-azul-blanco-tequila
+  type: ingredient
+
+- display_name: Siembra Azul Reposado Tequila
+  parent: tequila
+  slug: siembra-azul-reposado-tequila
+  type: ingredient
+
+- display_name: Siete Leguas Blanco Tequila
+  parent: tequila
+  slug: siete-leguas-blanco-tequila
+  type: ingredient
+
+- display_name: Siete Leguas Reposado Tequila
+  parent: tequila
+  slug: siete-leguas-reposado-tequila
+  type: ingredient
+
+- display_name: Tapatio 110 Blanco Tequila
+  parent: tequila
+  slug: tapatio-110-blanco-tequila
+  type: ingredient
+
+- display_name: White Tequila
+  parent: tequila
+  slug: white-tequila
+  type: ingredient

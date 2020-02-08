@@ -1,0 +1,10 @@
+---
+- display_name: Seasoning
+  parent: savory
+  slug: seasoning
+  type: family
+
+- display_name: Wasabi
+  parent: seasoning
+  slug: wasabi
+  type: ingredient

@@ -1,0 +1,534 @@
+- display_name: Batavia Arrack
+  parent: sugarcane
+  slug: batavia-arrack
+  type: ingredient
+
+- display_name: Van Oosten Batavia Arrack
+  parent: batavia-arrack
+  slug: van-oosten-batavia-arrack
+  type: ingredient
+
+- display_name: Sugarcane
+  parent: spirits
+  slug: sugarcane
+  type: family
+
+- display_name: Banana Rum
+  parent: sugarcane
+  slug: banana-rum
+  type: ingredient
+
+- display_name: Cruzan Banana Rum
+  parent: banana-rum
+  slug: cruzan-banana-rum
+  type: ingredient
+
+- display_name: "Cacha\xE7a"
+  parent: sugarcane
+  slug: cachaca
+  type: ingredient
+
+- display_name: "Avu\xE1 Amburana Cacha\xE7a"
+  parent: cachaca
+  slug: avua-amburana-cachaca
+  type: ingredient
+
+- display_name: "Beleza Pura Cacha\xE7a"
+  parent: cachaca
+  slug: beleza-pura-cachaca
+  type: ingredient
+
+- display_name: "M\xE3e De Ouro Cacha\xE7a"
+  parent: cachaca
+  slug: mae-de-ouro-cachaca
+  type: ingredient
+
+- display_name: "Sagatiba Cacha\xE7a"
+  parent: cachaca
+  slug: sagatiba-cachaca
+  type: ingredient
+
+- display_name: Citrus Rum
+  parent: sugarcane
+  slug: citrus-rum
+  type: ingredient
+
+- display_name: "Bacardi Lim\xF3n Rum"
+  parent: citrus-rum
+  slug: bacardi-limon-rum
+  type: ingredient
+
+- display_name: Coconut Rum
+  parent: sugarcane
+  slug: coconut-rum
+  type: ingredient
+
+- display_name: Cruzan Coconut Rum
+  parent: coconut-rum
+  slug: cruzan-coconut-rum
+  type: ingredient
+
+- display_name: Malibu Coconut Rum
+  parent: coconut-rum
+  slug: malibu-coconut-rum
+  type: ingredient
+
+- display_name: "Infused Cacha\xE7a"
+  parent: sugarcane
+  slug: infused-cachaca
+  type: ingredient
+
+- display_name: "Sencha Green Tea-Infused Leblon Cacha\xE7a"
+  parent: infused-cachaca
+  slug: sencha-green-tea-infused-leblon-cachaca
+  type: ingredient
+
+- display_name: "Strawberry-Infused M\xE3e De Ouro Cacha\xE7a"
+  parent: infused-cachaca
+  slug: strawberry-infused-mae-de-ouro-cachaca
+  type: ingredient
+
+- display_name: Infused Rum
+  parent: sugarcane
+  slug: infused-rum
+  type: ingredient
+
+- display_name: Banana Chip-Infused Gosling's Black Seal Rum
+  parent: infused-rum
+  slug: banana-chip-infused-gosling-s-black-seal-rum
+  type: ingredient
+
+- display_name: Granny Smith Apple-Infused Rhum Barbancourt
+  parent: infused-rum
+  slug: granny-smith-apple-infused-rhum-barbancourt
+  type: ingredient
+
+- display_name: "Pineapple-Infused Flor De Ca\xF1a Extra-Dry White Rum"
+  parent: infused-rum
+  slug: pineapple-infused-flor-de-cana-extra-dry-white-rum
+  type: ingredient
+
+- display_name: "Popcorn-Infused Flor De Ca\xF1a Silver Dry Rum"
+  parent: infused-rum
+  slug: popcorn-infused-flor-de-cana-silver-dry-rum
+  type: ingredient
+
+- display_name: "Summer Royale Tea-Infused Flor De Ca\xF1a White Rum"
+  parent: infused-rum
+  slug: summer-royale-tea-infused-flor-de-cana-white-rum
+  type: ingredient
+
+- display_name: Rum
+  parent: sugarcane
+  slug: rum
+  type: ingredient
+
+- display_name: Aged Rum
+  parent: rum
+  slug: aged-rum
+  type: ingredient
+
+- display_name: "A\xF1ejo Rum"
+  parent: rum
+  slug: anejo-rum
+  type: ingredient
+
+- display_name: Angostura 5-Year Rum
+  parent: rum
+  slug: angostura-5-year-rum
+  type: ingredient
+
+- display_name: Appleton Estate Reserve Rum
+  parent: rum
+  slug: appleton-estate-reserve-rum
+  type: ingredient
+
+- display_name: Appleton Estate V/X Rum
+  parent: rum
+  slug: appleton-estate-v-x-rum
+  type: ingredient
+
+- display_name: Appleton Jamaican Rum
+  parent: rum
+  slug: appleton-jamaican-rum
+  type: ingredient
+
+- display_name: Appleton Reserve Rum
+  parent: rum
+  slug: appleton-reserve-rum
+  type: ingredient
+
+- display_name: Appleton Rum
+  parent: rum
+  slug: appleton-rum
+  type: ingredient
+
+- display_name: Bacardi 8 Rum
+  parent: rum
+  slug: bacardi-8-rum
+  type: ingredient
+
+- display_name: Bacardi Light Rum
+  parent: light-rum
+  slug: bacardi-light-rum
+  type: ingredient
+
+- display_name: Bacardi Ron Superior Limited Edition
+  parent: rum
+  slug: bacardi-ron-superior-limited-edition
+  type: ingredient
+
+- display_name: Bacardi Rum
+  parent: rum
+  slug: bacardi-rum
+  type: ingredient
+
+- display_name: Bacardi Silver Rum
+  parent: rum
+  slug: bacardi-silver-rum
+  type: ingredient
+
+- display_name: Banks 5 Island Rum
+  parent: rum
+  slug: banks-5-island-rum
+  type: ingredient
+
+- display_name: Banks 5-Island White Rum
+  parent: rum
+  slug: banks-5-island-white-rum
+  type: ingredient
+
+- display_name: Barbados Rum
+  parent: rum
+  slug: barbados-rum
+  type: ingredient
+
+- display_name: Barbancourt 3-Star Rum
+  parent: rum
+  slug: barbancourt-3-star-rum
+  type: ingredient
+
+- display_name: Barbancourt 8-Year-Old Rhum
+  parent: rum
+  slug: barbancourt-8-year-old-rhum
+  type: ingredient
+
+- display_name: Barbancourt Rhum Blanc
+  parent: rum
+  slug: barbancourt-rhum-blanc
+  type: ingredient
+
+- display_name: Barbancourt White Rum
+  parent: rum
+  slug: barbancourt-white-rum
+  type: ingredient
+
+- display_name: "Ca\xF1a Brava Rum"
+  parent: rum
+  slug: cana-brava-rum
+  type: ingredient
+
+- display_name: Cruzan Black Strap Rum
+  parent: rum
+  slug: cruzan-black-strap-rum
+  type: ingredient
+
+- display_name: Cruzan Single-Barrel Rum
+  parent: rum
+  slug: cruzan-single-barrel-rum
+  type: ingredient
+
+- display_name: Dark Rum
+  parent: rum
+  slug: dark-rum
+  type: ingredient
+
+- display_name: "Diplom\xE1tico Reserva Exclusiva Rum"
+  parent: rum
+  slug: diplomatico-reserva-exclusiva-rum
+  type: ingredient
+
+- display_name: Dusser's Navy Rum
+  parent: rum
+  slug: dusser-s-navy-rum
+  type: ingredient
+
+- display_name: El Dorado 12-Year Rum
+  parent: rum
+  slug: el-dorado-12-year-rum
+  type: ingredient
+
+- display_name: El Dorado 151 Rum
+  parent: rum
+  slug: el-dorado-151-rum
+  type: ingredient
+
+- display_name: El Dorado 15-Year-Old Rum
+  parent: rum
+  slug: el-dorado-15-year-old-rum
+  type: ingredient
+
+- display_name: El Dorado 15-Year Rum
+  parent: rum
+  slug: el-dorado-15-year-rum
+  type: ingredient
+
+- display_name: El Dorado 3-Year Rum
+  parent: rum
+  slug: el-dorado-3-year-rum
+  type: ingredient
+
+- display_name: El Dorado High-Strength 151 Rum
+  parent: rum
+  slug: el-dorado-high-strength-151-rum
+  type: ingredient
+
+- display_name: "Flor De Ca\xF1a 7-Year Rum"
+  parent: rum
+  slug: flor-de-cana-7-year-rum
+  type: ingredient
+
+- display_name: "Flor De Ca\xF1a Extra-Dry White Rum"
+  parent: rum
+  slug: flor-de-cana-extra-dry-white-rum
+  type: ingredient
+
+- display_name: "Flor De Ca\xF1a Silver Dry Rum"
+  parent: rum
+  slug: flor-de-cana-silver-dry-rum
+  type: ingredient
+
+- display_name: Gold Rum
+  parent: rum
+  slug: gold-rum
+  type: ingredient
+
+- display_name: Good Medium-bodied Rum
+  parent: rum
+  slug: good-medium-bodied-rum
+  type: ingredient
+
+- display_name: Gosling's Black Seal Rum
+  parent: rum
+  slug: gosling-s-black-seal-rum
+  type: ingredient
+
+- display_name: Gosling's Dark Rum
+  parent: rum
+  slug: gosling-s-dark-rum
+  type: ingredient
+
+- display_name: Gosling's Or Myers's Dark Rum
+  parent: rum
+  slug: gosling-s-or-myers-s-dark-rum
+  type: ingredient
+
+- display_name: Havana Club 7-Year-Old Rum
+  parent: rum
+  slug: havana-club-7-year-old-rum
+  type: ingredient
+
+- display_name: Heavy-bodied Rum
+  parent: rum
+  slug: heavy-bodied-rum
+  type: ingredient
+
+- display_name: J. M. Rhum Blanc
+  parent: rum
+  slug: j-m-rhum-blanc
+  type: ingredient
+
+- display_name: La Favorite Rhum Agricole Ambre
+  parent: rum
+  slug: la-favorite-rhum-agricole-ambre
+  type: ingredient
+
+- display_name: La Favorite Rhum Agricole Blanc
+  parent: rum
+  slug: la-favorite-rhum-agricole-blanc
+  type: ingredient
+
+- display_name: Lemon Hart 151 Rum
+  parent: rum
+  slug: lemon-hart-151-rum
+  type: ingredient
+
+- display_name: Lemon Hart Original Rum
+  parent: rum
+  slug: lemon-hart-original-rum
+  type: ingredient
+
+- display_name: Lemon Hart Overproof Rum
+  parent: rum
+  slug: lemon-hart-overproof-rum
+  type: ingredient
+
+- display_name: Light Rum
+  parent: rum
+  slug: light-rum
+  type: ingredient
+
+- display_name: Matusalem Gran Reserva 15-Year Rum
+  parent: rum
+  slug: matusalem-gran-reserva-15-year-rum
+  type: ingredient
+
+- display_name: Matusalem Gran Reserva Rum
+  parent: rum
+  slug: matusalem-gran-reserva-rum
+  type: ingredient
+
+- display_name: Mount Gay Eclipse Amber Rum
+  parent: rum
+  slug: mount-gay-eclipse-amber-rum
+  type: ingredient
+
+- display_name: Mount Gay Eclipse Rum
+  parent: rum
+  slug: mount-gay-eclipse-rum
+  type: ingredient
+
+- display_name: Mount Gay Eclipse White Rum
+  parent: rum
+  slug: mount-gay-eclipse-white-rum
+  type: ingredient
+
+- display_name: Mount Gay Rum
+  parent: rum
+  slug: mount-gay-rum
+  type: ingredient
+
+- display_name: Mount Gay X.O. Rum
+  parent: rum
+  slug: mount-gay-x-o-rum
+  type: ingredient
+
+- display_name: Myers's Dark Rum
+  parent: rum
+  slug: myers-s-dark-rum
+  type: ingredient
+
+- display_name: Neisson Rhum Agricole Blanc
+  parent: rum
+  slug: neisson-rhum-agricole-blanc
+  type: ingredient
+
+- display_name: Neisson Rhum Blanc
+  parent: rum
+  slug: neisson-rhum-blanc
+  type: ingredient
+
+- display_name: "Neisson Rhum R\xE9serve Sp\xE9ciale"
+  parent: rum
+  slug: neisson-rhum-reserve-speciale
+  type: ingredient
+
+- display_name: Overproof Rum, Such As Wray & Nephew Or Bacardi 151
+  parent: rum
+  slug: overproof-rum-such-as-wray-nephew-or-bacardi-151
+  type: ingredient
+
+- display_name: Pampero Aniversario Rum
+  parent: rum
+  slug: pampero-aniversario-rum
+  type: ingredient
+
+- display_name: Plantation Barbados 5-Year Rum
+  parent: rum
+  slug: plantation-barbados-5-year-rum
+  type: ingredient
+
+- display_name: "Rhum Cl\xE9ment Cr\xE9ole Shrubb"
+  parent: rum
+  slug: rhum-clement-creole-shrubb
+  type: ingredient
+
+- display_name: "Rhum Cl\xE9ment V.S.O.P."
+  parent: rum
+  slug: rhum-clement-v-s-o-p
+  type: ingredient
+
+- display_name: Rhum Jm 100-Proof Agricole Blanc
+  parent: rum
+  slug: rhum-jm-100-proof-agricole-blanc
+  type: ingredient
+
+- display_name: Ron Del Barrilito 3-Star Rum
+  parent: rum
+  slug: ron-del-barrilito-3-star-rum
+  type: ingredient
+
+- display_name: Ron Zacapa Centenario 23 Rum
+  parent: rum
+  slug: ron-zacapa-centenario-23-rum
+  type: ingredient
+
+- display_name: Santa Teresa 1796 Rum
+  parent: rum
+  slug: santa-teresa-1796-rum
+  type: ingredient
+
+- display_name: Santa Teresa Rum
+  parent: rum
+  slug: santa-teresa-rum
+  type: ingredient
+
+- display_name: Scarlet Ibis Rum
+  parent: rum
+  slug: scarlet-ibis-rum
+  type: ingredient
+
+- display_name: Smith & Cross Jamaican Rum
+  parent: rum
+  slug: smith-cross-jamaican-rum
+  type: ingredient
+
+- display_name: Smith & Cross Rum
+  parent: rum
+  slug: smith-cross-rum
+  type: ingredient
+
+- display_name: St. James Royal Ambre Rhum Agricole
+  parent: rum
+  slug: st-james-royal-ambre-rhum-agricole
+  type: ingredient
+
+- display_name: White Rum
+  parent: light-rum
+  slug: white-rum
+  type: alias
+
+- display_name: Wray & Nephew Overproof Rum
+  parent: rum
+  slug: wray-nephew-overproof-rum
+  type: ingredient
+
+- display_name: Zacapa 23 Centenario Rum
+  parent: rum
+  slug: zacapa-23-centenario-rum
+  type: ingredient
+
+- display_name: Zacapa 23-Year Rum
+  parent: rum
+  slug: zacapa-23-year-rum
+  type: ingredient
+
+- display_name: Spiced Rum
+  parent: sugarcane
+  slug: spiced-rum
+  type: ingredient
+
+- display_name: Swedish Punsch
+  parent: sugarcane
+  slug: swedish-punsch
+  type: ingredient
+
+- display_name: Carlshamns Flaggpunsch
+  parent: swedish-punsch
+  slug: carlshamns-flaggpunsch
+  type: ingredient
+
+- display_name: Kronan Swedish Punsch
+  parent: swedish-punsch
+  slug: kronan-swedish-punsch
+  type: ingredient

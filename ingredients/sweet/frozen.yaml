@@ -1,0 +1,25 @@
+---
+- display_name: Frozen
+  parent: sweet
+  slug: frozen
+  type: family
+
+- display_name: Italian Ice
+  parent: frozen
+  slug: italian-ice
+  type: ingredient
+
+- display_name: Lemon Italian Ice
+  parent: italian-ice
+  slug: lemon-italian-ice
+  type: ingredient
+
+- display_name: Sorbet
+  parent: frozen
+  slug: sorbet
+  type: ingredient
+
+- display_name: Ciao Bella Coconut Sorbet
+  parent: sorbet
+  slug: ciao-bella-coconut-sorbet
+  type: ingredient

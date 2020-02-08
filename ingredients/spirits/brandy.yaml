@@ -1,0 +1,160 @@
+---
+- display_name: Brandy
+  parent: spirits
+  slug: brandy
+  type: family
+
+- display_name: Grape Brandy
+  parent: brandy
+  slug: grape-brandy
+  type: ingredient
+
+- display_name: Armagnac
+  parent: grape-brandy
+  slug: armagnac
+  type: ingredient
+
+- display_name: Cardenal Mendoza Brandy
+  parent: grape-brandy
+  slug: cardenal-mendoza-brandy
+  type: ingredient
+
+- display_name: Clear Creek Plum Brandy
+  parent: grape-brandy
+  slug: clear-creek-plum-brandy
+  type: ingredient
+
+- display_name: Cognac
+  parent: grape-brandy
+  slug: cognac
+  type: ingredient
+
+- display_name: Courvoisier Cognac
+  parent: grape-brandy
+  slug: courvoisier-cognac
+  type: ingredient
+
+- display_name: Courvoisier Millennium Cognac
+  parent: grape-brandy
+  slug: courvoisier-millennium-cognac
+  type: ingredient
+
+- display_name: Gran Duque D'Alba Brandy De Jerez
+  parent: grape-brandy
+  slug: gran-duque-d-alba-brandy-de-jerez
+  type: ingredient
+
+- display_name: Guillon-Painturaud Cognac Grande Champagne VSOP
+  parent: grape-brandy
+  slug: guillon-painturaud-cognac-grande-champagne-vsop
+  type: ingredient
+
+- display_name: Hine H Cognac
+  parent: grape-brandy
+  slug: hine-h-cognac
+  type: ingredient
+
+- display_name: Hine V.S.O.P. Cognac
+  parent: grape-brandy
+  slug: hine-v-s-o-p-cognac
+  type: ingredient
+
+- display_name: Louis Royer Force 53 Cognac
+  parent: grape-brandy
+  slug: louis-royer-force-53-cognac
+  type: ingredient
+
+- display_name: Martell V.S.O.P. Cognac
+  parent: grape-brandy
+  slug: martell-v-s-o-p-cognac
+  type: ingredient
+
+- display_name: Pierre Ferrand 1840 Cognac
+  parent: grape-brandy
+  slug: pierre-ferrand-1840-cognac
+  type: ingredient
+
+- display_name: Pierre Ferrand Ambre Cognac
+  parent: grape-brandy
+  slug: pierre-ferrand-ambre-cognac
+  type: ingredient
+
+- display_name: "R\xE9my Martin V.S.O.P. Cognac"
+  parent: grape-brandy
+  slug: remy-martin-v-s-o-p-cognac
+  type: ingredient
+
+- display_name: Spanish Brandy
+  parent: grape-brandy
+  slug: spanish-brandy
+  type: ingredient
+
+- display_name: Tariquet VS Classique Bas-Armagnac
+  parent: grape-brandy
+  slug: tariquet-vs-classique-bas-armagnac
+  type: ingredient
+
+- display_name: VS Cognac
+  parent: grape-brandy
+  slug: vs-cognac
+  type: ingredient
+
+- display_name: Infused Brandy
+  parent: brandy
+  slug: infused-brandy
+  type: ingredient
+
+- display_name: Walnut-Infused Hine V.S.O.P. Cognac
+  parent: infused-brandy
+  slug: walnut-infused-hine-v-s-o-p-cognac
+  type: ingredient
+
+- display_name: Infused Pisco
+  parent: brandy
+  slug: infused-pisco
+  type: ingredient
+
+- display_name: Chamomile-Infused Barsol Quebranta Pisco
+  parent: infused-pisco
+  slug: chamomile-infused-barsol-quebranta-pisco
+  type: ingredient
+
+- display_name: Spiced Macchu Pisco
+  parent: infused-pisco
+  slug: spiced-macchu-pisco
+  type: ingredient
+
+- display_name: Strawberry-And Pineapple-Infused Macchu Pisco
+  parent: infused-pisco
+  slug: strawberry-and-pineapple-infused-macchu-pisco
+  type: ingredient
+
+- display_name: Pisco
+  parent: brandy
+  slug: pisco
+  type: ingredient
+
+- display_name: Barsol Quebranta Pisco
+  parent: pisco
+  slug: barsol-quebranta-pisco
+  type: ingredient
+
+- display_name: Campo De Encanto Acholado Pisco
+  parent: pisco
+  slug: campo-de-encanto-acholado-pisco
+  type: ingredient
+
+- display_name: La Diablada Pisco
+  parent: pisco
+  slug: la-diablada-pisco
+  type: ingredient
+
+- display_name: Macchu Pisco
+  parent: pisco
+  slug: macchu-pisco
+  type: ingredient
+
+- display_name: Waqar Pisco
+  parent: pisco
+  slug: waqar-pisco
+  type: ingredient

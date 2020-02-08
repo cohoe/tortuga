@@ -1,0 +1,205 @@
+---
+- display_name: Fortified Wine
+  parent: fermented
+  slug: fortified-wine
+  type: family
+
+- display_name: Lillet Blanc
+  parent: fortified-wine
+  slug: lillet-blanc
+  type: product
+
+- display_name: "Lillet Ros\xE9"
+  parent: fortified-wine
+  slug: lillet-rose
+  type: product
+
+- display_name: "Rose-Infused Lillet Ros\xE9"
+  parent: lillet-rose
+  slug: rose-infused-lillet-rose
+  type: product
+
+- display_name: Lillet Rouge
+  parent: fortified-wine
+  slug: lillet-rouge
+  type: product
+
+- display_name: Madeira
+  parent: fortified-wine
+  slug: madeira
+  type: ingredient
+
+- display_name: Blandy's 5-Year Malmsey Madeira
+  parent: madeira
+  slug: blandy-s-5-year-malmsey-madeira
+  type: product
+
+- display_name: Blandy's Sercial Madeira
+  parent: madeira
+  slug: blandy-s-sercial-madeira
+  type: product
+
+- display_name: Sandeman Rainwater Madeira
+  parent: madeira
+  slug: sandeman-rainwater-madeira
+  type: product
+
+- display_name: Port
+  parent: fortified-wine
+  slug: port
+  type: ingredient
+
+- display_name: 5-year Tawny Port
+  parent: port
+  slug: 5-year-tawny-port
+  type: ingredient
+
+- display_name: Dow's Ruby Port
+  parent: port
+  slug: dow-s-ruby-port
+  type: product
+
+- display_name: Dow's Tawny Port
+  parent: port
+  slug: dow-s-tawny-port
+  type: product
+
+- display_name: Noval Black Port
+  parent: port
+  slug: noval-black-port
+  type: product
+
+- display_name: Offley Rich Tawny Port
+  parent: port
+  slug: offley-rich-tawny-port
+  type: product
+
+- display_name: Otima 10-Year Tawny Port
+  parent: port
+  slug: otima-10-year-tawny-port
+  type: product
+
+- display_name: Ruby Port
+  parent: port
+  slug: ruby-port
+  type: ingredient
+
+- display_name: Sandeman Ruby Port
+  parent: port
+  slug: sandeman-ruby-port
+  type: product
+
+- display_name: White Port
+  parent: port
+  slug: white-port
+  type: product
+
+- display_name: Dubonnet Rouge
+  parent: fermented
+  slug: dubonnet-rouge
+  type: product
+
+- display_name: Sherry
+  parent: fortified-wine
+  slug: sherry
+  type: ingredient
+
+- display_name: Alvear Festival Pale Cream Sherry
+  parent: sherry
+  slug: alvear-festival-pale-cream-sherry
+  type: product
+
+- display_name: Barbadillo Principe Amontillado Sherry
+  parent: sherry
+  slug: barbadillo-principe-amontillado-sherry
+  type: product
+
+- display_name: Dry Sack Sherry
+  parent: sherry
+  slug: dry-sack-sherry
+  type: product
+
+- display_name: Dry Sherry
+  parent: sherry
+  slug: dry-sherry
+  type: ingredient
+
+- display_name: Fino Sherry
+  parent: sherry
+  slug: fino-sherry
+  type: ingredient
+
+- display_name: Harveys Bristol Cream Sherry
+  parent: sherry
+  slug: harveys-bristol-cream-sherry
+  type: product
+
+- display_name: La Cigarrera Manzanilla Sherry
+  parent: sherry
+  slug: la-cigarrera-manzanilla-sherry
+  type: product
+
+- display_name: Lustau Amontillado Sherry
+  parent: sherry
+  slug: lustau-amontillado-sherry
+  type: product
+
+- display_name: Lustau Cream Sherry
+  parent: sherry
+  slug: lustau-cream-sherry
+  type: product
+
+- display_name: Lustau East India Sherry
+  parent: sherry
+  slug: lustau-east-india-sherry
+  type: product
+
+- display_name: Lustau East India Solera Reserva Sherry
+  parent: sherry
+  slug: lustau-east-india-solera-reserva-sherry
+  type: product
+
+- display_name: Lustau Los Arcos Amontillado Sherry
+  parent: sherry
+  slug: lustau-los-arcos-amontillado-sherry
+  type: product
+
+- display_name: Lustau Manzanilla Sherry
+  parent: sherry
+  slug: lustau-manzanilla-sherry
+  type: product
+
+- display_name: Lustau Oloroso Sherry
+  parent: sherry
+  slug: lustau-oloroso-sherry
+  type: product
+
+- display_name: Lustau Palo Cortado Sherry
+  parent: sherry
+  slug: lustau-palo-cortado-sherry
+  type: product
+
+- display_name: "Lustau Pedro Xim\xE9nez Sherry"
+  parent: sherry
+  slug: lustau-pedro-ximenez-sherry
+  type: product
+
+- display_name: Medium Sherry
+  parent: sherry
+  slug: medium-sherry
+  type: ingredient
+
+- display_name: Morenita Cream Sherry
+  parent: sherry
+  slug: morenita-cream-sherry
+  type: ingredient
+
+- display_name: "Toro Albal\xE1 Pedro Xim\xE9nez Sherry"
+  parent: sherry
+  slug: toro-albala-pedro-ximenez-sherry
+  type: ingredient
+
+- display_name: Williams & Humbert Dry Sack Medium Sherry
+  parent: sherry
+  slug: williams-humbert-dry-sack-medium-sherry
+  type: ingredient

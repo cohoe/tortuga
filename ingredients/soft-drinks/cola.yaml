@@ -1,0 +1,15 @@
+---
+- display_name: Cola
+  parent: soft-drinks
+  slug: cola
+  type: family
+
+- display_name: Coca-Cola
+  parent: cola
+  slug: coca-cola
+  type: ingredient
+
+- display_name: Coca-Cola Classic
+  parent: cola
+  slug: coca-cola-classic
+  type: ingredient

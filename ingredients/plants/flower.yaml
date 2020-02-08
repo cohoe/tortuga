@@ -1,0 +1,15 @@
+---
+- display_name: Flower
+  parent: plants
+  slug: flower
+  type: family
+
+- display_name: Rose Water
+  parent: flower
+  slug: rose-water
+  type: ingredient
+
+- display_name: Marivani Rose Flower Water
+  parent: rose-water
+  slug: marivani-rose-flower-water
+  type: ingredient

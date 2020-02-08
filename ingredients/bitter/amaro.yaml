@@ -1,0 +1,95 @@
+---
+- display_name: Amaro
+  parent: bitter
+  slug: amaro
+  type: family
+
+- display_name: Luxardo Amaro Abano
+  parent: amaro
+  slug: luxardo-amaro-abano
+  type: product
+
+- display_name: Amaro Averna
+  parent: amaro
+  slug: amaro-averna
+  type: product
+
+- display_name: Amaro Ciociaro
+  parent: amaro
+  slug: amaro-ciociaro
+  type: product
+
+- display_name: Amaro Lucano
+  parent: amaro
+  slug: amaro-lucano
+  type: product
+
+- display_name: Amaro Luxardo
+  parent: amaro
+  slug: amaro-luxardo
+  type: product
+
+- display_name: Amaro Meletti
+  parent: amaro
+  slug: amaro-meletti
+  type: product
+
+- display_name: Amaro Nardini
+  parent: amaro
+  slug: amaro-nardini
+  type: product
+
+- display_name: Amaro Nonino
+  parent: amaro
+  slug: amaro-nonino
+  type: product
+
+- display_name: Amaro Ramazzotti
+  parent: amaro
+  slug: amaro-ramazzotti
+  type: product
+
+- display_name: Amer Picon
+  parent: amaro
+  slug: amer-picon
+  type: product
+
+- display_name: Averna Amaro
+  parent: amaro
+  slug: averna-amaro
+  type: product
+
+- display_name: Campari
+  parent: amaro
+  slug: campari
+  type: product
+
+- display_name: Cacao Nib-Infused Campari
+  parent: campari
+  slug: cacao-nib-infused-campari
+  type: product
+
+- display_name: Coffee-And Chile-Infused Campari
+  parent: campari
+  slug: coffee-and-chile-infused-campari
+  type: product
+
+- display_name: Cardamaro
+  parent: amaro
+  slug: cardamaro
+  type: product
+
+- display_name: Cynar
+  parent: amaro
+  slug: cynar
+  type: product
+
+- display_name: Fernet-Branca
+  parent: amaro
+  slug: fernet-branca
+  type: product
+
+- display_name: Gran Classico Bitter
+  parent: amaro
+  slug: gran-classico-bitter
+  type: product

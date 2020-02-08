@@ -1,0 +1,20 @@
+---
+- display_name: Egg
+  parent: animal
+  slug: egg
+  type: family
+
+- display_name: Whole Egg
+  parent: egg
+  slug: whole-egg
+  type: ingredient
+
+- display_name: Egg White
+  parent: egg
+  slug: egg-white
+  type: ingredient
+
+- display_name: Egg Yolk
+  parent: egg
+  slug: egg-yolk
+  type: ingredient

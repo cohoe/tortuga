@@ -1,0 +1,100 @@
+---
+- display_name: Vinegar
+  parent: savory
+  slug: vinegar
+  type: family
+
+- display_name: Balsamic Vinegar
+  parent: vinegar
+  slug: balsamic-vinegar
+  type: ingredient
+
+- display_name: Aged Balsamic Vinegar
+  parent: balsamic-vinegar
+  slug: aged-balsamic-vinegar
+  type: ingredient
+
+- display_name: Brine
+  parent: vinegar
+  slug: brine
+  type: ingredient
+
+- display_name: Pickled Ramp Brine
+  parent: brine
+  slug: pickled-ramp-brine
+  type: ingredient
+
+- display_name: Cherry Shrub
+  parent: vinegar
+  slug: cherry-shrub
+  type: ingredient
+
+- display_name: Toby's Sour Cherry Shrub
+  parent: cherry-shrub
+  slug: toby-s-sour-cherry-shrub
+  type: ingredient
+
+- display_name: Concord Shrub
+  parent: vinegar
+  slug: concord-shrub
+  type: ingredient
+
+- display_name: Creole Shrub
+  parent: vinegar
+  slug: creole-shrub
+  type: ingredient
+
+- display_name: "Rhum Cl\xE9ment Creole Shrub"
+  parent: creole-shrub
+  slug: rhum-clement-creole-shrub
+  type: ingredient
+
+- display_name: Gastrique
+  parent: vinegar
+  slug: gastrique
+  type: ingredient
+
+- display_name: Strawberry-Balsamic Gastrique
+  parent: gastrique
+  slug: strawberry-balsamic-gastrique
+  type: ingredient
+
+- display_name: Tarragon And Agave Nectar Gastrique
+  parent: gastrique
+  slug: tarragon-and-agave-nectar-gastrique
+  type: ingredient
+
+- display_name: Malt Vinegar
+  parent: vinegar
+  slug: malt-vinegar
+  type: ingredient
+
+- display_name: Olive Brine
+  parent: vinegar
+  slug: olive-brine
+  type: ingredient
+
+- display_name: Pepper Shrub
+  parent: vinegar
+  slug: pepper-shrub
+  type: ingredient
+
+- display_name: Bittermens Hellfire Habanero Shrub
+  parent: pepper-shrub
+  slug: bittermens-hellfire-habanero-shrub
+  type: ingredient
+
+- display_name: Quince Shrub
+  parent: vinegar
+  slug: quince-shrub
+  type: ingredient
+
+- display_name: Quince Shrub (Huilerie Beaujolaise Vinaigre De Coing)
+  parent: quince-shrub
+  slug: quince-shrub-huilerie-beaujolaise-vinaigre-de-coing
+  type: ingredient
+
+- display_name: Rice Vinegar
+  parent: vinegar
+  slug: rice-vinegar
+  type: ingredient

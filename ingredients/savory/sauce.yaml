@@ -1,0 +1,40 @@
+---
+- display_name: Sauce
+  parent: savory
+  slug: sauce
+  type: family
+
+- display_name: Hot Sauce
+  parent: sauce
+  slug: hot-sauce
+  type: ingredient
+
+- display_name: Cholula Hot Sauce
+  parent: hot-sauce
+  slug: cholula-hot-sauce
+  type: ingredient
+
+- display_name: Tabasco Chipotle Sauce
+  parent: hot-sauce
+  slug: tabasco-chipotle-sauce
+  type: ingredient
+
+- display_name: Tabasco Sauce
+  parent: hot-sauce
+  slug: tabasco-sauce
+  type: ingredient
+
+- display_name: Soy Sauce
+  parent: sauce
+  slug: soy-sauce
+  type: ingredient
+
+- display_name: Tomato Ketchup
+  parent: sauce
+  slug: tomato-ketchup
+  type: ingredient
+
+- display_name: Worcestershire Sauce
+  parent: sauce
+  slug: worcestershire-sauce
+  type: ingredient

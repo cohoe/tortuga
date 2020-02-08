@@ -1,0 +1,120 @@
+---
+- display_name: Wine
+  parent: fermented
+  slug: wine
+  type: family
+
+- display_name: Champagne
+  parent: wine
+  slug: champagne
+  type: ingredient
+
+- display_name: Dry Champagne
+  parent: champagne
+  slug: dry-champagne
+  type: ingredient
+
+- display_name: "Mo\xEBt Imperial Champagne"
+  parent: champagne
+  slug: moet-imperial-champagne
+  type: ingredient
+
+- display_name: Cocchi Americano
+  parent: wine
+  slug: cocchi-americano
+  type: ingredient
+
+- display_name: Cocchi Americano Rosa
+  parent: wine
+  slug: cocchi-americano-rosa
+  type: ingredient
+
+- display_name: Red Wine
+  parent: wine
+  slug: red-wine
+  type: ingredient
+
+- display_name: Beaujolais Nouveau
+  parent: red-wine
+  slug: beaujolais-nouveau
+  type: ingredient
+
+- display_name: Dry Red Wine
+  parent: red-wine
+  slug: dry-red-wine
+  type: ingredient
+
+- display_name: Paumanok Cabernet Franc
+  parent: red-wine
+  slug: paumanok-cabernet-franc
+  type: ingredient
+
+- display_name: Red Rioja Wine
+  parent: red-wine
+  slug: red-rioja-wine
+  type: ingredient
+
+- display_name: "Ros\xE9 Wine"
+  parent: wine
+  slug: rose-wine
+  type: ingredient
+
+- display_name: "Shinn Estate Ros\xE9"
+  parent: rose-wine
+  slug: shinn-estate-rose
+  type: ingredient
+
+- display_name: Sparkling Wine
+  parent: wine
+  slug: sparkling-wine
+  type: ingredient
+
+- display_name: "Carpen\xE8 Malvolti Prosecco"
+  parent: sparkling-wine
+  slug: carpene-malvolti-prosecco
+  type: ingredient
+
+- display_name: Prosecco
+  parent: sparkling-wine
+  slug: prosecco
+  type: ingredient
+
+- display_name: "Sparkling Ros\xE9"
+  parent: sparkling-wine
+  slug: sparkling-rose
+  type: ingredient
+
+- display_name: Tokaji Wine
+  parent: wine
+  slug: tokaji-wine
+  type: ingredient
+
+- display_name: "Tokaji Asz\xFA 5 Puttonyos \"Red Label\""
+  parent: tokaji-wine
+  slug: tokaji-aszu-5-puttonyos-red-label
+  type: ingredient
+
+- display_name: White Wine
+  parent: wine
+  slug: white-wine
+  type: ingredient
+
+- display_name: Channing Daughters Scuttlehole Chardonnay
+  parent: white-wine
+  slug: channing-daughters-scuttlehole-chardonnay
+  type: ingredient
+
+- display_name: Dr. Konstantin Frank Dry Riesling
+  parent: white-wine
+  slug: dr-konstantin-frank-dry-riesling
+  type: ingredient
+
+- display_name: Morro Bay Chardonnay
+  parent: white-wine
+  slug: morro-bay-chardonnay
+  type: ingredient
+
+- display_name: Sauvignon Blanc
+  parent: white-wine
+  slug: sauvignon-blanc
+  type: ingredient

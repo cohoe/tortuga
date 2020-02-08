@@ -1,0 +1,15 @@
+---
+- display_name: Chocolate
+  parent: sweet
+  slug: chocolate
+  type: family
+
+- display_name: Cocoa Powder (unsweetened)
+  parent: chocolate
+  slug: cocoa-powder-unsweetened
+  type: ingredient
+
+- display_name: Hershey's Unsweetened Cocoa Powder
+  parent: cocoa-powder-unsweetened
+  slug: hershey-s-unsweetened-cocoa-powder
+  type: ingredient

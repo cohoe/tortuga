@@ -1,0 +1,15 @@
+---
+- display_name: Marine
+  parent: animal
+  slug: marine
+  type: family
+
+- display_name: Clamato Juice
+  parent: marine
+  slug: clamato-juice
+  type: ingredient
+
+- display_name: Clam Juice
+  parent: marine
+  slug: clam-juice
+  type: ingredient
