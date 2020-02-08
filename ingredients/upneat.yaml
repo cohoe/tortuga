@@ -453,27 +453,37 @@
 - display_name: Blanche De Bruxelles Beer
   parent: beer
   slug: blanche-de-bruxelles-beer
-  type: ingredient
+  type: product
 
 - display_name: Brooklyn Black Chocolate Stout
-  parent: beer
+  parent: stout
   slug: brooklyn-black-chocolate-stout
-  type: ingredient
+  type: product
 
 - display_name: Full Sail Session Black Lager
-  parent: beer
+  parent: lager
   slug: full-sail-session-black-lager
-  type: ingredient
+  type: product
 
 - display_name: Green Flash IPA
-  parent: beer
+  parent: ipa
   slug: green-flash-ipa
+  type: product
+
+- display_name: IPA
+  parent: beer
+  slug: ipa
+  type: ingredient
+
+- display_name: Stout
+  parent: beer
+  slug: stout
   type: ingredient
 
 - display_name: Guinness Stout
-  parent: beer
+  parent: stout
   slug: guinness-stout
-  type: ingredient
+  type: product
 
 - display_name: Lager
   parent: beer
@@ -481,34 +491,34 @@
   type: ingredient
 
 - display_name: Mackeson Stout
-  parent: beer
+  parent: stout
   slug: mackeson-stout
-  type: ingredient
+  type: product
 
 - display_name: Negra Modelo Beer
   parent: beer
   slug: negra-modelo-beer
-  type: ingredient
+  type: product
 
 - display_name: Oud Beersel Framboise
-  parent: beer
+  parent: framboise
   slug: oud-beersel-framboise
-  type: ingredient
+  type: product
 
 - display_name: Southampton Double White Ale
-  parent: beer
+  parent: ale
   slug: southampton-double-white-ale
-  type: ingredient
+  type: product
 
 - display_name: Southampton Pumpkin Ale
-  parent: beer
+  parent: ale
   slug: southampton-pumpkin-ale
-  type: ingredient
+  type: product
 
 - display_name: Victory Pilsner
   parent: beer
   slug: victory-pilsner
-  type: ingredient
+  type: product
 
 - display_name: Cider
   parent: fermented
@@ -523,12 +533,12 @@
 - display_name: Doc's Hard Apple Cider
   parent: apple-cider
   slug: doc-s-hard-apple-cider
-  type: ingredient
+  type: product
 
 - display_name: Dupont Brut Sparkling Cider
   parent: apple-cider
   slug: dupont-brut-sparkling-cider
-  type: ingredient
+  type: product
 
 - display_name: Hot Apple Cider
   parent: apple-cider
@@ -540,11 +550,6 @@
   slug: red-jacket-orchard-apple-cider
   type: ingredient
 
-- display_name: Red Jacket Orchards Apple Cider
-  parent: apple-cider
-  slug: red-jacket-orchards-apple-cider
-  type: ingredient
-
 - display_name: Pear Cider
   parent: cider
   slug: pear-cider
@@ -553,7 +558,7 @@
 - display_name: Doc's Hard Pear Cider
   parent: pear-cider
   slug: doc-s-hard-pear-cider
-  type: ingredient
+  type: product
 
 - display_name: Pommeau
   parent: cider
@@ -563,7 +568,7 @@
 - display_name: Drouhin Pommeau
   parent: pommeau
   slug: drouhin-pommeau
-  type: ingredient
+  type: product
 
 - display_name: Fortified Wine
   parent: fermented
@@ -573,22 +578,22 @@
 - display_name: Lillet Blanc
   parent: fortified-wine
   slug: lillet-blanc
-  type: ingredient
+  type: product
 
 - display_name: "Lillet Ros\xE9"
   parent: fortified-wine
   slug: lillet-rose
-  type: ingredient
+  type: product
 
 - display_name: "Rose-Infused Lillet Ros\xE9"
   parent: lillet-rose
   slug: rose-infused-lillet-rose
-  type: ingredient
+  type: product
 
 - display_name: Lillet Rouge
   parent: fortified-wine
   slug: lillet-rouge
-  type: ingredient
+  type: product
 
 - display_name: Madeira
   parent: fortified-wine
@@ -598,17 +603,17 @@
 - display_name: Blandy's 5-Year Malmsey Madeira
   parent: madeira
   slug: blandy-s-5-year-malmsey-madeira
-  type: ingredient
+  type: product
 
 - display_name: Blandy's Sercial Madeira
   parent: madeira
   slug: blandy-s-sercial-madeira
-  type: ingredient
+  type: product
 
 - display_name: Sandeman Rainwater Madeira
   parent: madeira
   slug: sandeman-rainwater-madeira
-  type: ingredient
+  type: product
 
 - display_name: Port
   parent: fortified-wine
@@ -623,27 +628,27 @@
 - display_name: Dow's Ruby Port
   parent: port
   slug: dow-s-ruby-port
-  type: ingredient
+  type: product
 
 - display_name: Dow's Tawny Port
   parent: port
   slug: dow-s-tawny-port
-  type: ingredient
+  type: product
 
 - display_name: Noval Black Port
   parent: port
   slug: noval-black-port
-  type: ingredient
+  type: product
 
 - display_name: Offley Rich Tawny Port
   parent: port
   slug: offley-rich-tawny-port
-  type: ingredient
+  type: product
 
 - display_name: Otima 10-Year Tawny Port
   parent: port
   slug: otima-10-year-tawny-port
-  type: ingredient
+  type: product
 
 - display_name: Ruby Port
   parent: port
@@ -653,22 +658,17 @@
 - display_name: Sandeman Ruby Port
   parent: port
   slug: sandeman-ruby-port
-  type: ingredient
+  type: product
 
 - display_name: White Port
   parent: port
   slug: white-port
-  type: ingredient
-
-- display_name: Red Dubonnet
-  parent: fortified-wine
-  slug: red-dubonnet
-  type: ingredient
+  type: product
 
 - display_name: Dubonnet Rouge
   parent: red-dubonnet
   slug: dubonnet-rouge
-  type: ingredient
+  type: product
 
 - display_name: Sherry
   parent: fortified-wine
@@ -678,26 +678,21 @@
 - display_name: Alvear Festival Pale Cream Sherry
   parent: sherry
   slug: alvear-festival-pale-cream-sherry
-  type: ingredient
+  type: product
 
 - display_name: Barbadillo Principe Amontillado Sherry
   parent: sherry
   slug: barbadillo-principe-amontillado-sherry
-  type: ingredient
+  type: product
 
 - display_name: Dry Sack Sherry
   parent: sherry
   slug: dry-sack-sherry
-  type: ingredient
+  type: product
 
 - display_name: Dry Sherry
   parent: sherry
   slug: dry-sherry
-  type: ingredient
-
-- display_name: East India Solera Sherry
-  parent: sherry
-  slug: east-india-solera-sherry
   type: ingredient
 
 - display_name: Fino Sherry
@@ -708,62 +703,57 @@
 - display_name: Harveys Bristol Cream Sherry
   parent: sherry
   slug: harveys-bristol-cream-sherry
-  type: ingredient
+  type: product
 
 - display_name: La Cigarrera Manzanilla Sherry
   parent: sherry
   slug: la-cigarrera-manzanilla-sherry
-  type: ingredient
+  type: product
 
 - display_name: Lustau Amontillado Sherry
   parent: sherry
   slug: lustau-amontillado-sherry
-  type: ingredient
+  type: product
 
 - display_name: Lustau Cream Sherry
   parent: sherry
   slug: lustau-cream-sherry
-  type: ingredient
+  type: product
 
 - display_name: Lustau East India Sherry
   parent: sherry
   slug: lustau-east-india-sherry
-  type: ingredient
+  type: product
 
 - display_name: Lustau East India Solera Reserva Sherry
   parent: sherry
   slug: lustau-east-india-solera-reserva-sherry
-  type: ingredient
-
-- display_name: Lustau East India Solera Sherry
-  parent: sherry
-  slug: lustau-east-india-solera-sherry
-  type: ingredient
+  type: product
 
 - display_name: Lustau Los Arcos Amontillado Sherry
   parent: sherry
   slug: lustau-los-arcos-amontillado-sherry
-  type: ingredient
+  type: product
 
 - display_name: Lustau Manzanilla Sherry
   parent: sherry
   slug: lustau-manzanilla-sherry
-  type: ingredient
+  type: product
 
 - display_name: Lustau Oloroso Sherry
   parent: sherry
   slug: lustau-oloroso-sherry
-  type: ingredient
+  type: product
 
 - display_name: Lustau Palo Cortado Sherry
   parent: sherry
   slug: lustau-palo-cortado-sherry
-  type: ingredient
+  type: product
 
 - display_name: "Lustau Pedro Xim\xE9nez Sherry"
   parent: sherry
   slug: lustau-pedro-ximenez-sherry
-  type: ingredient
+  type: product
 
 - display_name: Medium Sherry
   parent: sherry
