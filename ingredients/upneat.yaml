@@ -8,7 +8,7 @@
   type: family
 
 - display_name: Condensed Milk
-  parent: dairy
+  parent: milk
   slug: condensed-milk
   type: ingredient
 
@@ -18,12 +18,12 @@
   type: ingredient
 
 - display_name: Half-and-half
-  parent: dairy
+  parent: milk
   slug: half-and-half
   type: ingredient
 
 - display_name: Heavy Cream
-  parent: dairy
+  parent: milk
   slug: heavy-cream
   type: ingredient
 
@@ -32,9 +32,9 @@
   slug: honey-nut-cheerio-infused-cream
   type: ingredient
 
-- display_name: Ice Cream (vanilla)
+- display_name: Vanilla Ice Cream
   parent: dairy
-  slug: ice-cream-vanilla
+  slug: vanilla-ice-cream
   type: ingredient
 
 - display_name: Irish Cream
@@ -45,21 +45,11 @@
 - display_name: Baileys Irish Cream
   parent: irish-cream
   slug: baileys-irish-cream
-  type: ingredient
+  type: product
 
 - display_name: Milk
   parent: dairy
   slug: milk
-  type: ingredient
-
-- display_name: Milk Or Cream
-  parent: milk
-  slug: milk-or-cream
-  type: ingredient
-
-- display_name: Milk Or Half-and-half
-  parent: milk
-  slug: milk-or-half-and-half
   type: ingredient
 
 - display_name: Whole Milk
@@ -82,9 +72,9 @@
   slug: whipped-irish-coffee-cream
   type: ingredient
 
-- display_name: Whipped Cream (unsweetened)
-  parent: dairy
-  slug: whipped-cream-unsweetened
+- display_name: Unsweetened Whipped Cream
+  parent: whipped-cream
+  slug: unsweetened-whipped-cream
   type: ingredient
 
 - display_name: Yogurt
@@ -102,6 +92,11 @@
   slug: egg
   type: family
 
+- display_name: Whole Egg
+  parent: egg
+  slug: whole-egg
+  type: ingredient
+
 - display_name: Egg White
   parent: egg
   slug: egg-white
@@ -110,11 +105,6 @@
 - display_name: Egg Yolk
   parent: egg
   slug: egg-yolk
-  type: ingredient
-
-- display_name: Organic Egg
-  parent: egg
-  slug: organic-egg
   type: ingredient
 
 - display_name: Marine
@@ -151,100 +141,95 @@
   slug: amaro
   type: family
 
-- display_name: Amaro Abano
-  parent: amaro
-  slug: amaro-abano
-  type: ingredient
-
 - display_name: Luxardo Amaro Abano
-  parent: amaro-abano
+  parent: amaro
   slug: luxardo-amaro-abano
-  type: ingredient
+  type: product
 
 - display_name: Amaro Averna
   parent: amaro
   slug: amaro-averna
-  type: ingredient
+  type: product
 
 - display_name: Amaro Ciociaro
   parent: amaro
   slug: amaro-ciociaro
-  type: ingredient
+  type: product
 
 - display_name: Amaro Lucano
   parent: amaro
   slug: amaro-lucano
-  type: ingredient
+  type: product
 
 - display_name: Amaro Luxardo
   parent: amaro
   slug: amaro-luxardo
-  type: ingredient
+  type: product
 
 - display_name: Amaro Meletti
   parent: amaro
   slug: amaro-meletti
-  type: ingredient
+  type: product
 
 - display_name: Amaro Nardini
   parent: amaro
   slug: amaro-nardini
-  type: ingredient
+  type: product
 
 - display_name: Amaro Nonino
   parent: amaro
   slug: amaro-nonino
-  type: ingredient
+  type: product
 
 - display_name: Amaro Ramazzotti
   parent: amaro
   slug: amaro-ramazzotti
-  type: ingredient
+  type: product
 
 - display_name: Amer Picon
   parent: amaro
   slug: amer-picon
-  type: ingredient
+  type: product
 
 - display_name: Averna Amaro
   parent: amaro
   slug: averna-amaro
-  type: ingredient
+  type: product
 
 - display_name: Campari
   parent: amaro
   slug: campari
-  type: ingredient
+  type: product
 
 - display_name: Cacao Nib-Infused Campari
   parent: campari
   slug: cacao-nib-infused-campari
-  type: ingredient
+  type: product
 
 - display_name: Coffee-And Chile-Infused Campari
   parent: campari
   slug: coffee-and-chile-infused-campari
-  type: ingredient
+  type: product
 
 - display_name: Cardamaro
   parent: amaro
   slug: cardamaro
-  type: ingredient
+  type: product
 
 - display_name: Cynar
   parent: amaro
   slug: cynar
-  type: ingredient
+  type: product
 
 - display_name: Fernet-Branca
   parent: amaro
   slug: fernet-branca
-  type: ingredient
+  type: product
 
 - display_name: Gran Classico Bitter
   parent: amaro
   slug: gran-classico-bitter
-  type: ingredient
+  type: product
 
 - display_name: Bitters
   parent: bitter
@@ -254,17 +239,17 @@
 - display_name: Abbott's Bitters
   parent: bitters
   slug: abbott-s-bitters
-  type: ingredient
+  type: product
 
 - display_name: Amargo Chuncho Bitters
   parent: bitters
   slug: amargo-chuncho-bitters
-  type: ingredient
+  type: product
 
 - display_name: Angostura Bitters
   parent: bitters
   slug: angostura-bitters
-  type: ingredient
+  type: product
 
 - display_name: Apple Bitters
   parent: bitters
@@ -274,7 +259,7 @@
 - display_name: Bar Code Baked Apple Bitters
   parent: apple-bitters
   slug: bar-code-baked-apple-bitters
-  type: ingredient
+  type: product
 
 - display_name: Aromatic Bitters
   parent: bitters
@@ -284,7 +269,7 @@
 - display_name: Bitter Truth Aromatic Bitters
   parent: aromatic-bitters
   slug: bitter-truth-aromatic-bitters
-  type: ingredient
+  type: product
 
 - display_name: Barrel-Aged Bitters
   parent: bitters
@@ -294,60 +279,40 @@
 - display_name: Fee Brothers Whiskey Barrel-Aged Bitters
   parent: barrel-aged-bitters
   slug: fee-brothers-whiskey-barrel-aged-bitters
-  type: ingredient
+  type: product
 
 - display_name: Feldman's BarreleAged Bitters
   parent: barrel-aged-bitters
   slug: feldman-s-barreleaged-bitters
-  type: ingredient
+  type: product
 
-- display_name: Angostura Or Orange Bitters
+- display_name: Bokers Bitters
   parent: bitters
-  slug: angostura-or-orange-bitters
-  type: ingredient
-
-- display_name: Bokers Bitters (substitute Angostura Bitters)
-  parent: bitters
-  slug: bokers-bitters-substitute-angostura-bitters
-  type: ingredient
+  slug: bokers-bitters
+  type: product
 
 - display_name: Fee Brothers Old Fashioned Bitters
   parent: bitters
   slug: fee-brothers-old-fashioned-bitters
-  type: ingredient
-
-- display_name: Orange Bitters (or Angostura Bitters)
-  parent: bitters
-  slug: orange-bitters-or-angostura-bitters
-  type: ingredient
+  type: product
 
 - display_name: Bitter Truth Jerry Thomas' Own Decanter Bitters
   parent: bitters
   slug: bitter-truth-jerry-thomas-own-decanter-bitters
-  type: ingredient
+  type: product
 
 - display_name: Celery Bitters
   parent: bitters
   slug: celery-bitters
   type: ingredient
 
-- display_name: Bitter Truth Celery Bitters
-  parent: celery-bitters
-  slug: bitter-truth-celery-bitters
-  type: ingredient
-
 - display_name: The Bitter Truth Celery Bitters
   parent: celery-bitters
   slug: the-bitter-truth-celery-bitters
-  type: ingredient
-
-- display_name: Cherry Bark & Vanilla Bitters
-  parent: bitters
-  slug: cherry-bark-vanilla-bitters
-  type: ingredient
+  type: product
 
 - display_name: Bittercube Cherry Bark & Vanilla Bitters
-  parent: cherry-bark-vanilla-bitters
+  parent: bitters
   slug: bittercube-cherry-bark-vanilla-bitters
   type: ingredient
 
@@ -359,17 +324,17 @@
 - display_name: Bittermens Hopped Grapefruit Bitters
   parent: grapefruit-bitters
   slug: bittermens-hopped-grapefruit-bitters
-  type: ingredient
+  type: product
 
 - display_name: Fee Brothers Grapefruit Bitters
   parent: grapefruit-bitters
   slug: fee-brothers-grapefruit-bitters
-  type: ingredient
+  type: product
 
 - display_name: The Bitter Truth Grapefruit Bitters
   parent: grapefruit-bitters
   slug: the-bitter-truth-grapefruit-bitters
-  type: ingredient
+  type: product
 
 - display_name: Lemon Bitters
   parent: bitters
@@ -379,7 +344,7 @@
 - display_name: The Bitter Truth Lemon Bitters
   parent: lemon-bitters
   slug: the-bitter-truth-lemon-bitters
-  type: ingredient
+  type: product
 
 - display_name: Mole Bitters
   parent: bitters
@@ -389,7 +354,7 @@
 - display_name: Bittermens Xocolatl Mole Bitters
   parent: mole-bitters
   slug: bittermens-xocolatl-mole-bitters
-  type: ingredient
+  type: product
 
 - display_name: Orange Bitters
   parent: bitters
@@ -399,22 +364,17 @@
 - display_name: Angostura Orange Bitters
   parent: orange-bitters
   slug: angostura-orange-bitters
-  type: ingredient
+  type: product
 
 - display_name: House Orange Bitters
   parent: orange-bitters
   slug: house-orange-bitters
-  type: ingredient
+  type: product
 
 - display_name: Regan's Orange Bitters
   parent: orange-bitters
   slug: regan-s-orange-bitters
-  type: ingredient
-
-- display_name: Regans' Orange Bitters
-  parent: orange-bitters
-  slug: regans-orange-bitters
-  type: ingredient
+  type: product
 
 - display_name: Peach Bitters
   parent: bitters
@@ -424,17 +384,17 @@
 - display_name: Fee Brothers Peach Bitters
   parent: peach-bitters
   slug: fee-brothers-peach-bitters
-  type: ingredient
+  type: product
 
 - display_name: Peychaud's Bitters
   parent: bitters
   slug: peychaud-s-bitters
-  type: ingredient
+  type: product
 
 - display_name: House Peychaud's Bitters
   parent: peychaud-s-bitters
   slug: house-peychaud-s-bitters
-  type: ingredient
+  type: product
 
 - display_name: Pimento Bitters
   parent: bitters
@@ -444,7 +404,7 @@
 - display_name: Dale Degroff's Pimento Bitters
   parent: pimento-bitters
   slug: dale-degroff-s-pimento-bitters
-  type: ingredient
+  type: product
 
 - display_name: Rhubarb Bitters
   parent: bitters
@@ -454,7 +414,7 @@
 - display_name: Fee Brothers Rhubarb Bitters
   parent: rhubarb-bitters
   slug: fee-brothers-rhubarb-bitters
-  type: ingredient
+  type: product
 
 - display_name: Tiki Bitters
   parent: bitters
@@ -464,7 +424,7 @@
 - display_name: "Bittermens 'Elemakule Tiki Bitters"
   parent: tiki-bitters
   slug: bittermens-elemakule-tiki-bitters
-  type: ingredient
+  type: product
 
 - display_name: Verbena Bitters
   parent: bitters
@@ -474,7 +434,7 @@
 - display_name: A.B. Smeby Verbena Bitters
   parent: verbena-bitters
   slug: a-b-smeby-verbena-bitters
-  type: ingredient
+  type: product
 
 - display_name: Fermented
   slug: fermented
@@ -3506,7 +3466,7 @@
   type: ingredient
 
 - display_name: Bacardi Light Rum
-  parent: rum
+  parent: light-rum
   slug: bacardi-light-rum
   type: ingredient
 
