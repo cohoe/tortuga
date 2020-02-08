@@ -2,29 +2,29 @@
 - display_name: Coffee
   parent: plants
   slug: coffee
-  type: family
+  kind: family
 
 - display_name: Coffee Concentrate
   parent: coffee
   slug: coffee-concentrate
-  type: ingredient
+  kind: ingredient
 
 - display_name: Freshly Brewed Coffee
   parent: coffee
   slug: freshly-brewed-coffee
-  type: ingredient
+  kind: ingredient
 
 - display_name: Hot Coffee
   parent: coffee
   slug: hot-coffee
-  type: ingredient
+  kind: ingredient
 
 - display_name: Espresso
   parent: coffee
   slug: espresso
-  type: ingredient
+  kind: ingredient
 
 - display_name: Cold Espresso
   parent: espresso
   slug: cold-espresso
-  type: ingredient
+  kind: ingredient

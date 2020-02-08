@@ -2,19 +2,19 @@
 - display_name: Salt
   parent: savory
   slug: salt
-  type: family
+  kind: family
 
 - display_name: Celery Salt
   parent: salt
   slug: celery-salt
-  type: ingredient
+  kind: ingredient
 
 - display_name: Coarse Salt, For Rimming
   parent: salt
   slug: coarse-salt-for-rimming
-  type: ingredient
+  kind: ingredient
 
 - display_name: Kosher Salt
   parent: salt
   slug: kosher-salt
-  type: ingredient
+  kind: ingredient

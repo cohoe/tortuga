@@ -2,69 +2,69 @@
 - display_name: Fruit That Seems Like Vegetable
   parent: fruits
   slug: fruit-that-seems-like-vegetable
-  type: family
+  kind: family
 
 - display_name: Bell Pepper
   parent: fruit-that-seems-like-vegetable
   slug: bell-pepper
-  type: ingredient
+  kind: ingredient
 
 - display_name: Green Bell Pepper
   parent: bell-pepper
   slug: green-bell-pepper
-  type: ingredient
+  kind: ingredient
 
 - display_name: Red Bell Pepper
   parent: bell-pepper
   slug: red-bell-pepper
-  type: ingredient
+  kind: ingredient
 
 - display_name: "Red Bell Pepper Pur\xE9e"
   parent: bell-pepper
   slug: red-bell-pepper-puree
-  type: ingredient
+  kind: ingredient
 
 - display_name: Cucumber
   parent: fruit-that-seems-like-vegetable
   slug: cucumber
-  type: ingredient
+  kind: ingredient
 
 - display_name: "Jalape\xF1o"
   parent: fruit-that-seems-like-vegetable
   slug: jalapeno
-  type: ingredient
+  kind: ingredient
 
 - display_name: "Jalape\xF1o With A Few Seeds"
   parent: jalapeno
   slug: jalapeno-with-a-few-seeds
-  type: ingredient
+  kind: ingredient
 
 - display_name: "Seeded Jalape\xF1o"
   parent: jalapeno
   slug: seeded-jalapeno
-  type: ingredient
+  kind: ingredient
 
 - display_name: Pumpkin
   parent: fruit-that-seems-like-vegetable
   slug: pumpkin
-  type: ingredient
+  kind: ingredient
 
 - display_name: "Libby's Pumpkin Pur\xE9e"
   parent: pumpkin
   slug: libby-s-pumpkin-puree
-  type: ingredient
+  kind: ingredient
 
 - display_name: "Pumpkin Pur\xE9e"
   parent: pumpkin
   slug: pumpkin-puree
-  type: ingredient
+  kind: ingredient
 
 - display_name: Tomato
   parent: fruit-that-seems-like-vegetable
   slug: tomato
-  type: ingredient
+  kind: ingredient
 
 - display_name: Cherry Tomato
   parent: tomato
   slug: cherry-tomato
-  type: ingredient
+  kind: ingredient

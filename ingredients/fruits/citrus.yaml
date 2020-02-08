@@ -2,74 +2,74 @@
 - display_name: Citrus
   parent: fruits
   slug: citrus
-  type: family
+  kind: family
 
 - display_name: Calamondin
   parent: citrus
   slug: calamondin
-  type: ingredient
+  kind: ingredient
 
 - display_name: "Boiron Kalamansi Pur\xE9e"
   parent: calamondin
   slug: boiron-kalamansi-puree
-  type: ingredient
+  kind: ingredient
 
 - display_name: Citrus Fruit
   parent: citrus
   slug: citrus-fruit
-  type: ingredient
+  kind: ingredient
 
 - display_name: Lemon Or Lime
   parent: citrus-fruit
   slug: lemon-or-lime
-  type: ingredient
+  kind: ingredient
 
 - display_name: Lemon Or Lime Juice
   parent: citrus-fruit
   slug: lemon-or-lime-juice
-  type: ingredient
+  kind: ingredient
 
 - display_name: Kaffir Lime
   parent: citrus
   slug: kaffir-lime
-  type: ingredient
+  kind: ingredient
 
 - display_name: Lemon
   parent: citrus
   slug: lemon
-  type: ingredient
+  kind: ingredient
 
 - display_name: Lemon Juice
   parent: lemon
   slug: lemon-juice
-  type: ingredient
+  kind: ingredient
 
 - display_name: Lime
   parent: citrus
   slug: lime
-  type: ingredient
+  kind: ingredient
 
 - display_name: Lime Juice
   parent: lime
   slug: lime-juice
-  type: ingredient
+  kind: ingredient
 
 - display_name: Orange
   parent: citrus
   slug: orange
-  type: ingredient
+  kind: ingredient
 
 - display_name: Orange Flower Water
   parent: citrus
   slug: orange-flower-water
-  type: ingredient
+  kind: ingredient
 
 - display_name: Tangerine
   parent: citrus
   slug: tangerine
-  type: ingredient
+  kind: ingredient
 
 - display_name: Tangerine Juice
   parent: tangerine
   slug: tangerine-juice
-  type: ingredient
+  kind: ingredient

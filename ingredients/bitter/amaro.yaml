@@ -2,94 +2,94 @@
 - display_name: Amaro
   parent: bitter
   slug: amaro
-  type: family
+  kind: family
 
 - display_name: Luxardo Amaro Abano
   parent: amaro
   slug: luxardo-amaro-abano
-  type: product
+  kind: product
 
 - display_name: Amaro Averna
   parent: amaro
   slug: amaro-averna
-  type: product
+  kind: product
 
 - display_name: Amaro Ciociaro
   parent: amaro
   slug: amaro-ciociaro
-  type: product
+  kind: product
 
 - display_name: Amaro Lucano
   parent: amaro
   slug: amaro-lucano
-  type: product
+  kind: product
 
 - display_name: Amaro Luxardo
   parent: amaro
   slug: amaro-luxardo
-  type: product
+  kind: product
 
 - display_name: Amaro Meletti
   parent: amaro
   slug: amaro-meletti
-  type: product
+  kind: product
 
 - display_name: Amaro Nardini
   parent: amaro
   slug: amaro-nardini
-  type: product
+  kind: product
 
 - display_name: Amaro Nonino
   parent: amaro
   slug: amaro-nonino
-  type: product
+  kind: product
 
 - display_name: Amaro Ramazzotti
   parent: amaro
   slug: amaro-ramazzotti
-  type: product
+  kind: product
 
 - display_name: Amer Picon
   parent: amaro
   slug: amer-picon
-  type: product
+  kind: product
 
 - display_name: Averna Amaro
   parent: amaro
   slug: averna-amaro
-  type: product
+  kind: product
 
 - display_name: Campari
   parent: amaro
   slug: campari
-  type: product
+  kind: product
 
 - display_name: Cacao Nib-Infused Campari
   parent: campari
   slug: cacao-nib-infused-campari
-  type: custom
+  kind: custom
 
 - display_name: Coffee-And Chile-Infused Campari
   parent: campari
   slug: coffee-and-chile-infused-campari
-  type: custom
+  kind: custom
 
 - display_name: Cardamaro
   parent: amaro
   slug: cardamaro
-  type: product
+  kind: product
 
 - display_name: Cynar
   parent: amaro
   slug: cynar
-  type: product
+  kind: product
 
 - display_name: Fernet-Branca
   parent: amaro
   slug: fernet-branca
-  type: product
+  kind: product
 
 - display_name: Gran Classico Bitter
   parent: amaro
   slug: gran-classico-bitter
-  type: product
+  kind: product

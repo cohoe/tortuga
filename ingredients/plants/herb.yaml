@@ -2,104 +2,104 @@
 - display_name: Herb
   parent: plants
   slug: herb
-  type: family
+  kind: family
 
 - display_name: Basil
   parent: herb
   slug: basil
-  type: ingredient
+  kind: ingredient
 
 - display_name: Thai Basil
   parent: basil
   slug: thai-basil
-  type: ingredient
+  kind: ingredient
 
 - display_name: Dill
   parent: herb
   slug: dill
-  type: ingredient
+  kind: ingredient
 
 - display_name: Dry Dill
   parent: dill
   slug: dry-dill
-  type: ingredient
+  kind: ingredient
 
 - display_name: Fresh Dill
   parent: dill
   slug: fresh-dill
-  type: ingredient
+  kind: ingredient
 
 - display_name: Fennel
   parent: herb
   slug: fennel
-  type: ingredient
+  kind: ingredient
 
 - display_name: Fennel Bulb
   parent: fennel
   slug: fennel-bulb
-  type: ingredient
+  kind: ingredient
 
 - display_name: Goldenseal
   parent: herb
   slug: goldenseal
-  type: ingredient
+  kind: ingredient
 
 - display_name: Herb Pharm Goldenseal Tincture
   parent: goldenseal
   slug: herb-pharm-goldenseal-tincture
-  type: ingredient
+  kind: ingredient
 
 - display_name: Lavender
   parent: herb
   slug: lavender
-  type: ingredient
+  kind: ingredient
 
 - display_name: Lavender Tincture
   parent: lavender
   slug: lavender-tincture
-  type: ingredient
+  kind: ingredient
 
 - display_name: Mint
   parent: herb
   slug: mint
-  type: ingredient
+  kind: ingredient
 
 - display_name: Mint Leaves
   parent: mint
   slug: mint-leaves
-  type: ingredient
+  kind: ingredient
 
 - display_name: Oregano
   parent: herb
   slug: oregano
-  type: ingredient
+  kind: ingredient
 
 - display_name: Rosemary
   parent: herb
   slug: rosemary
-  type: ingredient
+  kind: ingredient
 
 - display_name: Sage
   parent: herb
   slug: sage
-  type: ingredient
+  kind: ingredient
 
 - display_name: Shiso
   parent: herb
   slug: shiso
-  type: ingredient
+  kind: ingredient
 
 - display_name: Sorrel
   parent: herb
   slug: sorrel
-  type: ingredient
+  kind: ingredient
 
 - display_name: Spiced Sorrel
   parent: sorrel
   slug: spiced-sorrel
-  type: ingredient
+  kind: ingredient
 
 - display_name: Carrot Juice
   parent: vegetable
   slug: carrot-juice
-  type: ingredient
+  kind: ingredient

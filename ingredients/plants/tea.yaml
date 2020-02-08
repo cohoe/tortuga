@@ -2,29 +2,29 @@
 - display_name: Tea
   parent: plants
   slug: tea
-  type: family
+  kind: family
 
 - display_name: Chilled Brewed Hibiscus Tea
   parent: tea
   slug: chilled-brewed-hibiscus-tea
-  type: ingredient
+  kind: ingredient
 
 - display_name: Freshly Brewed Chamomile Tea
   parent: tea
   slug: freshly-brewed-chamomile-tea
-  type: ingredient
+  kind: ingredient
 
 - display_name: Golden Star Sparkling White Jasmine Tea
   parent: tea
   slug: golden-star-sparkling-white-jasmine-tea
-  type: ingredient
+  kind: ingredient
 
 - display_name: Hot Tea
   parent: tea
   slug: hot-tea
-  type: ingredient
+  kind: ingredient
 
 - display_name: Lipton Cold-brew Tea
   parent: tea
   slug: lipton-cold-brew-tea
-  type: ingredient
+  kind: ingredient

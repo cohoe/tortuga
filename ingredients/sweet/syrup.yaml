@@ -2,239 +2,239 @@
 - display_name: Syrup
   parent: sweet
   slug: syrup
-  type: family
+  kind: family
 
 - display_name: Agave Nectar
   parent: syrup
   slug: agave-nectar
-  type: ingredient
+  kind: ingredient
 
 - display_name: Agave Syrup
   parent: agave-nectar
   slug: agave-syrup
-  type: ingredient
+  kind: ingredient
 
 - display_name: Brown Sugar Syrup
   parent: syrup
   slug: brown-sugar-syrup
-  type: ingredient
+  kind: ingredient
 
 - display_name: Demerara Syrup
   parent: brown-sugar-syrup
   slug: demerara-syrup
-  type: ingredient
+  kind: ingredient
 
 - display_name: Falernum
   parent: syrup
   slug: falernum
-  type: ingredient
+  kind: ingredient
 
 - display_name: John D. Taylor's Velvet Falernum
   parent: falernum
   slug: john-d-taylor-s-velvet-falernum
-  type: ingredient
+  kind: ingredient
 
 - display_name: Velvet Falernum
   parent: falernum
   slug: velvet-falernum
-  type: ingredient
+  kind: ingredient
 
 - display_name: Grenadine
   parent: syrup
   slug: grenadine
-  type: ingredient
+  kind: ingredient
 
 - display_name: House Grenadine
   parent: grenadine
   slug: house-grenadine
-  type: ingredient
+  kind: ingredient
 
 - display_name: Gum Syrup
   parent: syrup
   slug: gum-syrup
-  type: ingredient
+  kind: ingredient
 
 - display_name: Honey Syrup
   parent: syrup
   slug: honey-syrup
-  type: ingredient
+  kind: ingredient
 
 - display_name: Acacia Honey Syrup
   parent: honey-syrup
   slug: acacia-honey-syrup
-  type: ingredient
+  kind: ingredient
 
 - display_name: Infused Syrup
   parent: syrup
   slug: infused-syrup
-  type: ingredient
+  kind: ingredient
 
 - display_name: Banana Syrup
   parent: infused-syrup
   slug: banana-syrup
-  type: ingredient
+  kind: ingredient
 
 - display_name: Black Cardamom Syrup
   parent: infused-syrup
   slug: black-cardamom-syrup
-  type: ingredient
+  kind: ingredient
 
 - display_name: Braeburn Apple Syrup
   parent: infused-syrup
   slug: braeburn-apple-syrup
-  type: ingredient
+  kind: ingredient
 
 - display_name: Cinnamon Bark Syrup
   parent: infused-syrup
   slug: cinnamon-bark-syrup
-  type: ingredient
+  kind: ingredient
 
 - display_name: Clove Syrup
   parent: infused-syrup
   slug: clove-syrup
-  type: ingredient
+  kind: ingredient
 
 - display_name: Cumin Syrup
   parent: infused-syrup
   slug: cumin-syrup
-  type: ingredient
+  kind: ingredient
 
 - display_name: Curried Ginger Syrup
   parent: infused-syrup
   slug: curried-ginger-syrup
-  type: ingredient
+  kind: ingredient
 
 - display_name: Espresso-Infused Demerara Syrup
   parent: infused-syrup
   slug: espresso-infused-demerara-syrup
-  type: ingredient
+  kind: ingredient
 
 - display_name: Eurovanille Vanilla Syrup
   parent: infused-syrup
   slug: eurovanille-vanilla-syrup
-  type: ingredient
+  kind: ingredient
 
 - display_name: Ginger Syrup
   parent: infused-syrup
   slug: ginger-syrup
-  type: ingredient
+  kind: ingredient
 
 - display_name: Hibiscus Syrup
   parent: infused-syrup
   slug: hibiscus-syrup
-  type: ingredient
+  kind: ingredient
 
 - display_name: Lemongrass Syrup
   parent: infused-syrup
   slug: lemongrass-syrup
-  type: ingredient
+  kind: ingredient
 
 - display_name: Mymoune Rose Syrup
   parent: infused-syrup
   slug: mymoune-rose-syrup
-  type: ingredient
+  kind: ingredient
 
 - display_name: Passion Fruit Syrup
   parent: infused-syrup
   slug: passion-fruit-syrup
-  type: ingredient
+  kind: ingredient
 
 - display_name: Scarlet Glow Syrup
   parent: infused-syrup
   slug: scarlet-glow-syrup
-  type: ingredient
+  kind: ingredient
 
 - display_name: Vanilla Syrup
   parent: infused-syrup
   slug: vanilla-syrup
-  type: ingredient
+  kind: ingredient
 
 - display_name: Maple Syrup
   parent: syrup
   slug: maple-syrup
-  type: ingredient
+  kind: ingredient
 
 - display_name: Deep Mountain Grade B Maple Syrup
   parent: maple-syrup
   slug: deep-mountain-grade-b-maple-syrup
-  type: ingredient
+  kind: ingredient
 
 - display_name: Grade B Maple Syrup
   parent: maple-syrup
   slug: grade-b-maple-syrup
-  type: ingredient
+  kind: ingredient
 
 - display_name: Orgeat
   parent: syrup
   slug: orgeat
-  type: ingredient
+  kind: ingredient
 
 - display_name: Kassatly Chtaura Orgeat
   parent: orgeat
   slug: kassatly-chtaura-orgeat
-  type: ingredient
+  kind: ingredient
 
 - display_name: Pomegranate Molasses
   parent: syrup
   slug: pomegranate-molasses
-  type: ingredient
+  kind: ingredient
 
 - display_name: Al Wadi Pomegranate Molasses
   parent: pomegranate-molasses
   slug: al-wadi-pomegranate-molasses
-  type: ingredient
+  kind: ingredient
 
 - display_name: Rice Syrup
   parent: syrup
   slug: rice-syrup
-  type: ingredient
+  kind: ingredient
 
 - display_name: Ssal-Yut Rice Syrup
   parent: rice-syrup
   slug: ssal-yut-rice-syrup
-  type: ingredient
+  kind: ingredient
 
 - display_name: Rich Syrup
   parent: syrup
   slug: rich-syrup
-  type: ingredient
+  kind: ingredient
 
 - display_name: Rich Cane Sugar Syrup
   parent: rich-syrup
   slug: rich-cane-sugar-syrup
-  type: ingredient
+  kind: ingredient
 
 - display_name: Rich Demerara Syrup
   parent: rich-syrup
   slug: rich-demerara-syrup
-  type: ingredient
+  kind: ingredient
 
 - display_name: Simple Syrup
   parent: syrup
   slug: simple-syrup
-  type: ingredient
+  kind: ingredient
 
 - display_name: Caramelized Simple Syrup
   parent: simple-syrup
   slug: caramelized-simple-syrup
-  type: ingredient
+  kind: ingredient
 
 - display_name: Sugar Cane Syrup
   parent: syrup
   slug: sugar-cane-syrup
-  type: ingredient
+  kind: ingredient
 
 - display_name: Martinique Sugar Cane Syrup
   parent: sugar-cane-syrup
   slug: martinique-sugar-cane-syrup
-  type: ingredient
+  kind: ingredient
 
 - display_name: Tonic Syrup
   parent: syrup
   slug: tonic-syrup
-  type: ingredient
+  kind: ingredient
 
 - display_name: Zombie Mix
   parent: syrup
   slug: zombie-mix
-  type: ingredient
+  kind: ingredient

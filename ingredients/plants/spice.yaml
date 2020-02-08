@@ -2,69 +2,69 @@
 - display_name: Spice
   parent: plants
   slug: spice
-  type: family
+  kind: family
 
 - display_name: Cardamom
   parent: spice
   slug: cardamom
-  type: ingredient
+  kind: ingredient
 
 - display_name: Cinnamon
   parent: spice
   slug: cinnamon
-  type: ingredient
+  kind: ingredient
 
 - display_name: Cloves
   parent: spice
   slug: cloves
-  type: ingredient
+  kind: ingredient
 
 - display_name: Curry Leaf
   parent: spice
   slug: curry-leaf
-  type: ingredient
+  kind: ingredient
 
 - display_name: Ginger
   parent: spice
   slug: ginger
-  type: ingredient
+  kind: ingredient
 
 - display_name: Freshly-Peeled Ginger
   parent: ginger
   slug: freshly-peeled-ginger
-  type: ingredient
+  kind: ingredient
 
 - display_name: Mustard
   parent: spice
   slug: mustard
-  type: ingredient
+  kind: ingredient
 
 - display_name: Gulden's Spicy Brown Mustard
   parent: mustard
   slug: gulden-s-spicy-brown-mustard
-  type: ingredient
+  kind: ingredient
 
 - display_name: Nutmeg
   parent: spice
   slug: nutmeg
-  type: ingredient
+  kind: ingredient
 
 - display_name: Pepper
   parent: spice
   slug: pepper
-  type: ingredient
+  kind: ingredient
 
 - display_name: Black Pepper
   parent: pepper
   slug: black-pepper
-  type: ingredient
+  kind: ingredient
 
 - display_name: Ground Pepper
   parent: pepper
   slug: ground-pepper
-  type: ingredient
+  kind: ingredient
 
 - display_name: Whole Black Peppercorn
   parent: pepper
   slug: whole-black-peppercorn
-  type: ingredient
+  kind: ingredient

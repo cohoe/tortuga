@@ -2,14 +2,14 @@
 - display_name: Grain Milk
   parent: soft-drinks
   slug: grain-milk
-  type: family
+  kind: family
 
 - display_name: Horchata
   parent: grain-milk
   slug: horchata
-  type: ingredient
+  kind: ingredient
 
 - display_name: House Horchata
   parent: horchata
   slug: house-horchata
-  type: ingredient
+  kind: ingredient

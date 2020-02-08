@@ -2,14 +2,14 @@
 - display_name: Cola
   parent: soft-drinks
   slug: cola
-  type: family
+  kind: family
 
 - display_name: Coca-Cola
   parent: cola
   slug: coca-cola
-  type: ingredient
+  kind: ingredient
 
 - display_name: Coca-Cola Classic
   parent: cola
   slug: coca-cola-classic
-  type: ingredient
+  kind: ingredient

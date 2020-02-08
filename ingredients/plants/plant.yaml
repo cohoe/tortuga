@@ -2,14 +2,14 @@
 - display_name: Plant
   parent: plants
   slug: plant
-  type: family
+  kind: family
 
 - display_name: Tobacco
   parent: plant
   slug: tobacco
-  type: ingredient
+  kind: ingredient
 
 - display_name: Aftel Tobacco Essence
   parent: tobacco
   slug: aftel-tobacco-essence
-  type: ingredient
+  kind: ingredient

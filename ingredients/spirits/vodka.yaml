@@ -2,104 +2,104 @@
 - display_name: Vodka
   parent: spirits
   slug: vodka
-  type: family
+  kind: family
 
 - display_name: Chocolate Vodka
   parent: vodka
   slug: chocolate-vodka
-  type: ingredient
+  kind: ingredient
 
 - display_name: Alchemia Chocolate Vodka
   parent: chocolate-vodka
   slug: alchemia-chocolate-vodka
-  type: ingredient
+  kind: ingredient
 
 - display_name: Citrus Vodka
   parent: vodka
   slug: citrus-vodka
-  type: ingredient
+  kind: ingredient
 
 - display_name: Absolut Citron Vodka
   parent: citrus-vodka
   slug: absolut-citron-vodka
-  type: ingredient
+  kind: ingredient
 
 - display_name: Absolut Mandrin Vodka
   parent: citrus-vodka
   slug: absolut-mandrin-vodka
-  type: ingredient
+  kind: ingredient
 
 - display_name: Citron Vodka
   parent: citrus-vodka
   slug: citron-vodka
-  type: ingredient
+  kind: ingredient
 
 - display_name: Orange Vodka
   parent: citrus-vodka
   slug: orange-vodka
-  type: ingredient
+  kind: ingredient
 
 - display_name: Stolichnaya Limonaya Vodka
   parent: citrus-vodka
   slug: stolichnaya-limonaya-vodka
-  type: ingredient
+  kind: ingredient
 
 - display_name: Stolichnaya Ohranj Vodka
   parent: citrus-vodka
   slug: stolichnaya-ohranj-vodka
-  type: ingredient
+  kind: ingredient
 
 - display_name: Fruit Vodka
   parent: vodka
   slug: fruit-vodka
-  type: ingredient
+  kind: ingredient
 
 - display_name: 42 Below Kiwi Vodka
   parent: fruit-vodka
   slug: 42-below-kiwi-vodka
-  type: ingredient
+  kind: ingredient
 
 - display_name: Absolut Kurant Vodka
   parent: fruit-vodka
   slug: absolut-kurant-vodka
-  type: ingredient
+  kind: ingredient
 
 - display_name: Heart Of The Hudson Apple Vodka
   parent: fruit-vodka
   slug: heart-of-the-hudson-apple-vodka
-  type: ingredient
+  kind: ingredient
 
 - display_name: Pepper Vodka
   parent: vodka
   slug: pepper-vodka
-  type: ingredient
+  kind: ingredient
 
 - display_name: Vanilla Vodka
   parent: vodka
   slug: vanilla-vodka
-  type: ingredient
+  kind: ingredient
 
 - display_name: Stolichnaya Vanil Vodka
   parent: vanilla-vodka
   slug: stolichnaya-vanil-vodka
-  type: ingredient
+  kind: ingredient
 
 - display_name: Absolut Vodka
   parent: vodka
   slug: absolut-vodka
-  type: ingredient
+  kind: ingredient
 
 - display_name: Karlsson's Gold Vodka
   parent: vodka
   slug: karlsson-s-gold-vodka
-  type: ingredient
+  kind: ingredient
 
 - display_name: Smirnoff Black Vodka
   parent: vodka
   slug: smirnoff-black-vodka
-  type: ingredient
+  kind: ingredient
 
 - display_name: Stolichnaya Vodka
   parent: vodka
   slug: stolichnaya-vodka
-  type: ingredient
+  kind: ingredient

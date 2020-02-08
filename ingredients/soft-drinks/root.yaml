@@ -2,34 +2,34 @@
 - display_name: Root
   parent: soft-drinks
   slug: root
-  type: family
+  kind: family
 
 - display_name: Ginger Ale
   parent: root
   slug: ginger-ale
-  type: ingredient
+  kind: ingredient
 
 - display_name: Fever Tree Ginger Ale
   parent: ginger-ale
   slug: fever-tree-ginger-ale
-  type: ingredient
+  kind: ingredient
 
 - display_name: Ginger Beer
   parent: root
   slug: ginger-beer
-  type: ingredient
+  kind: ingredient
 
 - display_name: House Ginger Beer
   parent: ginger-beer
   slug: house-ginger-beer
-  type: ingredient
+  kind: ingredient
 
 - display_name: Root Beer
   parent: root
   slug: root-beer
-  type: ingredient
+  kind: ingredient
 
 - display_name: Fitz's Root Beer
   parent: root-beer
   slug: fitz-s-root-beer
-  type: ingredient
+  kind: ingredient

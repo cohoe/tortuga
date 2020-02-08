@@ -2,44 +2,44 @@
 - display_name: Berry
   parent: fruits
   slug: berry
-  type: family
+  kind: family
 
 - display_name: Blackberry
   parent: berry
   slug: blackberry
-  type: ingredient
+  kind: ingredient
 
 - display_name: Blueberry
   parent: berry
   slug: blueberry
-  type: ingredient
+  kind: ingredient
 
 - display_name: Blueberries
   parent: blueberry
   slug: blueberries
-  type: ingredient
+  kind: ingredient
 
 - display_name: Cranberry
   parent: berry
   slug: cranberry
-  type: ingredient
+  kind: ingredient
 
 - display_name: Macerated Cranberry
   parent: cranberry
   slug: macerated-cranberry
-  type: ingredient
+  kind: ingredient
 
 - display_name: Mixed-Berry Marinade
   parent: berry
   slug: mixed-berry-marinade
-  type: ingredient
+  kind: ingredient
 
 - display_name: Raspberry
   parent: berry
   slug: raspberry
-  type: ingredient
+  kind: ingredient
 
 - display_name: Strawberry
   parent: berry
   slug: strawberry
-  type: ingredient
+  kind: ingredient

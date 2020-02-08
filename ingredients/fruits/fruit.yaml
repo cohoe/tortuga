@@ -2,209 +2,209 @@
 - display_name: Fruit
   parent: fruits
   slug: fruit
-  type: family
+  kind: family
 
 - display_name: Apple
   parent: fruit
   slug: apple
-  type: ingredient
+  kind: ingredient
 
 - display_name: Fuji Apple
   parent: apple
   slug: fuji-apple
-  type: ingredient
+  kind: ingredient
 
 - display_name: Granny Smith Apple
   parent: apple
   slug: granny-smith-apple
-  type: ingredient
+  kind: ingredient
 
 - display_name: Banana
   parent: fruit
   slug: banana
-  type: ingredient
+  kind: ingredient
 
 - display_name: Cherry
   parent: fruit
   slug: cherry
-  type: ingredient
+  kind: ingredient
 
 - display_name: Brandied Cherry
   parent: cherry
   slug: brandied-cherry
-  type: ingredient
+  kind: ingredient
 
 - display_name: Kirsch Brandied Cherry
   parent: cherry
   slug: kirsch-brandied-cherry
-  type: ingredient
+  kind: ingredient
 
 - display_name: Maraschino Cherry
   parent: cherry
   slug: maraschino-cherry
-  type: ingredient
+  kind: ingredient
 
 - display_name: Pitted Cherry
   parent: cherry
   slug: pitted-cherry
-  type: ingredient
+  kind: ingredient
 
 - display_name: Sour Cherries
   parent: cherry
   slug: sour-cherries
-  type: ingredient
+  kind: ingredient
 
 - display_name: Sweet Cherries
   parent: cherry
   slug: sweet-cherries
-  type: ingredient
+  kind: ingredient
 
 - display_name: Grape
   parent: fruit
   slug: grape
-  type: ingredient
+  kind: ingredient
 
 - display_name: Concord Grape
   parent: grape
   slug: concord-grape
-  type: ingredient
+  kind: ingredient
 
 - display_name: Green Grapes
   parent: grape
   slug: green-grapes
-  type: ingredient
+  kind: ingredient
 
 - display_name: Mango
   parent: fruit
   slug: mango
-  type: ingredient
+  kind: ingredient
 
 - display_name: "Mango Pur\xE9e"
   parent: mango
   slug: mango-puree
-  type: ingredient
+  kind: ingredient
 
 - display_name: Melon
   parent: fruit
   slug: melon
-  type: ingredient
+  kind: ingredient
 
 - display_name: Canteloupe
   parent: melon
   slug: canteloupe
-  type: ingredient
+  kind: ingredient
 
 - display_name: Honeydew Melon Juice
   parent: melon
   slug: honeydew-melon-juice
-  type: ingredient
+  kind: ingredient
 
 - display_name: Yellow And Honeydew Melon
   parent: melon
   slug: yellow-and-honeydew-melon
-  type: ingredient
+  kind: ingredient
 
 - display_name: Nectarine
   parent: fruit
   slug: nectarine
-  type: ingredient
+  kind: ingredient
 
 - display_name: Passion Fruit
   parent: fruit
   slug: passion-fruit
-  type: ingredient
+  kind: ingredient
 
 - display_name: "Boiron Passion Fruit Pur\xE9e"
   parent: passion-fruit
   slug: boiron-passion-fruit-puree
-  type: ingredient
+  kind: ingredient
 
 - display_name: "Passion Fruit Pur\xE9e"
   parent: passion-fruit
   slug: passion-fruit-puree
-  type: ingredient
+  kind: ingredient
 
 - display_name: Peach
   parent: fruit
   slug: peach
-  type: ingredient
+  kind: ingredient
 
 - display_name: "Peach Pur\xE9e"
   parent: peach
   slug: peach-puree
-  type: ingredient
+  kind: ingredient
 
 - display_name: Sweet Georgia Peach
   parent: peach
   slug: sweet-georgia-peach
-  type: ingredient
+  kind: ingredient
 
 - display_name: "White Peach Pur\xE9e"
   parent: peach
   slug: white-peach-puree
-  type: ingredient
+  kind: ingredient
 
 - display_name: Pear
   parent: fruit
   slug: pear
-  type: ingredient
+  kind: ingredient
 
 - display_name: Anjou Pear
   parent: pear
   slug: anjou-pear
-  type: ingredient
+  kind: ingredient
 
 - display_name: Bartlett Pear
   parent: pear
   slug: bartlett-pear
-  type: ingredient
+  kind: ingredient
 
 - display_name: Persimmon
   parent: fruit
   slug: persimmon
-  type: ingredient
+  kind: ingredient
 
 - display_name: Dried Persimmon
   parent: persimmon
   slug: dried-persimmon
-  type: ingredient
+  kind: ingredient
 
 - display_name: Pineapple
   parent: fruit
   slug: pineapple
-  type: ingredient
+  kind: ingredient
 
 - display_name: Prickly Pear
   parent: fruit
   slug: prickly-pear
-  type: ingredient
+  kind: ingredient
 
 - display_name: "Perfect Pur\xE9es Of Napa Valley Prickly Pear Pur\xE9e"
   parent: prickly-pear
   slug: perfect-purees-of-napa-valley-prickly-pear-puree
-  type: ingredient
+  kind: ingredient
 
 - display_name: Tamarind
   parent: fruit
   slug: tamarind
-  type: ingredient
+  kind: ingredient
 
 - display_name: "Tamarind Pur\xE9e"
   parent: tamarind
   slug: tamarind-puree
-  type: ingredient
+  kind: ingredient
 
 - display_name: Tropical Fruit
   parent: fruit
   slug: tropical-fruit
-  type: ingredient
+  kind: ingredient
 
 - display_name: "Tropical Fruit Pur\xE9e"
   parent: tropical-fruit
   slug: tropical-fruit-puree
-  type: ingredient
+  kind: ingredient
 
 - display_name: Watermelon
   parent: fruit
   slug: watermelon
-  type: ingredient
+  kind: ingredient

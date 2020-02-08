@@ -2,54 +2,54 @@
 - display_name: Water
   parent: soft-drinks
   slug: water
-  type: family
+  kind: family
 
 - display_name: Coconut Water
   parent: water
   slug: coconut-water
-  type: ingredient
+  kind: ingredient
 
 - display_name: Liquiteria Coconut Water
   parent: coconut-water
   slug: liquiteria-coconut-water
-  type: ingredient
+  kind: ingredient
 
 - display_name: Corn Water
   parent: water
   slug: corn-water
-  type: ingredient
+  kind: ingredient
 
 - display_name: Ice
   parent: water
   slug: ice
-  type: ingredient
+  kind: ingredient
 
 - display_name: Soda Water
   parent: water
   slug: soda-water
-  type: ingredient
+  kind: ingredient
 
 - display_name: Club Soda
   parent: soda-water
   slug: club-soda
-  type: ingredient
+  kind: ingredient
 
 - display_name: Tonic Water
   parent: water
   slug: tonic-water
-  type: ingredient
+  kind: ingredient
 
 - display_name: Q Tonic Water
   parent: tonic-water
   slug: q-tonic-water
-  type: ingredient
+  kind: ingredient
 
 - display_name: Hot Water
   parent: water
   slug: hot-water
-  type: ingredient
+  kind: ingredient
 
 - display_name: Water Or Soda Water
   parent: water
   slug: water-or-soda-water
-  type: ingredient
+  kind: ingredient

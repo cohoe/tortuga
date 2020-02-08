@@ -2,44 +2,44 @@
 - display_name: Fruit Soda
   parent: soft-drinks
   slug: fruit-soda
-  type: family
+  kind: family
 
 - display_name: Grapefruit Soda
   parent: fruit-soda
   slug: grapefruit-soda
-  type: ingredient
+  kind: ingredient
 
 - display_name: San Pellegrino Pompelmo Grapefruit Soda
   parent: grapefruit-soda
   slug: san-pellegrino-pompelmo-grapefruit-soda
-  type: ingredient
+  kind: ingredient
 
 - display_name: Lemonade
   parent: fruit-soda
   slug: lemonade
-  type: ingredient
+  kind: ingredient
 
 - display_name: Lemon-Lime Soda
   parent: fruit-soda
   slug: lemon-lime-soda
-  type: ingredient
+  kind: ingredient
 
 - display_name: 7-Up
   parent: lemon-lime-soda
   slug: 7-up
-  type: ingredient
+  kind: ingredient
 
 - display_name: Lemon Soda
   parent: fruit-soda
   slug: lemon-soda
-  type: ingredient
+  kind: ingredient
 
 - display_name: Fever-Tree Bitter Lemon Soda
   parent: lemon-soda
   slug: fever-tree-bitter-lemon-soda
-  type: ingredient
+  kind: ingredient
 
 - display_name: San Pellegrino Limonata
   parent: lemon-soda
   slug: san-pellegrino-limonata
-  type: ingredient
+  kind: ingredient

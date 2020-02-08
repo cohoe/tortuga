@@ -2,9 +2,9 @@
 - display_name: Seasoning
   parent: savory
   slug: seasoning
-  type: family
+  kind: family
 
 - display_name: Wasabi
   parent: seasoning
   slug: wasabi
-  type: ingredient
+  kind: ingredient

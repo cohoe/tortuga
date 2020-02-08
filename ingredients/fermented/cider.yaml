@@ -2,49 +2,49 @@
 - display_name: Cider
   parent: fermented
   slug: cider
-  type: family
+  kind: family
 
 - display_name: Apple Cider
   parent: cider
   slug: apple-cider
-  type: ingredient
+  kind: ingredient
 
 - display_name: "Doc's Hard Apple Cider"
   parent: apple-cider
   slug: doc-s-hard-apple-cider
-  type: product
+  kind: product
 
 - display_name: Dupont Brut Sparkling Cider
   parent: apple-cider
   slug: dupont-brut-sparkling-cider
-  type: product
+  kind: product
 
 - display_name: Hot Apple Cider
   parent: apple-cider
   slug: hot-apple-cider
-  type: ingredient
+  kind: ingredient
 
 - display_name: Red Jacket Orchard Apple Cider
   parent: apple-cider
   slug: red-jacket-orchard-apple-cider
-  type: ingredient
+  kind: ingredient
 
 - display_name: Pear Cider
   parent: cider
   slug: pear-cider
-  type: ingredient
+  kind: ingredient
 
 - display_name: "Doc's Hard Pear Cider"
   parent: pear-cider
   slug: doc-s-hard-pear-cider
-  type: product
+  kind: product
 
 - display_name: Pommeau
   parent: cider
   slug: pommeau
-  type: ingredient
+  kind: ingredient
 
 - display_name: Drouhin Pommeau
   parent: pommeau
   slug: drouhin-pommeau
-  type: product
+  kind: product

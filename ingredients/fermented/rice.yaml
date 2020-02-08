@@ -2,39 +2,39 @@
 - display_name: Rice
   parent: fermented
   slug: rice
-  type: family
+  kind: family
 
 - display_name: Sake
   parent: rice
   slug: sake
-  type: ingredient
+  kind: ingredient
 
 - display_name: 'Bek Se Ju "100-year Wine"'
   parent: sake
   slug: bek-se-ju-100-year-wine
-  type: product
+  kind: product
 
 - display_name: Dry Sake
   parent: sake
   slug: dry-sake
-  type: ingredient
+  kind: ingredient
 
 - display_name: Kamoizumi Nigori Sake
   parent: sake
   slug: kamoizumi-nigori-sake
-  type: product
+  kind: product
 
 - display_name: 'Kamoizumi "Shusen" Sake'
   parent: sake
   slug: kamoizumi-shusen-sake
-  type: product
+  kind: product
 
 - display_name: Masumi Arabashiri Sake
   parent: sake
   slug: masumi-arabashiri-sake
-  type: product
+  kind: product
 
 - display_name: 'Masumi "Okuden" Junmai Sake'
   parent: sake
   slug: masumi-okuden-junmai-sake
-  type: product
+  kind: product

@@ -2,89 +2,89 @@
 - display_name: Beer
   parent: fermented
   slug: beer
-  type: family
+  kind: family
 
 - display_name: Ale
   parent: beer
   slug: ale
-  type: ingredient
+  kind: ingredient
 
 - display_name: Blanche De Bruxelles Beer
   parent: beer
   slug: blanche-de-bruxelles-beer
-  type: product
+  kind: product
 
 - display_name: Brooklyn Black Chocolate Stout
   parent: stout
   slug: brooklyn-black-chocolate-stout
-  type: product
+  kind: product
 
 - display_name: Full Sail Session Black Lager
   parent: lager
   slug: full-sail-session-black-lager
-  type: product
+  kind: product
 
 - display_name: Green Flash IPA
   parent: ipa
   slug: green-flash-ipa
-  type: product
+  kind: product
 
 - display_name: IPA
   parent: beer
   slug: ipa
-  type: ingredient
+  kind: ingredient
 
 - display_name: Stout
   parent: beer
   slug: stout
-  type: ingredient
+  kind: ingredient
 
 - display_name: Guinness Stout
   parent: stout
   slug: guinness-stout
-  type: product
+  kind: product
 
 - display_name: Lager
   parent: beer
   slug: lager
-  type: ingredient
+  kind: ingredient
 
 - display_name: Mackeson Stout
   parent: stout
   slug: mackeson-stout
-  type: product
+  kind: product
 
 - display_name: Negra Modelo Beer
   parent: beer
   slug: negra-modelo-beer
-  type: product
+  kind: product
 
 - display_name: Oud Beersel Framboise
   parent: framboise
   slug: oud-beersel-framboise
-  type: product
+  kind: product
 
 - display_name: Framboise
   parent: lambic
   slug: framboise
-  type: ingredient
+  kind: ingredient
 
 - display_name: Lambic
   parent: beer
   slug: lambic
-  type: ingredient
+  kind: ingredient
 
 - display_name: Southampton Double White Ale
   parent: ale
   slug: southampton-double-white-ale
-  type: product
+  kind: product
 
 - display_name: Southampton Pumpkin Ale
   parent: ale
   slug: southampton-pumpkin-ale
-  type: product
+  kind: product
 
 - display_name: Victory Pilsner
   parent: beer
   slug: victory-pilsner
-  type: product
+  kind: product

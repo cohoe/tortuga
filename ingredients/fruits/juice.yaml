@@ -2,114 +2,114 @@
 - display_name: Juice
   parent: fruits
   slug: juice
-  type: family
+  kind: family
 
 - display_name: Apple Juice
   parent: juice
   slug: apple-juice
-  type: ingredient
+  kind: ingredient
 
 - display_name: Fuji Apple Juice
   parent: apple-juice
   slug: fuji-apple-juice
-  type: ingredient
+  kind: ingredient
 
 - display_name: Granny Smith Apple Juice
   parent: apple-juice
   slug: granny-smith-apple-juice
-  type: ingredient
+  kind: ingredient
 
 - display_name: Blood Orange
   parent: juice
   slug: blood-orange
-  type: ingredient
+  kind: ingredient
 
 - display_name: Blood Orange Juice
   parent: blood-orange
   slug: blood-orange-juice
-  type: ingredient
+  kind: ingredient
 
 - display_name: Cantaloupe
   parent: juice
   slug: cantaloupe
-  type: ingredient
+  kind: ingredient
 
 - display_name: Cantaloupe Juice
   parent: cantaloupe
   slug: cantaloupe-juice
-  type: ingredient
+  kind: ingredient
 
 - display_name: Cranberry Juice
   parent: juice
   slug: cranberry-juice
-  type: ingredient
+  kind: ingredient
 
 - display_name: Grapefruit
   parent: juice
   slug: grapefruit
-  type: ingredient
+  kind: ingredient
 
 - display_name: Grapefruit Juice
   parent: grapefruit
   slug: grapefruit-juice
-  type: ingredient
+  kind: ingredient
 
 - display_name: Ruby Red Grapefruit Juice
   parent: grapefruit
   slug: ruby-red-grapefruit-juice
-  type: ingredient
+  kind: ingredient
 
 - display_name: Grape Juice
   parent: juice
   slug: grape-juice
-  type: ingredient
+  kind: ingredient
 
 - display_name: Fusion Verjus Blanc
   parent: grape-juice
   slug: fusion-verjus-blanc
-  type: ingredient
+  kind: ingredient
 
 - display_name: Guava Juice
   parent: juice
   slug: guava-juice
-  type: ingredient
+  kind: ingredient
 
 - display_name: Orange Juice
   parent: juice
   slug: orange-juice
-  type: ingredient
+  kind: ingredient
 
 - display_name: Passion Fruit Juice
   parent: juice
   slug: passion-fruit-juice
-  type: ingredient
+  kind: ingredient
 
 - display_name: Pineapple Juice
   parent: juice
   slug: pineapple-juice
-  type: ingredient
+  kind: ingredient
 
 - display_name: Pomegranate Juice
   parent: juice
   slug: pomegranate-juice
-  type: ingredient
+  kind: ingredient
 
 - display_name: Raspberry Juice
   parent: juice
   slug: raspberry-juice
-  type: ingredient
+  kind: ingredient
 
 - display_name: Sangrita
   parent: juice
   slug: sangrita
-  type: ingredient
+  kind: ingredient
 
 - display_name: Tomato Juice
   parent: juice
   slug: tomato-juice
-  type: ingredient
+  kind: ingredient
 
 - display_name: Watermelon Juice
   parent: juice
   slug: watermelon-juice
-  type: ingredient
+  kind: ingredient

@@ -1,45 +1,45 @@
 ---
 - display_name: Animal
   slug: animal
-  type: category
+  kind: category
   parent:
 
 - display_name: Bitter
   slug: bitter
-  type: category
+  kind: category
   parent:
 
 - display_name: Fermented
   slug: fermented
-  type: category
+  kind: category
   parent:
 
 - display_name: Fruits
   slug: fruits
-  type: category
+  kind: category
   parent:
 
 - display_name: Plants
   slug: plants
-  type: category
+  kind: category
   parent:
 
 - display_name: Savory
   slug: savory
-  type: category
+  kind: category
   parent:
 
 - display_name: Soft Drinks
   slug: soft-drinks
-  type: category
+  kind: category
   parent:
 
 - display_name: Spirits
   slug: spirits
-  type: category
+  kind: category
   parent:
 
 - display_name: Sweet
   slug: sweet
-  type: category
+  kind: category
   parent:

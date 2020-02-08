@@ -2,4 +2,4 @@
 - display_name: Honey
   parent: sweet
   slug: honey
-  type: family
+  kind: family

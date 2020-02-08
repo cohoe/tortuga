@@ -2,19 +2,19 @@
 - display_name: Rind
   parent: fruits
   slug: rind
-  type: family
+  kind: family
 
 - display_name: Grapefruit Peel
   parent: rind
   slug: grapefruit-peel
-  type: ingredient
+  kind: ingredient
 
 - display_name: Lemon Peel
   parent: rind
   slug: lemon-peel
-  type: ingredient
+  kind: ingredient
 
 - display_name: Orange Peel
   parent: rind
   slug: orange-peel
-  type: ingredient
+  kind: ingredient

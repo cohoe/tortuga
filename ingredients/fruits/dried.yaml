@@ -2,4 +2,4 @@
 - display_name: Dried
   parent: fruits
   slug: dried
-  type: family
+  kind: family

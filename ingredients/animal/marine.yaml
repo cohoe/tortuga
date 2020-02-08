@@ -2,14 +2,14 @@
 - display_name: Marine
   parent: animal
   slug: marine
-  type: family
+  kind: family
 
 - display_name: Clamato Juice
   parent: marine
   slug: clamato-juice
-  type: ingredient
+  kind: ingredient
 
 - display_name: Clam Juice
   parent: marine
   slug: clam-juice
-  type: ingredient
+  kind: ingredient
