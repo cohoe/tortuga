@@ -137,7 +137,7 @@
 - display_name: House Orange Bitters
   parent: orange-bitters
   slug: house-orange-bitters
-  type: product
+  type: custom
 
 - display_name: Regan's Orange Bitters
   parent: orange-bitters
@@ -162,7 +162,7 @@
 - display_name: House Peychaud's Bitters
   parent: peychaud-s-bitters
   slug: house-peychaud-s-bitters
-  type: product
+  type: custom
 
 - display_name: Pimento Bitters
   parent: bitters

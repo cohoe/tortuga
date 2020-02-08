@@ -57,52 +57,52 @@
 - display_name: Ancho Chile-Infused Dolin Rouge Vermouth
   parent: dolin-rouge-vermouth
   slug: ancho-chile-infused-dolin-rouge-vermouth
-  type: product
+  type: custom
 
 - display_name: Basil-Infused Dolin Blanc Vermouth
   parent: dolin-blanc-vermouth
   slug: basil-infused-dolin-blanc-vermouth
-  type: product
+  type: custom
 
 - display_name: Chamomile-Infused Bianco Vermouth
   parent: bianco-vermouth
   slug: chamomile-infused-bianco-vermouth
-  type: product
+  type: custom
 
 - display_name: Cinnamon Orange Tea-Infused Sweet Vermouth
   parent: sweet-vermouth
   slug: cinnamon-orange-tea-infused-sweet-vermouth
-  type: product
+  type: custom
 
 - display_name: Coffee-Infused Carpano Antica Formula Vermouth
   parent: carpano-antica-formula-vermouth
   slug: coffee-infused-carpano-antica-formula-vermouth
-  type: product
+  type: custom
 
 - display_name: Earl Grey-Infused Dolin Blanc Vermouth
   parent: dolin-blanc-vermouth
   slug: earl-grey-infused-dolin-blanc-vermouth
-  type: product
+  type: custom
 
 - display_name: Grapefruit-Infused Punt E Mes
   parent: punt-e-mes
   slug: grapefruit-infused-punt-e-mes
-  type: product
+  type: custom
 
 - display_name: Jujube Tea-Infused Vya Sweet Vermouth
   parent: vya-sweet-vermouth
   slug: jujube-tea-infused-vya-sweet-vermouth
-  type: product
+  type: custom
 
 - display_name: Sage-Infused Dolin Blanc Vermouth
   parent: dolin-blanc-vermouth
   slug: sage-infused-dolin-blanc-vermouth
-  type: product
+  type: custom
 
 - display_name: Watermelon-Infused Dolin Dry Vermouth
   parent: dolin-dry-vermouth
   slug: watermelon-infused-dolin-dry-vermouth
-  type: product
+  type: custom
 
 - display_name: Punt E Mes
   parent: vermouth

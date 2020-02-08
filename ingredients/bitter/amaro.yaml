@@ -67,12 +67,12 @@
 - display_name: Cacao Nib-Infused Campari
   parent: campari
   slug: cacao-nib-infused-campari
-  type: product
+  type: custom
 
 - display_name: Coffee-And Chile-Infused Campari
   parent: campari
   slug: coffee-and-chile-infused-campari
-  type: product
+  type: custom
 
 - display_name: Cardamaro
   parent: amaro

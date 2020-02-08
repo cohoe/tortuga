@@ -7,7 +7,7 @@
 - display_name: Quinquina
   parent: fortified-wine
   slug: quinquina
-  type: product
+  type: ingredient
 
 - display_name: Lillet Blanc
   parent: quinquina
@@ -22,7 +22,7 @@
 - display_name: "Rose-Infused Lillet Ros\xE9"
   parent: lillet-rose
   slug: rose-infused-lillet-rose
-  type: product
+  type: custom
 
 - display_name: Lillet Rouge
   parent: quinquina
@@ -147,6 +147,16 @@
 - display_name: Amontillado Sherry
   parent: sherry
   slug: amontillado-sherry
+  type: ingredient
+
+- display_name: Palo Cortado Sherry
+  parent: sherry
+  slug: palo-cortado-sherry
+  type: ingredient
+
+- display_name: Oloroso Sherry
+  parent: sherry
+  slug: oloroso-sherry
   type: ingredient
 
 - display_name: Manzanilla Sherry
