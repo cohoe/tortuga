@@ -1,4 +1,3 @@
-
 - display_name: Animal
   slug: animal
   type: category
@@ -3832,9 +3831,9 @@
   type: ingredient
 
 - display_name: White Rum
-  parent: rum
+  parent: light-rum
   slug: white-rum
-  type: ingredient
+  type: alias
 
 - display_name: Wray & Nephew Overproof Rum
   parent: rum
@@ -5554,4 +5553,3 @@
   parent: syrup
   slug: zombie-mix
   type: ingredient
-
