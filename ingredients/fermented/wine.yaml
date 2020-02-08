@@ -19,16 +19,6 @@
   slug: moet-imperial-champagne
   type: ingredient
 
-- display_name: Cocchi Americano
-  parent: wine
-  slug: cocchi-americano
-  type: ingredient
-
-- display_name: Cocchi Americano Rosa
-  parent: wine
-  slug: cocchi-americano-rosa
-  type: ingredient
-
 - display_name: Red Wine
   parent: wine
   slug: red-wine
@@ -37,7 +27,7 @@
 - display_name: Beaujolais Nouveau
   parent: red-wine
   slug: beaujolais-nouveau
-  type: ingredient
+  type: product
 
 - display_name: Dry Red Wine
   parent: red-wine
@@ -47,7 +37,7 @@
 - display_name: Paumanok Cabernet Franc
   parent: red-wine
   slug: paumanok-cabernet-franc
-  type: ingredient
+  type: product
 
 - display_name: Red Rioja Wine
   parent: red-wine
@@ -62,7 +52,7 @@
 - display_name: "Shinn Estate Ros\xE9"
   parent: rose-wine
   slug: shinn-estate-rose
-  type: ingredient
+  type: product
 
 - display_name: Sparkling Wine
   parent: wine
@@ -70,9 +60,9 @@
   type: ingredient
 
 - display_name: "Carpen\xE8 Malvolti Prosecco"
-  parent: sparkling-wine
+  parent: prosecco
   slug: carpene-malvolti-prosecco
-  type: ingredient
+  type: product
 
 - display_name: Prosecco
   parent: sparkling-wine
@@ -92,7 +82,7 @@
 - display_name: "Tokaji Asz\xFA 5 Puttonyos \"Red Label\""
   parent: tokaji-wine
   slug: tokaji-aszu-5-puttonyos-red-label
-  type: ingredient
+  type: product
 
 - display_name: White Wine
   parent: wine
@@ -102,17 +92,17 @@
 - display_name: Channing Daughters Scuttlehole Chardonnay
   parent: white-wine
   slug: channing-daughters-scuttlehole-chardonnay
-  type: ingredient
+  type: product
 
 - display_name: Dr. Konstantin Frank Dry Riesling
   parent: white-wine
   slug: dr-konstantin-frank-dry-riesling
-  type: ingredient
+  type: product
 
 - display_name: Morro Bay Chardonnay
   parent: white-wine
   slug: morro-bay-chardonnay
-  type: ingredient
+  type: product
 
 - display_name: Sauvignon Blanc
   parent: white-wine

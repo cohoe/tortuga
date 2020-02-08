@@ -9,7 +9,7 @@
   slug: apple-cider
   type: ingredient
 
-- display_name: Doc's Hard Apple Cider
+- display_name: "Doc's Hard Apple Cider"
   parent: apple-cider
   slug: doc-s-hard-apple-cider
   type: product
@@ -34,7 +34,7 @@
   slug: pear-cider
   type: ingredient
 
-- display_name: Doc's Hard Pear Cider
+- display_name: "Doc's Hard Pear Cider"
   parent: pear-cider
   slug: doc-s-hard-pear-cider
   type: product

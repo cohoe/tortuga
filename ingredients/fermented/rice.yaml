@@ -9,10 +9,10 @@
   slug: sake
   type: ingredient
 
-- display_name: Bek Se Ju "100-year Wine"
+- display_name: 'Bek Se Ju "100-year Wine"'
   parent: sake
   slug: bek-se-ju-100-year-wine
-  type: ingredient
+  type: product
 
 - display_name: Dry Sake
   parent: sake
@@ -22,24 +22,19 @@
 - display_name: Kamoizumi Nigori Sake
   parent: sake
   slug: kamoizumi-nigori-sake
-  type: ingredient
+  type: product
 
-- display_name: Kamoizumi "Shusen" Sake
+- display_name: 'Kamoizumi "Shusen" Sake'
   parent: sake
   slug: kamoizumi-shusen-sake
-  type: ingredient
+  type: product
 
 - display_name: Masumi Arabashiri Sake
   parent: sake
   slug: masumi-arabashiri-sake
-  type: ingredient
+  type: product
 
-- display_name: Masumi Arabishiri Sake
-  parent: sake
-  slug: masumi-arabishiri-sake
-  type: ingredient
-
-- display_name: Masumi "Okuden" Junmai Sake
+- display_name: 'Masumi "Okuden" Junmai Sake'
   parent: sake
   slug: masumi-okuden-junmai-sake
-  type: ingredient
+  type: product

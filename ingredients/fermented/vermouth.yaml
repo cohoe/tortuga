@@ -12,17 +12,17 @@
 - display_name: Contratta Vermouth Bianco
   parent: bianco-vermouth
   slug: contratta-vermouth-bianco
-  type: ingredient
+  type: product
 
 - display_name: Dolin Blanc Vermouth
   parent: bianco-vermouth
   slug: dolin-blanc-vermouth
-  type: ingredient
+  type: product
 
 - display_name: Martini Bianco Vermouth
   parent: bianco-vermouth
   slug: martini-bianco-vermouth
-  type: ingredient
+  type: product
 
 - display_name: Dry Vermouth
   parent: vermouth
@@ -32,7 +32,7 @@
 - display_name: Dolin Dry Vermouth
   parent: dry-vermouth
   slug: dolin-dry-vermouth
-  type: ingredient
+  type: product
 
 - display_name: Dry French Vermouth
   parent: dry-vermouth
@@ -42,77 +42,72 @@
 - display_name: Martini & Rossi Dry Vermouth
   parent: dry-vermouth
   slug: martini-rossi-dry-vermouth
-  type: ingredient
+  type: product
 
 - display_name: Noilly Prat Dry Vermouth
   parent: dry-vermouth
   slug: noilly-prat-dry-vermouth
-  type: ingredient
+  type: product
 
 - display_name: Vya Dry Vermouth
   parent: dry-vermouth
   slug: vya-dry-vermouth
-  type: ingredient
-
-- display_name: Infused Vermouth
-  parent: vermouth
-  slug: infused-vermouth
-  type: ingredient
+  type: product
 
 - display_name: Ancho Chile-Infused Dolin Rouge Vermouth
-  parent: infused-vermouth
+  parent: dolin-rouge-vermouth
   slug: ancho-chile-infused-dolin-rouge-vermouth
-  type: ingredient
+  type: product
 
 - display_name: Basil-Infused Dolin Blanc Vermouth
-  parent: infused-vermouth
+  parent: dolin-blanc-vermouth
   slug: basil-infused-dolin-blanc-vermouth
-  type: ingredient
+  type: product
 
 - display_name: Chamomile-Infused Bianco Vermouth
-  parent: infused-vermouth
+  parent: bianco-vermouth
   slug: chamomile-infused-bianco-vermouth
-  type: ingredient
+  type: product
 
 - display_name: Cinnamon Orange Tea-Infused Sweet Vermouth
-  parent: infused-vermouth
+  parent: sweet-vermouth
   slug: cinnamon-orange-tea-infused-sweet-vermouth
-  type: ingredient
+  type: product
 
 - display_name: Coffee-Infused Carpano Antica Formula Vermouth
-  parent: infused-vermouth
+  parent: carpano-antica-formula-vermouth
   slug: coffee-infused-carpano-antica-formula-vermouth
-  type: ingredient
+  type: product
 
 - display_name: Earl Grey-Infused Dolin Blanc Vermouth
-  parent: infused-vermouth
+  parent: dolin-blanc-vermouth
   slug: earl-grey-infused-dolin-blanc-vermouth
-  type: ingredient
+  type: product
 
 - display_name: Grapefruit-Infused Punt E Mes
-  parent: infused-vermouth
+  parent: punt-e-mes
   slug: grapefruit-infused-punt-e-mes
-  type: ingredient
+  type: product
 
 - display_name: Jujube Tea-Infused Vya Sweet Vermouth
-  parent: infused-vermouth
+  parent: vya-sweet-vermouth
   slug: jujube-tea-infused-vya-sweet-vermouth
-  type: ingredient
+  type: product
 
 - display_name: Sage-Infused Dolin Blanc Vermouth
-  parent: infused-vermouth
+  parent: dolin-blanc-vermouth
   slug: sage-infused-dolin-blanc-vermouth
-  type: ingredient
+  type: product
 
 - display_name: Watermelon-Infused Dolin Dry Vermouth
-  parent: infused-vermouth
+  parent: dolin-dry-vermouth
   slug: watermelon-infused-dolin-dry-vermouth
-  type: ingredient
+  type: product
 
 - display_name: Punt E Mes
   parent: vermouth
   slug: punt-e-mes
-  type: ingredient
+  type: product
 
 - display_name: Sweet Vermouth
   parent: vermouth
@@ -122,47 +117,47 @@
 - display_name: Carpano Antica Formula Vermouth
   parent: sweet-vermouth
   slug: carpano-antica-formula-vermouth
-  type: ingredient
-
-- display_name: Carpano Antica Sweet Vermouth
-  parent: sweet-vermouth
-  slug: carpano-antica-sweet-vermouth
-  type: ingredient
+  type: product
 
 - display_name: Cocchi Vermouth Di Torino
   parent: sweet-vermouth
   slug: cocchi-vermouth-di-torino
+  type: product
+
+- display_name: Americano
+  parent: fortified-wine
+  slug: americano
   type: ingredient
 
+- display_name: Cocchi Americano
+  parent: americano
+  slug: cocchi-americano
+  type: product
+
+- display_name: Cocchi Americano Rosa
+  parent: americano
+  slug: cocchi-americano-rosa
+  type: product
+
 - display_name: Contratto Americano Rosso Vermouth
-  parent: sweet-vermouth
+  parent: americano
   slug: contratto-americano-rosso-vermouth
-  type: ingredient
+  type: product
 
 - display_name: Dolin Rouge Vermouth
   parent: sweet-vermouth
   slug: dolin-rouge-vermouth
-  type: ingredient
-
-- display_name: Dolin Sweet Vermouth
-  parent: sweet-vermouth
-  slug: dolin-sweet-vermouth
-  type: ingredient
+  type: product
 
 - display_name: House Sweet Vermouth
   parent: sweet-vermouth
   slug: house-sweet-vermouth
-  type: ingredient
+  type: product
 
 - display_name: Martini & Rossi Sweet Vermouth
   parent: sweet-vermouth
   slug: martini-rossi-sweet-vermouth
-  type: ingredient
-
-- display_name: Martini Sweet Vermouth
-  parent: sweet-vermouth
-  slug: martini-sweet-vermouth
-  type: ingredient
+  type: product
 
 - display_name: Sweet Italian Vermouth
   parent: sweet-vermouth
@@ -172,4 +167,4 @@
 - display_name: Vya Sweet Vermouth
   parent: sweet-vermouth
   slug: vya-sweet-vermouth
-  type: ingredient
+  type: product
