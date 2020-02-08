@@ -505,6 +505,16 @@
   slug: oud-beersel-framboise
   type: product
 
+- display_name: Framboise
+  parent: lambic
+  slug: framboise
+  type: ingredient
+
+- display_name: Lambic
+  parent: beer
+  slug: lambic
+  type: ingredient
+
 - display_name: Southampton Double White Ale
   parent: ale
   slug: southampton-double-white-ale
@@ -666,7 +676,7 @@
   type: product
 
 - display_name: Dubonnet Rouge
-  parent: red-dubonnet
+  parent: fermented
   slug: dubonnet-rouge
   type: product
 
