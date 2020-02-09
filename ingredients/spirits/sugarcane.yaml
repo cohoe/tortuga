@@ -496,7 +496,7 @@
 - display_name: White Rum
   parent: light-rum
   slug: white-rum
-  kind: alias
+  kind: ingredient
 
 - display_name: Wray & Nephew Overproof Rum
   parent: rum
