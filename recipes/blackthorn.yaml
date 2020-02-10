@@ -1,5 +1,5 @@
 ---
-- name: Blackthorn
+- display_name: Blackthorn
   status: green
   origin:
     location: New Orleans LA
@@ -7,7 +7,7 @@
     story: >-
       With vague roots in 19th century New Orleans, the Blackthorn is one of
       the few classic cocktails to highlight Irish whiskey.
-  spec:
+  specs:
     - name: Lazy Bird
       origin:
         creator: Lee Zaremba

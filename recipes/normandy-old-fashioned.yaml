@@ -1,5 +1,5 @@
 ---
-- name: Normandy Old Fashioned
+- display_name: Normandy Old Fashioned
   status: green
   origin:
     creator: Erik Hakkinen
@@ -8,7 +8,8 @@
     story: >-
       French and American apple brandies form a rich foundation for this
       simple cocktail.
-  spec:
+  specs:
+    - name: original
       glassware: rocks
       ingredients:
         - name: domaine du manoir de montreuil reserve
