@@ -27,7 +27,7 @@
 - display_name: Honey Nut Cheerio-Infused Cream
   parent: heavy-cream
   slug: honey-nut-cheerio-infused-cream
-  kind: ingredient
+  kind: custom
 
 - display_name: Vanilla Ice Cream
   parent: dairy
@@ -54,8 +54,13 @@
   slug: whole-milk
   kind: ingredient
 
-- display_name: Vanilla Butter
+- display_name: Butter
   parent: dairy
+  slug: butter
+  kind: ingredient
+
+- display_name: Vanilla Butter
+  parent: butter
   slug: vanilla-butter
   kind: ingredient
 

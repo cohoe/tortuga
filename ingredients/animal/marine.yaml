@@ -7,7 +7,7 @@
 - display_name: Clamato Juice
   parent: marine
   slug: clamato-juice
-  kind: ingredient
+  kind: product
 
 - display_name: Clam Juice
   parent: marine
