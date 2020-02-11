@@ -65,7 +65,7 @@
   kind: ingredient
 
 - display_name: "Dow's Ruby Port"
-  parent: tawny-port
+  parent: ruby-port
   slug: dow-s-ruby-port
   kind: product
 
@@ -102,7 +102,7 @@
 - display_name: White Port
   parent: port
   slug: white-port
-  kind: product
+  kind: ingredient
 
 - display_name: Dubonnet Rouge
   parent: quinquina
@@ -128,16 +128,6 @@
   parent: amontillado-sherry
   slug: barbadillo-principe-amontillado-sherry
   kind: product
-
-- display_name: Dry Sack Sherry
-  parent: dry-sherry
-  slug: dry-sack-sherry
-  kind: product
-
-- display_name: Dry Sherry
-  parent: sherry
-  slug: dry-sherry
-  kind: ingredient
 
 - display_name: Fino Sherry
   parent: sherry
@@ -184,8 +174,13 @@
   slug: lustau-cream-sherry
   kind: product
 
-- display_name: Lustau East India Sherry
+- display_name: Blended Sherry
   parent: sherry
+  slug: blended-sherry
+  kind: ingredient
+
+- display_name: Lustau East India Sherry
+  parent: blended-sherry
   slug: lustau-east-india-sherry
   kind: product
 
@@ -214,11 +209,6 @@
   slug: lustau-pedro-ximenez-sherry
   kind: product
 
-- display_name: Medium Sherry
-  parent: sherry
-  slug: medium-sherry
-  kind: ingredient
-
 - display_name: Morenita Cream Sherry
   parent: cream-sherry
   slug: morenita-cream-sherry
@@ -227,9 +217,9 @@
 - display_name: "Toro Albal\xE1 Pedro Xim\xE9nez Sherry"
   parent: pedro-ximenez-sherry
   slug: toro-albala-pedro-ximenez-sherry
-  kind: ingredient
+  kind: product
 
 - display_name: Williams & Humbert Dry Sack Medium Sherry
-  parent: medium-sherry
+  parent: oloroso-sherry
   slug: williams-humbert-dry-sack-medium-sherry
   kind: ingredient

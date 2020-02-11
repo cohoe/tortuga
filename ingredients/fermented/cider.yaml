@@ -27,7 +27,7 @@
 - display_name: Red Jacket Orchard Apple Cider
   parent: apple-cider
   slug: red-jacket-orchard-apple-cider
-  kind: ingredient
+  kind: product
 
 - display_name: Pear Cider
   parent: cider

@@ -24,11 +24,6 @@
   slug: amaro-lucano
   kind: product
 
-- display_name: Amaro Luxardo
-  parent: amaro
-  slug: amaro-luxardo
-  kind: product
-
 - display_name: Amaro Meletti
   parent: amaro
   slug: amaro-meletti
@@ -52,11 +47,6 @@
 - display_name: Amer Picon
   parent: amaro
   slug: amer-picon
-  kind: product
-
-- display_name: Averna Amaro
-  parent: amaro
-  slug: averna-amaro
   kind: product
 
 - display_name: Campari

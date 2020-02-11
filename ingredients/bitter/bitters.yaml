@@ -4,7 +4,7 @@
   slug: bitters
   kind: family
 
-- display_name: Abbott's Bitters
+- display_name: "Abbott's Bitters"
   parent: bitters
   slug: abbott-s-bitters
   kind: product
@@ -49,7 +49,7 @@
   slug: fee-brothers-whiskey-barrel-aged-bitters
   kind: product
 
-- display_name: Feldman's BarreleAged Bitters
+- display_name: "Feldman's BarreleAged Bitters"
   parent: barrel-aged-bitters
   slug: feldman-s-barreleaged-bitters
   kind: product
@@ -64,7 +64,7 @@
   slug: fee-brothers-old-fashioned-bitters
   kind: product
 
-- display_name: Bitter Truth Jerry Thomas' Own Decanter Bitters
+- display_name: "Bitter Truth Jerry Thomas' Own Decanter Bitters"
   parent: bitters
   slug: bitter-truth-jerry-thomas-own-decanter-bitters
   kind: product
@@ -82,7 +82,7 @@
 - display_name: Bittercube Cherry Bark & Vanilla Bitters
   parent: bitters
   slug: bittercube-cherry-bark-vanilla-bitters
-  kind: ingredient
+  kind: product
 
 - display_name: Grapefruit Bitters
   parent: bitters
@@ -139,7 +139,7 @@
   slug: house-orange-bitters
   kind: custom
 
-- display_name: Regan's Orange Bitters
+- display_name: "Regan's Orange Bitters"
   parent: orange-bitters
   slug: regan-s-orange-bitters
   kind: product
@@ -154,12 +154,12 @@
   slug: fee-brothers-peach-bitters
   kind: product
 
-- display_name: Peychaud's Bitters
+- display_name: "Peychaud's Bitters"
   parent: bitters
   slug: peychaud-s-bitters
   kind: product
 
-- display_name: House Peychaud's Bitters
+- display_name: "House Peychaud's Bitters"
   parent: peychaud-s-bitters
   slug: house-peychaud-s-bitters
   kind: custom
@@ -169,7 +169,7 @@
   slug: pimento-bitters
   kind: ingredient
 
-- display_name: Dale Degroff's Pimento Bitters
+- display_name: "Dale Degroff's Pimento Bitters"
   parent: pimento-bitters
   slug: dale-degroff-s-pimento-bitters
   kind: product
