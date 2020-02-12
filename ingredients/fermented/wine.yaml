@@ -17,7 +17,7 @@
 - display_name: "Mo\xEBt Imperial Champagne"
   parent: champagne
   slug: moet-imperial-champagne
-  kind: ingredient
+  kind: product
 
 - display_name: Red Wine
   parent: wine

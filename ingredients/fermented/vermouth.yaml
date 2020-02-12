@@ -152,7 +152,7 @@
 - display_name: House Sweet Vermouth
   parent: sweet-vermouth
   slug: house-sweet-vermouth
-  kind: product
+  kind: custom
 
 - display_name: Martini & Rossi Sweet Vermouth
   parent: sweet-vermouth

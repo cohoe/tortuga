@@ -14,11 +14,6 @@
   slug: bek-se-ju-100-year-wine
   kind: product
 
-- display_name: Dry Sake
-  parent: sake
-  slug: dry-sake
-  kind: ingredient
-
 - display_name: Kamoizumi Nigori Sake
   parent: sake
   slug: kamoizumi-nigori-sake
