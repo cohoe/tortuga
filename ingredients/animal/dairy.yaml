@@ -34,10 +34,25 @@
   slug: vanilla-ice-cream
   kind: ingredient
 
-- display_name: Irish Cream
+- display_name: Cream Liqueur
   parent: dairy
+  slug: cream-liqueur
+  kind: ingredient
+
+- display_name: Irish Cream
+  parent: cream-liqueur
   slug: irish-cream
   kind: ingredient
+
+- display_name: Bourbon Cream
+  parent: cream-liqueur
+  slug: bourbon-cream
+  kind: ingredient
+
+- display_name: Black Button Bespoke Bourbon Cream
+  parent: bourbon-cream
+  slug: black-button-bespoke-bourbon-cream
+  kind: product
 
 - display_name: Baileys Irish Cream
   parent: irish-cream

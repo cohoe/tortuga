@@ -4,24 +4,27 @@
   slug: vermouth
   kind: family
 
-- display_name: Bianco Vermouth
+- display_name: White Vermouth
   parent: vermouth
-  slug: bianco-vermouth
+  slug: white-vermouth
   kind: ingredient
+  aliases:
+    - Bianco Vermouth
+    - Blanc Vermouth
 
 - display_name: Contratta Vermouth Bianco
-  parent: bianco-vermouth
+  parent: white-vermouth
   slug: contratta-vermouth-bianco
   kind: product
 
 - display_name: Dolin Blanc Vermouth
-  parent: bianco-vermouth
+  parent: white-vermouth
   slug: dolin-blanc-vermouth
   kind: product
 
-- display_name: Martini Bianco Vermouth
-  parent: bianco-vermouth
-  slug: martini-bianco-vermouth
+- display_name: Martini & Rossi Bianco Vermouth
+  parent: white-vermouth
+  slug: martini-rossi-bianco-vermouth
   kind: product
 
 - display_name: Dry Vermouth
@@ -65,7 +68,7 @@
   kind: custom
 
 - display_name: Chamomile-Infused Bianco Vermouth
-  parent: bianco-vermouth
+  parent: white-vermouth
   slug: chamomile-infused-bianco-vermouth
   kind: custom
 
@@ -163,6 +166,8 @@
   parent: sweet-vermouth
   slug: sweet-italian-vermouth
   kind: ingredient
+  aliases:
+    - Vermouth di Torino
 
 - display_name: Vya Sweet Vermouth
   parent: sweet-vermouth
