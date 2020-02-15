@@ -1,11 +1,11 @@
 ---
-- display_name: Fruit That Seems Like Vegetable
+- display_name: Vegetable Fruit
   parent: fruits
-  slug: fruit-that-seems-like-vegetable
+  slug: vegetable-fruit
   kind: family
 
 - display_name: Bell Pepper
-  parent: fruit-that-seems-like-vegetable
+  parent: vegetable-fruit
   slug: bell-pepper
   kind: ingredient
 
@@ -25,34 +25,24 @@
   kind: ingredient
 
 - display_name: Cucumber
-  parent: fruit-that-seems-like-vegetable
+  parent: vegetable-fruit
   slug: cucumber
   kind: ingredient
 
 - display_name: "Jalape\xF1o"
-  parent: fruit-that-seems-like-vegetable
+  parent: vegetable-fruit
   slug: jalapeno
   kind: ingredient
 
-- display_name: "Jalape\xF1o With A Few Seeds"
-  parent: jalapeno
-  slug: jalapeno-with-a-few-seeds
-  kind: ingredient
-
-- display_name: "Seeded Jalape\xF1o"
-  parent: jalapeno
-  slug: seeded-jalapeno
-  kind: ingredient
-
 - display_name: Pumpkin
-  parent: fruit-that-seems-like-vegetable
+  parent: vegetable-fruit
   slug: pumpkin
   kind: ingredient
 
 - display_name: "Libby's Pumpkin Pur\xE9e"
-  parent: pumpkin
+  parent: pumpkin-puree
   slug: libby-s-pumpkin-puree
-  kind: ingredient
+  kind: product
 
 - display_name: "Pumpkin Pur\xE9e"
   parent: pumpkin
@@ -60,7 +50,7 @@
   kind: ingredient
 
 - display_name: Tomato
-  parent: fruit-that-seems-like-vegetable
+  parent: vegetable-fruit
   slug: tomato
   kind: ingredient
 

@@ -4,8 +4,58 @@
   slug: juice
   kind: family
 
-- display_name: Apple Juice
+- display_name: Citrus Juice
   parent: juice
+  slug: citrus-juice
+  kind: ingredient
+
+- display_name: Lemon Juice
+  parent: citrus-juice
+  slug: lemon-juice
+  kind: ingredient
+
+- display_name: Lime Juice
+  parent: citrus-juice
+  slug: lime-juice
+  kind: ingredient
+
+- display_name: Tangerine Juice
+  parent: citrus-juice
+  slug: tangerine-juice
+  kind: ingredient
+
+- display_name: Blood Orange Juice
+  parent: citrus-juice
+  slug: blood-orange-juice
+  kind: ingredient
+
+- display_name: Grapefruit Juice
+  parent: citrus-juice
+  slug: grapefruit-juice
+  kind: ingredient
+
+- display_name: Ruby Red Grapefruit Juice
+  parent: grapefruit-juice
+  slug: ruby-red-grapefruit-juice
+  kind: ingredient
+
+- display_name: Orange Juice
+  parent: citrus-juice
+  slug: orange-juice
+  kind: ingredient
+
+- display_name: Orange Flower Water
+  parent: citrus-juice
+  slug: orange-flower-water
+  kind: ingredient
+
+- display_name: Fruit Juice
+  parent: juice
+  slug: fruit-juice
+  kind: ingredient
+
+- display_name: Apple Juice
+  parent: fruit-juice
   slug: apple-juice
   kind: ingredient
 
@@ -19,83 +69,58 @@
   slug: granny-smith-apple-juice
   kind: ingredient
 
-- display_name: Blood Orange
-  parent: juice
-  slug: blood-orange
-  kind: ingredient
-
-- display_name: Blood Orange Juice
-  parent: blood-orange
-  slug: blood-orange-juice
-  kind: ingredient
-
-- display_name: Cantaloupe
-  parent: juice
-  slug: cantaloupe
-  kind: ingredient
-
 - display_name: Cantaloupe Juice
-  parent: cantaloupe
+  parent: fruit-juice
   slug: cantaloupe-juice
   kind: ingredient
 
-- display_name: Cranberry Juice
+- display_name: Guava Juice
+  parent: fruit-juice
+  slug: guava-juice
+  kind: ingredient
+
+- display_name: Passion Fruit Juice
+  parent: fruit-juice
+  slug: passion-fruit-juice
+  kind: ingredient
+
+- display_name: Pineapple Juice
+  parent: fruit-juice
+  slug: pineapple-juice
+  kind: ingredient
+
+- display_name: Pomegranate Juice
+  parent: fruit-juice
+  slug: pomegranate-juice
+  kind: ingredient
+
+- display_name: Watermelon Juice
+  parent: fruit-juice
+  slug: watermelon-juice
+  kind: ingredient
+
+- display_name: Berry Juice
   parent: juice
+  slug: berry-juice
+  kind: ingredient
+
+- display_name: Cranberry Juice
+  parent: berry-juice
   slug: cranberry-juice
   kind: ingredient
 
-- display_name: Grapefruit
-  parent: juice
-  slug: grapefruit
-  kind: ingredient
-
-- display_name: Grapefruit Juice
-  parent: grapefruit
-  slug: grapefruit-juice
-  kind: ingredient
-
-- display_name: Ruby Red Grapefruit Juice
-  parent: grapefruit
-  slug: ruby-red-grapefruit-juice
-  kind: ingredient
-
 - display_name: Grape Juice
-  parent: juice
+  parent: berry-juice
   slug: grape-juice
   kind: ingredient
 
 - display_name: Fusion Verjus Blanc
   parent: grape-juice
   slug: fusion-verjus-blanc
-  kind: ingredient
-
-- display_name: Guava Juice
-  parent: juice
-  slug: guava-juice
-  kind: ingredient
-
-- display_name: Orange Juice
-  parent: juice
-  slug: orange-juice
-  kind: ingredient
-
-- display_name: Passion Fruit Juice
-  parent: juice
-  slug: passion-fruit-juice
-  kind: ingredient
-
-- display_name: Pineapple Juice
-  parent: juice
-  slug: pineapple-juice
-  kind: ingredient
-
-- display_name: Pomegranate Juice
-  parent: juice
-  slug: pomegranate-juice
-  kind: ingredient
+  kind: product
 
 - display_name: Raspberry Juice
-  parent: juice
+  parent: berry-juice
   slug: raspberry-juice
   kind: ingredient
 
@@ -107,9 +132,4 @@
 - display_name: Tomato Juice
   parent: juice
   slug: tomato-juice
-  kind: ingredient
-
-- display_name: Watermelon Juice
-  parent: juice
-  slug: watermelon-juice
   kind: ingredient

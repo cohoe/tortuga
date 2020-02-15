@@ -12,7 +12,7 @@
 - display_name: American Fruits Black Currant Cordial
   parent: blackcurrant-cordial
   slug: american-fruits-black-currant-cordial
-  kind: ingredient
+  kind: product
 
 - display_name: Cranberry Cordial
   parent: cordial
@@ -27,7 +27,7 @@
 - display_name: Small Hand Foods Grapefruit Cordial
   parent: grapefruit-cordial
   slug: small-hand-foods-grapefruit-cordial
-  kind: ingredient
+  kind: product
 
 - display_name: Kumquat Cordial
   parent: cordial
@@ -47,17 +47,12 @@
 - display_name: Rose's Lime Juice
   parent: lime-cordial
   slug: rose-s-lime-juice
-  kind: ingredient
-
-- display_name: Rose's Or Angostura Preserved Lime Juice
-  parent: lime-cordial
-  slug: rose-s-or-angostura-preserved-lime-juice
-  kind: ingredient
+  kind: product
 
 - display_name: Toby's Lime Cordial
   parent: lime-cordial
   slug: toby-s-lime-cordial
-  kind: ingredient
+  kind: custom
 
 - display_name: Raspberry Syrup
   parent: cordial

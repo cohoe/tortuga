@@ -14,11 +14,6 @@
   slug: blueberry
   kind: ingredient
 
-- display_name: Blueberries
-  parent: blueberry
-  slug: blueberries
-  kind: ingredient
-
 - display_name: Cranberry
   parent: berry
   slug: cranberry
@@ -32,7 +27,7 @@
 - display_name: Mixed-Berry Marinade
   parent: berry
   slug: mixed-berry-marinade
-  kind: ingredient
+  kind: custom
 
 - display_name: Raspberry
   parent: berry

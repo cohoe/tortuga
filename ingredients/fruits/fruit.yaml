@@ -208,3 +208,8 @@
   parent: fruit
   slug: watermelon
   kind: ingredient
+
+- display_name: Cantaloupe
+  parent: fruit
+  slug: cantaloupe
+  kind: ingredient
