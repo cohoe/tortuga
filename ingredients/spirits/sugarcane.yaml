@@ -292,11 +292,16 @@
   parent: rum
   slug: flor-de-cana-extra-dry-white-rum
   kind: ingredient
-
-- display_name: "Flor De Ca\xF1a Silver Dry Rum"
-  parent: rum
-  slug: flor-de-cana-silver-dry-rum
-  kind: ingredient
+  aliases:
+    - "Flor De Ca\xF1a Extra Dry"
+    - "Flor de Ca\xF1a Extra Dry 4"
+    - "Flor de Ca\xF1a Silver Dry Rum"
+    - "Flor de Cana 4 Year-Old Extra Dry white rum"
+    - "Flor De Ca\xF1a 4 Year Extra Dry"
+    - "Flor De Ca\xF1a Extra Dry rum"
+    - "light Flor De Ca\xF1a"
+    - "light Flor de Ca\xF1a Extra Dry rum"
+    - "Flor de Ca\xF1a Light Rum"
 
 - display_name: Gold Rum
   parent: rum
