@@ -29,15 +29,10 @@
   slug: falernum
   kind: ingredient
 
-- display_name: John D. Taylor's Velvet Falernum
+- display_name: "John D. Taylor's Velvet Falernum"
   parent: falernum
   slug: john-d-taylor-s-velvet-falernum
-  kind: ingredient
-
-- display_name: Velvet Falernum
-  parent: falernum
-  slug: velvet-falernum
-  kind: ingredient
+  kind: product
 
 - display_name: Grenadine
   parent: syrup
@@ -47,7 +42,7 @@
 - display_name: House Grenadine
   parent: grenadine
   slug: house-grenadine
-  kind: ingredient
+  kind: custom
 
 - display_name: Gum Syrup
   parent: syrup

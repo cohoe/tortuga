@@ -12,16 +12,11 @@
 - display_name: Liquiteria Coconut Water
   parent: coconut-water
   slug: liquiteria-coconut-water
-  kind: ingredient
+  kind: product
 
 - display_name: Corn Water
   parent: water
   slug: corn-water
-  kind: ingredient
-
-- display_name: Ice
-  parent: water
-  slug: ice
   kind: ingredient
 
 - display_name: Soda Water
@@ -42,14 +37,9 @@
 - display_name: Q Tonic Water
   parent: tonic-water
   slug: q-tonic-water
-  kind: ingredient
+  kind: product
 
 - display_name: Hot Water
   parent: water
   slug: hot-water
-  kind: ingredient
-
-- display_name: Water Or Soda Water
-  parent: water
-  slug: water-or-soda-water
   kind: ingredient

@@ -4,12 +4,12 @@
   slug: chocolate
   kind: family
 
-- display_name: Cocoa Powder (unsweetened)
+- display_name: Cocoa Powder
   parent: chocolate
-  slug: cocoa-powder-unsweetened
+  slug: cocoa-powder
   kind: ingredient
 
-- display_name: Hershey's Unsweetened Cocoa Powder
+- display_name: "Hershey's Unsweetened Cocoa Powder"
   parent: cocoa-powder-unsweetened
   slug: hershey-s-unsweetened-cocoa-powder
-  kind: ingredient
+  kind: product

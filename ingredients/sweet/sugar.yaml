@@ -5,9 +5,9 @@
   kind: family
 
 - display_name: Angostura Bitters-soaked Demerara Sugar
-  parent: sugar
+  parent: demerara-sugar
   slug: angostura-bitters-soaked-demerara-sugar
-  kind: ingredient
+  kind: custom
 
 - display_name: Demerara Sugar
   parent: sugar

@@ -7,9 +7,9 @@
 - display_name: Coca-Cola
   parent: cola
   slug: coca-cola
-  kind: ingredient
+  kind: product
 
 - display_name: Coca-Cola Classic
-  parent: cola
+  parent: coca-cola
   slug: coca-cola-classic
-  kind: ingredient
+  kind: product

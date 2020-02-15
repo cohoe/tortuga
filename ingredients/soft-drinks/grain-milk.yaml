@@ -12,4 +12,4 @@
 - display_name: House Horchata
   parent: horchata
   slug: house-horchata
-  kind: ingredient
+  kind: custom
