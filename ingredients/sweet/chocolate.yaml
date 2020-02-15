@@ -10,6 +10,6 @@
   kind: ingredient
 
 - display_name: "Hershey's Unsweetened Cocoa Powder"
-  parent: cocoa-powder-unsweetened
+  parent: cocoa-powder
   slug: hershey-s-unsweetened-cocoa-powder
   kind: product
