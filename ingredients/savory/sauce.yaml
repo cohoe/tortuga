@@ -12,17 +12,17 @@
 - display_name: Cholula Hot Sauce
   parent: hot-sauce
   slug: cholula-hot-sauce
-  kind: ingredient
+  kind: product
 
 - display_name: Tabasco Chipotle Sauce
   parent: hot-sauce
   slug: tabasco-chipotle-sauce
-  kind: ingredient
+  kind: product
 
 - display_name: Tabasco Sauce
   parent: hot-sauce
   slug: tabasco-sauce
-  kind: ingredient
+  kind: product
 
 - display_name: Soy Sauce
   parent: sauce

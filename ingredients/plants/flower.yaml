@@ -4,8 +4,13 @@
   slug: flower
   kind: family
 
-- display_name: Rose Water
+- display_name: Flower Water
   parent: flower
+  slug: flower-water
+  kind: ingredient
+
+- display_name: Rose Water
+  parent: flower-water
   slug: rose-water
   kind: ingredient
 
@@ -13,3 +18,8 @@
   parent: rose-water
   slug: marivani-rose-flower-water
   kind: product
+
+- display_name: Orange Flower Water
+  parent: flower-water
+  slug: orange-flower-water
+  kind: ingredient

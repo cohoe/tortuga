@@ -9,11 +9,6 @@
   slug: celery-salt
   kind: ingredient
 
-- display_name: Coarse Salt, For Rimming
-  parent: salt
-  slug: coarse-salt-for-rimming
-  kind: ingredient
-
 - display_name: Kosher Salt
   parent: salt
   slug: kosher-salt

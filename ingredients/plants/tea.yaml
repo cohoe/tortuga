@@ -17,7 +17,7 @@
 - display_name: Golden Star Sparkling White Jasmine Tea
   parent: tea
   slug: golden-star-sparkling-white-jasmine-tea
-  kind: ingredient
+  kind: product
 
 - display_name: Hot Tea
   parent: tea
@@ -27,4 +27,4 @@
 - display_name: Lipton Cold-brew Tea
   parent: tea
   slug: lipton-cold-brew-tea
-  kind: ingredient
+  kind: product

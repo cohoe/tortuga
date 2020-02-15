@@ -14,8 +14,6 @@
   slug: celery
   kind: ingredient
 
-
-
 - display_name: Rhubarb
   parent: vegetable
   slug: rhubarb
@@ -24,5 +22,4 @@
 - display_name: "Boiron Rhubarb Pur\xE9e"
   parent: rhubarb
   slug: boiron-rhubarb-puree
-  kind: ingredient
-
+  kind: product

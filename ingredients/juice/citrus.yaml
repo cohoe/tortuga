@@ -39,11 +39,3 @@
   parent: citrus-juice
   slug: orange-juice
   kind: ingredient
-
-- display_name: Orange Flower Water
-  parent: citrus-juice
-  slug: orange-flower-water
-  kind: ingredient
-
-
-

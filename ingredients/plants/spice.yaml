@@ -42,29 +42,19 @@
 - display_name: Gulden's Spicy Brown Mustard
   parent: mustard
   slug: gulden-s-spicy-brown-mustard
-  kind: ingredient
+  kind: product
 
 - display_name: Nutmeg
   parent: spice
   slug: nutmeg
   kind: ingredient
 
-- display_name: Pepper
-  parent: spice
-  slug: pepper
-  kind: ingredient
-
 - display_name: Black Pepper
-  parent: pepper
+  parent: spice
   slug: black-pepper
   kind: ingredient
 
-- display_name: Ground Pepper
-  parent: pepper
-  slug: ground-pepper
-  kind: ingredient
-
 - display_name: Whole Black Peppercorn
-  parent: pepper
+  parent: black-pepper
   slug: whole-black-peppercorn
   kind: ingredient

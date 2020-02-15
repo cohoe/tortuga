@@ -22,31 +22,21 @@
 - display_name: Pickled Ramp Brine
   parent: brine
   slug: pickled-ramp-brine
-  kind: ingredient
+  kind: custom
 
 - display_name: Cherry Shrub
   parent: vinegar
   slug: cherry-shrub
   kind: ingredient
 
-- display_name: Toby's Sour Cherry Shrub
+- display_name: "Toby's Sour Cherry Shrub"
   parent: cherry-shrub
   slug: toby-s-sour-cherry-shrub
-  kind: ingredient
+  kind: product
 
 - display_name: Concord Shrub
   parent: vinegar
   slug: concord-shrub
-  kind: ingredient
-
-- display_name: Creole Shrub
-  parent: vinegar
-  slug: creole-shrub
-  kind: ingredient
-
-- display_name: "Rhum Cl\xE9ment Creole Shrub"
-  parent: creole-shrub
-  slug: rhum-clement-creole-shrub
   kind: ingredient
 
 - display_name: Gastrique
@@ -57,12 +47,12 @@
 - display_name: Strawberry-Balsamic Gastrique
   parent: gastrique
   slug: strawberry-balsamic-gastrique
-  kind: ingredient
+  kind: custom
 
 - display_name: Tarragon And Agave Nectar Gastrique
   parent: gastrique
   slug: tarragon-and-agave-nectar-gastrique
-  kind: ingredient
+  kind: custom
 
 - display_name: Malt Vinegar
   parent: vinegar
@@ -82,16 +72,11 @@
 - display_name: Bittermens Hellfire Habanero Shrub
   parent: pepper-shrub
   slug: bittermens-hellfire-habanero-shrub
-  kind: ingredient
+  kind: product
 
 - display_name: Quince Shrub
   parent: vinegar
   slug: quince-shrub
-  kind: ingredient
-
-- display_name: Quince Shrub (Huilerie Beaujolaise Vinaigre De Coing)
-  parent: quince-shrub
-  slug: quince-shrub-huilerie-beaujolaise-vinaigre-de-coing
   kind: ingredient
 
 - display_name: Rice Vinegar

@@ -753,3 +753,8 @@
   parent: liqueur
   slug: peppermint-schnapps
   kind: ingredient
+
+- display_name: "Rhum Cl\xE9ment Creole Shrub"
+  parent: liqueur
+  slug: rhum-clement-creole-shrub
+  kind: product
