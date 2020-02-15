@@ -1,0 +1,50 @@
+---
+- display_name: "Fruit Pur\xE9e"
+  parent: fruits
+  slug: fruit-puree
+  kind: family
+
+- display_name: "Mango Pur\xE9e"
+  parent: fruit-puree
+  slug: mango-puree
+  kind: ingredient
+
+- display_name: "Boiron Passion Fruit Pur\xE9e"
+  parent: passion-fruit-puree
+  slug: boiron-passion-fruit-puree
+  kind: product
+
+- display_name: "Passion Fruit Pur\xE9e"
+  parent: fruit-puree
+  slug: passion-fruit-puree
+  kind: ingredient
+
+- display_name: "Peach Pur\xE9e"
+  parent: fruit-puree
+  slug: peach-puree
+  kind: ingredient
+
+- display_name: "White Peach Pur\xE9e"
+  parent: peach-puree
+  slug: white-peach-puree
+  kind: ingredient
+
+- display_name: "Perfect Pur\xE9es Of Napa Valley Prickly Pear Pur\xE9e"
+  parent: fruit-puree
+  slug: perfect-purees-of-napa-valley-prickly-pear-puree
+  kind: product
+
+- display_name: "Tamarind Pur\xE9e"
+  parent: fruit-puree
+  slug: tamarind-puree
+  kind: ingredient
+
+- display_name: "Tropical Fruit Pur\xE9e"
+  parent: fruit-puree
+  slug: tropical-fruit-puree
+  kind: ingredient
+
+- display_name: "Boiron Kalamansi Pur\xE9e"
+  parent: fruit-puree
+  slug: boiron-kalamansi-puree
+  kind: product

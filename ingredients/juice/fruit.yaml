@@ -1,0 +1,54 @@
+- display_name: Fruit Juice
+  parent: juice
+  slug: fruit-juice
+  kind: family
+
+- display_name: Apple Juice
+  parent: fruit-juice
+  slug: apple-juice
+  kind: ingredient
+
+- display_name: Fuji Apple Juice
+  parent: apple-juice
+  slug: fuji-apple-juice
+  kind: ingredient
+
+- display_name: Granny Smith Apple Juice
+  parent: apple-juice
+  slug: granny-smith-apple-juice
+  kind: ingredient
+
+- display_name: Cantaloupe Juice
+  parent: fruit-juice
+  slug: cantaloupe-juice
+  kind: ingredient
+
+- display_name: Guava Juice
+  parent: fruit-juice
+  slug: guava-juice
+  kind: ingredient
+
+- display_name: Passion Fruit Juice
+  parent: fruit-juice
+  slug: passion-fruit-juice
+  kind: ingredient
+
+- display_name: Pineapple Juice
+  parent: fruit-juice
+  slug: pineapple-juice
+  kind: ingredient
+
+- display_name: Pomegranate Juice
+  parent: fruit-juice
+  slug: pomegranate-juice
+  kind: ingredient
+
+- display_name: Watermelon Juice
+  parent: fruit-juice
+  slug: watermelon-juice
+  kind: ingredient
+
+- display_name: Honeydew Melon Juice
+  parent: fruit-juice
+  slug: honeydew-melon-juice
+  kind: ingredient

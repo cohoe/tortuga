@@ -14,10 +14,7 @@
   slug: celery
   kind: ingredient
 
-- display_name: Celery Juice
-  parent: vegetable
-  slug: celery-juice
-  kind: ingredient
+
 
 - display_name: Rhubarb
   parent: vegetable
@@ -28,3 +25,4 @@
   parent: rhubarb
   slug: boiron-rhubarb-puree
   kind: ingredient
+

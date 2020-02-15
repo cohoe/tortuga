@@ -1,0 +1,49 @@
+---
+
+- display_name: Citrus Juice
+  parent: juice
+  slug: citrus-juice
+  kind: family
+
+- display_name: Lemon Juice
+  parent: citrus-juice
+  slug: lemon-juice
+  kind: ingredient
+
+- display_name: Lime Juice
+  parent: citrus-juice
+  slug: lime-juice
+  kind: ingredient
+
+- display_name: Tangerine Juice
+  parent: citrus-juice
+  slug: tangerine-juice
+  kind: ingredient
+
+- display_name: Blood Orange Juice
+  parent: citrus-juice
+  slug: blood-orange-juice
+  kind: ingredient
+
+- display_name: Grapefruit Juice
+  parent: citrus-juice
+  slug: grapefruit-juice
+  kind: ingredient
+
+- display_name: Ruby Red Grapefruit Juice
+  parent: grapefruit-juice
+  slug: ruby-red-grapefruit-juice
+  kind: ingredient
+
+- display_name: Orange Juice
+  parent: citrus-juice
+  slug: orange-juice
+  kind: ingredient
+
+- display_name: Orange Flower Water
+  parent: citrus-juice
+  slug: orange-flower-water
+  kind: ingredient
+
+
+

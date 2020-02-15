@@ -35,7 +35,7 @@
   kind: ingredient
 
 - display_name: Kirsch Brandied Cherry
-  parent: cherry
+  parent: brandied-cherry
   slug: kirsch-brandied-cherry
   kind: ingredient
 
@@ -79,29 +79,24 @@
   slug: mango
   kind: ingredient
 
-- display_name: "Mango Pur\xE9e"
-  parent: mango
-  slug: mango-puree
-  kind: ingredient
-
 - display_name: Melon
   parent: fruit
   slug: melon
   kind: ingredient
 
-- display_name: Canteloupe
+- display_name: Honeydew
   parent: melon
-  slug: canteloupe
+  slug: honeydew
   kind: ingredient
 
-- display_name: Honeydew Melon Juice
-  parent: melon
-  slug: honeydew-melon-juice
+- display_name: Watermelon
+  parent: fruit
+  slug: watermelon
   kind: ingredient
 
-- display_name: Yellow And Honeydew Melon
-  parent: melon
-  slug: yellow-and-honeydew-melon
+- display_name: Cantaloupe
+  parent: fruit
+  slug: cantaloupe
   kind: ingredient
 
 - display_name: Nectarine
@@ -114,34 +109,14 @@
   slug: passion-fruit
   kind: ingredient
 
-- display_name: "Boiron Passion Fruit Pur\xE9e"
-  parent: passion-fruit
-  slug: boiron-passion-fruit-puree
-  kind: ingredient
-
-- display_name: "Passion Fruit Pur\xE9e"
-  parent: passion-fruit
-  slug: passion-fruit-puree
-  kind: ingredient
-
 - display_name: Peach
   parent: fruit
   slug: peach
   kind: ingredient
 
-- display_name: "Peach Pur\xE9e"
-  parent: peach
-  slug: peach-puree
-  kind: ingredient
-
 - display_name: Sweet Georgia Peach
   parent: peach
   slug: sweet-georgia-peach
-  kind: ingredient
-
-- display_name: "White Peach Pur\xE9e"
-  parent: peach
-  slug: white-peach-puree
   kind: ingredient
 
 - display_name: Pear
@@ -179,37 +154,7 @@
   slug: prickly-pear
   kind: ingredient
 
-- display_name: "Perfect Pur\xE9es Of Napa Valley Prickly Pear Pur\xE9e"
-  parent: prickly-pear
-  slug: perfect-purees-of-napa-valley-prickly-pear-puree
-  kind: ingredient
-
 - display_name: Tamarind
   parent: fruit
   slug: tamarind
-  kind: ingredient
-
-- display_name: "Tamarind Pur\xE9e"
-  parent: tamarind
-  slug: tamarind-puree
-  kind: ingredient
-
-- display_name: Tropical Fruit
-  parent: fruit
-  slug: tropical-fruit
-  kind: ingredient
-
-- display_name: "Tropical Fruit Pur\xE9e"
-  parent: tropical-fruit
-  slug: tropical-fruit-puree
-  kind: ingredient
-
-- display_name: Watermelon
-  parent: fruit
-  slug: watermelon
-  kind: ingredient
-
-- display_name: Cantaloupe
-  parent: fruit
-  slug: cantaloupe
   kind: ingredient

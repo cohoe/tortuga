@@ -43,3 +43,8 @@
   slug: sweet
   kind: category
   parent:
+
+- display_name: Juice
+  slug: juice
+  kind: category
+  parent:

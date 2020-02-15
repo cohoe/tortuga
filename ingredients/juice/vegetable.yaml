@@ -1,0 +1,24 @@
+- display_name: Vegetable Juice
+  parent: juice
+  slug: vegetable-juice
+  kind: family
+
+- display_name: Celery Juice
+  parent: vegetable-juice
+  slug: celery-juice
+  kind: ingredient
+
+- display_name: Carrot Juice
+  parent: vegetable-juice
+  slug: carrot-juice
+  kind: ingredient
+
+- display_name: Sangrita
+  parent: vegetable-juice
+  slug: sangrita
+  kind: ingredient
+
+- display_name: Tomato Juice
+  parent: vegetable-juice
+  slug: tomato-juice
+  kind: ingredient

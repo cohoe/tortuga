@@ -9,11 +9,6 @@
   slug: calamondin
   kind: ingredient
 
-- display_name: "Boiron Kalamansi Pur\xE9e"
-  parent: calamondin
-  slug: boiron-kalamansi-puree
-  kind: product
-
 - display_name: Kaffir Lime
   parent: citrus
   slug: kaffir-lime

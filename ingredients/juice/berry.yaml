@@ -1,0 +1,24 @@
+- display_name: Berry Juice
+  parent: juice
+  slug: berry-juice
+  kind: family
+
+- display_name: Cranberry Juice
+  parent: berry-juice
+  slug: cranberry-juice
+  kind: ingredient
+
+- display_name: Grape Juice
+  parent: berry-juice
+  slug: grape-juice
+  kind: ingredient
+
+- display_name: Fusion Verjus Blanc
+  parent: grape-juice
+  slug: fusion-verjus-blanc
+  kind: product
+
+- display_name: Raspberry Juice
+  parent: berry-juice
+  slug: raspberry-juice
+  kind: ingredient

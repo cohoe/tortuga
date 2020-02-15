@@ -47,7 +47,7 @@
 - display_name: Herb Pharm Goldenseal Tincture
   parent: goldenseal
   slug: herb-pharm-goldenseal-tincture
-  kind: ingredient
+  kind: product
 
 - display_name: Lavender
   parent: herb
@@ -57,7 +57,7 @@
 - display_name: Lavender Tincture
   parent: lavender
   slug: lavender-tincture
-  kind: ingredient
+  kind: custom
 
 - display_name: Mint
   parent: herb
@@ -97,9 +97,4 @@
 - display_name: Spiced Sorrel
   parent: sorrel
   slug: spiced-sorrel
-  kind: ingredient
-
-- display_name: Carrot Juice
-  parent: vegetable
-  slug: carrot-juice
   kind: ingredient

@@ -1,6 +1,6 @@
 ---
 - display_name: Marine
-  parent: animal
+  parent: juice
   slug: marine
   kind: family
 
