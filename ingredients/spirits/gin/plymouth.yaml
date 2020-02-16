@@ -1,0 +1,14 @@
+- display_name: Szechuan Peppercorn-Infused Plymouth Gin
+  parent: plymouth-gin
+  slug: szechuan-peppercorn-infused-plymouth-gin
+  kind: custom
+
+- display_name: Rose-Infused Plymouth Gin
+  parent: plymouth-gin
+  slug: rose-infused-plymouth-gin
+  kind: custom
+
+- display_name: Sugar Snap Pea-Infused Plymouth Gin
+  parent: plymouth-gin
+  slug: sugar-snap-pea-infused-plymouth-gin
+  kind: custom

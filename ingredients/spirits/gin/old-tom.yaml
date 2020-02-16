@@ -1,0 +1,14 @@
+- display_name: "Hayman's Old Tom Gin"
+  parent: old-tom-gin
+  slug: hayman-s-old-tom-gin
+  kind: product
+
+- display_name: Pennyroyal-Infused Hayman's Old Tom Gin
+  parent: hayman-s-old-tom-gin
+  slug: pennyroyal-infused-hayman-s-old-tom-gin
+  kind: custom
+
+- display_name: Ransom Old Tom Gin
+  parent: old-tom-gin
+  slug: ransom-old-tom-gin
+  kind: product

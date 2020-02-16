@@ -9,169 +9,19 @@
   slug: genever
   kind: ingredient
 
-- display_name: Anchor Genevieve
-  parent: genever
-  slug: anchor-genevieve
-  kind: ingredient
-
-- display_name: Anchor Genevieve Gin
-  parent: genever
-  slug: anchor-genevieve-gin
-  kind: ingredient
-
-- display_name: Bols Barrel-Aged Genever
-  parent: genever
-  slug: bols-barrel-aged-genever
-  kind: ingredient
-
-- display_name: Bols Genever
-  parent: genever
-  slug: bols-genever
-  kind: ingredient
-
-- display_name: Anchor Junipero Gin
-  parent: gin
-  slug: anchor-junipero-gin
-  kind: ingredient
-
-- display_name: Aviation Gin
-  parent: gin
-  slug: aviation-gin
-  kind: ingredient
-
-- display_name: Beefeater 24 Gin
-  parent: gin
-  slug: beefeater-24-gin
-  kind: ingredient
-
-- display_name: Beefeater Gin
-  parent: gin
-  slug: beefeater-gin
-  kind: ingredient
-
-- display_name: Beefeater London Dry Gin
-  parent: gin
-  slug: beefeater-london-dry-gin
-  kind: ingredient
-
-- display_name: Berkshire Mountain Distillers' Greylock Gin
-  parent: gin
-  slug: berkshire-mountain-distillers-greylock-gin
-  kind: ingredient
-
-- display_name: Bombay Gin
-  parent: gin
-  slug: bombay-gin
-  kind: ingredient
-
-- display_name: Bombay London Dry Gin
-  parent: gin
-  slug: bombay-london-dry-gin
-  kind: ingredient
-
-- display_name: Bombay Sapphire Gin
-  parent: gin
-  slug: bombay-sapphire-gin
-  kind: ingredient
-
-- display_name: Bruichladdich Botanist Gin
-  parent: gin
-  slug: bruichladdich-botanist-gin
-  kind: ingredient
-
-- display_name: Dorothy Parker Gin
-  parent: gin
-  slug: dorothy-parker-gin
-  kind: ingredient
-
-- display_name: Dry Gin
-  parent: gin
-  slug: dry-gin
-  kind: ingredient
-
-- display_name: Fords Gin
-  parent: gin
-  slug: fords-gin
-  kind: ingredient
-
-- display_name: Hayman's Old Tom Gin
-  parent: gin
-  slug: hayman-s-old-tom-gin
-  kind: ingredient
-
-- display_name: Hendrick's Gin
-  parent: gin
-  slug: hendrick-s-gin
-  kind: ingredient
-
-- display_name: Martin Miller's Westbourne-Strength Gin
-  parent: gin
-  slug: martin-miller-s-westbourne-strength-gin
-  kind: ingredient
-
 - display_name: Old Tom Gin
   parent: gin
   slug: old-tom-gin
   kind: ingredient
 
-- display_name: Perry's Tot Navy-Strength Gin
-  parent: gin
-  slug: perry-s-tot-navy-strength-gin
-  kind: ingredient
-
-- display_name: Plymouth, Beefeater London Dry, Or Tanqueray London Dry Gin
-  parent: gin
-  slug: plymouth-beefeater-london-dry-or-tanqueray-london-dry-gin
-  kind: ingredient
-
 - display_name: Plymouth Gin
   parent: gin
   slug: plymouth-gin
-  kind: ingredient
+  kind: product
 
-- display_name: Ransom Old Tom Gin
+- display_name: London Dry Gin
   parent: gin
-  slug: ransom-old-tom-gin
-  kind: ingredient
-
-- display_name: Tanqueray Gin
-  parent: gin
-  slug: tanqueray-gin
-  kind: ingredient
-
-- display_name: Tanqueray London Dry Gin
-  parent: gin
-  slug: tanqueray-london-dry-gin
-  kind: ingredient
-
-- display_name: Tanqueray No. Ten Gin
-  parent: gin
-  slug: tanqueray-no-ten-gin
-  kind: ingredient
-
-- display_name: Infused Gin
-  parent: gin
-  slug: infused-gin
-  kind: ingredient
-
-- display_name: Pennyroyal-Infused Hayman's Old Tom Gin
-  parent: infused-gin
-  slug: pennyroyal-infused-hayman-s-old-tom-gin
-  kind: ingredient
-
-- display_name: Rose-Infused Plymouth Gin
-  parent: infused-gin
-  slug: rose-infused-plymouth-gin
-  kind: ingredient
-
-- display_name: Sugar Snap Pea-Infused Plymouth Gin
-  parent: infused-gin
-  slug: sugar-snap-pea-infused-plymouth-gin
-  kind: ingredient
-
-- display_name: Szechuan Peppercorn-Infused Plymouth Gin
-  parent: infused-gin
-  slug: szechuan-peppercorn-infused-plymouth-gin
+  slug: london-dry-gin
   kind: ingredient
 
 - display_name: Sloe Gin
@@ -179,7 +29,10 @@
   slug: sloe-gin
   kind: ingredient
 
-- display_name: Plymouth Sloe Gin
-  parent: sloe-gin
-  slug: plymouth-sloe-gin
+- display_name: New Western Gin
+  parent: gin
+  slug: new-western-gin
   kind: ingredient
+  aliases:
+    - Western Style Gin
+    - New Style Gin

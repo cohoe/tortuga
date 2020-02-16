@@ -1,0 +1,34 @@
+- display_name: Beefeater 24 Gin
+  parent: london-dry-gin
+  slug: beefeater-24-gin
+  kind: product
+
+- display_name: Beefeater London Dry Gin
+  parent: london-dry-gin
+  slug: beefeater-london-dry-gin
+  kind: product
+
+- display_name: Bombay Sapphire London Dry Gin
+  parent: london-dry-gin
+  slug: bombay-sapphire-london-dry-gin
+  kind: product
+
+- display_name: Tanqueray London Dry Gin
+  parent: london-dry-gin
+  slug: tanqueray-london-dry-gin
+  kind: product
+
+- display_name: Anchor Junipero Gin
+  parent: london-dry-gin
+  slug: anchor-junipero-gin
+  kind: product
+
+- display_name: Fords Gin
+  parent: london-dry-gin
+  slug: fords-gin
+  kind: product
+
+- display_name: Martin Miller's Westbourne-Strength Gin
+  parent: london-dry-gin
+  slug: martin-miller-s-westbourne-strength-gin
+  kind: product

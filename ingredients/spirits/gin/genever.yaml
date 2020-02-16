@@ -1,0 +1,19 @@
+- display_name: Anchor Genevieve
+  parent: genever
+  slug: anchor-genevieve
+  kind: product
+
+- display_name: Anchor Genevieve Gin
+  parent: genever
+  slug: anchor-genevieve-gin
+  kind: product
+
+- display_name: Bols Barrel-Aged Genever
+  parent: genever
+  slug: bols-barrel-aged-genever
+  kind: product
+
+- display_name: Bols Genever
+  parent: genever
+  slug: bols-genever
+  kind: product

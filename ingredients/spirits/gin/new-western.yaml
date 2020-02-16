@@ -1,0 +1,34 @@
+- display_name: Hendrick's Gin
+  parent: new-western-gin
+  slug: hendrick-s-gin
+  kind: product
+
+- display_name: Aviation Gin
+  parent: new-western-gin
+  slug: aviation-gin
+  kind: product
+
+- display_name: Tanqueray No. Ten Gin
+  parent: new-western-gin
+  slug: tanqueray-no-ten-gin
+  kind: product
+
+- display_name: Berkshire Mountain Distillers' Greylock Gin
+  parent: new-western-gin
+  slug: berkshire-mountain-distillers-greylock-gin
+  kind: product
+
+- display_name: Bruichladdich Botanist Gin
+  parent: new-western-gin
+  slug: bruichladdich-botanist-gin
+  kind: product
+
+- display_name: Dorothy Parker Gin
+  parent: new-western-gin
+  slug: dorothy-parker-gin
+  kind: product
+
+- display_name: Perry's Tot Navy-Strength Gin
+  parent: new-western-gin
+  slug: perry-s-tot-navy-strength-gin
+  kind: product
