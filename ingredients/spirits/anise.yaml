@@ -12,47 +12,44 @@
 - display_name: Edouard Absinthe
   parent: absinthe
   slug: edouard-absinthe
-  kind: ingredient
+  kind: product
 
 - display_name: Pernod Absinthe
   parent: absinthe
   slug: pernod-absinthe
-  kind: ingredient
+  kind: product
 
 - display_name: Pernod Fils
   parent: absinthe
   slug: pernod-fils
-  kind: ingredient
+  kind: product
 
 - display_name: St. George Absinthe
   parent: absinthe
   slug: st-george-absinthe
-  kind: ingredient
+  kind: product
 
 - display_name: Vieux Pontarlier Absinthe
   parent: absinthe
   slug: vieux-pontarlier-absinthe
-  kind: ingredient
+  kind: product
 
 - display_name: Anisette
   parent: anise
   slug: anisette
   kind: ingredient
 
-- display_name: Pernod
+- display_name: Pernod Anise Liqueur
   parent: anise
-  slug: pernod
-  kind: ingredient
-
-- display_name: Ricard
-  parent: anise
-  slug: ricard
-  kind: ingredient
+  slug: pernod-anise-liqueur
+  kind: product
+  aliases:
+    - Pernod
 
 - display_name: Ricard Pastis
-  parent: ricard
+  parent: anise
   slug: ricard-pastis
-  kind: ingredient
+  kind: product
 
 - display_name: Sambuca
   parent: anise
@@ -62,4 +59,4 @@
 - display_name: Borsci Sambuca
   parent: sambuca
   slug: borsci-sambuca
-  kind: ingredient
+  kind: product

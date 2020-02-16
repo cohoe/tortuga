@@ -103,3 +103,8 @@
   parent: vodka
   slug: stolichnaya-vodka
   kind: ingredient
+
+- display_name: OP Flavored Vodka
+  parent: aquavit
+  slug: op-flavored-vodka
+  kind: ingredient
