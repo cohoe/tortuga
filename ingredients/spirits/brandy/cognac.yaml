@@ -1,0 +1,59 @@
+- display_name: Cognac
+  parent: grape-brandy
+  slug: cognac
+  kind: ingredient
+
+- display_name: VS Cognac
+  parent: cognac
+  slug: vs-cognac
+  kind: ingredient
+
+- display_name: Courvoisier Cognac
+  parent: cognac
+  slug: courvoisier-cognac
+  kind: product
+
+- display_name: Courvoisier Millennium Cognac
+  parent: cognac
+  slug: courvoisier-millennium-cognac
+  kind: product
+
+- display_name: Guillon-Painturaud Cognac Grande Champagne VSOP
+  parent: cognac
+  slug: guillon-painturaud-cognac-grande-champagne-vsop
+  kind: product
+
+- display_name: Hine H VSOP Cognac
+  parent: cognac
+  slug: hine-h-vsop-cognac
+  kind: product
+
+- display_name: Walnut-Infused Hine V.S.O.P. Cognac
+  parent: hine-h-vsop-cognac
+  slug: walnut-infused-hine-v-s-o-p-cognac
+  kind: custom
+
+- display_name: Louis Royer Force 53 Cognac
+  parent: cognac
+  slug: louis-royer-force-53-cognac
+  kind: product
+
+- display_name: Martell V.S.O.P. Cognac
+  parent: cognac
+  slug: martell-v-s-o-p-cognac
+  kind: product
+
+- display_name: Pierre Ferrand 1840 Cognac
+  parent: cognac
+  slug: pierre-ferrand-1840-cognac
+  kind: product
+
+- display_name: Pierre Ferrand Ambre Cognac
+  parent: cognac
+  slug: pierre-ferrand-ambre-cognac
+  kind: product
+
+- display_name: "R\xE9my Martin V.S.O.P. Cognac"
+  parent: cognac
+  slug: remy-martin-v-s-o-p-cognac
+  kind: product

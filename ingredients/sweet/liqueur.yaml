@@ -758,3 +758,8 @@
   parent: liqueur
   slug: rhum-clement-creole-shrub
   kind: product
+
+- display_name: "Sch\xF6nauer Apfel Schnapps"
+  parent: liqueur
+  slug: schonauer-apfel-schnapps
+  kind: ingredient

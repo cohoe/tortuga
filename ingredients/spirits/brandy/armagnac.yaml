@@ -1,0 +1,9 @@
+- display_name: Armagnac
+  parent: grape-brandy
+  slug: armagnac
+  kind: ingredient
+
+- display_name: Tariquet VS Classique Bas-Armagnac
+  parent: armagnac
+  slug: tariquet-vs-classique-bas-armagnac
+  kind: product

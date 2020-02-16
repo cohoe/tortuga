@@ -1,0 +1,19 @@
+- display_name: Spanish Brandy
+  parent: grape-brandy
+  slug: spanish-brandy
+  kind: ingredient
+
+- display_name: Brandy de Jerez
+  parent: spanish-brandy
+  slug: brandy-de-jerez
+  kind: ingredient
+
+- display_name: Cardenal Mendoza Brandy
+  parent: brandy-de-jerez
+  slug: cardenal-mendoza-brandy
+  kind: product
+
+- display_name: Gran Duque D'Alba Brandy De Jerez
+  parent: brandy-de-jerez
+  slug: gran-duque-d-alba-brandy-de-jerez
+  kind: product

@@ -1,0 +1,29 @@
+- display_name: Clear Creek Apple Brandy
+  parent: apple-brandy
+  slug: clear-creek-apple-brandy
+  kind: product
+
+- display_name: "Laird's Bonded Apple Brandy"
+  parent: apple-brandy
+  slug: laird-s-bonded-apple-brandy
+  kind: product
+
+- display_name: Applejack
+  parent: apple-brandy
+  slug: applejack
+  kind: ingredient
+
+- display_name: Laird's Applejack
+  parent: applejack
+  slug: laird-s-applejack
+  kind: product
+
+- display_name: Calvados
+  parent: apple-brandy
+  slug: calvados
+  kind: ingredient
+
+- display_name: Busnel VSOP Calvados
+  parent: calvados
+  slug: busnel-vsop-calvados
+  kind: product
