@@ -1,0 +1,44 @@
+- display_name: Del Maguey Chichicapa Mezcal
+  parent: mezcal
+  slug: del-maguey-chichicapa-mezcal
+  kind: product
+
+- display_name: Del Maguey Crema De Mezcal
+  parent: mezcal
+  slug: del-maguey-crema-de-mezcal
+  kind: product
+
+- display_name: Del Maguey Espadin Especial Mezcal
+  parent: mezcal
+  slug: del-maguey-espadin-especial-mezcal
+  kind: product
+
+- display_name: Del Maguey San Luis Del Rio Mezcal
+  parent: mezcal
+  slug: del-maguey-san-luis-del-rio-mezcal
+  kind: product
+
+- display_name: Del Maguey Vida Mezcal
+  parent: mezcal
+  slug: del-maguey-vida-mezcal
+  kind: product
+
+- display_name: Ilegal Reposado Mezcal
+  parent: mezcal
+  slug: ilegal-reposado-mezcal
+  kind: product
+
+- display_name: Los Amantes Joven Mezcal
+  parent: mezcal
+  slug: los-amantes-joven-mezcal
+  kind: product
+
+- display_name: Los Nahuales Mezcal
+  parent: mezcal
+  slug: los-nahuales-mezcal
+  kind: product
+
+- display_name: Sombra Mezcal
+  parent: mezcal
+  slug: sombra-mezcal
+  kind: product

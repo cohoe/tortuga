@@ -1,0 +1,84 @@
+- display_name: Flavored Vodka
+  parent: vodka
+  slug: flavored-vodka
+  kind: ingredient
+
+- display_name: OP Flavored Vodka
+  parent: flavored-vodka
+  slug: op-flavored-vodka
+  kind: product
+
+- display_name: Vanilla Vodka
+  parent: flavored-vodka
+  slug: vanilla-vodka
+  kind: ingredient
+
+- display_name: Stolichnaya Vanil Vodka
+  parent: vanilla-vodka
+  slug: stolichnaya-vanil-vodka
+  kind: product
+
+- display_name: Fruit Vodka
+  parent: flavored-vodka
+  slug: fruit-vodka
+  kind: ingredient
+
+- display_name: 42 Below Kiwi Vodka
+  parent: fruit-vodka
+  slug: 42-below-kiwi-vodka
+  kind: product
+
+- display_name: Absolut Kurant Vodka
+  parent: fruit-vodka
+  slug: absolut-kurant-vodka
+  kind: product
+
+- display_name: Heart Of The Hudson Apple Vodka
+  parent: fruit-vodka
+  slug: heart-of-the-hudson-apple-vodka
+  kind: product
+
+- display_name: Pepper Vodka
+  parent: flavored-vodka
+  slug: pepper-vodka
+  kind: ingredient
+
+- display_name: Citrus Vodka
+  parent: flavored-vodka
+  slug: citrus-vodka
+  kind: ingredient
+
+- display_name: Orange Vodka
+  parent: citrus-vodka
+  slug: orange-vodka
+  kind: ingredient
+
+- display_name: Stolichnaya Limonaya Vodka
+  parent: citrus-vodka
+  slug: stolichnaya-limonaya-vodka
+  kind: product
+
+- display_name: Stolichnaya Ohranj Vodka
+  parent: orange-vodka
+  slug: stolichnaya-ohranj-vodka
+  kind: product
+
+- display_name: Absolut Mandrin Vodka
+  parent: orange-vodka
+  slug: absolut-mandrin-vodka
+  kind: product
+
+- display_name: Absolut Citron Vodka
+  parent: citrus-vodka
+  slug: absolut-citron-vodka
+  kind: product
+
+- display_name: Chocolate Vodka
+  parent: flavored-vodka
+  slug: chocolate-vodka
+  kind: ingredient
+
+- display_name: Alchemia Chocolate Vodka
+  parent: chocolate-vodka
+  slug: alchemia-chocolate-vodka
+  kind: product
