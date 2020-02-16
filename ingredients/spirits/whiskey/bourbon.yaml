@@ -1,0 +1,94 @@
+- display_name: Baker's Bourbon
+  parent: bourbon-whiskey
+  slug: baker-s-bourbon
+  kind: product
+
+- display_name: Buffalo Trace Bourbon
+  parent: bourbon-whiskey
+  slug: buffalo-trace-bourbon
+  kind: product
+
+- display_name: Pecan-Infused Buffalo Trace Bourbon
+  parent: buffalo-trace-bourbon
+  slug: pecan-infused-buffalo-trace-bourbon
+  kind: custom
+
+- display_name: Bulleit Bourbon Whiskey
+  parent: bourbon-whiskey
+  slug: bulleit-bourbon-whiskey
+  kind: product
+
+- display_name: Eagle Rare 10-Year Bourbon
+  parent: bourbon-whiskey
+  slug: eagle-rare-10-year-bourbon
+  kind: product
+
+- display_name: Elijah Craig 12-Year Bourbon
+  parent: bourbon-whiskey
+  slug: elijah-craig-12-year-bourbon
+  kind: product
+
+- display_name: Fig-Infused Elijah Craig Bourbon
+  parent: elijah-craig-12-year-bourbon
+  slug: fig-infused-elijah-craig-bourbon
+  kind: custom
+
+- display_name: Black Tea-Infused Elijah Craig 12-Year-Old Bourbon Whiskey
+  parent: elijah-craig-12-year-bourbon
+  slug: black-tea-infused-elijah-craig-12-year-old-bourbon-whiskey
+  kind: custom
+
+- display_name: Evan Williams Single-Barrel Bourbon
+  parent: bourbon-whiskey
+  slug: evan-williams-single-barrel-bourbon
+  kind: product
+
+- display_name: Four Roses Single Barrel Bourbon Whiskey
+  parent: bourbon-whiskey
+  slug: four-roses-single-barrel-bourbon-whiskey
+  kind: product
+
+- display_name: Goji Berry-Infused Four Roses Single Barrel Bourbon Whiskey
+  parent: four-roses-single-barrel-bourbon-whiskey
+  slug: goji-berry-infused-four-roses-single-barrel-bourbon-whiskey
+  kind: custom
+
+- display_name: George T. Stagg Bourbon Whiskey
+  parent: bourbon-whiskey
+  slug: george-t-stagg-bourbon-whiskey
+  kind: product
+
+- display_name: Maker's Mark Bourbon Whiskey
+  parent: bourbon-whiskey
+  slug: maker-s-mark-bourbon-whiskey
+  kind: product
+
+- display_name: Old Grand-Dad 114 Bourbon
+  parent: bourbon-whiskey
+  slug: old-grand-dad-114-bourbon
+  kind: product
+
+- display_name: Old Grand-Dad Bonded Bourbon Whiskey
+  parent: bourbon-whiskey
+  slug: old-grand-dad-bonded-bourbon-whiskey
+  kind: product
+
+- display_name: Old Weller Antique 107 Bourbon
+  parent: bourbon-whiskey
+  slug: old-weller-antique-107-bourbon
+  kind: product
+
+- display_name: Russell's Reserve 10-Year Bourbon
+  parent: bourbon-whiskey
+  slug: russell-s-reserve-10-year-bourbon
+  kind: product
+
+- display_name: Wild Turkey 101 Bourbon
+  parent: bourbon-whiskey
+  slug: wild-turkey-101-bourbon
+  kind: product
+
+- display_name: Woodford Reserve Bourbon
+  parent: bourbon-whiskey
+  slug: woodford-reserve-bourbon
+  kind: product

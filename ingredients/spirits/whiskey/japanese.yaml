@@ -1,0 +1,19 @@
+- display_name: Nikka Taketsuru 12-Year-Old Japanese Malt Whisky
+  parent: japanese-whisky
+  slug: nikka-taketsuru-12-year-old-japanese-malt-whisky
+  kind: product
+
+- display_name: Suntory Hakushu 12-Year Japanese Whisky
+  parent: japanese-whisky
+  slug: suntory-hakushu-12-year-japanese-whisky
+  kind: product
+
+- display_name: Suntory Royal Japanese Whisky
+  parent: japanese-whisky
+  slug: suntory-royal-japanese-whisky
+  kind: product
+
+- display_name: Yamazaki 12-Year Japanese Whisky
+  parent: japanese-whisky
+  slug: yamazaki-12-year-japanese-whisky
+  kind: product

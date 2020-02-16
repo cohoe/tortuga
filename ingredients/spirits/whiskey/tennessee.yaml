@@ -1,0 +1,9 @@
+- display_name: George Dickel No. 12 Tennessee Whiskey
+  parent: tennessee-whiskey
+  slug: george-dickel-no-12-tennessee-whiskey
+  kind: product
+
+- display_name: Jack Daniel's Tennessee Whiskey
+  parent: tennessee-whiskey
+  slug: jack-daniel-s-tennessee-whiskey
+  kind: product

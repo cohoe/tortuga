@@ -1,0 +1,24 @@
+- display_name: Bernheim Wheat Whiskey
+  parent: american-whiskey
+  slug: bernheim-wheat-whiskey
+  kind: product
+
+- display_name: Hibiscus-Infused Bernheim Wheat Whiskey
+  parent: bernheim-wheat-whiskey
+  slug: hibiscus-infused-bernheim-wheat-whiskey
+  kind: custom
+
+- display_name: Lavender-Infused Bernheim Original Wheat Whiskey
+  parent: bernheim-wheat-whiskey
+  slug: lavender-infused-bernheim-original-wheat-whiskey
+  kind: custom
+
+- display_name: Glen Thunder Corn Whiskey
+  parent: american-whiskey
+  slug: glen-thunder-corn-whiskey
+  kind: product
+
+- display_name: High West Silver Oat Whiskey
+  parent: american-whiskey
+  slug: high-west-silver-oat-whiskey
+  kind: product

@@ -1,0 +1,9 @@
+- display_name: Canadian Club Whiskey
+  parent: canadian-whiskey
+  slug: canadian-club-whiskey
+  kind: product
+
+- display_name: Crown Royal Canadian Whiskey
+  parent: canadian-whiskey
+  slug: crown-royal-canadian-whiskey
+  kind: product

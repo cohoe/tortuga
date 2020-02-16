@@ -1,0 +1,64 @@
+- display_name: Old Overholt Rye Whiskey
+  parent: rye-whiskey
+  slug: old-overholt-rye-whiskey
+  kind: product
+
+- display_name: Chamomile-Infused Old Overholt Rye Whiskey
+  parent: old-overholt-rye-whiskey
+  slug: chamomile-infused-old-overholt-rye-whiskey
+  kind: custom
+
+- display_name: Old Potrero Rye Whiskey
+  parent: rye-whiskey
+  slug: old-potrero-rye-whiskey
+  kind: product
+
+- display_name: Rittenhouse 100 Rye Whiskey
+  parent: rye-whiskey
+  slug: rittenhouse-100-rye-whiskey
+  kind: product
+
+- display_name: Birch-Infused Rittenhouse Bonded Rye Whiskey
+  parent: rittenhouse-100-rye-whiskey
+  slug: birch-infused-rittenhouse-bonded-rye-whiskey
+  kind: custom
+
+- display_name: Red Thai Chile-Infused Rittenhouse Rye Whiskey
+  parent: rittenhouse-100-rye-whiskey
+  slug: red-thai-chile-infused-rittenhouse-rye-whiskey
+  kind: custom
+
+- display_name: Dandelion Root-Infused Rittenhouse Bonded Rye Whiskey
+  parent: rittenhouse-100-rye-whiskey
+  slug: dandelion-root-infused-rittenhouse-bonded-rye-whiskey
+  kind: custom
+
+- display_name: Russell's Reserve Rye Whiskey
+  parent: rye-whiskey
+  slug: russell-s-reserve-rye-whiskey
+  kind: product
+
+- display_name: Sazerac 6-Year Rye Whiskey
+  parent: rye-whiskey
+  slug: sazerac-6-year-rye-whiskey
+  kind: product
+
+- display_name: Templeton Rye Whiskey
+  parent: rye-whiskey
+  slug: templeton-rye-whiskey
+  kind: product
+
+- display_name: Wild Turkey Russell's Reserve 6-Year-Old Rye Whiskey
+  parent: rye-whiskey
+  slug: wild-turkey-russell-s-reserve-6-year-old-rye-whiskey
+  kind: product
+
+- display_name: Wild Turkey Rye Whiskey
+  parent: rye-whiskey
+  slug: wild-turkey-rye-whiskey
+  kind: product
+
+- display_name: Dried Currant-Infused Wild Turkey Rye Whiskey
+  parent: wild-turkey-rye-whiskey
+  slug: dried-currant-infused-wild-turkey-rye-whiskey
+  kind: custom

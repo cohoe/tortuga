@@ -1,0 +1,34 @@
+- display_name: Black Bush Irish Whiskey
+  parent: irish-whiskey
+  slug: black-bush-irish-whiskey
+  kind: product
+
+- display_name: Bushmills Irish Whiskey
+  parent: irish-whiskey
+  slug: bushmills-irish-whiskey
+  kind: product
+
+- display_name: Clontarf 1014 Irish Whiskey
+  parent: irish-whiskey
+  slug: clontarf-1014-irish-whiskey
+  kind: product
+
+- display_name: Jameson 12-Year-Old Irish Whiskey
+  parent: irish-whiskey
+  slug: jameson-12-year-old-irish-whiskey
+  kind: product
+
+- display_name: Jameson Irish Whiskey
+  parent: irish-whiskey
+  slug: jameson-irish-whiskey
+  kind: product
+
+- display_name: Knappogue Castle 12-Year Irish Whiskey
+  parent: irish-whiskey
+  slug: knappogue-castle-12-year-irish-whiskey
+  kind: product
+
+- display_name: Redbreast 12-Year Irish Whiskey
+  parent: irish-whiskey
+  slug: redbreast-12-year-irish-whiskey
+  kind: product
