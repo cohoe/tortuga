@@ -29,3 +29,8 @@
   parent: aged-blended-rum
   slug: plantation-barbados-5-year-rum
   kind: product
+
+- display_name: Pusser's Navy Rum
+  parent: aged-blended-rum
+  slug: pusser-s-navy-rum
+  kind: product

@@ -1,0 +1,76 @@
+- display_name: Aged Rhum
+  slug: aged-rhum
+  parent: rhum
+  kind: ingredient
+
+- display_name: Barbancourt 5-Star Rum
+  parent: aged-rhum
+  slug: barbancourt-5-star-rhum
+  kind: product
+  aliases:
+    - Barbancourt 8-Year-Old Rhum
+
+- display_name: La Favorite Rhum Agricole Ambre
+  parent: aged-rhum
+  slug: la-favorite-rhum-agricole-ambre
+  kind: product
+
+- display_name: "Neisson Rhum R\xE9serve Sp\xE9ciale"
+  parent: aged-rhum
+  slug: neisson-rhum-reserve-speciale
+  kind: product
+
+- display_name: "Rhum Cl\xE9ment V.S.O.P."
+  parent: aged-rhum
+  slug: rhum-clement-v-s-o-p
+  kind: product
+
+- display_name: St. James Royal Ambre Rhum Agricole
+  parent: aged-rhum
+  slug: st-james-royal-ambre-rhum-agricole
+  kind: product
+
+- display_name: Lightly Aged Rhum
+  slug: lightly-aged-rhum
+  parent: rhum
+  kind: ingredient
+
+- display_name: Barbancourt 3-Star Rum
+  parent: lightly-aged-rhum
+  slug: barbancourt-3-star-rum
+  kind: product
+
+- display_name: Unaged Rhum
+  slug: unaged-rhum
+  parent: rhum
+  kind: ingredient
+
+- display_name: Barbancourt Rhum Blanc
+  parent: unaged-rhum
+  slug: barbancourt-rhum-blanc
+  kind: product
+
+- display_name: Granny Smith Apple-Infused Rhum Barbancourt
+  parent: barbancourt-rhum-blanc
+  slug: granny-smith-apple-infused-rhum-barbancourt
+  kind: custom
+
+- display_name: J. M. Rhum Blanc
+  parent: unaged-rhum
+  slug: j-m-rhum-blanc
+  kind: product
+
+- display_name: La Favorite Rhum Agricole Blanc
+  parent: unaged-rhum
+  slug: la-favorite-rhum-agricole-blanc
+  kind: product
+
+- display_name: Neisson Rhum Agricole Blanc
+  parent: unaged-rhum
+  slug: neisson-rhum-agricole-blanc
+  kind: product
+
+- display_name: Neisson Rhum Blanc
+  parent: unaged-rhum
+  slug: neisson-rhum-blanc
+  kind: product

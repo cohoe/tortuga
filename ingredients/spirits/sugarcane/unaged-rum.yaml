@@ -12,3 +12,8 @@
   parent: overproof-unaged-rum
   slug: wray-nephew-overproof-rum
   kind: product
+
+- display_name: El Dorado 151 Rum
+  parent: overproof-unaged-rum
+  slug: el-dorado-151-rum
+  kind: product
