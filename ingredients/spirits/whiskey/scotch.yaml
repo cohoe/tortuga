@@ -1,35 +1,100 @@
-- display_name: Ardbeg 10-Year-Old Single Malt Scotch Whisky
+- display_name: Single Malt Scotch Whisky
   parent: scotch-whisky
+  slug: single-malt-scotch-whisky
+  kind: ingredient
+
+- display_name: Islay Single Malt Scotch Whisky
+  parent: single-malt-scotch-whisky
+  slug: islay-single-malt-scotch-whisky
+  kind: ingredient
+
+- display_name: Ardbeg 10-Year-Old Single Malt Scotch Whisky
+  parent: islay-single-malt-scotch-whisky
   slug: ardbeg-10-year-old-single-malt-scotch-whisky
   kind: product
 
-- display_name: Benromach 12-Year-Old Single Malt Scotch Whisky
-  parent: scotch-whisky
-  slug: benromach-12-year-old-single-malt-scotch-whisky
-  kind: product
-
 - display_name: Bowmore 12-Year Scotch Whisky
-  parent: scotch-whisky
+  parent: islay-single-malt-scotch-whisky
   slug: bowmore-12-year-scotch-whisky
   kind: product
 
 - display_name: Bruichladdich Port Charlotte 7-Year Scotch Whisky
-  parent: scotch-whisky
+  parent: islay-single-malt-scotch-whisky
   slug: bruichladdich-port-charlotte-7-year-scotch-whisky
   kind: product
 
 - display_name: Caol Ila 12-Year Scotch Whisky
-  parent: scotch-whisky
+  parent: islay-single-malt-scotch-whisky
   slug: caol-ila-12-year-scotch-whisky
   kind: product
 
-- display_name: Chivas Regal 12-Year-Old Blended Scotch Whisky
+- display_name: Laphroaig 10-Year-Old Single Malt Scotch Whisky
+  parent: islay-single-malt-scotch-whisky
+  slug: laphroaig-10-year-old-single-malt-scotch-whisky
+  kind: product
+
+- display_name: Laphroaig 12-Year Scotch Whisky
+  parent: islay-single-malt-scotch-whisky
+  slug: laphroaig-12-year-scotch-whisky
+  kind: product
+
+- display_name: Speyside Single Malt Scotch Whisky
+  parent: single-malt-scotch-whisky
+  slug: speyside-single-malt-scotch-whisky
+  kind: ingredient
+
+- display_name: Benromach 12-Year-Old Single Malt Scotch Whisky
+  parent: speyside-single-malt-scotch-whisky
+  slug: benromach-12-year-old-single-malt-scotch-whisky
+  kind: product
+
+- display_name: Glenlivet 12-Year-Old Single Malt Scotch Whisky
+  parent: speyside-single-malt-scotch-whisky
+  slug: glenlivet-12-year-old-single-malt-scotch-whisky
+  kind: product
+
+- display_name: Macallan Fine Oak 10-Year Scotch Whisky
+  parent: speyside-single-malt-scotch-whisky
+  slug: macallan-fine-oak-10-year-scotch-whisky
+  kind: product
+
+- display_name: Island Single Malt Scotch Whisky
+  parent: single-malt-scotch-whisky
+  slug: island-single-malt-scotch-whisky
+  kind: ingredient
+
+- display_name: Highland Park 12-Year Scotch Whisky
+  parent: island-single-malt-scotch-whisky
+  slug: highland-park-12-year-scotch-whisky
+  kind: product
+
+- display_name: Talisker 10-Year-Old Single Malt Scotch Whisky
+  parent: island-single-malt-scotch-whisky
+  slug: talisker-10-year-old-single-malt-scotch-whisky
+  kind: product
+
+- display_name: Highland Single Malt Scotch Whisky
+  parent: single-malt-scotch-whisky
+  slug: highland-single-malt-scotch-whisky
+  kind: ingredient
+
+- display_name: Oban 14-Year-Old Single Malt Scotch Whisky
+  parent: highland-single-malt-scotch-whisky
+  slug: oban-14-year-old-single-malt-scotch-whisky
+  kind: product
+
+- display_name: Blended Scotch Whisky
   parent: scotch-whisky
+  slug: blended-scotch-whisky
+  kind: ingredient
+
+- display_name: Chivas Regal 12-Year-Old Blended Scotch Whisky
+  parent: blended-scotch-whisky
   slug: chivas-regal-12-year-old-blended-scotch-whisky
   kind: product
 
 - display_name: Compass Box Asyla Scotch Whisky
-  parent: scotch-whisky
+  parent: blended-scotch-whisky
   slug: compass-box-asyla-scotch-whisky
   kind: product
 
@@ -38,18 +103,8 @@
   slug: chamomile-infused-compass-box-asyla-blended-scotch-whisky
   kind: custom
 
-- display_name: Compass Box Oak Cross Blended Malt Scotch Whisky
-  parent: scotch-whisky
-  slug: compass-box-oak-cross-blended-malt-scotch-whisky
-  kind: product
-
-- display_name: Compass Box Peat Monster Blended Malt Scotch Whisky
-  parent: scotch-whisky
-  slug: compass-box-peat-monster-blended-malt-scotch-whisky
-  kind: product
-
 - display_name: Famous Grouse Blended Scotch Whisky
-  parent: scotch-whisky
+  parent: blended-scotch-whisky
   slug: famous-grouse-blended-scotch-whisky
   kind: product
 
@@ -68,47 +123,17 @@
   slug: fuji-apple-infused-famous-grouse-scotch
   kind: custom
 
-- display_name: Glenlivet 12-Year-Old Single Malt Scotch Whisky
+- display_name: Blended Malt Scotch Whisky
   parent: scotch-whisky
-  slug: glenlivet-12-year-old-single-malt-scotch-whisky
+  slug: blended-malt-scotch-whisky
+  kind: ingredient
+
+- display_name: Compass Box Oak Cross Blended Malt Scotch Whisky
+  parent: blended-malt-scotch-whisky
+  slug: compass-box-oak-cross-blended-malt-scotch-whisky
   kind: product
 
-- display_name: Highland Park 12-Year Scotch Whisky
-  parent: scotch-whisky
-  slug: highland-park-12-year-scotch-whisky
-  kind: product
-
-- display_name: Highlands Malt Scotch Whisky
-  parent: scotch-whisky
-  slug: highlands-malt-scotch-whisky
-  kind: product
-
-- display_name: Laphraoig Islay Whisky
-  parent: scotch-whisky
-  slug: laphraoig-islay-whisky
-  kind: product
-
-- display_name: Laphroaig 10-Year-Old Single Malt Scotch Whisky
-  parent: scotch-whisky
-  slug: laphroaig-10-year-old-single-malt-scotch-whisky
-  kind: product
-
-- display_name: Laphroaig 12-Year Scotch Whisky
-  parent: scotch-whisky
-  slug: laphroaig-12-year-scotch-whisky
-  kind: product
-
-- display_name: Macallan Fine Oak 10-Year Scotch Whisky
-  parent: scotch-whisky
-  slug: macallan-fine-oak-10-year-scotch-whisky
-  kind: product
-
-- display_name: Oban 14-Year-Old Single Malt Scotch Whisky
-  parent: scotch-whisky
-  slug: oban-14-year-old-single-malt-scotch-whisky
-  kind: product
-
-- display_name: Talisker 10-Year-Old Single Malt Scotch Whisky
-  parent: scotch-whisky
-  slug: talisker-10-year-old-single-malt-scotch-whisky
+- display_name: Compass Box Peat Monster Blended Malt Scotch Whisky
+  parent: blended-malt-scotch-whisky
+  slug: compass-box-peat-monster-blended-malt-scotch-whisky
   kind: product
