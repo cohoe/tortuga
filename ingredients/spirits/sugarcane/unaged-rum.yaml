@@ -1,0 +1,14 @@
+- display_name: Unaged Rum
+  parent: rum
+  slug: unaged-rum
+  kind: ingredient
+
+- display_name: Overproof Unaged Rum
+  parent: rum
+  slug: overproof-unaged-rum
+  kind: ingredient
+
+- display_name: Wray & Nephew Overproof Rum
+  parent: overproof-unaged-rum
+  slug: wray-nephew-overproof-rum
+  kind: product

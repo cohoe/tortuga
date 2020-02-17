@@ -763,3 +763,18 @@
   parent: liqueur
   slug: schonauer-apfel-schnapps
   kind: ingredient
+
+- display_name: Swedish Punsch
+  parent: sugarcane
+  slug: swedish-punsch
+  kind: ingredient
+
+- display_name: Carlshamns Flaggpunsch
+  parent: swedish-punsch
+  slug: carlshamns-flaggpunsch
+  kind: ingredient
+
+- display_name: Kronan Swedish Punsch
+  parent: swedish-punsch
+  slug: kronan-swedish-punsch
+  kind: ingredient

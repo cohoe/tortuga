@@ -1,0 +1,14 @@
+- display_name: Long Aged Blended Rum
+  parent: long-aged-rum
+  slug: long-aged-blended-rum
+  kind: ingredient
+
+- display_name: El Dorado 15-Year Rum
+  parent: long-aged-blended-rum
+  slug: el-dorado-15-year-rum
+  kind: product
+
+- display_name: Santa Teresa 1796 Rum
+  parent: long-aged-blended-rum
+  slug: santa-teresa-1796-rum
+  kind: product

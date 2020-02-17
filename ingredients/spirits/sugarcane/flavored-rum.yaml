@@ -1,0 +1,24 @@
+- display_name: Cruzan Banana Rum
+  parent: flavored-rum
+  slug: cruzan-banana-rum
+  kind: product
+
+- display_name: "Bacardi Lim\xF3n Rum"
+  parent: flavored-rum
+  slug: bacardi-limon-rum
+  kind: product
+
+- display_name: Coconut Rum
+  parent: flavored-rum
+  slug: coconut-rum
+  kind: ingredient
+
+- display_name: Cruzan Coconut Rum
+  parent: coconut-rum
+  slug: cruzan-coconut-rum
+  kind: product
+
+- display_name: Malibu Coconut Rum
+  parent: coconut-rum
+  slug: malibu-coconut-rum
+  kind: product

@@ -1,0 +1,47 @@
+- display_name: Aged Column Still Rum
+  parent: aged-rum
+  slug: aged-column-still-rum
+  kind: ingredient
+
+- display_name: Angostura 5-Year Rum
+  parent: aged-column-still-rum
+  slug: angostura-5-year-rum
+  kind: product
+
+- display_name: Bacardi 8 Rum
+  parent: aged-column-still-rum
+  slug: bacardi-8-rum
+  kind: product
+
+- display_name: Cruzan Single-Barrel Rum
+  parent: aged-column-still-rum
+  slug: cruzan-single-barrel-rum
+  kind: product
+
+- display_name: "Flor De Ca\xF1a 7-Year Rum"
+  parent: aged-column-still-rum
+  slug: flor-de-cana-7-year-rum
+  kind: product
+
+- display_name: Havana Club 7-Year-Old Rum
+  parent: aged-column-still-rum
+  slug: havana-club-7-year-old-rum
+  kind: product
+
+- display_name: Matusalem Gran Reserva 15 Rum
+  parent: aged-column-still-rum
+  slug: matusalem-gran-reserva-15-rum
+  kind: product
+
+- display_name: Ron Del Barrilito 3-Star Rum
+  parent: aged-column-still-rum
+  slug: ron-del-barrilito-3-star-rum
+  kind: product
+
+- display_name: Ron Zacapa Centenario 23 Rum
+  parent: aged-column-still-rum
+  slug: ron-zacapa-centenario-23-rum
+  kind: product
+  aliases:
+    - Zacapa 23 Rum
+    - Zacapa 23 Centenario Rum

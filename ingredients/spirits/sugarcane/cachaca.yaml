@@ -1,0 +1,39 @@
+- display_name: "Aged Cacha\xE7a"
+  parent: cachaca
+  slug: aged-cachaca
+  kind: ingredient
+
+- display_name: "Avu\xE1 Amburana Cacha\xE7a"
+  parent: aged-cachaca
+  slug: avua-amburana-cachaca
+  kind: product
+
+- display_name: "Beleza Pura Cacha\xE7a"
+  parent: cachaca
+  slug: beleza-pura-cachaca
+  kind: product
+
+- display_name: "M\xE3e De Ouro Cacha\xE7a"
+  parent: cachaca
+  slug: mae-de-ouro-cachaca
+  kind: product
+
+- display_name: "Strawberry-Infused M\xE3e De Ouro Cacha\xE7a"
+  parent: mae-de-ouro-cachaca
+  slug: strawberry-infused-mae-de-ouro-cachaca
+  kind: custom
+
+- display_name: "Sagatiba Cacha\xE7a"
+  parent: cachaca
+  slug: sagatiba-cachaca
+  kind: product
+
+- display_name: "Leblon Cacha\xE7a"
+  parent: cachaca
+  slug: leblon-cachaca
+  kind: product
+
+- display_name: "Sencha Green Tea-Infused Leblon Cacha\xE7a"
+  parent: leblon-cachaca
+  slug: sencha-green-tea-infused-leblon-cachaca
+  kind: custom

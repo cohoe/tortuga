@@ -1,0 +1,34 @@
+- display_name: Blackstrap Rum
+  parent: rum
+  slug: blackstrap-rum
+  kind: ingredient
+
+- display_name: Cruzan Black Strap Rum
+  parent: blackstrap-rum
+  slug: cruzan-black-strap-rum
+  kind: product
+
+- display_name: Gosling's Black Seal Rum
+  parent: blackstrap-rum
+  slug: gosling-s-black-seal-rum
+  kind: product
+
+- display_name: Banana Chip-Infused Gosling's Black Seal Rum
+  parent: gosling-s-black-seal-rum
+  slug: banana-chip-infused-gosling-s-black-seal-rum
+  kind: custom
+
+- display_name: Overproof Blackstrap Rum
+  parent: blackstrap-rum
+  slug: overproof-blackstrap-rum
+  kind: ingredient
+
+- display_name: Lemon Hart 151 Rum
+  parent: overproof-blackstrap-rum
+  slug: lemon-hart-151-rum
+  kind: product
+
+- display_name: Pampero Aniversario Rum
+  parent: blackstrap-rum
+  slug: pampero-aniversario-rum
+  kind: product

@@ -1,0 +1,31 @@
+- display_name: Aged Blended Rum
+  parent: aged-rum
+  slug: aged-blended-rum
+  kind: ingredient
+
+- display_name: Appleton Reserve Rum
+  parent: aged-blended-rum
+  slug: appleton-reserve-rum
+  kind: product
+  aliases:
+    - Appleton Estate Reserve Rum
+
+- display_name: "Diplom\xE1tico Reserva Exclusiva Rum"
+  parent: aged-blended-rum
+  slug: diplomatico-reserva-exclusiva-rum
+  kind: product
+
+- display_name: El Dorado 12-Year Rum
+  parent: aged-blended-rum
+  slug: el-dorado-12-year-rum
+  kind: product
+
+- display_name: Mount Gay X.O. Rum
+  parent: aged-blended-rum
+  slug: mount-gay-x-o-rum
+  kind: product
+
+- display_name: Plantation Barbados 5-Year Rum
+  parent: aged-blended-rum
+  slug: plantation-barbados-5-year-rum
+  kind: product

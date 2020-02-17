@@ -1,0 +1,9 @@
+- display_name: Lightly Aged Pot Still Rum
+  parent: lightly-aged-rum
+  slug: lightly-aged-pot-still-rum
+  kind: ingredient
+
+- display_name: Smith & Cross Jamaican Rum
+  parent: lightly-aged-pot-still-rum
+  slug: smith-cross-jamaican-rum
+  kind: product
