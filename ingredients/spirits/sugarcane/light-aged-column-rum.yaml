@@ -3,9 +3,9 @@
   slug: lightly-aged-column-still-rum
   kind: ingredient
 
-- display_name: Bacardi Silver Rum
+- display_name: Bacardi Superior Rum
   parent: lightly-aged-column-still-rum
-  slug: lightly-aged-column-still-rum
+  slug: bacardi-superior-rum
   kind: product
 
 - display_name: Bacardi Ron Superior Limited Edition

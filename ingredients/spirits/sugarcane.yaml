@@ -33,6 +33,11 @@
   slug: aged-rum
   kind: ingredient
 
+- display_name: Long Aged Rum
+  parent: rum
+  slug: long-aged-rum
+  kind: ingredient
+
 - display_name: Spiced Rum
   parent: rum
   slug: spiced-rum
