@@ -29,6 +29,11 @@
   slug: lillet-rouge
   kind: product
 
+- display_name: Bonal Gentiane-Quina
+  parent: quinquina
+  slug: bonal-gentiane-quina
+  kind: product
+
 - display_name: Madeira
   parent: fortified-wine
   slug: madeira
@@ -223,3 +228,18 @@
   parent: oloroso-sherry
   slug: williams-humbert-dry-sack-medium-sherry
   kind: ingredient
+
+- display_name: Pineau des Charentes
+  parent: fortified-wine
+  slug: pineau-des-charentes
+  kind: ingredient
+
+- display_name: De Fussigny Pineau Des Charentes
+  parent: pineau-des-charentes
+  slug: de-fussigny-pineau-des-charentes
+  kind: product
+
+- display_name: Pasquet Pineau Des Charentes
+  parent: pineau-des-charentes
+  slug: pasquet-pineau-des-charentes
+  kind: product

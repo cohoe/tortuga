@@ -83,3 +83,8 @@
   parent: amaro
   slug: gran-classico-bitter
   kind: product
+
+- display_name: Aperol
+  parent: amaro
+  slug: aperol
+  kind: product

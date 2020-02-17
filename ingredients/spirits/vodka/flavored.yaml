@@ -82,3 +82,8 @@
   parent: chocolate-vodka
   slug: alchemia-chocolate-vodka
   kind: product
+
+- display_name: 42 Below Manuka Honey Vodka
+  parent: flavored-vodka
+  slug: 42-below-manuka-honey-vodka
+  kind: product
