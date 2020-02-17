@@ -3,12 +3,17 @@
   slug: aged-blended-rum
   kind: ingredient
 
-- display_name: Appleton Reserve Rum
+- display_name: Appleton Estate Reserve Rum
   parent: aged-blended-rum
-  slug: appleton-reserve-rum
+  slug: appleton-estate-reserve-rum
   kind: product
   aliases:
-    - Appleton Estate Reserve Rum
+    - Appleton Reserve Rum
+
+- display_name: Appleton Estate 12-year Rare Blend Rum
+  parent: aged-blended-rum
+  slug: appleton-estate-12-year-rare-blend-rum
+  kind: product
 
 - display_name: "Diplom\xE1tico Reserva Exclusiva Rum"
   parent: aged-blended-rum
