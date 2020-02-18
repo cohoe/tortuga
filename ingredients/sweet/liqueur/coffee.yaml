@@ -12,3 +12,8 @@
   parent: coffee-liqueur
   slug: illy-espresso-liqueur
   kind: product
+
+- display_name: "Kahl\xFAa"
+  parent: coffee-liqueur
+  slug: kahlua
+  kind: product

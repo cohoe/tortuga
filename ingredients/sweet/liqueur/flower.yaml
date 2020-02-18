@@ -1,0 +1,26 @@
+- display_name: Flower Liqueur
+  parent: liqueur
+  slug: flower-liqueur
+  kind: ingredient
+
+- display_name: Rose Liqueur
+  parent: flower-liqueur
+  slug: rose-liqueur
+  kind: ingredient
+  aliases:
+    - Rosolio
+
+- display_name: Koval Rose Hip Liqueur
+  parent: rose-liqueur
+  slug: koval-rose-hip-liqueur
+  kind: product
+
+- display_name: Elderflower Liqueur
+  parent: flower-liqueur
+  slug: elderflower-liqueur
+  kind: ingredient
+
+- display_name: St-Germain Elderflower Liqueur
+  parent: elderflower-liqueur
+  slug: st-germain-elderflower-liqueur
+  kind: product

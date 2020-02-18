@@ -1,0 +1,24 @@
+- display_name: Honey Liqueur
+  parent: liqueur
+  slug: honey-liqueur
+  kind: ingredient
+
+- display_name: "B\xE4renj\xE4ger Honey Liqueur"
+  parent: honey-liqueur
+  slug: barenjager-honey-liqueur
+  kind: product
+
+- display_name: Drambuie
+  parent: honey-liqueur
+  slug: drambuie
+  kind: product
+
+- display_name: Nonino Gioiello
+  parent: honey-liqueur
+  slug: nonino-gioiello
+  kind: product
+
+- display_name: Irish Mist
+  parent: honey-liqueur
+  slug: irish-mist
+  kind: product

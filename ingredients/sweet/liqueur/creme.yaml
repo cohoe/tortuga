@@ -38,6 +38,11 @@
   slug: marie-brizard-white-creme-de-menthe
   kind: product
 
+- display_name: Peppermint Schnapps
+  parent: creme-de-menthe
+  slug: peppermint-schnapps
+  kind: ingredient
+
 - display_name: "Cr\xE8me de Violette"
   parent: creme-liqueur
   slug: creme-de-violette
@@ -51,4 +56,19 @@
 - display_name: "Rothman & Winter Cr\xE8me de Violette"
   parent: creme-de-violette
   slug: rothman-winter-creme-de-violette
+  kind: product
+
+- display_name: "Cr\xE8me de Noyaux"
+  parent: creme-liqueur
+  slug: creme-de-noyaux
+  kind: ingredient
+
+- display_name: "Parfait d'Amour"
+  parent: creme-liqueur
+  slug: parfait-d-amour
+  kind: ingredient
+
+- display_name: Marie Brizard Parfait Amour
+  parent: parfait-d-amour
+  slug: marie-brizard-parfait-amour
   kind: product

@@ -2,8 +2,25 @@
   parent: liqueur
   slug: allspice-liqueur
   kind: ingredient
+  aliases:
+    - Pimento Liqueur
 
 - display_name: St. Elizabeth Allspice Dram
   parent: allspice-liqueur
   slug: st-elizabeth-allspice-dram
+  kind: product
+
+- display_name: Vanilla Liqueur
+  parent: liqueur
+  slug: vanilla-liqueur
+  kind: ingredient
+
+- display_name: Navan Vanilla Liqueur
+  parent: vanilla-liqueur
+  slug: navan-vanilla-liqueur
+  kind: ingredient
+
+- display_name: Tuaca
+  parent: vanilla-liqueur
+  slug: tuaca
   kind: product

@@ -1,14 +1,9 @@
-- display_name: Spirit Liqueur
+- display_name: Whiskey Liqueur
   parent: liqueur
-  slug: spirit-liqueur
+  slug: whiskey-liqueur
   kind: ingredient
 
-- display_name: Brandy Liqueur
-  parent: spirit-liqueur
-  slug: brandy-liqueur
-  kind: ingredient
-
-- display_name: Tuaca
-  parent: brandy-liqueur
-  slug: tuaca
+- display_name: Southern Comfort
+  parent: whiskey-liqueur
+  slug: southern-comfort
   kind: product

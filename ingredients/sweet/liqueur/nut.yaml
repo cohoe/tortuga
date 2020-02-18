@@ -1,5 +1,10 @@
-- display_name: Amaretto
+- display_name: Nut Liqueur
   parent: liqueur
+  slug: nut-liqueur
+  kind: ingredient
+
+- display_name: Amaretto
+  parent: nut-liqueur
   slug: amaretto
   kind: ingredient
 
@@ -19,11 +24,26 @@
   kind: product
 
 - display_name: Coconut Liqueur
-  parent: liqueur
+  parent: nut-liqueur
   slug: coconut-liqueur
   kind: ingredient
 
 - display_name: Kalani Ron De Coco Coconut Liqueur
   parent: coconut-liqueur
   slug: kalani-ron-de-coco-coconut-liqueur
+  kind: product
+
+- display_name: Walnut Liqueur
+  parent: nut-liqueur
+  slug: walnut-liqueur
+  kind: ingredient
+
+- display_name: Monteverdi Nocino Walnut Liqueur
+  parent: walnut-liqueur
+  slug: monteverdi-nocino-walnut-liqueur
+  kind: product
+
+- display_name: Frangelico
+  parent: nut-liqueur
+  slug: frangelico
   kind: product

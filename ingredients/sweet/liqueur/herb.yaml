@@ -1,9 +1,104 @@
-- display_name: Becherovka Liqueur
+- display_name: Herbal Liqueur
   parent: liqueur
-  slug: becherovka-liqueur
+  slug: herbal-liqueur
   kind: ingredient
 
+- display_name: Becherovka Liqueur
+  parent: herbal-liqueur
+  slug: becherovka-liqueur
+  kind: product
+
 - display_name: "B\xE9n\xE9dictine"
-  parent: liqueur
+  parent: herbal-liqueur
   slug: benedictine
+  kind: product
+
+- display_name: Gentian Liqueur
+  parent: herbal-liqueur
+  slug: gentian-liqueur
   kind: ingredient
+
+- display_name: Salers Gentiane Aperitif
+  parent: gentian-liqueur
+  slug: salers-gentiane-aperitif
+  kind: product
+
+- display_name: Suze Saveur D'Autrefois Liqueur
+  parent: gentian-liqueur
+  slug: suze-saveur-d-autrefois-liqueur
+  kind: product
+
+- display_name: Ginger Liqueur
+  parent: herbal-liqueur
+  slug: ginger-liqueur
+  kind: ingredient
+
+- display_name: Domaine de Canton Ginger Liqueur
+  parent: ginger-liqueur
+  slug: domaine-de-canton-ginger-liqueur
+  kind: product
+
+- display_name: Green Chartreuse
+  parent: herbal-liqueur
+  slug: green-chartreuse
+  kind: product
+
+- display_name: Metaxa
+  parent: herbal-liqueur
+  slug: metaxa
+  kind: product
+
+- display_name: Pine Liqueur
+  parent: herbal-liqueur
+  slug: pine-liqueur
+  kind: ingredient
+
+- display_name: Zirbenz Stone Pine Liqueur
+  parent: pine-liqueur
+  slug: zirbenz-stone-pine-liqueur
+  kind: product
+
+- display_name: Yellow Chartreuse
+  parent: herbal-liqueur
+  slug: yellow-chartreuse
+  kind: product
+
+- display_name: "\xC9lixir Combier"
+  parent: herbal-liqueur
+  slug: elixir-combier
+  kind: product
+
+- display_name: "G\xE9n\xE9pi"
+  parent: herbal-liqueur
+  slug: genepi
+  kind: ingredient
+
+- display_name: "Dolin G\xE9n\xE9py Des Alpes Liqueur"
+  parent: genepi
+  slug: dolin-genepy-des-alpes-liqueur
+  kind: product
+
+- display_name: Strega Liqueur
+  parent: herbal-liqueur
+  slug: strega-liqueur
+  kind: product
+
+- display_name: Zwack Unicum Liqueur
+  parent: herbal-liqueur
+  slug: zwack-unicum-liqueur
+  kind: product
+
+- display_name: Swedish Punsch
+  parent: herbal-liqueur
+  slug: swedish-punsch
+  kind: ingredient
+
+- display_name: Carlshamns Flaggpunsch
+  parent: swedish-punsch
+  slug: carlshamns-flaggpunsch
+  kind: product
+
+- display_name: Kronan Swedish Punsch
+  parent: swedish-punsch
+  slug: kronan-swedish-punsch
+  kind: product

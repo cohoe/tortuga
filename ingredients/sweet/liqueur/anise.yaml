@@ -1,0 +1,36 @@
+- display_name: Anise Liqueur
+  parent: liqueur
+  slug: anise-liqueur
+  kind: ingredient
+
+- display_name: Anisette
+  parent: anise-liqueur
+  slug: anisette
+  kind: ingredient
+
+- display_name: Pernod Anise Liqueur
+  parent: anise-liqueur
+  slug: pernod-anise-liqueur
+  kind: product
+  aliases:
+    - Pernod
+
+- display_name: Ricard Pastis
+  parent: anise-liqueur
+  slug: ricard-pastis
+  kind: product
+
+- display_name: Sambuca
+  parent: anise-liqueur
+  slug: sambuca
+  kind: ingredient
+
+- display_name: Borsci Sambuca
+  parent: sambuca
+  slug: borsci-sambuca
+  kind: product
+
+- display_name: Galliano L'Autentico
+  parent: anise-liqueur
+  slug: galliano-l-autentico
+  kind: product
