@@ -15,7 +15,7 @@
   kind: ingredient
 
 - display_name: Fine White Sugar
-  parent: sugar
+  parent: white-sugar
   slug: fine-white-sugar
   kind: ingredient
 

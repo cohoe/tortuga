@@ -4,26 +4,6 @@
   slug: syrup
   kind: family
 
-- display_name: Agave Nectar
-  parent: syrup
-  slug: agave-nectar
-  kind: ingredient
-
-- display_name: Agave Syrup
-  parent: agave-nectar
-  slug: agave-syrup
-  kind: ingredient
-
-- display_name: Brown Sugar Syrup
-  parent: syrup
-  slug: brown-sugar-syrup
-  kind: ingredient
-
-- display_name: Demerara Syrup
-  parent: brown-sugar-syrup
-  slug: demerara-syrup
-  kind: ingredient
-
 - display_name: Falernum
   parent: syrup
   slug: falernum
@@ -33,31 +13,6 @@
   parent: falernum
   slug: john-d-taylor-s-velvet-falernum
   kind: product
-
-- display_name: Grenadine
-  parent: syrup
-  slug: grenadine
-  kind: ingredient
-
-- display_name: House Grenadine
-  parent: grenadine
-  slug: house-grenadine
-  kind: custom
-
-- display_name: Gum Syrup
-  parent: syrup
-  slug: gum-syrup
-  kind: ingredient
-
-- display_name: Honey Syrup
-  parent: syrup
-  slug: honey-syrup
-  kind: ingredient
-
-- display_name: Acacia Honey Syrup
-  parent: honey-syrup
-  slug: acacia-honey-syrup
-  kind: ingredient
 
 - display_name: Infused Syrup
   parent: syrup
@@ -149,21 +104,6 @@
   slug: donn-s-spices-2
   kind: custom
 
-- display_name: Maple Syrup
-  parent: syrup
-  slug: maple-syrup
-  kind: ingredient
-
-- display_name: Deep Mountain Grade B Maple Syrup
-  parent: maple-syrup
-  slug: deep-mountain-grade-b-maple-syrup
-  kind: ingredient
-
-- display_name: Grade B Maple Syrup
-  parent: maple-syrup
-  slug: grade-b-maple-syrup
-  kind: ingredient
-
 - display_name: Orgeat
   parent: syrup
   slug: orgeat
@@ -172,7 +112,7 @@
 - display_name: Kassatly Chtaura Orgeat
   parent: orgeat
   slug: kassatly-chtaura-orgeat
-  kind: ingredient
+  kind: product
 
 - display_name: Pomegranate Molasses
   parent: syrup
@@ -182,7 +122,7 @@
 - display_name: Al Wadi Pomegranate Molasses
   parent: pomegranate-molasses
   slug: al-wadi-pomegranate-molasses
-  kind: ingredient
+  kind: product
 
 - display_name: Rice Syrup
   parent: syrup
@@ -192,42 +132,7 @@
 - display_name: Ssal-Yut Rice Syrup
   parent: rice-syrup
   slug: ssal-yut-rice-syrup
-  kind: ingredient
-
-- display_name: Rich Syrup
-  parent: syrup
-  slug: rich-syrup
-  kind: ingredient
-
-- display_name: Rich Cane Sugar Syrup
-  parent: rich-syrup
-  slug: rich-cane-sugar-syrup
-  kind: ingredient
-
-- display_name: Rich Demerara Syrup
-  parent: rich-syrup
-  slug: rich-demerara-syrup
-  kind: ingredient
-
-- display_name: Simple Syrup
-  parent: syrup
-  slug: simple-syrup
-  kind: ingredient
-
-- display_name: Caramelized Simple Syrup
-  parent: simple-syrup
-  slug: caramelized-simple-syrup
-  kind: ingredient
-
-- display_name: Sugar Cane Syrup
-  parent: syrup
-  slug: sugar-cane-syrup
-  kind: ingredient
-
-- display_name: Martinique Sugar Cane Syrup
-  parent: sugar-cane-syrup
-  slug: martinique-sugar-cane-syrup
-  kind: ingredient
+  kind: product
 
 - display_name: Tonic Syrup
   parent: syrup
@@ -237,4 +142,23 @@
 - display_name: Zombie Mix
   parent: syrup
   slug: zombie-mix
+  kind: custom
+
+- display_name: Grenadine
+  parent: syrup
+  slug: grenadine
   kind: ingredient
+  aliases:
+    - Pomegranate Syrup
+
+- display_name: House Grenadine
+  parent: grenadine
+  slug: house-grenadine
+  kind: custom
+
+- display_name: Gum Syrup
+  parent: syrup
+  slug: gum-syrup
+  kind: ingredient
+  aliases:
+    - Gomme Syrup
