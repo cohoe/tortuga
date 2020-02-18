@@ -24,3 +24,28 @@
   parent: elderflower-liqueur
   slug: st-germain-elderflower-liqueur
   kind: product
+
+- display_name: "Parfait d'Amour"
+  parent: flower-liqueur
+  slug: parfait-d-amour
+  kind: ingredient
+
+- display_name: Marie Brizard Parfait Amour
+  parent: parfait-d-amour
+  slug: marie-brizard-parfait-amour
+  kind: product
+
+- display_name: "Cr\xE8me de Violette"
+  parent: flower-liqueur
+  slug: creme-de-violette
+  kind: ingredient
+
+- display_name: "Cr\xE8me Yvette"
+  parent: creme-de-violette
+  slug: creme-yvette
+  kind: product
+
+- display_name: "Rothman & Winter Cr\xE8me de Violette"
+  parent: creme-de-violette
+  slug: rothman-winter-creme-de-violette
+  kind: product

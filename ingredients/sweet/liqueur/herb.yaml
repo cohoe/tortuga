@@ -102,3 +102,18 @@
   parent: swedish-punsch
   slug: kronan-swedish-punsch
   kind: product
+
+- display_name: "Cr\xE8me de Menthe"
+  parent: herbal-liqueur
+  slug: creme-de-menthe
+  kind: ingredient
+
+- display_name: "Marie Brizard White Cr\xE8me de Menthe"
+  parent: creme-de-menthe
+  slug: marie-brizard-white-creme-de-menthe
+  kind: product
+
+- display_name: Peppermint Schnapps
+  parent: creme-de-menthe
+  slug: peppermint-schnapps
+  kind: ingredient

@@ -47,3 +47,8 @@
   parent: nut-liqueur
   slug: frangelico
   kind: product
+
+- display_name: "Cr\xE8me de Noyaux"
+  parent: nut-liqueur
+  slug: creme-de-noyaux
+  kind: ingredient

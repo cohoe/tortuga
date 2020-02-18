@@ -12,3 +12,28 @@
   parent: chocolate-liqueur
   slug: godiva-original-liqueur
   kind: product
+
+- display_name: "Cr\xE8me de Cacao"
+  parent: chocolate-liqueur
+  slug: creme-de-cacao
+  kind: ingredient
+
+- display_name: "Dark Cr\xE8me de Cacao"
+  parent: creme-de-cacao
+  slug: dark-creme-de-cacao
+  kind: ingredient
+
+- display_name: "White Cr\xE8me de Cacao"
+  parent: creme-de-cacao
+  slug: white-creme-de-cacao
+  kind: ingredient
+
+- display_name: "Marie Brizard Dark Cr\xE8me de Cacao"
+  parent: dark-creme-de-cacao
+  slug: marie-brizard-dark-creme-de-cacao
+  kind: product
+
+- display_name: "Marie Brizard White Cr\xE8me de Cacao"
+  parent: white-creme-de-cacao
+  slug: marie-brizard-white-creme-de-cacao
+  kind: product
