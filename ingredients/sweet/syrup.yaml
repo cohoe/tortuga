@@ -144,6 +144,11 @@
   slug: vanilla-syrup
   kind: ingredient
 
+- display_name: "Donn's Spices #2"
+  parent: vanilla-syrup
+  slug: donn-s-spices-2
+  kind: custom
+
 - display_name: Maple Syrup
   parent: syrup
   slug: maple-syrup
