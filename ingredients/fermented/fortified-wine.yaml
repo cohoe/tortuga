@@ -229,8 +229,13 @@
   slug: williams-humbert-dry-sack-medium-sherry
   kind: ingredient
 
-- display_name: Pineau des Charentes
+- display_name: Mistelle
   parent: fortified-wine
+  slug: mistelle
+  kind: ingredient
+
+- display_name: Pineau des Charentes
+  parent: mistelle
   slug: pineau-des-charentes
   kind: ingredient
 
@@ -242,4 +247,19 @@
 - display_name: Pasquet Pineau Des Charentes
   parent: pineau-des-charentes
   slug: pasquet-pineau-des-charentes
+  kind: product
+
+- display_name: "Saint-Rapha\xEBl Ap\xE9rtif De France"
+  parent: mistelle
+  slug: saint-raphael-apertif-de-france
+  kind: product
+
+- display_name: Pommeau
+  parent: mistelle
+  slug: pommeau
+  kind: ingredient
+
+- display_name: Drouhin Pommeau
+  parent: pommeau
+  slug: drouhin-pommeau
   kind: product

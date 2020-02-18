@@ -1,368 +1,365 @@
-- display_name: Apricot Liqueur
+- display_name: Fruit Liqueur
   parent: liqueur
+  slug: fruit-liqueur
+  kind: ingredient
+
+- display_name: Apricot Liqueur
+  parent: fruit-liqueur
   slug: apricot-liqueur
   kind: ingredient
 
 - display_name: Marie Brizard Apricot Liqueur
   parent: apricot-liqueur
   slug: marie-brizard-apricot-liqueur
-  kind: ingredient
+  kind: product
   aliases:
     - Marie Brizard Apry
 
 - display_name: Rothman & Winter Orchard Apricot Liqueur
   parent: apricot-liqueur
   slug: rothman-winter-orchard-apricot-liqueur
-  kind: ingredient
+  kind: product
   aliases:
     - Rothman & Winter Apricot Liqueur
 
 - display_name: Banana Liqueur
-  parent: liqueur
+  parent: fruit-liqueur
   slug: banana-liqueur
   kind: ingredient
 
-- display_name: Marie Brizard Banana Liqueur
+- display_name: "Marie Brizard Cr\xE8me De Banane"
   parent: banana-liqueur
-  slug: marie-brizard-banana-liqueur
+  slug: marie-brizard-creme-de-banane
+  kind: product
+  aliases:
+    - Marie Brizard Banana Liqueur
+
+- display_name: Apple Liqueur
+  parent: fruit-liqueur
+  slug: apple-liqueur
   kind: ingredient
 
-- display_name: Berentzen's Apple Liqueur
-  parent: liqueur
+- display_name: "Berentzen's Apple Liqueur"
+  parent: apple-liqueur
   slug: berentzen-s-apple-liqueur
-  kind: ingredient
+  kind: product
+
+- display_name: "Sch\xF6nauer Apfel Schnapps"
+  parent: apple-liqueur
+  slug: schonauer-apfel-schnapps
+  kind: product
+
+- display_name: DeKuyper Sour Apple Pucker
+  parent: apple-liqueur
+  slug: dekuyper-sour-apple-pucker
+  kind: product
 
 - display_name: Blackberry Liqueur
-  parent: liqueur
+  parent: fruit-liqueur
   slug: blackberry-liqueur
   kind: ingredient
 
-- display_name: "Cr\xE8me De Mure (blackberry Liqueur)"
+- display_name: "Giffard Cr\xE8me de M\xFBre (Blackberry)"
   parent: blackberry-liqueur
-  slug: creme-de-mure-blackberry-liqueur
-  kind: ingredient
+  slug: giffard-creme-de-mure-blackberry
+  kind: product
 
 - display_name: Marie Brizard Blackberry Liqueur
   parent: blackberry-liqueur
   slug: marie-brizard-blackberry-liqueur
-  kind: ingredient
+  kind: product
 
-- display_name: "Massenez Cr\xE8me De M\xFBre Blackberry Liqueur"
+- display_name: "Massenez Cr\xE8me de M\xFBre Blackberry Liqueur"
   parent: blackberry-liqueur
   slug: massenez-creme-de-mure-blackberry-liqueur
-  kind: ingredient
+  kind: product
 
 - display_name: Blood Orange Liqueur
-  parent: liqueur
+  parent: fruit-liqueur
   slug: blood-orange-liqueur
   kind: ingredient
 
 - display_name: Solerno Blood Orange Liqueur
   parent: blood-orange-liqueur
   slug: solerno-blood-orange-liqueur
+  kind: product
+
+- display_name: Orange Liqueur
+  parent: fruit-liqueur
+  slug: orange-liqueur
   kind: ingredient
 
-- display_name: "Blue Cura\xE7ao"
-  parent: liqueur
-  slug: blue-curacao
+- display_name: Sugarcane Spirit Orange Liqueur
+  parent: orange-liqueur
+  slug: sugarcane-spirit-orange-liqueur
   kind: ingredient
 
-- display_name: Cherry Heering
-  parent: liqueur
-  slug: cherry-heering
-  kind: ingredient
+- display_name: Santa Teresa Rhum Orange Liqueur
+  parent: sugarcane-spirit-orange-liqueur
+  slug: santa-teresa-rhum-orange-liqueur
+  kind: product
 
-- display_name: Peter Heering Cherry Heering
-  parent: cherry-heering
-  slug: peter-heering-cherry-heering
-  kind: ingredient
-
-- display_name: Cherry Liqueur
-  parent: liqueur
-  slug: cherry-liqueur
-  kind: ingredient
-
-- display_name: Marie Brizard Cherry Liqueur
-  parent: cherry-liqueur
-  slug: marie-brizard-cherry-liqueur
-  kind: ingredient
-
-- display_name: Rothman & Winter Cherry Liqueur
-  parent: cherry-liqueur
-  slug: rothman-winter-cherry-liqueur
-  kind: ingredient
-
-- display_name: "Cr\xE8me De Banane"
-  parent: liqueur
-  slug: creme-de-banane
-  kind: ingredient
-
-- display_name: "Green Cr\xE8me De Banane"
-  parent: creme-de-banane
-  slug: green-creme-de-banane
-  kind: ingredient
-
-- display_name: "Marie Brizard Cr\xE8me De Banane"
-  parent: creme-de-banane
-  slug: marie-brizard-creme-de-banane
-  kind: ingredient
-
-- display_name: "Cr\xE8me De Cassis"
-  parent: liqueur
-  slug: creme-de-cassis
-  kind: ingredient
-
-- display_name: "Theuriet Cr\xE8me De Cassis"
-  parent: creme-de-cassis
-  slug: theuriet-creme-de-cassis
-  kind: ingredient
+- display_name: "Rhum Cl\xE9ment Creole Shrub"
+  parent: sugarcane-spirit-orange-liqueur
+  slug: rhum-clement-creole-shrub
+  kind: product
 
 - display_name: "Cura\xE7ao"
-  parent: liqueur
+  parent: orange-liqueur
   slug: curacao
   kind: ingredient
+  aliases:
+    - Triple Sec
 
 - display_name: "Gabriel Boudier Cura\xE7ao"
   parent: curacao
   slug: gabriel-boudier-curacao
-  kind: ingredient
+  kind: product
 
 - display_name: "Marie Brizard Orange Cura\xE7ao"
   parent: curacao
   slug: marie-brizard-orange-curacao
-  kind: ingredient
+  kind: product
 
 - display_name: "Pierre Ferrand Dry Cura\xE7ao"
   parent: curacao
   slug: pierre-ferrand-dry-curacao
+  kind: product
+
+- display_name: Cointreau
+  parent: curacao
+  slug: cointreau
+  kind: product
+
+- display_name: "Blue Cura\xE7ao"
+  parent: curacao
+  slug: blue-curacao
+  kind: ingredient
+
+- display_name: Brandy Orange Liqueur
+  parent: orange-liqueur
+  slug: brandy-orange-liqueur
   kind: ingredient
 
 - display_name: Grand Marnier
-  parent: liqueur
+  parent: brandy-orange-liqueur
   slug: grand-marnier
-  kind: ingredient
-
-- display_name: Grapefruit Liqueur
-  parent: liqueur
-  slug: grapefruit-liqueur
-  kind: ingredient
-
-- display_name: Combier Pamplemousse Rose Liqueur
-  parent: grapefruit-liqueur
-  slug: combier-pamplemousse-rose-liqueur
-  kind: ingredient
-
-- display_name: Limoncello
-  parent: liqueur
-  slug: limoncello
-  kind: ingredient
+  kind: product
 
 - display_name: "Mandarine Napol\xE9on Liqueur"
-  parent: liqueur
+  parent: brandy-orange-liqueur
   slug: mandarine-napoleon-liqueur
+  kind: product
+
+- display_name: Royal Combier Liqueur
+  parent: brandy-orange-liqueur
+  slug: royal-combier-liqueur
+  kind: product
+
+- display_name: Cherry Liqueur
+  parent: fruit-liqueur
+  slug: cherry-liqueur
   kind: ingredient
 
+- display_name: Cherry Heering
+  parent: cherry-liqueur
+  slug: cherry-heering
+  kind: product
+
+- display_name: Marie Brizard Cherry Liqueur
+  parent: cherry-liqueur
+  slug: marie-brizard-cherry-liqueur
+  kind: product
+
+- display_name: Rothman & Winter Cherry Liqueur
+  parent: cherry-liqueur
+  slug: rothman-winter-cherry-liqueur
+  kind: product
+
 - display_name: Maraschino Liqueur
-  parent: liqueur
+  parent: cherry-liqueur
   slug: maraschino-liqueur
   kind: ingredient
 
 - display_name: Luxardo Maraschino Liqueur
   parent: maraschino-liqueur
   slug: luxardo-maraschino-liqueur
-  kind: ingredient
+  kind: product
 
 - display_name: Maraska Maraschino Liqueur
   parent: maraschino-liqueur
   slug: maraska-maraschino-liqueur
+  kind: product
+
+- display_name: "Cr\xE8me de Cassis"
+  parent: fruit-liqueur
+  slug: creme-de-cassis
+  kind: ingredient
+  aliases:
+    - Blackcurrrant Liqueur
+
+- display_name: "Theuriet Cr\xE8me de Cassis"
+  parent: creme-de-cassis
+  slug: theuriet-creme-de-cassis
+  kind: product
+
+- display_name: Grapefruit Liqueur
+  parent: fruit-liqueur
+  slug: grapefruit-liqueur
   kind: ingredient
 
-- display_name: Orange Liqueur
-  parent: liqueur
-  slug: orange-liqueur
-  kind: ingredient
+- display_name: Combier Pamplemousse Rose Liqueur
+  parent: grapefruit-liqueur
+  slug: combier-pamplemousse-rose-liqueur
+  kind: product
 
-- display_name: Santa Teresa Orange Liqueur
-  parent: orange-liqueur
-  slug: santa-teresa-orange-liqueur
+- display_name: Limoncello
+  parent: fruit-liqueur
+  slug: limoncello
   kind: ingredient
+  aliases:
+    - Lemon Liqueur
 
 - display_name: Passion Fruit Liqueur
-  parent: liqueur
+  parent: fruit-liqueur
   slug: passion-fruit-liqueur
   kind: ingredient
 
 - display_name: Passoa Passion-fruit Liqueur
   parent: passion-fruit-liqueur
   slug: passoa-passion-fruit-liqueur
-  kind: ingredient
+  kind: product
 
-- display_name: Peach Liqueur
-  parent: liqueur
-  slug: peach-liqueur
-  kind: ingredient
+- display_name: "Aliz\xE9 Gold Passion"
+  parent: passion-fruit-liqueur
+  slug: alize-gold-passion
+  kind: product
 
-- display_name: Marie Brizard Peach Liqueur
-  parent: peach-liqueur
-  slug: marie-brizard-peach-liqueur
-  kind: ingredient
-
-- display_name: "Massenez Cr\xE8me De P\xEAche Peach Liqueur"
-  parent: peach-liqueur
-  slug: massenez-creme-de-peche-peach-liqueur
-  kind: ingredient
-
-- display_name: "Mathilde P\xEAche Liqueur"
-  parent: peach-liqueur
-  slug: mathilde-peche-liqueur
-  kind: ingredient
-
-- display_name: Peachtree Schnapps
-  parent: peach-liqueur
-  slug: peachtree-schnapps
-  kind: ingredient
-
-- display_name: Pear Liqueur
-  parent: liqueur
-  slug: pear-liqueur
-  kind: ingredient
-
-- display_name: Belle De Brillet Pear Liqueur
-  parent: pear-liqueur
-  slug: belle-de-brillet-pear-liqueur
-  kind: ingredient
-
-- display_name: Mathilde Pear Liqueur
-  parent: pear-liqueur
-  slug: mathilde-pear-liqueur
-  kind: ingredient
-
-- display_name: Mathilde Poire Pear Liqueur
-  parent: pear-liqueur
-  slug: mathilde-poire-pear-liqueur
-  kind: ingredient
-
-- display_name: Rothman & Winter Orchard Pear Liqueur
-  parent: pear-liqueur
-  slug: rothman-winter-orchard-pear-liqueur
-  kind: ingredient
-
-- display_name: Rothman & Winter Pear Liqueur
-  parent: pear-liqueur
-  slug: rothman-winter-pear-liqueur
-  kind: ingredient
-
-- display_name: Pomegranate Liqueur
-  parent: liqueur
-  slug: pomegranate-liqueur
-  kind: ingredient
-
-- display_name: Pama Pomegranate Liqueur
-  parent: pomegranate-liqueur
-  slug: pama-pomegranate-liqueur
-  kind: ingredient
-
-- display_name: Raspberry Liqueur
-  parent: liqueur
-  slug: raspberry-liqueur
-  kind: ingredient
-
-- display_name: Chambord Raspberry Liqueur
-  parent: raspberry-liqueur
-  slug: chambord-raspberry-liqueur
-  kind: ingredient
+- display_name: "Aliz\xE9 Red Passion"
+  parent: passion-fruit-liqueur
+  slug: alize-red-passion
+  kind: product
 
 - display_name: Strawberry Liqueur
-  parent: liqueur
+  parent: fruit-liqueur
   slug: strawberry-liqueur
   kind: ingredient
 
 - display_name: Marie Brizard Strawberry Liqueur
   parent: strawberry-liqueur
   slug: marie-brizard-strawberry-liqueur
-  kind: ingredient
-
-- display_name: "Merlet Cr\xE8me De Fraise Des Bois Strawberry Liqueur"
-  parent: strawberry-liqueur
-  slug: merlet-creme-de-fraise-des-bois-strawberry-liqueur
-  kind: ingredient
-
-- display_name: Triple Sec
-  parent: liqueur
-  slug: triple-sec
-  kind: ingredient
-
-- display_name: Cointreau
-  parent: triple-sec
-  slug: cointreau
-  kind: ingredient
-
-- display_name: "Rhum Cl\xE9ment Creole Shrub"
-  parent: liqueur
-  slug: rhum-clement-creole-shrub
   kind: product
 
-- display_name: "Sch\xF6nauer Apfel Schnapps"
-  parent: liqueur
-  slug: schonauer-apfel-schnapps
+- display_name: "Merlet Cr\xE8me de Fraise Des Bois Strawberry Liqueur"
+  parent: strawberry-liqueur
+  slug: merlet-creme-de-fraise-des-bois-strawberry-liqueur
+  kind: product
+
+- display_name: Pear Liqueur
+  parent: fruit-liqueur
+  slug: pear-liqueur
   kind: ingredient
 
-- display_name: "Aliz\xE9 Gold Passion"
-  parent: liqueur
-  slug: alize-gold-passion
+- display_name: Belle De Brillet Pear Liqueur
+  parent: pear-liqueur
+  slug: belle-de-brillet-pear-liqueur
+  kind: product
+
+- display_name: Mathilde Poire Pear Liqueur
+  parent: pear-liqueur
+  slug: mathilde-poire-pear-liqueur
+  kind: product
+  aliases:
+    - Mathilde Pear Liqueur
+
+- display_name: Rothman & Winter Orchard Pear Liqueur
+  parent: pear-liqueur
+  slug: rothman-winter-orchard-pear-liqueur
+  kind: product
+  aliases:
+    - Rothman & Winter Pear Liqueur
+
+- display_name: Peach Liqueur
+  parent: fruit-liqueur
+  slug: peach-liqueur
   kind: ingredient
 
-- display_name: "Aliz\xE9 Red Passion"
-  parent: liqueur
-  slug: alize-red-passion
+- display_name: Marie Brizard Peach Liqueur
+  parent: peach-liqueur
+  slug: marie-brizard-peach-liqueur
+  kind: product
+
+- display_name: "Massenez Cr\xE8me De P\xEAche Peach Liqueur"
+  parent: peach-liqueur
+  slug: massenez-creme-de-peche-peach-liqueur
+  kind: product
+
+- display_name: "Mathilde P\xEAche Liqueur"
+  parent: peach-liqueur
+  slug: mathilde-peche-liqueur
+  kind: product
+
+- display_name: DeKuyper Peachtree
+  parent: peach-liqueur
+  slug: dekuyper-peachtree-schnapps
+  kind: product
+  aliases:
+    - DeKuyper Peachtree Schnapps
+    - DeKuyper Peach Schnapps
+
+- display_name: Pomegranate Liqueur
+  parent: fruit-liqueur
+  slug: pomegranate-liqueur
   kind: ingredient
+
+- display_name: Pama Pomegranate Liqueur
+  parent: pomegranate-liqueur
+  slug: pama-pomegranate-liqueur
+  kind: product
+
+- display_name: Raspberry Liqueur
+  parent: fruit-liqueur
+  slug: raspberry-liqueur
+  kind: ingredient
+
+- display_name: Chambord Raspberry Liqueur
+  parent: raspberry-liqueur
+  slug: chambord-raspberry-liqueur
+  kind: product
 
 - display_name: Bacardi Tropico
-  parent: liqueur
+  parent: fruit-liqueur
   slug: bacardi-tropico
-  kind: ingredient
+  kind: product
 
 - display_name: Licor 43
-  parent: liqueur
+  parent: fruit-liqueur
   slug: licor-43
+  kind: product
+
+- display_name: Melon Liqueur
+  parent: fruit-liqueur
+  slug: melon-liqueur
   kind: ingredient
 
 - display_name: Midori
-  parent: liqueur
+  parent: melon-liqueur
   slug: midori
-  kind: ingredient
+  kind: product
 
 - display_name: Patxaran Liqueur
-  parent: liqueur
+  parent: fruit-liqueur
   slug: patxaran-liqueur
   kind: ingredient
+  aliases:
+    - Sloe Liqueur
 
 - display_name: "Zoco Pachar\xE1n Navarro Liqueur"
   parent: patxaran-liqueur
   slug: zoco-pacharan-navarro-liqueur
-  kind: ingredient
-
-- display_name: Pimm's No. 1
-  parent: liqueur
-  slug: pimm-s-no-1
-  kind: ingredient
-
-- display_name: Royal Combier Liqueur
-  parent: liqueur
-  slug: royal-combier-liqueur
-  kind: ingredient
-
-- display_name: "Saint-Rapha\xEBl Ap\xE9rtif De France"
-  parent: liqueur
-  slug: saint-raphael-apertif-de-france
-  kind: ingredient
-
-- display_name: DeKuyper Sour Apple Pucker
-  parent: liqueur
-  slug: dekuyper-sour-apple-pucker
   kind: product
 
-- display_name: Tuaca
-  parent: liqueur
-  slug: tuaca
-  kind: ingredient
+- display_name: Pimm's No. 1
+  parent: fruit-liqueur
+  slug: pimm-s-no-1
+  kind: product

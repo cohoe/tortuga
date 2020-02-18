@@ -1,0 +1,14 @@
+- display_name: Spirit Liqueur
+  parent: liqueur
+  slug: spirit-liqueur
+  kind: ingredient
+
+- display_name: Brandy Liqueur
+  parent: spirit-liqueur
+  slug: brandy-liqueur
+  kind: ingredient
+
+- display_name: Tuaca
+  parent: brandy-liqueur
+  slug: tuaca
+  kind: product

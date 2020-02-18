@@ -38,13 +38,3 @@
   parent: pear-cider
   slug: doc-s-hard-pear-cider
   kind: product
-
-- display_name: Pommeau
-  parent: cider
-  slug: pommeau
-  kind: ingredient
-
-- display_name: Drouhin Pommeau
-  parent: pommeau
-  slug: drouhin-pommeau
-  kind: product
