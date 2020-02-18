@@ -8,11 +8,6 @@
   slug: becherovka-liqueur
   kind: product
 
-- display_name: "B\xE9n\xE9dictine"
-  parent: herbal-liqueur
-  slug: benedictine
-  kind: product
-
 - display_name: Gentian Liqueur
   parent: herbal-liqueur
   slug: gentian-liqueur
@@ -38,10 +33,7 @@
   slug: domaine-de-canton-ginger-liqueur
   kind: product
 
-- display_name: Green Chartreuse
-  parent: herbal-liqueur
-  slug: green-chartreuse
-  kind: product
+
 
 - display_name: Metaxa
   parent: herbal-liqueur
@@ -56,11 +48,6 @@
 - display_name: Zirbenz Stone Pine Liqueur
   parent: pine-liqueur
   slug: zirbenz-stone-pine-liqueur
-  kind: product
-
-- display_name: Yellow Chartreuse
-  parent: herbal-liqueur
-  slug: yellow-chartreuse
   kind: product
 
 - display_name: "\xC9lixir Combier"
@@ -117,3 +104,23 @@
   parent: creme-de-menthe
   slug: peppermint-schnapps
   kind: ingredient
+
+- display_name: Monastic Liqueur
+  parent: herbal-liqueur
+  slug: monastic-liqueur
+  kind: ingredient
+
+- display_name: Green Chartreuse
+  parent: monastic-liqueur
+  slug: green-chartreuse
+  kind: product
+
+- display_name: Yellow Chartreuse
+  parent: monastic-liqueur
+  slug: yellow-chartreuse
+  kind: product
+
+- display_name: "B\xE9n\xE9dictine"
+  parent: monastic-liqueur
+  slug: benedictine
+  kind: product
