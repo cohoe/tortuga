@@ -1,0 +1,14 @@
+- display_name: Coffee Liqueur
+  parent: liqueur
+  slug: coffee-liqueur
+  kind: ingredient
+
+- display_name: Galliano Ristretto
+  parent: coffee-liqueur
+  slug: galliano-ristretto
+  kind: product
+
+- display_name: Illy Espresso Liqueur
+  parent: coffee-liqueur
+  slug: illy-espresso-liqueur
+  kind: product

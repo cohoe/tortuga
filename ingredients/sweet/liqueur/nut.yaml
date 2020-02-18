@@ -1,0 +1,29 @@
+- display_name: Amaretto
+  parent: liqueur
+  slug: amaretto
+  kind: ingredient
+
+- display_name: Amaretto Di Saronno
+  parent: amaretto
+  slug: amaretto-di-saronno
+  kind: product
+
+- display_name: Lazzaroni Amaretto
+  parent: amaretto
+  slug: lazzaroni-amaretto
+  kind: product
+
+- display_name: Luxardo Amaretto
+  parent: amaretto
+  slug: luxardo-amaretto
+  kind: product
+
+- display_name: Coconut Liqueur
+  parent: liqueur
+  slug: coconut-liqueur
+  kind: ingredient
+
+- display_name: Kalani Ron De Coco Coconut Liqueur
+  parent: coconut-liqueur
+  slug: kalani-ron-de-coco-coconut-liqueur
+  kind: product

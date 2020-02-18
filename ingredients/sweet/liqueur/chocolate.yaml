@@ -1,0 +1,15 @@
+- display_name: Chocolate Liqueur
+  parent: liqueur
+  slug: chocolate-liqueur
+  kind: ingredient
+
+- display_name: Godiva Liqueur (dark)
+  parent: chocolate-liqueur
+  slug: godiva-liqueur-dark
+  kind: product
+
+- display_name: Godiva Original Liqueur
+  parent: chocolate-liqueur
+  slug: godiva-original-liqueur
+  kind: product
+

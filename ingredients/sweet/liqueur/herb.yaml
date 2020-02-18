@@ -1,0 +1,9 @@
+- display_name: Becherovka Liqueur
+  parent: liqueur
+  slug: becherovka-liqueur
+  kind: ingredient
+
+- display_name: "B\xE9n\xE9dictine"
+  parent: liqueur
+  slug: benedictine
+  kind: ingredient

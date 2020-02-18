@@ -1,147 +1,18 @@
-- display_name: Allspice Dram
-  parent: liqueur
-  slug: allspice-dram
-  kind: ingredient
 
-- display_name: St. Elizabeth Allspice Dram
-  parent: allspice-dram
-  slug: st-elizabeth-allspice-dram
-  kind: ingredient
 
-- display_name: Amaretto
-  parent: liqueur
-  slug: amaretto
-  kind: ingredient
 
-- display_name: Amaretto Di Saronno
-  parent: amaretto
-  slug: amaretto-di-saronno
-  kind: ingredient
 
-- display_name: Lazzaroni Amaretto
-  parent: amaretto
-  slug: lazzaroni-amaretto
-  kind: ingredient
 
-- display_name: Luxardo Amaretto
-  parent: amaretto
-  slug: luxardo-amaretto
-  kind: ingredient
 
-- display_name: Becherovka Liqueur
-  parent: liqueur
-  slug: becherovka-liqueur
-  kind: ingredient
 
-- display_name: "B\xE9n\xE9dictine"
-  parent: liqueur
-  slug: benedictine
-  kind: ingredient
 
-- display_name: Chocolate Liqueur
-  parent: liqueur
-  slug: chocolate-liqueur
-  kind: ingredient
 
-- display_name: Godiva Liqueur (dark)
-  parent: chocolate-liqueur
-  slug: godiva-liqueur-dark
-  kind: ingredient
 
-- display_name: Godiva Original Liqueur
-  parent: chocolate-liqueur
-  slug: godiva-original-liqueur
-  kind: ingredient
 
-- display_name: Coconut Liqueur
-  parent: liqueur
-  slug: coconut-liqueur
-  kind: ingredient
 
-- display_name: Kalani Ron De Coco Coconut Liqueur
-  parent: coconut-liqueur
-  slug: kalani-ron-de-coco-coconut-liqueur
-  kind: ingredient
 
-- display_name: Coffee Liqueur
-  parent: liqueur
-  slug: coffee-liqueur
-  kind: ingredient
 
-- display_name: Galliano Ristretto
-  parent: coffee-liqueur
-  slug: galliano-ristretto
-  kind: ingredient
 
-- display_name: Illy Espresso Liqueur
-  parent: coffee-liqueur
-  slug: illy-espresso-liqueur
-  kind: ingredient
-
-- display_name: "Cr\xE8me De Cacao"
-  parent: liqueur
-  slug: creme-de-cacao
-  kind: ingredient
-
-- display_name: "Dark Cr\xE8me De Cacao"
-  parent: creme-de-cacao
-  slug: dark-creme-de-cacao
-  kind: ingredient
-
-- display_name: "Marie Brizard Cr\xE8me De Cacao"
-  parent: creme-de-cacao
-  slug: marie-brizard-creme-de-cacao
-  kind: ingredient
-
-- display_name: "Marie Brizard Dark Cr\xE8me De Cacao"
-  parent: creme-de-cacao
-  slug: marie-brizard-dark-creme-de-cacao
-  kind: ingredient
-
-- display_name: "Marie Brizard White Cr\xE8me De Cacao"
-  parent: creme-de-cacao
-  slug: marie-brizard-white-creme-de-cacao
-  kind: ingredient
-
-- display_name: "White Cr\xE8me De Cacao"
-  parent: creme-de-cacao
-  slug: white-creme-de-cacao
-  kind: ingredient
-
-- display_name: "Cr\xE8me De Menthe"
-  parent: liqueur
-  slug: creme-de-menthe
-  kind: ingredient
-
-- display_name: "Green Cr\xE8me De Menthe"
-  parent: creme-de-menthe
-  slug: green-creme-de-menthe
-  kind: ingredient
-
-- display_name: "Marie Brizard White Cr\xE8me De Menthe"
-  parent: creme-de-menthe
-  slug: marie-brizard-white-creme-de-menthe
-  kind: ingredient
-
-- display_name: "White Cr\xE8me De Menthe"
-  parent: creme-de-menthe
-  slug: white-creme-de-menthe
-  kind: ingredient
-
-- display_name: "Cr\xE8me De Violette"
-  parent: liqueur
-  slug: creme-de-violette
-  kind: ingredient
-
-- display_name: "Cr\xE8me Yvette"
-  parent: creme-de-violette
-  slug: creme-yvette
-  kind: ingredient
-
-- display_name: "Rothman & Winter Cr\xE8me De Violette"
-  parent: creme-de-violette
-  slug: rothman-winter-creme-de-violette
-  kind: ingredient
 
 - display_name: 'Donn''s Spices #2'
   parent: liqueur

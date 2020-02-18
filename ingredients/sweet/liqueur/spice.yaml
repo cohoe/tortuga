@@ -1,0 +1,9 @@
+- display_name: Allspice Liqueur
+  parent: liqueur
+  slug: allspice-liqueur
+  kind: ingredient
+
+- display_name: St. Elizabeth Allspice Dram
+  parent: allspice-liqueur
+  slug: st-elizabeth-allspice-dram
+  kind: product
