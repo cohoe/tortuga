@@ -47,3 +47,12 @@
   parent: sugarcane
   slug: rhum
   kind: ingredient
+
+- display_name: Jamaican Rum
+  parent: rum
+  slug: jamaican-rum
+  kind: index
+  elements:
+    - appleton-estate-reserve-rum
+    - appleton-estate-12-year-rare-blend-rum
+    - smith-cross-jamaican-rum
