@@ -27,11 +27,11 @@
 
 - display_name: "Parfait d'Amour"
   parent: flower-liqueur
-  slug: parfait-d-amour
+  slug: parfait-damour
   kind: ingredient
 
 - display_name: Marie Brizard Parfait Amour
-  parent: parfait-d-amour
+  parent: parfait-damour
   slug: marie-brizard-parfait-amour
   kind: product
 

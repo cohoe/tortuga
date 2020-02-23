@@ -1,6 +1,6 @@
 - display_name: Baker's Bourbon
   parent: bourbon-whiskey
-  slug: baker-s-bourbon
+  slug: bakers-bourbon
   kind: product
 
 - display_name: Buffalo Trace Bourbon
@@ -60,7 +60,7 @@
 
 - display_name: Maker's Mark Bourbon Whiskey
   parent: bourbon-whiskey
-  slug: maker-s-mark-bourbon-whiskey
+  slug: makers-mark-bourbon-whiskey
   kind: product
 
 - display_name: Old Grand-Dad 114 Bourbon
@@ -80,7 +80,7 @@
 
 - display_name: Russell's Reserve 10-Year Bourbon
   parent: bourbon-whiskey
-  slug: russell-s-reserve-10-year-bourbon
+  slug: russells-reserve-10-year-bourbon
   kind: product
 
 - display_name: Wild Turkey 101 Bourbon

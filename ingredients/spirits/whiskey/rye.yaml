@@ -35,7 +35,7 @@
 
 - display_name: Russell's Reserve Rye Whiskey
   parent: rye-whiskey
-  slug: russell-s-reserve-rye-whiskey
+  slug: russells-reserve-rye-whiskey
   kind: product
 
 - display_name: Sazerac 6-Year Rye Whiskey
@@ -50,7 +50,7 @@
 
 - display_name: Wild Turkey Russell's Reserve 6-Year-Old Rye Whiskey
   parent: rye-whiskey
-  slug: wild-turkey-russell-s-reserve-6-year-old-rye-whiskey
+  slug: wild-turkey-russells-reserve-6-year-old-rye-whiskey
   kind: product
 
 - display_name: Wild Turkey Rye Whiskey

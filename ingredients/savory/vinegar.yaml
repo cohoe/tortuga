@@ -31,7 +31,7 @@
 
 - display_name: "Toby's Sour Cherry Shrub"
   parent: cherry-shrub
-  slug: toby-s-sour-cherry-shrub
+  slug: tobys-sour-cherry-shrub
   kind: product
 
 - display_name: Concord Shrub

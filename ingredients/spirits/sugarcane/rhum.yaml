@@ -3,7 +3,7 @@
   parent: rhum
   kind: ingredient
 
-- display_name: Barbancourt 5-Star Rum
+- display_name: Barbancourt 5-Star Rhum
   parent: aged-rhum
   slug: barbancourt-5-star-rhum
   kind: product

@@ -10,12 +10,12 @@
 
 - display_name: Gosling's Black Seal Rum
   parent: blackstrap-rum
-  slug: gosling-s-black-seal-rum
+  slug: goslings-black-seal-rum
   kind: product
 
 - display_name: Banana Chip-Infused Gosling's Black Seal Rum
-  parent: gosling-s-black-seal-rum
-  slug: banana-chip-infused-gosling-s-black-seal-rum
+  parent: goslings-black-seal-rum
+  slug: banana-chip-infused-goslings-black-seal-rum
   kind: custom
 
 - display_name: Overproof Blackstrap Rum

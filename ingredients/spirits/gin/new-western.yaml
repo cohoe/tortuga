@@ -1,6 +1,6 @@
 - display_name: Hendrick's Gin
   parent: new-western-gin
-  slug: hendrick-s-gin
+  slug: hendricks-gin
   kind: product
 
 - display_name: Aviation Gin
@@ -30,5 +30,5 @@
 
 - display_name: Perry's Tot Navy-Strength Gin
   parent: new-western-gin
-  slug: perry-s-tot-navy-strength-gin
+  slug: perrys-tot-navy-strength-gin
   kind: product

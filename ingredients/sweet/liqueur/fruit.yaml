@@ -41,7 +41,7 @@
 
 - display_name: "Berentzen's Apple Liqueur"
   parent: apple-liqueur
-  slug: berentzen-s-apple-liqueur
+  slug: berentzens-apple-liqueur
   kind: product
 
 - display_name: "Sch\xF6nauer Apfel Schnapps"
@@ -301,7 +301,7 @@
 
 - display_name: DeKuyper Peachtree
   parent: peach-liqueur
-  slug: dekuyper-peachtree-schnapps
+  slug: dekuyper-peachtree
   kind: product
   aliases:
     - DeKuyper Peachtree Schnapps
@@ -361,5 +361,5 @@
 
 - display_name: Pimm's No. 1
   parent: fruit-liqueur
-  slug: pimm-s-no-1
+  slug: pimms-no-1
   kind: product

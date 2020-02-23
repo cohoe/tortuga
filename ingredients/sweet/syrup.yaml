@@ -11,7 +11,7 @@
 
 - display_name: "John D. Taylor's Velvet Falernum"
   parent: falernum
-  slug: john-d-taylor-s-velvet-falernum
+  slug: john-d-taylors-velvet-falernum
   kind: product
 
 - display_name: Infused Syrup
@@ -101,7 +101,7 @@
 
 - display_name: "Donn's Spices #2"
   parent: vanilla-syrup
-  slug: donn-s-spices-2
+  slug: donns-spices-2
   kind: custom
 
 - display_name: Orgeat

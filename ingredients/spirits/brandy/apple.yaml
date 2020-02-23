@@ -5,7 +5,7 @@
 
 - display_name: "Laird's Bonded Apple Brandy"
   parent: apple-brandy
-  slug: laird-s-bonded-apple-brandy
+  slug: lairds-bonded-apple-brandy
   kind: product
 
 - display_name: Applejack
@@ -15,7 +15,7 @@
 
 - display_name: Laird's Applejack
   parent: applejack
-  slug: laird-s-applejack
+  slug: lairds-applejack
   kind: product
 
 - display_name: Calvados

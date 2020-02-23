@@ -41,12 +41,12 @@
 
 - display_name: "Blandy's 5-Year Malmsey Madeira"
   parent: madeira
-  slug: blandy-s-5-year-malmsey-madeira
+  slug: blandys-5-year-malmsey-madeira
   kind: product
 
 - display_name: "Blandy's Sercial Madeira"
   parent: madeira
-  slug: blandy-s-sercial-madeira
+  slug: blandys-sercial-madeira
   kind: product
 
 - display_name: Sandeman Rainwater Madeira
@@ -71,12 +71,12 @@
 
 - display_name: "Dow's Ruby Port"
   parent: ruby-port
-  slug: dow-s-ruby-port
+  slug: dows-ruby-port
   kind: product
 
 - display_name: "Dow's Tawny Port"
   parent: tawny-port
-  slug: dow-s-tawny-port
+  slug: dows-tawny-port
   kind: product
 
 - display_name: Noval Black Port

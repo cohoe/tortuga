@@ -11,7 +11,7 @@
 
 - display_name: "Doc's Hard Apple Cider"
   parent: apple-cider
-  slug: doc-s-hard-apple-cider
+  slug: docs-hard-apple-cider
   kind: product
 
 - display_name: Dupont Brut Sparkling Cider
@@ -36,5 +36,5 @@
 
 - display_name: "Doc's Hard Pear Cider"
   parent: pear-cider
-  slug: doc-s-hard-pear-cider
+  slug: docs-hard-pear-cider
   kind: product

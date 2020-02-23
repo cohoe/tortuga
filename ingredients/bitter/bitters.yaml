@@ -6,7 +6,7 @@
 
 - display_name: "Abbott's Bitters"
   parent: bitters
-  slug: abbott-s-bitters
+  slug: abbotts-bitters
   kind: product
 
 - display_name: Amargo Chuncho Bitters
@@ -51,7 +51,7 @@
 
 - display_name: "Feldman's BarreleAged Bitters"
   parent: barrel-aged-bitters
-  slug: feldman-s-barreleaged-bitters
+  slug: feldmans-barreleaged-bitters
   kind: product
 
 - display_name: Bokers Bitters
@@ -141,7 +141,7 @@
 
 - display_name: "Regan's Orange Bitters"
   parent: orange-bitters
-  slug: regan-s-orange-bitters
+  slug: regans-orange-bitters
   kind: product
 
 - display_name: Peach Bitters
@@ -156,12 +156,12 @@
 
 - display_name: "Peychaud's Bitters"
   parent: bitters
-  slug: peychaud-s-bitters
+  slug: peychauds-bitters
   kind: product
 
 - display_name: "House Peychaud's Bitters"
-  parent: peychaud-s-bitters
-  slug: house-peychaud-s-bitters
+  parent: peychauds-bitters
+  slug: house-peychauds-bitters
   kind: custom
 
 - display_name: Pimento Bitters
@@ -171,7 +171,7 @@
 
 - display_name: "Dale Degroff's Pimento Bitters"
   parent: pimento-bitters
-  slug: dale-degroff-s-pimento-bitters
+  slug: dale-degroffs-pimento-bitters
   kind: product
 
 - display_name: Rhubarb Bitters

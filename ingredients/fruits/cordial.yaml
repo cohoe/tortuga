@@ -46,12 +46,12 @@
 
 - display_name: Rose's Lime Juice
   parent: lime-cordial
-  slug: rose-s-lime-juice
+  slug: roses-lime-juice
   kind: product
 
 - display_name: Toby's Lime Cordial
   parent: lime-cordial
-  slug: toby-s-lime-cordial
+  slug: tobys-lime-cordial
   kind: custom
 
 - display_name: Raspberry Syrup
