@@ -3,6 +3,17 @@
   slug: lightly-aged-column-still-rum
   kind: ingredient
 
+- display_name: White Rum
+  parent: lightly-aged-rum
+  slug: white-rum
+  kind: index
+  elements:
+    - lightly-aged-column-still-rum
+    - banks-5-island-rum
+    - el-dorado-3-year-rum
+  aliases:
+    - Light Rum
+
 - display_name: Bacardi Superior Rum
   parent: lightly-aged-column-still-rum
   slug: bacardi-superior-rum
