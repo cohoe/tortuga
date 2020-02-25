@@ -15,12 +15,13 @@
   aliases:
     - Marie Brizard Apry
 
-- display_name: Rothman & Winter Orchard Apricot Liqueur
+- display_name: Rothman & Winter Apricot Liqueur
   parent: apricot-liqueur
-  slug: rothman-winter-orchard-apricot-liqueur
+  slug: rothman-winter-apricot-liqueur
   kind: product
   aliases:
-    - Rothman & Winter Apricot Liqueur
+    - Rothman & Winter Orchard Apricot Liqueur
+    - Orchard Apricot Liqueur
 
 - display_name: Banana Liqueur
   parent: fruit-liqueur

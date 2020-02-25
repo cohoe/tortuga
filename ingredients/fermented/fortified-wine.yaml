@@ -189,10 +189,12 @@
   slug: lustau-east-india-sherry
   kind: product
 
-- display_name: Lustau Los Arcos Amontillado Sherry
+- display_name: Lustau Amontillado Sherry
   parent: amontillado-sherry
-  slug: lustau-los-arcos-amontillado-sherry
+  slug: lustau-amontillado-sherry
   kind: product
+  aliases:
+    - Lustau Los Arcos Amontillado Sherry
 
 - display_name: Lustau Manzanilla Sherry
   parent: manzanilla-sherry

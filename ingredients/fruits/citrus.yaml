@@ -29,6 +29,11 @@
   slug: orange
   kind: ingredient
 
+- display_name: Orange Wheel
+  parent: orange
+  slug: orange-wheel
+  kind: ingredient
+
 - display_name: Blood Orange
   parent: orange
   slug: blood-orange

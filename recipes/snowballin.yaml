@@ -10,7 +10,7 @@
     - name: original
       glassware: collins
       ingredients:
-        - name: the sexton irish whiskey
+        - name: sexton irish whiskey
           quantity: 1.5
           unit: oz
         - name: amontillado sherry
