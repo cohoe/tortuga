@@ -7,3 +7,8 @@
   parent: lightly-aged-pot-still-rum
   slug: smith-cross-jamaican-rum
   kind: product
+
+- display_name: Rum-Bar Gold
+  parent: lightly-aged-pot-still-rum
+  slug: rum-bar-gold
+  kind: product

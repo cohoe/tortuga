@@ -8,7 +8,7 @@
     - name: original
       glassware: rocks
       ingredients:
-        - name: clement rhum
+        - name: rhum-clement-v-s-o-p
           quantity: 1
           unit: oz
         - name: banks 5 island rum
@@ -20,7 +20,7 @@
         - name: apricot syrup
           quantity: .5
           unit: oz
-        - name: cinnamon syrup
+        - name: cinnamon bark syrup
           quantity: .25
           unit: oz
       construction: shake

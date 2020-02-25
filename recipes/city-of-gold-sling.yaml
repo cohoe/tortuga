@@ -15,7 +15,7 @@
         - name: el dorado 12-year rum
           quantity: .5
           unit: oz
-        - name: donns spices #2
+        - name: "donns spices #2"
           quantity: .75
           unit: oz
         - name: vieux pontarlier absinthe

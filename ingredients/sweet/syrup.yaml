@@ -79,6 +79,11 @@
   slug: lemongrass-syrup
   kind: ingredient
 
+- display_name: Apricot Syrup
+  parent: infused-syrup
+  slug: apricot-syrup
+  kind: ingredient
+
 - display_name: Mymoune Rose Syrup
   parent: infused-syrup
   slug: mymoune-rose-syrup

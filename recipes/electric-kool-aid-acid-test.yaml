@@ -14,7 +14,7 @@
     - name: original
       glassware: pilsner
       ingredients:
-        - name: plymouth gin, scarlet ibis rum, lairds bonded apple brandy, or siembra azul blanco tequila
+        - name: siembra azul blanco tequila
           quantity: 1
           unit: oz
         - name: sloe gin
@@ -26,7 +26,7 @@
         - name: simple syrup
           quantity: .75
           unit: oz
-        - name: blackberries
+        - name: blackberry
           quantity: 3
         - name: luxardo maraschino liqueur
           quantity: .25
@@ -46,3 +46,5 @@
           date: 2014-10-07
           publisher: Ten Speed Press
           page: 252
+      notes:
+        - can also do plymouth gin, scarlet ibis rum, lairds bonded apple brandy

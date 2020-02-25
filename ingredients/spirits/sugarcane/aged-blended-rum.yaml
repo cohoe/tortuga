@@ -20,6 +20,11 @@
   slug: diplomatico-reserva-exclusiva-rum
   kind: product
 
+- display_name: El Dorado 8-Year Rum
+  parent: aged-blended-rum
+  slug: el-dorado-8-year-rum
+  kind: product
+
 - display_name: El Dorado 12-Year Rum
   parent: aged-blended-rum
   slug: el-dorado-12-year-rum

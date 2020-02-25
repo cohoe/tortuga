@@ -17,3 +17,8 @@
   parent: overproof-unaged-rum
   slug: el-dorado-151-rum
   kind: product
+
+- display_name: Rum-Bar White Overproof
+  parent: overproof-unaged-rum
+  slug: rum-bar-white-overproof
+  kind: product

@@ -18,7 +18,7 @@
         - name: lemon juice
           quantity: .75
           unit: oz
-        - name: framboise boon lambic
+        - name: brouwerij-boon-framboise
           quantity: 2
           unit: oz
       construction: shake

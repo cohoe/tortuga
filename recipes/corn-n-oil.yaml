@@ -7,10 +7,10 @@
     - name: original
       glassware: rocks
       ingredients:
-        - name: cruzan blackstrap rum
+        - name: cruzan black strap rum
           quantity: 2
           unit: oz
-        - name: john d taylor velvet falernum
+        - name: john d taylors velvet falernum
           quantity: .5
           unit: oz
         - name: lime juice

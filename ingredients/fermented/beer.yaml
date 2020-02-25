@@ -64,6 +64,11 @@
   slug: oud-beersel-framboise
   kind: product
 
+- display_name: Brouwerij Boon Framboise
+  parent: framboise
+  slug: brouwerij-boon-framboise
+  kind: product
+
 - display_name: Framboise
   parent: lambic
   slug: framboise

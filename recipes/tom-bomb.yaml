@@ -16,7 +16,7 @@
         - name: ransom old tom gin
           quantity: 1.5
           unit: oz
-        - name: donn's spices #2
+        - name: "donn's spices #2"
           quantity: .25
           unit: oz
         - name: lemon juice
