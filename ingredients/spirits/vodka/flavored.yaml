@@ -68,6 +68,11 @@
   slug: absolut-mandrin-vodka
   kind: product
 
+- display_name: Hangar One Mandarin Vodka
+  parent: orange-vodka
+  slug: hangar-one-mandarin-vodka
+  kind: product
+
 - display_name: Absolut Citron Vodka
   parent: citrus-vodka
   slug: absolut-citron-vodka

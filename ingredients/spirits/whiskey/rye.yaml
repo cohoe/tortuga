@@ -58,6 +58,11 @@
   slug: wild-turkey-rye-whiskey
   kind: product
 
+- display_name: Wild Turkey 101 Rye Whiskey
+  parent: rye-whiskey
+  slug: wild-turkey-101-rye-whiskey
+  kind: product
+
 - display_name: Dried Currant-Infused Wild Turkey Rye Whiskey
   parent: wild-turkey-rye-whiskey
   slug: dried-currant-infused-wild-turkey-rye-whiskey

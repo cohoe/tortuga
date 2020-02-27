@@ -32,3 +32,10 @@
   parent: irish-whiskey
   slug: redbreast-12-year-irish-whiskey
   kind: product
+
+- display_name: Sexton Irish Whiskey
+  parent: irish-whiskey
+  slug: sexton-irish-whiskey
+  kind: product
+  aliases:
+    - The Sexton Irish Whiskey

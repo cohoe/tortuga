@@ -8,7 +8,7 @@
     - name: original
       glassware: rocks
       ingredients:
-        - name: wild turkey 101 proof rye whiskey
+        - name: wild turkey 101 rye whiskey
           quantity: 1.5
           unit: oz
         - name: cocchi vermouth di Torino

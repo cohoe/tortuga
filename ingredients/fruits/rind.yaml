@@ -14,7 +14,17 @@
   slug: lemon-peel
   kind: ingredient
 
+- display_name: Lemon Twist
+  parent: rind
+  slug: lemon-twist
+  kind: ingredient
+
 - display_name: Orange Peel
   parent: rind
   slug: orange-peel
+  kind: ingredient
+
+- display_name: Lime Peel
+  parent: rind
+  slug: lime-peel
   kind: ingredient

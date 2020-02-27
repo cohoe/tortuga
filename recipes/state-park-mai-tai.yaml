@@ -8,13 +8,13 @@
     - name: original
       glassware: tiki
       ingredients:
-        - name: light-aged cuban-style rum
+        - name: old monk rum
           quantity: .75
           unit: oz
-        - name: aged jamaican rum
+        - name: privateer ambre rum
           quantity: .75
           unit: oz
-        - name: dry orange curaçao
+        - name: pierre ferrand dry curaçao
           quantity: .75
           unit: oz
         - name: lime juice

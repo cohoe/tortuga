@@ -64,6 +64,11 @@
   slug: carpene-malvolti-prosecco
   kind: product
 
+- display_name: Cava
+  parent: sparkling-wine
+  slug: cava
+  kind: ingredient
+
 - display_name: Prosecco
   parent: sparkling-wine
   slug: prosecco
