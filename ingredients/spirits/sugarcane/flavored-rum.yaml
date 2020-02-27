@@ -22,3 +22,10 @@
   parent: coconut-rum
   slug: malibu-coconut-rum
   kind: product
+
+- display_name: Plantation Pineapple Rum
+  parent: flavored-rum
+  slug: plantation-pineapple-rum
+  kind: product
+  aliases:
+    - Plantation Stiggin's Fancy Pineapple Rum

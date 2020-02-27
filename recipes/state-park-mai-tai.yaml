@@ -8,7 +8,7 @@
     - name: original
       glassware: tiki
       ingredients:
-        - name: old monk rum
+        - name: old monk 7-year rum
           quantity: .75
           unit: oz
         - name: privateer ambre rum

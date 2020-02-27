@@ -33,20 +33,21 @@
       garnish:
         - chile powder dipped pineapple
       straw: false
-    - name: charred pineapple syrup
-      glassware: bottle
-      ingredients:
-        - name: charred pineapple
-          quantity: 250
-          unit: gram
-        - name: '2:1 simple syrup'
-          quantity: 750
-          unit: gram
-        - name: jalapeños
-          quantity: 2
-      construction: shake
-      instructions:
-        - combine all ingredients in a Vitamix and blend, then strain through a chinois.
+      # @TODO
+#    - name: charred pineapple syrup
+#      glassware: bottle
+#      ingredients:
+#        - name: charred pineapple
+#          quantity: 250
+#          unit: gram
+#        - name: '2:1 simple syrup'
+#          quantity: 750
+#          unit: gram
+#        - name: jalapeños
+#          quantity: 2
+#      construction: shake
+#      instructions:
+#        - combine all ingredients in a Vitamix and blend, then strain through a chinois.
   citations:
     - title: Revenge of the Line
       author: Punch

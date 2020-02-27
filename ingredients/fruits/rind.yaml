@@ -9,6 +9,11 @@
   slug: grapefruit-peel
   kind: ingredient
 
+- display_name: Grapefruit Twist
+  parent: rind
+  slug: grapefruit-twist
+  kind: ingredient
+
 - display_name: Lemon Peel
   parent: rind
   slug: lemon-peel

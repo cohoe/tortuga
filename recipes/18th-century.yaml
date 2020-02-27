@@ -9,7 +9,7 @@
     - name: original
       glassware: coupe
       ingredients:
-        - name: van oosten batavia arrack
+        - name: batavia arrack van oosten
           quantity: 1.5
           unit: oz
         - name: marie brizard white creme de cacao

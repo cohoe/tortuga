@@ -9,14 +9,24 @@
   slug: apple-cider
   kind: ingredient
 
+- display_name: Hard Cider
+  parent: cider
+  slug: hard-cider
+  kind: ingredient
+
 - display_name: "Doc's Hard Apple Cider"
-  parent: apple-cider
+  parent: hard-cider
   slug: docs-hard-apple-cider
   kind: product
 
 - display_name: Dupont Brut Sparkling Cider
-  parent: apple-cider
+  parent: hard-cider
   slug: dupont-brut-sparkling-cider
+  kind: product
+
+- display_name: Downeast Original Hard Cider
+  parent: hard-cider
+  slug: downeast-original-hard-cider
   kind: product
 
 - display_name: Hot Apple Cider

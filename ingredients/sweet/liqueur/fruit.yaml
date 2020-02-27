@@ -137,6 +137,11 @@
   slug: cointreau
   kind: product
 
+- display_name: Original Combier
+  parent: curacao
+  slug: original-combier
+  kind: product
+
 - display_name: "Blue Cura\xE7ao"
   parent: curacao
   slug: blue-curacao

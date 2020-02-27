@@ -12,7 +12,7 @@
     - name: original
       glassware: sour
       ingredients:
-        - name: daron calvados fine
+        - name: daron fine calvados
           quantity: 2
           unit: oz
         - name: Café Cancale grenadine

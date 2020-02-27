@@ -7,7 +7,7 @@
     - name: original
       glassware: coupe
       ingredients:
-        - name: light-aged cuban-style rum
+        - name: lightly aged column still rum
           quantity: 2
           unit: oz
         - name: lime juice

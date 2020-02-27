@@ -15,7 +15,7 @@
         - name: demerara syrup
           quantity: .25
           unit: oz
-        - name: galliano ristretto coffee liqueur
+        - name: galliano ristretto
           quantity: 1
           unit: tsp
         - name: angostura bitters

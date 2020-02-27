@@ -17,7 +17,7 @@
         - name: pineapple juice
           quantity: 1
           unit: oz
-        - name: downeast original unfiltered hard cider
+        - name: downeast original hard cider
           quantity: 4
           unit: oz
       construction: build

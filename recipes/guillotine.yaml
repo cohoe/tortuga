@@ -12,10 +12,10 @@
         - name: mezcal
           quantity: 1
           unit: oz
-        - name: blended scotch whiskey
+        - name: blended scotch whisky
           quantity: .75
           unit: oz
-        - name: giffard creme de banane liqueur
+        - name: giffard banane du bresil
           quantity: .25
           unit: oz
         - name: honey syrup

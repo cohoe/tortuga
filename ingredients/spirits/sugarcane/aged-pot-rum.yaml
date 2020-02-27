@@ -1,0 +1,9 @@
+- display_name: Aged Pot Still Rum
+  parent: aged-rum
+  slug: aged-pot-still-rum
+  kind: ingredient
+
+- display_name: Old Monk 7 Year Rum
+  parent: aged-pot-still-rum
+  slug: old-monk-7-year-rum
+  kind: product

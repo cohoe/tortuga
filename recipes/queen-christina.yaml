@@ -9,7 +9,7 @@
     - name: original
       glassware: coupe
       ingredients:
-        - name: bourbon
+        - name: bourbon whiskey
           quantity: 1.5
           unit: oz
         - name: swedish punsch

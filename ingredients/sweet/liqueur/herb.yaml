@@ -3,9 +3,9 @@
   slug: herbal-liqueur
   kind: ingredient
 
-- display_name: Becherovka Liqueur
+- display_name: Becherovka
   parent: herbal-liqueur
-  slug: becherovka-liqueur
+  slug: becherovka
   kind: product
 
 - display_name: Gentian Liqueur
@@ -18,10 +18,12 @@
   slug: salers-gentiane-aperitif
   kind: product
 
-- display_name: Suze Saveur D'Autrefois Liqueur
+- display_name: Suze
   parent: gentian-liqueur
-  slug: suze-saveur-dautrefois-liqueur
+  slug: suze
   kind: product
+  aliases:
+    - Suze Saveur D'Autrefois Liqueur
 
 - display_name: Ginger Liqueur
   parent: herbal-liqueur
@@ -123,4 +125,9 @@
 - display_name: "B\xE9n\xE9dictine"
   parent: monastic-liqueur
   slug: benedictine
+  kind: product
+
+- display_name: Jägermeister
+  parent: herbal-liqueur
+  slug: jagermeister
   kind: product

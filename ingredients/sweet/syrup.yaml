@@ -66,6 +66,16 @@
   slug: house-grenadine
   kind: custom
 
+- display_name: Café Cancale Grenadine
+  parent: grenadine
+  slug: cafe-cancale-grenadine
+  kind: custom
+
+- display_name: Jack Rudy Grenadine
+  parent: grenadine
+  slug: jack-rudy-grenadine
+  kind: product
+
 - display_name: Gum Syrup
   parent: syrup
   slug: gum-syrup

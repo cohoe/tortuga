@@ -10,13 +10,13 @@
     - name: original
       glassware: bowl
       ingredients:
-        - name: the sexton irish whiskey
+        - name: sexton irish whiskey
           quantity: 1
           unit: oz
         - name: orgeat
           quantity: 1
           unit: oz
-        - name: genepy
+        - name: genepi
           quantity: 1
           unit: oz
         - name: lime juice

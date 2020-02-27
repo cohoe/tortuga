@@ -9,7 +9,7 @@
     - name: original
       glassware: coupe
       ingredients:
-        - name: bourbon
+        - name: bourbon whiskey
           quantity: .75
           unit: oz
         - name: aperol

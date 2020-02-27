@@ -67,3 +67,9 @@
   parent: honey-syrup
   slug: acacia-honey-syrup
   kind: ingredient
+
+- display_name: Super Rich Honey Syrup
+  parent: honey-syrup
+  slug: super-rich-honey-syrup
+  kind: ingredient
+  # 3:1

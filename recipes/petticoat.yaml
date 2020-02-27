@@ -13,7 +13,7 @@
         - name: szechuan peppercorn-infused plymouth gin
           quantity: 2
           unit: oz
-        - name: velvet falernum
+        - name: john d taylors velvet falernum
           quantity: .25
           unit: oz
         - name: marie brizard apricot liqueur
@@ -22,7 +22,7 @@
         - name: lime juice
           quantity: .75
           unit: oz
-        - name: cane syrup
+        - name: cane sugar syrup
           quantity: .25
           unit: oz
       construction: shake

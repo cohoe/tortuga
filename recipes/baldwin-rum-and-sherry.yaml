@@ -13,7 +13,7 @@
     - name: original
       glassware: rocks
       ingredients:
-        - name: solera rum
+        - name: el dorado 12 year rum
           quantity: 1.5
           unit: oz
         - name: orgeat

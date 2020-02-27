@@ -20,9 +20,9 @@
   slug: elderflower-liqueur
   kind: ingredient
 
-- display_name: St-Germain Elderflower Liqueur
+- display_name: St-Germain
   parent: elderflower-liqueur
-  slug: st-germain-elderflower-liqueur
+  slug: st-germain
   kind: product
 
 - display_name: "Parfait d'Amour"

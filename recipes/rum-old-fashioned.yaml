@@ -12,10 +12,10 @@
           and rum based. We were surprised how tame the Smith & Cross became.
       glassware: rocks
       ingredients:
-        - name: smith & cross rum
+        - name: smith & cross jamaican rum
           quantity: .5
           unit: oz
-        - name: el dorado 12 rum
+        - name: el dorado 12 year rum
           quantity: 1.5
           unit: oz
         - name: demerara syrup
@@ -47,13 +47,13 @@
         - name: appleton estate reserve rum
           quantity: 1
           unit: oz
-        - name: ron zacapa 23
+        - name: ron-zacapa-centenario-23-rum
           quantity: .5
           unit: oz
-        - name: smith & cross rum
+        - name: smith & cross jamaican rum
           quantity: .5
           unit: oz
-        - name: rich demerara syrup
+        - name: demerara syrup
           quantity: 1
           unit: tsp
         - name: orange bitters

@@ -8,7 +8,7 @@
     - name: original
       glassware: rocks
       ingredients:
-        - name: old overholt rye
+        - name: old overholt rye whiskey
           quantity: 2
           unit: oz
         - name: dry vermouth

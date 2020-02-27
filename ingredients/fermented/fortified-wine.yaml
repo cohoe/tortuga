@@ -29,6 +29,12 @@
   slug: lillet-rouge
   kind: product
 
+- display_name: Lilletperitif
+  parent: quinquina
+  slug: lilletperitif
+  kind: custom
+  # 1 lillet, .5 cynar, .25 campari
+
 - display_name: Bonal Gentiane-Quina
   parent: quinquina
   slug: bonal-gentiane-quina

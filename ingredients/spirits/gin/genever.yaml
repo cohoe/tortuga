@@ -17,3 +17,8 @@
   parent: genever
   slug: bols-genever
   kind: product
+
+- display_name: Old Duff Genever
+  parent: genever
+  slug: old-duff-genever
+  kind: product

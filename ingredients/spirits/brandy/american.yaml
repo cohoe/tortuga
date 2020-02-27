@@ -1,0 +1,9 @@
+- display_name: American Grape Brandy
+  parent: grape-brandy
+  slug: american-grape-brandy
+  kind: ingredient
+
+- display_name: Bertoux Brandy
+  parent: american-grape-brandy
+  slug: bertoux-brandy
+  kind: product

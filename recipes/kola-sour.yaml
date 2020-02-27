@@ -9,10 +9,10 @@
     - name: original
       glassware: rocks
       ingredients:
-        - name: bank 5 island rum
+        - name: banks 5 island rum
           quantity: 1
           unit: oz
-        - name: meletti amaro
+        - name: amaro meletti
           quantity: 1
           unit: oz
         - name: orgeat
@@ -21,9 +21,9 @@
         - name: lemon juice
           quantity: .75
           unit: oz
-        - name: small egg white
+        - name: egg white
           quantity: 1
-        - name: bittercube vanilla cherry bark bitters
+        - name: bittercube cherry bark & vanilla bitters
           quantity: 1
           unit: dash
       construction: shake

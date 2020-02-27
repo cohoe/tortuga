@@ -17,7 +17,7 @@
     - name: original
       glassware: coupe
       ingredients:
-        - name: Rhum JM agricole blanc 
+        - name: j-m-rhum-blanc
           quantity: 1
           unit: oz
         - name: bertoux brandy
@@ -29,7 +29,7 @@
         - name: suze
           quantity: .5
           unit: oz
-        - name: honey syrup (3:1)
+        - name: super rich honey syrup
           quantity: .5
           unit: oz
         - name: simple syrup

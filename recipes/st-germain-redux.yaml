@@ -10,7 +10,8 @@
     - name: original
       glassware: wine
       ingredients:
-        - name: beefeater london dry gin, appleton estate v/x rum, siembra azul blanco tequila, compass box asyla scotch, calvados, or hine h cognac
+        - name: beefeater london dry gin
+          # or appleton estate v/x rum, siembra azul blanco tequila, compass box asyla scotch, calvados, or hine h cognac
           quantity: 1
           unit: oz
         - name: dry champagne

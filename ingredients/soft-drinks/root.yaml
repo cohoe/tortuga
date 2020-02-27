@@ -24,6 +24,11 @@
   slug: house-ginger-beer
   kind: custom
 
+- display_name: Fentimans Ginger Beer
+  parent: ginger-beer
+  slug: fentimans-ginger-beer
+  kind: product
+
 - display_name: Root Beer
   parent: root
   slug: root-beer

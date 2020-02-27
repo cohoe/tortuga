@@ -19,6 +19,16 @@
   slug: smirnoff-black-vodka
   kind: product
 
+- display_name: Smirnoff Vodka
+  parent: vodka
+  slug: smirnoff-vodka
+  kind: product
+
+- display_name: Charbay Vodka
+  parent: vodka
+  slug: charbay-vodka
+  kind: product
+
 - display_name: Stolichnaya Vodka
   parent: vodka
   slug: stolichnaya-vodka

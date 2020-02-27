@@ -7,7 +7,7 @@
     - name: original
       glassware: swizzle
       ingredients:
-        - name: avua cachaça prata
+        - name: avua prata cachaça
           quantity: 1
           unit: oz
         - name: jägermeister

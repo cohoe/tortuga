@@ -57,6 +57,11 @@
   slug: vya-dry-vermouth
   kind: product
 
+- display_name: Lofi Dry Vermouth
+  parent: dry-vermouth
+  slug: lofi-dry-vermouth
+  kind: product
+
 - display_name: Ancho Chile-Infused Dolin Rouge Vermouth
   parent: dolin-rouge-vermouth
   slug: ancho-chile-infused-dolin-rouge-vermouth
@@ -172,4 +177,9 @@
 - display_name: Vya Sweet Vermouth
   parent: sweet-vermouth
   slug: vya-sweet-vermouth
+  kind: product
+
+- display_name: "Otto's Athens Vermouth"
+  parent: vermouth
+  slug: ottos-athens-vermouth
   kind: product

@@ -32,3 +32,8 @@
   parent: new-western-gin
   slug: perrys-tot-navy-strength-gin
   kind: product
+
+- display_name: Privateer Tiki Gin
+  parent: new-western-gin
+  slug: privateer-tiki-gin
+  kind: product

@@ -28,3 +28,8 @@
   parent: tea
   slug: lipton-cold-brew-tea
   kind: product
+
+- display_name: Green Tea
+  parent: tea
+  slug: green-tea
+  kind: ingredient

@@ -27,3 +27,8 @@
   parent: calvados
   slug: busnel-vsop-calvados
   kind: product
+
+- display_name: Daron Fine Calvados
+  parent: calvados
+  slug: daron-fine-calvados
+  kind: product

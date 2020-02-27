@@ -9,7 +9,7 @@
     - name: original
       glassware: stemless wine
       ingredients:
-        - name: Lo-Fi dry vermouth
+        - name: Lofi dry vermouth
           quantity: 1
           unit: oz
         - name: pineapple juice
@@ -18,10 +18,10 @@
         - name: lime juice
           quantity: .5
           unit: oz
-        - name: giffard banana liqueur
+        - name: giffard-banane-du-bresil
           quantity: .25
           unit: oz
-        - name: velvet falernum
+        - name: john d taylors velvet falernum
           quantity: .25
           unit: oz
         - name: peychauds bitters

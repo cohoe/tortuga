@@ -14,7 +14,7 @@
         - name: luxardo maraschino liqueur
           quantity: .25
           unit: oz
-        - name: adam elmegirab's boker's bitters
+        - name: "boker's bitters"
           quantity: 2
           unit: dash
       construction: stir

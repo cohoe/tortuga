@@ -23,3 +23,8 @@
   parent: sugar
   slug: white-sugar
   kind: ingredient
+
+- display_name: Sugar Cubes
+  parent: white-sugar
+  slug: sugar-cubes
+  kind: ingredient

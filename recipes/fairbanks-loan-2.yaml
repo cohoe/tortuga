@@ -15,7 +15,7 @@
     - name: original
       glassware: coupe
       ingredients:
-        - name: beefeater gin
+        - name: beefeater london dry gin
           quantity: .75
           unit: oz
         - name: plantation pineapple rum

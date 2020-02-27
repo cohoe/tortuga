@@ -8,6 +8,11 @@
   slug: avua-amburana-cachaca
   kind: product
 
+- display_name: "Avu\xE1 Prata Cacha\xE7a"
+  parent: aged-cachaca
+  slug: avua-prata-cachaca
+  kind: product
+
 - display_name: "Beleza Pura Cacha\xE7a"
   parent: cachaca
   slug: beleza-pura-cachaca
@@ -31,6 +36,11 @@
 - display_name: "Leblon Cacha\xE7a"
   parent: cachaca
   slug: leblon-cachaca
+  kind: product
+
+- display_name: "Isaura Ouro Cacha\xE7a"
+  parent: aged-cachaca
+  slug: isaura-ouro-cachaca
   kind: product
 
 - display_name: "Sencha Green Tea-Infused Leblon Cacha\xE7a"
