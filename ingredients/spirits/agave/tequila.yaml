@@ -197,3 +197,8 @@
   parent: siembra-azul-blanco-tequila
   slug: spiced-pear-infused-siembra-azul-blanco-tequila
   kind: custom
+
+- display_name: Patrón Silver
+  parent: blanco-tequila
+  slug: patron-tequila
+  kind: product

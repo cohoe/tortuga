@@ -13,7 +13,7 @@
     - name: original
       glassware: rocks
       ingredients:
-        - name: raspberries
+        - name: raspberry
           quantity: 3
         - name: beefeater london dry gin
           quantity: 1.5

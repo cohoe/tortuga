@@ -141,6 +141,11 @@
   slug: blue-curacao
   kind: ingredient
 
+- display_name: Patrón Citrónge
+  parent: orange-liqueur
+  slug: patron-citronge
+  kind: product
+
 - display_name: Brandy Orange Liqueur
   parent: orange-liqueur
   slug: brandy-orange-liqueur
