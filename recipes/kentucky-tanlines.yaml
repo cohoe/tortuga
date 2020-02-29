@@ -9,7 +9,7 @@
     - name: original
       glassware: rocks
       ingredients:
-        - name: bourbon
+        - name: bourbon whiskey
           quantity: 1
           unit: oz
         - name: yaguara ouro cachaca

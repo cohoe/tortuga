@@ -9,7 +9,7 @@
     - name: original
       glassware: flute
       ingredients:
-        - name: laurent-perrier brut champagne
+        - name: laurent-perrier brut
           quantity: 5
           unit: oz
         - name: merlet crème de cassis

@@ -20,7 +20,7 @@
         - name: cane sugar syrup
           quantity: .5
           unit: tsp
-        - name: bittercube cherry bark and vanilla bitters
+        - name: bittercube-cherry-bark-vanilla-bitters
           quantity: 2
           unit: dash
       construction: stir

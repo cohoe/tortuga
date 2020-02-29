@@ -13,3 +13,8 @@
   parent: salt
   slug: kosher-salt
   kind: ingredient
+
+- display_name: Sea Salt
+  parent: salt
+  slug: sea-salt
+  kind: ingredient

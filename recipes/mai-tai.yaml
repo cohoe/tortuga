@@ -8,10 +8,10 @@
     - name: original
       glassware: UNKNOWN
       ingredients:
-        - name: clement premiere canne rhum
+        - name: clement premiere canne
           quantity: 1
           unit: oz
-        - name: appleton estate reserver rum
+        - name: appleton estate reserve rum
           quantity: 1
           unit: oz
         - name: lime juice

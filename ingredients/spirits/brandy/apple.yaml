@@ -8,6 +8,13 @@
   slug: lairds-bonded-apple-brandy
   kind: product
 
+- display_name: "Laird's Old Apple Brandy"
+  parent: apple-brandy
+  slug: lairds-old-apple-brandy
+  kind: product
+  aliases:
+    - "Laird's Old Apple Brandy - 7 1/2"
+
 - display_name: Applejack
   parent: apple-brandy
   slug: applejack
@@ -31,4 +38,9 @@
 - display_name: Daron Fine Calvados
   parent: calvados
   slug: daron-fine-calvados
+  kind: product
+
+- display_name: Domaine du Manoir de Montreuil Réserve
+  parent: calvados
+  slug: domaine-du-manoir-de-montreuil-reserve
   kind: product

@@ -9,7 +9,7 @@
     - name: original
       glassware: rocks
       ingredients:
-        - name: rittenhouse 100 rye
+        - name: rittenhouse 100 rye whiskey
           quantity: .5
           unit: oz
         - name: buffalo trace bourbon
@@ -18,7 +18,7 @@
         - name: calvados
           quantity: .5
           unit: oz
-        - name: hine h cognac
+        - name: hine h vsop cognac
           quantity: .5
           unit: oz
         - name: demerara syrup

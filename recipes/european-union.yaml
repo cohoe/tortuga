@@ -12,13 +12,13 @@
         - name: haymans old tom gin
           quantity: 1.5
           unit: oz
-        - name: martini sweet vermouth
+        - name: martini rossi sweet vermouth
           quantity: 1
           unit: oz
         - name: busnel VSOP calvados
           quantity: .5
           unit: oz
-        - name: strega
+        - name: strega liqueur
           quantity: 1
           unit: tsp
         - name: bitter truth aromatic bitters

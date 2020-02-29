@@ -73,3 +73,8 @@
   slug: super-rich-honey-syrup
   kind: ingredient
   # 3:1
+
+- display_name: "3:2 Simple Syrup"
+  parent: simple-syrup
+  slug: 3-2-simple-syrup
+  kind: custom

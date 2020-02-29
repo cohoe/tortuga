@@ -110,42 +110,47 @@
   slug: rhum-clement-creole-shrub
   kind: product
 
-- display_name: "Cura\xE7ao"
+- display_name: Triple Sec
   parent: orange-liqueur
-  slug: curacao
+  slug: triple-sec
   kind: ingredient
   aliases:
-    - Triple Sec
+    - "Cura\xE7ao"
 
 - display_name: "Gabriel Boudier Cura\xE7ao"
-  parent: curacao
+  parent: triple-sec
   slug: gabriel-boudier-curacao
   kind: product
 
 - display_name: "Marie Brizard Orange Cura\xE7ao"
-  parent: curacao
+  parent: triple-sec
   slug: marie-brizard-orange-curacao
   kind: product
 
 - display_name: "Pierre Ferrand Dry Cura\xE7ao"
-  parent: curacao
+  parent: triple-sec
   slug: pierre-ferrand-dry-curacao
   kind: product
 
 - display_name: Cointreau
-  parent: curacao
+  parent: triple-sec
   slug: cointreau
   kind: product
 
 - display_name: Original Combier
-  parent: curacao
+  parent: triple-sec
   slug: original-combier
   kind: product
 
 - display_name: "Blue Cura\xE7ao"
-  parent: curacao
+  parent: triple-sec
   slug: blue-curacao
   kind: ingredient
+
+- display_name: "Giffard Blue Cura\xE7ao"
+  parent: blue-curacao
+  slug: giffard-blue-curacao
+  kind: product
 
 - display_name: Patrón Citrónge
   parent: orange-liqueur
@@ -217,6 +222,11 @@
 - display_name: "Theuriet Cr\xE8me de Cassis"
   parent: creme-de-cassis
   slug: theuriet-creme-de-cassis
+  kind: product
+
+- display_name: "Merlet Cr\xE8me de Cassis"
+  parent: creme-de-cassis
+  slug: merlet-creme-de-cassis
   kind: product
 
 - display_name: Grapefruit Liqueur

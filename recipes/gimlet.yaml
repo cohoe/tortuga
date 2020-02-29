@@ -9,7 +9,7 @@
         location: Brooklyn NY
       glassware: coupe
       ingredients:
-        - name: tanqueray gin
+        - name: tanqueray london dry gin
           quantity: 2
           unit: oz
         - name: simple syrup
@@ -30,10 +30,10 @@
         location: New York NY
       glassware: coupe
       ingredients:
-        - name: tanqueray gin
+        - name: tanqueray london dry gin
           quantity: 2
           unit: oz
-        - name: 1.5:1 simple syrup
+        - name: 3:2 simple syrup
           quantity: .75
           unit: oz
         - name: lime juice

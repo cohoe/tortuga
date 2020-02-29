@@ -8,6 +8,11 @@
   slug: godiva-liqueur-dark
   kind: product
 
+- display_name: Sabra
+  parent: chocolate-liqueur
+  slug: sabra
+  kind: product
+
 - display_name: Godiva Original Liqueur
   parent: chocolate-liqueur
   slug: godiva-original-liqueur

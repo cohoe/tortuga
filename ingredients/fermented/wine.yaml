@@ -13,10 +13,22 @@
   parent: champagne
   slug: dry-champagne
   kind: ingredient
+  aliases:
+    - Brut Champagne
 
 - display_name: "Mo\xEBt Imperial Champagne"
   parent: champagne
   slug: moet-imperial-champagne
+  kind: product
+
+- display_name: "Laurent-Perrier Brut"
+  parent: dry-champagne
+  slug: laurent-perrier-brut
+  kind: product
+
+- display_name: "Louis Roederer Champagne Brut Primier"
+  parent: dry-champagne
+  slug: louis-roederer-champagne-brut-primier
   kind: product
 
 - display_name: Red Wine

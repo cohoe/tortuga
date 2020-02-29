@@ -202,3 +202,8 @@
   parent: blanco-tequila
   slug: patron-silver
   kind: product
+
+- display_name: Olmeca Altos Reposado Tequila
+  parent: reposado-tequila
+  slug: olmeca-altos-reposado-tequila
+  kind: product

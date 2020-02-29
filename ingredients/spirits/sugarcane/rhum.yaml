@@ -50,6 +50,11 @@
   slug: barbancourt-rhum-blanc
   kind: product
 
+- display_name: "Cl\xE9ment Première Canne"
+  parent: unaged-rhum
+  slug: clement-premiere-canne
+  kind: product
+
 - display_name: Granny Smith Apple-Infused Rhum Barbancourt
   parent: barbancourt-rhum-blanc
   slug: granny-smith-apple-infused-rhum-barbancourt

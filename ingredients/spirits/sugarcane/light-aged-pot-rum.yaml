@@ -12,3 +12,8 @@
   parent: lightly-aged-pot-still-rum
   slug: rum-bar-gold
   kind: product
+
+- display_name: Privateer Ambre Rum
+  parent: lightly-aged-pot-still-rum
+  slug: privateer-ambre-rum
+  kind: product

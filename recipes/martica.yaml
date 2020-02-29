@@ -10,13 +10,13 @@
     - name: original
       glassware: coupe
       ingredients:
-        - name: hine h cognac
+        - name: hine h vsop cognac
           quantity: 1
           unit: oz
-        - name: appleton estate v/x rum
+        - name: appleton signature rum
           quantity: 1
           unit: oz
-        - name: carpano antica formula vermout
+        - name: carpano antica formula vermouth
           quantity: .75
           unit: oz
         - name: luxardo maraschino liqueur

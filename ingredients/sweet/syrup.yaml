@@ -24,6 +24,11 @@
   slug: kassatly-chtaura-orgeat
   kind: product
 
+- display_name: Small Hand Foods Orgeat
+  parent: orgeat
+  slug: small-hand-foods-orgeat
+  kind: product
+
 - display_name: Pomegranate Molasses
   parent: syrup
   slug: pomegranate-molasses

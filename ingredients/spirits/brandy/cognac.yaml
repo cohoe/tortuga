@@ -28,9 +28,9 @@
   slug: hine-h-vsop-cognac
   kind: product
 
-- display_name: Walnut-Infused Hine V.S.O.P. Cognac
+- display_name: Walnut-Infused Hine VSOP Cognac
   parent: hine-h-vsop-cognac
-  slug: walnut-infused-hine-v-s-o-p-cognac
+  slug: walnut-infused-hine-vsop-cognac
   kind: custom
 
 - display_name: Louis Royer Force 53 Cognac
@@ -38,9 +38,9 @@
   slug: louis-royer-force-53-cognac
   kind: product
 
-- display_name: Martell V.S.O.P. Cognac
+- display_name: Martell VSOP Cognac
   parent: cognac
-  slug: martell-v-s-o-p-cognac
+  slug: martell-vsop-cognac
   kind: product
 
 - display_name: Pierre Ferrand 1840 Cognac
@@ -53,7 +53,7 @@
   slug: pierre-ferrand-ambre-cognac
   kind: product
 
-- display_name: "R\xE9my Martin V.S.O.P. Cognac"
+- display_name: "R\xE9my Martin VSOP Cognac"
   parent: cognac
-  slug: remy-martin-v-s-o-p-cognac
+  slug: remy-martin-vsop-cognac
   kind: product

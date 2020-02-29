@@ -13,7 +13,7 @@
     - name: original
       glassware: coupe
       ingredients:
-        - name: barbanbcourt white rum
+        - name: barbancourt-rhum-blanc
           quantity: 2
           unit: oz
         - name: del maguey vida mezcal

@@ -14,10 +14,10 @@
     - name: original
       glassware: coupe
       ingredients:
-        - name: hine h cognac
+        - name: hine h vsop cognac
           quantity: 1.5
           unit: oz
-        - name: east india solera sherry
+        - name: lustau east india sherry
           quantity: .5
           unit: oz
         - name: grand marnier

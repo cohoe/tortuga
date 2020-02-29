@@ -43,6 +43,11 @@
   slug: isaura-ouro-cachaca
   kind: product
 
+- display_name: "Yaguara Ouro Cacha\xE7a"
+  parent: aged-cachaca
+  slug: yaguara-ouro-cachaca
+  kind: product
+
 - display_name: "Sencha Green Tea-Infused Leblon Cacha\xE7a"
   parent: leblon-cachaca
   slug: sencha-green-tea-infused-leblon-cachaca

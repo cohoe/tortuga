@@ -92,3 +92,8 @@
   parent: bourbon-whiskey
   slug: woodford-reserve-bourbon
   kind: product
+
+- display_name: Old Forester 86-Proof Bourbon
+  parent: bourbon-whiskey
+  slug: old-forester-86-proof-bourbon
+  kind: product

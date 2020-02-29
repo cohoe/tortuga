@@ -7,7 +7,7 @@
     - name: original
       glassware: rocks
       ingredients:
-        - name: bourbon
+        - name: bourbon whiskey
           quantity: 2
           unit: oz
         - name: lemon juice

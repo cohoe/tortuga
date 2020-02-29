@@ -17,7 +17,7 @@
         - name: simple syrup
           quantity: .5
           unit: oz
-        - name: brut champagne
+        - name: dry champagne
           quantity: 1
           unit: oz
       construction: shake
@@ -36,7 +36,7 @@
         venue: The Long Island Bar
       glassware: flute
       ingredients:
-        - name: h by hine cognac
+        - name: hine h vsop cognac
           quantity: 1
           unit: oz
         - name: lemon juice
@@ -71,7 +71,7 @@
         - name: lemon juice
           quantity: 1
           unit: oz
-        - name: cane syrup
+        - name: cane sugar syrup
           quantity: .75
           unit: oz
         - name: orange bitters

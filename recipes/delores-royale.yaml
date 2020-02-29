@@ -18,7 +18,7 @@
         - name: del maguey vida mezcal
           quantity: 1
           unit: oz
-        - name: lustau los arcos amontillado sherry
+        - name: lustau-amontillado-sherry
           quantity: .75
           unit: oz
         - name: lime juice

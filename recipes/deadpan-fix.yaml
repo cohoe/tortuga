@@ -10,7 +10,7 @@
     - name: original
       glassware: coupe
       ingredients:
-        - name: rittenhouse 100 rye
+        - name: rittenhouse 100 rye whiskey
           quantity: 1.5
           unit: oz
         - name: campari

@@ -9,7 +9,7 @@
     - name: original
       glassware: coupe
       ingredients:
-        - name: bacardi superior
+        - name: bacardi superior rum
           quantity: 1.66
           unit: oz
         - name: lemon juice
