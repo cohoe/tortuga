@@ -1,0 +1,28 @@
+---
+- display_name: PB&J
+  status: red
+  origin:
+    venue: Dinky
+    location: Princeton NJ
+  specs:
+    - name: original
+      glassware: rocks
+      ingredients:
+        - name: screwball peanut buter whiskey
+          quantity: .75
+          unit: oz
+        - name: rye
+          quantity: .75
+          unit: oz
+        - name: st george raspberry
+          quantity: .5
+          unit: oz
+        - name: angostura bitters
+          quantity: 4
+          unit: dash
+      construction: stir
+      instructions:
+        - stir all ingredients with ice and strain into a rocks glass over a large ice cube
+      garnish:
+      straw: false
+      citations:
