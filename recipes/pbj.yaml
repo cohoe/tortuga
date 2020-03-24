@@ -8,13 +8,13 @@
     - name: original
       glassware: rocks
       ingredients:
-        - name: screwball peanut buter whiskey
+        - name: screwball peanut butter whiskey
           quantity: .75
           unit: oz
-        - name: rye
+        - name: rittenhouse-100-rye-whiskey
           quantity: .75
           unit: oz
-        - name: st george raspberry
+        - name: st george raspberry liqueur
           quantity: .5
           unit: oz
         - name: angostura bitters

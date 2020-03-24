@@ -353,6 +353,11 @@
   slug: chambord-raspberry-liqueur
   kind: product
 
+- display_name: St. George Raspberry Liqueur
+  parent: raspberry-liqueur
+  slug: st-george-raspberry-liqueur
+  kind: product
+
 - display_name: Bacardi Tropico
   parent: fruit-liqueur
   slug: bacardi-tropico

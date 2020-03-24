@@ -22,3 +22,8 @@
   parent: american-whiskey
   slug: high-west-silver-oat-whiskey
   kind: product
+
+- display_name: Screwball Peanut Butter Whiskey
+  parent: american-whiskey
+  slug: screwball-peanut-butter-whiskey
+  kind: product
