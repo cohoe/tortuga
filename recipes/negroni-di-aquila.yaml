@@ -9,7 +9,7 @@
   specs:
     - name: original
       glassware: goblet
-      ingredients:
+      components:
         - name: aperol
           quantity: 1
           unit: oz

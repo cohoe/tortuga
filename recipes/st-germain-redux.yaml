@@ -9,7 +9,7 @@
   specs:
     - name: original
       glassware: wine
-      ingredients:
+      components:
         - name: beefeater london dry gin
           # or appleton estate v/x rum, siembra azul blanco tequila, compass box asyla scotch, calvados, or hine h cognac
           quantity: 1

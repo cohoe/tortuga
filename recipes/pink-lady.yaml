@@ -5,7 +5,7 @@
   specs:
     - name: original
       glassware: UNKNOWN
-      ingredients:
+      components:
         - name: plymouth gin
           quantity: 1.5
           unit: oz

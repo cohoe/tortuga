@@ -6,7 +6,7 @@
   specs:
     - name: original
       glassware: rocks
-      ingredients:
+      components:
         - name: cruzan black strap rum
           quantity: 2
           unit: oz

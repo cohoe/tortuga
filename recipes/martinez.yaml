@@ -4,7 +4,7 @@
   specs:
     - name: PDT
       glassware: coupe
-      ingredients:
+      components:
         - name: hayman's old tom gin
           quantity: 1.5
           unit: oz
@@ -30,7 +30,7 @@
       origin:
         venue: Dante NYC
         location: Brooklyn NY
-      ingredients:
+      components:
         - name: otto's athens vermouth
           quantity: 2
           unit: oz

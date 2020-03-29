@@ -8,7 +8,7 @@
   specs:
     - name: original
       glassware: flask
-      ingredients:
+      components:
         - name: rittenhouse 100 rye whiskey
           quantity: .75
           unit: oz

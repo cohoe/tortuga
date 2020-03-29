@@ -8,7 +8,7 @@
   specs:
     - name: original
       glassware: highball
-      ingredients:
+      components:
         - name: cinnamon syrup
           quantity: .5
           unit: oz

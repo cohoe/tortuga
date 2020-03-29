@@ -7,7 +7,7 @@
   specs:
     - name: original
       glassware: rocks
-      ingredients:
+      components:
         - name: screwball peanut butter whiskey
           quantity: .75
           unit: oz

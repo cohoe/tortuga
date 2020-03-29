@@ -7,7 +7,7 @@
   specs:
     - name: original
       glassware: coupe
-      ingredients:
+      components:
         - name: london dry gin
           quantity: 1
           unit: oz
@@ -35,7 +35,7 @@
         creator: Tim Miner
         venue: The Long Island Bar
       glassware: flute
-      ingredients:
+      components:
         - name: hine h vsop cognac
           quantity: 1
           unit: oz
@@ -64,7 +64,7 @@
         creator: Sarah Morrissey
         venue: Frenchette
       glassware: flute
-      ingredients:
+      components:
         - name: plymouth gin
           quantity: 1.5
           unit: oz

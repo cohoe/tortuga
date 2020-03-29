@@ -8,7 +8,7 @@
   specs:
     - name: original
       glassware: wine
-      ingredients:
+      components:
         - name: fino sherry
           quantity: 1.5
           unit: oz

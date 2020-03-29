@@ -6,7 +6,7 @@
   specs:
     - name: original
       glassware: UNKNOWN
-      ingredients:
+      components:
         - name: olmeca altos reposado tequila
           quantity: 2
           unit: oz

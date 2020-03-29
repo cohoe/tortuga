@@ -7,7 +7,7 @@
   specs:
     - name: original
       glassware: highball
-      ingredients:
+      components:
         - name: patrón silver
           quantity: 1.5
           unit: oz

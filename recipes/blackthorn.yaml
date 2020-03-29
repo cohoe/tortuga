@@ -14,7 +14,7 @@
         venue: Lazy Bird
         location: Chicago IL
       glassware: rocks
-      ingredients:
+      components:
         - name: knappogue-castle-12-year-irish-whiskey
           quantity: 2
           unit: oz

@@ -5,7 +5,7 @@
   specs:
     - name: original
       glassware: coupe
-      ingredients:
+      components:
         - name: old grand-dad 114 bourbon
           quantity: 1.5
           unit: oz

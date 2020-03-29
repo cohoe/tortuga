@@ -13,7 +13,7 @@
   specs:
     - name: original
       glassware: rocks
-      ingredients:
+      components:
         - name: mezcal
           quantity: 1.75
           unit: oz
@@ -36,7 +36,7 @@
       # @TODO
 #    - name: charred pineapple syrup
 #      glassware: bottle
-#      ingredients:
+#      components:
 #        - name: charred pineapple
 #          quantity: 250
 #          unit: gram

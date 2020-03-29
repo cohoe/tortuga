@@ -7,7 +7,7 @@
   specs:
     - name: original
       glassware: tiki
-      ingredients:
+      components:
         - name: old monk 7-year rum
           quantity: .75
           unit: oz

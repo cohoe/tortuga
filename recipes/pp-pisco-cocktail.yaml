@@ -10,7 +10,7 @@
   specs:
     - name: original
       glassware: collins
-      ingredients:
+      components:
         - name: pisco
           quantity: 1
           unit: oz

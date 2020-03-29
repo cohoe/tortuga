@@ -12,7 +12,7 @@
   specs:
     - name: original
       glassware: flute
-      ingredients:
+      components:
         - name: plymouth gin
           quantity: 1
           unit: oz

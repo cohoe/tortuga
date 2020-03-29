@@ -8,7 +8,7 @@
   specs:
     - name: original
       glassware: UNKNOWN
-      ingredients:
+      components:
         - name: bourbon whiskey
           quantity: 1
           unit: oz

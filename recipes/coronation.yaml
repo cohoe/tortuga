@@ -15,7 +15,7 @@
         location:
         year:
       glassware: martini
-      ingredients:
+      components:
         - name: manzanilla sherry
           quantity: 2
           unit: oz

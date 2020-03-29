@@ -6,7 +6,7 @@
   specs:
     - name: original
       glassware: mug
-      ingredients:
+      components:
         - name: apple brandy
           quantity: 1.5
           unit: oz

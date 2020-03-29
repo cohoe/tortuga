@@ -8,7 +8,7 @@
   specs:
     - name: original
       glassware: highball
-      ingredients:
+      components:
         - name: hendricks gin
           quantity: 1.5
           unit: oz

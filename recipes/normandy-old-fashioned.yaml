@@ -11,7 +11,7 @@
   specs:
     - name: original
       glassware: rocks
-      ingredients:
+      components:
         - name: domaine du manoir de montreuil reserve
           quantity: 1.5
           unit: oz

@@ -8,7 +8,7 @@
   specs:
     - name: original
       glassware: rocks
-      ingredients:
+      components:
         - name: banks 5 island rum
           quantity: 1
           unit: oz

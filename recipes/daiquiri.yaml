@@ -6,7 +6,7 @@
   specs:
     - name: original
       glassware: coupe
-      ingredients:
+      components:
         - name: lightly aged column still rum
           quantity: 2
           unit: oz

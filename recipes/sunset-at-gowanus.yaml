@@ -13,7 +13,7 @@
   specs:
     - name: original
       glassware: coupe
-      ingredients:
+      components:
         - name: santa teresa 1796 rum
           quantity: 2
           unit: oz

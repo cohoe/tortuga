@@ -5,7 +5,7 @@
   specs:
     - name: original
       glassware: martini
-      ingredients:
+      components:
         - name: london dry gin
           quantity: 1.5
           unit: oz

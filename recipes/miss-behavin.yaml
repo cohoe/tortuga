@@ -9,7 +9,7 @@
   specs:
     - name: original
       glassware: flute
-      ingredients:
+      components:
         - name: clear creek pear brandy
           quantity: .75
           unit: oz

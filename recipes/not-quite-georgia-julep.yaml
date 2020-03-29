@@ -9,7 +9,7 @@
   specs:
     - name: original
       glassware: julep
-      ingredients:
+      components:
         - name: cognac
           quantity: 1
           unit: oz

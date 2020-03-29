@@ -9,7 +9,7 @@
   specs:
     - name: original
       glassware: coupe
-      ingredients:
+      components:
         - name: hine h vsop cognac
           quantity: 1
           unit: oz

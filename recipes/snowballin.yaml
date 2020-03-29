@@ -9,7 +9,7 @@
   specs:
     - name: original
       glassware: collins
-      ingredients:
+      components:
         - name: sexton irish whiskey
           quantity: 1.5
           unit: oz

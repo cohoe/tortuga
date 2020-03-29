@@ -8,7 +8,7 @@
         venue: Clover Club
         location: Brooklyn NY
       glassware: coupe
-      ingredients:
+      components:
         - name: tanqueray london dry gin
           quantity: 2
           unit: oz
@@ -29,7 +29,7 @@
         venue: Frenchette
         location: New York NY
       glassware: coupe
-      ingredients:
+      components:
         - name: tanqueray london dry gin
           quantity: 2
           unit: oz

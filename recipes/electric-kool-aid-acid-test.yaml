@@ -13,7 +13,7 @@
   specs:
     - name: original
       glassware: pilsner
-      ingredients:
+      components:
         - name: siembra azul blanco tequila
           quantity: 1
           unit: oz

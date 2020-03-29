@@ -6,7 +6,7 @@
   specs:
     - name: original
       glassware: swizzle
-      ingredients:
+      components:
         - name: avua prata cachaça
           quantity: 1
           unit: oz

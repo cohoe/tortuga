@@ -7,7 +7,7 @@
   specs:
     - name: original
       glassware: UNKNOWN
-      ingredients:
+      components:
         - name: clement premiere canne
           quantity: 1
           unit: oz

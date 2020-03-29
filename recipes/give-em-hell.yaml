@@ -9,7 +9,7 @@
   specs:
     - name: original
       glassware: bowl
-      ingredients:
+      components:
         - name: sexton irish whiskey
           quantity: 1
           unit: oz

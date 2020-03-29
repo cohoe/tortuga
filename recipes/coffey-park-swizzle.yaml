@@ -13,7 +13,7 @@
   specs:
     - name: original
       glassware: pilsner
-      ingredients:
+      components:
         - name: barbancourt 3-star rum
           quantity: 1
           unit: oz

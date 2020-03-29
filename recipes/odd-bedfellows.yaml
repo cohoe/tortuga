@@ -6,7 +6,7 @@
   specs:
     - name: original
       glassware: fancy fizz
-      ingredients:
+      components:
         - name: fernet-branca
           quantity: 1
           unit: oz

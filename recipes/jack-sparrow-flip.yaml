@@ -9,7 +9,7 @@
   specs:
     - name: original
       glassware: fizz
-      ingredients:
+      components:
         - name: flor-de-cana-7-year-rum
           quantity: 2
           unit: oz

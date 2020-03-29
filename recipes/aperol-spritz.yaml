@@ -5,7 +5,7 @@
   specs:
     - name: original
       glassware: wine
-      ingredients:
+      components:
         - name: prosecco
           quantity: 3
           unit: oz

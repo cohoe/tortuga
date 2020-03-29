@@ -5,7 +5,7 @@
   specs:
     - name: original
       glassware: rocks
-      ingredients:
+      components:
         - name: apple brandy
           quantity: .75
           unit: oz

@@ -10,7 +10,7 @@
         creator: Trader Vic
         year: 1947
       glassware: coupe
-      ingredients:
+      components:
         - name: swedish punsch
           quantity: 1.5
           unit: oz

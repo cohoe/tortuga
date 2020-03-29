@@ -15,7 +15,7 @@
         location:
         year:
       glassware: highball
-      ingredients:
+      components:
         - name: beefeater london dry gin
           quantity: 2
           unit: oz

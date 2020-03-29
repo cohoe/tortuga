@@ -11,7 +11,7 @@
       origin:
         venue: Please Don't Tell
         location: New York NY
-      ingredients:
+      components:
         - name: fentimans ginger beer
           quantity: 4
           unit: oz
@@ -40,7 +40,7 @@
       origin:
         venue: Death & Co
         location: New York NY
-      ingredients:
+      components:
         - name: charbay vodka
           quantity: 2
           unit: oz

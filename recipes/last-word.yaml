@@ -5,7 +5,7 @@
   specs:
     - name: original
       glassware: coupe
-      ingredients:
+      components:
         - name: beefeater london dry gin
           quantity: .75
           unit: oz

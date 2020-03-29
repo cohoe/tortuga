@@ -10,7 +10,7 @@
   specs:
     - name: original
       glassware: coupe
-      ingredients:
+      components:
         - name: yellow chartreuse
           quantity: .75
           unit: oz

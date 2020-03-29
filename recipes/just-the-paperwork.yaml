@@ -6,7 +6,7 @@
   specs:
     - name: original
       glassware: rocks
-      ingredients:
+      components:
         - name: amaro nonino
           quantity: 1.5
           unit: oz

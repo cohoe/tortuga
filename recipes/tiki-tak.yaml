@@ -8,7 +8,7 @@
   specs:
     - name: original
       glassware: stemless wine
-      ingredients:
+      components:
         - name: Lofi dry vermouth
           quantity: 1
           unit: oz

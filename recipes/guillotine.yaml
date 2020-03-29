@@ -8,7 +8,7 @@
   specs:
     - name: original
       glassware: snifter
-      ingredients:
+      components:
         - name: mezcal
           quantity: 1
           unit: oz

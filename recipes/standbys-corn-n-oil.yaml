@@ -8,7 +8,7 @@
   specs:
     - name: original
       glassware: collins
-      ingredients:
+      components:
         - name: aged rum
           quantity: 1
           unit: oz

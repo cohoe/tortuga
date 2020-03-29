@@ -5,7 +5,7 @@
   specs:
     - name: Death & Co
       glassware: coupe
-      ingredients:
+      components:
         - name: rittenhouse 100 rye whiskey
           quantity: 2.5
           unit: oz
@@ -34,7 +34,7 @@
         - house sweet vermouth is equal parts dolin rouge and punt e mes
     - name: original
       glassware: rocks
-      ingredients:
+      components:
         - name: rye whiskey
           quantity: 2
           unit: oz

@@ -5,7 +5,7 @@
   specs:
     - name: original
       glassware: collins
-      ingredients:
+      components:
         - name: mezcal
           quantity: 1
           unit: oz

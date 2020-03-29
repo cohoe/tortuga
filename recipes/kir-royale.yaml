@@ -8,7 +8,7 @@
   specs:
     - name: original
       glassware: flute
-      ingredients:
+      components:
         - name: laurent-perrier brut
           quantity: 5
           unit: oz

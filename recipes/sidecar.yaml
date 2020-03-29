@@ -7,7 +7,7 @@
   specs:
     - name: original
       glassware: coupe
-      ingredients:
+      components:
         - name: rémy martin VSOP cognac
           quantity: 2
           unit: oz

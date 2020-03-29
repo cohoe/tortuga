@@ -15,7 +15,7 @@
   specs:
     - name: original
       glassware: coupe
-      ingredients:
+      components:
         - name: amontillado sherry
           quantity: 1.5
           unit: oz

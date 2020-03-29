@@ -9,7 +9,7 @@
   specs:
     - name: original
       glassware: highball
-      ingredients:
+      components:
         - name: laird's bonded apple brandy
           quantity: 2
           unit: oz

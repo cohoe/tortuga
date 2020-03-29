@@ -4,7 +4,7 @@
   specs:
     - name: original
       glassware: nicknora
-      ingredients:
+      components:
         - name: rittenhouse 100 rye whiskey
           quantity: 2
           unit: oz

@@ -13,7 +13,7 @@
   specs:
     - name: original
       glassware: coupe
-      ingredients:
+      components:
         - name: russell's reserve rye whiskey
           quantity: 1
           unit: oz

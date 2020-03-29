@@ -7,7 +7,7 @@
   specs:
     - name: original
       glassware: rocks
-      ingredients:
+      components:
         - name: plantation pineapple rum
           quantity: 2
           unit: oz

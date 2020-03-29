@@ -13,7 +13,7 @@
   specs:
     - name: original
       glassware: coupe
-      ingredients:
+      components:
         - name: old forester 86-proof bourbon
           quantity: 1
           unit: oz
