@@ -30,7 +30,8 @@
         - add the remaining ingredients and stir over ice
         - double strain into a double rocks glass over 1 large ice cube
       garnish:
-        - 1 raspberry
+        - name: raspberry
+          quantity: 1
       straw: false
       citations:
         - title: 'Death & Co: Modern Classic Cocktails'

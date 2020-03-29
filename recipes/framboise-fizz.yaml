@@ -25,7 +25,9 @@
       instructions:
         - shake with ice, then strain into a chilled egg coupe
       garnish:
-        - 3 raspberries on a pick
+        - name: raspberry
+          quantity: 3
+          note: on a pick
       straw: false
       citations:
         - title: PDT Cocktails

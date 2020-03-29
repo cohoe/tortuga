@@ -28,7 +28,9 @@
         - dry shake all the ingredients, then shake again with ice
         - double strain into a rocks glass over 1 large ice cube
       garnish:
-        - 3 brandied cherries on a cocktail pick
+        - name: brandied cherry
+          quantity: 3
+          note: on a cocktail pick
       straw: false
       citations:
         - title: Death & Co
