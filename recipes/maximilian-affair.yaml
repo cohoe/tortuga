@@ -1,0 +1,36 @@
+---
+- display_name: Maximilian Affair
+  status: red
+  origin:
+    creator: Misty Kalkofen
+    venue: Green Street
+    location: Cambridge MA
+    story: >-
+      Misty Kalkofen at Green Street invented this drink for Ron Cooper
+      of Del Maguey who was a guest at her bar that night.
+  specs:
+    - name: original
+      components:
+        - name: mezcal
+          quantity: 1
+          unit: oz
+        - name: st-germain
+          quantity: 1
+          unit: oz
+        - name: punt-e-mes
+          quantity: .5
+          unit: oz
+        - name: lemon-juice
+          quantity: .5
+          unit: oz
+      construction: shake
+      instructions:
+        - shake with ice and strain into a cocktail glass
+      straw: false
+      notes:
+      citations:
+        - title: 'Drink & Tell: A Boston Cocktail Book'
+          author: Frederic Yarm
+          date: 2012-09-03
+          publisher: Cocktail Virgin Industries
+          page: 108
