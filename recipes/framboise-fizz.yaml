@@ -27,7 +27,8 @@
       garnish:
         - name: raspberry
           quantity: 3
-          note: on a pick
+          notes:
+            - on a pick
       straw: false
       citations:
         - title: PDT Cocktails

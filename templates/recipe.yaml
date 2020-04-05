@@ -1,0 +1,63 @@
+---
+- display_name:
+  status: red
+  origin:
+    creator:
+    venue:
+    location:
+    year:
+    era:
+    story:
+  specs:
+    - name: original
+      origin:
+        creator:
+        venue:
+        location:
+        year:
+        story:
+      glassware:
+      components:
+        - name:
+          quantity: 1.5
+          unit: oz
+      construction: shake
+      instructions:
+        - one
+      garnish:
+        - name: thing
+          quantity: 2
+          notes:
+            - one
+            - two
+      straw: false
+      citations:
+        - title:
+          author:
+          date:
+          publisher:
+          page:
+          href:
+          issue:
+      images:
+        - text:
+          href:
+          credit:
+  citations:
+    - title:
+      author:
+      date:
+      publisher:
+      page:
+      href:
+      issue:
+  images:
+    - text:
+      href:
+      credit:
+  notes:
+    - foobar
+    - bazwat
+  tags:
+    - tag_one
+    - tag_two

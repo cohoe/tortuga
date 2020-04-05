@@ -30,7 +30,8 @@
       garnish:
         - name: brandied cherry
           quantity: 3
-          note: on a cocktail pick
+          notes:
+            - on a cocktail pick
       straw: false
       citations:
         - title: Death & Co
