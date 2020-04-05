@@ -1,63 +1,537 @@
 ---
+  ## Attribute: display_name
+  ## Type: String
+  ## Description: The stylized name of a drink.
+  ## Optional: no
+  ## Examples:
+  ##   * - display_name: Mezcal Mule
+  ##   * - display_name: La Viáa
 - display_name:
-  status: red
+  ##
+  ## Attribute: status
+  ## Type: Enum[String]
+  ## Description: Personal code for whether I can make this or not.
+  ##              Is slated for deprecation.
+  ## Optional: yes
+  ## Possible Values: "red", "yellow", "green"
+  status:
+  ##
+  ## Attribute: origin
+  ## Type: Hash
+  ## Description: Origin object. All values are sub-fields.
+  ## Optional: no
   origin:
+    ##
+    ## Attribute: creator
+    ## Type: String
+    ## Description: Stylized name of the person who created this drink.
+    ## Optional: yes
+    ## Examples:
+    ##   * creator: Joaquín Simó
+    ##   * creator: Sother Teague
     creator:
+    ##
+    ## Attribute: venue
+    ## Type: String
+    ## Description: Stylized name of the bar or other establishment where
+    ##              the drink was created.
+    ## Optional: yes
+    ## Examples:
+    ##   * venue: Death & Co
+    ##   * venue: Drink
     venue:
+    ##
+    ## Attribute: location
+    ## Type: String
+    ## Description: As specific place as possible where a drink was created.
+    ##              This may be a city or country. No formatting is enforced.
+    ## Optional: yes
+    ## Examples:
+    ##   * location: Boston MA
+    ##   * location: Mexico
     location:
+    ##
+    ## Attribute: year
+    ## Type: Integer
+    ## Description: The year that the drink was created. If a specific
+    ##              year is unknown, see "era" below.
+    ## Optional: yes
+    ## Examples:
+    ##   * year: 2008
     year:
+    ##
+    ## Attribute: era
+    ## Type: String
+    ## Description: The era that the drink was created. Only to be used
+    ##              if year is not specific enough.
+    ## Optional: yes
+    ## Examples:
+    ##   * era: 2008
     era:
+    ##
+    ## Attribute: story
+    ## Type: String
+    ## Description: A tale of the creation or evolution of this drink.
+    ## Optional: yes
+    ## Examples:
+    ##   * story: >-
+    ##       A long long time ago, in a galaxy far away,
+    ##       Naboo was under an attack.
     story:
+  ##
+  ## Attribute: specs
+  ## Type: Array
+  ## Description: List of various specs of this drink. A spec is a specific
+  ##              implementation of the drink. Specs can vary by bar or by
+  ##              even be considered different "drinks". Some level of
+  ##              descretion is needed here.
+  ## Optional: no
   specs:
+      ##
+      ## Attribute: name
+      ## Type: String
+      ## Description: Display name of this spec. Usually associated with
+      ##              a particular bar.
+      ## Optional: no
+      ## Examples:
+      ##  * name: original
+      ##  * name: PDT
     - name: original
+      ##
+      ## Attribute: origin
+      ## Type: Hash
+      ## Description: Origin object. All values are sub-fields.
+      ## Optional: no
       origin:
+        ##
+        ## Attribute: creator
+        ## Type: String
+        ## Description: Stylized name of the person who created this spec.
+        ## Optional: yes
+        ## Examples:
+        ##   * creator: Joaquín Simó
+        ##   * creator: Sother Teague
         creator:
+        ##
+        ## Attribute: venue
+        ## Type: String
+        ## Description: Stylized name of the bar or other establishment where
+        ##              the spec was created.
+        ## Optional: yes
+        ## Examples:
+        ##   * venue: Death & Co
+        ##   * venue: Drink
         venue:
+        ##
+        ## Attribute: location
+        ## Type: String
+        ## Description: As specific place as possible where a spec was created.
+        ##              This may be a city or country. No formatting is enforced.
+        ## Optional: yes
+        ## Examples:
+        ##   * location: Boston MA
+        ##   * location: Mexico
         location:
+        ##
+        ## Attribute: year
+        ## Type: Integer
+        ## Description: The year that the spec was created. If a specific
+        ##              year is unknown, see "era" below.
+        ## Optional: yes
+        ## Examples:
+        ##   * year: 2008
         year:
+        ##
+        ## Attribute: era
+        ## Type: String
+        ## Description: The era that the spec was created. Only to be used
+        ##              if year is not specific enough.
+        ## Optional: yes
+        ## Examples:
+        ##   * era: 2008
+        era:
+        ##
+        ## Attribute: story
+        ## Type: String
+        ## Description: A tale of the creation or evolution of this spec.
+        ## Optional: yes
+        ## Examples:
+        ##   * story: >-
+        ##       A long long time ago, in a galaxy far away,
+        ##       Naboo was under an attack.
         story:
+      ##
+      ## Attribute: glassware
+      ## Type: String
+      ## Description: Type of glass that should be used. Currently a freeform
+      ##              String but will likely get some enforcement someday.
+      ## Optional: yes
+      ## Examples:
+      ##  * glassware: rocks
+      ##  * glassware: highball
       glassware:
+      ##
+      ## Attribute: components
+      ## Type: Array[Hash]
+      ## Description: Ordered list of ingredients needed to prepare this spec.
+      ##              Each element in the array is a hash describing the
+      ##              ingredient/quantity. An example is provided below.
+      ## Optional: no
       components:
+          ##
+          ## Attribute: name
+          ## Type: String
+          ## Description: Slugable name of the ingredient. This is referenced
+          ##              against the database of ingredients.
+          ## Optional: no
+          ## Examples:
+          ##   * name: aged-rum
+          ##   * name: del maguey vida mezcal
         - name:
-          quantity: 1.5
-          unit: oz
-      construction: shake
+          ##
+          ## Attribute: quantity
+          ## Type: Float
+          ## Description: Quantity of the ingredient in the specified unit
+          ##              which is described in another field. Can be omitted
+          ##              in certain cases such as a rinse.
+          ## Optional: yes
+          ## Examples:
+          ##   * 1.5
+          ##   * .75
+          quantity:
+          ##
+          ## Attribute: unit
+          ## Type: String
+          ## Description: Unit of measure for this component. Can be omitted
+          ##              in certain cases such as muddling while citrus.
+          ## Optional: yes
+          ## Examples:
+          ##    * oz
+          ##    * dash
+          unit:
+      ##
+      ## Attribute: construction
+      ## Type: Enum[String]
+      ## Description: Construction method of the spec. This is currently
+      ##              not enforced but will be.
+      ## Optional: no
+      ## Possible Values: shake, stir, build, swizzle
+      ## Examples:
+      ##   * construction: shake
+      ##   * construction: stir
+      construction:
+      ##
+      ## Attribute: instructions
+      ## Type: Array
+      ## Description: List of ordered but unformatted instructions. Beginning
+      ##              capitals and trailing periods are not required but will
+      ##              be honored, as will mid-sentense formatting. It is best
+      ##              to have each element be a sentense. Do not describe garnish
+      ##              here as those come later. At some point these may get
+      ##              auto-generated and only overriden as necessary.
+      ## Optional: no
+      ## Examples:
+      ##   * instructions:
+      ##       - shake with ice and strain into a glass
       instructions:
-        - one
+      ##
+      ## Attribute: garnish
+      ## Type: Array[Hash]
+      ## Description: List of Garnish objects (described in example below).
+      ##              An empty list (or undefined) assumes no garnishes.
+      ## Optional: yes
       garnish:
-        - name: thing
-          quantity: 2
+          ##
+          ## Attribute: name
+          ## Type: String
+          ## Description: Slugable name of the garnish. This is referenced
+          ##              against the database of ingredients. Should be
+          ##              singular.
+          ## Optional: no
+          ## Examples:
+          ##   * name: lime wedge
+          ##   * name: raspberry
+        - name:
+          ##
+          ## Attribute: quantity
+          ## Type: Float
+          ## Description: Quantity of the garnish. Undefined assumes 1.
+          ## Optional: yes
+          ## Examples:
+          ##   * quantity: 3
+          ##   * quantity: 1
+          quantity:
+          ##
+          ## Attribute: notes
+          ## Type: Array[String]
+          ## Description: Notes describing the preparation of the garnish.
+          ##              Presentation style of these has not yet been defined.
+          ##              Like the instructions, formatting is not required.
+          ## Optional: yes
+          ## Examples:
+          ##    * notes:
+          ##        - on a pick
+          ##        - flaming
           notes:
-            - one
-            - two
+      ##
+      ## Attribute: straw
+      ## Type: Boolean
+      ## Description: Should a straw be used for this spec. Undefined implies no.
+      ## Optional: yes
+      ## Examples:
+      ##   * straw: true
+      ##   * straw: false
       straw: false
+      ##
+      ## Attribute: citations
+      ## Type: Array[Hash]
+      ## Description: List of citation objects for the source of this spec.
+      ## Optional: no
       citations:
+          ##
+          ## Attribute: title
+          ## Type: String
+          ## Description: Title of the citation. Consult your high school or
+          ##              college english class / MLA formatting guidelines
+          ##              for how to cite a work. This is an emphasis of this
+          ##              project so good citations are required.
+          ##              If you acquired a recipe directly from an authoritative
+          ##              source (like its creator or venue), use "Direct" and
+          ##              set yourself as the author.
+          ## Optional: no
+          ## Examples:
+          ##    * title: "Death & Co: Modern Classic Cocktails"
         - title:
+          ##
+          ## Attribute: author
+          ## Type: String or Array[String]
+          ## Description: Author of the work being cited. If multiple authors,
+          ##              list them as individual elements.
+          ## Optional: no
+          ## Examples:
+          ##    * author: Grant Cohoe
+          ##    * author:
+          ##        - Jillian Vose
+          ##        - Ivy Mix
           author:
+          ##
+          ## Attribute: date
+          ## Type: Date (ISO format)
+          ## Description: Date that the citation was published. If the exact day
+          ##              cannot be determined but the month can, use the first
+          ##              day of the month. This affects mostly old works.
+          ## Optional: no
+          ## Examples:
+          ##   * date: 2020-01-05
+          ##   * date: 1812-05-01
           date:
+          ##
+          ## Attribute: publisher
+          ## Type: String
+          ## Description: Publisher of the citation.
+          ## Optional: no
+          ## Examples:
+          ##   * publisher: Ten Speed Press
+          ##   * publisher: Instagram
           publisher:
+          ##
+          ## Attribute: page
+          ## Type: integer
+          ## Description: If using a book or other printed medium, specify the
+          ##              page number.
+          ## Optional: yes
+          ## Examples:
+          ##   * page: 69
           page:
+          ##
+          ## Attribute: href
+          ## Type: String
+          ## Description: URI of the website of the citation or to purchase the book.
+          ## Optional: yes
+          ## Examples:
+          ##   * href: "https://example.com/booze"
           href:
+          ##
+          ## Attribute: issue
+          ## Type: String
+          ## Description: For magazines, the month and year of issue. This is slated
+          ##              for deprecation.
+          ## Optional: yes
+          ## Examples:
+          ##   * issue: January 2020
           issue:
+      ##
+      ## Attribute: images
+      ## Type: Array[Hash]
+      ## Description: List of image references to this spec.
+      ## Optional: yes
       images:
+          ##
+          ## Attribute: text
+          ## Type: String
+          ## Description: Description of the image. Required for ADA.
+          ## Optional: no
+          ## Examples:
+          ##   * text: boy with apple
         - text:
+          ##
+          ## Attribute: href
+          ## Type: String
+          ## Description: URI of the image.
+          ## Optional: no
+          ## Examples:
+          ##   * href: "https://example.com/booze.png"
           href:
+          ##
+          ## Attribute: credit
+          ## Type: String
+          ## Description: Photographer or other image credit.
+          ## Optional: no
+          ## Examples:
+          ##   * credit: Michelle Jay
           credit:
+      ##
+      ## Attribute: notes
+      ## Type: Array[String]
+      ## Description: List of sentences of notes about the spec. Slated for deprecation
+      ##              since these should be stored both globally and per-user for
+      ##              for comments, for the day that I have users.
+      ## Optional: yes
+      ## Examples:
+      ##   * notes:
+      ##       - this thing was great
+      ##       - this thing was terrible
+      notes:
+  ##
+  ## Attribute: citations
+  ## Type: Array[Hash]
+  ## Description: List of citation objects for the source of this drink. Different
+  ##              than per-spec.
+  ## Optional: no
   citations:
+      ##
+      ## Attribute: title
+      ## Type: String
+      ## Description: Title of the citation. Consult your high school or
+      ##              college english class / MLA formatting guidelines
+      ##              for how to cite a work. This is an emphasis of this
+      ##              project so good citations are required.
+      ##              If you acquired a recipe directly from an authoritative
+      ##              source (like its creator or venue), use "Direct" and
+      ##              set yourself as the author.
+      ## Optional: no
+      ## Examples:
+      ##    * title: "Death & Co: Modern Classic Cocktails"
     - title:
+      ##
+      ## Attribute: author
+      ## Type: String or Array[String]
+      ## Description: Author of the work being cited. If multiple authors,
+      ##              list them as individual elements.
+      ## Optional: no
+      ## Examples:
+      ##    * author: Grant Cohoe
+      ##    * author:
+      ##        - Jillian Vose
+      ##        - Ivy Mix
       author:
+      ##
+      ## Attribute: date
+      ## Type: Date (ISO format)
+      ## Description: Date that the citation was published. If the exact day
+      ##              cannot be determined but the month can, use the first
+      ##              day of the month. This affects mostly old works.
+      ## Optional: no
+      ## Examples:
+      ##   * date: 2020-01-05
+      ##   * date: 1812-05-01
       date:
+      ##
+      ## Attribute: publisher
+      ## Type: String
+      ## Description: Publisher of the citation.
+      ## Optional: no
+      ## Examples:
+      ##   * publisher: Ten Speed Press
+      ##   * publisher: Instagram
       publisher:
+      ##
+      ## Attribute: page
+      ## Type: integer
+      ## Description: If using a book or other printed medium, drinkify the
+      ##              page number.
+      ## Optional: yes
+      ## Examples:
+      ##   * page: 69
       page:
+      ##
+      ## Attribute: href
+      ## Type: String
+      ## Description: URI of the website of the citation or to purchase the book.
+      ## Optional: yes
+      ## Examples:
+      ##   * href: "https://example.com/booze"
       href:
+      ##
+      ## Attribute: issue
+      ## Type: String
+      ## Description: For magazines, the month and year of issue. This is slated
+      ##              for deprecation.
+      ## Optional: yes
+      ## Examples:
+      ##   * issue: January 2020
       issue:
+  ##
+  ## Attribute: images
+  ## Type: Array[Hash]
+  ## Description: List of image references to this drink. Slated for deprecation.
+  ## Optional: yes
   images:
+      ##
+      ## Attribute: text
+      ## Type: String
+      ## Description: Description of the image. Required for ADA.
+      ## Optional: no
+      ## Examples:
+      ##   * text: boy with apple
     - text:
+      ##
+      ## Attribute: href
+      ## Type: String
+      ## Description: URI of the image.
+      ## Optional: no
+      ## Examples:
+      ##   * href: "https://example.com/booze.png"
       href:
+      ##
+      ## Attribute: credit
+      ## Type: String
+      ## Description: Photographer or other image credit.
+      ## Optional: no
+      ## Examples:
+      ##   * credit: Michelle Jay
       credit:
+  ##
+  ## Attribute: notes
+  ## Type: Array[String]
+  ## Description: List of sentences of notes about the drink. Slated for deprecation
+  ##              since these should be stored both globally and per-user for
+  ##              for comments, for the day that I have users.
+  ## Optional: yes
+  ## Examples:
+  ##   * notes:
+  ##       - this thing was great
+  ##       - this thing was terrible
   notes:
-    - foobar
-    - bazwat
+  ##
+  ## Attribute: tags
+  ## Type: Array[String]
+  ## Description: List of tags to apply to this drink. Not implemented yet.
+  ##              A lot of tags will be able to get auto-generated based on
+  ##              spec computation.
+  ## Optional: yes
+  ## Examples:
+  ##   tags:
+  ##     - boozy
+  ##     - low-abv
   tags:
-    - tag_one
-    - tag_two
