@@ -27,6 +27,28 @@
           date: 2014-10-07
           publisher: Ten Speed Press
           page: 142
-  notes:
-    - tastes like just the rye, barely any hint of the other ingredients
-    - from a night at Drink, try equal parts
+      notes:
+        - tastes like just the rye, barely any hint of the other ingredients
+        - from a night at Drink, try equal parts
+        - equal parts does yield a less rye-forward drink, though had to do with calvados since im out of apple brandy
+        - almost a bit too chart-y so maybe reduce that a bit? but its still good enough
+    - name: Drink
+      glassware: coupe
+      components:
+        - name: rittenhouse 100 rye whiskey
+          quantity: 1
+          unit: oz
+        - name: reposado tequila
+          quantity: 1
+          unit: oz
+        - name: yellow chartreuse
+          quantity: 1
+          unit: oz
+      construction: stir
+      instructions:
+        - stir all the ingredients over ice, then strain into a Nick & Nora glass
+      straw: false
+      citations:
+      notes:
+        - spin on the Diamondback from a night years ago, equalizing the ratios and subbing tequila for apple brandy
+        - not as good as the original, has a bit too much spice and chartreuse, the reposado doesnt really come forward enough
