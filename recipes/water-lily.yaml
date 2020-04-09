@@ -1,0 +1,41 @@
+---
+- display_name: Water Lily
+  status: purple
+  origin:
+    creator: Richie Boccato
+    venue: Milk & Honey
+    location: New York NY
+  specs:
+    - name: Milk & Honey
+      glassware: coupe
+      components:
+        - name: gin
+          quantity: .75
+          unit: oz
+        - name: orange liqueur
+          quantity: .75
+          unit: oz
+        - name: créme de violette
+          quantity: .75
+          unit: oz
+        - name: lemon juice
+          quantity: .75
+          unit: oz
+      construction: stir
+      instructions:
+        - stir in an ice-filled mixing glass & strain into coupe
+      garnish:
+        - name: orange twist
+          quantity: 1
+          notes:
+            - twist over drink to express the oils
+      straw: false
+      citations:
+        - title: Imbibe Magazine
+          author: Imbibe
+          date: 2016-11-07
+          href: https://imbibemagazine.com/water-lily-cocktail/
+      images:
+        - text: water lily
+          href: https://imbibemagazine.com/wp-content/uploads/2016/11/shake-stir-sip-water-lily-vertical-crdt-john-lee-web-1.jpeg
+          credit: John Lee
