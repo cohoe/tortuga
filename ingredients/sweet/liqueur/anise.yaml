@@ -34,3 +34,8 @@
   parent: anise-liqueur
   slug: galliano-lautentico
   kind: product
+
+- display_name: Ouzo
+  parent: anise-liqueur
+  slug: ouzo
+  kind: ingredient
