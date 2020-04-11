@@ -1,19 +1,8 @@
 ---
 - display_name: Fish House Punch
   status: yellow
-  origin:
-    creator:
-    venue:
-    location:
-    year:
-    story:
   specs:
-    - name: original
-      origin:
-        creator:
-        venue:
-        location:
-        year:
+    - name: 'Death & Co'
       glassware: snifter
       components:
         - name: sugar cubes
@@ -41,6 +30,8 @@
       garnish:
         - peach slices
       straw: false
+      notes:
+        - can replace the cubes with .5oz simple, do 1.5oz club instead
       citations:
         - title: 'Death & Co: Modern Classic Cocktails'
           author:
