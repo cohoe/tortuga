@@ -26,6 +26,43 @@
       citations:
         - title: PDT Cocktails
           href:
+    - name: 'Death & Co'
+      glassware: nickandnora
+      components:
+        - name: "hayman's old tom gin"
+          quantity: 1.5
+          unit: oz
+        - name: ransom old tom gin
+          quantity: .5
+          unit: oz
+        - name: house sweet vermouth
+          quantity: 1
+          unit: oz
+        - name: luxardo maraschino liqueur
+          quantity: .5
+          unit: tsp
+        - name: massenez kirsch vieux cherry brandy
+          quantity: .5
+          unit: tsp
+        - name: house orange bitters
+          quantity: 1
+          unit: dash
+      construction: stir
+      instructions:
+        - stir all the ingredients over ice, then strain into a Nick & Nora glass
+      garnish:
+        - lemon twist
+      straw: false
+      notes:
+        - not significantly better than the PDT spec IMO
+      citations:
+        - title: 'Death & Co: Modern Classic Cocktails'
+          author:
+            - David Kaplan
+            - Nick Fauchald
+            - Alex Day
+          date: 2014-10-07
+          publisher: Ten Speed Press
     - name: Dante NYC
       origin:
         venue: Dante NYC
@@ -46,6 +83,8 @@
       construction: stir
       instructions:
         - stir with ice, then strain into a chilled coupe
+      notes:
+        - interesting malty note from the genever, wouldnt say i like it more than a traditional martinez
       citations:
         - title: Dante
           href: https://www.dante-nyc.com/menus/#cocktails
