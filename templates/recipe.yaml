@@ -162,14 +162,19 @@
         story:
       ##
       ## Attribute: glassware
-      ## Type: String
-      ## Description: Type of glass that should be used. Currently a freeform
-      ##              String but will likely get some enforcement someday.
+      ## Type: Array[Hash]
+      ## Description: Type of glass that should be used.
       ## Optional: yes
-      ## Examples:
-      ##  * glassware: rocks
-      ##  * glassware: highball
       glassware:
+        ##
+        ## Attribute: slug
+        ## Type: String
+        ## Description: Slug of the construction method
+        ## Optional: no
+        ## Examples:
+        ##   * slug: rocks
+        ##   * slug: old-fashioned
+        slug:
       ##
       ## Attribute: components
       ## Type: Array[Hash]
@@ -211,16 +216,20 @@
           unit:
       ##
       ## Attribute: construction
-      ## Type: Enum[String]
+      ## Type: Hash
       ## Description: Construction method of the spec. This is currently
       ##              not enforced but will be.
       ## Optional: no
-      ## Possible Values: shake, stir, build, swizzle
-      ## Examples:
-      ##   * construction: shake
-      ##   * construction: stir
       construction:
-      ##
+        ##
+        ## Attribute: slug
+        ## Type: String
+        ## Optional: no
+        ## Possible Values: shake, stir, build, swizzle
+        ## Examples:
+        ##   * slug: shake
+        ##   * slug: stir
+        slug:
       ## Attribute: instructions
       ## Type: Array
       ## Description: List of ordered but unformatted instructions. Beginning
@@ -242,16 +251,16 @@
       ## Optional: yes
       garnish:
           ##
-          ## Attribute: name
+          ## Attribute: slug
           ## Type: String
           ## Description: Slugable name of the garnish. This is referenced
           ##              against the database of ingredients. Should be
           ##              singular.
           ## Optional: no
           ## Examples:
-          ##   * name: lime wedge
-          ##   * name: raspberry
-        - name:
+          ##   * slug: lime-wedge
+          ##   * slug: raspberry
+        - slug:
           ##
           ## Attribute: quantity
           ## Type: Float
@@ -304,12 +313,10 @@
         - title:
           ##
           ## Attribute: author
-          ## Type: String or Array[String]
-          ## Description: Author of the work being cited. If multiple authors,
-          ##              list them as individual elements.
+          ## Type: Array[String]
+          ## Description: Author of the work being cited.
           ## Optional: no
           ## Examples:
-          ##    * author: Grant Cohoe
           ##    * author:
           ##        - Jillian Vose
           ##        - Ivy Mix
@@ -425,12 +432,10 @@
     - title:
       ##
       ## Attribute: author
-      ## Type: String or Array[String]
-      ## Description: Author of the work being cited. If multiple authors,
-      ##              list them as individual elements.
+      ## Type: Array[String]
+      ## Description: Author of the work being cited.
       ## Optional: no
       ## Examples:
-      ##    * author: Grant Cohoe
       ##    * author:
       ##        - Jillian Vose
       ##        - Ivy Mix
