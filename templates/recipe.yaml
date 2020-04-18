@@ -231,7 +231,7 @@
         ##   * slug: stir
         slug:
       ## Attribute: instructions
-      ## Type: Array
+      ## Type: Array[Hash]
       ## Description: List of ordered but unformatted instructions. Beginning
       ##              capitals and trailing periods are not required but will
       ##              be honored, as will mid-sentense formatting. It is best
@@ -239,10 +239,15 @@
       ##              here as those come later. At some point these may get
       ##              auto-generated and only overriden as necessary.
       ## Optional: no
-      ## Examples:
-      ##   * instructions:
-      ##       - shake with ice and strain into a glass
       instructions:
+          ## Attribute: text
+          ## Type: String
+          ## Optional: no
+          ## Description: the text of the instruction
+          ## Examples:
+          ##   * text: stir with ice
+          ##
+        - text
       ##
       ## Attribute: garnish
       ## Type: Array[Hash]
@@ -277,11 +282,15 @@
           ##              Presentation style of these has not yet been defined.
           ##              Like the instructions, formatting is not required.
           ## Optional: yes
-          ## Examples:
-          ##    * notes:
-          ##        - on a pick
-          ##        - flaming
           notes:
+              ##
+              ## Attribute: text
+              ## Type: String
+              ## Optional: no
+              ## Description: Text of the garnish
+              ## Examples:
+              ##   * text: on a pick
+            - text:
       ##
       ## Attribute: straw
       ## Type: Boolean
@@ -399,16 +408,20 @@
           credit:
       ##
       ## Attribute: notes
-      ## Type: Array[String]
+      ## Type: Array[Hash]
       ## Description: List of sentences of notes about the spec. Slated for deprecation
       ##              since these should be stored both globally and per-user for
       ##              for comments, for the day that I have users.
       ## Optional: yes
-      ## Examples:
-      ##   * notes:
-      ##       - this thing was great
-      ##       - this thing was terrible
       notes:
+          ##
+          ## Attribute: text
+          ## Type: String
+          ## Optional: no
+          ## Description: Text of the note
+          ## Examples:
+          ##   * text: this thing was great
+        - text:
   ##
   ## Attribute: citations
   ## Type: Array[Hash]
@@ -518,16 +531,20 @@
       credit:
   ##
   ## Attribute: notes
-  ## Type: Array[String]
+  ## Type: Array[Hash]
   ## Description: List of sentences of notes about the drink. Slated for deprecation
   ##              since these should be stored both globally and per-user for
   ##              for comments, for the day that I have users.
   ## Optional: yes
-  ## Examples:
-  ##   * notes:
-  ##       - this thing was great
-  ##       - this thing was terrible
   notes:
+      ##
+      ## Attribute: text
+      ## Type: String
+      ## Optional: no
+      ## Description: Text of the note
+      ## Examples:
+      ##   * text: this thing was great
+    - text:
   ##
   ## Attribute: tags
   ## Type: Array[String]
