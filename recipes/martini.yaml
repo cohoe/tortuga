@@ -1,7 +1,6 @@
 ---
 - display_name: Martini
   status: green
-  origin:
   specs:
     - name: original
       glassware:
@@ -23,4 +22,3 @@
       garnish:
         - slug: lemon twist
       straw: false
-      citations:

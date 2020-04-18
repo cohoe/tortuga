@@ -1,7 +1,6 @@
 ---
 - display_name: Pink Lady
   status: red
-  origin:
   specs:
     - name: original
       glassware:

@@ -1,19 +1,8 @@
 ---
 - display_name: Coronation
   status: red
-  origin:
-    creator:
-    venue:
-    location:
-    year:
-    story:
   specs:
     - name: original
-      origin:
-        creator:
-        venue:
-        location:
-        year:
       glassware:
         - slug: martini
       components:

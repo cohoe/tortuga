@@ -1,7 +1,6 @@
 ---
 - display_name: Manhattan
   status: green
-  origin:
   specs:
     - name: Death & Co
       glassware:
@@ -54,4 +53,3 @@
       garnish:
         - slug: maraschino cherry
       straw: false
-      citations:

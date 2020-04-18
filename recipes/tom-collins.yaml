@@ -1,19 +1,8 @@
 ---
 - display_name: Tom Collins
   status: green
-  origin:
-    creator:
-    venue:
-    location:
-    year:
-    story:
   specs:
     - name: Death & Co
-      origin:
-        creator:
-        venue:
-        location:
-        year:
       glassware:
         - slug: highball
       components:
