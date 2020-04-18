@@ -1,5 +1,6 @@
 ---
-- display_name: Tom Bomb
+- slug: tom-bomb
+  display_name: Tom Bomb
   status: yellow
   origin:
     creator: Jillian Vose

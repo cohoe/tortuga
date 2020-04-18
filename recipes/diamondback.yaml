@@ -1,5 +1,6 @@
 ---
-- display_name: Diamondback
+- slug: diamondback
+  display_name: Diamondback
   status: green
   specs:
     - name: original

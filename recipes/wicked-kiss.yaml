@@ -1,5 +1,6 @@
 ---
-- display_name: Wicked Kiss
+- slug: wicked-kiss
+  display_name: Wicked Kiss
   status: red
   origin:
     creator: Phil Ward

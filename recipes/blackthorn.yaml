@@ -1,5 +1,6 @@
 ---
-- display_name: Blackthorn
+- slug: blackthorn
+  display_name: Blackthorn
   status: green
   origin:
     location: New Orleans LA

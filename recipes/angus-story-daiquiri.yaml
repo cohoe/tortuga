@@ -1,5 +1,6 @@
 ---
-- display_name: Angus Story Daiquiri
+- slug: angus-story-daiquiri
+  display_name: Angus Story Daiquiri
   status: green
   origin:
     creator: Phil Ward

@@ -1,5 +1,6 @@
 ---
-- display_name: The Vanderbilt
+- slug: the-vanderbilt
+  display_name: The Vanderbilt
   status: red
   origin:
     creator: Scott Teague

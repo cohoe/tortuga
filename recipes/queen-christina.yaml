@@ -1,5 +1,6 @@
 ---
-- display_name: Queen Christina
+- slug: queen-christina
+  display_name: Queen Christina
   status: green
   origin:
     creator: Tom Mahne

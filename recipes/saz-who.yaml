@@ -1,5 +1,6 @@
 ---
-- display_name: Saz Who?
+- slug: saz-who
+  display_name: Saz Who?
   status: green
   origin:
     creator: Brian Miller

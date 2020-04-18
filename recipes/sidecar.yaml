@@ -1,5 +1,6 @@
 ---
-- display_name: Sidecar
+- slug: sidecar
+  display_name: Sidecar
   status: green
   origin:
     location: London

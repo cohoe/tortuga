@@ -1,5 +1,6 @@
 ---
-- display_name: House Of Payne
+- slug: house-of-payne
+  display_name: House Of Payne
   status: red
   origin:
     creator: Phil Ward

@@ -1,5 +1,6 @@
 ---
-- display_name: Range Life
+- slug: range-life
+  display_name: Range Life
   status: yellow
   origin:
     creator: Phil Ward

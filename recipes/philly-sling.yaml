@@ -1,5 +1,6 @@
 ---
-- display_name: Philly Sling
+- slug: philly-sling
+  display_name: Philly Sling
   status: red
   origin:
     creator: Derek Brown

@@ -1,5 +1,6 @@
 ---
-- display_name: Kir Royale
+- slug: kir-royale
+  display_name: Kir Royale
   status: green
   origin:
     creator: Félix Kir

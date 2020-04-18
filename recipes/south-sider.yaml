@@ -1,5 +1,6 @@
 ---
-- display_name: South Sider
+- slug: south-sider
+  display_name: South Sider
   status: green
   origin:
     creator: Alex Day

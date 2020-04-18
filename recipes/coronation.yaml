@@ -1,5 +1,6 @@
 ---
-- display_name: Coronation
+- slug: coronation
+  display_name: Coronation
   status: red
   specs:
     - name: original

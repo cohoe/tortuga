@@ -1,5 +1,6 @@
 ---
-- display_name: Rosebuddy Old Pal
+- slug: rosebuddy-old-pal
+  display_name: Rosebuddy Old Pal
   status: red
   origin:
     venue: Rosebud

@@ -1,5 +1,6 @@
 ---
-- display_name: Diki-Diki
+- slug: diki-diki
+  display_name: Diki-Diki
   status: green
   origin:
     creator: Robert Vermiere

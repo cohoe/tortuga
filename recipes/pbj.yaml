@@ -1,5 +1,6 @@
 ---
-- display_name: PB&J
+- slug: pbj
+  display_name: PB&J
   status: red
   origin:
     venue: Dinky

@@ -1,5 +1,6 @@
 ---
-- display_name: Gimlet
+- slug: gimlet
+  display_name: Gimlet
   status: green
   specs:
     - name: Clover Club

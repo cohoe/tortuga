@@ -1,5 +1,6 @@
 ---
-- display_name: Ingénue
+- slug: ingenue
+  display_name: Ingénue
   status: red
   origin:
     creator: Brian Miller

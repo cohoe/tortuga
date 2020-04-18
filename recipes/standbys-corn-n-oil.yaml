@@ -1,5 +1,6 @@
 ---
-- display_name: Standby's Corn n Oil
+- slug: standbys-corn-n-oil
+  display_name: Standby's Corn n Oil
   status: green
   origin:
     creator: Joe Robinson

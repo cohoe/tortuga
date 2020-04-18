@@ -1,5 +1,6 @@
 ---
-- display_name: Ti' Punch
+- slug: ti-punch
+  display_name: Ti' Punch
   status: green
   origin:
     location: Martinique

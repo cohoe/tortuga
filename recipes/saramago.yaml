@@ -1,5 +1,6 @@
 ---
-- display_name: Saramago
+- slug: saramago
+  display_name: Saramago
   status: red
   origin:
     creator: Phil Ward

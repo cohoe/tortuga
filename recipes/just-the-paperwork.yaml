@@ -1,5 +1,6 @@
 ---
-- display_name: Just the Paperwork
+- slug: just-the-paperwork
+  display_name: Just the Paperwork
   status: red
   origin:
     creator: Sother Teague

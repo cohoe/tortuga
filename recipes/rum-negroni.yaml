@@ -1,5 +1,6 @@
 ---
-- display_name: Rum Negroni
+- slug: rum-negroni
+  display_name: Rum Negroni
   status: green
   origin:
     creator: Sother Teague

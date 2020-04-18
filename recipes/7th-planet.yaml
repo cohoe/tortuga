@@ -1,5 +1,6 @@
 ---
-- display_name: 7th Planet
+- slug: 7th-planet
+  display_name: 7th Planet
   status: red
   origin:
     creator: Rick Dobbs

@@ -1,5 +1,6 @@
 ---
-- display_name: Martinez
+- slug: martinez
+  display_name: Martinez
   status: green
   specs:
     - name: PDT

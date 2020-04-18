@@ -1,5 +1,6 @@
 ---
-- display_name: Coral Reef
+- slug: coral-reef
+  display_name: Coral Reef
   status: green
   origin:
     creator: Lyn Farmer

@@ -1,5 +1,6 @@
 ---
-- display_name: Miss Behavin'
+- slug: miss-behavin
+  display_name: Miss Behavin'
   status: yellow
   origin:
     creator: Brian Miller

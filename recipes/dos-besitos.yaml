@@ -1,5 +1,6 @@
 ---
-- display_name: Dos Besitos
+- slug: dos-besitos
+  display_name: Dos Besitos
   status: red
   origin:
     creator: Scott Teague

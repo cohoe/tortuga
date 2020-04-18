@@ -1,5 +1,6 @@
 ---
-- display_name: Not-Quite-Georgia Julep
+- slug: not-quite-georgia-julep
+  display_name: Not-Quite-Georgia Julep
   status: green
   origin:
     creator: Phil Ward

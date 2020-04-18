@@ -1,4 +1,12 @@
 ---
+  ## Attribute: slug
+  ## Type: String
+  ## Description: Slug ID of the drink.
+  ## Optional: no
+  ## Examples:
+  ##   * - slug: mezcal-mule
+  ##   * - slug: la-viaa
+- slug:
   ## Attribute: display_name
   ## Type: String
   ## Description: The stylized name of a drink.
@@ -6,7 +14,7 @@
   ## Examples:
   ##   * - display_name: Mezcal Mule
   ##   * - display_name: La Viáa
-- display_name:
+  display_name:
   ##
   ## Attribute: status
   ## Type: Enum[String]

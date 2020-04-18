@@ -1,5 +1,6 @@
 ---
-- display_name: Boulevardier
+- slug: boulevardier
+  display_name: Boulevardier
   status: green
   origin:
     creator: Harry McElhone

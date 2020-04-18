@@ -1,5 +1,6 @@
 ---
-- display_name: Maple Bourbon Sour
+- slug: maple-bourbon-sour
+  display_name: Maple Bourbon Sour
   status: green
   origin:
     creator: Laura Bailey

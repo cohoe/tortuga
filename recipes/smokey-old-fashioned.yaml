@@ -1,5 +1,6 @@
 ---
-- display_name: Smokey Old Fashioned
+- slug: smokey-old-fashioned
+  display_name: Smokey Old Fashioned
   status: yellow
   origin:
     creator: Elliott Clark

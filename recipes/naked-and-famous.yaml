@@ -1,5 +1,6 @@
 ---
-- display_name: Naked and Famous
+- slug: naked-and-famous
+  display_name: Naked and Famous
   status: green
   origin:
     creator: Joaquín Simó

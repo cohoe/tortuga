@@ -1,5 +1,6 @@
 ---
-- display_name: European Union
+- slug: european-union
+  display_name: European Union
   status: red
   origin:
     creator: Alex Day

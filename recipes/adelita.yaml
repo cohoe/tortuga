@@ -1,5 +1,6 @@
 ---
-- display_name: Adelita
+- slug: adelita
+  display_name: Adelita
   status: red
   origin:
     creator: Carrie Cole

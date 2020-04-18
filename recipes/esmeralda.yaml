@@ -1,5 +1,6 @@
 ---
-- display_name: Esmeralda
+- slug: esmeralda
+  display_name: Esmeralda
   status: red
   origin:
     creator: Ben Sandrof

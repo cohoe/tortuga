@@ -1,5 +1,6 @@
 ---
-- display_name: Coralillo
+- slug: coralillo
+  display_name: Coralillo
   status: red
   origin:
     creator: Thomas Waugh

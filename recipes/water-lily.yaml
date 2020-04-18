@@ -1,5 +1,6 @@
 ---
-- display_name: Water Lily
+- slug: water-lily
+  display_name: Water Lily
   status: purple
   origin:
     creator: Richie Boccato

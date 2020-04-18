@@ -1,5 +1,6 @@
 ---
-- display_name: Tiki Tak
+- slug: tiki-tak
+  display_name: Tiki Tak
   status: yellow
   origin:
     creator: Andrew Porteus

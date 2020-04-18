@@ -1,5 +1,6 @@
 ---
-- display_name: Pasifika Margarita
+- slug: pasifika-margarita
+  display_name: Pasifika Margarita
   status: yellow
   origin:
     creator: Samuel Jimenez

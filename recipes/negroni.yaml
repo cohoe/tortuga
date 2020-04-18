@@ -1,5 +1,6 @@
 ---
-- display_name: Negroni
+- slug: negroni
+  display_name: Negroni
   status: green
   origin:
     location: Italy

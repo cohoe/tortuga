@@ -1,5 +1,6 @@
 ---
-- display_name: Moscow Mule
+- slug: moscow-mule
+  display_name: Moscow Mule
   status: green
   origin:
     creator: Jack Morgan & John G. Martin

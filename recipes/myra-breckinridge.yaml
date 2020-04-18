@@ -1,5 +1,6 @@
 ---
-- display_name: Myra Breckinridge
+- slug: myra-breckinridge
+  display_name: Myra Breckinridge
   status: red
   origin:
     creator: Phil Ward

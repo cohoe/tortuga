@@ -1,5 +1,6 @@
 ---
-- display_name: Tommy's Margarita
+- slug: tommys-margarita
+  display_name: Tommy's Margarita
   status: green
   origin:
     venue: Tommy's Mexican Restaurant

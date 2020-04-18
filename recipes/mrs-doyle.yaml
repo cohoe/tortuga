@@ -1,5 +1,6 @@
 ---
-- display_name: Mrs. Doyle
+- slug: mrs-doyle
+  display_name: Mrs. Doyle
   status: green
   origin:
     creator: Eryn Reece

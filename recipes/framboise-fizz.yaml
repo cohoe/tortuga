@@ -1,5 +1,6 @@
 ---
-- display_name: Framboise Fizz
+- slug: framboise-fizz
+  display_name: Framboise Fizz
   status: green
   origin:
     creator: Michael Klein

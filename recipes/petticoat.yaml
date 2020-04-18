@@ -1,5 +1,6 @@
 ---
-- display_name: Petticoat
+- slug: petticoat
+  display_name: Petticoat
   status: yellow
   origin:
     creator: Jessica Gonzalez

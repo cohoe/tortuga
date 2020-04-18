@@ -1,5 +1,6 @@
 ---
-- display_name: Bitter French
+- slug: bitter-french
+  display_name: Bitter French
   status: red
   origin:
     creator: Phil Ward

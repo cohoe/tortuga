@@ -1,5 +1,6 @@
 ---
-- display_name: Garrigue
+- slug: garrigue
+  display_name: Garrigue
   status: green
   origin:
     creator: Karim Mehdi

@@ -1,5 +1,6 @@
 ---
-- display_name: Los Amargos
+- slug: los-amargos
+  display_name: Los Amargos
   status: red
   origin:
     creator: Thomas Waugh

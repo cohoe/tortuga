@@ -1,5 +1,6 @@
 ---
-- display_name: Alaska
+- slug: alaska
+  display_name: Alaska
   status: green
   origin:
     creator: Robert Simonson

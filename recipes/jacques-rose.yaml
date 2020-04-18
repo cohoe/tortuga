@@ -1,5 +1,6 @@
 ---
-- display_name: Jacques Rose
+- slug: jacques-rose
+  display_name: Jacques Rose
   status: green
   origin:
     creator: Scott Kennedy

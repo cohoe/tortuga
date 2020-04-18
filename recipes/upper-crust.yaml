@@ -1,5 +1,6 @@
 ---
-- display_name: Upper Crust
+- slug: upper-crust
+  display_name: Upper Crust
   status: red
   specs:
     - name: original

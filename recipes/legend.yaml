@@ -1,5 +1,6 @@
 ---
-- display_name: Legend
+- slug: legend
+  display_name: Legend
   status: green
   origin:
     creator: Jillian Vose

@@ -1,5 +1,6 @@
 ---
-- display_name: Golden Handcuffs
+- slug: golden-handcuffs
+  display_name: Golden Handcuffs
   status: green
   origin:
     creator: Stuart Humphries

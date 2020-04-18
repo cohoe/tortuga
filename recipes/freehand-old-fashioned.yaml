@@ -1,5 +1,6 @@
 ---
-- display_name: Freehand Old Fashioned
+- slug: freehand-old-fashioned
+  display_name: Freehand Old Fashioned
   status: green
   origin:
     creator: Jason Kilgore

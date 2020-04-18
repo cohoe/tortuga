@@ -1,5 +1,6 @@
 ---
-- display_name: Mai Tai
+- slug: mai-tai
+  display_name: Mai Tai
   status: green
   origin:
     creator: Victor Bergeron

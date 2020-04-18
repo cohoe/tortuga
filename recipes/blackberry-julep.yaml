@@ -1,5 +1,6 @@
 ---
-- display_name: Blackberry Julep
+- slug: blackberry-julep
+  display_name: Blackberry Julep
   status: red
   origin:
     creator: Dale DeGroff

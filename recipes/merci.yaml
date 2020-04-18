@@ -1,5 +1,6 @@
 ---
-- display_name: Merci
+- slug: merci
+  display_name: Merci
   status: green
   origin:
     creator: Brian

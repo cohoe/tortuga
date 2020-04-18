@@ -1,5 +1,6 @@
 ---
-- display_name: French 75
+- slug: french-75
+  display_name: French 75
   status: green
   origin:
     creator: Judge Jr

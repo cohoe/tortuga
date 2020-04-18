@@ -1,5 +1,6 @@
 ---
-- display_name: Division Bell
+- slug: division-bell
+  display_name: Division Bell
   status: green
   origin:
     creator: Phil Ward

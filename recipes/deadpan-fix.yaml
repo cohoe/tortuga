@@ -1,5 +1,6 @@
 ---
-- display_name: Deadpan Fix
+- slug: deadpan-fix
+  display_name: Deadpan Fix
   status: red
   origin:
     creator: Jessica Gonzalez

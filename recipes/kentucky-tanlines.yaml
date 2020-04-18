@@ -1,5 +1,6 @@
 ---
-- display_name: Kentucky Tanlines
+- slug: kentucky-tanlines
+  display_name: Kentucky Tanlines
   status: red
   origin:
     venue: Blueprint

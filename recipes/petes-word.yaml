@@ -1,5 +1,6 @@
 ---
-- display_name: Pete's Word
+- slug: petes-word
+  display_name: Pete's Word
   status: red
   origin:
     creator: Phil Ward

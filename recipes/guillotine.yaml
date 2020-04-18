@@ -1,5 +1,6 @@
 ---
-- display_name: Guillotine
+- slug: guillotine
+  display_name: Guillotine
   status: yellow
   origin:
     creator: franky marshall

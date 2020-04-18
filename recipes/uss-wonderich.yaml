@@ -1,5 +1,6 @@
 ---
-- display_name: U.S.S. Wonderich
+- slug: uss-wonderich
+  display_name: U.S.S. Wonderich
   status: red
   origin:
     creator: Jeff Beachbum Berry

@@ -1,5 +1,6 @@
 ---
-- display_name: "‘I‘iwi Bird"
+- slug: iiwi-bird
+  display_name: "‘I‘iwi Bird"
   status: red
   origin:
     creator: Jenna Rycroft
