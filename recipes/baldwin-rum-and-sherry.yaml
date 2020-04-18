@@ -37,7 +37,7 @@
       instructions:
         - shake all ingredients with ice and strain into a rocks glass over one large ice cube
       garnish:
-        - nutmeg
+        - slug: nutmeg
       straw: false
       citations:
         - title: Direct

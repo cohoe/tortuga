@@ -28,7 +28,7 @@
         - add all the ingredients in a mixing glass, add ice, and stir until chilled
         - strain into a coupe
       garnish:
-        - lemon twist
+        - slug: lemon twist
       straw: false
       citations:
         - title: Punch

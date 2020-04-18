@@ -23,7 +23,7 @@
       instructions:
         - stir with ice, then strain into a chilled rocks glass with one large ice sphere
       garnish:
-        - orange twist
+        - slug: orange twist
       straw: false
       citations:
         - title: Meehan's Bartender Manual

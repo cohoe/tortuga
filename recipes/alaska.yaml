@@ -23,7 +23,7 @@
       instructions:
         - stir all ingredients over ice and strain into a chilled coupe
       garnish:
-        - orange twist
+        - slug: orange twist
       straw: false
       citations:
         - title: Punch

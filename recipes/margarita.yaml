@@ -25,7 +25,7 @@
       instructions:
         - shake all the ingredients with ice, then strain into a rocks glass over fresh ice
       garnish:
-        - lime wheel
-        - kosher salt
+        - slug: lime wheel
+        - slug: kosher salt
       straw: false
       citations:

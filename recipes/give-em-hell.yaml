@@ -34,8 +34,8 @@
         - add all ingredients to a punch bowl, with absinthe to taste
         - adjust to taste if needed (sometimes the tea and citrus vary in potency)
       garnish:
-        - lime wheels
-        - freshly grated nutmeg
+        - slug: lime wheels
+        - slug: freshly grated nutmeg
       straw: false
   citations:
     - title: Recipes From The Sexton Midnight Club New Orleans

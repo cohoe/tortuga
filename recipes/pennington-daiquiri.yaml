@@ -42,7 +42,7 @@
         - combine all the ingredients in a shaker with ice and shake until chilled
         - double strain into a chilled coupe
       garnish:
-        - lime wedge
+        - slug: lime wedge
       straw: false
   citations:
     - title: Imbibe Magazine

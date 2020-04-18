@@ -32,7 +32,7 @@
         - combine all ingredients into a mixing glass with ice and stir to chill
         - strain the cocktail into a rocks glass over ice
       garnish:
-        - orange peel
+        - slug: orange peel
       straw: false
       citations:
         - title: How to Upgrade an Old Fashioned with Mezcal and Rum

@@ -30,7 +30,7 @@
       instructions:
         - shake all the ingredients with ice and strain into a coupe.
       garnish:
-        - orange twist
+        - slug: orange twist
       straw: false
       citations:
         - title: Death & Co

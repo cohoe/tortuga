@@ -36,8 +36,8 @@
       instructions:
         - stir all of the ingredients with ice o chill, strain into a glass over a single large ice cube
       garnish:
-        - orange twist
-        - cherry
+        - slug: orange twist
+        - slug: cherry
       straw: false
       citations:
         - title: Imbibe Magazine

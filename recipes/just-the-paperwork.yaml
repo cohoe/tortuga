@@ -28,7 +28,7 @@
       instructions:
         - build in a rocks glass and serve neat
       garnish:
-        - orange twist
+        - slug: orange twist
       straw: false
       citations:
         - title: I'm Just Here for the Drinks

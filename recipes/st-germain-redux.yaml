@@ -29,7 +29,7 @@
       instructions:
         - combine all the ingredients in a wine glass filled with ice cubes and stir until cold
       garnish:
-        - lemon twist
+        - slug: lemon twist
       straw: false
       citations:
         - title: 'Death & Co: Modern Classic Cocktails'

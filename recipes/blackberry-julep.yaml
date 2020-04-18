@@ -25,8 +25,8 @@
         - shake all ingredients with ice and strain into a highball glass
         - stir until the glass begins to frost
       garnish:
-        - tablespoon marinated mixed berries
-        - mint sprig
+        - slug: tablespoon marinated mixed berries
+        - slug: mint sprig
       straw: false
       citations:
         - title: I'm Just Here for the Drinks

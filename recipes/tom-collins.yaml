@@ -33,8 +33,8 @@
         - short shake all the ingredients (except the club soda) with 3 ice cubes, then strain into a highball glass filled with ice cubes
         - top with club soda
       garnish:
-        - orange crescent
-        - cherry flag
+        - slug: orange crescent
+        - slug: cherry flag
       straw: true
       citations:
       - title: 'Death & Co: Modern Classic Cocktails'

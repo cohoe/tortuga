@@ -36,7 +36,7 @@
       instructions:
         - stir all ingredients with ice, then strain into a glass filled with fresh ice
       garnish:
-        - lemon twist
+        - slug: lemon twist
       straw: false
       citations:
         - title: Imbibe Magazine

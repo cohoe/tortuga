@@ -29,7 +29,7 @@
       instructions:
         - shake well with cracked ice and strain into chilled cocktail glass
       garnish:
-        - lemon twist
+        - slug: lemon twist
       straw: false
       citations:
         - title: Punch and Rum - the Doctor Cocktail

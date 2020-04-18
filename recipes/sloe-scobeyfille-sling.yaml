@@ -33,7 +33,7 @@
         - short shake all the ingredients (except the club soda) with 3 ice cubes, then strain into a highball glass filled with ice cubes
         - top with club soda
       garnish:
-        - apple slice
+        - slug: apple slice
       straw: true
       citations:
         - title: 'Death & Co: Modern Classic Cocktails'

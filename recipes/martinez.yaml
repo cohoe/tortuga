@@ -23,7 +23,7 @@
       instructions:
         - stir with ice, then strain into a chilled coupe
       garnish:
-        - orange twist
+        - slug: orange twist
       straw: false
       citations:
         - title: PDT Cocktails
@@ -55,7 +55,7 @@
       instructions:
         - stir all the ingredients over ice, then strain into a Nick & Nora glass
       garnish:
-        - lemon twist
+        - slug: lemon twist
       straw: false
       notes:
         - not significantly better than the PDT spec IMO

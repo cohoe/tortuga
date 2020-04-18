@@ -31,7 +31,7 @@
       instructions:
         - build in a glass over ice and top with cider
       garnish:
-        - sliced apples or grapes
+        - slug: sliced apples or grapes
       straw: false
       citations:
         - title: I'm Just Here for the Drinks

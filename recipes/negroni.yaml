@@ -22,6 +22,6 @@
       instructions:
         - stir all the ingredients with ice, then strain into a rocks glass with a large ice cube
       garnish:
-        - orange peel
+        - slug: orange peel
       straw: false
       citations:

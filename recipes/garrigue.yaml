@@ -30,8 +30,8 @@
       instructions:
         - shake over ice and fine-strain into a chilled coupe glass
       garnish:
-        - lemon twist
-        - dried lavender sprig
+        - slug: lemon twist
+        - slug: dried lavender sprig
       straw: false
       citations:
         - title: 101 Best New Cocktails

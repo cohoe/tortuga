@@ -31,8 +31,8 @@
         - add ice to a white or red wine glass
         - add all ingredients and stir briefly
       garnish:
-        - orange twist
-        - orange half wheel
+        - slug: orange twist
+        - slug: orange half wheel
       straw: false
       citations:
         - title: Sherry Cocktails Class

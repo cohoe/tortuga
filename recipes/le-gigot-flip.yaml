@@ -34,7 +34,7 @@
         - dry shake all the ingredients, then shake again with ice
         - double strain into a coupe
       garnish:
-        - brandied cherry
+        - slug: brandied cherry
       straw: false
       citations:
         - title: 'Death & Co: Modern Classic Cocktails'

@@ -31,7 +31,7 @@
         - stir all the ingredients with ice, then strain over a large ice cube
         - twist an orange peel over the drink
       garnish:
-        - orange peel
+        - slug: orange peel
       straw: false
       citations:
         - title: Imbibe Magazine

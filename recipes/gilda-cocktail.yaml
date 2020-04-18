@@ -27,7 +27,7 @@
       instructions:
         - shake all the ingredients with ice, then strain into a coupe
       garnish:
-        - lime wheel
+        - slug: lime wheel
       straw: false
       citations:
         - title: Death & Co

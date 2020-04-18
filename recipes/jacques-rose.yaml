@@ -35,7 +35,7 @@
         - add ice and shake to chill
         - double strain into a chilled glass
       garnish:
-        - lemon peel
+        - slug: lemon peel
       straw: false
       citations:
         - title: Jaques Rose Cocktail

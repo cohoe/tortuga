@@ -25,7 +25,7 @@
       instructions:
         - stir with ice then strain into a chilled coupe
       garnish:
-        - pineapple leaf
+        - slug: pineapple leaf
       straw: false
       citations:
         - title: PDT Cocktails

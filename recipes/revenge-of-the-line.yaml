@@ -33,7 +33,7 @@
         - combine all ingredients in a mixing tin and shake with ice
         - strain into a rocks glass over a large ice cube
       garnish:
-        - chile powder dipped pineapple
+        - slug: chile powder dipped pineapple
       straw: false
       # @TODO
 #    - name: charred pineapple syrup

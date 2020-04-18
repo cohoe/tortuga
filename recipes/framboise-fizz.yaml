@@ -27,7 +27,7 @@
       instructions:
         - shake with ice, then strain into a chilled egg coupe
       garnish:
-        - name: raspberry
+        - slug: raspberry
           quantity: 3
           notes:
             - on a pick

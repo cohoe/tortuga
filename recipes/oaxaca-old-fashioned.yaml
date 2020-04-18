@@ -29,7 +29,7 @@
         - stir all the ingredients over ice, then strain into a coupe
         - flame an orange twist over the drink
       garnish:
-        - flamed orange twist
+        - slug: flamed orange twist
       straw: false
       citations:
         - title: Death & Co

@@ -27,7 +27,7 @@
       instructions:
         - stir in an ice-filled mixing glass & strain into coupe
       garnish:
-        - name: orange twist
+        - slug: orange twist
           quantity: 1
           notes:
             - twist over drink to express the oils

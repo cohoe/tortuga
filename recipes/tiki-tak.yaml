@@ -34,8 +34,8 @@
         - shake all ingredients with ice then roll into a stemless wine glass
         - top with crushed ice
       garnish:
-        - umbrella-skewered cherry
-        - lime wedge
+        - slug: umbrella-skewered cherry
+        - slug: lime wedge
       straw: false
       citations:
         - title: Tiki Tak Cocktail Recipe

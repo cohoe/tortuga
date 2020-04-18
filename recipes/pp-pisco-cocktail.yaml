@@ -41,9 +41,9 @@
         - strain into a Collins glass filled with crushed ice
         - top with chilled ginger beer
       garnish:
-        - mint sprig
-        - cucumber
-        - lemon
+        - slug: mint sprig
+        - slug: cucumber
+        - slug: lemon
       straw: false
       citations:
         - title: P&P Pisco Cocktail

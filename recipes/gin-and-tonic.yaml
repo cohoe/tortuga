@@ -19,7 +19,7 @@
       instructions:
         - add gin to a highball glass with ice cubes and top with tonic
       garnish:
-        - lime wedge
+        - slug: lime wedge
       straw: false
       citations:
       notes:

@@ -27,7 +27,7 @@
       instructions:
         - shake all ingredients with ice and strain into a chilled coupe glass
       garnish:
-        - orange twist
+        - slug: orange twist
       straw: false
       citations:
         - title: Difford's Guide

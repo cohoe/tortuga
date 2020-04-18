@@ -27,8 +27,8 @@
       instructions:
         - build in a chilled mule mug, then fill with ice cubes
       garnish:
-        - lime shell
-        - candied ginger on a pick
+        - slug: lime shell
+        - slug: candied ginger on a pick
       citations:
         - title: Meehan's Bartender Manual
           author: Jim Meehan
@@ -60,8 +60,8 @@
         - short shake all the ingredients (except the club soda) with 3 ice cubes, then strain into a highball glass filled with ice cubes
         - top with club soda
       garnish:
-        - lime wheel
-        - candied ginger flag
+        - slug: lime wheel
+        - slug: candied ginger flag
       straw: yes
       notes:
   citations:

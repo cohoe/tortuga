@@ -32,7 +32,7 @@
         - add more crushed ice to fill the tin two-thirds full and stir until the tin is completely frosted
         - add more ice to form a cone above the rum
       garnish:
-        - mint bouquet (in the center of the ice)
+        - slug: mint bouquet (in the center of the ice)
       straw: true
       notes:
         - the ice does have a positive impact on this

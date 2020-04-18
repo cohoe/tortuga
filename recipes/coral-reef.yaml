@@ -26,7 +26,7 @@
       instructions:
         - build in a highball glass over ice
       garnish:
-        - lemon twist
+        - slug: lemon twist
       straw: false
       citations:
         - title: 101 Best New Cocktails

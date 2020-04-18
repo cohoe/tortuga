@@ -29,7 +29,7 @@
       instructions:
         - shake all ingredients with ice then strain into a rocks glass over one large ice cube
       garnish:
-        - spritz of absinthe
+        - slug: spritz of absinthe
       straw: false
       citations:
         - title: Direct

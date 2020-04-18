@@ -41,7 +41,7 @@
         - swizzle until cold
         - add the bitters and swizzle them into the top of the drink
       garnish:
-        - mint sprig
+        - slug: mint sprig
       straw: true
       citations:
         - title: 'Death & Co: Modern Classic Cocktails'

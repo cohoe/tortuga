@@ -27,7 +27,7 @@
       instructions:
         - stir all ingredients over ice and strain into coupe glass
       garnish:
-        - lemon twist
+        - slug: lemon twist
       straw: false
       citations:
         - title: Adelita Cocktail Recipe

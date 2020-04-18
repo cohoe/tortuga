@@ -39,8 +39,8 @@
       instructions:
         - short shake all the ingredients with 3 ice cubes, then strain into a pilsner glass filled with crushed ice
       garnish:
-        - pineapple
-        - brandied cherry flag
+        - slug: pineapple
+        - slug: brandied cherry flag
       straw: false
       citations:
         - title: Death & Co

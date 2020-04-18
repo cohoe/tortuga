@@ -27,7 +27,7 @@
       instructions:
         - add all ingredients to a rocks glass without ice
       garnish:
-        - orange twist, discarded
+        - slug: orange twist, discarded
       straw: false
       citations:
         - title: I'm Just Here for the Drinks

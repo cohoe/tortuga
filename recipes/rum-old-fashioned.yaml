@@ -33,7 +33,7 @@
       instructions:
         - stir all the ingredients with ice then strain into a rocks glass over one large ice cube
       garnish:
-        - orange twist
+        - slug: orange twist
       straw: false
       citations:
         - title: Self
@@ -70,7 +70,7 @@
       instructions:
         - stir all the ingredients with ice then strain into a rocks glass over one large ice cube
       garnish:
-        - orange twist
+        - slug: orange twist
       straw: false
       citations:
         - title: Three Rum Old Fashioned Recipe

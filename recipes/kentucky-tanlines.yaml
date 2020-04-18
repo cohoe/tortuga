@@ -36,8 +36,8 @@
       instructions:
         - shake all ingredients with ice, then strain into a rocks glass over one large ice cube
       garnish:
-        - lightly grated nutmeg
-        - pineapple wedge
+        - slug: lightly grated nutmeg
+        - slug: pineapple wedge
       straw: false
       citations:
         - title: Direct

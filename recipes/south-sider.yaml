@@ -37,7 +37,7 @@
         - stir all the ingredients (except the champagne) over ice, then strain into a coupe
         - top with the champagne
       garnish:
-        - orange twist
+        - slug: orange twist
       straw: false
       citations:
         - title: 'Death & Co: Modern Classic Cocktails'

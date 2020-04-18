@@ -21,6 +21,6 @@
       instructions:
         - stir all the ingredients with ice, then strain into a chilled martini glass
       garnish:
-        - lemon twist
+        - slug: lemon twist
       straw: false
       citations:

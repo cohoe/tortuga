@@ -22,7 +22,7 @@
       instructions:
         - shake all ingredients with ice then strain into a chilled coupe glass
       garnish:
-        - lime wheel
+        - slug: lime wheel
       straw: false
       citations:
       notes:

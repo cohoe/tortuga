@@ -25,7 +25,7 @@
       instructions:
         - stir all ingredients over cracked ice in a rocks glass
       garnish:
-        - lime wedge
+        - slug: lime wedge
       straw: false
       citations:
         - title: Punch

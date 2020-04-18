@@ -21,7 +21,7 @@
       instructions:
         - add all ingredients to a wineglass over ice
       garnish:
-        - orange wheel
+        - slug: orange wheel
       straw: false
       citations:
         - title: Liquor.com

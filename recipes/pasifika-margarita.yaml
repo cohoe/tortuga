@@ -35,7 +35,7 @@
       instructions:
         - shake all ingredients with ice and strain into a highball filled with ice
       garnish:
-        - name: pineapple leaf
+        - slug: pineapple leaf
           quantity: 2
       straw: false
       citations:

@@ -31,7 +31,7 @@
       instructions:
         - stir all the ingredients over ice, then strain into a rocks glass
       garnish:
-        - lemon twist
+        - slug: lemon twist
       straw: false
       citations:
         - title: Death & Co

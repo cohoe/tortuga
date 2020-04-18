@@ -31,7 +31,7 @@
         - put all the ingredients in a shaking tin then add ice and shake until chilled
         - strain into a rocks glass filled with ice
       garnish:
-        - lime wheel
+        - slug: lime wheel
       straw: false
       citations:
         - title: Punch

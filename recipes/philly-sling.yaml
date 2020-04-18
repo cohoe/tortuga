@@ -31,7 +31,7 @@
         - shake all ingredients with ice
         - strain into a chilled coupe or nick-and-nora glass
       garnish:
-        - apple chip
+        - slug: apple chip
       straw: false
       citations:
         - title: I'm Just Here for the Drinks

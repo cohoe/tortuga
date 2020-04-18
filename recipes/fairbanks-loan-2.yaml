@@ -40,7 +40,7 @@
         - combine all ingredients in a mixing tin and shake with ice
         - strain into a chilled coupe or cocktail glass
       garnish:
-        - lemon twist
+        - slug: lemon twist
       straw: false
       citations:
         - title: Fairbanks Loan No. 2 Cocktail

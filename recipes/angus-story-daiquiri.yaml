@@ -34,7 +34,7 @@
       instructions:
         - shake all the ingredients with ice, then strain into a coupe
       garnish:
-        - lime wedge
+        - slug: lime wedge
       straw: false
       citations:
         - title: 'Death & Co: Modern Classic Cocktails'

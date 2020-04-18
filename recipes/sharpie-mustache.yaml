@@ -30,7 +30,7 @@
       instructions:
         - stir with plenty of ice to chill and dilute
       garnish:
-        - orange twist
+        - slug: orange twist
       straw: false
       citations:
         - title: I'm Just Here for the Drinks

@@ -33,7 +33,7 @@
         - fill with fresh pebble ice (mound the top)
         - dash Peychaud bitters on top for New Orleans "snowball" effect.
       garnish:
-        - pineapple
+        - slug: pineapple
       straw: false
       notes:
         - for clove syrup - 1:1 simple infused with cinnamon sticks and cloves

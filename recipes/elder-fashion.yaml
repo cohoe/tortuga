@@ -25,7 +25,7 @@
       instructions:
         - stir all the ingredients over ice, then strain into a double rocks glass over 1 large ice cube
       garnish:
-        - grapefruit twist
+        - slug: grapefruit twist
       straw: false
       citations:
         - title: 'Death & Co: Modern Classic Cocktails'

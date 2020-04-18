@@ -41,7 +41,7 @@
       instructions:
         - stir all the ingredients over ice, then strain into a double rocks glass
       garnish:
-        - orange twist
+        - slug: orange twist
       straw: false
       notes:
         - i totally dig this, its a conference but with rum and a touch of smoke

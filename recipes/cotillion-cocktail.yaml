@@ -36,7 +36,7 @@
         - combine all the ingredients in a shaker with ice, then shake to chill
         - double strain into a chilled glass
       garnish:
-        - flamed orange peel
+        - slug: flamed orange peel
       straw: false
   citations:
     - title: Cotillion Cocktail

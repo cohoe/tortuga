@@ -25,7 +25,7 @@
         - combine all ingredients in a mixing glass over ice and stir until chilled.
         - strain into a chilled coupe or cocktail glass.
       garnish:
-        - lemon twist
+        - slug: lemon twist
       straw: false
       notes:
         - not overly minty, dont get much cognac though

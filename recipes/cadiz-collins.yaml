@@ -35,7 +35,7 @@
         - add the remaining ingredients (except the club soda) and shake with ice, then strain into a highball glass filled with ice cubes
         - top with club soda
       garnish:
-        - orange crescent
+        - slug: orange crescent
       straw: false
       citations:
         - title: Death & Co

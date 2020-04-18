@@ -32,7 +32,7 @@
         - dry shake all the ingredients, then dump into a pilsner glass filled with crushed ice
         - swizzle until cold
       garnish:
-        - mint sprig
+        - slug: mint sprig
       straw: true
       citations:
         - title: 'Death & Co: Modern Classic Cocktails'

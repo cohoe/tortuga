@@ -28,7 +28,7 @@
         - stir all ingredients with plenty of ice in a large mixing glass
         - strain into a snifter over a large-format ice cube
       garnish:
-        - lemon twist, discarded
+        - slug: lemon twist, discarded
       straw: false
       citations:
         - title: I'm Just Here for the Drinks

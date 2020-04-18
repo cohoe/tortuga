@@ -27,7 +27,7 @@
       instructions:
         - stir all ingredients and strain into a rocks glass over a large ice cube
       garnish:
-        - aleppo dusted orange wheel
+        - slug: aleppo dusted orange wheel
       straw: false
       citations:
         - title: Punch

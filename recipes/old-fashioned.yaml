@@ -22,7 +22,7 @@
         - stir all the ingredients with ice, then strain into a rocks glass with a large ice cube
         - rub an orange peel around the rim of the glass
       garnish:
-        - orange peel
+        - slug: orange peel
       straw: false
       citations:
       notes:

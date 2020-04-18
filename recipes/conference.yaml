@@ -36,8 +36,8 @@
       instructions:
         - stir all the ingredients over ice, then strain into a double rocks glass over 1 large ice cube
       garnish:
-        - lemon twist
-        - orange twist
+        - slug: lemon twist
+        - slug: orange twist
       straw: false
       citations:
         - title: Death & Co

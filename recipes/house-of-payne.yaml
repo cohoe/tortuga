@@ -32,7 +32,7 @@
         - add the remaining ingredients and stir over ice
         - double strain into a double rocks glass over 1 large ice cube
       garnish:
-        - name: raspberry
+        - slug: raspberry
           quantity: 1
       straw: false
       citations:

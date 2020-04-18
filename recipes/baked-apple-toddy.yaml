@@ -29,8 +29,8 @@
         - fill a mug with hot water, letting sit for 1 minute to warm the mug
         - pour out the water and add all ingredients
       garnish:
-        - nutmeg
-        - apple chip
+        - slug: nutmeg
+        - slug: apple chip
       straw: false
       citations:
         - title: I'm Just Here for the Drinks

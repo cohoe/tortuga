@@ -39,7 +39,7 @@
       instructions:
         - shake all the ingredients with ice, then strain into a highball glass filled with ice cubes
       garnish:
-        - pineapple wedge
+        - slug: pineapple wedge
       straw: false
       citations:
         - title: Death & Co

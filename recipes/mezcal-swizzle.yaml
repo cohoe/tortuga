@@ -32,8 +32,8 @@
         - whip shake until melted then pour into a collins glass
         - top with pebble ice
       garnish:
-        - grapefruit
-        - sal de gusano
+        - slug: grapefruit
+        - slug: sal de gusano
       straw: false
       citations:
         - title: I'm Just Here for the Drinks

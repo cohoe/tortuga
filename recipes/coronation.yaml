@@ -36,7 +36,7 @@
         - add ice and stir for about 30 seconds
         - serve up
       garnish:
-        - lemon twist
+        - slug: lemon twist
       straw: false
       citations:
         - title: Sherry Cocktails Class

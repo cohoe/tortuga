@@ -31,7 +31,7 @@
         - dry shake all the ingredients, then add 3 ice cubes and shake again
         - double strain into a fancy fizz glass
       garnish:
-        - cinnamon
+        - slug: cinnamon
       straw: false
       citations:
         - title: 'Death & Co: Modern Classic Cocktails'

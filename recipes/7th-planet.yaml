@@ -25,7 +25,7 @@
         - strain into an ice-filled highball
         - top with prosecco
       garnish:
-        - lime wheel
+        - slug: lime wheel
       straw: false
       citations:
         - title: I'm Just Here for the Drinks

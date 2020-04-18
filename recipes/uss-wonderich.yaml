@@ -38,7 +38,7 @@
         - combine all ingredients in a mixing tin and shake with ice
         - strain into a chilled coupe or cocktail glass
       garnish:
-        - pineapple wedge
+        - slug: pineapple wedge
       straw: false
       notes:
         - sub Sabra with .5oz allspice liqueur

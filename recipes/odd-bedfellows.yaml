@@ -33,9 +33,9 @@
         - pour into a glass filled with pebble ice
         - top with more pebble ice
       garnish:
-        - pineapple wedge
-        - mint sprigs
-        - grated bitter chocolate (optional)
+        - slug: pineapple wedge
+        - slug: mint sprigs
+        - slug: grated bitter chocolate (optional)
       straw: false
       citations:
         - title: I'm Just Here for the Drinks

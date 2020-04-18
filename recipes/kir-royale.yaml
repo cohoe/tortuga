@@ -21,7 +21,7 @@
       instructions:
         - build in a flute glass
       garnish:
-        - lemon twist
+        - slug: lemon twist
       straw: false
       citations:
         - title: PDT Cocktails

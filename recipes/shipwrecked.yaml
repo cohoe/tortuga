@@ -24,7 +24,7 @@
       instructions:
         - shake all ingredients with ice and strain into a chilled coupe
       garnish:
-        - lime wheel
+        - slug: lime wheel
       straw: false
       citations:
         - title: I'm Just Here for the Drinks
