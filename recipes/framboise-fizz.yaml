@@ -30,7 +30,7 @@
         - slug: raspberry
           quantity: 3
           notes:
-            - on a pick
+            - text: on a pick
       straw: false
       citations:
         - title: PDT Cocktails

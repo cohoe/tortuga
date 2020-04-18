@@ -37,7 +37,7 @@
           location: Berkeley
           date: 2017-10-17
       notes:
-        - this is a test note for a single spec
+        - text: this is a test note for a single spec
     - name: Death & Co
       glassware:
         - slug: highball

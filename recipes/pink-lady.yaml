@@ -33,7 +33,7 @@
         - slug: brandied cherry
           quantity: 3
           notes:
-            - on a cocktail pick
+            - text: on a cocktail pick
       straw: false
       citations:
         - title: Death & Co

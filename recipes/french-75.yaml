@@ -52,8 +52,8 @@
       construction:
         slug: shake
       instructions:
-        - shake all ingredients except champagne with ice, then strain into a chilled coupe and top with champagne
-        - express a lemon twist over the glass then discard
+        - text: shake all ingredients except champagne with ice, then strain into a chilled coupe and top with champagne
+        - text: express a lemon twist over the glass then discard
       citations:
         - title: In Search of the Ultimate French 75
           publisher: Punch
@@ -62,7 +62,7 @@
           publisher: Punch
           href: https://punchdrink.com/recipes/tim-miners-french-75/
       notes:
-        - this is quite good, despite having thrown most of it on the floor
+        - text: this is quite good, despite having thrown most of it on the floor
     - name: Punch Runnerup
       origin:
         creator: Sarah Morrissey

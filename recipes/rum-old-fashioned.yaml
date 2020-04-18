@@ -38,7 +38,7 @@
       citations:
         - title: Self
       notes:
-        - spec guestimated based on the Franklin Mortgage spec
+        - text: spec guestimated based on the Franklin Mortgage spec
     - name: Three Rum
       origin:
         creator: Mike Treffehn
