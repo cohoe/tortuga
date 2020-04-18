@@ -9,7 +9,7 @@
       glassware:
         - slug: rocks
       components:
-        - name: screwball peanut butter whiskey
+        - name: skrewball peanut butter whiskey
           quantity: .75
           unit: oz
         - name: rittenhouse-100-rye-whiskey
@@ -27,3 +27,6 @@
         - text: stir all ingredients with ice and strain into a rocks glass over a large ice cube
       straw: false
       citations:
+        - title: Direct
+          author:
+            - Grant Cohoe
