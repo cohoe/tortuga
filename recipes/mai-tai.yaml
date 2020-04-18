@@ -6,7 +6,8 @@
     year: 1944
   specs:
     - name: original
-      glassware: UNKNOWN
+      glassware:
+        - slug: UNKNOWN
       components:
         - name: clement premiere canne
           quantity: 1

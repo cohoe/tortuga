@@ -6,7 +6,8 @@
     year: 1927
   specs:
     - name: original
-      glassware: rocks
+      glassware:
+        - slug: rocks
       components:
         - name: wild turkey 101 rye whiskey
           quantity: 1.5

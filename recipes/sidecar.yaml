@@ -6,7 +6,8 @@
     year: 1922
   specs:
     - name: original
-      glassware: coupe
+      glassware:
+        - slug: coupe
       components:
         - name: rémy martin VSOP cognac
           quantity: 2

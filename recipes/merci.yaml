@@ -9,7 +9,8 @@
       Named for something an Italian mob boss would say.
   specs:
     - name: original
-      glassware: coupe
+      glassware:
+        - slug: coupe
       components:
         - name: yellow chartreuse
           quantity: .75

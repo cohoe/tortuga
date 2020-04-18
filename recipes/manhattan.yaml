@@ -4,7 +4,8 @@
   origin:
   specs:
     - name: Death & Co
-      glassware: coupe
+      glassware:
+        - slug: coupe
       components:
         - name: rittenhouse 100 rye whiskey
           quantity: 2.5
@@ -33,7 +34,8 @@
       notes:
         - house sweet vermouth is equal parts dolin rouge and punt e mes
     - name: original
-      glassware: rocks
+      glassware:
+        - slug: rocks
       components:
         - name: rye whiskey
           quantity: 2

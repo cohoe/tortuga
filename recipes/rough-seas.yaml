@@ -5,7 +5,8 @@
     creator: Sother Teague
   specs:
     - name: original
-      glassware: swizzle
+      glassware:
+        - slug: swizzle
       components:
         - name: avua prata cachaça
           quantity: 1

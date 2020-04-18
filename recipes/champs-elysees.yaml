@@ -8,7 +8,8 @@
     year: 1930
   specs:
     - name: original
-      glassware: coupe
+      glassware:
+        - slug: coupe
       components:
         - name: cognac
           quantity: 2

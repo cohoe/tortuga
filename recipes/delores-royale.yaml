@@ -13,7 +13,8 @@
       a refreshing nod to late summer spritzes.
   specs:
     - name: original
-      glassware: coupe
+      glassware:
+        - slug: coupe
       components:
         - name: del maguey vida mezcal
           quantity: 1

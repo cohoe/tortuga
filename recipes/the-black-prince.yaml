@@ -8,7 +8,8 @@
     year: 2008
   specs:
     - name: original
-      glassware: coupe
+      glassware:
+        - slug: coupe
       components:
         - name: ron zacapa centenario 23 rum
           quantity: 2

@@ -12,7 +12,8 @@
       tequila, naturally.
   specs:
     - name: original
-      glassware: rocks
+      glassware:
+        - slug: rocks
       components:
         - name: el tesoro reposado tequila
           quantity: .5

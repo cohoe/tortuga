@@ -9,7 +9,8 @@
       origin:
         creator: Trader Vic
         year: 1947
-      glassware: coupe
+      glassware:
+        - slug: coupe
       components:
         - name: swedish punsch
           quantity: 1.5

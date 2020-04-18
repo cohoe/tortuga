@@ -13,7 +13,8 @@
         creator: Lee Zaremba
         venue: Lazy Bird
         location: Chicago IL
-      glassware: rocks
+      glassware:
+        - slug: rocks
       components:
         - name: knappogue-castle-12-year-irish-whiskey
           quantity: 2

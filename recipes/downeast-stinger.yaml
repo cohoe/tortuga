@@ -6,7 +6,8 @@
     location: Cambridge MA
   specs:
     - name: original
-      glassware: pint
+      glassware:
+        - slug: pint
       components:
         - name: amaretto
           quantity: 1

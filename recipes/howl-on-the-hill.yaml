@@ -7,7 +7,8 @@
     location: New York NY
   specs:
     - name: original
-      glassware: coupe
+      glassware:
+        - slug: coupe
       components:
         - name: el dorado 15-year rum
           quantity: 1.5

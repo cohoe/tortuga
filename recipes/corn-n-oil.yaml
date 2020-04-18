@@ -5,7 +5,8 @@
     venue: Barbados
   specs:
     - name: original
-      glassware: rocks
+      glassware:
+        - slug: rocks
       components:
         - name: cruzan black strap rum
           quantity: 2

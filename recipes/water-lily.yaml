@@ -7,7 +7,8 @@
     location: New York NY
   specs:
     - name: Milk & Honey
-      glassware: coupe
+      glassware:
+        - slug: coupe
       components:
         - name: gin
           quantity: .75

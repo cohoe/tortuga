@@ -11,7 +11,8 @@
       drink in history.
   specs:
     - name: original
-      glassware: flute
+      glassware:
+        - slug: flute
       components:
         - name: plymouth gin
           quantity: 1

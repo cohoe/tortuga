@@ -14,7 +14,8 @@
         venue:
         location:
         year:
-      glassware: highball
+      glassware:
+        - slug: highball
       components:
         - name: beefeater london dry gin
           quantity: 2

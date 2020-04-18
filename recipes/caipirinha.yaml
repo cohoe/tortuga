@@ -5,7 +5,8 @@
     location: Brazil
   specs:
     - name: original
-      glassware: rocks
+      glassware:
+        - slug: rocks
       components:
         - name: cachaça
           quantity: 2

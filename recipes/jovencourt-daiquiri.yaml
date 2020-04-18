@@ -11,7 +11,8 @@
       drink. Doing so is common now, but nobody was mixing with it back then.
   specs:
     - name: original
-      glassware: coupe
+      glassware:
+        - slug: coupe
       components:
         - name: barbancourt-rhum-blanc
           quantity: 2

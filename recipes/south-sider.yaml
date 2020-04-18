@@ -13,7 +13,8 @@
       drink a little bit.
   specs:
     - name: original
-      glassware: coupe
+      glassware:
+        - slug: coupe
       components:
         - name: el dorado 12-year rum
           quantity: 2

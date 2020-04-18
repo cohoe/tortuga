@@ -11,7 +11,8 @@
       four of these in an evening.
   specs:
     - name: original
-      glassware: fizz
+      glassware:
+        - slug: fizz
       components:
         - name: knappogue castle 12-year irish whiskey
           quantity: 1.5

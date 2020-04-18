@@ -11,7 +11,8 @@
       combined them, along with sloe gin, in this Negroni variation.
   specs:
     - name: original
-      glassware: rocks
+      glassware:
+        - slug: rocks
       components:
         - name: raspberry
           quantity: 3

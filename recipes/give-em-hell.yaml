@@ -8,7 +8,8 @@
     year: 2019
   specs:
     - name: original
-      glassware: bowl
+      glassware:
+        - slug: bowl
       components:
         - name: sexton irish whiskey
           quantity: 1

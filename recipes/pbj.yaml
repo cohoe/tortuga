@@ -6,7 +6,8 @@
     location: Princeton NJ
   specs:
     - name: original
-      glassware: rocks
+      glassware:
+        - slug: rocks
       components:
         - name: screwball peanut butter whiskey
           quantity: .75

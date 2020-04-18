@@ -3,7 +3,8 @@
   status: green
   specs:
     - name: original
-      glassware: nicknora
+      glassware:
+        - slug: nicknora
       components:
         - name: rittenhouse 100 rye whiskey
           quantity: 2
@@ -33,7 +34,8 @@
         - equal parts does yield a less rye-forward drink, though had to do with calvados since im out of apple brandy
         - almost a bit too chart-y so maybe reduce that a bit? but its still good enough
     - name: Drink
-      glassware: coupe
+      glassware:
+        - slug: coupe
       components:
         - name: rittenhouse 100 rye whiskey
           quantity: 1

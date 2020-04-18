@@ -11,7 +11,8 @@
       it as "a sex change for Laphroaig"
   specs:
     - name: original
-      glassware: pilsner
+      glassware:
+        - slug: pilsner
       components:
         - name: laphroaig 10 year old single malt scotch whisky
           quantity: 2

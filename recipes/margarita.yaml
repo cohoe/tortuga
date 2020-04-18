@@ -5,7 +5,8 @@
     location: Mexico
   specs:
     - name: original
-      glassware: rocks
+      glassware:
+        - slug: rocks
       components:
         - name: blanco tequila
           quantity: 2

@@ -18,7 +18,8 @@
       liqueur to bring out its fruity notes.
   specs:
     - name: original
-      glassware: coupe
+      glassware:
+        - slug: coupe
       components:
         - name: appleton estate reserve rum
           quantity: .5

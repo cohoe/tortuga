@@ -5,7 +5,8 @@
     creator: Sother Teague
   specs:
     - name: original
-      glassware: mug
+      glassware:
+        - slug: mug
       components:
         - name: apple brandy
           quantity: 1.5

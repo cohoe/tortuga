@@ -12,7 +12,8 @@
       Scobeyville Sling.
   specs:
     - name: original
-      glassware: pilsner
+      glassware:
+        - slug: pilsner
       components:
         - name: siembra azul blanco tequila
           quantity: 1

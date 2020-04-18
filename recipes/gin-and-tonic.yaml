@@ -5,7 +5,8 @@
     location: Spain
   specs:
     - name: original
-      glassware: highball
+      glassware:
+        - slug: highball
       components:
         - name: london dry gin
           quantity: 2

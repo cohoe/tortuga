@@ -7,7 +7,8 @@
     year: 1940
   specs:
     - name: PDT
-      glassware: mule
+      glassware:
+        - slug: mule
       origin:
         venue: Please Don't Tell
         location: New York NY
@@ -36,7 +37,8 @@
       notes:
         - this is a test note for a single spec
     - name: Death & Co
-      glassware: highball
+      glassware:
+        - slug: highball
       origin:
         venue: Death & Co
         location: New York NY

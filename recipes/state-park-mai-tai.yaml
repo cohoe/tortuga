@@ -6,7 +6,8 @@
     location: Cambridge & Woburn MA
   specs:
     - name: original
-      glassware: tiki
+      glassware:
+        - slug: tiki
       components:
         - name: old monk 7-year rum
           quantity: .75

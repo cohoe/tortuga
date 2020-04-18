@@ -5,7 +5,8 @@
     creator: Sother Teague
   specs:
     - name: original
-      glassware: rocks
+      glassware:
+        - slug: rocks
       components:
         - name: amaro nonino
           quantity: 1.5

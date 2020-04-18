@@ -7,7 +7,8 @@
         creator: Tom Macy
         venue: Clover Club
         location: Brooklyn NY
-      glassware: coupe
+      glassware:
+        - slug: coupe
       components:
         - name: tanqueray london dry gin
           quantity: 2
@@ -28,7 +29,8 @@
         creator: Sarah Morrissey
         venue: Frenchette
         location: New York NY
-      glassware: coupe
+      glassware:
+        - slug: coupe
       components:
         - name: tanqueray london dry gin
           quantity: 2

@@ -7,7 +7,8 @@
     location: New York NY
   specs:
     - name: original
-      glassware: coupe
+      glassware:
+        - slug: coupe
       components:
         - name: ransom old tom gin
           quantity: 1.5

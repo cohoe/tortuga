@@ -8,7 +8,8 @@
     year: 2008
   specs:
     - name: original
-      glassware: fizz
+      glassware:
+        - slug: fizz
       components:
         - name: flor-de-cana-7-year-rum
           quantity: 2

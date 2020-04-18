@@ -12,7 +12,8 @@
       French colony.
   specs:
     - name: original
-      glassware: rocks
+      glassware:
+        - slug: rocks
       components:
         - name: vieux pontarlier absinthe
         - name: barbancourt 3-star rum

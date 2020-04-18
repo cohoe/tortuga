@@ -6,7 +6,8 @@
     location: Somerville MA
   specs:
     - name: original
-      glassware: rocks
+      glassware:
+        - slug: rocks
       components:
         - name: old overholt rye whiskey
           quantity: 2

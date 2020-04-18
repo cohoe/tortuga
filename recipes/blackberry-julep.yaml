@@ -7,7 +7,8 @@
     location: New York NY
   specs:
     - name: original
-      glassware: highball
+      glassware:
+        - slug: highball
       components:
         - name: hendricks gin
           quantity: 1.5

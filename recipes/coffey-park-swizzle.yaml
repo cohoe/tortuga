@@ -12,7 +12,8 @@
       the category.
   specs:
     - name: original
-      glassware: pilsner
+      glassware:
+        - slug: pilsner
       components:
         - name: barbancourt 3-star rum
           quantity: 1

@@ -10,7 +10,8 @@
       that has stood the test of time.
   specs:
     - name: original
-      glassware: sour
+      glassware:
+        - slug: sour
       components:
         - name: daron fine calvados
           quantity: 2

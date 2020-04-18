@@ -11,7 +11,8 @@
       and asked me to make him a three-rum daiquiri. This is the result.
   specs:
     - name: original
-      glassware: coupe
+      glassware:
+        - slug: coupe
       components:
         - name: appleton signature rum
           quantity: .75

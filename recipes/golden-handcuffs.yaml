@@ -7,7 +7,8 @@
     location: Houston TX
   specs:
     - name: original
-      glassware: rocks
+      glassware:
+        - slug: rocks
       components:
         - name: plantation pineapple rum
           quantity: 1

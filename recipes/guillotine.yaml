@@ -7,7 +7,8 @@
     location: Brooklyn NY
   specs:
     - name: original
-      glassware: snifter
+      glassware:
+        - slug: snifter
       components:
         - name: mezcal
           quantity: 1

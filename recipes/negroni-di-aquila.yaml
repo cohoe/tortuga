@@ -8,7 +8,8 @@
     year: 2010
   specs:
     - name: original
-      glassware: goblet
+      glassware:
+        - slug: goblet
       components:
         - name: aperol
           quantity: 1

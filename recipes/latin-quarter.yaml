@@ -12,7 +12,8 @@
       the world.
   specs:
     - name: original
-      glassware: rocks
+      glassware:
+        - slug: rocks
       components:
         - name: vieux pontarlier absinthe
         - name: ron-zacapa-centenario-23-rum

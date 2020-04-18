@@ -8,7 +8,8 @@
     year: 2011
   specs:
     - name: original
-      glassware: coupe
+      glassware:
+        - slug: coupe
       components:
         - name: el tesoro anejo tequila
           quantity: 1.5

@@ -12,7 +12,8 @@
       in a glass.
   specs:
     - name: original
-      glassware: rocks
+      glassware:
+        - slug: rocks
       components:
         - name: mezcal
           quantity: 1.75
@@ -35,7 +36,8 @@
       straw: false
       # @TODO
 #    - name: charred pineapple syrup
-#      glassware: bottle
+#      glassware:
+#        - slug: bottle
 #      components:
 #        - name: charred pineapple
 #          quantity: 250

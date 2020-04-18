@@ -10,7 +10,8 @@
       simple cocktail.
   specs:
     - name: original
-      glassware: rocks
+      glassware:
+        - slug: rocks
       components:
         - name: domaine du manoir de montreuil reserve
           quantity: 1.5

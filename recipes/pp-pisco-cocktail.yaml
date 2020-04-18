@@ -9,7 +9,8 @@
       pisco with the earthiness of Pimm's.
   specs:
     - name: original
-      glassware: collins
+      glassware:
+        - slug: collins
       components:
         - name: pisco
           quantity: 1

@@ -8,7 +8,8 @@
     year: 2008
   specs:
     - name: original
-      glassware: wine
+      glassware:
+        - slug: wine
       components:
         - name: beefeater london dry gin
           # or appleton estate v/x rum, siembra azul blanco tequila, compass box asyla scotch, calvados, or hine h cognac

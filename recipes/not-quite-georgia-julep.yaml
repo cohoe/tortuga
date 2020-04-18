@@ -8,7 +8,8 @@
     year: 2008
   specs:
     - name: original
-      glassware: julep
+      glassware:
+        - slug: julep
       components:
         - name: cognac
           quantity: 1

@@ -5,7 +5,8 @@
     creator: Sother Teague
   specs:
     - name: original
-      glassware: fancy fizz
+      glassware:
+        - slug: fancy fizz
       components:
         - name: fernet-branca
           quantity: 1

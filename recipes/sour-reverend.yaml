@@ -6,7 +6,8 @@
     location: Cambridge MA
   specs:
     - name: original
-      glassware: rocks
+      glassware:
+        - slug: rocks
       components:
         - name: plantation pineapple rum
           quantity: 2

@@ -11,7 +11,8 @@
       champagne.
   specs:
     - name: original
-      glassware: flute
+      glassware:
+        - slug: flute
       components:
         - name: bols genever
           quantity: 1.5

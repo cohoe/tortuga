@@ -7,7 +7,8 @@
     location: New York NY
   specs:
     - name: original
-      glassware: rocks
+      glassware:
+        - slug: rocks
       components:
         - name: banks 5 island rum
           quantity: 1

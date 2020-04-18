@@ -6,7 +6,8 @@
     year: 1890
   specs:
     - name: original
-      glassware: rocks
+      glassware:
+        - slug: rocks
       components:
         - name: la favorite rhum agricole blanc
           quantity: 2

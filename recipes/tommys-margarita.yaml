@@ -6,7 +6,8 @@
     location: San Francisco CA
   specs:
     - name: original
-      glassware: rocks
+      glassware:
+        - slug: rocks
       components:
         - name: L&J blanco tequila
           quantity: 2

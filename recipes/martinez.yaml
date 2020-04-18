@@ -3,7 +3,8 @@
   status: green
   specs:
     - name: PDT
-      glassware: coupe
+      glassware:
+        - slug: coupe
       components:
         - name: hayman's old tom gin
           quantity: 1.5
@@ -27,7 +28,8 @@
         - title: PDT Cocktails
           href:
     - name: 'Death & Co'
-      glassware: nickandnora
+      glassware:
+        - slug: nickandnora
       components:
         - name: "hayman's old tom gin"
           quantity: 1.5

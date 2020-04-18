@@ -8,7 +8,8 @@
     year: 2008
   specs:
     - name: original
-      glassware: coupe
+      glassware:
+        - slug: coupe
       components:
         - name: santa teresa 1796 rum
           quantity: 2

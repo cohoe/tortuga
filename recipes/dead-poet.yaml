@@ -7,7 +7,8 @@
     location: Halifax NS
   specs:
     - name: original
-      glassware: coupe
+      glassware:
+        - slug: coupe
       components:
         - name: blanco tequila
           quantity: 1

@@ -5,7 +5,8 @@
     creator: Rick Dobbs
   specs:
     - name: original
-      glassware: UNKNOWN
+      glassware:
+        - slug: UNKNOWN
       components:
         - name: olmeca altos reposado tequila
           quantity: 2

@@ -6,7 +6,8 @@
     location: Oakland CA
   specs:
     - name: original
-      glassware: highball
+      glassware:
+        - slug: highball
       components:
         - name: patrón silver
           quantity: 1.5

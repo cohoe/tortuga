@@ -8,7 +8,8 @@
     year: 2011
   specs:
     - name: original
-      glassware: highball
+      glassware:
+        - slug: highball
       components:
         - name: plymouth gin
           quantity: 2

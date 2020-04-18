@@ -10,7 +10,8 @@
         story: >-
           Early on in our drinking careers, Brendan asked for something boozy
           and rum based. We were surprised how tame the Smith & Cross became.
-      glassware: rocks
+      glassware:
+        - slug: rocks
       components:
         - name: smith & cross jamaican rum
           quantity: .5
@@ -42,7 +43,8 @@
         creator: Mike Treffehn
         venue: The Franklin Mortgage & Investment Co
         location: Philadelphia PA
-      glassware: rocks
+      glassware:
+        - slug: rocks
       components:
         - name: appleton estate reserve rum
           quantity: 1

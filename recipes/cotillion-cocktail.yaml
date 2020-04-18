@@ -12,7 +12,8 @@
       of triple sec.
   specs:
     - name: original
-      glassware: coupe
+      glassware:
+        - slug: coupe
       components:
         - name: old forester 86-proof bourbon
           quantity: 1

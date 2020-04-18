@@ -14,7 +14,8 @@
         venue:
         location:
         year:
-      glassware: martini
+      glassware:
+        - slug: martini
       components:
         - name: manzanilla sherry
           quantity: 2

@@ -6,7 +6,8 @@
     location: Brooklyn NY
   specs:
     - name: original
-      glassware: rocks
+      glassware:
+        - slug: rocks
       components:
         - name: rhum-clement-v-s-o-p
           quantity: 1

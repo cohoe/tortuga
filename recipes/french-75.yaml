@@ -6,7 +6,8 @@
     year: 1927
   specs:
     - name: original
-      glassware: coupe
+      glassware:
+        - slug: coupe
       components:
         - name: london dry gin
           quantity: 1
@@ -34,7 +35,8 @@
       origin:
         creator: Tim Miner
         venue: The Long Island Bar
-      glassware: flute
+      glassware:
+        - slug: flute
       components:
         - name: hine h vsop cognac
           quantity: 1
@@ -63,7 +65,8 @@
       origin:
         creator: Sarah Morrissey
         venue: Frenchette
-      glassware: flute
+      glassware:
+        - slug: flute
       components:
         - name: plymouth gin
           quantity: 1.5

@@ -4,7 +4,8 @@
   origin:
   specs:
     - name: original
-      glassware: rocks
+      glassware:
+        - slug: rocks
       components:
         - name: manzanilla sherry
           quantity: 1.5

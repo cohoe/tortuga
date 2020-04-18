@@ -5,7 +5,8 @@
     year: 1910
   specs:
     - name: original
-      glassware: coupe
+      glassware:
+        - slug: coupe
       components:
         - name: laird's bonded apple brandy
           quantity: 2

@@ -7,7 +7,8 @@
     location: Brooklyn NY
   specs:
     - name: original
-      glassware: stemless wine
+      glassware:
+        - slug: stemless wine
       components:
         - name: Lofi dry vermouth
           quantity: 1
