@@ -14,7 +14,8 @@
         - name: tonic water
           quantity: 4
           unit: oz
-      construction: build
+      construction:
+        slug: build
       instructions:
         - add gin to a highball glass with ice cubes and top with tonic
       garnish:

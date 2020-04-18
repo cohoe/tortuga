@@ -27,7 +27,8 @@
         - name: simple syrup
           quantity: .75
           unit: oz
-      construction: shake
+      construction:
+        slug: shake
       instructions:
         - shake all ingredients with ice and strain into a tiki glass with crushed ice
       straw: false

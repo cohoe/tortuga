@@ -18,7 +18,8 @@
         - name: "boker's bitters"
           quantity: 2
           unit: dash
-      construction: stir
+      construction:
+        slug: stir
       instructions:
         - stir with ice, then strain into a chilled coupe
       garnish:
@@ -49,7 +50,8 @@
         - name: house orange bitters
           quantity: 1
           unit: dash
-      construction: stir
+      construction:
+        slug: stir
       instructions:
         - stir all the ingredients over ice, then strain into a Nick & Nora glass
       garnish:
@@ -82,7 +84,8 @@
         - name: boker's bitters
           quantity: 2
           unit: dash
-      construction: stir
+      construction:
+        slug: stir
       instructions:
         - stir with ice, then strain into a chilled coupe
       notes:

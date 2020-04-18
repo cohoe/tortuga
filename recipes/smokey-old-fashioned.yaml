@@ -26,7 +26,8 @@
         - name: orange bitters
           quantity: 1
           unit: dash
-      construction: stir
+      construction:
+        slug: stir
       instructions:
         - combine all ingredients into a mixing glass with ice and stir to chill
         - strain the cocktail into a rocks glass over ice

@@ -17,7 +17,8 @@
           quantity: .5
           unit: oz
         - name: dry champagne
-      construction: shake
+      construction:
+        slug: shake
       instructions:
         - shake all the ingredients (except the champagne) with ice, then strain into a flute
         - top with champagne

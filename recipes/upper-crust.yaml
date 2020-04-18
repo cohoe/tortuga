@@ -22,7 +22,8 @@
         - name: orgeat
           quantity: .5
           unit: oz
-      construction: shake
+      construction:
+        slug: shake
       instructions:
         - shake all ingredients and strain into a sugar-rimmed nick-and-nora or coupe glass
       garnish:

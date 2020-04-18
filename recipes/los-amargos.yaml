@@ -25,7 +25,8 @@
         - name: maraska maraschino liqueur
           quantity: 1
           unit: tsp
-      construction: shake
+      construction:
+        slug: shake
       instructions:
         - shake all the ingredients with ice, then strain into a coupe
       straw: false

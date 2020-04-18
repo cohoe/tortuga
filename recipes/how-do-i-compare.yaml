@@ -22,7 +22,8 @@
         - name: apple bitters
           quantity: 2
           unit: dash
-      construction: build
+      construction:
+        slug: build
       instructions:
         - add all ingredients to a rocks glass without ice
       garnish:

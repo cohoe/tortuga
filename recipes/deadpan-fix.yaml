@@ -29,7 +29,8 @@
         - name: ginger syrup
           quantity: .25
           unit: oz
-      construction: shake
+      construction:
+        slug: shake
       instructions:
         - shake all ingredients with ice, then strain into a coupe
       garnish:

@@ -19,7 +19,8 @@
         - name: hard cider
           quantity: 4
           unit: oz
-      construction: stir
+      construction:
+        slug: stir
       instructions:
         - pour bouron and syrup into a highball filled with ice
         - top with cider

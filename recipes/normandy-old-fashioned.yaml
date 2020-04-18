@@ -31,7 +31,8 @@
         - name: pimento bitters
           quantity: 1
           unit: dash
-      construction: stir
+      construction:
+        slug: stir
       instructions:
         - stir all of the ingredients with ice o chill, strain into a glass over a single large ice cube
       garnish:

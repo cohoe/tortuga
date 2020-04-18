@@ -26,7 +26,8 @@
         - name: angostura bitters
           quantity: 1
           unit: dash
-      construction: shake
+      construction:
+        slug: shake
       instructions:
         - shake with ice, then strain into a chilled coupe
       garnish:

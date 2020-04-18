@@ -26,7 +26,8 @@
           quantity: .5
           unit: oz
         - name: hard cider
-      construction: build
+      construction:
+        slug: build
       instructions:
         - build in a glass over ice and top with cider
       garnish:

@@ -15,7 +15,8 @@
         - name: yellow chartreuse
           quantity: .5
           unit: oz
-      construction: stir
+      construction:
+        slug: stir
       instructions:
         - stir all the ingredients over ice, then strain into a Nick & Nora glass
       straw: false
@@ -46,7 +47,8 @@
         - name: yellow chartreuse
           quantity: 1
           unit: oz
-      construction: stir
+      construction:
+        slug: stir
       instructions:
         - stir all the ingredients over ice, then strain into a Nick & Nora glass
       straw: false

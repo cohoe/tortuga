@@ -16,7 +16,8 @@
         - name: angostura bitters
           quantity: 2
           unit: dash
-      construction: stir
+      construction:
+        slug: stir
       instructions:
         - stir all the ingredients over ice, then strain into a coupe
       garnish:
@@ -46,7 +47,8 @@
         - name: angostura bitters
           quantity: 1
           unit: dash
-      construction: stir
+      construction:
+        slug: stir
       instructions:
         - stir all the ingredients over ice, then strain into a chilled rocks glass
       garnish:

@@ -25,7 +25,8 @@
         - name: orgeat
           quantity: .5
           unit: oz
-      construction: shake
+      construction:
+        slug: shake
       instructions:
         - shake all the ingredients with ice and strain into a coupe.
       garnish:

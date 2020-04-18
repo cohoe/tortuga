@@ -18,7 +18,8 @@
         - name: campari
           quantity: 1
           unit: oz
-      construction: stir
+      construction:
+        slug: stir
       instructions:
         - stir with ice, then strain into a chilled rocks glass with one large ice sphere
       garnish:

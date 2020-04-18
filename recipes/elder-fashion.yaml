@@ -20,7 +20,8 @@
         - name: house orange bitters
           quantity: 2
           unit: dash
-      construction: stir
+      construction:
+        slug: stir
       instructions:
         - stir all the ingredients over ice, then strain into a double rocks glass over 1 large ice cube
       garnish:

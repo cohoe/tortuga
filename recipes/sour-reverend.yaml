@@ -18,7 +18,8 @@
         - name: simple syrup
           quantity: .75
           unit: oz
-      construction: shake
+      construction:
+        slug: shake
       instructions:
         - shake all ingredients with ice and strain into a rocks glass over fresh ice
       straw: false

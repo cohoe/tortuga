@@ -24,7 +24,8 @@
           unit: oz
         - name: caol-ila-12-year-scotch-whisky
           unit: rinse
-      construction: shake
+      construction:
+        slug: shake
       instructions:
         - shake all ingredients except the scotch with ice
         - strain into a coupe glass rinsed with scotch

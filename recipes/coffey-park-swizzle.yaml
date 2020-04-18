@@ -33,7 +33,8 @@
         - name: angostura bitters
           quantity: 3
           unit: dash
-      construction: swizzle
+      construction:
+        slug: swizzle
       instructions:
         - whip all the ingredients (except the bitters), shaking with a few pieces of crushed ice just until incorporated
         - strain into a pilsner glass filled with crushed ice

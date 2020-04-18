@@ -33,7 +33,8 @@
           unit: dash
         - name: lemon twist
           quantity: 1
-      construction: stir
+      construction:
+        slug: stir
       instructions:
         - rinse a double rocks with absinthe and dump
         - stir the remaining ingredients (except the lemon twist) over ice, then strain into the glass

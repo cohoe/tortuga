@@ -22,7 +22,8 @@
         - name: honey syrup
           quantity: .25
           unit: oz
-      construction: stir
+      construction:
+        slug: stir
       instructions:
         - stir all ingredients with plenty of ice in a large mixing glass
         - strain into a snifter over a large-format ice cube

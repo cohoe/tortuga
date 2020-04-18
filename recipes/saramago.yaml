@@ -26,7 +26,8 @@
           unit: dash
         - name: grapefruit twist
           quantity: 1
-      construction: stir
+      construction:
+        slug: stir
       instructions:
         - rinse a coupe with mezcal and dump
         - stir the remaining ingredients (excep tthe grapefruit twist) over ice, then strain into the coupe

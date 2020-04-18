@@ -25,7 +25,8 @@
         - name: sparkling wine
           quantity: 3
           unit: oz
-      construction: stir
+      construction:
+        slug: stir
       instructions:
         - add ice to a white or red wine glass
         - add all ingredients and stir briefly

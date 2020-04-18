@@ -24,7 +24,8 @@
         - name: cinnamon bark syrup
           quantity: .25
           unit: oz
-      construction: shake
+      construction:
+        slug: shake
       instructions:
         - shake all ingredients with ice then strain into a rocks glass over one large ice cube
       garnish:

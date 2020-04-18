@@ -30,7 +30,8 @@
         - name: li hing mui syrup
           quantity: 1
           unit: barspoon
-      construction: shake
+      construction:
+        slug: shake
       instructions:
         - shake all ingredients with ice and strain into a highball filled with ice
       garnish:

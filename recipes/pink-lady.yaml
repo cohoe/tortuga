@@ -24,7 +24,8 @@
           unit: oz
         - name: egg white
           quantity: 1
-      construction: shake
+      construction:
+        slug: shake
       instructions:
         - dry shake all the ingredients, then shake again with ice
         - double strain into a rocks glass over 1 large ice cube

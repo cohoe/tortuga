@@ -29,7 +29,8 @@
         - name: cane sugar syrup
           quantity: .5
           unit: oz
-      construction: shake
+      construction:
+        slug: shake
       instructions:
         - shake all the ingredients with ice, then strain into a fancy fizz glass
       straw: false

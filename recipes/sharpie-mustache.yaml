@@ -25,7 +25,8 @@
         - name: bittermens elemakule tiki bitters
           quantity: 2
           unit: dash
-      construction: stir
+      construction:
+        slug: stir
       instructions:
         - stir with plenty of ice to chill and dilute
       garnish:

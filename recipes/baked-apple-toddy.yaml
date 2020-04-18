@@ -23,7 +23,8 @@
         - name: bar keep apple bitters
           quantity: 2
           unit: dash
-      construction: stir
+      construction:
+        slug: stir
       instructions:
         - fill a mug with hot water, letting sit for 1 minute to warm the mug
         - pour out the water and add all ingredients

@@ -27,7 +27,8 @@
           quantity: 1
           unit: dash
         - name: dry champagne
-      construction: stir
+      construction:
+        slug: stir
       instructions:
         - stir all the ingredients (except the champagne) over ice, then strain into a flute
         - top with champagne

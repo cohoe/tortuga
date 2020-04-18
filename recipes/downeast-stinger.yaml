@@ -21,7 +21,8 @@
         - name: downeast original hard cider
           quantity: 4
           unit: oz
-      construction: build
+      construction:
+        slug: build
       instructions:
         - build in a pint glass over ice cubes
       garnish:

@@ -20,7 +20,8 @@
         - name: grapefruit juice
           quantity: 1
           unit: oz
-      construction: shake
+      construction:
+        slug: shake
       instructions:
         - shake all ingredients with ice and strain into a chilled coupe glass
       straw: false

@@ -25,7 +25,8 @@
         - name: salt
           quantity: 1
           unit: pinch
-      construction: shake
+      construction:
+        slug: shake
       instructions:
         - put all the ingredients in a shaking tin then add ice and shake until chilled
         - strain into a rocks glass filled with ice

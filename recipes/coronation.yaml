@@ -29,7 +29,8 @@
         - name: orange bitters
           quantity: 2
           unit: dash
-      construction: stir
+      construction:
+        slug: stir
       instructions:
         - add all ingredients to a mixing glass
         - add ice and stir for about 30 seconds

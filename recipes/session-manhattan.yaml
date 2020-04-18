@@ -22,7 +22,8 @@
         - name: angostura bitters
           quantity: 2
           unit: dash
-      construction: stir
+      construction:
+        slug: stir
       instructions:
         - add all the ingredients in a mixing glass, add ice, and stir until chilled
         - strain into a coupe

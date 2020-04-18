@@ -27,7 +27,8 @@
         - name: lemon juice
           quantity: 1
           unit: oz
-      construction: shake
+      construction:
+        slug: shake
       instructions:
         - combine all ingredients in a mixing tin and shake with ice
         - strain into a rocks glass over a large ice cube
@@ -47,7 +48,8 @@
 #          unit: gram
 #        - name: jalapeños
 #          quantity: 2
-#      construction: shake
+#      construction:
+#        slug: shake
 #      instructions:
 #        - combine all ingredients in a Vitamix and blend, then strain through a chinois.
   citations:

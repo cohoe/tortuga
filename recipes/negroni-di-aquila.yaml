@@ -18,7 +18,8 @@
           quantity: 1
           unit: oz
         - name: prosecco
-      construction: stir
+      construction:
+        slug: stir
       instructions:
         - in a goblet or rocks glass, combine the Aperol and Punt e Mes with ice and stir to chill
         - top with prosecco

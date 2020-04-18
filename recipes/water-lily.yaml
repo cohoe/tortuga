@@ -22,7 +22,8 @@
         - name: lemon juice
           quantity: .75
           unit: oz
-      construction: stir
+      construction:
+        slug: stir
       instructions:
         - stir in an ice-filled mixing glass & strain into coupe
       garnish:

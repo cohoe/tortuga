@@ -16,7 +16,8 @@
         - name: angostura bitters
           quantity: 2
           unit: dash
-      construction: stir
+      construction:
+        slug: stir
       instructions:
         - stir all the ingredients with ice, then strain into a rocks glass with a large ice cube
         - rub an orange peel around the rim of the glass

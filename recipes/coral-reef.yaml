@@ -21,7 +21,8 @@
           quantity: .75
           unit: oz
         - name: club soda
-      construction: build
+      construction:
+        slug: build
       instructions:
         - build in a highball glass over ice
       garnish:

@@ -17,7 +17,8 @@
         - name: simple syrup
           quantity: 1
           unit: oz
-      construction: shake
+      construction:
+        slug: shake
       instructions:
         - shake all ingredients with ice then strain into a chilled coupe glass
       garnish:

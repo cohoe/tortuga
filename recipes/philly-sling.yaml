@@ -25,7 +25,8 @@
         - name: fee brothers whiskey barrel-aged bitters
           quantity: 1
           unit: dash
-      construction: shake
+      construction:
+        slug: shake
       instructions:
         - shake all ingredients with ice
         - strain into a chilled coupe or nick-and-nora glass

@@ -27,7 +27,8 @@
         - name: regans orange bitters
           quantity: 1
           unit: dash
-      construction: stir
+      construction:
+        slug: stir
       instructions:
         - stir all the ingredients over ice, then strain into a coupe
       citations:

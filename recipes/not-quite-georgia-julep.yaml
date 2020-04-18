@@ -23,7 +23,8 @@
         - name: simple syrup
           quantity: 1
           unit: tsp
-      construction: stir
+      construction:
+        slug: stir
       instructions:
         - put all the ingredients in a julep tin
         - fill the tin halfway with crushed ice
