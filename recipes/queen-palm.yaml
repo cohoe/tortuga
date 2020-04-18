@@ -34,7 +34,7 @@
       construction:
         slug: shake
       instructions:
-        - shake all the ingredients with ice, then strain into a coupe
+        - text: shake all the ingredients with ice, then strain into a coupe
       straw: false
       citations:
         - title: Death & Co

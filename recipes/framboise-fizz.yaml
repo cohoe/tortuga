@@ -25,7 +25,7 @@
       construction:
         slug: shake
       instructions:
-        - shake with ice, then strain into a chilled egg coupe
+        - text: shake with ice, then strain into a chilled egg coupe
       garnish:
         - slug: raspberry
           quantity: 3

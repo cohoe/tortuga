@@ -28,11 +28,11 @@
       construction:
         slug: shake
       instructions:
-        - shake all ingredients except blackstrap rum and bitters, then strain into a collins glass
-        - add crushed ice and float the blackstrap rum and bitters
+        - text: shake all ingredients except blackstrap rum and bitters, then strain into a collins glass
+        - text: add crushed ice and float the blackstrap rum and bitters
       straw: true
       citations:
         - title: Imbibe
           href: http://imbibemagazine.com/corn-n-oil/
       notes:
-        - stir to combine before drinking
+        - text: stir to combine before drinking

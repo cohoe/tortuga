@@ -30,8 +30,8 @@
       construction:
         slug: shake
       instructions:
-        - short shake all the ingredients (except the club soda) with 3 ice cubes, then strain into a highball glass filled with ice cubes
-        - top with club soda
+        - text: short shake all the ingredients (except the club soda) with 3 ice cubes, then strain into a highball glass filled with ice cubes
+        - text: top with club soda
       garnish:
         - slug: orange crescent
         - slug: cherry flag
@@ -45,4 +45,4 @@
         date: 2014-10-07
         publisher: Ten Speed Press
       notes:
-        - refreshing, easy, would definitely be better with full strength soda water (used 2oz)
+        - text: refreshing, easy, would definitely be better with full strength soda water (used 2oz)

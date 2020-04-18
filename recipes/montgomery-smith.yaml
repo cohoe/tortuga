@@ -22,15 +22,15 @@
       construction:
         slug: stir
       instructions:
-        - combine all ingredients in a mixing glass over ice and stir until chilled.
-        - strain into a chilled coupe or cocktail glass.
+        - text: combine all ingredients in a mixing glass over ice and stir until chilled.
+        - text: strain into a chilled coupe or cocktail glass.
       garnish:
         - slug: lemon twist
       straw: false
       notes:
-        - not overly minty, dont get much cognac though
-        - to a point by Daemon Boelte though, it is surprisingly balanced
-        - after a little bit of water it almost gets a bit eggy
+        - text: not overly minty, dont get much cognac though
+        - text: to a point by Daemon Boelte though, it is surprisingly balanced
+        - text: after a little bit of water it almost gets a bit eggy
       citations:
         - title: Montgomery Smith Cocktail
           author:

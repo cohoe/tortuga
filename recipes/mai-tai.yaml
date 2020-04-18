@@ -27,7 +27,7 @@
       construction:
         slug: shake
       instructions:
-        - shake with ice, then strain into a chilled rocks glass filled with pebble ice
+        - text: shake with ice, then strain into a chilled rocks glass filled with pebble ice
       garnish:
         - slug: mint sprig
       straw: false

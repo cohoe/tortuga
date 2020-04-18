@@ -21,11 +21,11 @@
       construction:
         slug: stir
       instructions:
-        - stir with ice, then strain into a chilled rocks glass with one large ice sphere
+        - text: stir with ice, then strain into a chilled rocks glass with one large ice sphere
       garnish:
         - slug: orange twist
       straw: false
       citations:
         - title: Meehan's Bartender Manual
       notes:
-        - could sub a bourbon in for the rye
+        - text: could sub a bourbon in for the rye

@@ -28,8 +28,8 @@
       construction:
         slug: stir
       instructions:
-        - add ice to a white or red wine glass
-        - add all ingredients and stir briefly
+        - text: add ice to a white or red wine glass
+        - text: add all ingredients and stir briefly
       garnish:
         - slug: orange twist
         - slug: orange half wheel
@@ -37,5 +37,5 @@
       citations:
         - title: Sherry Cocktails Class
   notes:
-    - from the sherry class at Rebel Rebel
+    - text: from the sherry class at Rebel Rebel
   tags:

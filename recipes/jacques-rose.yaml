@@ -31,9 +31,9 @@
       construction:
         slug: shake
       instructions:
-        - combine all of the ingredients in a shaker
-        - add ice and shake to chill
-        - double strain into a chilled glass
+        - text: combine all of the ingredients in a shaker
+        - text: add ice and shake to chill
+        - text: double strain into a chilled glass
       garnish:
         - slug: lemon peel
       straw: false
@@ -43,5 +43,5 @@
             - Imbibe
           href: https://imbibemagazine.com/jacques-rose-cocktail/
       notes:
-        - 1:1 demerara syrup
-        - grenadine recipe at source
+        - text: '1:1 demerara syrup'
+        - text: grenadine recipe at source

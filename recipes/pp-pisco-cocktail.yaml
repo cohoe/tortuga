@@ -37,9 +37,9 @@
       construction:
         slug: shake
       instructions:
-        - combine ingredients in a shaker with ice and shake to chill
-        - strain into a Collins glass filled with crushed ice
-        - top with chilled ginger beer
+        - text: combine ingredients in a shaker with ice and shake to chill
+        - text: strain into a Collins glass filled with crushed ice
+        - text: top with chilled ginger beer
       garnish:
         - slug: mint sprig
         - slug: cucumber

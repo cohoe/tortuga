@@ -26,15 +26,15 @@
       construction:
         slug: stir
       instructions:
-        - in a mixing glass, muddle the sugar cubes with 1 ounce of the club soda until the sugar is broken up
-        - add the remaining ingredients (except the remaining club soda) and stir over ice until cold, then strain into a brandy snifter over 1 large cube
-        - top with the remaining 1 ounce club soda
+        - text: in a mixing glass, muddle the sugar cubes with 1 ounce of the club soda until the sugar is broken up
+        - text: add the remaining ingredients (except the remaining club soda) and stir over ice until cold, then strain into a brandy snifter over 1 large cube
+        - text: top with the remaining 1 ounce club soda
       garnish:
         - slug: peach slices
       straw: false
       notes:
-        - can replace the cubes with .5oz simple, do 1.5oz club instead
-        - though might need a little more soda, kinda came out a bit lemony
+        - text: can replace the cubes with .5oz simple, do 1.5oz club instead
+        - text: though might need a little more soda, kinda came out a bit lemony
       citations:
         - title: 'Death & Co: Modern Classic Cocktails'
           author:

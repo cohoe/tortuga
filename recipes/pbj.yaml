@@ -24,6 +24,6 @@
       construction:
         slug: stir
       instructions:
-        - stir all ingredients with ice and strain into a rocks glass over a large ice cube
+        - text: stir all ingredients with ice and strain into a rocks glass over a large ice cube
       straw: false
       citations:

@@ -31,8 +31,8 @@
       construction:
         slug: punch
       instructions:
-        - add all ingredients to a punch bowl, with absinthe to taste
-        - adjust to taste if needed (sometimes the tea and citrus vary in potency)
+        - text: add all ingredients to a punch bowl, with absinthe to taste
+        - text: adjust to taste if needed (sometimes the tea and citrus vary in potency)
       garnish:
         - slug: lime wheels
         - slug: freshly grated nutmeg

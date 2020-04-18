@@ -28,8 +28,8 @@
       construction:
         slug: stir
       instructions:
-        - stir all the ingredients with ice, then strain over a large ice cube
-        - twist an orange peel over the drink
+        - text: stir all the ingredients with ice, then strain over a large ice cube
+        - text: twist an orange peel over the drink
       garnish:
         - slug: orange peel
       straw: false

@@ -21,8 +21,8 @@
       construction:
         slug: shake
       instructions:
-        - shake all ingredients with ice and strain into a rocks glass over fresh ice
+        - text: shake all ingredients with ice and strain into a rocks glass over fresh ice
       straw: false
       citations:
       notes:
-        - this is a classic sour spec with the plantation pineapple and bit less of the other bits
+        - text: this is a classic sour spec with the plantation pineapple and bit less of the other bits

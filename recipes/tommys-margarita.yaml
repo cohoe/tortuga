@@ -21,10 +21,10 @@
       construction:
         slug: shake
       instructions:
-        - shake with ice, then strain into a rocks glass filled with ice cubes
+        - text: shake with ice, then strain into a rocks glass filled with ice cubes
       straw: false
       citations:
         - title: PDT Cocktails
           href: https://mixologytech.com/pdt/index.html
       notes:
-        - reposado tequila adds nothing significant to this drink
+        - text: reposado tequila adds nothing significant to this drink

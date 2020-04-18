@@ -26,9 +26,9 @@
       construction:
         slug: stir
       instructions:
-        - stir all the ingredients over ice, then strain into a coupe
+        - text: stir all the ingredients over ice, then strain into a coupe
       straw: false
       citations:
         - title: Death & Co
       notes:
-        - everything is overpowered by the scotch, used lagavulin 16, cant taste apple brandy or bene at all
+        - text: everything is overpowered by the scotch, used lagavulin 16, cant taste apple brandy or bene at all

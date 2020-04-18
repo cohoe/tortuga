@@ -32,7 +32,7 @@
       construction:
         slug: shake
       instructions:
-        - shake all ingredients with ice, then strain into a coupe
+        - text: shake all ingredients with ice, then strain into a coupe
       garnish:
         - slug: orange twist
       straw: false

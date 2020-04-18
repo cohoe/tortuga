@@ -24,8 +24,8 @@
       construction:
         slug: shake
       instructions:
-        - shake all ingredients except champagne with ice, then strain into a chilled coupe
-        - top with champagne
+        - text: shake all ingredients except champagne with ice, then strain into a chilled coupe
+        - text: top with champagne
       garnish:
         - slug: lemon twist
       straw: false
@@ -88,11 +88,11 @@
       construction:
         slug: shake
       instructions:
-        - shake all ingredients except champagne with ice, then strain into a chilled coupe and top with champagne
+        - text: shake all ingredients except champagne with ice, then strain into a chilled coupe and top with champagne
       garnish:
         - slug: lemon twist
           notes:
-            - thin and spiraled
+            - text: thin and spiraled
       citations:
         - title: In Search of the Ultimate French 75
           publisher: Punch
@@ -101,7 +101,7 @@
           publisher: Punch
           href: https://punchdrink.com/recipes/sarah-morrisseys-french-75/
       notes:
-        - cane at 1:1
-        - noted for its crushability
-        - too much sweet with the 2:1 cane, cut it in half and it would probably be ok
-        - does not fit in a coupe
+        - text: 'cane at 1:1'
+        - text: noted for its crushability
+        - text: 'too much sweet with the 2:1 cane, cut it in half and it would probably be ok'
+        - text: does not fit in a coupe

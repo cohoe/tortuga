@@ -22,7 +22,7 @@
       construction:
         slug: shake
       instructions:
-        - shake all ingredients with ice and strain into a chilled coupe
+        - text: shake all ingredients with ice and strain into a chilled coupe
       garnish:
         - slug: lime wheel
       straw: false
@@ -30,4 +30,4 @@
         - title: I'm Just Here for the Drinks
           page: 238
       notes:
-        - yes it does mean agave nectar
+        - text: yes it does mean agave nectar

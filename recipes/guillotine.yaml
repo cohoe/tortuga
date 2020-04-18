@@ -25,8 +25,8 @@
       construction:
         slug: stir
       instructions:
-        - stir all ingredients with plenty of ice in a large mixing glass
-        - strain into a snifter over a large-format ice cube
+        - text: stir all ingredients with plenty of ice in a large mixing glass
+        - text: strain into a snifter over a large-format ice cube
       garnish:
         - slug: lemon twist, discarded
       straw: false

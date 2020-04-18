@@ -32,14 +32,14 @@
       construction:
         slug: stir
       instructions:
-        - add all ingredients to a mixing glass
-        - add ice and stir for about 30 seconds
-        - serve up
+        - text: add all ingredients to a mixing glass
+        - text: add ice and stir for about 30 seconds
+        - text: serve up
       garnish:
         - slug: lemon twist
       straw: false
       citations:
         - title: Sherry Cocktails Class
   notes:
-    - from the sherry class at Rebel Rebel
-    - was ok, not my favorite of the two
+    - text: from the sherry class at Rebel Rebel
+    - text: was ok, not my favorite of the two

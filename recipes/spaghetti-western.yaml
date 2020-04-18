@@ -26,11 +26,11 @@
       construction:
         slug: stir
       instructions:
-        - stir all the ingredients over ice, then strain into an old-fashioned glass over 1 large ice cube
+        - text: stir all the ingredients over ice, then strain into an old-fashioned glass over 1 large ice cube
       garnish:
         - slug: grapefruit twist
       straw: false
       citations:
         - title: Death & Co
       notes:
-        - house orange bitters is equal parts Fee Brothers West Indian, Regans, and Angostura Orange bitters
+        - text: house orange bitters is equal parts Fee Brothers West Indian, Regans, and Angostura Orange bitters

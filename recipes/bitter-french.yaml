@@ -31,9 +31,9 @@
       construction:
         slug: shake
       instructions:
-        - shake all the ingredients (except the champagne and grapefruit twist) with ice, then strain into a flute
-        - top with champagne
-        - squeeze the grapefruit twist over the drink and discard
+        - text: shake all the ingredients (except the champagne and grapefruit twist) with ice, then strain into a flute
+        - text: top with champagne
+        - text: squeeze the grapefruit twist over the drink and discard
       straw: false
       citations:
         - title: 'Death & Co: Modern Classic Cocktails'

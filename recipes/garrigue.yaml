@@ -28,7 +28,7 @@
       construction:
         slug: shake
       instructions:
-        - shake over ice and fine-strain into a chilled coupe glass
+        - text: shake over ice and fine-strain into a chilled coupe glass
       garnish:
         - slug: lemon twist
         - slug: dried lavender sprig

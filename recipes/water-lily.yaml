@@ -25,12 +25,12 @@
       construction:
         slug: stir
       instructions:
-        - stir in an ice-filled mixing glass & strain into coupe
+        - text: stir in an ice-filled mixing glass & strain into coupe
       garnish:
         - slug: orange twist
           quantity: 1
           notes:
-            - twist over drink to express the oils
+            - text: twist over drink to express the oils
       straw: false
       citations:
         - title: Imbibe Magazine

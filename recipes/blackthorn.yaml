@@ -34,7 +34,7 @@
       construction:
         slug: stir
       instructions:
-        - stir all ingredients with ice, then strain into a glass filled with fresh ice
+        - text: stir all ingredients with ice, then strain into a glass filled with fresh ice
       garnish:
         - slug: lemon twist
       straw: false
@@ -43,4 +43,4 @@
           date: 2019-01-01
           page: 81
   notes:
-    - i want to like this more, but it came out somewhat watery. Did with Dead Rabbit.
+    - text: i want to like this more, but it came out somewhat watery. Did with Dead Rabbit.

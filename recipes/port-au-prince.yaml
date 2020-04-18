@@ -37,7 +37,7 @@
       construction:
         slug: shake
       instructions:
-        - short shake all the ingredients with 3 ice cubes, then strain into a pilsner glass filled with crushed ice
+        - text: short shake all the ingredients with 3 ice cubes, then strain into a pilsner glass filled with crushed ice
       garnish:
         - slug: pineapple
         - slug: brandied cherry flag

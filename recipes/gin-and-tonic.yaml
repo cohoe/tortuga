@@ -17,11 +17,11 @@
       construction:
         slug: build
       instructions:
-        - add gin to a highball glass with ice cubes and top with tonic
+        - text: add gin to a highball glass with ice cubes and top with tonic
       garnish:
         - slug: lime wedge
       straw: false
       citations:
       notes:
-        - can add 1oz or so of any fruit juice (or .5oz of syrup)
-        - can squeeze out the lime before garnishing
+        - text: can add 1oz or so of any fruit juice (or .5oz of syrup)
+        - text: can squeeze out the lime before garnishing

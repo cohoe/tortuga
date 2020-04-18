@@ -32,8 +32,8 @@
       construction:
         slug: stir
       instructions:
-        - stir all the ingredients with ice, then strain into a chilled glass
-        - twist a lime peel over the drink
+        - text: stir all the ingredients with ice, then strain into a chilled glass
+        - text: twist a lime peel over the drink
       garnish:
         - slug: twisted lime peel
       straw: false
@@ -48,5 +48,5 @@
       href: https://stackoverflow.com/questions/4766230/map-shift-tab-in-vim-to-inverse-tab-in-vim
       credit: Jessica Emin
   notes:
-    - Two French liqueurs give this robust mix an equally bold aroma.
-    - I made this one once and apparently liked it, but I dont recall anything about that.
+    - text: Two French liqueurs give this robust mix an equally bold aroma.
+    - text: I made this one once and apparently liked it, but I dont recall anything about that.

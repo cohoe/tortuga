@@ -24,7 +24,7 @@
       construction:
         slug: shake
       instructions:
-        - shake with ice, then strain into a chilled coupe glass
+        - text: shake with ice, then strain into a chilled coupe glass
       straw: false
       citations:
         - title: PDT Cocktails

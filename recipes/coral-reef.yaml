@@ -24,7 +24,7 @@
       construction:
         slug: build
       instructions:
-        - build in a highball glass over ice
+        - text: build in a highball glass over ice
       garnish:
         - slug: lemon twist
       straw: false
@@ -32,6 +32,6 @@
         - title: 101 Best New Cocktails
           href: https://mixologytech.com/gaz/index.html
       notes:
-        - presumably top with club soda, which gaz sez is optional
-        - this is better without the soda
-        - with soda (2oz) its too watered down and not fizzy though my soda may be running out of juice
+        - text: presumably top with club soda, which gaz sez is optional
+        - text: this is better without the soda
+        - text: with soda (2oz) its too watered down and not fizzy though my soda may be running out of juice

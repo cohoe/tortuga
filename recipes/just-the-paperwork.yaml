@@ -26,7 +26,7 @@
       construction:
         slug: build
       instructions:
-        - build in a rocks glass and serve neat
+        - text: build in a rocks glass and serve neat
       garnish:
         - slug: orange twist
       straw: false
@@ -34,4 +34,4 @@
         - title: I'm Just Here for the Drinks
           page: 192
       notes:
-        - no ice involved
+        - text: no ice involved

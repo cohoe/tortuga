@@ -20,7 +20,7 @@
       construction:
         slug: shake
       instructions:
-        - shake all ingredients over ice then strain into a rocks glass over a large ice ball
+        - text: shake all ingredients over ice then strain into a rocks glass over a large ice ball
       garnish:
         - slug: lemon wedge
       straw: false
@@ -30,4 +30,4 @@
         - Critical Role
       href: https://www.youtube.com/watch?v=oC-tvSnpRrM
   notes:
-    - on paper the lemon juice seems high, need to try it out and perhaps refactor
+    - text: on paper the lemon juice seems high, need to try it out and perhaps refactor

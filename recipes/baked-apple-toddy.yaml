@@ -26,8 +26,8 @@
       construction:
         slug: stir
       instructions:
-        - fill a mug with hot water, letting sit for 1 minute to warm the mug
-        - pour out the water and add all ingredients
+        - text: fill a mug with hot water, letting sit for 1 minute to warm the mug
+        - text: pour out the water and add all ingredients
       garnish:
         - slug: nutmeg
         - slug: apple chip
@@ -36,4 +36,4 @@
         - title: I'm Just Here for the Drinks
           page: 123
       notes:
-        - feel like a stir or something is missing
+        - text: feel like a stir or something is missing

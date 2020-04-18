@@ -27,9 +27,9 @@
       construction:
         slug: shake
       instructions:
-        - whip shake with a few pebbles
-        - pour over fresh pebble ice in a swizzle glass
-        - mound more ice on top like a snow cone and paint with peychauds
+        - text: whip shake with a few pebbles
+        - text: pour over fresh pebble ice in a swizzle glass
+        - text: mound more ice on top like a snow cone and paint with peychauds
       straw: false
       citations:
         - title: I'm Just Here for the Drinks

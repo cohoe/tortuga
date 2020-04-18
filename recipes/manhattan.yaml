@@ -19,7 +19,7 @@
       construction:
         slug: stir
       instructions:
-        - stir all the ingredients over ice, then strain into a coupe
+        - text: stir all the ingredients over ice, then strain into a coupe
       garnish:
         - slug: brandied cherry
           quantity: 1
@@ -33,7 +33,7 @@
           date: 2014-10-07
           publisher: Ten Speed Press
       notes:
-        - house sweet vermouth is equal parts dolin rouge and punt e mes
+        - text: house sweet vermouth is equal parts dolin rouge and punt e mes
     - name: original
       glassware:
         - slug: rocks
@@ -50,7 +50,7 @@
       construction:
         slug: stir
       instructions:
-        - stir all the ingredients over ice, then strain into a chilled rocks glass
+        - text: stir all the ingredients over ice, then strain into a chilled rocks glass
       garnish:
         - slug: maraschino cherry
       straw: false

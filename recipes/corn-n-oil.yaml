@@ -23,7 +23,7 @@
       construction:
         slug: stir
       instructions:
-        - stir all ingredients over cracked ice in a rocks glass
+        - text: stir all ingredients over cracked ice in a rocks glass
       garnish:
         - slug: lime wedge
       straw: false
@@ -31,4 +31,4 @@
         - title: Punch
           href: https://punchdrink.com/recipes/corn-n-oil/
       notes:
-        - specs between PDT, Punch, and Imbibe vary greatly
+        - text: specs between PDT, Punch, and Imbibe vary greatly

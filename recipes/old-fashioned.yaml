@@ -19,11 +19,11 @@
       construction:
         slug: stir
       instructions:
-        - stir all the ingredients with ice, then strain into a rocks glass with a large ice cube
-        - rub an orange peel around the rim of the glass
+        - text: stir all the ingredients with ice, then strain into a rocks glass with a large ice cube
+        - text: rub an orange peel around the rim of the glass
       garnish:
         - slug: orange peel
       straw: false
       citations:
       notes:
-        - the orange peel does actually make a difference
+        - text: the orange peel does actually make a difference

@@ -37,8 +37,8 @@
       construction:
         slug: shake
       instructions:
-        - combine all ingredients in a mixing tin and shake with ice
-        - strain into a chilled coupe or cocktail glass
+        - text: combine all ingredients in a mixing tin and shake with ice
+        - text: strain into a chilled coupe or cocktail glass
       garnish:
         - slug: lemon twist
       straw: false
@@ -48,5 +48,5 @@
             - PUNCH
           href: https://punchdrink.com/recipes/fairbanks-loan-2/
       notes:
-        - honey syrup should be 1:1 honey:water
-        - lilletperitif is 4:2:1 lillet:cynar:campari
+        - text: 'honey syrup should be 1:1 honey:water'
+        - text: 'lilletperitif is 4:2:1 lillet:cynar:campari'

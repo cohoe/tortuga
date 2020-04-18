@@ -28,9 +28,9 @@
       construction:
         slug: shake
       instructions:
-        - combine all ingredients with a few pieces of pebble ice
-        - whip shake until melted then pour into a collins glass
-        - top with pebble ice
+        - text: combine all ingredients with a few pieces of pebble ice
+        - text: whip shake until melted then pour into a collins glass
+        - text: top with pebble ice
       garnish:
         - slug: grapefruit
         - slug: sal de gusano
@@ -39,4 +39,4 @@
         - title: I'm Just Here for the Drinks
           page: 155
       notes:
-        - Sother says this is a non-swizzle swizzle
+        - text: Sother says this is a non-swizzle swizzle

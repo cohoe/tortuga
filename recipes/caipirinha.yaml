@@ -19,8 +19,8 @@
       construction:
         slug: shake
       instructions:
-        - muddle the lime and sugar, then add the Cachaça
-        - shake with ice and pour unstrained into a chilled rocks glass
+        - text: muddle the lime and sugar, then add the Cachaça
+        - text: shake with ice and pour unstrained into a chilled rocks glass
       straw: false
       citations:
         - title: PDT Cocktails
@@ -28,4 +28,4 @@
         - title: Tropical Bar Book
           date: 1989-04-01
       notes:
-        - 2bs sugar or 2 cubes
+        - text: 2bs sugar or 2 cubes

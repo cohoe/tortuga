@@ -23,7 +23,7 @@
       construction:
         slug: shake
       instructions:
-        - shake all ingredients with ice and strain into a chilled coupe glass
+        - text: shake all ingredients with ice and strain into a chilled coupe glass
       straw: false
       citations:
         - title: Difford's Guide
@@ -33,8 +33,8 @@
         - title: Cold glass
           href: https://cold-glass.com/2012/08/26/is-that-your-real-name-the-diki-diki-cocktail/
       notes:
-        - newer recipes call for 4:1:1 ratio
-        - 4:1:1 everything else gets lost, maybe 2:.75:.5 would amplify things a bit
-        - 2:.75:5 still a bit too apple forward, bit watery
-        - this could use a workshop
-        - 1:1 lairds bonded and calvados works pretty ok
+        - text: 'newer recipes call for 4:1:1 ratio'
+        - text: '4:1:1 everything else gets lost, maybe 2:.75:.5 would amplify things a bit'
+        - text: '2:.75:5 still a bit too apple forward, bit watery'
+        - text: 'this could use a workshop'
+        - text: '1:1 lairds bonded and calvados works pretty ok'

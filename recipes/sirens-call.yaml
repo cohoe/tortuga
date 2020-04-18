@@ -27,7 +27,7 @@
       construction:
         slug: shake
       instructions:
-        - shake all ingredients with ice then strain into a rocks glass over one large ice cube
+        - text: shake all ingredients with ice then strain into a rocks glass over one large ice cube
       garnish:
         - slug: spritz of absinthe
       straw: false

@@ -21,9 +21,9 @@
       construction:
         slug: shake
       instructions:
-        - combine all ingredients except prosecco and shake with ice
-        - strain into an ice-filled highball
-        - top with prosecco
+        - text: combine all ingredients except prosecco and shake with ice
+        - text: strain into an ice-filled highball
+        - text: top with prosecco
       garnish:
         - slug: lime wheel
       straw: false

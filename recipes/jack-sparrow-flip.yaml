@@ -28,8 +28,8 @@
       construction:
         slug: shake
       instructions:
-        - dry shake all the ingredients, then add 3 ice cubes and shake again
-        - double strain into a fancy fizz glass
+        - text: dry shake all the ingredients, then add 3 ice cubes and shake again
+        - text: double strain into a fancy fizz glass
       garnish:
         - slug: cinnamon
       straw: false

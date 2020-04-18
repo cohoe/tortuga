@@ -31,8 +31,8 @@
       construction:
         slug: shake
       instructions:
-        - dry shake all the ingredients, then shake again with ice
-        - double strain into a coupe
+        - text: dry shake all the ingredients, then shake again with ice
+        - text: double strain into a coupe
       garnish:
         - slug: brandied cherry
       straw: false

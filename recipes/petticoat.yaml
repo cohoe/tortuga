@@ -29,9 +29,9 @@
       construction:
         slug: shake
       instructions:
-        - shake all the ingredients with ice, then strain into a coupe
+        - text: shake all the ingredients with ice, then strain into a coupe
       straw: false
       citations:
         - title: Death & Co
       notes:
-        - might be able to get away without the sichuan gin, though it does sound interesting
+        - text: might be able to get away without the sichuan gin, though it does sound interesting

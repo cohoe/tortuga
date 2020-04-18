@@ -26,7 +26,7 @@
       construction:
         slug: shake
       instructions:
-        - shake with ice and strain into a cocktail glass
+        - text: shake with ice and strain into a cocktail glass
       straw: false
       notes:
       citations:

@@ -29,12 +29,12 @@
       construction:
         slug: stir
       instructions:
-        - stir all the ingredients over ice, then strain into a rocks glass
+        - text: stir all the ingredients over ice, then strain into a rocks glass
       garnish:
         - slug: lemon twist
       straw: false
       citations:
         - title: Death & Co
       notes:
-        - no. 10 gin is described as citrus-forward, maybe like the privateer tiki
-        - sub either bluecoat or lockhouse in for the gin, and cointreau for the marnier
+        - text: no. 10 gin is described as citrus-forward, maybe like the privateer tiki
+        - text: sub either bluecoat or lockhouse in for the gin, and cointreau for the marnier

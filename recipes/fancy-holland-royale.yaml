@@ -30,8 +30,8 @@
       construction:
         slug: stir
       instructions:
-        - stir all the ingredients (except the champagne) over ice, then strain into a flute
-        - top with champagne
+        - text: stir all the ingredients (except the champagne) over ice, then strain into a flute
+        - text: top with champagne
       straw: false
       citations:
         - title: 'Death & Co: Modern Classic Cocktails'

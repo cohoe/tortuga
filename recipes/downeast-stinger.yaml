@@ -24,7 +24,7 @@
       construction:
         slug: build
       instructions:
-        - build in a pint glass over ice cubes
+        - text: build in a pint glass over ice cubes
       garnish:
         - slug: maraschino cherry
         - slug: lemon wedge

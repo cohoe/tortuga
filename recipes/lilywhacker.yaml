@@ -26,7 +26,7 @@
       construction:
         slug: stir
       instructions:
-        - stir all the ingredients over ice, then strain into a coupe
+        - text: stir all the ingredients over ice, then strain into a coupe
       straw: false
       citations:
         - title: 'Death & Co: Modern Classic Cocktails'
@@ -38,6 +38,6 @@
           publisher: Ten Speed Press
           page: 218
       notes:
-        - much improved when served over ice cube
-        - good fall flavors of apple and spice with a hint of orange (basically its components)
-        - not sure it really stands out
+        - text: much improved when served over ice cube
+        - text: good fall flavors of apple and spice with a hint of orange (basically its components)
+        - text: not sure it really stands out

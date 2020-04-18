@@ -23,7 +23,7 @@
       construction:
         slug: shake
       instructions:
-        - shake all the ingredients with ice, then strain into a rocks glass over fresh ice
+        - text: shake all the ingredients with ice, then strain into a rocks glass over fresh ice
       garnish:
         - slug: lime wheel
         - slug: kosher salt

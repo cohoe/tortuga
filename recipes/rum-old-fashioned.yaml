@@ -31,7 +31,7 @@
       construction:
         slug: stir
       instructions:
-        - stir all the ingredients with ice then strain into a rocks glass over one large ice cube
+        - text: stir all the ingredients with ice then strain into a rocks glass over one large ice cube
       garnish:
         - slug: orange twist
       straw: false
@@ -68,7 +68,7 @@
       construction:
         slug: stir
       instructions:
-        - stir all the ingredients with ice then strain into a rocks glass over one large ice cube
+        - text: stir all the ingredients with ice then strain into a rocks glass over one large ice cube
       garnish:
         - slug: orange twist
       straw: false
@@ -80,4 +80,4 @@
           date: 2014-01-07
           href: https://www.seriouseats.com/recipes/2014/01/franklin-mortgage-three-rum-old-fashioned-cocktail-recipe.html
       notes:
-        - demerara syrup should be 2:1 sugar:water
+        - text: demerara syrup should be 2:1 sugar:water

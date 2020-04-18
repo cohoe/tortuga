@@ -27,9 +27,9 @@
       construction:
         slug: stir
       instructions:
-        - stir all ingredients over ice and strain into a chilled coupe glass
+        - text: stir all ingredients over ice and strain into a chilled coupe glass
       straw: false
       citations:
         - title: Direct
   notes:
-    - pronounced with mandarine tones 3-1
+    - text: pronounced with mandarine tones 3-1

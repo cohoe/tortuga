@@ -19,7 +19,7 @@
       construction:
         slug: stir
       instructions:
-        - stir all the ingredients with ice, then strain into a chilled martini glass
+        - text: stir all the ingredients with ice, then strain into a chilled martini glass
       garnish:
         - slug: lemon twist
       straw: false

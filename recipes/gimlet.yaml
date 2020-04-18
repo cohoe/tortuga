@@ -22,8 +22,8 @@
       construction:
         slug: shake
       instructions:
-        - muddle two lime wedges in the syrup and add to a shaker with the rest of the ingredients including juice
-        - shake with ice and fine-strain into a glass
+        - text: muddle two lime wedges in the syrup and add to a shaker with the rest of the ingredients including juice
+        - text: shake with ice and fine-strain into a glass
       straw: false
     - name: Frenchette
       origin:
@@ -45,10 +45,10 @@
       construction:
         slug: shake
       instructions:
-        - shake with ice and strain into a glass
+        - text: shake with ice and strain into a glass
       straw: false
       notes:
-        - lime juice should be fine-strained
+        - text: lime juice should be fine-strained
   citations:
     - title: In Search of the Ultimate Gimlet
       author:

@@ -25,10 +25,10 @@
       construction:
         slug: shake
       instructions:
-        - shake all the ingredients with ice, then strain into a chilled glass
+        - text: shake all the ingredients with ice, then strain into a chilled glass
       straw: false
       citations:
         - title: Imbibe
           href: http://imbibemagazine.com/eastern-standard-queen-christina/
       notes:
-        - swap irish whiskey for a mrs-doyle (slightly different spec though)
+        - text: swap irish whiskey for a mrs-doyle (slightly different spec though)

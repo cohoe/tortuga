@@ -28,8 +28,8 @@
       construction:
         slug: shake
       instructions:
-        - combine all ingredients in a shaker with ice
-        - shake vigorously and double strain into a coupe glass
+        - text: combine all ingredients in a shaker with ice
+        - text: shake vigorously and double strain into a coupe glass
       straw: false
       citations:
         - title: Go Bananas - Giffard - Back Bar Project

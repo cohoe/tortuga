@@ -30,9 +30,9 @@
       construction:
         slug: shake
       instructions:
-        - dry shake all ingredients except the rum
-        - add ice then shake to combine
-        - strain into a rocks glass over a large ice cube
+        - text: dry shake all ingredients except the rum
+        - text: add ice then shake to combine
+        - text: strain into a rocks glass over a large ice cube
       straw: false
       citations:
         - title: I'm Just Here for the Drinks

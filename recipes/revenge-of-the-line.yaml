@@ -30,8 +30,8 @@
       construction:
         slug: shake
       instructions:
-        - combine all ingredients in a mixing tin and shake with ice
-        - strain into a rocks glass over a large ice cube
+        - text: combine all ingredients in a mixing tin and shake with ice
+        - text: strain into a rocks glass over a large ice cube
       garnish:
         - slug: chile powder dipped pineapple
       straw: false

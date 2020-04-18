@@ -25,7 +25,7 @@
       construction:
         slug: shake
       instructions:
-        - shake all ingredients with ice, then strain into a coupe
+        - text: shake all ingredients with ice, then strain into a coupe
       straw: false
       citations:
         - title: 'Death & Co: Modern Classic Cocktails'
@@ -38,5 +38,5 @@
           location: Berkeley
           page: 170
       notes:
-        - very unusual flavor likely due to the arrack
-        - shaken and vermouth
+        - text: very unusual flavor likely due to the arrack
+        - text: shaken and vermouth

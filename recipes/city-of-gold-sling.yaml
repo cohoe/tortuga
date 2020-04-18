@@ -37,7 +37,7 @@
       construction:
         slug: shake
       instructions:
-        - shake all the ingredients with ice, then strain into a highball glass filled with ice cubes
+        - text: shake all the ingredients with ice, then strain into a highball glass filled with ice cubes
       garnish:
         - slug: pineapple wedge
       straw: false

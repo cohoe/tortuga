@@ -28,7 +28,7 @@
       construction:
         slug: shake
       instructions:
-        - shake all the ingredients with ice and strain into a coupe.
+        - text: shake all the ingredients with ice and strain into a coupe.
       garnish:
         - slug: orange twist
       straw: false
@@ -36,5 +36,5 @@
         - title: Death & Co
           page: 182
       notes:
-        - has an odd citrus twang, feels a bit slightly orange/lime forward with a touch of tequila
-        - friuty and tequila overall concept, very easy downing
+        - text: has an odd citrus twang, feels a bit slightly orange/lime forward with a touch of tequila
+        - text: friuty and tequila overall concept, very easy downing

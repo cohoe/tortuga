@@ -27,7 +27,7 @@
       construction:
         slug: stir
       instructions:
-        - combine all the ingredients in a wine glass filled with ice cubes and stir until cold
+        - text: combine all the ingredients in a wine glass filled with ice cubes and stir until cold
       garnish:
         - slug: lemon twist
       straw: false
@@ -41,6 +41,6 @@
           publisher: Ten Speed Press
           page: 253
       notes:
-        - appleton was acceptable, good low abv
-        - may do better with real st-germain not st-elder
+        - text: appleton was acceptable, good low abv
+        - text: may do better with real st-germain not st-elder
 

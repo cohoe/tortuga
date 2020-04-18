@@ -35,13 +35,13 @@
       construction:
         slug: shake
       instructions:
-        - combine all ingredients in a mixing tin and shake with ice
-        - strain into a chilled coupe or cocktail glass
+        - text: combine all ingredients in a mixing tin and shake with ice
+        - text: strain into a chilled coupe or cocktail glass
       garnish:
         - slug: pineapple wedge
       straw: false
       notes:
-        - sub Sabra with .5oz allspice liqueur
+        - text: sub Sabra with .5oz allspice liqueur
   citations:
     - title: U.S.S. Wonderich Cockrail Recipe
       author:

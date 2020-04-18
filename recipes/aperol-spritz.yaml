@@ -19,7 +19,7 @@
       construction:
         slug: build
       instructions:
-        - add all ingredients to a wineglass over ice
+        - text: add all ingredients to a wineglass over ice
       garnish:
         - slug: orange wheel
       straw: false

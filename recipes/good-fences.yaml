@@ -22,8 +22,8 @@
       construction:
         slug: stir
       instructions:
-        - pour bouron and syrup into a highball filled with ice
-        - top with cider
+        - text: pour bouron and syrup into a highball filled with ice
+        - text: top with cider
       garnish:
         - slug: grated cinnamon
         - slug: apple slice
@@ -32,4 +32,4 @@
         - title: I'm Just Here for the Drinks
           page: 113
       notes:
-        - feel like this should get a stir to combine syrup/bourbon more
+        - text: feel like this should get a stir to combine syrup/bourbon more

@@ -26,17 +26,17 @@
       construction:
         slug: stir
       instructions:
-        - put all the ingredients in a julep tin
-        - fill the tin halfway with crushed ice
-        - stir with a teaspoon, churning the ice as you go, for about 10 seconds, holding the tin by rim so the entire tin can eventually frost up
-        - add more crushed ice to fill the tin two-thirds full and stir until the tin is completely frosted
-        - add more ice to form a cone above the rum
+        - text: put all the ingredients in a julep tin
+        - text: fill the tin halfway with crushed ice
+        - text: stir with a teaspoon, churning the ice as you go, for about 10 seconds, holding the tin by rim so the entire tin can eventually frost up
+        - text: add more crushed ice to fill the tin two-thirds full and stir until the tin is completely frosted
+        - text: add more ice to form a cone above the rum
       garnish:
         - slug: mint bouquet (in the center of the ice)
       straw: true
       notes:
-        - the ice does have a positive impact on this
-        - this would be better on a nice hot summer day, perhaps pitcherable for porchfest or something like that if were ever allowed outside again
+        - text: the ice does have a positive impact on this
+        - text: this would be better on a nice hot summer day, perhaps pitcherable for porchfest or something like that if were ever allowed outside again
       citations:
         - title: 'Death & Co: Modern Classic Cocktails'
           author:

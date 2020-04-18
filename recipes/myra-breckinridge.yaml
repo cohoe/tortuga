@@ -29,8 +29,8 @@
       construction:
         slug: shake
       instructions:
-        - dry shake all the ingredients, then dump into a pilsner glass filled with crushed ice
-        - swizzle until cold
+        - text: dry shake all the ingredients, then dump into a pilsner glass filled with crushed ice
+        - text: swizzle until cold
       garnish:
         - slug: mint sprig
       straw: true

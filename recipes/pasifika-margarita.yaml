@@ -33,7 +33,7 @@
       construction:
         slug: shake
       instructions:
-        - shake all ingredients with ice and strain into a highball filled with ice
+        - text: shake all ingredients with ice and strain into a highball filled with ice
       garnish:
         - slug: pineapple leaf
           quantity: 2
@@ -43,4 +43,4 @@
         - title: 2019 Margarita of the Year
           href: https://www.patrontequila.com/margarita-of-the-year/2019/pasifika-margarita.html
       notes:
-        - li hing mui syrup is 8:8:1 water:sugar:li-hing-mui 
+        - text: 'li hing mui syrup is 8:8:1 water:sugar:li-hing-mui'

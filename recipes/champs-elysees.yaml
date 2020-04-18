@@ -29,7 +29,7 @@
       construction:
         slug: shake
       instructions:
-        - shake with ice, then strain into a chilled coupe
+        - text: shake with ice, then strain into a chilled coupe
       garnish:
         - slug: lemon twist
       straw: false
@@ -39,4 +39,4 @@
         - title: The Canon Cocktail Book
           page: 94
       notes:
-        - canon replaces green with yellow and removes simple, 1.5:.5:.5 spec
+        - text: 'canon replaces green with yellow and removes simple, 1.5:.5:.5 spec'

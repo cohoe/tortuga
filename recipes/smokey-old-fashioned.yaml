@@ -29,8 +29,8 @@
       construction:
         slug: stir
       instructions:
-        - combine all ingredients into a mixing glass with ice and stir to chill
-        - strain the cocktail into a rocks glass over ice
+        - text: combine all ingredients into a mixing glass with ice and stir to chill
+        - text: strain the cocktail into a rocks glass over ice
       garnish:
         - slug: orange peel
       straw: false

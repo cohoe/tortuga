@@ -29,9 +29,9 @@
       construction:
         slug: shake
       instructions:
-        - whip, shake, and dirty pour into a Collins glass
-        - fill with fresh pebble ice (mound the top)
-        - dash Peychaud bitters on top for New Orleans "snowball" effect.
+        - text: whip, shake, and dirty pour into a Collins glass
+        - text: fill with fresh pebble ice (mound the top)
+        - text: dash Peychaud bitters on top for New Orleans "snowball" effect.
       garnish:
         - slug: pineapple
       straw: false

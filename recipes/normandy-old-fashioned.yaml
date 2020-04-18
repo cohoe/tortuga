@@ -34,7 +34,7 @@
       construction:
         slug: stir
       instructions:
-        - stir all of the ingredients with ice o chill, strain into a glass over a single large ice cube
+        - text: stir all of the ingredients with ice o chill, strain into a glass over a single large ice cube
       garnish:
         - slug: orange twist
         - slug: cherry

@@ -29,11 +29,11 @@
       construction:
         slug: stir
       instructions:
-        - rinse a coupe with mezcal and dump
-        - stir the remaining ingredients (excep tthe grapefruit twist) over ice, then strain into the coupe
-        - squeeze the grapefruit twist over the drink and discard
+        - text: rinse a coupe with mezcal and dump
+        - text: stir the remaining ingredients (excep tthe grapefruit twist) over ice, then strain into the coupe
+        - text: squeeze the grapefruit twist over the drink and discard
       straw: false
       citations:
         - title: Death & Co
       notes:
-        - house orange bitters is equal parts Fee Brothers West Indian, Regans, and Angostura Orange bitters
+        - text: house orange bitters is equal parts Fee Brothers West Indian, Regans, and Angostura Orange bitters

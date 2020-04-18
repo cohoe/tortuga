@@ -22,8 +22,8 @@
       construction:
         slug: shake
       instructions:
-        - shake all ingredients with ice and strain into a highball glass
-        - stir until the glass begins to frost
+        - text: shake all ingredients with ice and strain into a highball glass
+        - text: stir until the glass begins to frost
       garnish:
         - slug: tablespoon marinated mixed berries
         - slug: mint sprig

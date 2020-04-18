@@ -36,7 +36,7 @@
       construction:
         slug: shake
       instructions:
-        - shake all the ingreidnets with ice, then strain into the coupe
+        - text: shake all the ingreidnets with ice, then strain into the coupe
       straw: false
       citations:
         - title: 'Death & Co: Modern Classic Cocktails'

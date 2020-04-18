@@ -25,9 +25,9 @@
       construction:
         slug: stir
       instructions:
-        - build all ingredients in a rocks glass
-        - add one large format ice cube
-        - stir to combine
+        - text: build all ingredients in a rocks glass
+        - text: add one large format ice cube
+        - text: stir to combine
       garnish:
         - slug: orange twist
       straw: false
@@ -37,4 +37,4 @@
         - title: I'm Just Here for the Drinks
           page: 37
       notes:
-        - I add a dash or two of orange bitters if not doing the orange twist
+        - text: I add a dash or two of orange bitters if not doing the orange twist

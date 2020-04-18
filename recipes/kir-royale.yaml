@@ -19,7 +19,7 @@
       construction:
         slug: build
       instructions:
-        - build in a flute glass
+        - text: build in a flute glass
       garnish:
         - slug: lemon twist
       straw: false

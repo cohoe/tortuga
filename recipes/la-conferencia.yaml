@@ -39,12 +39,12 @@
       construction:
         slug: stir
       instructions:
-        - stir all the ingredients over ice, then strain into a double rocks glass
+        - text: stir all the ingredients over ice, then strain into a double rocks glass
       garnish:
         - slug: orange twist
       straw: false
       notes:
-        - i totally dig this, its a conference but with rum and a touch of smoke
+        - text: i totally dig this, its a conference but with rum and a touch of smoke
       citations:
         - title: 'Death & Co: Modern Classic Cocktails'
           author:

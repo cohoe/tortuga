@@ -24,7 +24,7 @@
       construction:
         slug: shake
       instructions:
-        - shake with ice, then fine-strain into a chilled coupe
+        - text: shake with ice, then fine-strain into a chilled coupe
       straw: false
       citations:
         - title: Meehan's Bartender Manual

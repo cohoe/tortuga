@@ -21,7 +21,7 @@
       construction:
         slug: stir
       instructions:
-        - stir with ice, then strain into a chilled coupe
+        - text: stir with ice, then strain into a chilled coupe
       garnish:
         - slug: orange twist
       straw: false
@@ -52,12 +52,12 @@
       construction:
         slug: stir
       instructions:
-        - stir all the ingredients over ice, then strain into a Nick & Nora glass
+        - text: stir all the ingredients over ice, then strain into a Nick & Nora glass
       garnish:
         - slug: lemon twist
       straw: false
       notes:
-        - not significantly better than the PDT spec IMO
+        - text: not significantly better than the PDT spec IMO
       citations:
         - title: 'Death & Co: Modern Classic Cocktails'
           author:
@@ -86,9 +86,9 @@
       construction:
         slug: stir
       instructions:
-        - stir with ice, then strain into a chilled coupe
+        - text: stir with ice, then strain into a chilled coupe
       notes:
-        - interesting malty note from the genever, wouldnt say i like it more than a traditional martinez
+        - text: interesting malty note from the genever, wouldnt say i like it more than a traditional martinez
       citations:
         - title: Dante
           href: https://www.dante-nyc.com/menus/#cocktails
@@ -99,4 +99,4 @@
         - O.H. Byron
       date: 1884-01-01
       notes:
-        - exact publishing month and day are unknown
+        - text: exact publishing month and day are unknown

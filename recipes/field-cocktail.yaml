@@ -23,7 +23,7 @@
       construction:
         slug: stir
       instructions:
-        - stir with ice then strain into a chilled coupe
+        - text: stir with ice then strain into a chilled coupe
       garnish:
         - slug: pineapple leaf
       straw: false

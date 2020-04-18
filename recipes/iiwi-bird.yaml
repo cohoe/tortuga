@@ -1,5 +1,5 @@
 ---
-- display_name: ‘I‘iwi Bird
+- display_name: "‘I‘iwi Bird"
   status: red
   origin:
     creator: Jenna Rycroft
@@ -25,7 +25,7 @@
       construction:
         slug: shake
       instructions:
-        - shake all ingredients with ice and strain into a coupe
+        - text: shake all ingredients with ice and strain into a coupe
       straw: false
       citations:
         - title: "Crafting Cocktails: Jenna Rycroft's 'I'iwi Bird"
@@ -35,4 +35,4 @@
   tags:
     - boston
   notes:
-    - had this at shore leave with alex, did not write down notes other than citadelle gin
+    - text: had this at shore leave with alex, did not write down notes other than citadelle gin

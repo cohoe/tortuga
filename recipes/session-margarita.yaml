@@ -28,8 +28,8 @@
       construction:
         slug: shake
       instructions:
-        - put all the ingredients in a shaking tin then add ice and shake until chilled
-        - strain into a rocks glass filled with ice
+        - text: put all the ingredients in a shaking tin then add ice and shake until chilled
+        - text: strain into a rocks glass filled with ice
       garnish:
         - slug: lime wheel
       straw: false
@@ -37,5 +37,5 @@
         - title: Punch
           href: https://punchdrink.com/recipes/session-margarita/
       notes:
-        - mezcal could be used in place of tequila
-        - made with an aging bottle of amontillado sherry, may have contributed to negative outlook
+        - text: mezcal could be used in place of tequila
+        - text: made with an aging bottle of amontillado sherry, may have contributed to negative outlook

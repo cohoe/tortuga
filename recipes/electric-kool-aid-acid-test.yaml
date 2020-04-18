@@ -35,9 +35,9 @@
       construction:
         slug: shake
       instructions:
-        - short shake all the ingredients (except the maraschino liqueur) with 3 ice cubes, then strain into a pilsner glass filled with crushed ice
-        - empty the ice from the shaker and add the blackberries and maraschino liqueur
-        - gently muddle the blackberries, then pour over the drink
+        - text: short shake all the ingredients (except the maraschino liqueur) with 3 ice cubes, then strain into a pilsner glass filled with crushed ice
+        - text: empty the ice from the shaker and add the blackberries and maraschino liqueur
+        - text: gently muddle the blackberries, then pour over the drink
       straw: true
       citations:
         - title: 'Death & Co: Modern Classic Cocktails'

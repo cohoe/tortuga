@@ -28,9 +28,9 @@
       construction:
         slug: stir
       instructions:
-        - in a mixing glass, gently muddle the raspberries
-        - add the remaining ingredients and stir over ice
-        - double strain into a double rocks glass over 1 large ice cube
+        - text: in a mixing glass, gently muddle the raspberries
+        - text: add the remaining ingredients and stir over ice
+        - text: double strain into a double rocks glass over 1 large ice cube
       garnish:
         - slug: raspberry
           quantity: 1

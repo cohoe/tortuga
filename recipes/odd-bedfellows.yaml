@@ -29,9 +29,9 @@
       construction:
         slug: shake
       instructions:
-        - whip shake with a few pebbles of ice to chill and aerate
-        - pour into a glass filled with pebble ice
-        - top with more pebble ice
+        - text: whip shake with a few pebbles of ice to chill and aerate
+        - text: pour into a glass filled with pebble ice
+        - text: top with more pebble ice
       garnish:
         - slug: pineapple wedge
         - slug: mint sprigs

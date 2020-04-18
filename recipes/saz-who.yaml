@@ -34,8 +34,8 @@
       construction:
         slug: stir
       instructions:
-        - stir all the ingredients (except the lemon twist) over ice, then strain into a double rocks glass
-        - squeeze the lemon twist over the drink and discard
+        - text: stir all the ingredients (except the lemon twist) over ice, then strain into a double rocks glass
+        - text: squeeze the lemon twist over the drink and discard
       straw: false
       citations:
         - title: 'Death & Co: Modern Classic Cocktails'

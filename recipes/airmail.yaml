@@ -20,8 +20,8 @@
       construction:
         slug: shake
       instructions:
-        - shake all the ingredients (except the champagne) with ice, then strain into a flute
-        - top with champagne
+        - text: shake all the ingredients (except the champagne) with ice, then strain into a flute
+        - text: text: top with champagne
       straw: false
       citations:
         - title: Death & Co

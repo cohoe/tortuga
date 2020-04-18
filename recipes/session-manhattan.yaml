@@ -25,8 +25,8 @@
       construction:
         slug: stir
       instructions:
-        - add all the ingredients in a mixing glass, add ice, and stir until chilled
-        - strain into a coupe
+        - text: add all the ingredients in a mixing glass, add ice, and stir until chilled
+        - text: strain into a coupe
       garnish:
         - slug: lemon twist
       straw: false

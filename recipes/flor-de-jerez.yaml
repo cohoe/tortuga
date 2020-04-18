@@ -42,7 +42,7 @@
       construction:
         slug: shake
       instructions:
-        - shake all the ingredients with ice, then strain into a coupe
+        - text: shake all the ingredients with ice, then strain into a coupe
       straw: false
       citations:
         - title: 'Death & Co: Modern Classic Cocktails'
@@ -53,7 +53,3 @@
           date: 2014-10-07
           publisher: Ten Speed Press
           page: 107
-  citations:
-  notes:
-    - one
-  tags:

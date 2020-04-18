@@ -36,9 +36,9 @@
       construction:
         slug: stir
       instructions:
-        - rinse a double rocks with absinthe and dump
-        - stir the remaining ingredients (except the lemon twist) over ice, then strain into the glass
-        - squeeze the lemon twist over the drink and discard
+        - text: rinse a double rocks with absinthe and dump
+        - text: stir the remaining ingredients (except the lemon twist) over ice, then strain into the glass
+        - text: squeeze the lemon twist over the drink and discard
       straw: false
       citations:
         - title: 'Death & Co: Modern Classic Cocktails'

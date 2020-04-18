@@ -31,9 +31,9 @@
       construction:
         slug: shake
       instructions:
-        - in a shaker, muddle the orange wheel and bitters
-        - add the remaining ingredients (except the club soda) and shake with ice, then strain into a highball glass filled with ice cubes
-        - top with club soda
+        - text: in a shaker, muddle the orange wheel and bitters
+        - text: add the remaining ingredients (except the club soda) and shake with ice, then strain into a highball glass filled with ice cubes
+        - text: top with club soda
       garnish:
         - slug: orange crescent
       straw: false
@@ -41,5 +41,5 @@
         - title: Death & Co
           page: 154
       notes:
-        - cadiz with accent-up, cant copy-paste from kindle
-        - serve with straw
+        - text: cadiz with accent-up, cant copy-paste from kindle
+        - text: serve with straw

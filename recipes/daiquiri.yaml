@@ -20,10 +20,10 @@
       construction:
         slug: shake
       instructions:
-        - shake all ingredients with ice then strain into a chilled coupe glass
+        - text: shake all ingredients with ice then strain into a chilled coupe glass
       garnish:
         - slug: lime wheel
       straw: false
       citations:
       notes:
-        - Plantation 3-Star works great for this
+        - text: Plantation 3-Star works great for this

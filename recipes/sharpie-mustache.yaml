@@ -28,7 +28,7 @@
       construction:
         slug: stir
       instructions:
-        - stir with plenty of ice to chill and dilute
+        - text: stir with plenty of ice to chill and dilute
       garnish:
         - slug: orange twist
       straw: false

@@ -39,8 +39,8 @@
       construction:
         slug: shake
       instructions:
-        - combine all the ingredients in a shaker with ice and shake until chilled
-        - double strain into a chilled coupe
+        - text: combine all the ingredients in a shaker with ice and shake until chilled
+        - text: double strain into a chilled coupe
       garnish:
         - slug: lime wedge
       straw: false

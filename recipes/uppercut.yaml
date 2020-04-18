@@ -29,7 +29,7 @@
       construction:
         slug: build
       instructions:
-        - build in a glass over ice and top with cider
+        - text: build in a glass over ice and top with cider
       garnish:
         - slug: sliced apples or grapes
       straw: false

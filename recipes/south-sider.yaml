@@ -34,8 +34,8 @@
       construction:
         slug: stir
       instructions:
-        - stir all the ingredients (except the champagne) over ice, then strain into a coupe
-        - top with the champagne
+        - text: stir all the ingredients (except the champagne) over ice, then strain into a coupe
+        - text: top with the champagne
       garnish:
         - slug: orange twist
       straw: false
@@ -49,5 +49,5 @@
           publisher: Ten Speed Press
           page: 227
       notes:
-        - i agree with the assessment of a rum manhattan
-        - this may go better over a large ice cube rather than a coupe
+        - text: i agree with the assessment of a rum manhattan
+        - text: this may go better over a large ice cube rather than a coupe

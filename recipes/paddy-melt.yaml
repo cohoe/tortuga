@@ -32,7 +32,7 @@
       construction:
         slug: shake
       instructions:
-        - shake all the ingredients with ice, then strain into a fancy fizz glass
+        - text: shake all the ingredients with ice, then strain into a fancy fizz glass
       straw: false
       citations:
         - title: 'Death & Co: Modern Classic Cocktails'
@@ -43,5 +43,5 @@
           date: 2014-10-07
           publisher: Ten Speed Press
       notes:
-        - accidently did with bourbon once, it was ok but didnt have the right balance
-        - been doing with rittenhouse 100 but i wonder if there are some more-herbal-less-spicy ryes out there
+        - text: accidently did with bourbon once, it was ok but didnt have the right balance
+        - text: been doing with rittenhouse 100 but i wonder if there are some more-herbal-less-spicy ryes out there

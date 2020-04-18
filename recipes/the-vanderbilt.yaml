@@ -23,7 +23,7 @@
       construction:
         slug: stir
       instructions:
-        - stir all the ingredients over ice, then strain into a double rocks glass over 1 large ice cube
+        - text: stir all the ingredients over ice, then strain into a double rocks glass over 1 large ice cube
       straw: false
       citations:
         - title: 'Death & Co: Modern Classic Cocktails'

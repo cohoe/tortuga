@@ -24,9 +24,9 @@
       construction:
         slug: stir
       instructions:
-        - stir all ingredients in a mixing glass with ice, then strain into a rocks glass over a large ice cube
+        - text: stir all ingredients in a mixing glass with ice, then strain into a rocks glass over a large ice cube
       straw: false
       citations:
       notes:
-        - equal-parts spec too much campari, still work in progress
-        - apricot quantity still guestimate
+        - text: equal-parts spec too much campari, still work in progress
+        - text: apricot quantity still guestimate

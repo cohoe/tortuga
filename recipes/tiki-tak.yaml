@@ -31,8 +31,8 @@
       construction:
         slug: shake
       instructions:
-        - shake all ingredients with ice then roll into a stemless wine glass
-        - top with crushed ice
+        - text: shake all ingredients with ice then roll into a stemless wine glass
+        - text: top with crushed ice
       garnish:
         - slug: umbrella-skewered cherry
         - slug: lime wedge
@@ -43,6 +43,6 @@
             - PUNCH
           href: https://punchdrink.com/recipes/tiki-tak/
   notes:
-    - one
+    - text: one
   tags:
     - lowabv
