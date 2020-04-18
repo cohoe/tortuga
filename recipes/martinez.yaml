@@ -27,7 +27,6 @@
       straw: false
       citations:
         - title: PDT Cocktails
-          href:
     - name: 'Death & Co'
       glassware:
         - slug: nickandnora
@@ -96,7 +95,8 @@
         - title: The Speakeasy Podcast
   citations:
     - title: Modern Bartenders' Guide
-      author: O.H. Byron
+      author:
+        - O.H. Byron
       date: 1884-01-01
       notes:
         - exact publishing month and day are unknown

@@ -39,7 +39,8 @@
       straw: false
       citations:
         - title: Tiki Tak Cocktail Recipe
-          author: PUNCH
+          author:
+            - PUNCH
           href: https://punchdrink.com/recipes/tiki-tak/
   notes:
     - one

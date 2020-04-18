@@ -36,7 +36,8 @@
       straw: false
       citations:
         - title: How to Upgrade an Old Fashioned with Mezcal and Rum
-          author: Elliott Clark
+          author:
+            - Elliott Clark
           publisher: Esquire
           date: 2018-09-07
           href: https://www.esquire.com/food-drink/drinks/a23023411/best-mezcal-rum-old-fashioned-cocktail-recipe/

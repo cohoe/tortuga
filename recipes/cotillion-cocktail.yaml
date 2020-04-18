@@ -40,7 +40,8 @@
       straw: false
   citations:
     - title: Cotillion Cocktail
-      author: Imbibe
+      author:
+        - Imbibe
       date: 2019-09-03
       publisher: Imbibe Magazine
       href: https://imbibemagazine.com/cotillion-cocktail/

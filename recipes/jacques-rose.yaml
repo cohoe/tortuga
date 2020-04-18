@@ -39,7 +39,8 @@
       straw: false
       citations:
         - title: Jaques Rose Cocktail
-          author: Imbibe
+          author:
+            - Imbibe
           href: https://imbibemagazine.com/jacques-rose-cocktail/
       notes:
         - 1:1 demerara syrup

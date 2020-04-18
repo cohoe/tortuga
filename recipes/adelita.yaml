@@ -31,7 +31,8 @@
       straw: false
       citations:
         - title: Adelita Cocktail Recipe
-          author: PUNCH
+          author:
+            - PUNCH
           href: https://punchdrink.com/recipes/adelita/
   tags:
     - boston

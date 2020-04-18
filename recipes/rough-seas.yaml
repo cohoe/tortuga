@@ -33,7 +33,8 @@
       straw: false
       citations:
         - title: I'm Just Here for the Drinks
-          author: Sother Teague
+          author:
+            - Sother Teague
           date: 2018-08-28
           publisher: Media Lab Books
           page: 217

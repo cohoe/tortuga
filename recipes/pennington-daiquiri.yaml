@@ -46,6 +46,7 @@
       straw: false
   citations:
     - title: Imbibe Magazine
-      author: Imbibe
+      author:
+        - Imbibe
       date: 2019-03-12
       href: https://imbibemagazine.com/pennington-daiquiri/

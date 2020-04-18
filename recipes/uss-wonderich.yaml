@@ -44,6 +44,7 @@
         - sub Sabra with .5oz allspice liqueur
   citations:
     - title: U.S.S. Wonderich Cockrail Recipe
-      author: Punch
+      author:
+        - Punch
       publisher: PUNCH
       href: https://punchdrink.com/recipes/uss-wondrich/

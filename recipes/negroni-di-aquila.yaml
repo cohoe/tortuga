@@ -28,6 +28,7 @@
       straw: false
       citations:
         - title: Negroni di Aquila From Longman & Eagle
-          author: Imbibe
+          author:
+            - Imbibe
           date: 2019-09-19
           href: https://imbibemagazine.com/negroni-di-aquila/

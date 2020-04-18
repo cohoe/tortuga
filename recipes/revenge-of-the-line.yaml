@@ -54,7 +54,8 @@
 #        - combine all ingredients in a Vitamix and blend, then strain through a chinois.
   citations:
     - title: Revenge of the Line
-      author: Punch
+      author:
+        - Punch
       date: 2019-09-09
       href: https://punchdrink.com/recipes/revenge-of-the-line/
   images:

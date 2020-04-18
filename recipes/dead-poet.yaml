@@ -39,7 +39,8 @@
       straw: false
       citations:
         - title: 'Tequila Cocktail: Dead Poet'
-          author: Imbibe
+          author:
+            - Imbibe
           href: http://imbibemagazine.com/dead-poet-tequila-cocktail/
           date: 2019-08-29
   images:

@@ -51,6 +51,7 @@
         - lime juice should be fine-strained
   citations:
     - title: In Search of the Ultimate Gimlet
-      author: Robert Simonson
+      author:
+        - Robert Simonson
       date: 2018-07-19
       href: https://punchdrink.com/articles/best-gin-gimlet-cocktail-recipe/

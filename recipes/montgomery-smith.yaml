@@ -33,5 +33,6 @@
         - after a little bit of water it almost gets a bit eggy
       citations:
         - title: Montgomery Smith Cocktail
-          author: PUNCH
+          author:
+            - PUNCH
           href: https://punchdrink.com/recipes/montgomery-smith/

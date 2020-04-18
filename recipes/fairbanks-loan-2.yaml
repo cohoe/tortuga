@@ -44,7 +44,8 @@
       straw: false
       citations:
         - title: Fairbanks Loan No. 2 Cocktail
-          author: PUNCH
+          author:
+            - PUNCH
           href: https://punchdrink.com/recipes/fairbanks-loan-2/
       notes:
         - honey syrup should be 1:1 honey:water

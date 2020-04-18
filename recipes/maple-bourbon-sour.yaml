@@ -26,7 +26,8 @@
       straw: false
   citations:
     - title: "Between the Sheets: Laura's Maple Bourbon Sour"
-      author: Critical Role
+      author:
+        - Critical Role
       href: https://www.youtube.com/watch?v=oC-tvSnpRrM
   notes:
     - on paper the lemon juice seems high, need to try it out and perhaps refactor

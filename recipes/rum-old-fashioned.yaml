@@ -75,7 +75,8 @@
       citations:
         - title: Three Rum Old Fashioned Recipe
           publisher: Serious Eats
-          author: Lizz Schumer
+          author:
+            - Lizz Schumer
           date: 2014-01-07
           href: https://www.seriouseats.com/recipes/2014/01/franklin-mortgage-three-rum-old-fashioned-cocktail-recipe.html
       notes:

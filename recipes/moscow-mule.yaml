@@ -31,7 +31,8 @@
         - slug: candied ginger on a pick
       citations:
         - title: Meehan's Bartender Manual
-          author: Jim Meehan
+          author:
+            - Jim Meehan
           publisher: Ten Speed Press
           location: Berkeley
           date: 2017-10-17

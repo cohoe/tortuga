@@ -34,7 +34,8 @@
       straw: false
       citations:
         - title: Imbibe Magazine
-          author: Imbibe
+          author:
+            - Imbibe
           date: 2016-11-07
           href: https://imbibemagazine.com/water-lily-cocktail/
       images:

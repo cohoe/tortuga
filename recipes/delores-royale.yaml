@@ -46,7 +46,8 @@
       straw: false
       citations:
         - title: Delores Royale
-          author: PUNCH
+          author:
+            - PUNCH
           href: https://punchdrink.com/recipes/delores-royale/
       notes:
         - patron citronge mango or smirnoff mango sorbet may sub in nicely here

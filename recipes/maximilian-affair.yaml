@@ -31,7 +31,8 @@
       notes:
       citations:
         - title: 'Drink & Tell: A Boston Cocktail Book'
-          author: Frederic Yarm
+          author:
+            - Frederic Yarm
           date: 2012-09-03
           publisher: Cocktail Virgin Industries
           page: 108
