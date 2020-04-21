@@ -1,6 +1,6 @@
 ---
-- slug: rosebuddy-old-pal
-  display_name: Rosebuddy Old Pal
+- slug: rosebuddy-ol-pal
+  display_name: "Rosebuddy Ol' Pal"
   status: red
   origin:
     venue: Rosebud
@@ -13,14 +13,14 @@
         - name: old overholt rye whiskey
           quantity: 2
           unit: oz
-        - name: dry vermouth
-          quantity: .75
+        - name: combier apricot liqueur
+          quantity: .5
           unit: oz
         - name: campari
           quantity: .75
           unit: oz
-        - name: apricot liqueur
-          quantity: .5
+        - name: cinazzo dry vermouth
+          quantity: .75
           unit: oz
       construction:
         slug: stir
@@ -30,3 +30,5 @@
       notes:
         - text: equal-parts spec too much campari, still work in progress
         - text: apricot quantity still guestimate
+        - text: "did with 1.5 rye, .5 bourbon, .75 dry, .5 camp and .5 apricot. not bad, definitely rye forward not sure if thats the rittenhouse vs overholt"
+        - text: apricot still lost, might need to bump that to over 1
