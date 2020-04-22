@@ -62,6 +62,13 @@
   slug: lofi-dry-vermouth
   kind: product
 
+- display_name: Cinzano Extra Dry Vermouth
+  parent: dry-vermouth
+  slug: cinzano-extra-dry-vermouth
+  kind: product
+  aliases:
+    - Cinzano Dry Vermouth
+
 - display_name: Ancho Chile-Infused Dolin Rouge Vermouth
   parent: dolin-rouge-vermouth
   slug: ancho-chile-infused-dolin-rouge-vermouth

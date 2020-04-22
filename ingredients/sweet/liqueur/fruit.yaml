@@ -23,6 +23,13 @@
     - Rothman & Winter Orchard Apricot Liqueur
     - Orchard Apricot Liqueur
 
+- display_name: "Combier Liqueur d'Abricot"
+  parent: apricot-liqueur
+  slug: combier-liqueur-dabricot
+  kind: product
+  aliases:
+    - Combier Apricot Liqueur
+
 - display_name: Banana Liqueur
   parent: fruit-liqueur
   slug: banana-liqueur
