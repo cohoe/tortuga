@@ -1,7 +1,6 @@
 ---
 - slug: martinez
   display_name: Martinez
-  status: green
   specs:
     - name: PDT
       glassware:

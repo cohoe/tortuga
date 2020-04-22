@@ -1,7 +1,6 @@
 ---
 - slug: moscow-mule
   display_name: Moscow Mule
-  status: green
   origin:
     creator: Jack Morgan & John G. Martin
     location: Hollywood CA

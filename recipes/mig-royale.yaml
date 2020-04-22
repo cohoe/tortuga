@@ -1,7 +1,6 @@
 ---
 - slug: mig-royale
   display_name: Mig Royale
-  status: green
   origin:
     creator: Phil Ward
     venue: Death & Co

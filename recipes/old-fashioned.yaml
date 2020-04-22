@@ -1,7 +1,6 @@
 ---
 - slug: old-fashioned
   display_name: Old Fashioned
-  status: green
   specs:
     - name: original
       glassware:

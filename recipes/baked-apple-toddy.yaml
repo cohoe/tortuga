@@ -1,7 +1,6 @@
 ---
 - slug: baked-apple-toddy
   display_name: Baked Apple Toddy
-  status: red
   origin:
     creator: Sother Teague
   specs:

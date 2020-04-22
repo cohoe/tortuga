@@ -1,7 +1,6 @@
 ---
 - slug: bitter-french
   display_name: Bitter French
-  status: red
   origin:
     creator: Phil Ward
     venue: Death & Co

@@ -1,7 +1,6 @@
 ---
 - slug: port-au-prince
   display_name: Port au Prince
-  status: red
   specs:
     - name: original
       glassware:

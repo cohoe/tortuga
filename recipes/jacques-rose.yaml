@@ -1,7 +1,6 @@
 ---
 - slug: jacques-rose
   display_name: Jacques Rose
-  status: green
   origin:
     creator: Scott Kennedy
     venue: Café Cancale

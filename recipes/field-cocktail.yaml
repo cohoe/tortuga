@@ -1,7 +1,6 @@
 ---
 - slug: field-cocktail
   display_name: Field Cocktail
-  status: green
   origin:
     creator: Jim Meehan
     venue: PDT

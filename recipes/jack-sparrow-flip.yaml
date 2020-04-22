@@ -1,7 +1,6 @@
 ---
 - slug: jack-sparrow-flip
   display_name: Jack Sparrow Flip
-  status: red
   origin:
     creator: Brian Miller
     venue: Death & Co

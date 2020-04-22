@@ -1,7 +1,6 @@
 ---
 - slug: legend
   display_name: Legend
-  status: green
   origin:
     creator: Jillian Vose
     venue: Death & Co

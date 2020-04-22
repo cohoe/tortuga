@@ -1,7 +1,6 @@
 ---
 - slug: martini
   display_name: Martini
-  status: green
   specs:
     - name: original
       glassware:

@@ -1,7 +1,6 @@
 ---
 - slug: fish-house-punch
   display_name: Fish House Punch
-  status: yellow
   specs:
     - name: 'Death & Co'
       glassware:

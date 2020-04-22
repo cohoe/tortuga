@@ -1,7 +1,6 @@
 ---
 - slug: doctor-cocktail
   display_name: Doctor Cocktail
-  status: green
   origin:
     creator: Hugo Ensslin
     year: 1916

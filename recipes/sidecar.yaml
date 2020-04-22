@@ -1,7 +1,6 @@
 ---
 - slug: sidecar
   display_name: Sidecar
-  status: green
   origin:
     location: London
     year: 1922

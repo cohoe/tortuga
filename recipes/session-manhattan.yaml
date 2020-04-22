@@ -1,7 +1,6 @@
 ---
 - slug: session-manhattan
   display_name: Session Manhattan
-  status: green
   specs:
     - name: original
       glassware:

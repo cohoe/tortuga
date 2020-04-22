@@ -1,7 +1,6 @@
 ---
 - slug: solera-sidecar
   display_name: Solera Sidecar
-  status: yellow
   origin:
     creator: Joaquín Simó
     venue: Death & Co

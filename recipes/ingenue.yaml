@@ -1,7 +1,6 @@
 ---
 - slug: ingenue
   display_name: Ingénue
-  status: red
   origin:
     creator: Brian Miller
     venue: Death & Co

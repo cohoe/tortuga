@@ -1,7 +1,6 @@
 ---
 - slug: champs-elysees
   display_name: Champs-Élysées
-  status: green
   origin:
     creator: Harry Craddock
     venue: Savoy-Plaza Hotel

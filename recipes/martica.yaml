@@ -1,7 +1,6 @@
 ---
 - slug: martica
   display_name: Martica
-  status: green
   origin:
     creator: Phil ward
     venue: Death & Co

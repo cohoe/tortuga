@@ -1,7 +1,6 @@
 ---
 - slug: french-95
   display_name: French 95
-  status: red
   specs:
     - name: original
       glassware:

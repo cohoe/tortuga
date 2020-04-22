@@ -1,7 +1,6 @@
 ---
 - slug: downeast-stinger
   display_name: Downeast Stinger
-  status: green
   origin:
     venue: Charlie's Kitchen
     location: Cambridge MA

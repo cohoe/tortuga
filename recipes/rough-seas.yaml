@@ -1,7 +1,6 @@
 ---
 - slug: rough-seas
   display_name: Rough Seas
-  status: red
   origin:
     creator: Sother Teague
   specs:

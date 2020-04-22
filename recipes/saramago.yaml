@@ -1,7 +1,6 @@
 ---
 - slug: saramago
   display_name: Saramago
-  status: red
   origin:
     creator: Phil Ward
     venue: Death & Co

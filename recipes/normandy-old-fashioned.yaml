@@ -1,7 +1,6 @@
 ---
 - slug: normandy-old-fashioned
   display_name: Normandy Old Fashioned
-  status: green
   origin:
     creator: Erik Hakkinen
     venue: Roquette

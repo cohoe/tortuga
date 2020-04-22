@@ -1,7 +1,6 @@
 ---
 - slug: daiquiri
   display_name: Daiquiri
-  status: green
   origin:
     location: Cuba
   specs:

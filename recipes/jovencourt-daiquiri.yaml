@@ -1,7 +1,6 @@
 ---
 - slug: jovencourt-daiquiri
   display_name: Jovencourt Daiquiri
-  status: green
   origin:
     creator: Phil ward
     venue: Death & Co

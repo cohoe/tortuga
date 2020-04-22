@@ -1,7 +1,6 @@
 ---
 - slug: caipirinha
   display_name: Caipirinha
-  status: green
   origin:
     location: Brazil
   specs:

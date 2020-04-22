@@ -1,7 +1,6 @@
 ---
 - slug: french-75
   display_name: French 75
-  status: green
   origin:
     creator: Judge Jr
     year: 1927

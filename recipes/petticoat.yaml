@@ -1,7 +1,6 @@
 ---
 - slug: petticoat
   display_name: Petticoat
-  status: yellow
   origin:
     creator: Jessica Gonzalez
     venue: Death & Co

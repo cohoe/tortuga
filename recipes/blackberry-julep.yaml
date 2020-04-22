@@ -1,7 +1,6 @@
 ---
 - slug: blackberry-julep
   display_name: Blackberry Julep
-  status: red
   origin:
     creator: Dale DeGroff
     venue: Blackbird Bar Restaurant

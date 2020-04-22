@@ -1,7 +1,6 @@
 ---
 - slug: elder-fashion
   display_name: Elder Fashion
-  status: green
   origin:
     creator: Phil Ward
     venue: Death & Co

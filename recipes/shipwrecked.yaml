@@ -1,7 +1,6 @@
 ---
 - slug: shipwrecked
   display_name: Shipwrecked
-  status: red
   specs:
     - name: original
       glassware:

@@ -1,7 +1,6 @@
 ---
 - slug: gilda-cocktail
   display_name: Gilda Cocktail
-  status: red
   origin:
     creator: Brian Miller
     venue: Death & Co

@@ -1,7 +1,6 @@
 ---
 - slug: saz-who
   display_name: Saz Who?
-  status: green
   origin:
     creator: Brian Miller
     venue: Death & Co

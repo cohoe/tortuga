@@ -1,7 +1,6 @@
 ---
 - slug: rum-old-fashioned
   display_name: Rum Old Fashioned
-  status: green
   specs:
     - name: Two Rum
       origin:

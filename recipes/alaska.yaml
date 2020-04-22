@@ -1,7 +1,6 @@
 ---
 - slug: alaska
   display_name: Alaska
-  status: green
   origin:
     creator: Robert Simonson
     year: 2017

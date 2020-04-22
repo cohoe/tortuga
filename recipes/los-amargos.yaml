@@ -1,7 +1,6 @@
 ---
 - slug: los-amargos
   display_name: Los Amargos
-  status: red
   origin:
     creator: Thomas Waugh
     venue: Death & Co

@@ -1,7 +1,6 @@
 ---
 - slug: gin-and-tonic
   display_name: Gin and Tonic
-  status: green
   origin:
     location: Spain
   specs:

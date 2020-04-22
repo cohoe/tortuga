@@ -1,7 +1,6 @@
 ---
 - slug: blackthorn
   display_name: Blackthorn
-  status: green
   origin:
     location: New Orleans LA
     era: 1800s

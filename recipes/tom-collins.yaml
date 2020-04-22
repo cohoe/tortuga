@@ -1,7 +1,6 @@
 ---
 - slug: tom-collins
   display_name: Tom Collins
-  status: green
   specs:
     - name: Death & Co
       glassware:

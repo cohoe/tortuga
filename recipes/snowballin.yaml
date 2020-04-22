@@ -1,7 +1,6 @@
 ---
 - slug: snowballin
   display_name: Snowballin'
-  status: red
   origin:
     creator: Damon Boelte & Sother Teague
     venue: Sexton Midnight Club

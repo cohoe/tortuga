@@ -1,7 +1,6 @@
 ---
 - slug: aperol-spritz
   display_name: Aperol Spritz
-  status: green
   specs:
     - name: original
       glassware:

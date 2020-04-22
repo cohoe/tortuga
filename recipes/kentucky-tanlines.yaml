@@ -1,7 +1,6 @@
 ---
 - slug: kentucky-tanlines
   display_name: Kentucky Tanlines
-  status: red
   origin:
     venue: Blueprint
     location: Brooklyn NY

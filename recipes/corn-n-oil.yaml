@@ -1,7 +1,6 @@
 ---
 - slug: corn-n-oil
   display_name: Corn n Oil
-  status: green
   origin:
     venue: Barbados
   specs:

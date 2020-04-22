@@ -1,7 +1,6 @@
 ---
 - slug: range-life
   display_name: Range Life
-  status: yellow
   origin:
     creator: Phil Ward
     venue: Death & Co

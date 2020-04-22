@@ -1,7 +1,6 @@
 ---
 - slug: the-black-prince
   display_name: The Black Prince
-  status: red
   origin:
     creator: Phil Ward
     venue: Death & Co

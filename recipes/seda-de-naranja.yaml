@@ -1,7 +1,6 @@
 ---
 - slug: seda-de-naranja
   display_name: Seda De Naranja
-  status: green
   origin:
     creator: Phil Ward
     venue: Death & Co

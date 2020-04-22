@@ -1,7 +1,6 @@
 ---
 - slug: lilywhacker
   display_name: Lilywhacker
-  status: yellow
   origin:
     creator: Phil Ward
     venue: Death & Co

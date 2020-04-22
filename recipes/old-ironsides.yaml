@@ -1,7 +1,6 @@
 ---
 - slug: old-ironsides
   display_name: Old Ironsides
-  status: red
   origin:
     creator: Brian Miller
     venue: Death & Co

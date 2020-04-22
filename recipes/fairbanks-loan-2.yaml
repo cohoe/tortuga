@@ -1,7 +1,6 @@
 ---
 - slug: fairbanks-loan-2
   display_name: Fairbanks Loan No. 2
-  status: yellow
   origin:
     creator: Brian Kane
     venue: The International

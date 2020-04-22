@@ -1,7 +1,6 @@
 ---
 - slug: sirens-call
   display_name: Siren's Call
-  status: red
   origin:
     venue: Blueprint
     location: Brooklyn NY

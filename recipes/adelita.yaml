@@ -1,7 +1,6 @@
 ---
 - slug: adelita
   display_name: Adelita
-  status: red
   origin:
     creator: Carrie Cole
     venue: The Hawthorne

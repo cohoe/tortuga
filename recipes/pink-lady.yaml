@@ -1,7 +1,6 @@
 ---
 - slug: pink-lady
   display_name: Pink Lady
-  status: red
   specs:
     - name: original
       glassware:

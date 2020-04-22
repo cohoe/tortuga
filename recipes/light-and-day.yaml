@@ -1,7 +1,6 @@
 ---
 - slug: light-and-day
   display_name: Light and Day
-  status: red
   origin:
     creator: Alex Day
     venue: Death & Co

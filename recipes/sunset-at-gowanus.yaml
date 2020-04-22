@@ -1,7 +1,6 @@
 ---
 - slug: sunset-at-gowanus
   display_name: Sunset At Gowanus
-  status: green
   origin:
     creator: Alex Day
     venue: Death & Co

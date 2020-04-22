@@ -1,7 +1,6 @@
 ---
 - slug: tiki-tak
   display_name: Tiki Tak
-  status: yellow
   origin:
     creator: Andrew Porteus
     venue: Montana's Trail House

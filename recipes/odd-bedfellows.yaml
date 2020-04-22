@@ -1,7 +1,6 @@
 ---
 - slug: odd-bedfellows
   display_name: Odd Bedfellows
-  status: red
   origin:
     creator: Sother Teague
   specs:

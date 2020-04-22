@@ -1,7 +1,6 @@
 ---
 - slug: dead-poet
   display_name: Dead Poet
-  status: green
   origin:
     creator: Keegan McGregor
     venue: Field Guide

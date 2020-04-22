@@ -1,7 +1,6 @@
 ---
 - slug: last-word
   display_name: Last Word
-  status: green
   specs:
     - name: original
       glassware:

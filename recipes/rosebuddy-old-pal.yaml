@@ -1,7 +1,6 @@
 ---
 - slug: rosebuddy-ol-pal
   display_name: "Rosebuddy Ol' Pal"
-  status: red
   origin:
     venue: Rosebud
     location: Somerville MA

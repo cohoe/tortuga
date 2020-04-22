@@ -1,7 +1,6 @@
 ---
 - slug: guillotine
   display_name: Guillotine
-  status: yellow
   origin:
     creator: franky marshall
     venue: Le Boudoir

@@ -1,7 +1,6 @@
 ---
 - slug: pp-pisco-cocktail
   display_name: P&P Pisco Cocktail
-  status: red
   origin:
     creator: Casey Robison
     location: Seattle WA

@@ -1,7 +1,6 @@
 ---
 - slug: philly-sling
   display_name: Philly Sling
-  status: red
   origin:
     creator: Derek Brown
     venue: Columbia Room

@@ -1,7 +1,6 @@
 ---
 - slug: sharpie-mustache
   display_name: Sharpie Mustache
-  status: yellow
   origin:
     creator: Chris Elford
     venue: Amor y Amargo

@@ -1,7 +1,6 @@
 ---
 - slug: vieux-mot
   display_name: Vieux Mot
-  status: green
   origin:
     creator: Don Lee
     year: 2007

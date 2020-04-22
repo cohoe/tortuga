@@ -1,7 +1,6 @@
 ---
 - slug: session-margarita
   display_name: Session Margarita
-  status: red
   specs:
     - name: original
       glassware:

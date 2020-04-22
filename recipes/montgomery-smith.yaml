@@ -1,7 +1,6 @@
 ---
 - slug: montgomery-smith
   display_name: Montgomery Smith
-  status: green
   origin:
     creator: Nate Dumas
     venue: PDT

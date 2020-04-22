@@ -1,7 +1,6 @@
 ---
 - slug: wooden-ship
   display_name: Wooden Ship
-  status: yellow
   origin:
     creator: Thomas Waugh
     venue: Death & Co

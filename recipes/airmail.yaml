@@ -1,7 +1,6 @@
 ---
 - slug: airmail
   display_name: Airmail
-  status: red
   specs:
     - name: original
       glassware:

@@ -1,7 +1,6 @@
 ---
 - slug: merci
   display_name: Merci
-  status: green
   origin:
     creator: Brian
     venue: Northside Speakeasy

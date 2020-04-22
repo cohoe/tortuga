@@ -1,7 +1,6 @@
 ---
 - slug: how-do-i-compare
   display_name: How Do I Compare
-  status: green
   specs:
     - name: original
       glassware:

@@ -1,7 +1,6 @@
 ---
 - slug: mezcal-swizzle
   display_name: Mezcal Swizzle
-  status: red
   specs:
     - name: original
       glassware:

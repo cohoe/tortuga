@@ -1,7 +1,6 @@
 ---
 - slug: paper-plane
   display_name: Paper Plane
-  status: green
   origin:
     creator: Sam Ross
     venue: Little Branch

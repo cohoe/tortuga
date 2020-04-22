@@ -1,7 +1,6 @@
 ---
 - slug: european-union
   display_name: European Union
-  status: red
   origin:
     creator: Alex Day
     venue: Death & Co

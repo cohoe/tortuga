@@ -1,7 +1,6 @@
 ---
 - slug: mrs-doyle
   display_name: Mrs. Doyle
-  status: green
   origin:
     creator: Eryn Reece
     venue: Death & Co

@@ -1,7 +1,6 @@
 ---
 - slug: kola-sour
   display_name: Kola Sour
-  status: red
   origin:
     creator: Sother Teague
     venue: Amor y Amargo

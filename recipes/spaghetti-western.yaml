@@ -1,7 +1,6 @@
 ---
 - slug: spaghetti-western
   display_name: Spaghetti Western
-  status: green
   origin:
     creator: Jessica Gonzalez
     venue: Death & Co

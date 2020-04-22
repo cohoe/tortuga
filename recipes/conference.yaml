@@ -1,7 +1,6 @@
 ---
 - slug: conference
   display_name: Conference
-  status: green
   origin:
     creator: Brian Miller
     venue: Death & Co

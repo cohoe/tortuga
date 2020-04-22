@@ -1,7 +1,6 @@
 ---
 - slug: adonis-spritz
   display_name: Adonis Spritz
-  status: red
   origin:
     creator: Carlo Caroscio
     venue: Backbar

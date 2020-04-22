@@ -1,7 +1,6 @@
 ---
 - slug: la-viaa
   display_name: La Viáa
-  status: yellow
   origin:
     creator: Alex Day
     venue: Death & Co

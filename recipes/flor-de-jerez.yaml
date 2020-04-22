@@ -1,7 +1,6 @@
 ---
 - slug: flor-de-jerez
   display_name: Flor de Jerez
-  status: green
   origin:
     creator: Joaquín Simó
     venue: Death & Co

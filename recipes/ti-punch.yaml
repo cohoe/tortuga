@@ -1,7 +1,6 @@
 ---
 - slug: ti-punch
   display_name: Ti' Punch
-  status: green
   origin:
     location: Martinique
     year: 1890

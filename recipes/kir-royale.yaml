@@ -1,7 +1,6 @@
 ---
 - slug: kir-royale
   display_name: Kir Royale
-  status: green
   origin:
     creator: Félix Kir
     location: Dijon, France

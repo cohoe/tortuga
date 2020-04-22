@@ -1,7 +1,6 @@
 ---
 - slug: jack-rose
   display_name: Jack Rose
-  status: green
   origin:
     year: 1910
   specs:

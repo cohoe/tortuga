@@ -1,7 +1,6 @@
 ---
 - slug: preakness
   display_name: Preakness
-  status: red
   specs:
     - name: original
       glassware:

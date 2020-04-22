@@ -1,7 +1,6 @@
 ---
 - slug: queen-palm
   display_name: Queen Palm
-  status: red
   origin:
     creator: Thomas Waugh
     venue: Death & Co

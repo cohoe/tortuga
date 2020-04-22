@@ -1,7 +1,6 @@
 ---
 - slug: sour-reverend
   display_name: Sour Reverend
-  status: green
   origin:
     creator: Grant Cohoe
     location: Cambridge MA

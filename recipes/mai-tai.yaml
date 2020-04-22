@@ -1,7 +1,6 @@
 ---
 - slug: mai-tai
   display_name: Mai Tai
-  status: green
   origin:
     creator: Victor Bergeron
     year: 1944

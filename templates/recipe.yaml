@@ -16,14 +16,6 @@
   ##   * - display_name: La Viáa
   display_name:
   ##
-  ## Attribute: status
-  ## Type: Enum[String]
-  ## Description: Personal code for whether I can make this or not.
-  ##              Is slated for deprecation.
-  ## Optional: yes
-  ## Possible Values: "red", "yellow", "green"
-  status:
-  ##
   ## Attribute: origin
   ## Type: Hash
   ## Description: Origin object. All values are sub-fields.

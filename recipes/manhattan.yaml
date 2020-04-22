@@ -1,7 +1,6 @@
 ---
 - slug: manhattan
   display_name: Manhattan
-  status: green
   specs:
     - name: Death & Co
       glassware:

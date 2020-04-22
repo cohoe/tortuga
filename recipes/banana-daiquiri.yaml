@@ -1,7 +1,6 @@
 ---
 - slug: banana-daiquiri
   display_name: Banana Daiquiri
-  status: red
   origin:
     creator: Matt Belanger
     venue: Death & Co
