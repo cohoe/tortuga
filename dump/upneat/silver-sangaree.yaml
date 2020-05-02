@@ -1,0 +1,67 @@
+- slug: silver-sangaree
+  display_name: Silver Sangaree
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      creator: Jane Danger
+      location: Jane Danger
+      year: 2007
+      story: After working on wine-and-beer cocktails at Ravi DeRossi's wine bar around
+        the corner from PDT, Jane Danger created this sangaree for our winter menu.
+    glassware:
+    - slug: mixing
+      display_name: Mixing
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: paumanok-cabernet-franc
+      display_name: Paumanok Cabernet Franc
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: famous-grouse-blended-scotch-whisky
+      display_name: Famous Grouse Blended Scotch Whisky
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: dows-ruby-port
+      display_name: Dows Ruby Port
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: clove-syrup
+      display_name: Clove Syrup
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: brandied-cherry
+      display_name: Brandied Cherry
+      quantity: 4
+      unit: Kirsch
+      notes: []
+    - slug: white
+      display_name: White
+      quantity: 1
+      unit: Egg
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Add the cherries and clove syrup to a mixing glass and muddle
+    - text: Add everything else, then dry-shake
+    - text: Shake with ice and strain into a chilled wine glass
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

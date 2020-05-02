@@ -1,0 +1,56 @@
+- slug: claremont
+  display_name: Claremont
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin: {}
+    glassware:
+    - slug: in-the-bottom-of-an-old-fashioned-glass-carefully-muddle-the-bitters-curacao-1-of-the-orange-slices-and-1-of-the-cherries
+      display_name: In The Bottom Of An Old Fashioned Glass Carefully Muddle The Bitters
+        Curacao 1 Of The Orange Slices And 1 Of The Cherries
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: angostura-bitters
+      display_name: Angostura Bitters
+      quantity: 3
+      unit: dashes
+      notes: []
+    - slug: curacao
+      display_name: Curacao
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: orange
+      display_name: Orange
+      quantity: 2
+      unit: slices
+      notes: []
+    - slug: 2-cherry
+      display_name: 2 Cherry
+      notes: []
+    - slug: bourbon-whiskey
+      display_name: Bourbon Whiskey
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: soda-water
+      display_name: Soda Water
+      quantity: 1
+      unit: ounce
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: In the bottom of an old-fashioned glass, carefully muddle the bitters,
+        curaçao, 1 of the orange slices, and 1 of the cherries
+    - text: Remove the orange rind and add the bourbon, ice, and soda
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

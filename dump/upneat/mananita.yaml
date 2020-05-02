@@ -1,0 +1,50 @@
+- slug: mananita
+  display_name: Mañanita
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin:
+      creator: JS
+      location: JS
+      year: 2011
+      story: JOAQUÍN SIMÓ, 2011 In Oaxaca, it's customary to drink a small copita
+        of mezcal, called a mañanita, before your morning coffee. This is probably
+        the spiciest drink we've ever served.
+    glassware:
+    - slug: rocks
+      display_name: Rocks
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: sombra-mezcal
+      display_name: Sombra Mezcal
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: coffee-and-chile-infused-campari
+      display_name: Coffee And Chile Infused Campari
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: house-sweet-vermouth
+      display_name: House Sweet Vermouth
+      quantity: 1
+      unit: ounce
+      notes: []
+    garnish:
+    - slug: orange-peel
+      display_name: Orange Peel
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Stir all the ingredients over ice, then strain into a double rocks glass
+        over 1 large ice cube
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

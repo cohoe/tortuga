@@ -1,0 +1,55 @@
+- slug: doc-daneeka-royale
+  display_name: Doc Daneeka Royale
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin:
+      creator: Alex Day
+      location: Alex Day
+      year: 2008
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: plymouth-gin
+      display_name: Plymouth Gin
+      quantity: 2
+      unit: ounces
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: grade-b-maple-syrup
+      display_name: Grade B Maple Syrup
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: bittermens-hopped-grapefruit-bitters
+      display_name: Bittermens Hopped Grapefruit Bitters
+      quantity: 1
+      unit: dash
+      notes: []
+    - slug: dry-champagne
+      display_name: Dry Champagne
+      notes: []
+    - slug: coin-of-grapefruit
+      display_name: Coin Of Grapefruit
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake all the ingredients (except the champagne and grapefruit coin) with
+        ice, then double strain into a coupe
+    - text: Top with champagne
+    - text: Squeeze the grapefruit coin over the drink and discard
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

@@ -1,0 +1,63 @@
+- slug: scarlett-s-torch
+  display_name: Scarlett'S Torch
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin:
+      year: 1996
+      story: 'I created this in honor of the Olympic torch when it passed through
+        New York on the way to Atlanta in 1996. For true Olympians, try a nonalcoholic
+        version: 1 ounce peach purÃ©e instead of liqueur, and increase the orange
+        and cranberry juices to 1 ounce each.'
+    glassware:
+    - slug: cocktail
+      display_name: Cocktail
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: bourbon-whiskey
+      display_name: Bourbon Whiskey
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: marie-brizard-peach-liqueur
+      display_name: Marie Brizard Peach Liqueur
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: simple-syrup
+      display_name: Simple Syrup
+      quantity: 0.25
+      unit: ounce
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.25
+      unit: ounce
+      notes: []
+    - slug: cranberry-juice
+      display_name: Cranberry Juice
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: orange-juice
+      display_name: Orange Juice
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    garnish:
+    - slug: flamed-orange-peel
+      display_name: Flamed Orange Peel
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake all the ingredients with ice and strain into a cocktail glass
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

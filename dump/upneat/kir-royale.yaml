@@ -1,0 +1,38 @@
+- slug: kir-royale
+  display_name: Kir Royale
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin:
+      story: Dijon is the official home of the black-currant liqueur Cassis, and the
+        drink Kir is named after a former mayor of Dijon, Canon Delix Kir.
+    glassware:
+    - slug: champagne
+      display_name: Champagne
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: champagne
+      display_name: Champagne
+      notes: []
+    - slug: cra-me-de-cassis
+      display_name: Cra Me De Cassis
+      quantity: 0.25
+      unit: ounce
+      notes: []
+    garnish:
+    - slug: lemon-peel-garnish-optional
+      display_name: Lemon Peel Garnish Optional
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Pour the Cassis into the bottom of a champagne glass and fill with champagne
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

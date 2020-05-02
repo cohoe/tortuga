@@ -1,0 +1,64 @@
+- slug: old-fashioned
+  display_name: Old Fashioned
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin:
+      creator: the granddaddy of this drink
+      location: the granddaddy of this drink
+      year: 1862
+      story: "The Old Fashioned was created at the Pendennis Club in Louisville, Kentucky.\
+        \ There are two warring camps of Old Fashioned drinkers: those who muddle\
+        \ the fruit and those who don't. I belong to the first camp, as the muddling\
+        \ adds so much flavor. Those other guys just want some sweetened whiskey,\
+        \ not an Old Fashioned. The 1862 Whiskey Cobbler"
+    glassware:
+    - slug: in-the-bottom-of-an-old-fashioned-glass-carefully-muddle-the-sugar-angostura-one-orange-slice-one-cherry-and-a-splash-of-water-or-soda
+      display_name: In The Bottom Of An Old Fashioned Glass Carefully Muddle The Sugar
+        Angostura One Orange Slice One Cherry And A Splash Of Water Or Soda
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: sugar
+      display_name: Sugar
+      quantity: 1
+      unit: teaspoon
+      notes: []
+    - slug: angostura-bitters
+      display_name: Angostura Bitters
+      quantity: 2
+      unit: dashes
+      notes: []
+    - slug: orange
+      display_name: Orange
+      quantity: 2
+      unit: slices
+      notes: []
+    - slug: cherry
+      display_name: Cherry
+      quantity: 2
+      unit: Maraschino
+      notes: []
+    - slug: water-or-soda-water
+      display_name: Water Or Soda Water
+      notes: []
+    - slug: bourbon-whiskey
+      display_name: Bourbon Whiskey
+      quantity: 2
+      unit: ounces
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: In the bottom of an old-fashioned glass, carefully muddle the sugar, Angostura,
+        one orange slice, one cherry, and a splash of water or soda
+    - text: Remove the orange rind and add the bourbon, ice, and water or soda
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

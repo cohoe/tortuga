@@ -1,0 +1,53 @@
+- slug: guns-and-rose
+  display_name: Guns And Rosé
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin:
+      creator: Scott Teague
+      location: Scott Teague
+      year: 2013
+    glassware:
+    - slug: rocks
+      display_name: Rocks
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: old-grand-dad-114-bourbon
+      display_name: Old Grand Dad 114 Bourbon
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: lillet-rose
+      display_name: Lillet Rose
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: rich-cane-sugar-syrup
+      display_name: Rich Cane Sugar Syrup
+      quantity: 1
+      unit: teaspoon
+      notes: []
+    - slug: house-peychauds-bitters
+      display_name: House Peychauds Bitters
+      quantity: 2
+      unit: dashes
+      notes: []
+    - slug: grapefruit-peel
+      display_name: Grapefruit Peel
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Stir all the ingredients (except the grapefruit twist) over ice, then
+        strain into a rocks glass
+    - text: Squeeze the grapefruit twist over the drink and discard
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

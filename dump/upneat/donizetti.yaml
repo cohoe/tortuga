@@ -1,0 +1,49 @@
+- slug: donizetti
+  display_name: Donizetti
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      creator: David Slape
+      location: David Slape
+      year: 2007
+      story: David Slape named his cocktail after Gaetano Donizetti, a 19th-century
+        Italian bel canto opera composer.
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: tanqueray-gin
+      display_name: Tanqueray Gin
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: amaro-ciociaro
+      display_name: Amaro Ciociaro
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: rothman-winter-orchard-apricot-liqueur
+      display_name: Rothman Winter Orchard Apricot Liqueur
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: moet-imperial-champagne
+      display_name: Moet Imperial Champagne
+      quantity: 1
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Stir with ice and strain into a chilled coupe
+    - text: Top with 1 oz Moët Imperial Champagne
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

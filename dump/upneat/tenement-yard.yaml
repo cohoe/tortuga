@@ -1,0 +1,46 @@
+- slug: tenement-yard
+  display_name: Tenement Yard
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin:
+      creator: Jillian Vose
+      location: Jillian Vose
+      year: 2013
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: sugar-snap-pea-infused-plymouth-gin
+      display_name: Sugar Snap Pea Infused Plymouth Gin
+      quantity: 2
+      unit: ounces
+      notes: []
+    - slug: dolin-genepy-des-alpes-liqueur
+      display_name: Dolin Genepy Des Alpes Liqueur
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: orgeat
+      display_name: Orgeat
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake all the ingredients with ice, then strain into a large coupe
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

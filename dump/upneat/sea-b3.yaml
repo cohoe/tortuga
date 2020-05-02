@@ -1,0 +1,46 @@
+- slug: sea-b3
+  display_name: Sea B3
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin:
+      creator: Phil Ward
+      location: Phil Ward
+      year: 2008
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: goslings-black-seal-rum
+      display_name: Goslings Black Seal Rum
+      quantity: 2
+      unit: ounces
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: orange-juice
+      display_name: Orange Juice
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: grenadine
+      display_name: Grenadine
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake all the ingredients with ice, then strain into a coupe
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

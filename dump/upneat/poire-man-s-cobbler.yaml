@@ -1,0 +1,51 @@
+- slug: poire-man-s-cobbler
+  display_name: Poire Man'S Cobbler
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin:
+      creator: Phil Ward
+      location: Phil Ward
+      year: 2008
+    glassware:
+    - slug: rocks
+      display_name: Rocks
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: cubed-quarter-of-bartlett-pear
+      display_name: Cubed Quarter Of Bartlett Pear
+      notes: []
+    - slug: busnel-vsop-calvados
+      display_name: Busnel Vsop Calvados
+      quantity: 2
+      unit: ounces
+      notes: []
+    - slug: benedictine
+      display_name: Benedictine
+      quantity: 0.25
+      unit: ounce
+      notes: []
+    - slug: house-peychauds-bitters
+      display_name: House Peychauds Bitters
+      quantity: 2
+      unit: dashes
+      notes: []
+    garnish:
+    - slug: slice-of-bartlett-pear
+      display_name: Slice Of Bartlett Pear
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: In a shaker, muddle the pear
+    - text: Add the remaining ingredients and shake with ice
+    - text: Strain into a double rocks glass filled with crushed ice
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

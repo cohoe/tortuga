@@ -1,0 +1,59 @@
+- slug: 100-year-punch
+  display_name: 100 Year Punch
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      creator: Daniel Eun
+      location: Daniel Eun
+      year: 2008
+      story: In Korea, the herbs (ginseng and eleven other spices and roots) used
+        to flavor Bek Se Ju, literally "100-year wine," are believed to help one live
+        to be 100 years old.
+    glassware:
+    - slug: mixing
+      display_name: Mixing
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: elijah-craig-12-year-old-bourbon-whiskey
+      display_name: Elijah Craig 12 Year Old Bourbon Whiskey
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: bek-se-ju-100-year-wine
+      display_name: Bek Se Ju 100 Year Wine
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: ssal-yut-rice-syrup
+      display_name: Ssal Yut Rice Syrup
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: fee-brothers-old-fashioned-bitters
+      display_name: Fee Brothers Old Fashioned Bitters
+      quantity: 2
+      unit: dashes
+      notes: []
+    - slug: q-tonic-water
+      display_name: Q Tonic Water
+      quantity: 1
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Zest the peel of half a tangerine into a mixing glass
+    - text: Add everything else, then stir with ice and fine-strain into a chilled
+        rocks glass filled with ice
+    - text: Top with 1 oz Q Tonic
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

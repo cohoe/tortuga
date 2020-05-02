@@ -1,0 +1,66 @@
+- slug: rainbow-punch
+  display_name: Rainbow Punch
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin: {}
+    glassware:
+    - slug: tea
+      display_name: Tea
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: orange-juice
+      display_name: Orange Juice
+      quantity: 3
+      unit: ounces
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: pineapple-juice
+      display_name: Pineapple Juice
+      quantity: 3
+      unit: ounces
+      notes: []
+    - slug: simple-syrup
+      display_name: Simple Syrup
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: grenadine
+      display_name: Grenadine
+      quantity: 0.25
+      unit: ounce
+      notes: []
+    - slug: angostura-bitters
+      display_name: Angostura Bitters
+      quantity: 2
+      unit: dashes
+      notes: []
+    - slug: splash-of-soda-water
+      display_name: Splash Of Soda Water
+      notes: []
+    garnish:
+    - slug: cherry
+      display_name: Cherry
+      notes: []
+    - slug: slice-of-orange
+      display_name: Slice Of Orange
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake all the ingredients except the soda, and strain into an iced- tea
+        glass
+    - text: Top with soda
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

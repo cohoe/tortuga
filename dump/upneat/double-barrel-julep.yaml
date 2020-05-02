@@ -1,0 +1,66 @@
+- slug: double-barrel-julep
+  display_name: Double Barrel Julep
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin:
+      year: 2009
+      story: JOAQUÍN SIMÓ, 2009
+    glassware: []
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: old-grand-dad-114-bourbon
+      display_name: Old Grand Dad 114 Bourbon
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: diplomatico-reserva-exclusiva-rum
+      display_name: Diplomatico Reserva Exclusiva Rum
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: massenez-creme-de-peche-peach-liqueur
+      display_name: Massenez Creme De Peche Peach Liqueur
+      quantity: 1
+      unit: teaspoon
+      notes: []
+    - slug: demerara-syrup
+      display_name: Rich Demerara Syrup
+      quantity: 1
+      unit: teaspoon
+      notes: []
+    - slug: smith-cross-rum
+      display_name: Smith Cross Rum
+      quantity: 0.25
+      unit: ounce
+      notes: []
+    - slug: fee-brothers-whiskey-barrel-aged-bitters
+      display_name: Fee Brothers Whiskey Barrel Aged Bitters
+      quantity: 4
+      unit: dashes
+      notes: []
+    garnish:
+    - slug: bouquet-of-mint
+      display_name: Bouquet Of Mint
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Put the bourbon, Diplomático rum, peach liqueur, and syrup in a julep
+        tin
+    - text: Fill the tin halfway with crushed ice
+    - text: Stir with a teaspoon, churning the ice as you go, for about 10 seconds,
+        holding the tin by the rim so the entire tin can eventually frost up
+    - text: Add more crushed ice to fill the tin two-thirds full and stir until the
+        tin is completely frosted
+    - text: Add more ice to form a cone above the rim
+    - text: Float the Smith & Cross rum over the drink and top with the bitters
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

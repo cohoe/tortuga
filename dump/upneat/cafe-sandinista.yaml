@@ -1,0 +1,62 @@
+- slug: cafe-sandinista
+  display_name: Café Sandinista
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin:
+      creator: JS
+      location: JS
+      year: 2012
+      story: JOAQUÍN SIMÓ, 2012 This is an example of how to get a lot of flavor and
+        texture into a drink without a ton of booze.
+    glassware:
+    - slug: rocks
+      display_name: Rocks
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: lustau-east-india-solera-sherry
+      display_name: Lustau East India Solera Sherry
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: coffee-and-chile-infused-campari
+      display_name: Coffee And Chile Infused Campari
+      quantity: 0.25
+      unit: ounce
+      notes: []
+    - slug: orange-juice
+      display_name: Orange Juice
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: demerara-syrup
+      display_name: Rich Demerara Syrup
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: small-pinch-of-kosher-salt
+      display_name: Small Pinch Of Kosher Salt
+      notes: []
+    garnish:
+    - slug: coffee-bean
+      display_name: Coffee Bean
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Short shake with 3 ice cubes, then strain into a double rocks glass filled
+        with crushed ice
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

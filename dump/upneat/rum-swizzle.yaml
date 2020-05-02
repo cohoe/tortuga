@@ -1,0 +1,59 @@
+- slug: rum-swizzle
+  display_name: Rum Swizzle
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin:
+      story: Those long Jamaican swizzles are hard to come by, but there is a solution.
+        Go to the housewares store and buy a wooden spoon with a hole in the bowl
+        of the spoon and a long handle. Put it between the palms of your hand and
+        swizzle away. For a flavor twist, try using flavored syrups like Simple Syrup
+        with vanilla beans or orgeat.
+    glassware:
+    - slug: highball
+      display_name: Highball
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: barbados-rum
+      display_name: Barbados Rum
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: simple-syrup
+      display_name: Simple Syrup
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: falernum
+      display_name: Falernum
+      quantity: 1
+      unit: dash
+      notes: []
+    - slug: angostura-bitters
+      display_name: Angostura Bitters
+      quantity: 3
+      unit: dashes
+      notes: []
+    garnish:
+    - slug: wheel-of-lime
+      display_name: Wheel Of Lime
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Swizzle the ingredients in a highball glass filled with crushed ice until
+        they foam
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

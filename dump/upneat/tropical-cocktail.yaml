@@ -1,0 +1,41 @@
+- slug: tropical-cocktail
+  display_name: Tropical Cocktail
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin:
+      story: This is an alternative to a Daiquiri from the Ritz hotel in Paris.
+    glassware:
+    - slug: martini
+      display_name: Martini
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: light-rum
+      display_name: Light Rum
+      quantity: 2
+      unit: ounces
+      notes: []
+    - slug: curaassao
+      display_name: Curaassao
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake all the ingredients with ice and strain into a chilled martini glass
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

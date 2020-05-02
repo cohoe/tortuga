@@ -1,0 +1,51 @@
+- slug: navigator
+  display_name: Navigator
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin:
+      creator: Tyson Buhler
+      location: Tyson Buhler
+      year: 2013
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: apricot-infused-famous-grouse-scotch-whisky
+      display_name: Apricot Infused Famous Grouse Scotch Whisky
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: blandys-5-year-malmsey-madeira
+      display_name: Blandys 5 Year Malmsey Madeira
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: demerara-syrup
+      display_name: Rich Demerara Syrup
+      quantity: 0.5
+      unit: teaspoon
+      notes: []
+    - slug: vanilla-syrup
+      display_name: Vanilla Syrup
+      quantity: 0.5
+      unit: teaspoon
+      notes: []
+    - slug: house-peychauds-bitters
+      display_name: House Peychauds Bitters
+      quantity: 1
+      unit: dash
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Stir all the ingredients over ice, then strain into a coupe
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

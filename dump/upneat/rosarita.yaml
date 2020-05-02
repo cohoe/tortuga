@@ -1,0 +1,44 @@
+- slug: rosarita
+  display_name: Rosarita
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin: {}
+    glassware:
+    - slug: the
+      display_name: The
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: triple-sec
+      display_name: Triple Sec
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: aliza-c-red-passion
+      display_name: Aliza C Red Passion
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: tequila
+      display_name: Tequila
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Prepare in a rocks glass three-quarters full of ice, using the layering
+        spoon on the rim of the glass
+    - text: Pour slowly and carefully to prevent the layers from mixing
+    - text: The ingredients are listed in the order they should be poured, the bottom
+        layer listed first
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

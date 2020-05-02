@@ -1,0 +1,48 @@
+- slug: ephemeral
+  display_name: Ephemeral
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      creator: David Shenaut
+      location: David Shenaut
+      year: 2009
+      story: David Shenaut created this cocktail for friend and bar regular Matthew
+        Schuler, who brought him his first bottle of celery bitters.
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: ransom-old-tom-gin
+      display_name: Ransom Old Tom Gin
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: dolin-blanc-vermouth
+      display_name: Dolin Blanc Vermouth
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: st-germain-elderflower-liqueur
+      display_name: St Germain Elderflower Liqueur
+      quantity: 1
+      unit: barspoon
+      notes: []
+    - slug: the-bitter-truth-celery-bitters
+      display_name: The Bitter Truth Celery Bitters
+      quantity: 1
+      unit: dash
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Stir with ice and strain into a chilled coupe
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

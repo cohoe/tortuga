@@ -1,0 +1,46 @@
+- slug: scotch-dram
+  display_name: Scotch Dram
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin:
+      creator: Phil Ward
+      location: Phil Ward
+      year: 2008
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: compass-box-asyla-scotch-whisky
+      display_name: Compass Box Asyla Scotch Whisky
+      quantity: 2
+      unit: ounces
+      notes: []
+    - slug: carpano-antica-formula-vermouth
+      display_name: Carpano Antica Formula Vermouth
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: drambuie
+      display_name: Drambuie
+      quantity: 0.25
+      unit: ounce
+      notes: []
+    - slug: house-peychauds-bitters
+      display_name: House Peychauds Bitters
+      quantity: 1
+      unit: dash
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Stir all the ingredients over ice, then strain into a coupe
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

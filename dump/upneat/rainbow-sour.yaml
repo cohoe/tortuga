@@ -1,0 +1,62 @@
+- slug: rainbow-sour
+  display_name: Rainbow Sour
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin:
+      story: Pineau des Charentes has a wonderful bit of lore surrounding it. It is
+        a mistelle, a combination of raw grape juice and some form of spirit; in the
+        case of the Pineau des Charentes, the spirit is Cognac. The story is that
+        a Cognac producer thought he was blending two Cognacs when he topped up a
+        barrel in his cellar, but one of the barrels contained raw grape juice. He
+        was sure he had destroyed a batch of good Cognac and put it aside and left
+        it. A couple of years later, his cellar-master tasted it while checking barrels,
+        and it had matured in an interesting way. The maker bottled it under the name
+        Pineau des Charentes and a new product was born. Today several Cognac producers
+        bottle a Pineau, perhaps using Cognac that is not suited for blending into
+        their regular stocks. Pineau des Charentes is also known as Angelica.
+    glassware:
+    - slug: rocks
+      display_name: Rocks
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: pineau-des-charentes
+      display_name: Pineau Des Charentes
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: marie-brizard-apry
+      display_name: Marie Brizard Apry
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: simple-syrup
+      display_name: Simple Syrup
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: cherry
+      display_name: Cherry
+      notes: []
+    garnish:
+    - slug: slice-of-orange
+      display_name: Slice Of Orange
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake all the ingredients with ice and serve in a rocks glass
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

@@ -1,0 +1,61 @@
+- slug: electric-iced-tea
+  display_name: Electric Iced Tea
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin:
+      story: Credit for this incredibly successful frat-house drink is attributed
+        to Robert C. Butt. When made properly, the drink tastes great and doesn't
+        have to be an evening ender. The key is to have all the spirits present but
+        in small amounts. In the recipe here, the total alcohol content is 2.5 ounces.
+        It is a well-balanced, good-tasting drink, in large part because of the fresh
+        lemon juice and simple syrup. Besides the "Long Island" version, there are
+        a few other regional variations.
+    glassware:
+    - slug: highball
+      display_name: Highball
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: bourbon-whiskey
+      display_name: Bourbon Whiskey
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: vodka
+      display_name: Vodka
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: gin
+      display_name: Gin
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: triple-sec
+      display_name: Triple Sec
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: ounces
+      display_name: Ounces
+      quantity: 3-
+      unit: '4'
+      notes: []
+    - slug: 2-wedges-lemon
+      display_name: 2 Wedges Lemon
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Build over ice in a highball glass and squeeze in the lemon wedges and
+        stir
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

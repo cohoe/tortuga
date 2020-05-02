@@ -1,0 +1,55 @@
+- slug: new-york-flip
+  display_name: New York Flip
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      creator: Toby Maloney
+      location: Toby Maloney
+      year: 1880
+      story: David Wondrich traces the addition of red wine to cocktails all the way
+        back to the 1880s.
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: elijah-craig-12-year-old-bourbon-whiskey
+      display_name: Elijah Craig 12 Year Old Bourbon Whiskey
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: heavy-cream
+      display_name: Heavy Cream
+      quantity: 5
+      unit: oz
+      notes: []
+    - slug: simple-syrup
+      display_name: Simple Syrup
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: yolk
+      display_name: Yolk
+      quantity: 1
+      unit: Egg
+      notes: []
+    - slug: noval-black-port
+      display_name: Noval Black Port
+      quantity: 0.75
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Dry-shake, shake with ice, and strain into a chilled coupe
+    - text: Top with
+    - text: 75 oz Noval Black Port
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

@@ -1,0 +1,43 @@
+- slug: spice-market
+  display_name: Spice Market
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      creator: Nate Dumas
+      location: Nate Dumas
+      year: 2009
+      story: This ode to the East combines unpasteurized sake with master distiller
+        Desmond Payne's grapefruit, sencha, and green tea-accented gin.
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: masumi-arabashiri-sake
+      display_name: Masumi Arabashiri Sake
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: beefeater-24-gin
+      display_name: Beefeater 24 Gin
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: john-d-taylors-velvet-falernum
+      display_name: John D Taylors Velvet Falernum
+      quantity: 1
+      unit: barspoon
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Stir with ice and strain into a chilled coupe
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

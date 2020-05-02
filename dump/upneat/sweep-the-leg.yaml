@@ -1,0 +1,88 @@
+- slug: sweep-the-leg
+  display_name: Sweep The Leg
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin:
+      creator: Brad Farran
+      location: Brad Farran
+      year: 2013
+    glassware:
+    - slug: pilsner
+      display_name: Pilsner
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: suntory-hakushu-12-year-japanese-whisky
+      display_name: Suntory Hakushu 12 Year Japanese Whisky
+      quantity: 2
+      unit: ounces
+      notes: []
+    - slug: orgeat
+      display_name: Orgeat
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: lustau-amontillado-sherry
+      display_name: Lustau Amontillado Sherry
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: orange-juice
+      display_name: Orange Juice
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: acacia-honey-syrup
+      display_name: Acacia Honey Syrup
+      quantity: 0.25
+      unit: ounce
+      notes: []
+    - slug: luxardo-amaro-abano
+      display_name: Luxardo Amaro Abano
+      quantity: 1
+      unit: teaspoon
+      notes: []
+    - slug: angostura-bitters
+      display_name: Angostura Bitters
+      quantity: 1
+      unit: dash
+      notes: []
+    - slug: bittermens-xocolatl-mole-bitters
+      display_name: Bittermens Xocolatl Mole Bitters
+      quantity: 1
+      unit: dash
+      notes: []
+    garnish:
+    - slug: wheel-of-lime
+      display_name: Wheel Of Lime
+      notes: []
+    - slug: crescent-of-orange
+      display_name: Crescent Of Orange
+      notes: []
+    - slug: brandied-cherry
+      display_name: Brandied Cherry
+      notes: []
+    - slug: sprig-of-mint
+      display_name: Sprig Of Mint
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Short shake all the ingredients with 3 ice cubes, then strain into a pilsner
+        glass filled with crushed ice
+    - text: Skewer the lime wheel, orange crescent, and cherry on a cocktail pick
+        and insert into the ice along with a mint sprig
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

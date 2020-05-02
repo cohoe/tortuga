@@ -1,0 +1,66 @@
+- slug: whiskey-peach-smash
+  display_name: Whiskey Peach Smash
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin:
+      story: Canadian Club makes a sherry-barrel whiskey that works well in this recipe,
+        but it will work equally well with other American whiskies.
+    glassware:
+    - slug: bar
+      display_name: Bar
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: quarters-of-peach
+      display_name: Quarters Of Peach
+      quantity: 4
+      unit: small
+      notes: []
+    - slug: of-mint
+      display_name: Of Mint
+      quantity: 3
+      unit: leaves
+      notes: []
+    - slug: of-lemon
+      display_name: Of Lemon
+      quantity: 2
+      unit: pieces
+      notes: []
+    - slug: water
+      display_name: Water
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: simple-syrup
+      display_name: Simple Syrup
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: canadian-whiskey
+      display_name: Canadian Whiskey
+      quantity: 2
+      unit: ounces
+      notes: []
+    - slug: of-mint
+      display_name: Of Mint
+      quantity: 1
+      unit: sprig
+      notes: []
+    garnish:
+    - slug: slice-of-peach
+      display_name: Slice Of Peach
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Muddle all the ingredients except the whiskey in a bar glass
+    - text: Add the whiskey and shake with ice
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

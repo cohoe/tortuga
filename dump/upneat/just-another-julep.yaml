@@ -1,0 +1,52 @@
+- slug: just-another-julep
+  display_name: Just Another Julep
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin:
+      creator: Brian Miller
+      location: Brian Miller
+      year: 2008
+    glassware: []
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: of-mint
+      display_name: Of Mint
+      quantity: 2
+      unit: sprigs
+      notes: []
+    - slug: buffalo-trace-bourbon
+      display_name: Buffalo Trace Bourbon
+      quantity: 2
+      unit: ounces
+      notes: []
+    - slug: demerara-syrup
+      display_name: Rich Demerara Syrup
+      quantity: 0.25
+      unit: ounce
+      notes: []
+    - slug: goslings-black-seal-rum
+      display_name: Goslings Black Seal Rum
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    garnish:
+    - slug: bouquet-of-mint
+      display_name: Bouquet Of Mint
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Rub the mint around the inside of a julep tin and discard
+    - text: Fill the tin with crushed ice and add the bourbon and syrup
+    - text: Swizzle briefly, then top with crushed ice
+    - text: Pour the rum over the top
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

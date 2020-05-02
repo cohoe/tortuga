@@ -1,0 +1,42 @@
+- slug: cuba-libre
+  display_name: Cuba Libre
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin:
+      story: Coca-Cola was only available in bottles for four years when the Rough
+        Riders brought it along with them to Cuba. They mixed it with Cuban rum and
+        lime and named it after their battle cry, "Cuba Libre." "Free Cuba" was the
+        cry heard from the Rough Riders and their Cuban counterparts as they swept
+        the Spanish out of Cuba.
+    glassware:
+    - slug: highball
+      display_name: Highball
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: rum
+      display_name: Rum
+      quantity: 2
+      unit: ounces
+      notes: []
+    - slug: coca-cola
+      display_name: Coca Cola
+      notes: []
+    - slug: wedge-lime
+      display_name: Wedge Lime
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Pour the Cuban rum over ice in the highball glass and fill with Coca-Cola
+    - text: Squeeze in a lime wedge
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

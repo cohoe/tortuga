@@ -1,0 +1,56 @@
+- slug: dangerous-liaisons
+  display_name: Dangerous Liaisons
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin:
+      year: 2012
+      story: JOAQUÍN SIMÓ, 2012
+    glassware:
+    - slug: highball
+      display_name: Highball
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: lavender-infused-bernheim-original-wheat-whiskey
+      display_name: Lavender Infused Bernheim Original Wheat Whiskey
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: dolin-blanc-vermouth
+      display_name: Dolin Blanc Vermouth
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: grapefruit-juice
+      display_name: Grapefruit Juice
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: acacia-honey-syrup
+      display_name: Acacia Honey Syrup
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    garnish:
+    - slug: crescent-of-grapefruit
+      display_name: Crescent Of Grapefruit
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake all the ingredients with ice, then strain into a highball glass
+        filled with ice
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

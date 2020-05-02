@@ -1,0 +1,54 @@
+- slug: desert-healer
+  display_name: Desert Healer
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin:
+      year: 1930
+      story: From the Vendome Club, Hollywood, 1930, when most of what's now Los Angeles
+        was still a desert.
+    glassware:
+    - slug: highball
+      display_name: Highball
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: gin
+      display_name: Gin
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: peter-heering-cherry-heering
+      display_name: Peter Heering Cherry Heering
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: orange-juice
+      display_name: Orange Juice
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: ginger-ale
+      display_name: Ginger Ale
+      quantity: 4
+      unit: ounces
+      notes: []
+    garnish:
+    - slug: orange-peel
+      display_name: Orange Peel
+      notes: []
+    - slug: cherry
+      display_name: Cherry
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Build in a highball glass over ice and fill with ginger ale
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

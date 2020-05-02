@@ -1,0 +1,48 @@
+- slug: ti-punch-05f05da3-4d02-437f-8486-59d3ec3e7add
+  display_name: Ti Punch
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      creator: Ed Hamilton
+      location: Ed Hamilton
+      year: 1997
+      story: Ed Hamilton, who exports rhum from Martinique, is largely responsible
+        for importing this Caribbean classic to the United States.
+    glassware:
+    - slug: rocks
+      display_name: Rocks
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: neisson-rhum-reserve-speciale
+      display_name: Neisson Rhum Reserve Speciale
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: martinique-sugar-cane-syrup
+      display_name: Martinique Sugar Cane Syrup
+      quantity: 1
+      unit: barspoon
+      notes: []
+    - slug: of-lime
+      display_name: Of Lime
+      quantity: 1
+      unit: Disc
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Squeeze the lime disc on both sides (to express the oil from the peel
+        and juice from the flesh) into a chilled rocks glass
+    - text: Add everything else and top with pebble ice
+    - text: Swizzle, then top with more pebble ice and swizzle again
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

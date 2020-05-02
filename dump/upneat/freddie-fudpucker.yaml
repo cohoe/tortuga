@@ -1,0 +1,39 @@
+- slug: freddie-fudpucker
+  display_name: Freddie Fudpucker
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin:
+      story: This is Harvey Wallbanger's Mexican cousin.
+    glassware:
+    - slug: highball
+      display_name: Highball
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: tequila
+      display_name: Tequila
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: orange-juice
+      display_name: Orange Juice
+      quantity: 5
+      unit: ounces
+      notes: []
+    - slug: float-of-galliano
+      display_name: Float Of Galliano
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Build in a highball glass over ice and top with Galliano
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

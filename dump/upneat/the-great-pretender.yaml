@@ -1,0 +1,58 @@
+- slug: the-great-pretender
+  display_name: The Great Pretender
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin:
+      creator: Thomas Waugh
+      location: Thomas Waugh
+      year: 2011
+    glassware: []
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: smith-cross-rum
+      display_name: Smith Cross Rum
+      quantity: 2
+      unit: ounces
+      notes: []
+    - slug: pineapple-juice
+      display_name: Pineapple Juice
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: vanilla-syrup
+      display_name: Vanilla Syrup
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: cinnamon-bark-syrup
+      display_name: Cinnamon Bark Syrup
+      quantity: 1
+      unit: teaspoon
+      notes: []
+    garnish:
+    - slug: rim-with-sugar
+      display_name: Rim With Sugar
+      notes: []
+    - slug: rim-with-cinnamon
+      display_name: Rim With Cinnamon
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Rim a coupe with cinnamon-sugar
+    - text: Shake the remaining ingredients with ice, then strain into the coupe
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

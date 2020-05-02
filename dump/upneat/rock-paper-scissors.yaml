@@ -1,0 +1,63 @@
+- slug: rock-paper-scissors
+  display_name: Rock, Paper, Scissors
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin:
+      creator: Thomas Waugh
+      location: Thomas Waugh
+      year: 2011
+    glassware:
+    - slug: martini
+      display_name: Martini
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: zacapa-23-year-rum
+      display_name: Zacapa 23 Year Rum
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: carpano-antica-formula-vermouth
+      display_name: Carpano Antica Formula Vermouth
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: otima-10-year-tawny-port
+      display_name: Otima 10 Year Tawny Port
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: marie-brizard-white-creme-de-cacao
+      display_name: Marie Brizard White Creme De Cacao
+      quantity: 2.5
+      unit: teaspoons
+      notes: []
+    - slug: alchemia-chocolate-vodka
+      display_name: Alchemia Chocolate Vodka
+      quantity: 2.5
+      unit: teaspoons
+      notes: []
+    - slug: bittermens-xocolatl-mole-bitters
+      display_name: Bittermens Xocolatl Mole Bitters
+      quantity: 1
+      unit: dash
+      notes: []
+    - slug: angostura-bitters
+      display_name: Angostura Bitters
+      quantity: 1
+      unit: dash
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Stir all the ingredients over ice, then strain into a martini glass
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

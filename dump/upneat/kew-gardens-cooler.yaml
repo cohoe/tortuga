@@ -1,0 +1,57 @@
+- slug: kew-gardens-cooler
+  display_name: Kew Gardens Cooler
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin:
+      year: 2009
+      story: JOAQUÍN SIMÓ, 2009
+    glassware:
+    - slug: highball
+      display_name: Highball
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: wheels-of-cucumber
+      display_name: Wheels Of Cucumber
+      quantity: 2
+      unit: thin
+      notes: []
+    - slug: beefeater-24-gin
+      display_name: Beefeater 24 Gin
+      quantity: 2
+      unit: ounces
+      notes: []
+    - slug: aperol
+      display_name: Aperol
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: grapefruit-juice
+      display_name: Grapefruit Juice
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: scarlet-glow-syrup
+      display_name: Scarlet Glow Syrup
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    garnish:
+    - slug: ribbon-of-cucumber
+      display_name: Ribbon Of Cucumber
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: In a shaker, muddle the cucumber wheels
+    - text: Add the remaining ingredients and short shake with 3 ice cubes, then strain
+        into a highball glass filled with crushed ice
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

@@ -1,0 +1,59 @@
+- slug: faithful-scotsman
+  display_name: Faithful Scotsman
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin:
+      creator: and husbands
+      location: and husbands
+      year: 2008
+      story: JOAQUÍN SIMÓ, 2008 The name of this single-serving, Scotch-based punch
+        is derived from the medieval notion that cumin keeps chickens
+    glassware:
+    - slug: rocks
+      display_name: Rocks
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: compass-box-asyla-scotch-whisky
+      display_name: Compass Box Asyla Scotch Whisky
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: massenez-creme-de-peche-peach-liqueur
+      display_name: Massenez Creme De Peche Peach Liqueur
+      quantity: 0.25
+      unit: ounce
+      notes: []
+    - slug: pineapple-juice
+      display_name: Pineapple Juice
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: cumin-syrup
+      display_name: Cumin Syrup
+      quantity: 0.25
+      unit: ounce
+      notes: []
+    garnish:
+    - slug: 1-leaf-of-pineapple
+      display_name: 1 Leaf Of Pineapple
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Stir all the ingredients, then strain into a double rocks glass over 1
+        large ice cube
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

@@ -1,0 +1,51 @@
+- slug: fair-lady
+  display_name: Fair Lady
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin:
+      creator: Jillian Vose
+      location: Jillian Vose
+      year: 2011
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: sage-infused-dolin-blanc-vermouth
+      display_name: Sage Infused Dolin Blanc Vermouth
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: krogstad-aquavit
+      display_name: Krogstad Aquavit
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: grapefruit-juice
+      display_name: Grapefruit Juice
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: rich-cane-sugar-syrup
+      display_name: Rich Cane Sugar Syrup
+      quantity: 1
+      unit: teaspoon
+      notes: []
+    - slug: dry-champagne
+      display_name: Dry Champagne
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake all the ingredients (except the champagne) with ice, then strain
+        into a flute
+    - text: Top with champagne
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

@@ -1,0 +1,49 @@
+- slug: silk-road
+  display_name: Silk Road
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      creator: Don Lee
+      location: Don Lee
+      year: 2007
+      story: This cocktail was fashioned after Joyva Sesame Crunch candy and named
+        after the Silk Road, an ancient trade route that once linked Asia to India
+        and Europe.
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: black-sesame-infused-krogstad-aquavit
+      display_name: Black Sesame Infused Krogstad Aquavit
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: caramelized-simple-syrup
+      display_name: Caramelized Simple Syrup
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: angostura-bitters
+      display_name: Angostura Bitters
+      quantity: 1
+      unit: dash
+      notes: []
+    - slug: peychauds-bitters
+      display_name: Peychauds Bitters
+      quantity: 1
+      unit: dash
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Stir with ice and strain into a chilled coupe
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

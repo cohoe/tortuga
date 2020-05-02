@@ -1,0 +1,60 @@
+- slug: susie-q
+  display_name: Susie Q
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin:
+      year: 2009
+      story: JOAQUÍN SIMÓ, 2009
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: busnel-vsop-calvados
+      display_name: Busnel Vsop Calvados
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: cinnamon-bark-syrup
+      display_name: Cinnamon Bark Syrup
+      quantity: 0.25
+      unit: ounce
+      notes: []
+    - slug: ginger-syrup
+      display_name: Ginger Syrup
+      quantity: 0.25
+      unit: ounce
+      notes: []
+    - slug: vanilla-syrup
+      display_name: Vanilla Syrup
+      quantity: 0.25
+      unit: ounce
+      notes: []
+    - slug: angostura-bitters
+      display_name: Angostura Bitters
+      quantity: 1
+      unit: dash
+      notes: []
+    - slug: sparkling-rose
+      display_name: Sparkling Rose
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake all the ingredients (except the sparkling rosé) with ice, then strain
+        into a flute
+    - text: Top with sparkling rosé
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

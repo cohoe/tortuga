@@ -1,0 +1,40 @@
+- slug: pink-squirrel
+  display_name: Pink Squirrel
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin: {}
+    glassware:
+    - slug: cocktail
+      display_name: Cocktail
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: creme-de-noyaux
+      display_name: Creme De Noyaux
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: white-creme-de-cacao
+      display_name: White Creme De Cacao
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: heavy-cream
+      display_name: Heavy Cream
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake all the ingredients with ice and strain into a small cocktail glass
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

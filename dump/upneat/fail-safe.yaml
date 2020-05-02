@@ -1,0 +1,54 @@
+- slug: fail-safe
+  display_name: Fail Safe
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin:
+      creator: Scott Teague
+      location: Scott Teague
+      year: 2013
+    glassware:
+    - slug: rocks
+      display_name: Rocks
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: perrys-tot-navy-strength-gin
+      display_name: Perrys Tot Navy Strength Gin
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: plymouth-sloe-gin
+      display_name: Plymouth Sloe Gin
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: aperol
+      display_name: Aperol
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: pierre-ferrand-dry-curacao
+      display_name: Pierre Ferrand Dry Curacao
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: angostura-bitters
+      display_name: Angostura Bitters
+      quantity: 2
+      unit: dashes
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Stir all the ingredients over ice, then strain into a double rocks glass
+        over 1 large ice cube
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

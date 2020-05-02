@@ -1,0 +1,41 @@
+- slug: debonaire-cocktail
+  display_name: Debonaire Cocktail
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin:
+      year: 1862
+      story: Gary and Mardee Regan have supplied me for a couple of years now with
+        orange bitters prepared from a recipe that appeared in the 1862 first edition
+        of Jerry Thomas's How to Mix Drinks. Gary and Mardee also spend plenty of
+        time in their bar/laboratory creating recipes of their own. This is their
+        recipe.
+    glassware:
+    - slug: martini
+      display_name: Martini
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: highlands-malt-scotch-whisky
+      display_name: Highlands Malt Scotch Whisky
+      quantity: 2.5
+      unit: ounces
+      notes: []
+    - slug: canton-ginger-liqueur
+      display_name: Canton Ginger Liqueur
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Stir both ingredients to chill and strain into a chilled martini glass
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

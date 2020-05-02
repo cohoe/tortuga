@@ -1,0 +1,36 @@
+- slug: cape-cod
+  display_name: Cape Cod
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin: {}
+    glassware:
+    - slug: highball
+      display_name: Highball
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: vodka
+      display_name: Vodka
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: cranberry-juice
+      display_name: Cranberry Juice
+      notes: []
+    garnish:
+    - slug: wedge-lime
+      display_name: Wedge Lime
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Combine the vodka and cranberry juice in a highball glass with ice
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

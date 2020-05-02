@@ -1,0 +1,54 @@
+- slug: smoky-grove
+  display_name: Smoky Grove
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      creator: Jonathan Pogash
+      location: Jonathan Pogash
+      year: 2007
+      story: One night, spirits writer Jonathan Forester asked for a bartender's choice.
+        Pogash prepared a Perfect Rob Roy with orange bitters, and Forester liked
+        it enough to blog about it on Slashfood.com.
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: compass-box-peat-monster-blended-malt-scotch-whisky
+      display_name: Compass Box Peat Monster Blended Malt Scotch Whisky
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: carpano-antica-sweet-vermouth
+      display_name: Carpano Antica Sweet Vermouth
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: dolin-dry-vermouth
+      display_name: Dolin Dry Vermouth
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: angostura-bitters
+      display_name: Angostura Bitters
+      quantity: 1
+      unit: dash
+      notes: []
+    - slug: house-orange-bitters
+      display_name: House Orange Bitters
+      quantity: 1
+      unit: dash
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Stir with ice and strain into a chilled coupe
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

@@ -1,0 +1,62 @@
+- slug: silver-lining
+  display_name: Silver Lining
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      creator: Joseph Schwartz
+      location: Joseph Schwartz
+      year: 2001
+      story: This cocktail was named by a Milk & Honey customer with the provision
+        that it had to include silver in the title since the drink was prepared with
+        egg white.
+    glassware:
+    - slug: fizz
+      display_name: Fizz
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: old-overholt-rye-whiskey
+      display_name: Old Overholt Rye Whiskey
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: licor-43
+      display_name: Licor 43
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: simple-syrup
+      display_name: Simple Syrup
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: white
+      display_name: White
+      quantity: 1
+      unit: Egg
+      notes: []
+    - slug: club-soda
+      display_name: Club Soda
+      quantity: 1
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Dry-shake, then shake with ice and strain into a chilled fizz glass
+    - text: Top with 1 oz club soda
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

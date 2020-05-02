@@ -1,0 +1,56 @@
+- slug: johnny-apple-collins
+  display_name: Johnny Apple Collins
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      creator: Jim Meehan
+      location: Jim Meehan
+      year: 2008
+      story: An improved John Collins that alludes to Johnny Appleseed, dressed up
+        with fancy English soda and German Apple Schnapps.
+    glassware:
+    - slug: collins
+      display_name: Collins
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: makers-mark-bourbon-whiskey
+      display_name: Makers Mark Bourbon Whiskey
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: schonauer-apple-schnapps
+      display_name: Schonauer Apple Schnapps
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: bitter-truth-jerry-thomas-own-decanter-bitters
+      display_name: Bitter Truth Jerry Thomas Own Decanter Bitters
+      quantity: 2
+      unit: dashes
+      notes: []
+    - slug: fever-tree-bitter-lemon-soda
+      display_name: Fever Tree Bitter Lemon Soda
+      quantity: 2
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake with ice and strain into a chilled Collins glass filled with ice
+    - text: Top with 2 oz Fever-Tree Bitter Lemon Soda
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

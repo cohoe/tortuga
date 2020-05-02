@@ -1,0 +1,55 @@
+- slug: independence-day-punch
+  display_name: Independence Day Punch
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin: {}
+    glassware:
+    - slug: mixing
+      display_name: Mixing
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: of-balls-of-watermelon
+      display_name: Of Balls Of Watermelon
+      quantity: 0.5
+      unit: cup
+      notes: []
+    - slug: simple-syrup
+      display_name: Simple Syrup
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: citrus-vodka
+      display_name: Citrus Vodka
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: lipton-cold-brew-tea
+      display_name: Lipton Cold Brew Tea
+      quantity: 4
+      unit: ounces
+      notes: []
+    garnish:
+    - slug: thin-wheel-of-lemon
+      display_name: Thin Wheel Of Lemon
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: In the bottom of a mixing glass, muddle the melon with the Simple Syrup
+        until it is watery
+    - text: Add all the rest of the ingredients and shake well with ice
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

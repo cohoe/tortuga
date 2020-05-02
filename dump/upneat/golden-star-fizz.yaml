@@ -1,0 +1,73 @@
+- slug: golden-star-fizz
+  display_name: Golden Star Fizz
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      creator: Jim Meehan
+      location: Jim Meehan
+      year: 2009
+      story: Inspired by the tree blossoms that fill the streets with their heady
+        perfume in the spring, I combined Golden Star sparkling jasmine tea with a
+        hint of absinthe to complement Christian Krogstad's namesake aquavit.
+    glassware:
+    - slug: mixing
+      display_name: Mixing
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: george
+      display_name: George
+      quantity: St
+      notes: []
+    - slug: golden-star-sparkling-white-jasmine-tea
+      display_name: Golden Star Sparkling White Jasmine Tea
+      quantity: 3
+      unit: oz
+      notes: []
+    - slug: krogstad-aquavit
+      display_name: Krogstad Aquavit
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: pineapple-juice
+      display_name: Pineapple Juice
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: of-cucumber
+      display_name: Of Cucumber
+      quantity: 4
+      unit: slices
+      notes: []
+    - slug: of-dill
+      display_name: Of Dill
+      quantity: 1
+      unit: Sprig
+      notes: []
+    - slug: of-cucumber
+      display_name: Of Cucumber
+      quantity: 1
+      unit: slice
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Add the cucumber, dill, and juices to a mixing glass and muddle
+    - text: Add the aquavit, then shake with ice and fine-strain into a chilled, St
+    - text: George Absinthe-rinsed fizz glass
+    - text: Top with sparkling jasmine tea
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

@@ -1,0 +1,58 @@
+- slug: mexican-firing-squad
+  display_name: Mexican Firing Squad
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin: {}
+    glassware:
+    - slug: highball
+      display_name: Highball
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: tapatio-110-blanco-tequila
+      display_name: Tapatio 110 Blanco Tequila
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: rich-cane-sugar-syrup
+      display_name: Rich Cane Sugar Syrup
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: grenadine
+      display_name: Grenadine
+      quantity: 0.25
+      unit: ounce
+      notes: []
+    - slug: bittermens-hellfire-habanero-shrub
+      display_name: Bittermens Hellfire Habanero Shrub
+      quantity: 2
+      unit: dashes
+      notes: []
+    garnish:
+    - slug: wheel-of-lime
+      display_name: Wheel Of Lime
+      notes: []
+    - slug: flag-with-cherry
+      display_name: Flag With Cherry
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Fill a highball glass with cracked ice
+    - text: Short shake all the ingredients with 3 ice cubes, then strain into the
+        glass
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

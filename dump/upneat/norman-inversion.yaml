@@ -1,0 +1,59 @@
+- slug: norman-inversion
+  display_name: Norman Inversion
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      creator: John deBary
+      location: John deBary
+      year: 2008
+      story: John's first cocktail on our menu was a seasonal homage to the French
+        75, reconstituted with dry, French sparkling cider.
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: aviation-gin
+      display_name: Aviation Gin
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: schonauer-apple-schnapps
+      display_name: Schonauer Apple Schnapps
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: grapefruit-juice
+      display_name: Grapefruit Juice
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: simple-syrup
+      display_name: Simple Syrup
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: regans-orange-bitters
+      display_name: Regans Orange Bitters
+      quantity: 1
+      unit: dash
+      notes: []
+    - slug: dupont-brut-sparkling-cider
+      display_name: Dupont Brut Sparkling Cider
+      quantity: 2
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake with ice and strain into a chilled coupe
+    - text: Top with 2 oz Dupont Brut Sparkling Cider
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

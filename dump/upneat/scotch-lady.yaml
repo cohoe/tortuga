@@ -1,0 +1,59 @@
+- slug: scotch-lady
+  display_name: Scotch Lady
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin:
+      creator: Phil Ward
+      location: Phil Ward
+      year: 2008
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: famous-grouse-scotch-whisky
+      display_name: Famous Grouse Scotch Whisky
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: lairds-bonded-apple-brandy
+      display_name: Lairds Bonded Apple Brandy
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: simple-syrup
+      display_name: Simple Syrup
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: grenadine
+      display_name: Grenadine
+      quantity: 0.25
+      unit: ounce
+      notes: []
+    - slug: white
+      display_name: White
+      quantity: 1
+      unit: Egg
+      notes: []
+    garnish:
+    - slug: brandied-cherry
+      display_name: Brandied Cherry
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Dry shake all the ingredients, then shake again with ice
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

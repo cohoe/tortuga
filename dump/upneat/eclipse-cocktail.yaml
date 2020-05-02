@@ -1,0 +1,52 @@
+- slug: eclipse-cocktail
+  display_name: Eclipse Cocktail
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      creator: Leo Robitsheck
+      location: Leo Robitsheck
+      year: 2009
+      story: To commemorate the rare occurrence, ancient Aztecs used to serve fermented
+        agave to their victims before sacrificing them to the gods.
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: del-maguey-vida-mezcal
+      display_name: Del Maguey Vida Mezcal
+      notes: []
+    - slug: el-tesoro-anejo-tequila
+      display_name: El Tesoro Anejo Tequila
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: aperol
+      display_name: Aperol
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: cherry-heering
+      display_name: Cherry Heering
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.75
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake with ice and strain into a chilled, Del Maguey Vida Mezcal-rinsed
+        coupe
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

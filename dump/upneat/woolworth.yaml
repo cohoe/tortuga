@@ -1,0 +1,48 @@
+- slug: woolworth
+  display_name: Woolworth
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      creator: John Deragon
+      location: John Deragon
+      year: 2007
+      story: This drink is named after the Woolworth Building, once the tallest building
+        in New York City.
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: compass-box-asyla-blended-scotch-whisky
+      display_name: Compass Box Asyla Blended Scotch Whisky
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: lustau-manzanilla-sherry
+      display_name: Lustau Manzanilla Sherry
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: benedictine
+      display_name: Benedictine
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: house-orange-bitters
+      display_name: House Orange Bitters
+      quantity: 2
+      unit: dashes
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Stir with ice and strain into a chilled coupe
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

@@ -1,0 +1,67 @@
+- slug: ramos-fizz
+  display_name: Ramos Fizz
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin: {}
+    glassware:
+    - slug: highball
+      display_name: Highball
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: gin
+      display_name: Gin
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: simple-syrup
+      display_name: Simple Syrup
+      quantity: 1.25
+      unit: ounces
+      notes: []
+    - slug: milk
+      display_name: Milk
+      quantity: 2
+      unit: ounces
+      notes: []
+    - slug: egg-white
+      display_name: Egg White
+      quantity: 1
+      unit: small
+      notes: []
+    - slug: orange-flower-water
+      display_name: Orange Flower Water
+      quantity: 2
+      unit: drops
+      notes: []
+    - slug: soda-water
+      display_name: Soda Water
+      quantity: 3
+      unit: ounces
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake all the ingredients except the soda with ice and strain into a highball
+        glass without ice
+    - text: Top with club soda
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

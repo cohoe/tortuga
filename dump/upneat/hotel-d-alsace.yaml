@@ -1,0 +1,53 @@
+- slug: hotel-d-alsace
+  display_name: Hotel D'Alsace
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      creator: David Slape
+      location: David Slape
+      year: 2008
+      story: David Slape named this drink after the posh Parisian hotel where Irish
+        scribe and spirits devotee Oscar Wilde spent his last years.
+    glassware:
+    - slug: mixing
+      display_name: Mixing
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: bushmills-irish-whiskey
+      display_name: Bushmills Irish Whiskey
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: cointreau
+      display_name: Cointreau
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: benedictine
+      display_name: Benedictine
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: rosemary
+      display_name: Rosemary
+      quantity: 1
+      unit: Sprig
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Add the Cointreau, Bénédictine, and bottom half of rosemary sprig to a
+        mixing glass and muddle
+    - text: Add Bushmills and ice, then stir and fine-strain over one large cube into
+        a chilled rocks glass
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

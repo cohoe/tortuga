@@ -1,0 +1,57 @@
+- slug: golden-gate
+  display_name: Golden Gate
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin:
+      creator: Thomas Waugh
+      location: Thomas Waugh
+      year: 2009
+    glassware:
+    - slug: highball
+      display_name: Highball
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: grand-marnier
+      display_name: Grand Marnier
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: benedictine
+      display_name: Benedictine
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: campari
+      display_name: Campari
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: grapefruit-juice
+      display_name: Grapefruit Juice
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    garnish:
+    - slug: lime-peel
+      display_name: Lime Peel
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Short shake all the ingredients with 3 ice cubes, then strain into a highball
+        glass filled with crushed ice
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

@@ -1,0 +1,57 @@
+- slug: south-coast-cocktail
+  display_name: South Coast Cocktail
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin:
+      year: 1902
+      story: From Recipes of American and Other Iced Drinks, by Charlie Paul (1902).
+        Serves two.
+    glassware:
+    - slug: mixing
+      display_name: Mixing
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: full-bodied-scotch-whisky
+      display_name: Full Bodied Scotch Whisky
+      quantity: 2.5
+      unit: ounces
+      notes: []
+    - slug: curaassao
+      display_name: Curaassao
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: simple-syrup
+      display_name: Simple Syrup
+      quantity: 0.25
+      unit: ounce
+      notes: []
+    - slug: soda-water
+      display_name: Soda Water
+      quantity: 2.5
+      unit: ounces
+      notes: []
+    garnish:
+    - slug: 2-flamed-orange-peel
+      display_name: 2 Flamed Orange Peel
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Mix all the ingredients in a mixing glass with ice
+    - text: Stir gently and strain into two chilled martini glasses
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

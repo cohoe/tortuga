@@ -1,0 +1,51 @@
+- slug: petticoat
+  display_name: Petticoat
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin:
+      creator: Jessica Gonzalez
+      location: Jessica Gonzalez
+      year: 2009
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: szechuan-peppercorn-infused-plymouth-gin
+      display_name: Szechuan Peppercorn Infused Plymouth Gin
+      quantity: 2
+      unit: ounces
+      notes: []
+    - slug: velvet-falernum
+      display_name: Velvet Falernum
+      quantity: 0.25
+      unit: ounce
+      notes: []
+    - slug: marie-brizard-apricot-liqueur
+      display_name: Marie Brizard Apricot Liqueur
+      quantity: 0.25
+      unit: ounce
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: rich-cane-sugar-syrup
+      display_name: Rich Cane Sugar Syrup
+      quantity: 0.25
+      unit: ounce
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake all the ingredients with ice, then strain into a coupe
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

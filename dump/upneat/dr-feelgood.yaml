@@ -1,0 +1,66 @@
+- slug: dr-feelgood
+  display_name: Dr. Feelgood
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin:
+      creator: Jillian Vose
+      location: Jillian Vose
+      year: 2013
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: fig-infused-elijah-craig-bourbon
+      display_name: Fig Infused Elijah Craig Bourbon
+      quantity: 2
+      unit: ounces
+      notes: []
+    - slug: clear-creek-apple-brandy
+      display_name: Clear Creek Apple Brandy
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: grand-marnier
+      display_name: Grand Marnier
+      quantity: 0.25
+      unit: ounce
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: granny-smith-apple-juice
+      display_name: Granny Smith Apple Juice
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: orgeat
+      display_name: Orgeat
+      quantity: 0.25
+      unit: ounce
+      notes: []
+    - slug: ginger-syrup
+      display_name: Ginger Syrup
+      quantity: 0.25
+      unit: ounce
+      notes: []
+    - slug: angostura-bitters
+      display_name: Angostura Bitters
+      quantity: 1
+      unit: dash
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake all the ingredients with ice, then strain into a large coupe
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

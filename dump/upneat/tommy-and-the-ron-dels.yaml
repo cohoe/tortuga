@@ -1,0 +1,73 @@
+- slug: tommy-and-the-ron-dels
+  display_name: Tommy And The Ron Dels
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin:
+      creator: Brad Farran
+      location: Brad Farran
+      year: 2012
+    glassware:
+    - slug: shake-all-the-ingredients-with-ice-then-strain-into-an-old-fashioned-glass-over-1-large-ice-cube
+      display_name: Shake All The Ingredients With Ice Then Strain Into An Old Fashioned
+        Glass Over 1 Large Ice Cube
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: el-tesoro-reposado-tequila
+      display_name: El Tesoro Reposado Tequila
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: del-maguey-chichicapa-mezcal
+      display_name: Del Maguey Chichicapa Mezcal
+      quantity: 0.25
+      unit: ounce
+      notes: []
+    - slug: ron-del-barrilito-3-star-rum
+      display_name: Ron Del Barrilito 3 Star Rum
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: galliano-lautentico
+      display_name: Galliano Lautentico
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: vieux-pontarlier-absinthe
+      display_name: Vieux Pontarlier Absinthe
+      quantity: 1
+      unit: dash
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: agave-nectar
+      display_name: Agave Nectar
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: bittermens-elemakule-tiki-bitters
+      display_name: Bittermens Elemakule Tiki Bitters
+      quantity: 1
+      unit: dash
+      notes: []
+    garnish:
+    - slug: wheel-of-lime
+      display_name: Wheel Of Lime
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake all the ingredients with ice, then strain into an old-fashioned
+        glass over 1 large ice cube
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

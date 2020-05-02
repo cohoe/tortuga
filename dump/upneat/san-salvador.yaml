@@ -1,0 +1,53 @@
+- slug: san-salvador
+  display_name: San Salvador
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin: {}
+    glassware:
+    - slug: shake-all-the-ingredients-with-ice-and-strain-into-an-ice-filled-double-old-fashioned-glass
+      display_name: Shake All The Ingredients With Ice And Strain Into An Ice Filled
+        Double Old Fashioned Glass
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: dark-rum
+      display_name: Dark Rum
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: curaassao
+      display_name: Curaassao
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: orange-juice
+      display_name: Orange Juice
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    garnish:
+    - slug: slice-of-orange
+      display_name: Slice Of Orange
+      notes: []
+    - slug: slice-of-lime
+      display_name: Slice Of Lime
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake all the ingredients with ice and strain into an ice-filled double
+        old-fashioned glass
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

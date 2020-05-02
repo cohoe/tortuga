@@ -1,0 +1,54 @@
+- slug: trapeze
+  display_name: Trapeze
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin:
+      creator: Thomas Waugh
+      location: Thomas Waugh
+      year: 2011
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: royal-combier-liqueur
+      display_name: Royal Combier Liqueur
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: yellow-chartreuse
+      display_name: Yellow Chartreuse
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: campari
+      display_name: Campari
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: fee-brothers-whiskey-barrel-aged-bitters
+      display_name: Fee Brothers Whiskey Barrel Aged Bitters
+      quantity: 1
+      unit: dash
+      notes: []
+    - slug: dry-champagne
+      display_name: Dry Champagne
+      notes: []
+    garnish:
+    - slug: orange-peel
+      display_name: Orange Peel
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Stir all the ingredients (except the champagne) over ice, then strain
+        into a flute
+    - text: Top with champagne
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

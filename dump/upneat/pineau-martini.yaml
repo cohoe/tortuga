@@ -1,0 +1,38 @@
+- slug: pineau-martini
+  display_name: Pineau Martini
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin: {}
+    glassware:
+    - slug: mixing
+      display_name: Mixing
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: de-fussigny-pineau-des-charentes
+      display_name: De Fussigny Pineau Des Charentes
+      quantity: 2
+      unit: ounces
+      notes: []
+    - slug: gin
+      display_name: Gin
+      quantity: 1
+      unit: ounce
+      notes: []
+    garnish:
+    - slug: flamed-orange-peel
+      display_name: Flamed Orange Peel
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Assemble the ingredients in a mixing glass with ice and stir
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

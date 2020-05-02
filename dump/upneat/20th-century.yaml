@@ -1,0 +1,43 @@
+- slug: 20th-century
+  display_name: 20Th Century
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin: {}
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: beefeater-london-dry-gin
+      display_name: Beefeater London Dry Gin
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: marie-brizard-white-cra-me-de-cacao
+      display_name: Marie Brizard White Cra Me De Cacao
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: cocchi-americano
+      display_name: Cocchi Americano
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake all the ingredients with ice, then double strain into a coupe
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

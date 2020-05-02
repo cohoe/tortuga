@@ -1,0 +1,56 @@
+- slug: melon-martini
+  display_name: Melon Martini
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin: {}
+    glassware:
+    - slug: martini
+      display_name: Martini
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: chopped-yellow-and-honeydew-melon
+      display_name: Chopped Yellow And Honeydew Melon
+      quantity: 0.5
+      unit: cup
+      notes: []
+    - slug: honey-syrup
+      display_name: Honey Syrup
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: maraschino-liqueur
+      display_name: Maraschino Liqueur
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: absolut-citron-vodka
+      display_name: Absolut Citron Vodka
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    garnish:
+    - slug: sprigs-of-mint
+      display_name: Sprigs Of Mint
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Muddle the melon, Honey Syrup, maraschino liqueur, and lime juice together
+        in a container
+    - text: Add the vodka and ice
+    - text: Shake and strain into a chilled martini glass
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

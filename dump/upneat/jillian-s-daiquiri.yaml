@@ -1,0 +1,52 @@
+- slug: jillian-s-daiquiri
+  display_name: Jillian'S Daiquiri
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin:
+      story: JILLIAN VOSE
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: flor-de-caa-a-extra-dry-white-rum
+      display_name: Flor De Caa A Extra Dry White Rum
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: el-dorado-3-year-rum
+      display_name: El Dorado 3 Year Rum
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: banks-5-island-white-rum
+      display_name: Banks 5 Island White Rum
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: rich-cane-sugar-syrup
+      display_name: Rich Cane Sugar Syrup
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    garnish:
+    - slug: wedge-of-lime
+      display_name: Wedge Of Lime
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake all the ingredients with ice, then strain into a coupe
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

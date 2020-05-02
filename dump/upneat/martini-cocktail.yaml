@@ -1,0 +1,74 @@
+- slug: martini-cocktail
+  display_name: Martini Cocktail
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin:
+      year: 1888
+      story: This is Harry Johnson's Martini recipe from his 1888 Bartender's Manual.
+        Johnson and Jerry Thomas were the reigning kings of the original cocktail
+        era, 1850 through 1900. Johnson always believed he held the upper hand, claiming
+        to have published a bar-recipe book prior to Thomas's 1862 volume. If this
+        is true, no copy has ever turned up in my research. Johnson did win the first
+        bartender competition in the history of the modern profession, in New Orleans
+        in 1869, against Ive top contenders. Unfortunately, Thomas wasn't part of
+        the competition, so the debate over who really was the greatest will never
+        be settled.
+    glassware:
+    - slug: bar
+      display_name: Bar
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: dashes
+      display_name: Dashes
+      quantity: 2-
+      unit: '3'
+      notes: []
+    - slug: dashes
+      display_name: Dashes
+      quantity: 2-
+      unit: '3'
+      notes: []
+    - slug: curacao-optional
+      display_name: Curacao Optional
+      quantity: 1
+      unit: dash
+      notes: []
+    - slug: absinthe-optional
+      display_name: Absinthe Optional
+      quantity: 1
+      unit: dash
+      notes: []
+    - slug: half-a-wineglass-old-tom-gin
+      display_name: Half A Wineglass Old Tom Gin
+      notes: []
+    - slug: half-a-wineglass-sweet-italian-vermouth
+      display_name: Half A Wineglass Sweet Italian Vermouth
+      notes: []
+    garnish:
+    - slug: cherry-garnish-optional
+      display_name: Cherry Garnish Optional
+      notes: []
+    - slug: medium-size-olive-garnish-optional
+      display_name: Medium Size Olive Garnish Optional
+      notes: []
+    - slug: lemon-peel
+      display_name: Lemon Peel
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Fill a large bar glass with ice
+    - text: Add ingredients
+    - text: Stir well with a spoon
+    - text: Strain into a fancy cocktail glass; put in a cherry or medium-size olive
+        (if required) and squeeze a lemon peel on top
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

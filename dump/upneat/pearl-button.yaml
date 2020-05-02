@@ -1,0 +1,52 @@
+- slug: pearl-button
+  display_name: Pearl Button
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      creator: John Deragon
+      location: John Deragon
+      year: 2008
+      story: The combination of ingredients gave off an opalescent glimmer, reminding
+        John of the pearl buttons on the vest he wore behind the bar.
+    glassware:
+    - slug: collins
+      display_name: Collins
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: mae-de-ouro-cachaca
+      display_name: Mae De Ouro Cachaca
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: lillet-blanc
+      display_name: Lillet Blanc
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: san-pellegrino-limonata
+      display_name: San Pellegrino Limonata
+      quantity: 1.5
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake with ice and strain into a chilled Collins glass filled with ice
+    - text: Top with 1
+    - text: 5 oz of San Pellegrino Limonata
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

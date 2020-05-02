@@ -1,0 +1,41 @@
+- slug: french-martini
+  display_name: French Martini
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin:
+      story: One of the sparks that got the cocktail-as-martini craze started.
+    glassware:
+    - slug: martini
+      display_name: Martini
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: vodka
+      display_name: Vodka
+      quantity: 2
+      unit: ounces
+      notes: []
+    - slug: chambord-raspberry-liqueur
+      display_name: Chambord Raspberry Liqueur
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: pineapple-juice
+      display_name: Pineapple Juice
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake all the ingredients with ice and strain into a chilled martini glass
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

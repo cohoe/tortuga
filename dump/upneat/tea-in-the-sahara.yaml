@@ -1,0 +1,48 @@
+- slug: tea-in-the-sahara
+  display_name: Tea In The Sahara
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin:
+      creator: Brian Miller
+      location: Brian Miller
+      year: 2009
+    glassware:
+    - slug: mixing
+      display_name: Mixing
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: coin-with-pith-of-lemon
+      display_name: Coin With Pith Of Lemon
+      notes: []
+    - slug: coconut-green-tea-infused-famous-grouse-scotch-whisky
+      display_name: Coconut Green Tea Infused Famous Grouse Scotch Whisky
+      quantity: 2
+      unit: ounces
+      notes: []
+    - slug: strega-liqueur
+      display_name: Strega Liqueur
+      quantity: 1
+      unit: teaspoon
+      notes: []
+    - slug: acacia-honey-syrup
+      display_name: Acacia Honey Syrup
+      quantity: 1
+      unit: teaspoon
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Squeeze the lemon over a mixing glass and drop it in
+    - text: Add the remaining ingredients and stir with ice
+    - text: Strain into a double rocks glass
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

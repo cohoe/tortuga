@@ -1,0 +1,59 @@
+- slug: clover-club
+  display_name: Clover Club
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin:
+      year: 1931
+      story: In his Old Waldorf Bar Days (1931), Albert Stevens Crockett credits this
+        pre-Prohibition cocktail to the Bellevue-Stratford Hotel in Philadelphia,
+        where an Algonquin Round Table sort of group called the Clover Club lent its
+        name to the drink. When raspberries are in season, omit the raspberry syrup
+        and instead muddle 6  raspberries in the shaker with the Simple Syrup, then
+        add the rest of the ingredients, shake, and strain. Drinks with egg must be
+        shaken harder and longer to emulsify the egg.
+    glassware:
+    - slug: cocktail
+      display_name: Cocktail
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: gin
+      display_name: Gin
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: simple-syrup
+      display_name: Simple Syrup
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: raspberry-syrup
+      display_name: Raspberry Syrup
+      quantity: 0.25
+      unit: ounce
+      notes: []
+    - slug: egg-white
+      display_name: Egg White
+      quantity: 2
+      unit: teaspoons
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake all the ingredients well with ice and strain into a chilled cocktail
+        glass
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

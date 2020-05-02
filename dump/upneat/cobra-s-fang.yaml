@@ -1,0 +1,80 @@
+- slug: cobra-s-fang
+  display_name: Cobra'S Fang
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin: {}
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: appleton-estate-reserve-rum
+      display_name: Appleton Estate Reserve Rum
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: el-dorado-151-rum
+      display_name: El Dorado 151 Rum
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: massenez-creme-de-peche-peach-liqueur
+      display_name: Massenez Creme De Peche Peach Liqueur
+      quantity: 1
+      unit: teaspoon
+      notes: []
+    - slug: vieux-pontarlier-absinthe
+      display_name: Vieux Pontarlier Absinthe
+      quantity: 2
+      unit: dashes
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: orange-juice
+      display_name: Orange Juice
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: passion-fruit-syrup
+      display_name: Passion Fruit Syrup
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: cinnamon-bark-syrup
+      display_name: Cinnamon Bark Syrup
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: ginger-syrup
+      display_name: Ginger Syrup
+      quantity: 1
+      unit: teaspoon
+      notes: []
+    - slug: angostura-bitters
+      display_name: Angostura Bitters
+      quantity: 1
+      unit: dash
+      notes: []
+    garnish:
+    - slug: sprig-of-mint
+      display_name: Sprig Of Mint
+      notes: []
+    - slug: wheel-of-lime
+      display_name: Wheel Of Lime
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Short shake all the ingredients with 3 ice cubes, then strain into a tiki
+        mug filled with crushed ice
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

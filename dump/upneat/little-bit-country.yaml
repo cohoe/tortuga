@@ -1,0 +1,63 @@
+- slug: little-bit-country
+  display_name: Little Bit Country
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      creator: Elayne Werns
+      location: Elayne Werns
+      year: 2009
+      story: Elayne Werns grew up on the edge of a nature preserve and spent her summers
+        at a dude ranch in the Adirondacks. She confessed that her soul is country,
+        so she mixed this drink to heat it up in the wintertime.
+    glassware: []
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: bulleit-bourbon-whiskey
+      display_name: Bulleit Bourbon Whiskey
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: deep
+      display_name: Deep
+      quantity: .5oz
+      notes: []
+    - slug: luxardo-maraschino-liqueur
+      display_name: Luxardo Maraschino Liqueur
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: 1-25-inch-slice-of-jalapeno-with-a-few-seeds
+      display_name: 1 25 Inch Slice Of Jalapeno With A Few Seeds
+      notes: []
+    - slug: angostura-bitters
+      display_name: Angostura Bitters
+      quantity: 1
+      unit: dash
+      notes: []
+    - slug: house-orange-bitters
+      display_name: House Orange Bitters
+      quantity: 1
+      unit: dash
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Muddle the jalapeño with the maple syrup
+    - text: Add everything else, then shake with ice and fine-strain into a chilled
+        coupe
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

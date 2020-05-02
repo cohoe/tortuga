@@ -1,0 +1,55 @@
+- slug: summer-shack
+  display_name: Summer Shack
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin:
+      year: 2009
+      story: JOAQUÍN SIMÓ, 2009
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: martin-millers-westbourne-strength-gin
+      display_name: Martin Millers Westbourne Strength Gin
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: lillet-blanc
+      display_name: Lillet Blanc
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: sauvignon-blanc
+      display_name: Sauvignon Blanc
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: st-germain
+      display_name: St Germain
+      quantity: 0.25
+      unit: ounce
+      notes: []
+    - slug: simple-syrup
+      display_name: Simple Syrup
+      quantity: 1
+      unit: teaspoon
+      notes: []
+    - slug: orange-peel
+      display_name: Orange Peel
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Stir all the ingredients (except the orange twist) over ice, then strain
+        into a coupe
+    - text: Squeeze the orange twist over the drink and discard
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

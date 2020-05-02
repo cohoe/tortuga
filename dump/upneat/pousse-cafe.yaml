@@ -1,0 +1,74 @@
+- slug: pousse-cafe
+  display_name: Pousse Café
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin:
+      creator: not what I expected to find in what I have always assumed was a layered
+        drink. Although Santina's may not be layered
+      location: not what I expected to find in what I have always assumed was a layered
+        drink. Although Santina's may not be layered
+      year: 1862
+      story: There is a section in Jerry Thomas's 1862 edition of How to Mix Drinks
+        called "Fancy Drinks" that begins with three Pousse Café recipes. The first
+        is from an early-nineteenth-century saloon owner from New Orleans named Joseph
+        Santina, whom Thomas credits with improving the whole category of cocktail
+        with his Crustas. Santina's Pousse Café is made with Cognac, maraschino, and
+        curaçao. Thomas's instructions say to "mix well"
+    glassware:
+    - slug: the
+      display_name: The
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: grenadine
+      display_name: Grenadine
+      quantity: 0.25
+      unit: ounce
+      notes: []
+    - slug: dark-creme-de-cacao
+      display_name: Dark Creme De Cacao
+      quantity: 0.25
+      unit: ounce
+      notes: []
+    - slug: maraschino-liqueur
+      display_name: Maraschino Liqueur
+      quantity: 0.25
+      unit: ounce
+      notes: []
+    - slug: curacao
+      display_name: Curacao
+      quantity: 0.25
+      unit: ounce
+      notes: []
+    - slug: green-creme-de-menthe
+      display_name: Green Creme De Menthe
+      quantity: 0.25
+      unit: ounce
+      notes: []
+    - slug: marie-brizard-parfait-amour
+      display_name: Marie Brizard Parfait Amour
+      quantity: 0.25
+      unit: ounce
+      notes: []
+    - slug: cognac
+      display_name: Cognac
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Pour each liqueur in the order they are listed, beginning with the grenadine,
+        carefully down the inside of a Pousse café glass over the back of a teaspoon
+        positioned down at an angle against the inside of the glass so that each layer
+        floats on top of the previous layer
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

@@ -1,0 +1,48 @@
+- slug: dirty-gin-martini
+  display_name: Dirty Gin Martini
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin:
+      creator: the brine in the olive jar can get pretty funky after sitting around
+        for a while. If you want to try this one at home
+      location: the brine in the olive jar can get pretty funky after sitting around
+        for a while. If you want to try this one at home
+      story: Franklin D. Roosevelt was the first to popularize this odd drink. After
+        working behind bars, I don't think many bartenders would drink the Dirty Martini
+    glassware:
+    - slug: mixing
+      display_name: Mixing
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: dash-dry-french-vermouth
+      display_name: Dash Dry French Vermouth
+      notes: []
+    - slug: gin
+      display_name: Gin
+      quantity: 3
+      unit: ounces
+      notes: []
+    - slug: olive-brine
+      display_name: Olive Brine
+      quantity: 0.25
+      unit: ounce
+      notes: []
+    garnish:
+    - slug: pitted-cocktail-olive
+      display_name: Pitted Cocktail Olive
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Stir all the ingredients with ice in a mixing glass
+    - text: Strain into a chilled martini glass
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

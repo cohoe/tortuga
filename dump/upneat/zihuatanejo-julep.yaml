@@ -1,0 +1,56 @@
+- slug: zihuatanejo-julep
+  display_name: Zihuatanejo Julep
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin:
+      creator: Brian Miller
+      location: Brian Miller
+      year: 2009
+    glassware: []
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: sprig-of-mint
+      display_name: Sprig Of Mint
+      notes: []
+    - slug: el-tesoro-reposado-tequila
+      display_name: El Tesoro Reposado Tequila
+      quantity: 2
+      unit: ounces
+      notes: []
+    - slug: demerara-syrup
+      display_name: Rich Demerara Syrup
+      quantity: 1
+      unit: teaspoon
+      notes: []
+    - slug: del-maguey-chichicapa-mezcal
+      display_name: Del Maguey Chichicapa Mezcal
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    garnish:
+    - slug: 1-stick-of-cinnamon
+      display_name: 1 Stick Of Cinnamon
+      notes: []
+    - slug: bouquet-of-mint
+      display_name: Bouquet Of Mint
+      notes: []
+    straw: true
+    citations: []
+    notes: []
+    instructions:
+    - text: Rub the mint around the inside of a julep tin and discard
+    - text: Fill the tin with crushed ice and add the tequila and syrup
+    - text: Swizzle briefly, then top with crushed ice
+    - text: Float the mezcal on top
+    - text: Grate the side of a cinnamon stick away from the drink to release its
+        aromas, then place the cinnamon and mint bouquet in the center of the ice
+        and serve with a straw
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

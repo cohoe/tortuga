@@ -1,0 +1,55 @@
+- slug: japanese-courage
+  display_name: Japanese Courage
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      creator: Jim Meehan
+      location: Jim Meehan
+      year: 2009
+      story: Dutch Courage, a nickname given to genever in the 17th century by English
+        soldiers who were impressed by how hard the Dutch fought after a dram, is
+        the backbone of this winter warmer.
+    glassware: []
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: kamoizumi-shusen-sake
+      display_name: Kamoizumi Shusen Sake
+      quantity: 6
+      unit: oz
+      notes: []
+    - slug: bols-genever
+      display_name: Bols Genever
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: yellow-chartreuse
+      display_name: Yellow Chartreuse
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: canton-ginger-liqueur
+      display_name: Canton Ginger Liqueur
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: honey-syrup
+      display_name: Honey Syrup
+      quantity: 0.25
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Heat the sake in a bain-marie (do not boil)
+    - text: Pour the sake and everything else into a pre-heated heatproof mug
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

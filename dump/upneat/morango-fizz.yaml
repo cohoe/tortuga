@@ -1,0 +1,56 @@
+- slug: morango-fizz
+  display_name: Morango Fizz
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      creator: Don Lee
+      location: Don Lee
+      year: 2007
+      story: '"Morango" means strawberry in Portuguese, the language of Brazil, where
+        cachaça comes from.'
+    glassware:
+    - slug: fizz
+      display_name: Fizz
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: strawberry-infused-mae-de-ouro-cachaca
+      display_name: Strawberry Infused Mae De Ouro Cachaca
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: simple-syrup
+      display_name: Simple Syrup
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: white
+      display_name: White
+      quantity: 1
+      unit: Egg
+      notes: []
+    - slug: club-soda
+      display_name: Club Soda
+      quantity: 1
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Dry-shake, then shake with ice and strain into a chilled fizz glass
+    - text: Top with 1 oz club soda
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

@@ -1,0 +1,48 @@
+- slug: gold-coast
+  display_name: Gold Coast
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      creator: Jim Meehan
+      location: Jim Meehan
+      year: 2009
+      story: I created this old-fashioned style cocktail after visiting the Bjäre
+        Peninsula in southern Sweden, where the golden potatoes used to make Karlsson's
+        vodka are grown.
+    glassware:
+    - slug: mixing
+      display_name: Mixing
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: karlssons-gold-vodka
+      display_name: Karlssons Gold Vodka
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: carlshamns-flaggpunsch
+      display_name: Carlshamns Flaggpunsch
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: fresh-dill
+      display_name: Fresh Dill
+      quantity: 1
+      unit: Sprig
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Add the dill and Flaggpunsch to a mixing glass and muddle
+    - text: Add vodka and ice, then stir and fine-strain over one large cube into
+        a chilled rocks glass
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

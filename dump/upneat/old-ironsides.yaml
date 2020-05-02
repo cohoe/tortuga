@@ -1,0 +1,51 @@
+- slug: old-ironsides
+  display_name: Old Ironsides
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin:
+      creator: Brian Miller
+      location: Brian Miller
+      year: 2009
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: scarlet-ibis-rum
+      display_name: Scarlet Ibis Rum
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: cruzan-black-strap-rum
+      display_name: Cruzan Black Strap Rum
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: dolin-rouge-vermouth
+      display_name: Dolin Rouge Vermouth
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: lazzaroni-amaretto
+      display_name: Lazzaroni Amaretto
+      quantity: 1
+      unit: teaspoon
+      notes: []
+    - slug: fee-brothers-whiskey-barrel-aged-bitters
+      display_name: Fee Brothers Whiskey Barrel Aged Bitters
+      quantity: 1
+      unit: dash
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Stir all the ingredients over ice, then strain into a coupe
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

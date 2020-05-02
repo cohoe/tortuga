@@ -1,0 +1,49 @@
+- slug: french-75-degroff
+  display_name: French 75 (Degroff)
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin:
+      story: "During World War I, Captain Harry S Truman once told his men, just minutes\
+        \ before their French 75 guns rattled 75- millimeter shells at the Germans\
+        \ (at a rate of 30 rounds per minute): \"I'd rather be right here than be\
+        \ president of the United States!\" This drink is named after that French\
+        \ artillery piece. The recipe originally called for gin, but it became more\
+        \ popular using brandy."
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: brandy
+      display_name: Brandy
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: simple-syrup
+      display_name: Simple Syrup
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: champagne
+      display_name: Champagne
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake the first three ingredients well with ice and strain into a goblet
+        with ice
+    - text: Top with Champagne
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

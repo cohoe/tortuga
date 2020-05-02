@@ -1,0 +1,65 @@
+- slug: pretty-bird
+  display_name: Pretty Bird
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin:
+      creator: Thomas Waugh
+      location: Thomas Waugh
+      year: 2011
+    glassware:
+    - slug: rocks
+      display_name: Rocks
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: bombay-london-dry-gin
+      display_name: Bombay London Dry Gin
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: rhum-clement-creole-shrubb
+      display_name: Rhum Clement Creole Shrubb
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: grapefruit-juice
+      display_name: Grapefruit Juice
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: grenadine
+      display_name: Grenadine
+      quantity: 0.25
+      unit: ounce
+      notes: []
+    - slug: cinnamon-bark-syrup
+      display_name: Cinnamon Bark Syrup
+      quantity: 1
+      unit: teaspoon
+      notes: []
+    - slug: flag-with-cherry
+      display_name: Flag With Cherry
+      notes: []
+    garnish:
+    - slug: wheel-of-lime
+      display_name: Wheel Of Lime
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake all the ingredients, then strain into a double rocks glass over
+        1 large ice cube
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

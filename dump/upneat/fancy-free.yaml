@@ -1,0 +1,49 @@
+- slug: fancy-free
+  display_name: Fancy Free
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin: {}
+    glassware:
+    - slug: rocks
+      display_name: Rocks
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: rittenhouse-100-rye-whiskey
+      display_name: Rittenhouse 100 Rye Whiskey
+      quantity: 2
+      unit: ounces
+      notes: []
+    - slug: luxardo-maraschino-liqueur
+      display_name: Luxardo Maraschino Liqueur
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: angostura-bitters
+      display_name: Angostura Bitters
+      quantity: 1
+      unit: dash
+      notes: []
+    - slug: house-orange-bitters
+      display_name: House Orange Bitters
+      quantity: 1
+      unit: dash
+      notes: []
+    garnish:
+    - slug: orange-peel
+      display_name: Orange Peel
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Stir all the ingredients over ice, then strain into double rocks glass
+        over 1 large ice cube
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

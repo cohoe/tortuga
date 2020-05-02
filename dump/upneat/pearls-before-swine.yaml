@@ -1,0 +1,61 @@
+- slug: pearls-before-swine
+  display_name: Pearls Before Swine
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin:
+      creator: JS
+      location: JS
+      year: 2009
+      story: JOAQUÍN SIMÓ, 2009 I wanted to come up with a Ramos Gin Fizz that was
+        less of a pain in the ass to make (you have to shake them forever). Replacing
+        the egg with yogurt and lemon curd did the trick.
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: martin-millers-westbourne-strength-gin
+      display_name: Martin Millers Westbourne Strength Gin
+      quantity: 2
+      unit: ounces
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: orgeat
+      display_name: Orgeat
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: greek-yogurt
+      display_name: Greek Yogurt
+      quantity: 1
+      unit: teaspoon
+      notes: []
+    - slug: lemon-curd
+      display_name: Lemon Curd
+      quantity: 1
+      unit: teaspoon
+      notes: []
+    - slug: rose-water
+      display_name: Rose Water
+      quantity: 3
+      unit: drops
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake all the ingredients (except the rose water) with ice, then double
+        strain into a coupe
+    - text: Top with the rose water
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

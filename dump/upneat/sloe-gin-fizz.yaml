@@ -1,0 +1,57 @@
+- slug: sloe-gin-fizz
+  display_name: Sloe Gin Fizz
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin: {}
+    glassware:
+    - slug: highball
+      display_name: Highball
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: sloe-gin
+      display_name: Sloe Gin
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: gin
+      display_name: Gin
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: simple-syrup
+      display_name: Simple Syrup
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: 4-ounces-soda-water
+      display_name: 4 Ounces Soda Water
+      quantity: 3
+      unit: to
+      notes: []
+    garnish:
+    - slug: slice-of-orange
+      display_name: Slice Of Orange
+      notes: []
+    - slug: cherry
+      display_name: Cherry
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake the first four ingredients with ice and strain into an ice- filled
+        highball glass
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

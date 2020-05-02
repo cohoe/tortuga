@@ -1,0 +1,61 @@
+- slug: sherry-cobbler
+  display_name: Sherry Cobbler
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin: {}
+    glassware:
+    - slug: bar
+      display_name: Bar
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: 2-wedges-pineapple
+      display_name: 2 Wedges Pineapple
+      notes: []
+    - slug: orange
+      display_name: Orange
+      quantity: 2
+      unit: slices
+      notes: []
+    - slug: lemon
+      display_name: Lemon
+      quantity: 2
+      unit: wedges
+      notes: []
+    - slug: maraschino-liqueur
+      display_name: Maraschino Liqueur
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: medium-sherry
+      display_name: Medium Sherry
+      quantity: 3
+      unit: ounces
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: orange-juice
+      display_name: Orange Juice
+      quantity: 2
+      unit: ounces
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: In the bottom of a bar glass, muddle the skinless pineapple wedge, 1 piece
+        of orange, and 1 piece of lemon with the maraschino liqueur
+    - text: Add the sherry and the juices and shake well with ice
+    - text: Strain into a goblet filled with crushed ice
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

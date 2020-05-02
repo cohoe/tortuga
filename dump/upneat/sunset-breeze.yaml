@@ -1,0 +1,60 @@
+- slug: sunset-breeze
+  display_name: Sunset Breeze
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin:
+      story: For a frozen drink, use 1.5 ounces of Simple Syrup instead of .5 ounce.
+        Blend all the ingredients with .75 cup of crushed ice and serve in a goblet.
+    glassware:
+    - slug: martini
+      display_name: Martini
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: absolut-vodka
+      display_name: Absolut Vodka
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: absolut-citron-vodka
+      display_name: Absolut Citron Vodka
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: bacardi-tropico
+      display_name: Bacardi Tropico
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: peter-heering-cherry-heering
+      display_name: Peter Heering Cherry Heering
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: simple-syrup
+      display_name: Simple Syrup
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    garnish:
+    - slug: orange-peel
+      display_name: Orange Peel
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake all the ingredients with ice and strain into a martini glass
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

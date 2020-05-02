@@ -1,0 +1,51 @@
+- slug: fancy-holland-royale
+  display_name: Fancy Holland Royale
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin:
+      creator: Thomas Waugh
+      location: Thomas Waugh
+      year: 2008
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: bols-genever
+      display_name: Bols Genever
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: grand-marnier
+      display_name: Grand Marnier
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: rich-cane-sugar-syrup
+      display_name: Rich Cane Sugar Syrup
+      quantity: 1
+      unit: teaspoon
+      notes: []
+    - slug: fee-brothers-whiskey-barrel-aged-bitters
+      display_name: Fee Brothers Whiskey Barrel Aged Bitters
+      quantity: 1
+      unit: dash
+      notes: []
+    - slug: dry-champagne
+      display_name: Dry Champagne
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Stir all the ingredients (except the champagne) over ice, then strain
+        into a flute
+    - text: Top with champagne
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

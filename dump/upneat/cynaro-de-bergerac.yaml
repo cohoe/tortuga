@@ -1,0 +1,61 @@
+- slug: cynaro-de-bergerac
+  display_name: Cynaro De Bergerac
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin:
+      creator: Brad Farran
+      location: Brad Farran
+      year: 2013
+    glassware:
+    - slug: nora
+      display_name: Nora
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: bergerac-mix
+      display_name: Bergerac Mix
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: bols-barrel-aged-genever
+      display_name: Bols Barrel Aged Genever
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: haymans-old-tom-gin
+      display_name: Haymans Old Tom Gin
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: benedictine
+      display_name: Benedictine
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: vieux-pontarlier-absinthe
+      display_name: Vieux Pontarlier Absinthe
+      quantity: 1
+      unit: dash
+      notes: []
+    - slug: bittermens-xocolatl-mole-bitters
+      display_name: Bittermens Xocolatl Mole Bitters
+      quantity: 1
+      unit: dash
+      notes: []
+    garnish:
+    - slug: orange-peel
+      display_name: Orange Peel
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Stir all the ingredients over ice, then strain into a Nick & Nora glass
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

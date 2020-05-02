@@ -1,0 +1,52 @@
+- slug: stone-fence
+  display_name: Stone Fence
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin:
+      year: 1902
+      story: Adapted from Recipes of American and Other Iced Drinks, by Charlie Paul
+        (1902).
+    glassware: []
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: makers-mark-bourbon-whiskey
+      display_name: Makers Mark Bourbon Whiskey
+      quantity: 2
+      unit: ounces
+      notes: []
+    - slug: apple-cider
+      display_name: Apple Cider
+      quantity: 5
+      unit: ounces
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: simple-syrup-optional
+      display_name: Simple Syrup Optional
+      quantity: 3
+      unit: dashes
+      notes: []
+    garnish:
+    - slug: slice-of-apple
+      display_name: Slice Of Apple
+      notes: []
+    - slug: cherry
+      display_name: Cherry
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Build in a tumbler with ice
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

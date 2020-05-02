@@ -1,0 +1,51 @@
+- slug: golden-fizz
+  display_name: Golden Fizz
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin: {}
+    glassware:
+    - slug: highball
+      display_name: Highball
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: gin
+      display_name: Gin
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: simple-syrup
+      display_name: Simple Syrup
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: beaten-egg
+      display_name: Beaten Egg
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: soda-water
+      display_name: Soda Water
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake all the ingredients except the soda with ice long and hard to completely
+        emulsify the egg
+    - text: Strain into a fizz or highball glass without ice, and top with the club
+        soda
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

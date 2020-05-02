@@ -1,0 +1,58 @@
+- slug: danish-mary
+  display_name: Danish Mary
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin: {}
+    glassware:
+    - slug: mixing
+      display_name: Mixing
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: aquavit
+      display_name: Aquavit
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: worcestershire-sauce
+      display_name: Worcestershire Sauce
+      quantity: 2
+      unit: dashes
+      notes: []
+    - slug: tabasco-sauce
+      display_name: Tabasco Sauce
+      quantity: 4
+      unit: dashes
+      notes: []
+    - slug: pinch-of-salt
+      display_name: Pinch Of Salt
+      notes: []
+    - slug: pinch-of-pepper
+      display_name: Pinch Of Pepper
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.25
+      unit: ounce
+      notes: []
+    - slug: tomato-juice
+      display_name: Tomato Juice
+      quantity: 4
+      unit: ounces
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Combine all the ingredients in a mixing glass and roll back and forth
+        to mix
+    - text: Strain into a large goblet or pint glass three quarters filled with ice
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

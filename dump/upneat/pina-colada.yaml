@@ -1,0 +1,75 @@
+- slug: pina-colada
+  display_name: Piña Colada
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin:
+      year: 1950
+      story: "In the 1950s in Puerto Rico, a man named Don Ramón Lopez- Irizarry came\
+        \ up with a delicious homogenized cream made from coconut. The product became\
+        \ known as Coco Lopez cream of coconut, and it was used for tropical dishes\
+        \ and desserts. But the best was yet to come: In 1957 Ramón Marrero, a bartender\
+        \ at Puerto Rico's Caribe Hilton, combined coconut cream with rum, pineapple\
+        \ juice, and ice in a blender to create this famous drink. Victor Bergeron\
+        \ (Trader Vic) borrowed Marrero's recipe in his later cocktail books and called\
+        \ it the Bahia. The trick to making a great Piña Colada is to use both light\
+        \ rum and dark rum, a dash of bitters, and a little heavy cream, which creates\
+        \ a drink with a much more complex flavor."
+    glassware: []
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: light-rum
+      display_name: Light Rum
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: goslings-or-myerss-dark-rum
+      display_name: Goslings Or Myerss Dark Rum
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: coco-lopez
+      display_name: Coco Lopez
+      quantity: 2
+      unit: ounces
+      notes: []
+    - slug: heavy-cream
+      display_name: Heavy Cream
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: pineapple-juice
+      display_name: Pineapple Juice
+      quantity: 4
+      unit: ounces
+      notes: []
+    - slug: angostura-bitters
+      display_name: Angostura Bitters
+      quantity: 1
+      unit: dash
+      notes: []
+    - slug: crushed-ice
+      display_name: Crushed Ice
+      quantity: 1
+      unit: cup
+      notes: []
+    garnish:
+    - slug: wedge-of-pineapple
+      display_name: Wedge Of Pineapple
+      notes: []
+    - slug: maraschino-cherry
+      display_name: Maraschino Cherry
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Pour all the ingredients into a blender and blend for 15 seconds
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

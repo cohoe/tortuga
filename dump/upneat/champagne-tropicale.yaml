@@ -1,0 +1,42 @@
+- slug: champagne-tropicale
+  display_name: Champagne Tropicale
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin: {}
+    glassware:
+    - slug: mixing
+      display_name: Mixing
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: mango-puree
+      display_name: Mango Puree
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: champagne
+      display_name: Champagne
+      quantity: 4
+      unit: ounces
+      notes: []
+    - slug: maraschino-liqueur
+      display_name: Maraschino Liqueur
+      quantity: 1
+      unit: ounce
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Pour the mango purée into a mixing glass, then slowly add the Champagne
+        while stirring gently
+    - text: Float the maraschino liqueur on top
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

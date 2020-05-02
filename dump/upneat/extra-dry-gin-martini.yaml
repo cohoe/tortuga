@@ -1,0 +1,42 @@
+- slug: extra-dry-gin-martini
+  display_name: Extra Dry Gin Martini
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin: {}
+    glassware:
+    - slug: mixing
+      display_name: Mixing
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: dry-vermouth
+      display_name: Dry Vermouth
+      quantity: 1
+      unit: dash
+      notes: []
+    - slug: gin
+      display_name: Gin
+      quantity: 3
+      unit: ounces
+      notes: []
+    garnish:
+    - slug: olive
+      display_name: Olive
+      notes: []
+    - slug: lemon-peel
+      display_name: Lemon Peel
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Stir with ice in a mixing glass (50 times if using large cubes, 30 if
+        using small ones)
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

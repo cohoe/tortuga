@@ -1,0 +1,50 @@
+- slug: soho-martini
+  display_name: Soho Martini
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin:
+      story: Created for Zoe's restaurant in SoHo in Manhattan. I never mixed vodkas
+        together in a drink as I have done with rums for years until all the flavored
+        vodkas arrived. Now I'm finding some wonderful combinations using flavored
+        vodkas together in the same drink or paired with regular vodka.
+    glassware:
+    - slug: martini
+      display_name: Martini
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: vodka
+      display_name: Vodka
+      quantity: 2
+      unit: ounces
+      notes: []
+    - slug: stolichnaya-vanil-vodka
+      display_name: Stolichnaya Vanil Vodka
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: curaassao
+      display_name: Curaassao
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: dash-orange-bitters
+      display_name: Dash Orange Bitters
+      notes: []
+    garnish:
+    - slug: flamed-orange-peel
+      display_name: Flamed Orange Peel
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake all the ingredients with ice and strain into a chilled martini glass
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

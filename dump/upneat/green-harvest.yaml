@@ -1,0 +1,58 @@
+- slug: green-harvest
+  display_name: Green Harvest
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      creator: Jim Meehan
+      location: Jim Meehan
+      year: 2009
+      story: In viticultural terms, "green harvesting" is when you prune immature
+        grape clusters to force the vine to concentrate flavor and ripeness in the
+        remaining fruit.
+    glassware:
+    - slug: fizz
+      display_name: Fizz
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: chilled-brewed-hibiscus-tea
+      display_name: Chilled Brewed Hibiscus Tea
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: jose-cuervo-platino-tequila
+      display_name: Jose Cuervo Platino Tequila
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: green-chartreuse
+      display_name: Green Chartreuse
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: grape
+      display_name: Grape
+      quantity: 4
+      unit: Concord
+      notes: []
+    - slug: grape
+      display_name: Grape
+      quantity: 3
+      unit: Concord
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Muddle the grapes
+    - text: Add everything to a mixing glass, then stir with ice and fine-strain into
+        a chilled fizz glass filled with ice
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

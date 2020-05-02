@@ -1,0 +1,41 @@
+- slug: the-vodkatini
+  display_name: The Vodkatini
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin:
+      year: 1960
+      story: In the late 1960s and early 1970s, the Cold War got colder and the Martini
+        got stronger, with barely a hint of vermouth. John Martin succeeded in putting
+        his Smirnoff Vodka bottle in front of all the right people, and vodka actually
+        passed gin as the white spirit of choice.
+    glassware:
+    - slug: mixing
+      display_name: Mixing
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: vodka
+      display_name: Vodka
+      quantity: 3
+      unit: ounces
+      notes: []
+    garnish:
+    - slug: pitted-cocktail-olive
+      display_name: Pitted Cocktail Olive
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Hold an open bottle of vermouth in front of a fan across the room
+    - text: Stir the vodka with ice in a mixing glass (50 times if using large ice
+        cubes, 30 times if using small cubes)
+    - text: Strain into a chilled martini glass
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

@@ -1,0 +1,50 @@
+- slug: paradise-cocktail
+  display_name: Paradise Cocktail
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin:
+      story: This recipe has been on the back of the Marie Brizard Apry bottle for
+        years. I just touched it up a bit.
+    glassware:
+    - slug: cocktail
+      display_name: Cocktail
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: gin
+      display_name: Gin
+      quantity: 2
+      unit: ounces
+      notes: []
+    - slug: marie-brizard-apry
+      display_name: Marie Brizard Apry
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: orange-juice
+      display_name: Orange Juice
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: orange-bitters
+      display_name: Orange Bitters
+      quantity: 2
+      unit: dashes
+      notes: []
+    garnish:
+    - slug: flamed-orange-peel
+      display_name: Flamed Orange Peel
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake with ice and strain into a chilled cocktail glass
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

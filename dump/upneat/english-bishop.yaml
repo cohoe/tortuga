@@ -1,0 +1,56 @@
+- slug: english-bishop
+  display_name: English Bishop
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin:
+      story: If using port instead of red wine, use lemons instead of oranges.
+    glassware: []
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: oranges-of-orange-juice
+      display_name: Oranges Of Orange Juice
+      quantity: 4
+      unit: whole
+      notes: []
+    - slug: sugar
+      display_name: Sugar
+      quantity: 0.5
+      unit: cup
+      notes: []
+    - slug: cinnamon
+      display_name: Cinnamon
+      quantity: 1
+      unit: stick
+      notes: []
+    - slug: cloves
+      display_name: Cloves
+      quantity: 3
+      unit: whole
+      notes: []
+    - slug: of-dry-red-wine
+      display_name: Of Dry Red Wine
+      quantity: 1
+      unit: bottle
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Roast the oranges and lemons in a 350Â° oven until brown, about 20 minutes
+        for the oranges and 15 minutes for the lemons
+    - text: Remove to a crockery pot
+    - text: Add the sugar, spices, and half of the wine or port
+    - text: Let stand for several hours
+    - text: Crush the fruit to express the juice and add the remainder of the wine
+    - text: Heat to just under a boil and strain
+    - text: Serve steaming in punch cups
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

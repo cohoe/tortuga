@@ -1,0 +1,57 @@
+- slug: great-northern
+  display_name: Great Northern
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin:
+      creator: Jessica Gonzalez
+      location: Jessica Gonzalez
+      year: 2011
+    glassware:
+    - slug: rocks
+      display_name: Rocks
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: linie-aquavit
+      display_name: Linie Aquavit
+      quantity: 2
+      unit: ounces
+      notes: []
+    - slug: lillet-blanc
+      display_name: Lillet Blanc
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: cointreau
+      display_name: Cointreau
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: acacia-honey-syrup
+      display_name: Acacia Honey Syrup
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    garnish:
+    - slug: 2-crescents-of-orange
+      display_name: 2 Crescents Of Orange
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Short shake all the ingredients with 3 ice cubes, then strain into a double
+        rocks glass filled with crushed ice
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

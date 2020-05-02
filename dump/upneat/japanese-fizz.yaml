@@ -1,0 +1,60 @@
+- slug: japanese-fizz
+  display_name: Japanese Fizz
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin: {}
+    glassware:
+    - slug: mixing
+      display_name: Mixing
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: 2-wedges-pineapple
+      display_name: 2 Wedges Pineapple
+      notes: []
+    - slug: 2-wedges-lemon
+      display_name: 2 Wedges Lemon
+      notes: []
+    - slug: 2-slices-orange
+      display_name: 2 Slices Orange
+      notes: []
+    - slug: simple-syrup
+      display_name: Simple Syrup
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: ruby-port
+      display_name: Ruby Port
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: whiskey
+      display_name: Whiskey
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: soda-water
+      display_name: Soda Water
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Muddle one piece each of the fruits in the bottom of the mixing glass
+        with the syrup and lemon juice
+    - text: Add the port and the whiskey, and shake well with ice
+    - text: Strain into a highball glass filled with ice and top with soda
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

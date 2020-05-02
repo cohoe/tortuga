@@ -1,0 +1,56 @@
+- slug: derby-girl
+  display_name: Derby Girl
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin:
+      creator: Jillian Vose
+      location: Jillian Vose
+      year: 2013
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: slices-of-nectarine
+      display_name: Slices Of Nectarine
+      quantity: 3
+      unit: small
+      notes: []
+    - slug: lillet-blanc
+      display_name: Lillet Blanc
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: suze-saveur-dautrefois-liqueur
+      display_name: Suze Saveur Dautrefois Liqueur
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: koval-rose-hip-liqueur
+      display_name: Koval Rose Hip Liqueur
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: acacia-honey-syrup
+      display_name: Acacia Honey Syrup
+      quantity: 0.25
+      unit: ounce
+      notes: []
+    garnish:
+    - slug: bouquet-of-mint
+      display_name: Bouquet Of Mint
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: In a shaker, muddle the nectarine slices
+    - text: Add the remaining ingredients and short shake with ice
+    - text: Strain into a julep tin filled with crushed ice
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

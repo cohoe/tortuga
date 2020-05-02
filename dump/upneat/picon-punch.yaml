@@ -1,0 +1,51 @@
+- slug: picon-punch
+  display_name: Picon Punch
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin: {}
+    glassware:
+    - slug: highball
+      display_name: Highball
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: amer-picon
+      display_name: Amer Picon
+      quantity: 2
+      unit: ounces
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: grenadine
+      display_name: Grenadine
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: soda-water
+      display_name: Soda Water
+      notes: []
+    - slug: ginger-ale-optional
+      display_name: Ginger Ale Optional
+      notes: []
+    garnish:
+    - slug: fruit
+      display_name: Fruit
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake the first three ingredients well with ice and strain into a highball
+        glass filled with ice
+    - text: Top with soda, or if you prefer a sweeter drink, top with ginger ale
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

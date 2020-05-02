@@ -1,0 +1,38 @@
+- slug: dreamy-dorini-smoky-martini
+  display_name: Dreamy Dorini Smoky Martini
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin:
+      story: Audrey Saunders makes this version of the Smoky Martini
+    glassware: []
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: pernod
+      display_name: Pernod
+      notes: []
+    - slug: gin
+      display_name: Gin
+      quantity: 2.5
+      unit: ounces
+      notes: []
+    - slug: splash-of-laphraoig-islay-whisky
+      display_name: Splash Of Laphraoig Islay Whisky
+      notes: []
+    garnish:
+    - slug: lemon-peel
+      display_name: Lemon Peel
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Season the ice with Pernod
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

@@ -1,0 +1,49 @@
+- slug: orange-blossom
+  display_name: Orange Blossom
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin:
+      story: 'One of my favorite cocktail authors, David A. Embury, refers to this
+        cocktail as the spawn of the Prohibition toad. But he does reluctantly offer
+        his recipe: 2 parts gin to 1 part orange to .5 part Simple Syrup. Modern tastes
+        lean toward a lighter drink, so I altered the recipe and added Cointreau instead
+        of Simple Syrup to bring a bit of flavor along with sweetness.'
+    glassware:
+    - slug: cocktail
+      display_name: Cocktail
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: gin
+      display_name: Gin
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: orange-juice
+      display_name: Orange Juice
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: cointreau
+      display_name: Cointreau
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    garnish:
+    - slug: flamed-orange-peel
+      display_name: Flamed Orange Peel
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake all the ingredients with ice and strain into a chilled cocktail
+        glass
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

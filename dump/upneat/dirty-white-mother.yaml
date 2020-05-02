@@ -1,0 +1,40 @@
+- slug: dirty-white-mother
+  display_name: Dirty White Mother
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin: {}
+    glassware:
+    - slug: rocks
+      display_name: Rocks
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: brandy
+      display_name: Brandy
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: kahlaoa
+      display_name: Kahlaoa
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: heavy-cream
+      display_name: Heavy Cream
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake all the ingredients with ice and strain over ice in a rocks glass
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

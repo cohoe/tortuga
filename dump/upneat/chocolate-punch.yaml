@@ -1,0 +1,58 @@
+- slug: chocolate-punch
+  display_name: Chocolate Punch
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin:
+      year: 1891
+      story: This is the ultimate dessert drink, and it is so rich that it must be
+        shared. I found the recipe in The Flowing Bowl by William Schmidt, 1891.
+    glassware:
+    - slug: cocktail
+      display_name: Cocktail
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: cognac
+      display_name: Cognac
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: ruby-port
+      display_name: Ruby Port
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: dark-cra-me-de-cacao
+      display_name: Dark Cra Me De Cacao
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: simple-syrup
+      display_name: Simple Syrup
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: heavy-cream
+      display_name: Heavy Cream
+      quantity: 1
+      unit: ounce
+      notes: []
+    garnish:
+    - slug: nutmeg
+      display_name: Nutmeg
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake all the ingredients very well with ice and strain into a chilled
+        cocktail glass
+    - text: Grate a little nutmeg on top
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

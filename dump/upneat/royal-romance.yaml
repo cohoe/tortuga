@@ -1,0 +1,52 @@
+- slug: royal-romance
+  display_name: Royal Romance
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin:
+      year: 1934
+      story: I found this in the CafÃ© Royal Cocktail Book by W. J. Tarling. It won
+        the 1934 Empire Cocktail Competition for its inventor, J. Perusine.
+    glassware:
+    - slug: cocktail
+      display_name: Cocktail
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: gin
+      display_name: Gin
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: grand-marnier
+      display_name: Grand Marnier
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: passion-fruit-juice
+      display_name: Passion Fruit Juice
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: grenadine
+      display_name: Grenadine
+      quantity: 2
+      unit: dashes
+      notes: []
+    garnish:
+    - slug: flamed-orange-peel
+      display_name: Flamed Orange Peel
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake all the ingredients with ice and strain into a chilled cocktail
+        glass
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

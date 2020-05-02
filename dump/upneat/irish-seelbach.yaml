@@ -1,0 +1,54 @@
+- slug: irish-seelbach
+  display_name: Irish Seelbach
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin:
+      creator: Alex Day
+      location: Alex Day
+      year: 2009
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: clontarf-1014-irish-whiskey
+      display_name: Clontarf 1014 Irish Whiskey
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: cointreau
+      display_name: Cointreau
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: house-peychauds-bitters
+      display_name: House Peychauds Bitters
+      quantity: 4
+      unit: dashes
+      notes: []
+    - slug: angostura-bitters
+      display_name: Angostura Bitters
+      quantity: 4
+      unit: dashes
+      notes: []
+    - slug: dry-champagne
+      display_name: Dry Champagne
+      notes: []
+    garnish:
+    - slug: orange-peel
+      display_name: Orange Peel
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Stir all the ingredients (except the champagne) over ice, then strain
+        into a flute
+    - text: Top with champagne
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

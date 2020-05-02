@@ -1,0 +1,58 @@
+- slug: melon-lime-daiquiri
+  display_name: Melon Lime Daiquiri
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin:
+      story: I invented this drink to go with chef Andre Guerrero's chilean sea bass
+        at Linq Restaurant in Los Angeles, California.
+    glassware:
+    - slug: martini
+      display_name: Martini
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: chopped-yellow-and-honeydew-melon
+      display_name: Chopped Yellow And Honeydew Melon
+      quantity: 0.5
+      unit: cup
+      notes: []
+    - slug: brown-sugar-syrup
+      display_name: Brown Sugar Syrup
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: maraschino-liqueur
+      display_name: Maraschino Liqueur
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: white-rum
+      display_name: White Rum
+      quantity: 2
+      unit: ounces
+      notes: []
+    garnish:
+    - slug: sprigs-of-mint
+      display_name: Sprigs Of Mint
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Muddle the melon, Brown Sugar Syrup, maraschino liqueur, and lime juice
+        together in a container
+    - text: Add the rum and ice
+    - text: Shake and strain into a chilled martini glass
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

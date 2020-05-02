@@ -1,0 +1,57 @@
+- slug: heirloom
+  display_name: Heirloom
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      creator: Johnny Iuzzini
+      location: Johnny Iuzzini
+      year: 2008
+      story: Concord grapes reminded Johnny of the Catskills, which brought back memories
+        of his mother's roasted artichoke (thus the Cynar) and tomato pasta.
+    glassware:
+    - slug: mixing
+      display_name: Mixing
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: haymans-old-tom-gin
+      display_name: Haymans Old Tom Gin
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: cynar
+      display_name: Cynar
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: strega-liqueur
+      display_name: Strega Liqueur
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: grape
+      display_name: Grape
+      quantity: 7
+      unit: Concord
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Add the grapes and Strega Liqueur to a mixing glass and muddle
+    - text: Add everything else, then shake with ice and fine-strain into a chilled
+        coupe
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

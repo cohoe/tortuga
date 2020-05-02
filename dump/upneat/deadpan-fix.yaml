@@ -1,0 +1,59 @@
+- slug: deadpan-fix
+  display_name: Deadpan Fix
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin:
+      creator: Jessica Gonzalez
+      location: Jessica Gonzalez
+      year: 2011
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: rittenhouse-100-rye-whiskey
+      display_name: Rittenhouse 100 Rye Whiskey
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: campari
+      display_name: Campari
+      quantity: 0.25
+      unit: ounce
+      notes: []
+    - slug: grand-marnier
+      display_name: Grand Marnier
+      quantity: 0.25
+      unit: ounce
+      notes: []
+    - slug: grapefruit-juice
+      display_name: Grapefruit Juice
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: ginger-syrup
+      display_name: Ginger Syrup
+      quantity: 0.25
+      unit: ounce
+      notes: []
+    garnish:
+    - slug: orange-peel
+      display_name: Orange Peel
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake all the ingredients with ice, then strain into a coupe
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

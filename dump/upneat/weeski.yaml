@@ -1,0 +1,49 @@
+- slug: weeski
+  display_name: Weeski
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      creator: David Wondrich
+      location: David Wondrich
+      year: 2003
+      story: David wanted to make Manhattans, but was out of rye, so he grabbed a
+        bottle of Jameson's 12-year- old and reached for Lillet Blanc instead of sweet
+        vermouth.
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: jameson-12-year-old-irish-whiskey
+      display_name: Jameson 12 Year Old Irish Whiskey
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: lillet-blanc
+      display_name: Lillet Blanc
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: cointreau
+      display_name: Cointreau
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: house-orange-bitters
+      display_name: House Orange Bitters
+      quantity: 2
+      unit: dashes
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Stir with ice and strain into a chilled coupe
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

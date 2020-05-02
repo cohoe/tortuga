@@ -1,0 +1,45 @@
+- slug: tequila-sunrise
+  display_name: Tequila Sunrise
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin:
+      year: 1940
+      story: The original Tequila Sunrise appears in cocktail books in the 1940s and
+        is made with sweetened fresh lemon juice instead of orange juice, and cassis
+        instead of grenadine. (I found that recipe in The Roving Bartender by Bill
+        Kelly, 1946.)
+    glassware:
+    - slug: highball
+      display_name: Highball
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: white-tequila
+      display_name: White Tequila
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: 5-ounces-orange-juice
+      display_name: 5 Ounces Orange Juice
+      quantity: 4
+      unit: or
+      notes: []
+    - slug: grenadine
+      display_name: Grenadine
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Ice a highball glass
+    - text: Add the tequila, pour in fresh orange juice, and top off with a float
+        of grenadine
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

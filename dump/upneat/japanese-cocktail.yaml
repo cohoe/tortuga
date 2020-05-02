@@ -1,0 +1,54 @@
+- slug: japanese-cocktail
+  display_name: Japanese Cocktail
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin:
+      year: 1862
+      story: The Japanese Cocktail was one of the very few cocktails listed in Jerry
+        Thomas's 1862 edition of How to Mix Drinks or The Bon-Vivants Companion. He
+        calls for stirring with a couple of peels of lemon in the bar glass. Later
+        recipes took the citrus note a bit farther by actually adding lime juice.
+        I don't think limes were as available as lemons in 1862, or perhaps Jerry
+        would have used them as well.
+    glassware:
+    - slug: cocktail
+      display_name: Cocktail
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: cognac
+      display_name: Cognac
+      quantity: 2
+      unit: ounces
+      notes: []
+    - slug: orgeat
+      display_name: Orgeat
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: dash-angostura-bitters
+      display_name: Dash Angostura Bitters
+      notes: []
+    garnish:
+    - slug: spiral-of-lime-peel
+      display_name: Spiral Of Lime Peel
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake all the ingredients well with ice and strain into a chilled cocktail
+        glass
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

@@ -1,0 +1,64 @@
+- slug: millennium-cocktail
+  display_name: Millennium Cocktail
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin:
+      creator: the grated nutmeg and the flamed orange peel.
+      location: the grated nutmeg and the flamed orange peel.
+      year: 1946
+      story: "I was commissioned to create a cocktail with the Millennium bottling\
+        \ from Courvoisier and it turned out better than I ever expected. But now\
+        \ I guess I need to change the name: It's too good to be relegated to the\
+        \ trash heap of millennium merchandise. But in the couple of years since I\
+        \ thought I invented the drink, I acquired an out-of-print book called The\
+        \ Roving Bartender, by Bill Kelly (1946). Much to my surprise, it includes\
+        \ a drink called the East India Cocktail with brandy, curaçao, pineapple,\
+        \ and bitters. I don't know if it was Bill's original or if it predates his\
+        \ book. My version has a couple of subtle additions that translate to a lot\
+        \ of additional Ravor"
+    glassware:
+    - slug: martini
+      display_name: Martini
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: courvoisier-millennium-cognac
+      display_name: Courvoisier Millennium Cognac
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: pineapple-juice
+      display_name: Pineapple Juice
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: curacao
+      display_name: Curacao
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: angostura-bitters
+      display_name: Angostura Bitters
+      quantity: 1
+      unit: dash
+      notes: []
+    garnish:
+    - slug: flamed-orange-peel
+      display_name: Flamed Orange Peel
+      notes: []
+    - slug: nutmeg
+      display_name: Nutmeg
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake all the ingredients with ice and strain into a chilled martini glass
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

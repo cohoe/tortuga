@@ -1,0 +1,63 @@
+- slug: cider-house-rules
+  display_name: Cider House Rules
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin:
+      creator: Thomas Waugh
+      location: Thomas Waugh
+      year: 2009
+    glassware:
+    - slug: mixing
+      display_name: Mixing
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: flor-de-caa-a-extra-dry-white-rum
+      display_name: Flor De Caa A Extra Dry White Rum
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: appleton-estate-v-x-rum
+      display_name: Appleton Estate V X Rum
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: velvet-falernum
+      display_name: Velvet Falernum
+      quantity: 0.25
+      unit: ounce
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: acacia-honey-syrup
+      display_name: Acacia Honey Syrup
+      quantity: 0.25
+      unit: ounce
+      notes: []
+    - slug: bittermens-elemakule-tiki-bitters
+      display_name: Bittermens Elemakule Tiki Bitters
+      quantity: 1
+      unit: dash
+      notes: []
+    - slug: docs-hard-pear-cider
+      display_name: Docs Hard Pear Cider
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Stir all the ingredients (except the cider) in a mixing glass over ice,
+        then strain into a flute
+    - text: Top with cider
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

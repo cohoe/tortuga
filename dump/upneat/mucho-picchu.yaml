@@ -1,0 +1,52 @@
+- slug: mucho-picchu
+  display_name: Mucho Picchu
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin:
+      year: 2008
+      story: JOAQUÍN SIMÓ, 2008
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: macchu-pisco
+      display_name: Macchu Pisco
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: luxardo-maraschino-liqueur
+      display_name: Luxardo Maraschino Liqueur
+      quantity: 0.25
+      unit: ounce
+      notes: []
+    - slug: grapefruit-juice
+      display_name: Grapefruit Juice
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: simple-syrup
+      display_name: Simple Syrup
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: dry-champagne
+      display_name: Dry Champagne
+      notes: []
+    garnish:
+    - slug: grapefruit-peel
+      display_name: Grapefruit Peel
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake all the ingredients (except the champagne) with ice, then strain
+        into a flute
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

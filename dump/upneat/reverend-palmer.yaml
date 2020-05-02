@@ -1,0 +1,45 @@
+- slug: reverend-palmer
+  display_name: Reverend Palmer
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      creator: Don Lee
+      location: Don Lee
+      year: 2007
+      story: It's far from legendary golfer Arnold Palmer's country-club cooler, but
+        it sure is an intoxicating afternoon thirstquencher.
+    glassware:
+    - slug: rocks
+      display_name: Rocks
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: black-tea-infused-elijah-craig-12-year-old-bourbon-whiskey
+      display_name: Black Tea Infused Elijah Craig 12 Year Old Bourbon Whiskey
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: lemon-cordial
+      display_name: Lemon Cordial
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: angostura-bitters
+      display_name: Angostura Bitters
+      quantity: 2
+      unit: dashes
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Stir with ice and strain over one large cube into a chilled rocks glass
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

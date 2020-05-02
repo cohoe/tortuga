@@ -1,0 +1,54 @@
+- slug: persephone
+  display_name: Persephone
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      creator: David Slape
+      location: David Slape
+      year: 2008
+      story: According to Greek Mythology, the seasons were a result of Persephone's
+        abduction by Hades; nature suffered while her mother, Demeter, searched for
+        her.
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: lairds-applejack
+      display_name: Lairds Applejack
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: dolin-sweet-vermouth
+      display_name: Dolin Sweet Vermouth
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: plymouth-sloe-gin
+      display_name: Plymouth Sloe Gin
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: simple-syrup
+      display_name: Simple Syrup
+      quantity: 0.5
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Stir with ice and strain into a chilled coupe
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

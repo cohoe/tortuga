@@ -1,0 +1,45 @@
+- slug: tommy-s-margarita
+  display_name: Tommy'S Margarita
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      creator: Julio Bermejo
+      location: Julio Bermejo
+      year: 1987
+      story: Julio Bermejo created this modern Margarita variation named after his
+        family's San Francisco-based Mexican restaurant, Tommy's.
+    glassware:
+    - slug: rocks
+      display_name: Rocks
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: l-j-blanco-tequila
+      display_name: L J Blanco Tequila
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: agave-syrup
+      display_name: Agave Syrup
+      quantity: 1
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake with ice and strain into a chilled rocks glass filled with ice
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

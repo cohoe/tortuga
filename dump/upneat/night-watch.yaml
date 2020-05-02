@@ -1,0 +1,51 @@
+- slug: night-watch
+  display_name: Night Watch
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin:
+      creator: Jessica Gonzalez
+      location: Jessica Gonzalez
+      year: 2011
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: ransom-old-tom-gin
+      display_name: Ransom Old Tom Gin
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: cruzan-black-strap-rum
+      display_name: Cruzan Black Strap Rum
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: lustau-east-india-solera-sherry
+      display_name: Lustau East India Solera Sherry
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: simple-syrup
+      display_name: Simple Syrup
+      quantity: 1
+      unit: teaspoon
+      notes: []
+    - slug: angostura-bitters
+      display_name: Angostura Bitters
+      quantity: 1
+      unit: dash
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Stir All The Ingredients Over Ice, Then Strain Into A Coupe
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

@@ -1,0 +1,60 @@
+- slug: mud-and-blood
+  display_name: Mud And Blood
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin:
+      year: 1996
+      story: This is another of the New York magazine "challenge drinks" from Tony
+        Hendra's feature in 1996. I had to create a drink Ã  la minute from the least
+        favorite liquid of each of several guests, and Alex Hargrave of Hargrave Vineyards
+        chose carrot juice.
+    glassware:
+    - slug: a
+      display_name: A
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: carrot-juice
+      display_name: Carrot Juice
+      quantity: 2
+      unit: ounces
+      notes: []
+    - slug: beef-broth
+      display_name: Beef Broth
+      quantity: 2
+      unit: ounces
+      notes: []
+    - slug: orange-juice
+      display_name: Orange Juice
+      quantity: 2
+      unit: ounces
+      notes: []
+    - slug: tabasco-sauce
+      display_name: Tabasco Sauce
+      quantity: 1
+      unit: dash
+      notes: []
+    - slug: worcestershire-sauce
+      display_name: Worcestershire Sauce
+      quantity: 1
+      unit: dash
+      notes: []
+    - slug: pepper-vodka
+      display_name: Pepper Vodka
+      quantity: 2
+      unit: ounces
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake with ice and strain into a glass
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

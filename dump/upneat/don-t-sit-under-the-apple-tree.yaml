@@ -1,0 +1,55 @@
+- slug: don-t-sit-under-the-apple-tree
+  display_name: Don'T Sit Under The Apple Tree
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin:
+      creator: Brian Miller
+      location: Brian Miller
+      year: 2008
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: lairds-bonded-apple-brandy
+      display_name: Lairds Bonded Apple Brandy
+      quantity: 2
+      unit: ounces
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: braeburn-apple-syrup
+      display_name: Braeburn Apple Syrup
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: white
+      display_name: White
+      quantity: 1
+      unit: Egg
+      notes: []
+    - slug: fee-brothers-whiskey-barrel-aged-bitters
+      display_name: Fee Brothers Whiskey Barrel Aged Bitters
+      quantity: 1
+      unit: dash
+      notes: []
+    garnish:
+    - slug: slice-of-braeburn-apple
+      display_name: Slice Of Braeburn Apple
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Dry shake all the ingredients, then shake again with ice
+    - text: Double strain into a coupe
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

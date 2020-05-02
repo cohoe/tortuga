@@ -1,0 +1,51 @@
+- slug: 202-steps
+  display_name: 202 Steps
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin:
+      creator: Phil Ward
+      location: Phil Ward
+      year: 2008
+    glassware:
+    - slug: rocks
+      display_name: Rocks
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: quarter-peeled-tangerine
+      display_name: Quarter Peeled Tangerine
+      notes: []
+    - slug: bakers-bourbon
+      display_name: Bakers Bourbon
+      quantity: 2
+      unit: ounces
+      notes: []
+    - slug: simple-syrup
+      display_name: Simple Syrup
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: house-orange-bitters
+      display_name: House Orange Bitters
+      quantity: 2
+      unit: dashes
+      notes: []
+    garnish:
+    - slug: orange-peel
+      display_name: Orange Peel
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: In a shaker, muddle the tangerine
+    - text: Add the remaining ingredients and shake with ice, then double strain into
+        a double rocks glass over 1 large ice cube
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

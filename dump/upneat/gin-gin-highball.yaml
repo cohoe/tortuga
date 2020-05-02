@@ -1,0 +1,43 @@
+- slug: gin-gin-highball
+  display_name: Gin Gin Highball
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin: {}
+    glassware:
+    - slug: highball
+      display_name: Highball
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: gin
+      display_name: Gin
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: ginger-ale
+      display_name: Ginger Ale
+      quantity: 5
+      unit: ounces
+      notes: []
+    - slug: angostura-bitters
+      display_name: Angostura Bitters
+      quantity: 2
+      unit: dashes
+      notes: []
+    garnish:
+    - slug: lemon-peel
+      display_name: Lemon Peel
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Build the ingredients in a highball glass over ice
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

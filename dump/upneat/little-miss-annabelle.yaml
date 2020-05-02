@@ -1,0 +1,59 @@
+- slug: little-miss-annabelle
+  display_name: Little Miss Annabelle
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin:
+      creator: JS
+      location: JS
+      year: 2009
+      story: JOAQUÍN SIMÓ, 2009 I named this variation on the Sidecar after the daughter
+        of Alexandre Gabriel, who owns Pierre Ferrand. It has a rich mouthfeel for
+        using such a small amount of sweetener.
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: pierre-ferrand-ambre-cognac
+      display_name: Pierre Ferrand Ambre Cognac
+      quantity: 2
+      unit: ounces
+      notes: []
+    - slug: mathilde-poire-pear-liqueur
+      display_name: Mathilde Poire Pear Liqueur
+      quantity: 0.25
+      unit: ounce
+      notes: []
+    - slug: benedictine
+      display_name: Benedictine
+      quantity: 0.25
+      unit: ounce
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: rich-cane-sugar-syrup
+      display_name: Rich Cane Sugar Syrup
+      quantity: 0.25
+      unit: ounce
+      notes: []
+    - slug: house-peychauds-bitters
+      display_name: House Peychauds Bitters
+      quantity: 1
+      unit: dash
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake all the ingredients with ice, then strain into a coupe
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

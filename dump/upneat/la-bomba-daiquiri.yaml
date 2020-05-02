@@ -1,0 +1,59 @@
+- slug: la-bomba-daiquiri
+  display_name: La Bomba Daiquiri
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin:
+      creator: JS
+      location: JS
+      year: 2008
+      story: "JOAQUÍN SIMÓ, 2008 Here's a great example of a fruity drink that's not\
+        \ at all sweet. Its name is a play on the French word for pomegranate: grenade."
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: 5-raspberry
+      display_name: 5 Raspberry
+      notes: []
+    - slug: barbancourt-white-rum
+      display_name: Barbancourt White Rum
+      quantity: 2
+      unit: ounces
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: simple-syrup
+      display_name: Simple Syrup
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: pomegranate-molasses
+      display_name: Pomegranate Molasses
+      quantity: 1
+      unit: teaspoon
+      notes: []
+    garnish:
+    - slug: wheel-of-lime
+      display_name: Wheel Of Lime
+      notes: []
+    - slug: flag-with-raspberry
+      display_name: Flag With Raspberry
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: In a shaker, gently muddle the raspberries
+    - text: Add the remaining ingredients and shake with ice
+    - text: Double strain into a coupe
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

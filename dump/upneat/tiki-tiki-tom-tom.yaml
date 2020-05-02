@@ -1,0 +1,54 @@
+- slug: tiki-tiki-tom-tom
+  display_name: Tiki Tiki Tom Tom
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin:
+      creator: Thomas Waugh
+      location: Thomas Waugh
+      year: 2012
+    glassware:
+    - slug: rocks
+      display_name: Rocks
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: el-dorado-15-year-rum
+      display_name: El Dorado 15 Year Rum
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: scarlet-ibis-rum
+      display_name: Scarlet Ibis Rum
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: drambuie
+      display_name: Drambuie
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: strega-liqueur
+      display_name: Strega Liqueur
+      quantity: 1
+      unit: teaspoon
+      notes: []
+    - slug: acacia-honey-syrup
+      display_name: Acacia Honey Syrup
+      quantity: 0.5
+      unit: teaspoon
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Stir all the ingredients over ice, then strain into a double rocks glass
+        over 1 large ice cube
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

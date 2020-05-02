@@ -1,0 +1,46 @@
+- slug: new-orleans-cocktail
+  display_name: New Orleans Cocktail
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin:
+      story: Peychaud's bitters mix well in most whiskey and brandy drinks.
+    glassware:
+    - slug: martini
+      display_name: Martini
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: bourbon-whiskey
+      display_name: Bourbon Whiskey
+      quantity: 2
+      unit: ounces
+      notes: []
+    - slug: peychauds-bitters
+      display_name: Peychauds Bitters
+      quantity: 3
+      unit: dashes
+      notes: []
+    - slug: curaassao
+      display_name: Curaassao
+      quantity: 2
+      unit: dashes
+      notes: []
+    garnish:
+    - slug: flamed-lemon-peel
+      display_name: Flamed Lemon Peel
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Stir all the ingredients with ice as you would a Martini and strain into
+        a chilled martini glass
+    - text: Shake and strain over ice in a rocks glass
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

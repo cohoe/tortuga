@@ -1,0 +1,74 @@
+- slug: city-of-gold-sling
+  display_name: City Of Gold Sling
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin:
+      creator: JS
+      location: JS
+      year: 2009
+      story: JOAQUÍN SIMÓ, 2009 A handful of tiki-style drinks are gin based, most
+        famously the Singapore Sling. This is a variation on that classic.
+    glassware:
+    - slug: highball
+      display_name: Highball
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: haymans-old-tom-gin
+      display_name: Haymans Old Tom Gin
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: el-dorado-12-year-rum
+      display_name: El Dorado 12 Year Rum
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: donns-spices-2
+      display_name: Donns Spices 2
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: vieux-pontarlier-absinthe
+      display_name: Vieux Pontarlier Absinthe
+      quantity: 1
+      unit: dash
+      notes: []
+    - slug: pineapple-juice
+      display_name: Pineapple Juice
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: orgeat
+      display_name: Orgeat
+      quantity: 0.25
+      unit: ounce
+      notes: []
+    - slug: house-peychauds-bitters
+      display_name: House Peychauds Bitters
+      quantity: 1
+      unit: dash
+      notes: []
+    garnish:
+    - slug: wedge-of-pineapple
+      display_name: Wedge Of Pineapple
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake all the ingredients with ice, then strain into a highball glass
+        filled with ice cubes
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

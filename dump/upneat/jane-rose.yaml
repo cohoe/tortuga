@@ -1,0 +1,50 @@
+- slug: jane-rose
+  display_name: Jane Rose
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin:
+      year: 2011
+      story: JOAQUÍN SIMÓ, 2011
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: lairds-bonded-apple-brandy
+      display_name: Lairds Bonded Apple Brandy
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: tobys-lime-cordial
+      display_name: Tobys Lime Cordial
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: grenadine
+      display_name: Grenadine
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: dry-champagne
+      display_name: Dry Champagne
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake all the ingredients (except the champagne) with ice, then strain
+        into a coupe
+    - text: Top with champagne
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

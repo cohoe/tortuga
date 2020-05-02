@@ -1,0 +1,62 @@
+- slug: southside
+  display_name: Southside
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin:
+      creator: a kind of Mint Julep for the New England crowd.
+      location: a kind of Mint Julep for the New England crowd.
+      story: "This was the house drink of the Famous \x9121' Club for years"
+    glassware:
+    - slug: bar
+      display_name: Bar
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: of-mint
+      display_name: Of Mint
+      quantity: 2
+      unit: sprigs
+      notes: []
+    - slug: lime
+      display_name: Lime
+      quantity: 2
+      unit: pieces
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: simple-syrup
+      display_name: Simple Syrup
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: gin
+      display_name: Gin
+      quantity: 2
+      unit: ounces
+      notes: []
+    - slug: 4-ounces-soda-water
+      display_name: 4 Ounces Soda Water
+      quantity: 3
+      unit: or
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Muddle 1 of the mint sprigs with the limes, lime juice, and Simple Syrup
+        in the bottom of a bar glass
+    - text: Add the gin and shake well
+    - text: Pour into a goblet over crushed ice and stir until the outside of the
+        glass frosts
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

@@ -1,0 +1,59 @@
+- slug: headstone
+  display_name: Headstone
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin:
+      creator: Jillian Vose
+      location: Jillian Vose
+      year: 2013
+    glassware:
+    - slug: rocks
+      display_name: Rocks
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: suntory-hakushu-12-year-japanese-whisky
+      display_name: Suntory Hakushu 12 Year Japanese Whisky
+      quantity: 2
+      unit: ounces
+      notes: []
+    - slug: mandarine-napoleon-liqueur
+      display_name: Mandarine Napoleon Liqueur
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: rhum-clement-creole-shrubb
+      display_name: Rhum Clement Creole Shrubb
+      quantity: 0.25
+      unit: ounce
+      notes: []
+    - slug: rich-cane-sugar-syrup
+      display_name: Rich Cane Sugar Syrup
+      quantity: 0.25
+      unit: ounce
+      notes: []
+    - slug: house-orange-bitters
+      display_name: House Orange Bitters
+      quantity: 2
+      unit: dashes
+      notes: []
+    - slug: angostura-bitters
+      display_name: Angostura Bitters
+      quantity: 1
+      unit: dash
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Stir all the ingredients over ice, then strain into a double rocks glass
+        over 1 large ice cube
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

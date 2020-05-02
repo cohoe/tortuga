@@ -1,0 +1,56 @@
+- slug: lily-s-cartel
+  display_name: Lily'S Cartel
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin:
+      creator: Eryn Reece
+      location: Eryn Reece
+      year: 2013
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: macchu-pisco
+      display_name: Macchu Pisco
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: aperol
+      display_name: Aperol
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: blood-orange-juice
+      display_name: Blood Orange Juice
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.25
+      unit: ounce
+      notes: []
+    - slug: simple-syrup
+      display_name: Simple Syrup
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: dry-champagne
+      display_name: Dry Champagne
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake all the ingredients (except the champagne) with ice, then strain
+        into a flute
+    - text: Top with champagne
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

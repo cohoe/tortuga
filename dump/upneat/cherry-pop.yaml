@@ -1,0 +1,59 @@
+- slug: cherry-pop
+  display_name: Cherry Pop
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      creator: or pop
+      location: or pop
+      year: 2009
+      story: Jane Danger's cocktail goes down like soda
+    glassware:
+    - slug: rocks
+      display_name: Rocks
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: plymouth-gin
+      display_name: Plymouth Gin
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: luxardo-maraschino-liqueur
+      display_name: Luxardo Maraschino Liqueur
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: simple-syrup
+      display_name: Simple Syrup
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: cherry
+      display_name: Cherry
+      quantity: 2
+      unit: Pitted
+      notes: []
+    garnish:
+    - slug: 1-pitted-cherry
+      display_name: 1 Pitted Cherry
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Muddle 2 of the cherries with the simple syrup
+    - text: Add everything else, then shake with ice and strain into a chilled rocks
+        glass filled with pebble ice
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

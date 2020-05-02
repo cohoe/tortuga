@@ -1,0 +1,44 @@
+- slug: champagne-cocktail
+  display_name: Champagne Cocktail
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin:
+      year: 1862
+      story: This classic recipe can be traced back to 1862, when it first appeared
+        in How to Mix Drinks or The Bon Vivant's Companion by Jerry Thomas. For a
+        stronger drink, add a float of Cognac or Grand Marnier. And for other Champagne
+        cocktails besides the few listed below, see Le Perroquet and D'Artagnan.
+    glassware:
+    - slug: the
+      display_name: The
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: champagne
+      display_name: Champagne
+      notes: []
+    - slug: one-cube-of-sugar
+      display_name: One Cube Of Sugar
+      notes: []
+    - slug: angostura-bitters
+      display_name: Angostura Bitters
+      notes: []
+    garnish:
+    - slug: lemon-peel
+      display_name: Lemon Peel
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Place the Angostura-soaked sugar cube in the bottom of a champagne glass
+        and fill the glass with Champagne
+    - text: Pour slowly to avoid spillage
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

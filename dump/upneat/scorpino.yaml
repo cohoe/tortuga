@@ -1,0 +1,44 @@
+- slug: scorpino
+  display_name: Scorpino
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin:
+      story: Julia Roberts's favorite drink.
+    glassware: []
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: vodka
+      display_name: Vodka
+      quantity: 2
+      unit: ounces
+      notes: []
+    - slug: heavy-cream
+      display_name: Heavy Cream
+      quantity: 2
+      unit: ounces
+      notes: []
+    - slug: cointreau
+      display_name: Cointreau
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: scoop-of-lemon-italian-ice
+      display_name: Scoop Of Lemon Italian Ice
+      quantity: 1
+      unit: big
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Blend all the ingredients and serve
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

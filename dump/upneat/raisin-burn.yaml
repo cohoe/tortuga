@@ -1,0 +1,55 @@
+- slug: raisin-burn
+  display_name: Raisin Burn
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin:
+      creator: Thomas Waugh
+      location: Thomas Waugh
+      year: 2008
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: dried-currant-infused-wild-turkey-rye-whiskey
+      display_name: Dried Currant Infused Wild Turkey Rye Whiskey
+      quantity: 2
+      unit: ounces
+      notes: []
+    - slug: lustau-east-india-solera-sherry
+      display_name: Lustau East India Solera Sherry
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: egg
+      display_name: Egg
+      quantity: 1
+      unit: whole
+      notes: []
+    - slug: heavy-cream
+      display_name: Heavy Cream
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: angostura-bitters
+      display_name: Angostura Bitters
+      quantity: 1
+      unit: dash
+      notes: []
+    garnish:
+    - slug: cinnamon
+      display_name: Cinnamon
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Dry shake all the ingredients, then add 1 large ice cube and shake again
+    - text: Double strain into a coupe
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

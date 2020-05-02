@@ -1,0 +1,42 @@
+- slug: suntory-cocktail
+  display_name: Suntory Cocktail
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin:
+      story: The Suntory Distillery in Japan makes Midori, the melon liqueur used
+        in this cocktail.
+    glassware:
+    - slug: martini
+      display_name: Martini
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: absolut-citron-vodka
+      display_name: Absolut Citron Vodka
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: midori
+      display_name: Midori
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: grapefruit-juice
+      display_name: Grapefruit Juice
+      quantity: 1
+      unit: ounce
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake and strain into an iced martini glass
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

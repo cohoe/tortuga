@@ -1,0 +1,49 @@
+- slug: jump-shot
+  display_name: Jump Shot
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin:
+      story: This drink was created at the Rainbow Room's Promenade Bar for basketball
+        players Rebecca Lobo and Sue Wicks of the New York Liberty, who joined me
+        behind the bar as guest bartenders for charity.
+    glassware:
+    - slug: shot
+      display_name: Shot
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: white-rum
+      display_name: White Rum
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: curaassao
+      display_name: Curaassao
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: pineapple-juice
+      display_name: Pineapple Juice
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: angostura-bitters
+      display_name: Angostura Bitters
+      quantity: 2
+      unit: dashes
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake all the ingredients well with ice; strain into four 1-ounce shot
+        glasses
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

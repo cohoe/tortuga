@@ -1,0 +1,56 @@
+- slug: south-sider
+  display_name: South Sider
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin:
+      creator: Alex Day
+      location: Alex Day
+      year: 2009
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: el-dorado-12-year-rum
+      display_name: El Dorado 12 Year Rum
+      quantity: 2
+      unit: ounces
+      notes: []
+    - slug: carpano-antica-formula-vermouth
+      display_name: Carpano Antica Formula Vermouth
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: angostura-bitters
+      display_name: Angostura Bitters
+      quantity: 1
+      unit: dash
+      notes: []
+    - slug: house-peychauds-bitters
+      display_name: House Peychauds Bitters
+      quantity: 1
+      unit: dash
+      notes: []
+    - slug: dry-champagne
+      display_name: Dry Champagne
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    garnish:
+    - slug: orange-peel
+      display_name: Orange Peel
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Stir all the ingredients (except the champagne) over ice, then strain
+        into a coupe
+    - text: Top with the champagne
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

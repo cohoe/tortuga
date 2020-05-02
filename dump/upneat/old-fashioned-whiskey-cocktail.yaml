@@ -1,0 +1,47 @@
+- slug: old-fashioned-whiskey-cocktail
+  display_name: Old Fashioned Whiskey Cocktail
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      creator: 'it is vulgarly called a bittered sling.        " By 1888'
+      location: 'it is vulgarly called a bittered sling.        " By 1888'
+      year: 1806
+      story: In 1806, the word cocktail was defined in the Balance and Columbian Repository
+        newspaper as "a stimulating liquor, composed of spirits of any kind, sugar,
+        water, and bitters
+    glassware:
+    - slug: rocks
+      display_name: Rocks
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: wild-turkey-rye-whiskey
+      display_name: Wild Turkey Rye Whiskey
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: demerara-sugar
+      display_name: Demerara Sugar
+      quantity: 1
+      unit: Cube
+      notes: []
+    - slug: angostura-bitters
+      display_name: Angostura Bitters
+      quantity: 2
+      unit: dashes
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Muddle, stir with ice, and strain over one large cube into a chilled rocks
+        glass
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

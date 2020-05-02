@@ -1,0 +1,40 @@
+- slug: cigar-lover-s-martini
+  display_name: Cigar Lover'S Martini
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin:
+      story: Recipe by Andrea Immer, noted wine and spirits authority.
+    glassware:
+    - slug: mixing
+      display_name: Mixing
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: vs-cognac
+      display_name: Vs Cognac
+      quantity: 2.5
+      unit: ounces
+      notes: []
+    - slug: 5-year-tawny-port
+      display_name: 5 Year Tawny Port
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    garnish:
+    - slug: flamed-orange-peel
+      display_name: Flamed Orange Peel
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Combine the ingredients with ice in a mixing glass and stir to chill
+    - text: Strain into a chilled martini glass
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

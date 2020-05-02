@@ -1,0 +1,49 @@
+- slug: monkey-gland
+  display_name: Monkey Gland
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin:
+      story: Harry McElhone takes credit for this cocktail in his ABC of Mixing Cocktails
+        and claims he named it after Dr. Serge Voronoff's experiments in rejuvenation.
+    glassware:
+    - slug: mixing
+      display_name: Mixing
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: splash-of-ricard
+      display_name: Splash Of Ricard
+      notes: []
+    - slug: beefeater-gin
+      display_name: Beefeater Gin
+      quantity: 2
+      unit: ounces
+      notes: []
+    - slug: orange-juice
+      display_name: Orange Juice
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: grenadine
+      display_name: Grenadine
+      quantity: 1
+      unit: teaspoon
+      notes: []
+    garnish:
+    - slug: flamed-orange-peel
+      display_name: Flamed Orange Peel
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Splash the Ricard in a mixing glass and follow with the rest of the ingredients
+    - text: Shake with ice and strain into a small cocktail glass
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

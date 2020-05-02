@@ -1,0 +1,53 @@
+- slug: ramble
+  display_name: Ramble
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin:
+      creator: Phil Ward
+      location: Phil Ward
+      year: 2008
+    glassware:
+    - slug: highball
+      display_name: Highball
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: plymouth-gin
+      display_name: Plymouth Gin
+      quantity: 2
+      unit: ounces
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: simple-syrup
+      display_name: Simple Syrup
+      quantity: 1.25
+      unit: ounces
+      notes: []
+    - slug: 3-raspberry
+      display_name: 3 Raspberry
+      notes: []
+    garnish: []
+    straw: true
+    citations: []
+    notes: []
+    instructions:
+    - text: In a shaker, combine the gin, lemon juice, and
+    - text: 75 ounce of the simple syrup
+    - text: Short shake with 3 ice cubes, then strain into a highball glass filled
+        with crushed ice
+    - text: Empty the shaker, then add the raspberries and the remaining
+    - text: 5 ounce simple syrup
+    - text: Gently muddle the raspberries, then pour over the top of the drink and
+        serve with a straw
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

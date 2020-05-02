@@ -1,0 +1,66 @@
+- slug: cranberry-cobbler
+  display_name: Cranberry Cobbler
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      creator: Michael Madrusan and Jim Meehan
+      location: Michael Madrusan and Jim Meehan
+      year: 2007
+      story: Cranberries are the last berries available before winter settles in in
+        the Northeast. We used them to make a classic cobbler, fortified with English
+        gin and a historic style of off-dry Sherry.
+    glassware:
+    - slug: mixing
+      display_name: Mixing
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: beefeater-gin
+      display_name: Beefeater Gin
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: lustau-east-india-sherry
+      display_name: Lustau East India Sherry
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: cranberry-cordial
+      display_name: Cranberry Cordial
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: cranberry
+      display_name: Cranberry
+      quantity: 4
+      unit: Macerated
+      notes: []
+    - slug: orange
+      display_name: Orange
+      quantity: 1
+      unit: Wheel
+      notes: []
+    - slug: lemon
+      display_name: Lemon
+      quantity: 1
+      unit: Wedge
+      notes: []
+    garnish:
+    - slug: 2-cranberry
+      display_name: 2 Cranberry
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Add the citrus, cranberries and syrup to a mixing glass and muddle
+    - text: Add everything else, then shake with ice and strain into a chilled rocks
+        glass filled with pebble ice
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

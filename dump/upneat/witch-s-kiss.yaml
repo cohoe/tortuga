@@ -1,0 +1,49 @@
+- slug: witch-s-kiss
+  display_name: Witch'S Kiss
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      creator: Jim Meehan
+      location: Jim Meehan
+      year: 2008
+      story: This tequila-based ode to Kappeler's Widow's Kiss relies on saffronhued
+        Strega Liqueur in place of Yellow Chartreuse and apple butter in place of
+        Bénédictine.
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: jose-cuervo-platino-tequila
+      display_name: Jose Cuervo Platino Tequila
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: strega-liqueur
+      display_name: Strega Liqueur
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: red-jacket-orchards-apple-butter
+      display_name: Red Jacket Orchards Apple Butter
+      quantity: 1
+      unit: barspoon
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake with ice and strain into a chilled coupe
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

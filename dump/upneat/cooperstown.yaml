@@ -1,0 +1,50 @@
+- slug: cooperstown
+  display_name: Cooperstown
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin:
+      year: 1931
+      story: Albert Stevens Crockett claims in Old Waldorf Bar Days (1931) that this
+        was created in the Big Brass Rail at the Waldorf for some high rollers from
+        Cooperstown, New York.
+    glassware:
+    - slug: mixing
+      display_name: Mixing
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: of-mint
+      display_name: Of Mint
+      quantity: 2
+      unit: sprigs
+      notes: []
+    - slug: sweet-vermouth
+      display_name: Sweet Vermouth
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: dry-vermouth
+      display_name: Dry Vermouth
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: gin
+      display_name: Gin
+      quantity: 2
+      unit: ounces
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Muddle one of the mint sprigs and the vermouths in a mixing glass
+    - text: Add the gin and ice, stir well, and strain into a martini glass
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

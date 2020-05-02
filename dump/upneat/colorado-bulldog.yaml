@@ -1,0 +1,44 @@
+- slug: colorado-bulldog
+  display_name: Colorado Bulldog
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin:
+      story: This is your basic adult egg cream.
+    glassware:
+    - slug: highball
+      display_name: Highball
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: kahlua
+      display_name: Kahlua
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: milk
+      display_name: Milk
+      quantity: 3
+      unit: ounces
+      notes: []
+    - slug: coca-cola
+      display_name: Coca Cola
+      quantity: 3
+      unit: ounces
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Build the Kahlúa and milk in a highball glass
+    - text: Add the Coca-Cola last, and gently stir while pouring
+    - text: Let the foam recede, pour, and stir again
+    - text: Repeat until full
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

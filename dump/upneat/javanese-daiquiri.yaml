@@ -1,0 +1,52 @@
+- slug: javanese-daiquiri
+  display_name: Javanese Daiquiri
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin:
+      creator: Tyson Buhler
+      location: Tyson Buhler
+      year: 2013
+    glassware:
+    - slug: rocks
+      display_name: Rocks
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: van-oosten-batavia-arrack
+      display_name: Van Oosten Batavia Arrack
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: scarlet-ibis-rum
+      display_name: Scarlet Ibis Rum
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: tobys-lime-cordial
+      display_name: Tobys Lime Cordial
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: curry-leaf
+      display_name: Curry Leaf
+      quantity: 3
+      unit: fresh
+      notes: []
+    garnish:
+    - slug: wedge-of-lime
+      display_name: Wedge Of Lime
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake all the ingredients with ice, then strain into a double rocks glass
+        over cracked ice
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

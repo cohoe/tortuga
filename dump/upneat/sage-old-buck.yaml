@@ -1,0 +1,68 @@
+- slug: sage-old-buck
+  display_name: Sage Old Buck
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      creator: Jim Meehan and Lydia Reissmueller
+      location: Jim Meehan and Lydia Reissmueller
+      year: 2009
+      story: As so many drink development sessions begin, Lydia arrived at the bar
+        with grocery bags filled with herbs and spices. We sorted all the produce
+        and chose vanilla, black pepper, and sage to pair with the malt.
+    glassware:
+    - slug: collins
+      display_name: Collins
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: benromach-12-year-old-single-malt-scotch-whisky
+      display_name: Benromach 12 Year Old Single Malt Scotch Whisky
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: house-ginger-beer
+      display_name: House Ginger Beer
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: simple-syrup
+      display_name: Simple Syrup
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: belle-de-brillet-pear-liqueur
+      display_name: Belle De Brillet Pear Liqueur
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: eurovanille-vanilla-syrup
+      display_name: Eurovanille Vanilla Syrup
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: black-peppercorn
+      display_name: Black Peppercorn
+      quantity: 8
+      unit: Whole
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Muddle the black peppercorns with the simple syrup
+    - text: Add everything else, then shake with ice and finestrain into a chilled
+        Collins glass filled with ice
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

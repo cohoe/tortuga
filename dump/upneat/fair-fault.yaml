@@ -1,0 +1,60 @@
+- slug: fair-fault
+  display_name: Fair Fault
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin:
+      creator: Tyson Buhler
+      location: Tyson Buhler
+      year: 2013
+    glassware:
+    - slug: port
+      display_name: Port
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: pasquet-pineau-des-charentes
+      display_name: Pasquet Pineau Des Charentes
+      quantity: 2
+      unit: ounces
+      notes: []
+    - slug: cruzan-single-barrel-rum
+      display_name: Cruzan Single Barrel Rum
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: granny-smith-apple-juice
+      display_name: Granny Smith Apple Juice
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: rich-cane-sugar-syrup
+      display_name: Rich Cane Sugar Syrup
+      quantity: 0.25
+      unit: ounce
+      notes: []
+    - slug: cruzan-black-strap-rum
+      display_name: Cruzan Black Strap Rum
+      quantity: 1
+      unit: teaspoon
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake all the ingredients (except the Black Strap rum) with ice, then
+        strain into a port glass
+    - text: Float the Black Strap rum on top
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

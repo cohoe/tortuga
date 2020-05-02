@@ -1,0 +1,60 @@
+- slug: cavalier
+  display_name: Cavalier
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      creator: Charlotte Voisey
+      location: Charlotte Voisey
+      year: 2006
+      story: Before leaving London in 2006, Charlotte Voisey created this Sidecar
+        of sorts, named after the style of door that speakeasies installed to peek
+        at guests before allowing entry.
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: hine-v-s-o-p-cognac
+      display_name: Hine V S O P Cognac
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: cointreau
+      display_name: Cointreau
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: kassatly-chtaura-orgeat
+      display_name: Kassatly Chtaura Orgeat
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: bonne-maman-apricot-preserves
+      display_name: Bonne Maman Apricot Preserves
+      quantity: 1
+      unit: barspoon
+      notes: []
+    - slug: house-orange-bitters
+      display_name: House Orange Bitters
+      quantity: 1
+      unit: dash
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake with ice and strain into a chilled coupe
+    - text: Twist a lemon peel over the surface and discard
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

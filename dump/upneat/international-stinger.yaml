@@ -1,0 +1,33 @@
+- slug: international-stinger
+  display_name: International Stinger
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin: {}
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: metaxa
+      display_name: Metaxa
+      quantity: 2
+      unit: ounces
+      notes: []
+    - slug: galliano
+      display_name: Galliano
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake well with ice and serve up or on the rocks
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

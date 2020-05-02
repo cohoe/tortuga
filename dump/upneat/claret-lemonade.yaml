@@ -1,0 +1,46 @@
+- slug: claret-lemonade
+  display_name: Claret Lemonade
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin:
+      year: 1898
+      story: This is basically lemonade, but with the interesting addition of red
+        wine instead of water. Harry Johnson in his book Bartender Manual, 1898, called
+        it Claret Lemonade and prepared it by filling a tumbler with crushed ice,
+        filling it three-fourths full with lemonade, and floating the claret on top.
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: red-wine
+      display_name: Red Wine
+      quantity: 4
+      unit: ounces
+      notes: []
+    - slug: simple-syrup
+      display_name: Simple Syrup
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    garnish:
+    - slug: wheel-of-lemon
+      display_name: Wheel Of Lemon
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake all the ingredients with ice and strain into a goblet over ice
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

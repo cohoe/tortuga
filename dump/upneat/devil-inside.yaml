@@ -1,0 +1,62 @@
+- slug: devil-inside
+  display_name: Devil Inside
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin:
+      creator: Thomas Waugh
+      location: Thomas Waugh
+      year: 2011
+    glassware:
+    - slug: rocks
+      display_name: Rocks
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: laphroaig-10-year-scotch-whisky
+      display_name: Laphroaig 10 Year Scotch Whisky
+      notes: []
+    - slug: rittenhouse-100-rye-whiskey
+      display_name: Rittenhouse 100 Rye Whiskey
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: bruichladdich-port-charlotte-7-year-scotch-whisky
+      display_name: Bruichladdich Port Charlotte 7 Year Scotch Whisky
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: vieux-pontarlier-absinthe
+      display_name: Vieux Pontarlier Absinthe
+      quantity: 2
+      unit: dashes
+      notes: []
+    - slug: demerara-syrup
+      display_name: Rich Demerara Syrup
+      quantity: 1
+      unit: teaspoon
+      notes: []
+    - slug: house-peychauds-bitters
+      display_name: House Peychauds Bitters
+      quantity: 2
+      unit: dashes
+      notes: []
+    - slug: lemon-peel
+      display_name: Lemon Peel
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Rinse a rocks glass with Laphroaig and dump
+    - text: Stir the remaining ingredients (except the lemon twist) with ice, then
+        strain into a rocks glass
+    - text: Squeeze the lemon twist over the drink and discard
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

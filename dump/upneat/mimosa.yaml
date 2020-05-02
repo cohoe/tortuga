@@ -1,0 +1,40 @@
+- slug: mimosa
+  display_name: Mimosa
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin:
+      story: This drink was also known as a Bucks Fizz. Frank Meier of the Ritz Bar
+        in Paris had an alternate recipe called the Valencia, with orange juice, apricot
+        liqueur, and Champagne. (Valencia is also a Martini variation, with fino sherry
+        in place of the vermouth.) A float of Cointreau is an appealing extra for
+        a special drink.
+    glassware:
+    - slug: champagne
+      display_name: Champagne
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: orange-juice
+      display_name: Orange Juice
+      quantity: 2
+      unit: ounces
+      notes: []
+    - slug: champagne
+      display_name: Champagne
+      quantity: 4
+      unit: ounces
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Pour the orange juice into a champagne glass and Ill with the Champagne
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

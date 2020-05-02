@@ -1,0 +1,63 @@
+- slug: gin-sling
+  display_name: Gin Sling
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin:
+      story: This is a late-nineteenth-century sling recipe that I served for years
+        at the Rainbow Room with great success. The ladies from the photo-editing
+        department of the Associated Press next door were especially fond of this
+        recipe. The cocktail was first described in print as a bittered sling. Before
+        the addition of bitters, a sling was spirits, sugar water, and sometimes lemon.
+    glassware:
+    - slug: collins
+      display_name: Collins
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: gin
+      display_name: Gin
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: sweet-vermouth
+      display_name: Sweet Vermouth
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: simple-syrup
+      display_name: Simple Syrup
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: angostura-bitters
+      display_name: Angostura Bitters
+      quantity: 1
+      unit: dash
+      notes: []
+    - slug: soda-water
+      display_name: Soda Water
+      notes: []
+    garnish:
+    - slug: lemon-peel
+      display_name: Lemon Peel
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake all the ingredients except the soda water with ice and strain over
+        ice into a collins glass
+    - text: Top with soda
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

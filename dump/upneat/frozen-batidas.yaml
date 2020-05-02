@@ -1,0 +1,51 @@
+- slug: frozen-batidas
+  display_name: Frozen Batidas
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin:
+      story: These Brazilian milk shakes are made in many flavors; choose your favorite
+        purée or nectar.
+    glassware:
+    - slug: rocks
+      display_name: Rocks
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: cachaca
+      display_name: Cachaca
+      quantity: 2
+      unit: ounces
+      notes: []
+    - slug: tropical-fruit-puree
+      display_name: Tropical Fruit Puree
+      quantity: 2
+      unit: ounces
+      notes: []
+    - slug: sweetened-condensed-milk
+      display_name: Sweetened Condensed Milk
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: simple-syrup
+      display_name: Simple Syrup
+      quantity: 1
+      unit: ounce
+      notes: []
+    garnish:
+    - slug: wheel-of-lime
+      display_name: Wheel Of Lime
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Blend all the ingredients with ice and serve in a stem glass, or shake
+        with ice and strain into a rocks glass
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

@@ -1,0 +1,69 @@
+- slug: dai-dai-my-darling
+  display_name: Dai, Dai My Darling
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin:
+      creator: Jillian Vose
+      location: Jillian Vose
+      year: 2012
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: flor-de-cana-extra-dry-white-rum
+      display_name: Flor De Cana Extra Dry White Rum
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: el-dorado-3-year-rum
+      display_name: El Dorado 3 Year Rum
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: banks-5-island-white-rum
+      display_name: Banks 5 Island White Rum
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: dolin-blanc-vermouth
+      display_name: Dolin Blanc Vermouth
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: combier-pamplemousse-rose-liqueur
+      display_name: Combier Pamplemousse Rose Liqueur
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: kirsch
+      display_name: Kirsch
+      quantity: 0.5
+      unit: teaspoon
+      notes: []
+    - slug: luxardo-maraschino-liqueur
+      display_name: Luxardo Maraschino Liqueur
+      quantity: 0.5
+      unit: teaspoon
+      notes: []
+    - slug: acid-phosphate
+      display_name: Acid Phosphate
+      quantity: 0.5
+      unit: teaspoon
+      notes: []
+    garnish:
+    - slug: wedge-of-lime
+      display_name: Wedge Of Lime
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Stir all the ingredients over ice, then strain into a coupe
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

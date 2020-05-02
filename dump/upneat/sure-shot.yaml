@@ -1,0 +1,56 @@
+- slug: sure-shot
+  display_name: Sure Shot
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin:
+      creator: Jillian Vose
+      location: Jillian Vose
+      year: 2011
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: haymans-old-tom-gin
+      display_name: Haymans Old Tom Gin
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: bols-genever
+      display_name: Bols Genever
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: ancho-chile-infused-dolin-rouge-vermouth
+      display_name: Ancho Chile Infused Dolin Rouge Vermouth
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: galliano-ristretto
+      display_name: Galliano Ristretto
+      quantity: 1
+      unit: teaspoon
+      notes: []
+    - slug: demerara-syrup
+      display_name: Rich Demerara Syrup
+      quantity: 1
+      unit: teaspoon
+      notes: []
+    - slug: house-orange-bitters
+      display_name: House Orange Bitters
+      quantity: 1
+      unit: dash
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Stir all the ingredients over ice, then strain into a coupe
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

@@ -1,0 +1,48 @@
+- slug: east-village-athletic-club-cocktail
+  display_name: East Village Athletic Club Cocktail
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      creator: Jim
+      location: Jim
+      year: 2008
+      story: In Bottoms Up, Ted Saucier attributed the Last Word to the Detroit Athletic
+        Club. We tinkered with the recipe and named it after our neighborhood.
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: siembra-azul-blanco-tequila
+      display_name: Siembra Azul Blanco Tequila
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: yellow-chartreuse
+      display_name: Yellow Chartreuse
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: grand-marnier
+      display_name: Grand Marnier
+      quantity: 0.5
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake with ice and strain into a chilled coupe
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

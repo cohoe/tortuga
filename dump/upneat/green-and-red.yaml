@@ -1,0 +1,62 @@
+- slug: green-and-red
+  display_name: Green And Red
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin:
+      creator: Thomas Waugh
+      location: Thomas Waugh
+      year: 2012
+    glassware:
+    - slug: mixing
+      display_name: Mixing
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: of-cucumber
+      display_name: Of Cucumber
+      quantity: 3
+      unit: wheels
+      notes: []
+    - slug: siete-leguas-blanco-tequila
+      display_name: Siete Leguas Blanco Tequila
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: jalapeno-infused-siembra-azul-blanco-tequila
+      display_name: Jalapeno Infused Siembra Azul Blanco Tequila
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: cocchi-americano
+      display_name: Cocchi Americano
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: dolin-dry-vermouth
+      display_name: Dolin Dry Vermouth
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: alvear-festival-pale-cream-sherry
+      display_name: Alvear Festival Pale Cream Sherry
+      quantity: 0.25
+      unit: ounce
+      notes: []
+    garnish:
+    - slug: ribbon-of-cucumber
+      display_name: Ribbon Of Cucumber
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: In a mixing glass, muddle the cucumber wheels
+    - text: Add the remaining ingredients and stir over ice, then strain into a coupe
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

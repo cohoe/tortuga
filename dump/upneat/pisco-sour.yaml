@@ -1,0 +1,52 @@
+- slug: pisco-sour
+  display_name: Pisco Sour
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin:
+      story: Pisco is a very unusual tasting grape brandy made from the muscat grape
+        in Peru and Chile. The Pisco Sour is the leading cocktail in both countries,
+        and like the Bloody Mary in this country, everyone thinks his or her recipe
+        is the best, including meÂ….
+    glassware:
+    - slug: cocktail
+      display_name: Cocktail
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: pisco
+      display_name: Pisco
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: simple-syrup
+      display_name: Simple Syrup
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: egg-white
+      display_name: Egg White
+      quantity: 1
+      unit: small
+      notes: []
+    - slug: several-drops-angostura-bitters
+      display_name: Several Drops Angostura Bitters
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake all the ingredients with ice and strain into a small cocktail glass
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

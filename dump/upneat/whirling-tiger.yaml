@@ -1,0 +1,52 @@
+- slug: whirling-tiger
+  display_name: Whirling Tiger
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin:
+      creator: Brian Miller
+      location: Brian Miller
+      year: 2008
+    glassware:
+    - slug: highball
+      display_name: Highball
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: buffalo-trace-bourbon
+      display_name: Buffalo Trace Bourbon
+      quantity: 2
+      unit: ounces
+      notes: []
+    - slug: fuji-apple-juice
+      display_name: Fuji Apple Juice
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: ginger-syrup
+      display_name: Ginger Syrup
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    garnish:
+    - slug: slice-of-fuji-apple
+      display_name: Slice Of Fuji Apple
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake all the ingredients with ice, then strain into a highball glass
+        filled with ice cubes
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

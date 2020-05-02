@@ -1,0 +1,48 @@
+- slug: mud-slide
+  display_name: Mud Slide
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin: {}
+    glassware:
+    - slug: rocks
+      display_name: Rocks
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: vodka
+      display_name: Vodka
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: kahlaoa
+      display_name: Kahlaoa
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: baileys-irish-cream
+      display_name: Baileys Irish Cream
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: heavy-cream
+      display_name: Heavy Cream
+      quantity: 1
+      unit: ounce
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake all the ingredients with ice and serve over ice in a rocks glass
+    - text: The Mud Slide can also be served as a frozen drink
+    - text: Blend the four ingredients with three-quarters cup of ice and serve in
+        a large goblet
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

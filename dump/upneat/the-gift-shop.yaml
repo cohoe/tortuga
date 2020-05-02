@@ -1,0 +1,63 @@
+- slug: the-gift-shop
+  display_name: The Gift Shop
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin:
+      creator: Thomas Waugh
+      location: Thomas Waugh
+      year: 2011
+    glassware:
+    - slug: rocks
+      display_name: Rocks
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: of-cucumber
+      display_name: Of Cucumber
+      quantity: 3
+      unit: wheels
+      notes: []
+    - slug: banks-5-island-white-rum
+      display_name: Banks 5 Island White Rum
+      quantity: 2
+      unit: ounces
+      notes: []
+    - slug: cardamaro
+      display_name: Cardamaro
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: simple-syrup
+      display_name: Simple Syrup
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: angostura-bitters
+      display_name: Angostura Bitters
+      quantity: 1
+      unit: dash
+      notes: []
+    garnish:
+    - slug: 3-wheels-of-cucumber
+      display_name: 3 Wheels Of Cucumber
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: In a shaker, muddle the cucumber wheels
+    - text: Add the remaining ingredients and shake with ice
+    - text: Double strain into a double rocks glass over 1 large ice cube
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

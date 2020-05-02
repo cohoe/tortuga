@@ -1,0 +1,50 @@
+- slug: remember-maine
+  display_name: Remember Maine
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      creator: Lydia Reissmueller
+      location: Lydia Reissmueller
+      year: 2008
+      story: Lydia Reissmueller created this cocktail with the help of her beau Josh,
+        who moved to Maine before we put it on the menu.
+    glassware:
+    - slug: rocks
+      display_name: Rocks
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: rhum-clement-v-s-o-p
+      display_name: Rhum Clement V S O P
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: red-jacket-orchard-apple-cider
+      display_name: Red Jacket Orchard Apple Cider
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: st-elizabeth-allspice-dram
+      display_name: St Elizabeth Allspice Dram
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: angostura-bitters
+      display_name: Angostura Bitters
+      quantity: 2
+      unit: dashes
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Stir with ice and strain over one large cube into a chilled rocks glass
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

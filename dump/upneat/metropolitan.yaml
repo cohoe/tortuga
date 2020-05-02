@@ -1,0 +1,49 @@
+- slug: metropolitan
+  display_name: Metropolitan
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin:
+      story: Created by Mike Hewett at Marion's Bar in New York City.
+    glassware:
+    - slug: martini
+      display_name: Martini
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: absolut-kurant-vodka
+      display_name: Absolut Kurant Vodka
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: cranberry-juice
+      display_name: Cranberry Juice
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: roses-lime-juice
+      display_name: Roses Lime Juice
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 0.125
+      unit: ounce
+      notes: []
+    garnish:
+    - slug: lime
+      display_name: Lime
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake with ice and pour into a chilled martini glass
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

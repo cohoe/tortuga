@@ -1,0 +1,67 @@
+- slug: waterloo-sunset
+  display_name: Waterloo Sunset
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin:
+      year: 2011
+      story: JOAQUÍN SIMÓ, 2011
+    glassware:
+    - slug: rocks
+      display_name: Rocks
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: of-mint
+      display_name: Of Mint
+      quantity: 7
+      unit: leaves
+      notes: []
+    - slug: rich-cane-sugar-syrup
+      display_name: Rich Cane Sugar Syrup
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: szechuan-peppercorn-infused-plymouth-gin
+      display_name: Szechuan Peppercorn Infused Plymouth Gin
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: beefeater-london-dry-gin
+      display_name: Beefeater London Dry Gin
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: dolin-blanc-vermouth
+      display_name: Dolin Blanc Vermouth
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: watermelon-juice
+      display_name: Watermelon Juice
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    garnish:
+    - slug: sprig-of-mint
+      display_name: Sprig Of Mint
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: In a shaker, gently muddle the mint leaves and syrup
+    - text: Add the remaining ingredients and shake with ice, then double strain into
+        a double rocks glass over 1 large ice cube
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

@@ -1,0 +1,56 @@
+- slug: saturday-morning-flip
+  display_name: Saturday Morning Flip
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin:
+      year: 2008
+      story: JOAQUÍN SIMÓ, 2008
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: appleton-estate-v-x-rum
+      display_name: Appleton Estate V X Rum
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: goslings-black-seal-rum
+      display_name: Goslings Black Seal Rum
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: ruby-port
+      display_name: Ruby Port
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: espresso-infused-demerara-syrup
+      display_name: Espresso Infused Demerara Syrup
+      quantity: 1
+      unit: teaspoon
+      notes: []
+    - slug: yolk
+      display_name: Yolk
+      quantity: 1
+      unit: Egg
+      notes: []
+    - slug: angostura-bitters
+      display_name: Angostura Bitters
+      quantity: 1
+      unit: dash
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Dry shake all the ingredients, then shake again with ice
+    - text: Double strain into a coupe
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

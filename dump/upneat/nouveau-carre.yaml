@@ -1,0 +1,49 @@
+- slug: nouveau-carre
+  display_name: Nouveau Carré
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      creator: Jonny Raglin
+      location: Jonny Raglin
+      year: 2005
+      story: This tequila-based homage to the Vieux Carré cocktail was created in
+        the wake of Hurricane Katrina to raise awareness of New Orleans's struggle
+        to recover and rebuild.
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: ocho-anejo-tequila
+      display_name: Ocho Anejo Tequila
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: lillet-blanc
+      display_name: Lillet Blanc
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: benedictine
+      display_name: Benedictine
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: peychauds-bitters
+      display_name: Peychauds Bitters
+      quantity: 3
+      unit: dashes
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Stir with ice and strain into a chilled coupe
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

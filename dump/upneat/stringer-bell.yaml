@@ -1,0 +1,65 @@
+- slug: stringer-bell
+  display_name: Stringer Bell
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin:
+      creator: Tyson Buhler
+      location: Tyson Buhler
+      year: 2013
+    glassware:
+    - slug: rocks
+      display_name: Rocks
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: lustau-amontillado-sherry
+      display_name: Lustau Amontillado Sherry
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: jalapeno-infused-siembra-azul-blanco-tequila
+      display_name: Jalapeno Infused Siembra Azul Blanco Tequila
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: cynar
+      display_name: Cynar
+      quantity: 0.25
+      unit: ounce
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: celery-juice
+      display_name: Celery Juice
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: rich-cane-sugar-syrup
+      display_name: Rich Cane Sugar Syrup
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: pinch-of-kosher-salt
+      display_name: Pinch Of Kosher Salt
+      notes: []
+    garnish:
+    - slug: 1-stick-of-celery
+      display_name: 1 Stick Of Celery
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake all the ingredients with ice, then strain into a double rocks glass
+        over 1 large ice cube
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

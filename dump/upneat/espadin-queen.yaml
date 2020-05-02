@@ -1,0 +1,60 @@
+- slug: espadin-queen
+  display_name: Espadin Queen
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin:
+      creator: Thomas Waugh
+      location: Thomas Waugh
+      year: 2009
+    glassware: []
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: vieux-pontarlier-absinthe
+      display_name: Vieux Pontarlier Absinthe
+      notes: []
+    - slug: del-maguey-vida-mezcal
+      display_name: Del Maguey Vida Mezcal
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: st-germain
+      display_name: St Germain
+      quantity: 0.25
+      unit: ounce
+      notes: []
+    - slug: grapefruit-juice
+      display_name: Grapefruit Juice
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: donns-mix-1
+      display_name: Donns Mix 1
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: rich-cane-sugar-syrup
+      display_name: Rich Cane Sugar Syrup
+      quantity: 1
+      unit: teaspoon
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Rinse a coupe with absinthe and dump
+    - text: Shake the remaining ingredients with ice, then strain into the coupe
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

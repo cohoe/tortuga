@@ -1,0 +1,76 @@
+- slug: martinez-cocktail-original
+  display_name: Martinez Cocktail (Original)
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin:
+      year: 1890
+      story: "Like all royalty, the king of cocktails has lineage. the British claim\
+        \ the Martini was named after a late-nineteenth-century firearm of the same\
+        \ name, famous for its kick. The Martini & Rossi vermouth company takes credit\
+        \ for its name, since vermouth is the defining ingredient in the Martini,\
+        \ and they did market a bottled dry martini around the world in the 1890s.\
+        \ Martini di Arma di Taggia, the principal bartender at the Knickerbocker\
+        \ Hotel in New York City at the turn of the century, is also given credit\
+        \ for the Martini. Mr. Di Taggia played an important role in the evolution\
+        \ of the drink when he married dry gin with dry vermouth (and orange bitters)\
+        \ for the first time, but there is more to the story. There was a cocktail\
+        \ in the 1850s called the Fancy Gin Cocktail (opposite) that paired Old Tom\
+        \ Gin and orange curaçao. At the time the Fancy Gin became popular, Martini\
+        \ & Rossi Vermouth was not readily available in this country, the Martini\
+        \ and Henry riRe was still on the drawing board, and Martini di Arma di Taggia\
+        \ was just a small boy. When vermouth became widely available by the 1870s,\
+        \ the use of curaçao as a sweetener in cocktails waned, and vermouth became\
+        \ the sweetener of choice, used in almost the same applications married with\
+        \ a base liquor and bitters. Vermouth wasn't even produced commercially until\
+        \ the late eighteenth century in Europe, and it was a relatively new product\
+        \ for the United States; the first shipments arrived in the 1850s. In his\
+        \ 1887 Bartender's Guide, Jerry Thomas refers to vermouth several times without\
+        \ designating Italian or French (sweet or dry). This wasn't an omission: French\
+        \ vermouth didn't become widely available until the late 1890s."
+    glassware:
+    - slug: cocktail
+      display_name: Cocktail
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: bokers-bitters-substitute-angostura-bitters
+      display_name: Bokers Bitters Substitute Angostura Bitters
+      quantity: 1
+      unit: dash
+      notes: []
+    - slug: maraschino-liqueur
+      display_name: Maraschino Liqueur
+      quantity: 2
+      unit: dashes
+      notes: []
+    - slug: old-tom-gin
+      display_name: Old Tom Gin
+      quantity: 1
+      unit: pony
+      notes: []
+    - slug: sweet-italian-vermouth
+      display_name: Sweet Italian Vermouth
+      quantity: 1
+      unit: wineglass
+      notes: []
+    - slug: gum-syrup-optional
+      display_name: Gum Syrup Optional
+      notes: []
+    garnish:
+    - slug: one-quarter-lemon
+      display_name: One Quarter Lemon
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake well and strain into a large cocktail glass
+    - text: Put a quarter slice of lemon in the glass and serve
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

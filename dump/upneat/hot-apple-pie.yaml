@@ -1,0 +1,40 @@
+- slug: hot-apple-pie
+  display_name: Hot Apple Pie
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin:
+      story: 'Tuaca is an Italian liqueur with honey, vanilla, and butterscotch flavors.
+        Note: Unlike other coffee drinks, this recipe uses sweetened cream.'
+    glassware:
+    - slug: serve-in-an-irish-coffee-glass-and-float-the-cream-on-top
+      display_name: Serve In An Irish Coffee Glass And Float The Cream On Top
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: tuaca
+      display_name: Tuaca
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: hot-apple-cider
+      display_name: Hot Apple Cider
+      quantity: 4
+      unit: ounces
+      notes: []
+    - slug: whipped-cream
+      display_name: Whipped Cream
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Serve in an Irish-coffee glass, and float the cream on top
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

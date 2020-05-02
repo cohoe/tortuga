@@ -1,0 +1,63 @@
+- slug: espresso-bongo
+  display_name: Espresso Bongo
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      creator: Jeff Berry
+      location: Jeff Berry
+      year: 1959
+      story: Tiki cocktail guru and author Jeff "Beachbum" Berry created this cocktail,
+        named after the 1959 British beatnik movie Expresso Bongo.
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: appleton-reserve-rum
+      display_name: Appleton Reserve Rum
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: illy-espresso-liqueur
+      display_name: Illy Espresso Liqueur
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: pineapple-juice
+      display_name: Pineapple Juice
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: orange-juice
+      display_name: Orange Juice
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: boiron-passion-fruit-puree
+      display_name: Boiron Passion Fruit Puree
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: simple-syrup
+      display_name: Simple Syrup
+      quantity: 0.5
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake with ice and pour unstrained into a chilled tiki mug
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

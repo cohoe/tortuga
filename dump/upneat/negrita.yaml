@@ -1,0 +1,42 @@
+- slug: negrita
+  display_name: Negrita
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin:
+      story: The name means "pretty little dark one" in Spanish. The recipe below
+        is for a shooter.
+    glassware:
+    - slug: shot
+      display_name: Shot
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: pisco
+      display_name: Pisco
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: coffee-liqueur
+      display_name: Coffee Liqueur
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: cold-espresso
+      display_name: Cold Espresso
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Combine all the ingredients in a shot glass
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

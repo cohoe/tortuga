@@ -1,0 +1,58 @@
+- slug: enemy-lines
+  display_name: Enemy Lines
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin:
+      creator: Jillian Vose
+      location: Jillian Vose
+      year: 2011
+    glassware:
+    - slug: rocks
+      display_name: Rocks
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: linie-aquavit
+      display_name: Linie Aquavit
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: el-tesoro-reposado-tequila
+      display_name: El Tesoro Reposado Tequila
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: rich-cane-sugar-syrup
+      display_name: Rich Cane Sugar Syrup
+      quantity: 1
+      unit: teaspoon
+      notes: []
+    - slug: house-peychauds-bitters
+      display_name: House Peychauds Bitters
+      quantity: 4
+      unit: dashes
+      notes: []
+    - slug: bitter-truth-aromatic-bitters
+      display_name: Bitter Truth Aromatic Bitters
+      quantity: 1
+      unit: dash
+      notes: []
+    - slug: lemon-peel
+      display_name: Lemon Peel
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Stir all the ingredients (except the lemon twist) over ice, then strain
+        into a rocks glass
+    - text: Squeeze the lemon twist over the drink and discard
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

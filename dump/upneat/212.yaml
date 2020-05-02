@@ -1,0 +1,45 @@
+- slug: '212'
+  display_name: '212'
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      creator: Aisha Sharpe and Willy Shine
+      location: Aisha Sharpe and Willy Shine
+      year: 2008
+      story: The founders of New York's Contemporary Cocktails found the perfect balance
+        using Manhattan's historic telephone prefix as the proportions for this drink.
+    glassware:
+    - slug: collins
+      display_name: Collins
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: partida-reposado-tequila
+      display_name: Partida Reposado Tequila
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: ruby-red-grapefruit-juice
+      display_name: Ruby Red Grapefruit Juice
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: aperol
+      display_name: Aperol
+      quantity: 1
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake with ice and strain into a chilled Collins glass filled with ice
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

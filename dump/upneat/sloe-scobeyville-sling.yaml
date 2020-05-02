@@ -1,0 +1,61 @@
+- slug: sloe-scobeyville-sling
+  display_name: Sloe Scobeyville Sling
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin:
+      creator: Phil Ward
+      location: Phil Ward
+      year: 2008
+    glassware:
+    - slug: highball
+      display_name: Highball
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: lairds-bonded-apple-brandy
+      display_name: Lairds Bonded Apple Brandy
+      quantity: 2
+      unit: ounces
+      notes: []
+    - slug: plymouth-sloe-gin
+      display_name: Plymouth Sloe Gin
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: simple-syrup
+      display_name: Simple Syrup
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: peychauds-bitters
+      display_name: Peychauds Bitters
+      quantity: 2
+      unit: dashes
+      notes: []
+    - slug: club-soda
+      display_name: Club Soda
+      notes: []
+    garnish:
+    - slug: slice-of-fuji-apple
+      display_name: Slice Of Fuji Apple
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Short shake all the ingredients (except the club soda) with 3 ice cubes,
+        then strain into a highball glass filled with ice cubes
+    - text: Top with club soda
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

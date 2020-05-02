@@ -1,0 +1,53 @@
+- slug: rosita
+  display_name: Rosita
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      creator: "Mr. Boston: Official Bartender's Guide"
+      location: "Mr. Boston: Official Bartender's Guide"
+      year: 1974
+      story: Gary Regan popularized this drink, sans the dash of bitters, which he
+        added along with a tad more tequila.
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: partida-reposado-tequila
+      display_name: Partida Reposado Tequila
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: martini-sweet-vermouth
+      display_name: Martini Sweet Vermouth
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: dolin-dry-vermouth
+      display_name: Dolin Dry Vermouth
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: campari
+      display_name: Campari
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: angostura-bitters
+      display_name: Angostura Bitters
+      quantity: 1
+      unit: dash
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Stir with ice and strain into a chilled coupe
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

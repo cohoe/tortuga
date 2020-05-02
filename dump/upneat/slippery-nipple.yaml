@@ -1,0 +1,40 @@
+- slug: slippery-nipple
+  display_name: Slippery Nipple
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin: {}
+    glassware:
+    - slug: cordial
+      display_name: Cordial
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: baileys-irish-cream
+      display_name: Baileys Irish Cream
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: sambuca
+      display_name: Sambuca
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: brandy
+      display_name: Brandy
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Layer in a cordial glass as listed
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

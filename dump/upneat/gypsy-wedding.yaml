@@ -1,0 +1,67 @@
+- slug: gypsy-wedding
+  display_name: Gypsy Wedding
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin:
+      creator: Jillian Vose
+      location: Jillian Vose
+      year: 2012
+    glassware: []
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: grapes
+      display_name: Grapes
+      quantity: 6
+      unit: Green
+      notes: []
+    - slug: bombay-london-dry-gin
+      display_name: Bombay London Dry Gin
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: krogstad-aquavit
+      display_name: Krogstad Aquavit
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: velvet-falernum
+      display_name: Velvet Falernum
+      quantity: 0.25
+      unit: ounce
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: grapefruit-juice
+      display_name: Grapefruit Juice
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: acacia-honey-syrup
+      display_name: Acacia Honey Syrup
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    garnish:
+    - slug: rim-with-toasted-fennel-salt
+      display_name: Rim With Toasted Fennel Salt
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Rim half of a coupe with toasted fennel salt
+    - text: In a shaker, muddle the grapes
+    - text: Add the remaining ingredients and shake with ice, then double strain into
+        the coupe
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

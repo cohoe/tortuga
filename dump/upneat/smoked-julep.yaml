@@ -1,0 +1,53 @@
+- slug: smoked-julep
+  display_name: Smoked Julep
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin:
+      creator: Phil Ward
+      location: Phil Ward
+      year: 2008
+    glassware: []
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: laphroaig-12-year-scotch-whisky
+      display_name: Laphroaig 12 Year Scotch Whisky
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: lairds-bonded-apple-brandy
+      display_name: Lairds Bonded Apple Brandy
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: maple-syrup
+      display_name: Maple Syrup
+      quantity: 0.25
+      unit: ounce
+      notes: []
+    garnish:
+    - slug: fan-of-apple
+      display_name: Fan Of Apple
+      notes: []
+    - slug: bouquet-of-mint
+      display_name: Bouquet Of Mint
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Put all the ingredients in a julep tin
+    - text: Fill the tin halfway with crushed ice
+    - text: Stir with a teaspoon, churning the ice as you go, for about 10 seconds,
+        holding the tin by the rim so the entire tin can eventually frost up
+    - text: Add more crushed ice to fill the tin two-thirds full and stir until the
+        tin is completely frosted
+    - text: Add more ice to form a cone above the rim
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

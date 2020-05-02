@@ -1,0 +1,58 @@
+- slug: whiskey-smash
+  display_name: Whiskey Smash
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin:
+      story: For a tasty alternative, try substituting orange curaÃ§ao for the Simple
+        Syrup.
+    glassware:
+    - slug: mixing
+      display_name: Mixing
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: lemon
+      display_name: Lemon
+      quantity: 2
+      unit: pieces
+      notes: []
+    - slug: 3-leaves-mint
+      display_name: 3 Leaves Mint
+      quantity: 2
+      unit: to
+      notes: []
+    - slug: simple-syrup
+      display_name: Simple Syrup
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: makers-mark-bourbon-whiskey
+      display_name: Makers Mark Bourbon Whiskey
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: water
+      display_name: Water
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: sprig-of-mint
+      display_name: Sprig Of Mint
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Muddle the lemon, mint leaves, water, and Simple Syrup in the bottom of
+        a mixing glass
+    - text: Add the bourbon and shake
+    - text: Strain into an old-fashioned glass filled with crushed ice
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

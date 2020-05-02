@@ -1,0 +1,49 @@
+- slug: green-deacon
+  display_name: Green Deacon
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      creator: Jim Meehan
+      location: Jim Meehan
+      year: 2008
+      story: This drink is based on the Rosy Deacon recipe in Jones's Complete Bar
+        Guide. One night, I served it to my friend J. C. Iglesias, who suggested adding
+        Absinthe.
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: george
+      display_name: George
+      quantity: St
+      notes: []
+    - slug: plymouth-gin
+      display_name: Plymouth Gin
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: grapefruit-juice
+      display_name: Grapefruit Juice
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: plymouth-sloe-gin
+      display_name: Plymouth Sloe Gin
+      quantity: 0.75
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake with ice and strain into a chilled, St
+    - text: George Absinthe-rinsed coupe
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

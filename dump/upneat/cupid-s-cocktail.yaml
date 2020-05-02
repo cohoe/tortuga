@@ -1,0 +1,48 @@
+- slug: cupid-s-cocktail
+  display_name: Cupid'S Cocktail
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin:
+      year: 1991
+      story: I created this in 1991 at the Rainbow Room for Valentine's Day.
+    glassware:
+    - slug: highball
+      display_name: Highball
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: peter-heering-cherry-heering
+      display_name: Peter Heering Cherry Heering
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: peachtree-schnapps
+      display_name: Peachtree Schnapps
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: orange-juice
+      display_name: Orange Juice
+      quantity: 4
+      unit: ounces
+      notes: []
+    garnish:
+    - slug: slice-orange
+      display_name: Slice Orange
+      notes: []
+    - slug: slice-cherry
+      display_name: Slice Cherry
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake all the ingredients and strain into a chilled highball glass
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

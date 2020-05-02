@@ -1,0 +1,48 @@
+- slug: pink-gin
+  display_name: Pink Gin
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin:
+      story: 'One of the classic drinks I used to serve at the Hotel Bel-Air was Pink
+        Gin, which called for orange bitters. After going through two or three bottles
+        of DeKuyper Orange Bitters, I spoke to the steward about ordering more. He
+        informed me that it was no longer produced, and had not been available for
+        over twenty years. There are now a few compatible products available: The
+        Fee Brothers in Rochester, New York, produce an orange bitters, but it lacks
+        the flavor and punch of the original. A better one is produced in Europe by
+        the Bols Company, but sadly it is not available here.'
+    glassware:
+    - slug: combine-in-an-old-fashioned-glass-over-ice
+      display_name: Combine In An Old Fashioned Glass Over Ice
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: gin
+      display_name: Gin
+      quantity: 2
+      unit: ounces
+      notes: []
+    - slug: angostura-or-orange-bitters
+      display_name: Angostura Or Orange Bitters
+      quantity: 3
+      unit: dashes
+      notes: []
+    garnish:
+    - slug: lemon-peel
+      display_name: Lemon Peel
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Combine in an old-fashioned glass over ice
+    - text: Originally this drink was served without ice, but these days you won't
+        find many takers for warm gin
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

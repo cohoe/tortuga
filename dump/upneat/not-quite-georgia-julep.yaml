@@ -1,0 +1,55 @@
+- slug: not-quite-georgia-julep
+  display_name: Not Quite Georgia Julep
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin:
+      creator: Phil Ward
+      location: Phil Ward
+      year: 2008
+    glassware: []
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: cognac
+      display_name: Cognac
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: lairds-bonded-apple-brandy
+      display_name: Lairds Bonded Apple Brandy
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: massenez-creme-de-peche-peach-liqueur
+      display_name: Massenez Creme De Peche Peach Liqueur
+      quantity: 1
+      unit: teaspoon
+      notes: []
+    - slug: simple-syrup
+      display_name: Simple Syrup
+      quantity: 1
+      unit: teaspoon
+      notes: []
+    garnish:
+    - slug: bouquet-of-mint
+      display_name: Bouquet Of Mint
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Put all the ingredients in a julep tin
+    - text: Fill the tin halfway with crushed ice
+    - text: Stir with a teaspoon, churning the ice as you go, for about 10 seconds,
+        holding the tin by the rim so the entire tin can eventually frost up
+    - text: Add more crushed ice to fill the tin two-thirds full and stir until the
+        tin is completely frosted
+    - text: Add more ice to form a cone above the rim
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

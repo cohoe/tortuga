@@ -1,0 +1,54 @@
+- slug: figetaboutit
+  display_name: Figetaboutit
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      creator: Lindsay Nader
+      location: Lindsay Nader
+      year: 2009
+      story: When Lindsay Nader and I were debating potential names for her bittersweet
+        Italian-American whiskey sour, barman Sean Hoard smiled and said "figetaboutit."
+        So we did.
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: bulleit-bourbon-whiskey
+      display_name: Bulleit Bourbon Whiskey
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: luxardo-amaretto
+      display_name: Luxardo Amaretto
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: st-dalfour-fig-jam
+      display_name: St Dalfour Fig Jam
+      quantity: 1
+      unit: barspoon
+      notes: []
+    - slug: angostura-bitters
+      display_name: Angostura Bitters
+      quantity: 2
+      unit: dashes
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake with ice and fine-strain into a chilled coupe
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

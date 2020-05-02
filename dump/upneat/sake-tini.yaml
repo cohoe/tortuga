@@ -1,0 +1,42 @@
+- slug: sake-tini
+  display_name: Sake Tini
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin:
+      story: Garnish with an exotic, round, small fruit or nut, such as a litchi.
+    glassware:
+    - slug: mixing
+      display_name: Mixing
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: gin
+      display_name: Gin
+      quantity: 2.5
+      unit: ounces
+      notes: []
+    - slug: dry-sake
+      display_name: Dry Sake
+      quantity: 0.25
+      unit: ounce
+      notes: []
+    - slug: curaassao
+      display_name: Curaassao
+      quantity: 0.25
+      unit: ounce
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Assemble the three ingredients in a mixing glass, Ill with ice
+    - text: Stir and strain into a chilled martini glass
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

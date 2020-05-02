@@ -1,0 +1,57 @@
+- slug: dale-s-ultimate-mango-rita
+  display_name: Dale'S Ultimate Mango Rita
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin: {}
+    glassware:
+    - slug: mixing
+      display_name: Mixing
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: sweet-mango
+      display_name: Sweet Mango
+      quantity: 2
+      unit: slices
+      notes: []
+    - slug: triple-sec
+      display_name: Triple Sec
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: simple-syrup
+      display_name: Simple Syrup
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: 100-blue-agave-tequila
+      display_name: 100 Blue Agave Tequila
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    garnish:
+    - slug: thin-wheel-of-lime
+      display_name: Thin Wheel Of Lime
+      notes: []
+    - slug: salt
+      display_name: Salt
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: In a mixing glass, muddle the mango with the Triple Sec and Simple Syrup
+    - text: Add the rest of the ingredients and shake well with ice
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

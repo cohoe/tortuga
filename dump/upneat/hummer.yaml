@@ -1,0 +1,45 @@
+- slug: hummer
+  display_name: Hummer
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin: {}
+    glassware:
+    - slug: blend-and-serve-in-a-frozen-drink-glass
+      display_name: Blend And Serve In A Frozen Drink Glass
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: coffee-liqueur
+      display_name: Coffee Liqueur
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: spiced-rum
+      display_name: Spiced Rum
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: ice-cream-vanilla
+      display_name: Ice Cream Vanilla
+      quantity: 1
+      unit: scoop
+      notes: []
+    - slug: milk
+      display_name: Milk
+      quantity: 2
+      unit: ounces
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Blend and serve in a frozen-drink glass
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

@@ -1,0 +1,59 @@
+- slug: the-green-mile
+  display_name: The Green Mile
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin:
+      creator: Phil Ward
+      location: Phil Ward
+      year: 2008
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: barbancourt-white-rum
+      display_name: Barbancourt White Rum
+      quantity: 2
+      unit: ounces
+      notes: []
+    - slug: green-chartreuse
+      display_name: Green Chartreuse
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: vieux-pontarlier-absinthe
+      display_name: Vieux Pontarlier Absinthe
+      quantity: 2
+      unit: dashes
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: simple-syrup
+      display_name: Simple Syrup
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: of-thai-basil
+      display_name: Of Thai Basil
+      quantity: 4
+      unit: leaves
+      notes: []
+    garnish:
+    - slug: 1-leaf-thai-basil
+      display_name: 1 Leaf Thai Basil
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake all the ingredients with ice, then double strain into a coupe
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

@@ -1,0 +1,42 @@
+- slug: irish-coffee
+  display_name: Irish Coffee
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin: {}
+    glassware:
+    - slug: combine-the-whiskey-cosee-and-syrup-in-an-irish-cosee-glass
+      display_name: Combine The Whiskey Cosee And Syrup In An Irish Cosee Glass
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: irish-whiskey
+      display_name: Irish Whiskey
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: coffee
+      display_name: Coffee
+      notes: []
+    - slug: brown-sugar-syrup
+      display_name: Brown Sugar Syrup
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: whipped-irish-coffee-cream
+      display_name: Whipped Irish Coffee Cream
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Combine the whiskey, coSee, and syrup in an Irish-coSee glass
+    - text: Ladle 1 inch of cream on top
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

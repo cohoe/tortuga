@@ -1,0 +1,48 @@
+- slug: kin-kan
+  display_name: Kin Kan
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      creator: John Deragon
+      location: John Deragon
+      year: 2008
+      story: '"Kin kan" is Japanese for kumquat, the small, aromatic citrus fruit
+        that is cultivated throughout Southeast Asia from autumn until winter.'
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: germain
+      display_name: Germain
+      quantity: St
+      notes: []
+    - slug: beefeater-gin
+      display_name: Beefeater Gin
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: kumquat-cordial
+      display_name: Kumquat Cordial
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.75
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake with ice and strain into a chilled, St
+    - text: Germain Elderflower Liqueur-rinsed coupe
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

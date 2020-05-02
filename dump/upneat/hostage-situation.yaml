@@ -1,0 +1,61 @@
+- slug: hostage-situation
+  display_name: Hostage Situation
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin:
+      year: 2009
+      story: JOAQUÍN SIMÓ, 2009
+    glassware:
+    - slug: rocks
+      display_name: Rocks
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: ransom-old-tom-gin
+      display_name: Ransom Old Tom Gin
+      quantity: 2
+      unit: ounces
+      notes: []
+    - slug: coffee-infused-carpano-antica-formula-vermouth
+      display_name: Coffee Infused Carpano Antica Formula Vermouth
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: carpano-antica-formula-vermouth
+      display_name: Carpano Antica Formula Vermouth
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: rhum-clement-creole-shrubb
+      display_name: Rhum Clement Creole Shrubb
+      quantity: 0.25
+      unit: ounce
+      notes: []
+    - slug: regans-orange-bitters
+      display_name: Regans Orange Bitters
+      quantity: 2
+      unit: dashes
+      notes: []
+    - slug: angostura-bitters
+      display_name: Angostura Bitters
+      quantity: 1
+      unit: dash
+      notes: []
+    garnish:
+    - slug: orange-peel
+      display_name: Orange Peel
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Stir all the ingredients over ice, then strain into a double rocks glass
+        over 1 large ice cube
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

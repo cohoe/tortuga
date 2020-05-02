@@ -1,0 +1,78 @@
+- slug: long-island-iced-tea
+  display_name: Long Island Iced Tea
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin:
+      story: Credit for this incredibly successful frat-house drink is attributed
+        to Robert C. Butt. When made properly, the drink tastes great and doesn't
+        have to be an evening ender. The key is to have all the spirits present but
+        in small amounts. In the recipe here, the total alcohol content is 2.5 ounces.
+        It is a well-balanced, good-tasting drink, in large part because of the fresh
+        lemon juice and simple syrup. Besides the "Long Island" version, there are
+        a few other regional variations.
+    glassware:
+    - slug: collins
+      display_name: Collins
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: vodka
+      display_name: Vodka
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: gin
+      display_name: Gin
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: rum
+      display_name: Rum
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: tequila
+      display_name: Tequila
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: triple-sec
+      display_name: Triple Sec
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: simple-syrup
+      display_name: Simple Syrup
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: ounces
+      display_name: Ounces
+      quantity: 3-
+      unit: '4'
+      notes: []
+    garnish:
+    - slug: wedge-lemon
+      display_name: Wedge Lemon
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake all ingredients except the Coca-Cola with ice and strain into an
+        iced tea or collins glass three-quarters filled with ice
+    - text: Top with 3 or 4 ounces of Coca-Cola and stir
+    - text: ith the lemon wedge
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

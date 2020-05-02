@@ -1,0 +1,58 @@
+- slug: frozen-daiquiri-papa-doble-style
+  display_name: Frozen Daiquiri (Papa Doble Style)
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin:
+      story: Constantino (Constante) Ribalaigua Vert at the El Floridita Bar in Havana,
+        Cuba, created the original frozen Daiquiri. I adapted Constante's recipe to
+        accommodate today's larger glassware and to sweeten it slightly. Constante
+        added the juice of the Marsh grapefruit, a very sweet seedless variety from
+        the Isle of Pines near Havana, as well as maraschino liqueur to provide a
+        delicate floral note.
+    glassware:
+    - slug: blend-all-the-ingredients-with-a-handful-of-ice-and-strain-into-a-special-frozen-drink-glass-or-into-a-medium-size-wineglass
+      display_name: Blend All The Ingredients With A Handful Of Ice And Strain Into
+        A Special Frozen Drink Glass Or Into A Medium Size Wineglass
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: white-rum
+      display_name: White Rum
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: maraschino-liqueur
+      display_name: Maraschino Liqueur
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: grapefruit-juice
+      display_name: Grapefruit Juice
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: simple-syrup
+      display_name: Simple Syrup
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 1
+      unit: ounce
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Blend all the ingredients with a handful of ice and strain into a special
+        frozen-drink glass or into a medium-size wineglass
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

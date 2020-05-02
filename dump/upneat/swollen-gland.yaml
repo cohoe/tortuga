@@ -1,0 +1,52 @@
+- slug: swollen-gland
+  display_name: Swollen Gland
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      creator: Jim Meehan and Lydia Reissmueller
+      location: Jim Meehan and Lydia Reissmueller
+      year: 1922
+      story: A subtle twist on Harry McElhone's famous Monkey Gland Cocktail, published
+        in Harry's ABC of Mixing Cocktails in 1922.
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: vieux-pontarlier-absinthe
+      display_name: Vieux Pontarlier Absinthe
+      notes: []
+    - slug: berkshire-mountain-distillers-greylock-gin
+      display_name: Berkshire Mountain Distillers Greylock Gin
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: orange-juice
+      display_name: Orange Juice
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: yellow-chartreuse
+      display_name: Yellow Chartreuse
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: peychauds-bitters
+      display_name: Peychauds Bitters
+      quantity: 4
+      unit: dashes
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake with ice and fine-strain into a chilled, Vieux Pontarlier Absinthe-rinsed
+        coupe
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

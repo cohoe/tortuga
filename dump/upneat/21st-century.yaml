@@ -1,0 +1,46 @@
+- slug: 21st-century
+  display_name: 21St Century
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      creator: Jim Meehan
+      location: Jim Meehan
+      year: 2007
+      story: I created this tequila-based 20th Century Cocktail at the Pegu Club with
+        the guidance of Audrey Saunders.
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: pernod
+      display_name: Pernod
+      notes: []
+    - slug: siete-leguas-blanco-tequila
+      display_name: Siete Leguas Blanco Tequila
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: marie-brizard-white-creme-de-cacao
+      display_name: Marie Brizard White Creme De Cacao
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.75
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake with ice and strain into a chilled, Pernod-rinsed coupe
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

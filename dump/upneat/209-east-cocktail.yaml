@@ -1,0 +1,66 @@
+- slug: 209-east-cocktail
+  display_name: 209 East Cocktail
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin:
+      year: 1995
+      story: One of the problems for night owls like me is finding the time to socialize
+        with regular folks during nonworking hours. One evening in 1995, I was mulling
+        over this dilemma with my good friend Carl Butrum, and we decided the only
+        solution was a party that would last all night, so that people could arrive
+        at any time from six in the evening to six in the morning. The party would
+        be dubbed "Straight on 'til Morning" and should be an annual event. When I
+        decided that I would create a special cocktail to celebrate the first "Straight
+        on 'til Morning" party, Sharen Butrum requested that whatever it tasted like,
+        the drink should be pink. This was because her living room was pink. And she
+        thought pink would be festive. At least it gave me my creative direction.
+        Pink called for fresh strawberries and strawberry liqueur. The resulting creation,
+        named the "209 East," after their house on Forty-eighth Street, was such a
+        hit that not only is it traditionally served at every "Straight on 'til Morning"
+        party, but it became a featured item on the cocktail list at the Rainbow Room.
+    glassware:
+    - slug: cocktail
+      display_name: Cocktail
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: sauza-hornitos-tequila
+      display_name: Sauza Hornitos Tequila
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: cointreau
+      display_name: Cointreau
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: marie-brizard-strawberry-liqueur
+      display_name: Marie Brizard Strawberry Liqueur
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 1
+      unit: ounce
+      notes: []
+    garnish: []
+    straw: true
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake all the ingredients with ice and strain into a chilled cocktail
+        glass
+    - text: Coat the rim of the glass with a mix of sugar and powdered strawberry,
+        if you wish
+    - text: To make powdered strawberry, roast strawberries in a low oven until they
+        are crisp and dry and pulverize them with a mortar and pestle
+    - text: Mix with superfine sugar
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

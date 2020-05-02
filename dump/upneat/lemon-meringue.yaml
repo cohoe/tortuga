@@ -1,0 +1,43 @@
+- slug: lemon-meringue
+  display_name: Lemon Meringue
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin:
+      story: If you want to get fancy, beat up some egg whites and sugar until stiff
+        and float it on top of the cocktail.
+    glassware:
+    - slug: martini
+      display_name: Martini
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: citrus-vodka
+      display_name: Citrus Vodka
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: limoncello
+      display_name: Limoncello
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: white-cra-me-de-cacao
+      display_name: White Cra Me De Cacao
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake the three ingredients well with ice and strain into a chilled martini
+        glass
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

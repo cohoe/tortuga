@@ -1,0 +1,44 @@
+- slug: dusty-rose
+  display_name: Dusty Rose
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin:
+      story: You can make a wonderful frosting for the rim of the glass. Slice several
+        maraschino cherries .25-inch thick and bake them until dry and crisp. Pulverize
+        them to a powder with a mortar and pestle. Dampen the outside rim of the glass
+        with an orange slice and touch the rim in the powder.
+    glassware:
+    - slug: martini
+      display_name: Martini
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: cherry-brandy
+      display_name: Cherry Brandy
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: white-cra-me-de-cacao
+      display_name: White Cra Me De Cacao
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: heavy-cream
+      display_name: Heavy Cream
+      quantity: 2
+      unit: ounces
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake and serve in a small martini glass
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

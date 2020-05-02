@@ -1,0 +1,58 @@
+- slug: straw-dog
+  display_name: Straw Dog
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin:
+      creator: Thomas Waugh
+      location: Thomas Waugh
+      year: 2009
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: 1-strawberry
+      display_name: 1 Strawberry
+      notes: []
+    - slug: compass-box-asyla-scotch-whisky
+      display_name: Compass Box Asyla Scotch Whisky
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: dolin-blanc-vermouth
+      display_name: Dolin Blanc Vermouth
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: simple-syrup
+      display_name: Simple Syrup
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: bittermens-hopped-grapefruit-bitters
+      display_name: Bittermens Hopped Grapefruit Bitters
+      quantity: 1
+      unit: dash
+      notes: []
+    garnish:
+    - slug: 0-5-strawberry
+      display_name: 0 5 Strawberry
+      notes: []
+    straw: true
+    citations: []
+    notes: []
+    instructions:
+    - text: In a shaker, gently muddle the strawberry
+    - text: Add the remaining ingredients and shake with ice, then strain into a coupe
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

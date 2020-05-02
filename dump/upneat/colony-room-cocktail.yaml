@@ -1,0 +1,60 @@
+- slug: colony-room-cocktail
+  display_name: Colony Room Cocktail
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin:
+      year: 1995
+      story: "The Colony Room Club in London is known for many things, but cocktails\
+        \ is not one of them. As longtime member Roddy Ashworth once put it: \"If\
+        \ a member asks for a PiÃ±a Colada, he is likely to be served with little\
+        \ more than raised eyebrows and a large vodka and tonic.\" In 1995, while\
+        \ visiting London to judge a bartending contest, I ended up at the Colony\
+        \ Room, where I was surprised to discover that the most complex cocktail available\
+        \ was a screwdriver (although to get one, I had to ask for a large vodka and\
+        \ orange). Faced with the prospect of drinking vodka and orange all night,\
+        \ I convinced proprietor Michael Wojas to allow me to get behind the bar and\
+        \ fashion my own special mix. The available ingredients were limited, but\
+        \ I did manage to invent a drink worthy of the club's name. Here's the recipe."
+    glassware:
+    - slug: martini
+      display_name: Martini
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: ricard
+      display_name: Ricard
+      quantity: 1
+      unit: dash
+      notes: []
+    - slug: gin
+      display_name: Gin
+      quantity: 2
+      unit: ounces
+      notes: []
+    - slug: noilly-prat-dry-vermouth
+      display_name: Noilly Prat Dry Vermouth
+      quantity: 2
+      unit: dashes
+      notes: []
+    - slug: angostura-bitters
+      display_name: Angostura Bitters
+      quantity: 1
+      unit: dash
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Season a chilled martini glass by dashing it with Ricard and coating the
+        inside, then pour out the excess
+    - text: Chill the gin, vermouth, and bitters by stirring with ice
+    - text: Strain into the prepared martini glass
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

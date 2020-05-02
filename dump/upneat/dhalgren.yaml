@@ -1,0 +1,57 @@
+- slug: dhalgren
+  display_name: Dhalgren
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin:
+      creator: Phil Ward
+      location: Phil Ward
+      year: 2008
+    glassware:
+    - slug: highball
+      display_name: Highball
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: siembra-azul-blanco-tequila
+      display_name: Siembra Azul Blanco Tequila
+      quantity: 2
+      unit: ounces
+      notes: []
+    - slug: otima-10-year-tawny-port
+      display_name: Otima 10 Year Tawny Port
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: ginger-syrup
+      display_name: Ginger Syrup
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: angostura-bitters
+      display_name: Angostura Bitters
+      quantity: 1
+      unit: dash
+      notes: []
+    garnish:
+    - slug: wheel-of-lime
+      display_name: Wheel Of Lime
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake all the ingredients with ice, then strain into a highball glass
+        filled with ice cubes
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

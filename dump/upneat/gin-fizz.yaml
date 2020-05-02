@@ -1,0 +1,48 @@
+- slug: gin-fizz
+  display_name: Gin Fizz
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin:
+      story: A fizz, or Delmonico, glass is a highball-style glass but just a little
+        shorter, with an 8- to 10-ounce capacity. Since the fizz-type drinks containing
+        egg are served without ice, this glass is preferable to the standard highball.
+    glassware:
+    - slug: highball
+      display_name: Highball
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: gin
+      display_name: Gin
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: simple-syrup
+      display_name: Simple Syrup
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: soda-water
+      display_name: Soda Water
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake the gin, lemon juice, and syrup and strain into a highball glass
+        (but see note) with ice
+    - text: Fill with club soda
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

@@ -1,0 +1,56 @@
+- slug: rack-rye
+  display_name: Rack & Rye
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      creator: Lydia Reissmueller
+      location: Lydia Reissmueller
+      year: 2009
+      story: Lydia Reissmueller came up with this twist on Rock & Rye, a liqueur prepared
+        by sweetening rye whiskey with rock candy, fruits, and bitter herbs.
+    glassware:
+    - slug: rocks
+      display_name: Rocks
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: wild-turkey-russells-reserve-6-year-old-rye-whiskey
+      display_name: Wild Turkey Russells Reserve 6 Year Old Rye Whiskey
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: van-oosten-batavia-arrack
+      display_name: Van Oosten Batavia Arrack
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: demerara-syrup
+      display_name: Demerara Syrup
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: angostura-bitters
+      display_name: Angostura Bitters
+      quantity: 2
+      unit: dashes
+      notes: []
+    - slug: angostura-orange-bitters
+      display_name: Angostura Orange Bitters
+      quantity: 2
+      unit: dashes
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Stir with ice and strain into a chilled rocks glass filled with ice
+    - text: Twist an orange and lemon peel over the surface and discard
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

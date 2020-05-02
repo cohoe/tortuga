@@ -1,0 +1,60 @@
+- slug: le-gigot-flip
+  display_name: Le Gigot Flip
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin:
+      creator: Phil Ward
+      location: Phil Ward
+      year: 2008
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: santa-teresa-1796-rum
+      display_name: Santa Teresa 1796 Rum
+      quantity: 2
+      unit: ounces
+      notes: []
+    - slug: cherry-heering
+      display_name: Cherry Heering
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: demerara-syrup
+      display_name: Rich Demerara Syrup
+      quantity: 0.25
+      unit: ounce
+      notes: []
+    - slug: yolk
+      display_name: Yolk
+      quantity: 1
+      unit: Egg
+      notes: []
+    - slug: heavy-cream
+      display_name: Heavy Cream
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: bittermens-xocolatl-mole-bitters
+      display_name: Bittermens Xocolatl Mole Bitters
+      quantity: 2
+      unit: dashes
+      notes: []
+    garnish:
+    - slug: brandied-cherry
+      display_name: Brandied Cherry
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Dry shake all the ingredients, then shake again with ice
+    - text: Double strain into a coupe
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

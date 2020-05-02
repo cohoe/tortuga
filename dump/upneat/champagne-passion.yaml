@@ -1,0 +1,46 @@
+- slug: champagne-passion
+  display_name: Champagne Passion
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin:
+      story: Passion fruit purée is very tart, so I sweeten it with Simple Syrup to
+        taste. If the purée is unavailable, use passion fruit nectar.
+    glassware:
+    - slug: mixing
+      display_name: Mixing
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: passion-fruit-puree
+      display_name: Passion Fruit Puree
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: simple-syrup
+      display_name: Simple Syrup
+      notes: []
+    - slug: champagne
+      display_name: Champagne
+      notes: []
+    - slug: alize-gold-passion
+      display_name: Alize Gold Passion
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Pour the passion fruit purée into a mixing glass and stir in the Simple
+        Syrup
+    - text: Slowly add the Champagne while stirring gently
+    - text: Float the Alizé on top
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

@@ -1,0 +1,50 @@
+- slug: flor-de-jalisco
+  display_name: Flor De Jalisco
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin:
+      creator: JS
+      location: JS
+      year: 2009
+      story: JOAQUÍN SIMÓ, 2009 In the 1980s, Julio Bermejo, an owner of Tommy's Mexican
+        Restaurant in San Francisco, popularized a margarita sweetened with agave
+        syrup. We've used his spec for some fun spin-offs, including this version
+        made with lemon juice and orange marmalade.
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: siembra-azul-blanco-tequila
+      display_name: Siembra Azul Blanco Tequila
+      quantity: 2
+      unit: ounces
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: agave-nectar
+      display_name: Agave Nectar
+      quantity: 0.25
+      unit: ounce
+      notes: []
+    - slug: orange-marmalade
+      display_name: Orange Marmalade
+      quantity: 1
+      unit: teaspoon
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake all the ingredients with ice, then strain into a coupe
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

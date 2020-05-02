@@ -1,0 +1,47 @@
+- slug: romeo-y-julieta
+  display_name: Romeo Y Julieta
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      creator: David Slape
+      location: David Slape
+      year: 2009
+      story: David Slape crafted this aged rum-based Negroni rolled with blond tobacco
+        essence named after his favorite brand of Cuban cigar.
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: aftel-tobacco-essence
+      display_name: Aftel Tobacco Essence
+      notes: []
+    - slug: ron-zacapa-centenario-23-rum
+      display_name: Ron Zacapa Centenario 23 Rum
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: carpano-antica-sweet-vermouth
+      display_name: Carpano Antica Sweet Vermouth
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: campari
+      display_name: Campari
+      quantity: 0.5
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Stir with ice and strain into a chilled coupe rinsed with 4 spritzes of
+        diluted Aftel Tobacco Essence
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

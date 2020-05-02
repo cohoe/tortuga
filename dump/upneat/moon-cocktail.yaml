@@ -1,0 +1,51 @@
+- slug: moon-cocktail
+  display_name: Moon Cocktail
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin:
+      creator: Thomas Waugh
+      location: Thomas Waugh
+      year: 2008
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: plymouth-gin
+      display_name: Plymouth Gin
+      quantity: 2
+      unit: ounces
+      notes: []
+    - slug: lustau-amontillado-sherry
+      display_name: Lustau Amontillado Sherry
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: massenez-creme-de-peche-peach-liqueur
+      display_name: Massenez Creme De Peche Peach Liqueur
+      quantity: 1
+      unit: teaspoon
+      notes: []
+    - slug: acacia-honey-syrup
+      display_name: Acacia Honey Syrup
+      quantity: 0.25
+      unit: ounce
+      notes: []
+    - slug: lemon-peel
+      display_name: Lemon Peel
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Stir all the ingredients (except the lemon twist) over ice, then strain
+        into a coupe
+    - text: Squeeze the lemon twist over the drink and discard
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

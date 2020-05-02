@@ -1,0 +1,53 @@
+- slug: douglas-fairbanks
+  display_name: Douglas Fairbanks
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin:
+      story: Drinks like this one from the nineteenth or early twentieth centuries
+        that call for egg, egg white, or egg yolk are tricky. The eggs were smaller
+        than our small eggs are today. Following the old recipe instructions that
+        call for a whole egg or the white of an egg with the size of today's eggs
+        will throw the drink out of whack. The solution is to beat the whole egg or
+        the whites and to emulsify it to a liquid form and then measure. In old recipes
+        that call for a whole egg, I use .75 ounce of a small egg.
+    glassware:
+    - slug: cocktail
+      display_name: Cocktail
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: gin
+      display_name: Gin
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: marie-brizard-apry
+      display_name: Marie Brizard Apry
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: egg-white
+      display_name: Egg White
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake all the ingredients extra hard to completely emulsify the egg, then
+        strain into a chilled cocktail glass
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

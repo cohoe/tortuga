@@ -1,0 +1,66 @@
+- slug: te-amo
+  display_name: Te Amo
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin:
+      creator: Brad Farran
+      location: Brad Farran
+      year: 2012
+    glassware:
+    - slug: martini
+      display_name: Martini
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: el-tesoro-anejo-tequila
+      display_name: El Tesoro Anejo Tequila
+      quantity: 2
+      unit: ounces
+      notes: []
+    - slug: cocchi-vermouth-di-torino
+      display_name: Cocchi Vermouth Di Torino
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: marie-brizard-white-creme-de-cacao
+      display_name: Marie Brizard White Creme De Cacao
+      quantity: 2
+      unit: teaspoons
+      notes: []
+    - slug: cynar
+      display_name: Cynar
+      quantity: 1
+      unit: teaspoon
+      notes: []
+    - slug: house-orange-bitters
+      display_name: House Orange Bitters
+      quantity: 1
+      unit: dash
+      notes: []
+    - slug: bittermens-xocolatl-mole-bitters
+      display_name: Bittermens Xocolatl Mole Bitters
+      quantity: 1
+      unit: dash
+      notes: []
+    - slug: bittermens-hellfire-habanero-shrub
+      display_name: Bittermens Hellfire Habanero Shrub
+      quantity: 1
+      unit: dash
+      notes: []
+    garnish:
+    - slug: orange-peel
+      display_name: Orange Peel
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Stir all the ingredients over ice, then strain into a martini glass
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

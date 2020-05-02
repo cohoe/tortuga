@@ -1,0 +1,60 @@
+- slug: port-whiskey-punch
+  display_name: Port Whiskey Punch
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin: {}
+    glassware:
+    - slug: highball
+      display_name: Highball
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: jack-daniels-tennessee-whiskey
+      display_name: Jack Daniels Tennessee Whiskey
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: orange-juice
+      display_name: Orange Juice
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: cranberry-juice
+      display_name: Cranberry Juice
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: simple-syrup
+      display_name: Simple Syrup
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: ruby-port
+      display_name: Ruby Port
+      quantity: 1
+      unit: ounce
+      notes: []
+    garnish:
+    - slug: slice-of-orange
+      display_name: Slice Of Orange
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake the whiskey, juices, and syrup with ice and pour into a highball
+        glass filled with ice
+    - text: Top with the ruby port
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

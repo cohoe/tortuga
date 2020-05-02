@@ -1,0 +1,49 @@
+- slug: key-party
+  display_name: Key Party
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin:
+      creator: JS
+      location: JS
+      year: 2009
+      story: JOAQUÍN SIMÓ, 2009 If you count all of the botanicals used to flavor
+        the various spirits in this drink, you end up with more than two hundred ingredients
+        in this cocktail. Not bad for something that only takes a minute to make.
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: plymouth-gin
+      display_name: Plymouth Gin
+      quantity: 2
+      unit: ounces
+      notes: []
+    - slug: bonal-gentiane-quina
+      display_name: Bonal Gentiane Quina
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: amaro-nardini
+      display_name: Amaro Nardini
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: green-chartreuse
+      display_name: Green Chartreuse
+      quantity: 0.25
+      unit: ounce
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Stir all the ingredients over ice, then strain into a coupe
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

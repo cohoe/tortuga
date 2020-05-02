@@ -1,0 +1,53 @@
+- slug: muddled-mission
+  display_name: Muddled Mission
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin:
+      year: 2008
+      story: JOAQUÍN SIMÓ, 2008
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: 1-strawberry
+      display_name: 1 Strawberry
+      notes: []
+    - slug: anchor-junipero-gin
+      display_name: Anchor Junipero Gin
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: st-germain
+      display_name: St Germain
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: yellow-chartreuse
+      display_name: Yellow Chartreuse
+      quantity: 0.25
+      unit: ounce
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    garnish:
+    - slug: strawberry
+      display_name: Strawberry
+      notes: []
+    straw: true
+    citations: []
+    notes: []
+    instructions:
+    - text: In a shaker, gently muddle the strawberry
+    - text: Add the remaining ingredients and shake with ice
+    - text: Strain into a coupe
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

@@ -1,0 +1,53 @@
+- slug: waldorf
+  display_name: Waldorf
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin:
+      year: 1931
+      story: Albert Stevens Crockett's Old Waldorf Bar Days (1931) calls for equal
+        parts of absinthe, sweet vermouth, and whiskey. That might have been fine
+        with true absinthe, which was unsweetened and very bitter, but it won't work
+        with today's absinthe substitutes. This recipe is much more appealing.
+    glassware:
+    - slug: the
+      display_name: The
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: ricard
+      display_name: Ricard
+      quantity: 0.25
+      unit: ounce
+      notes: []
+    - slug: bourbon-or-rye-whiskey
+      display_name: Bourbon Or Rye Whiskey
+      quantity: 2
+      unit: ounces
+      notes: []
+    - slug: sweet-vermouth
+      display_name: Sweet Vermouth
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: angostura-bitters
+      display_name: Angostura Bitters
+      quantity: 2
+      unit: dashes
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Pour the Ricard into the mixing glass and swirl to coat the glass
+    - text: Pour out the excess Ricard, then add the remaining ingredients over ice
+        and stir
+    - text: Strain into a chilled martini glass
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

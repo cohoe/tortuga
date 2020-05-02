@@ -1,0 +1,51 @@
+- slug: single-origin
+  display_name: Single Origin
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin:
+      creator: Tyson Buhler
+      location: Tyson Buhler
+      year: 2013
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: cacao-nib-infused-cabeza-blanco-tequila
+      display_name: Cacao Nib Infused Cabeza Blanco Tequila
+      quantity: 2
+      unit: ounces
+      notes: []
+    - slug: galliano-ristretto
+      display_name: Galliano Ristretto
+      quantity: 1
+      unit: teaspoon
+      notes: []
+    - slug: pineapple-juice
+      display_name: Pineapple Juice
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: rich-cane-sugar-syrup
+      display_name: Rich Cane Sugar Syrup
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake all the ingredients with ice, then strain into a coupe
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

@@ -1,0 +1,53 @@
+- slug: professor
+  display_name: Professor
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      creator: Michael Madrusan
+      location: Michael Madrusan
+      year: 2007
+      story: The Professor is Michael's rhumbased variation on the Chancellor cocktail
+        from Frederick Birmingham's Esquire Drink Book.
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: rhum-clement-v-s-o-p
+      display_name: Rhum Clement V S O P
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: dows-tawny-port
+      display_name: Dows Tawny Port
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: carpano-antica-sweet-vermouth
+      display_name: Carpano Antica Sweet Vermouth
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: angostura-bitters
+      display_name: Angostura Bitters
+      quantity: 1
+      unit: dash
+      notes: []
+    - slug: house-orange-bitters
+      display_name: House Orange Bitters
+      quantity: 1
+      unit: dash
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Stir with ice and strain into a chilled coupe
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

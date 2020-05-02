@@ -1,0 +1,52 @@
+- slug: fancy-gin-cocktail
+  display_name: Fancy Gin Cocktail
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin: {}
+    glassware:
+    - slug: the
+      display_name: The
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: dashes
+      display_name: Dashes
+      quantity: 3-
+      unit: '4'
+      notes: []
+    - slug: bokers-bitters-substitute-angostura-bitters
+      display_name: Bokers Bitters Substitute Angostura Bitters
+      quantity: 2
+      unit: dashes
+      notes: []
+    - slug: gin
+      display_name: Gin
+      quantity: 1
+      unit: wineglass
+      notes: []
+    - slug: dashes
+      display_name: Dashes
+      quantity: 1-
+      unit: '2'
+      notes: []
+    garnish:
+    - slug: 1-small-piece-of-lemon-peel
+      display_name: 1 Small Piece Of Lemon Peel
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Fill a shaker one-third full of fine ice, add the ingredients, and shake
+        well
+    - text: Moisten the edge of a fancy wineglass with lemon and strain the cocktail
+        into the glass
+    - text: Toss the lemon peel on top
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

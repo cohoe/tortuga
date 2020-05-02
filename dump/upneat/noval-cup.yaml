@@ -1,0 +1,56 @@
+- slug: noval-cup
+  display_name: Noval Cup
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      creator: Jim Meehan
+      location: Jim Meehan
+      year: 2010
+      story: Using the Pimms Cup as my muse, I fashioned this cocktail to show off
+        the versatility of Port in a summer cooler.
+    glassware:
+    - slug: collins
+      display_name: Collins
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: noval-black-port
+      display_name: Noval Black Port
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: simple-syrup
+      display_name: Simple Syrup
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: 1-strawberry
+      display_name: 1 Strawberry
+      notes: []
+    - slug: club-soda
+      display_name: Club Soda
+      quantity: 2
+      unit: oz
+      notes: []
+    garnish: []
+    straw: true
+    citations: []
+    notes: []
+    instructions:
+    - text: Muddle the strawberry with the simple syrup
+    - text: Add everything else, then shake with ice and finestrain into a chilled
+        Collins glass filled with ice
+    - text: Top with 2 oz Club Soda
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

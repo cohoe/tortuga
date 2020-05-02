@@ -1,0 +1,55 @@
+- slug: triborough
+  display_name: Triborough
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      creator: Nate Dumas
+      location: Nate Dumas
+      year: 2009
+      story: The Triborough is a twist on the Remember the Maine cocktail that Nate
+        added to the list of cocktails named after New York City.
+    glassware:
+    - slug: rocks
+      display_name: Rocks
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: wild-turkey-rye-whiskey
+      display_name: Wild Turkey Rye Whiskey
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: clear-creek-kirschwasser
+      display_name: Clear Creek Kirschwasser
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: punt-e-mes
+      display_name: Punt E Mes
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: amaro-ciociaro
+      display_name: Amaro Ciociaro
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: angostura-bitters
+      display_name: Angostura Bitters
+      quantity: 1
+      unit: dash
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Stir with ice and strain into a chilled rocks glass
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

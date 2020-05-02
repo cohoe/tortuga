@@ -1,0 +1,45 @@
+- slug: ricard-tomate
+  display_name: Ricard Tomate
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin:
+      story: A popular way to serve Ricard in France. Sounds awful, but it is surprisingly
+        drinkable. It is important with this drink that the ice be added last to prevent
+        an unpleasant film or scaling effect on the surface of the drink.
+    glassware:
+    - slug: highball
+      display_name: Highball
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: ricard
+      display_name: Ricard
+      quantity: 2
+      unit: ounces
+      notes: []
+    - slug: grenadine
+      display_name: Grenadine
+      quantity: 0.25
+      unit: ounce
+      notes: []
+    - slug: 5-ounces-water
+      display_name: 5 Ounces Water
+      quantity: 4
+      unit: to
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Pour Ricard and grenadine into a highball glass
+    - text: Add water and then the ice last to prevent a residue from forming on top
+        of the drink
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

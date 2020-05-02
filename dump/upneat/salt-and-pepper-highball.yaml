@@ -1,0 +1,56 @@
+- slug: salt-and-pepper-highball
+  display_name: Salt And Pepper Highball
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin:
+      story: I liked the name and the whole idea of the Salty Dog, but I found the
+        recipe a bit boring. So I created my own salty drink with more flavor.
+    glassware:
+    - slug: the
+      display_name: The
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: gin
+      display_name: Gin
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: simple-syrup
+      display_name: Simple Syrup
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: grapefruit-juice
+      display_name: Grapefruit Juice
+      quantity: 3
+      unit: ounces
+      notes: []
+    - slug: angostura-bitters
+      display_name: Angostura Bitters
+      quantity: 3
+      unit: dashes
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Rim a highball glass by rubbing the lemon or lime piece around the outside
+        rim of the glass to dampen it and then dusting the rim with coarse salt
+    - text: (Do not use table salt
+    - text: ) Fill a rimmed highball glass with ice
+    - text: Shake all the ingredients with ice and strain into the prepared glass
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

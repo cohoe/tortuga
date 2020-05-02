@@ -1,0 +1,57 @@
+- slug: gin-gin-mule
+  display_name: Gin Gin Mule
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin:
+      story: Recipe by New York bartender Audrey Saunders.
+    glassware:
+    - slug: highball
+      display_name: Highball
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: simple-syrup
+      display_name: Simple Syrup
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: 6-sprigs-mint
+      display_name: 6 Sprigs Mint
+      notes: []
+    - slug: ginger-beer
+      display_name: Ginger Beer
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: bombay-gin
+      display_name: Bombay Gin
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: splash-soda-water
+      display_name: Splash Soda Water
+      notes: []
+    garnish:
+    - slug: wedge-lime
+      display_name: Wedge Lime
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Muddle the lime juice, syrup, and mint
+    - text: Add gin and ginger beer and shake well
+    - text: Pour over ice in a highball glass
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

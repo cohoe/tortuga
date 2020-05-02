@@ -1,0 +1,45 @@
+- slug: royal-cocktail
+  display_name: Royal Cocktail
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin:
+      year: 1930
+      story: Adapted from a recipe from the Embassy Club in Hollywood, from the 1930s.
+    glassware:
+    - slug: martini
+      display_name: Martini
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: gin
+      display_name: Gin
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: dry-vermouth
+      display_name: Dry Vermouth
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: peter-heering-cherry-heering
+      display_name: Peter Heering Cherry Heering
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    garnish:
+    - slug: flamed-lemon-peel
+      display_name: Flamed Lemon Peel
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Stir with ice and strain into a chilled martini glass
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

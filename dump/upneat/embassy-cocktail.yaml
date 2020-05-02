@@ -1,0 +1,55 @@
+- slug: embassy-cocktail
+  display_name: Embassy Cocktail
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin:
+      year: 1930
+      story: The brandy-and-rum combination was used often in nogs and holiday punches
+        and in an occasional cocktail like this one from the Embassy Club, Hollywood,
+        1930.
+    glassware:
+    - slug: martini
+      display_name: Martini
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: brandy
+      display_name: Brandy
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: cointreau
+      display_name: Cointreau
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: appleton-jamaican-rum
+      display_name: Appleton Jamaican Rum
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: dash-angostura-bitters
+      display_name: Dash Angostura Bitters
+      notes: []
+    garnish:
+    - slug: piece-of-lime
+      display_name: Piece Of Lime
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake well with ice and strain into a chilled martini glass
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

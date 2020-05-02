@@ -1,0 +1,41 @@
+- slug: yang-martini
+  display_name: Yang Martini
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin:
+      story: I created the Yin and Yang Martinis for a wonderful Japanese restaurant
+        in the Waldorf Astoria called Inagiku.
+    glassware:
+    - slug: mixing
+      display_name: Mixing
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: gin
+      display_name: Gin
+      quantity: 3
+      unit: ounces
+      notes: []
+    - slug: sake
+      display_name: Sake
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    garnish:
+    - slug: two-olive
+      display_name: Two Olive
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Pour both ingredients into a mixing glass with ice and stir to chill
+    - text: Strain into a chilled martini glass
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

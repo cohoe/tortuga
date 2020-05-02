@@ -1,0 +1,57 @@
+- slug: crimson-tide
+  display_name: Crimson Tide
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      creator: Kevin Diedrich
+      location: Kevin Diedrich
+      year: 2009
+      story: A Trinidadian friend of barman Kevin Diedrich introduced him to sorrel,
+        a ginger and clove-spiced hibiscus tea blend, tailor-made for rum drinks.
+    glassware:
+    - slug: collins
+      display_name: Collins
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: lemon-hart-overproof-rum
+      display_name: Lemon Hart Overproof Rum
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: spiced-sorrel
+      display_name: Spiced Sorrel
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: canton-ginger-liqueur
+      display_name: Canton Ginger Liqueur
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: club-soda
+      display_name: Club Soda
+      quantity: 0.75
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake with ice and strain into a chilled Collins glass filled with ice
+    - text: Top with
+    - text: 75 oz club soda
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

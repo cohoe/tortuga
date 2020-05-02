@@ -1,0 +1,49 @@
+- slug: lemon-drop
+  display_name: Lemon Drop
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin: {}
+    glassware:
+    - slug: martini
+      display_name: Martini
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.25
+      unit: ounce
+      notes: []
+    - slug: cointreau
+      display_name: Cointreau
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: citrus-vodka
+      display_name: Citrus Vodka
+      quantity: 2
+      unit: ounce
+      notes: []
+    garnish:
+    - slug: wheel-of-lemon
+      display_name: Wheel Of Lemon
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake all the ingredients well with ice and strain into a chilled martini
+        glass with a sugared rim
+    - text: Float a thin wheel of lemon on top of the drink
+    - text: To serve as a shooter, use the recipe above and strain into three 1-ounce
+        shot glasses
+    - text: Cover the mouth of the shot glass with a wheel of lemon that has been
+        dusted with sugar
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

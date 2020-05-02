@@ -1,0 +1,56 @@
+- slug: widow-s-laurel
+  display_name: Widow'S Laurel
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin:
+      creator: JS
+      location: JS
+      year: 2009
+      story: JOAQUÍN SIMÓ, 2009 A riff on the Widow's Kiss cocktail, which dates back
+        to 1895, this version is spicier and less boozy.
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: busnel-vsop-calvados
+      display_name: Busnel Vsop Calvados
+      quantity: 2
+      unit: ounces
+      notes: []
+    - slug: drambuie
+      display_name: Drambuie
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: carpano-antica-formula-vermouth
+      display_name: Carpano Antica Formula Vermouth
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: st-elizabeth-allspice-dram
+      display_name: St Elizabeth Allspice Dram
+      quantity: 1
+      unit: teaspoon
+      notes: []
+    - slug: angostura-bitters
+      display_name: Angostura Bitters
+      quantity: 1
+      unit: dash
+      notes: []
+    garnish:
+    - slug: 3-brandied-cherry
+      display_name: 3 Brandied Cherry
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Stir all the ingredients over ice, then strain into a coupe
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

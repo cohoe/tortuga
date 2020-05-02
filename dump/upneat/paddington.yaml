@@ -1,0 +1,58 @@
+- slug: paddington
+  display_name: Paddington
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      creator: David Slape
+      location: David Slape
+      year: 2008
+      story: After working a few nights under the taxidermied black bear nicknamed
+        Paddington, David Slape created his namesake cocktail.
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: george
+      display_name: George
+      quantity: St
+      notes: []
+    - slug: banks-5-island-rum
+      display_name: Banks 5 Island Rum
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: lillet-blanc
+      display_name: Lillet Blanc
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: grapefruit-juice
+      display_name: Grapefruit Juice
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: bonne-maman-orange-marmalade
+      display_name: Bonne Maman Orange Marmalade
+      quantity: 1
+      unit: barspoon
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake with ice and strain into a chilled, St
+    - text: George Absinthe-rinsed coupe
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

@@ -1,0 +1,64 @@
+- slug: saratoga-cocktail
+  display_name: Saratoga Cocktail
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin:
+      story: Edward Spencer lists this wonderful champagne cocktail in The Flowing
+        Bowl. There was another cocktail called the Saratoga in the early twentieth
+        century, pre-Prohibition, with applejack, sweet vermouth, and orange bitters.
+        If pineapples are out of season or not sweet and ripe, use .5 ounce pineapple
+        syrup.
+    glassware:
+    - slug: mixing
+      display_name: Mixing
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: 4-1-inch-cubes-of-pineapple
+      display_name: 4 1 Inch Cubes Of Pineapple
+      quantity: 3
+      unit: to
+      notes: []
+    - slug: 2-strawberry
+      display_name: 2 Strawberry
+      notes: []
+    - slug: maraschino-liqueur
+      display_name: Maraschino Liqueur
+      quantity: 0.25
+      unit: ounce
+      notes: []
+    - slug: angostura-bitters
+      display_name: Angostura Bitters
+      quantity: 3
+      unit: dashes
+      notes: []
+    - slug: simple-syrup
+      display_name: Simple Syrup
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: cognac
+      display_name: Cognac
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    garnish:
+    - slug: lemon-peel
+      display_name: Lemon Peel
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Muddle the fruit in the bottom of a mixing glass with the maraschino liqueur,
+        bitters, and syrup
+    - text: Add the Cognac and ice cubes and shake well
+    - text: Strain over ice into a stem glass with ice and top with Champagne
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

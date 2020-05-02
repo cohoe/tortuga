@@ -1,0 +1,64 @@
+- slug: robert-johnson-swizzle
+  display_name: Robert Johnson Swizzle
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin:
+      creator: Brian Miller
+      location: Brian Miller
+      year: 2009
+    glassware:
+    - slug: pilsner
+      display_name: Pilsner
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: evan-williams-single-barrel-bourbon
+      display_name: Evan Williams Single Barrel Bourbon
+      quantity: 2
+      unit: ounces
+      notes: []
+    - slug: otima-10-year-tawny-port
+      display_name: Otima 10 Year Tawny Port
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: vanilla-syrup
+      display_name: Vanilla Syrup
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: fee-brothers-whiskey-barrel-aged-bitters
+      display_name: Fee Brothers Whiskey Barrel Aged Bitters
+      quantity: 2
+      unit: dashes
+      notes: []
+    - slug: house-peychauds-bitters
+      display_name: House Peychauds Bitters
+      quantity: 3
+      unit: dashes
+      notes: []
+    garnish:
+    - slug: sprig-of-mint
+      display_name: Sprig Of Mint
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Dry shake all the ingredients (except the bitters), then dump into a pilsner
+        glass filled with crushed ice
+    - text: Swizzle until cold
+    - text: Add the bitters and swizzle them into the top of the drink
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

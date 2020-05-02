@@ -1,0 +1,56 @@
+- slug: pica-cocktail
+  display_name: Pica Cocktail
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin:
+      story: This was my second-place prize in the Cardenal Mendoza cocktail contest.
+        (My former employee at the Rainbow Room, Jeff Becker, won first. That didn't
+        hurt so bad; I trained him.)
+    glassware:
+    - slug: the
+      display_name: The
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: cardenal-mendoza-brandy
+      display_name: Cardenal Mendoza Brandy
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: galliano
+      display_name: Galliano
+      quantity: 0.25
+      unit: ounce
+      notes: []
+    - slug: pineapple-juice
+      display_name: Pineapple Juice
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: grenadine
+      display_name: Grenadine
+      quantity: 2
+      unit: dashes
+      notes: []
+    garnish:
+    - slug: flamed-orange-peel
+      display_name: Flamed Orange Peel
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Pour all the ingredients in the glass section of a Boston shaker
+    - text: Fill with cubed ice and shake hard to a slow count of ten (or to the count
+        of the first line of "Girl from Ipanema")
+    - text: Strain into a chilled martini glass
+    - text: Flame an orange peel over the surface of the drink and drop it into the
+        glass
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

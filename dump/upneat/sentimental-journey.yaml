@@ -1,0 +1,44 @@
+- slug: sentimental-journey
+  display_name: Sentimental Journey
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin:
+      creator: Brian Miller
+      location: Brian Miller
+      year: 2008
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: tanqueray-no-ten-gin
+      display_name: Tanqueray No Ten Gin
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: morro-bay-chardonnay
+      display_name: Morro Bay Chardonnay
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: cinnamon-bark-syrup
+      display_name: Cinnamon Bark Syrup
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    garnish:
+    - slug: lemon-peel
+      display_name: Lemon Peel
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Stir all the ingredients over ice, then strain into a coupe
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

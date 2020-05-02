@@ -1,0 +1,39 @@
+- slug: vermouth-cassis
+  display_name: Vermouth Cassis
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin: {}
+    glassware:
+    - slug: fill-a-white-wine-glass-three-fourths-full-of-ice
+      display_name: Fill A White Wine Glass Three Fourths Full Of Ice
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: cra-me-de-cassis
+      display_name: Cra Me De Cassis
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: dry-vermouth
+      display_name: Dry Vermouth
+      quantity: 4
+      unit: ounces
+      notes: []
+    garnish:
+    - slug: twist-of-lemon-peel
+      display_name: Twist Of Lemon Peel
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Fill a white-wine glass three-fourths full of ice
+    - text: Pour in the cassis and fill with the vermouth
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

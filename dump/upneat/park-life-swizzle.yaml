@@ -1,0 +1,63 @@
+- slug: park-life-swizzle
+  display_name: Park Life Swizzle
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin:
+      creator: Thomas Waugh
+      location: Thomas Waugh
+      year: 2009
+    glassware:
+    - slug: pilsner
+      display_name: Pilsner
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: ransom-old-tom-gin
+      display_name: Ransom Old Tom Gin
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: lustau-amontillado-sherry
+      display_name: Lustau Amontillado Sherry
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: velvet-falernum
+      display_name: Velvet Falernum
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: ginger-syrup
+      display_name: Ginger Syrup
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: angostura-bitters
+      display_name: Angostura Bitters
+      quantity: 6
+      unit: dashes
+      notes: []
+    garnish:
+    - slug: sprig-of-mint
+      display_name: Sprig Of Mint
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Dry shake all the ingredients (except the bitters), then dump into a pilsner
+        glass filled with crushed ice
+    - text: Top with the bitters
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

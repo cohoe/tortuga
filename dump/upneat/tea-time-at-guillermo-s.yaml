@@ -1,0 +1,65 @@
+- slug: tea-time-at-guillermo-s
+  display_name: Tea Time At Guillermo'S
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin:
+      creator: Jillian Vose
+      location: Jillian Vose
+      year: 2013
+    glassware:
+    - slug: stir-all-the-ingredients-over-ice-then-strain-into-an-old-fashioned-glass-over-1-large-ice-cube
+      display_name: Stir All The Ingredients Over Ice Then Strain Into An Old Fashioned
+        Glass Over 1 Large Ice Cube
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: fortaleza-reposado-tequila
+      display_name: Fortaleza Reposado Tequila
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: scarlet-ibis-rum
+      display_name: Scarlet Ibis Rum
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: queen-of-earl-tea-infused-siembra-azul-reposado-tequila
+      display_name: Queen Of Earl Tea Infused Siembra Azul Reposado Tequila
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: drambuie
+      display_name: Drambuie
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: maple-syrup
+      display_name: Maple Syrup
+      quantity: 1
+      unit: teaspoon
+      notes: []
+    - slug: house-orange-bitters
+      display_name: House Orange Bitters
+      quantity: 1
+      unit: dash
+      notes: []
+    - slug: fee-brothers-whiskey-barrel-aged-bitters
+      display_name: Fee Brothers Whiskey Barrel Aged Bitters
+      quantity: 1
+      unit: dash
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Stir all the ingredients over ice, then strain into an old-fashioned glass
+        over 1 large ice cube
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

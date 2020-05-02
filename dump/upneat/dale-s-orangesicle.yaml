@@ -1,0 +1,47 @@
+- slug: dale-s-orangesicle
+  display_name: Dale'S Orangesicle
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin: {}
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: orange-vodka
+      display_name: Orange Vodka
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: vanilla-vodka
+      display_name: Vanilla Vodka
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: cointreau
+      display_name: Cointreau
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: orange-juice
+      display_name: Orange Juice
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    garnish:
+    - slug: pinch-of-cinnamon
+      display_name: Pinch Of Cinnamon
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake all the ingredients with ice and strain over ice into a highball
+    - text: Dust with cinnamon
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

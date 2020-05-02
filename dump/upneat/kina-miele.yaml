@@ -1,0 +1,55 @@
+- slug: kina-miele
+  display_name: Kina Miele
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      creator: Sean Hoard
+      location: Sean Hoard
+      year: 2010
+      story: Kina alludes to "quinquinas," which employ quinine as the primary bittering
+        agent. Miele is Italian for honey, the base of Nonino's brilliant honey distillate.
+    glassware:
+    - slug: rocks
+      display_name: Rocks
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: dolin-dry-vermouth
+      display_name: Dolin Dry Vermouth
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: cocchi-americano
+      display_name: Cocchi Americano
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: nonino-gioiello
+      display_name: Nonino Gioiello
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: clear-creek-pear-brandy
+      display_name: Clear Creek Pear Brandy
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: the-bitter-truth-lemon-bitters
+      display_name: The Bitter Truth Lemon Bitters
+      quantity: 1
+      unit: dash
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Stir with ice and strain over one large cube into a chilled rocks glass
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

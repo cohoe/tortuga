@@ -1,0 +1,43 @@
+- slug: cafe-arroz
+  display_name: Café Arroz
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      creator: Jim Meehan
+      location: Jim Meehan
+      year: 2008
+      story: Tequila and horchata, two staples of Mexican cuisine, just happen to
+        work really well in place of vodka and cream in the White Russian cocktail.
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: horchata
+      display_name: Horchata
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: gran-centenario-reposado-tequila
+      display_name: Gran Centenario Reposado Tequila
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: kahlua
+      display_name: Kahlua
+      quantity: 0.5
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake with ice and strain into a chilled coupe
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

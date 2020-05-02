@@ -1,0 +1,58 @@
+- slug: pit-stop-flip
+  display_name: Pit Stop Flip
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin:
+      creator: Alex Day
+      location: Alex Day
+      year: 2008
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: lairds-bonded-apple-brandy
+      display_name: Lairds Bonded Apple Brandy
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: sandeman-rainwater-madeira
+      display_name: Sandeman Rainwater Madeira
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: maple-syrup
+      display_name: Maple Syrup
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: yolk
+      display_name: Yolk
+      quantity: 1
+      unit: Egg
+      notes: []
+    - slug: heavy-cream
+      display_name: Heavy Cream
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    garnish:
+    - slug: nutmeg
+      display_name: Nutmeg
+      notes: []
+    - slug: slice-of-apple
+      display_name: Slice Of Apple
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Dry shake all the ingredients, then shake again with ice
+    - text: Double strain into a coupe
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

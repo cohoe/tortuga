@@ -1,0 +1,43 @@
+- slug: rose
+  display_name: Rose
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      creator: Adolphe Torelli
+      location: Adolphe Torelli
+      year: 1920
+      story: Johnny Mitta, a barman at the Hotel Chatham in Paris, created this cocktail
+        in the 1920s.
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: noilly-prat-dry-vermouth
+      display_name: Noilly Prat Dry Vermouth
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: clear-creek-kirschwasser
+      display_name: Clear Creek Kirschwasser
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: bonne-maman-raspberry-preserves
+      display_name: Bonne Maman Raspberry Preserves
+      quantity: 1
+      unit: barspoon
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Stir with ice, then fine-strain into a chilled coupe
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

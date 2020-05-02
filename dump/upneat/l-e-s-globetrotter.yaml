@@ -1,0 +1,50 @@
+- slug: l-e-s-globetrotter
+  display_name: L.E.S. Globetrotter
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      creator: Johnny Iuzzini
+      location: Johnny Iuzzini
+      year: 2008
+      story: "Renowned pastry chef Johnny Iuzzini created this twist on the Cock \x91\
+        N' Bull Special from Ted Saucier's Bottoms Up while tending bar at PDT."
+    glassware:
+    - slug: rocks
+      display_name: Rocks
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: wild-turkey-rye-whiskey
+      display_name: Wild Turkey Rye Whiskey
+      quantity: 1.25
+      unit: oz
+      notes: []
+    - slug: hine-v-s-o-p-cognac
+      display_name: Hine V S O P Cognac
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: benedictine
+      display_name: Benedictine
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: rhum-clement-creole-shrub
+      display_name: Rhum Clement Creole Shrub
+      quantity: 0.5
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Stir with ice and strain over an ice sphere into a chilled rocks glass
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

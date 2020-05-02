@@ -1,0 +1,50 @@
+- slug: lynchburg-lemonade-dale-s-version
+  display_name: Lynchburg Lemonade (Dale'S Version)
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin: {}
+    glassware:
+    - slug: highball
+      display_name: Highball
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: jack-daniels-tennessee-whiskey
+      display_name: Jack Daniels Tennessee Whiskey
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: cointreau
+      display_name: Cointreau
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: 7-up
+      display_name: 7 Up
+      notes: []
+    garnish:
+    - slug: wedge-lemon
+      display_name: Wedge Lemon
+      notes: []
+    - slug: slice-orange
+      display_name: Slice Orange
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake the first three ingredients with ice and strain into an ice-filled
+        highball glass
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

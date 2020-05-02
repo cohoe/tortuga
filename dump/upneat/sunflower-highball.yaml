@@ -1,0 +1,44 @@
+- slug: sunflower-highball
+  display_name: Sunflower Highball
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin: {}
+    glassware:
+    - slug: highball
+      display_name: Highball
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: absolut-vodka
+      display_name: Absolut Vodka
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: licor-43
+      display_name: Licor 43
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: orange-juice
+      display_name: Orange Juice
+      quantity: 5
+      unit: ounces
+      notes: []
+    garnish:
+    - slug: nutmeg
+      display_name: Nutmeg
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Build over ice in a highball glass
+    - text: Dust with the nutmeg
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

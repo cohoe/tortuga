@@ -1,0 +1,58 @@
+- slug: harry-s-harveys-punch
+  display_name: Harry'S Harveys Punch
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin:
+      story: This cocktail was named after Harry Dwoskin, who into his nineties would
+        throw an elaborate birthday party for himself each year. Harry was fastidious
+        with his money and claimed he had enough to cover the parties through his
+        104th birthday. I created this drink for his ninetieth at the Rainbow Room.
+        He liked it so much that he served it at every birthday party until his last
+        one at age ninety-six.
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: harveys-bristol-cream-sherry
+      display_name: Harveys Bristol Cream Sherry
+      quantity: 2
+      unit: ounces
+      notes: []
+    - slug: maraschino-liqueur
+      display_name: Maraschino Liqueur
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: orange-juice
+      display_name: Orange Juice
+      quantity: 3
+      unit: ounces
+      notes: []
+    - slug: dash-angostura-bitters
+      display_name: Dash Angostura Bitters
+      notes: []
+    garnish:
+    - slug: sprig-of-mint
+      display_name: Sprig Of Mint
+      notes: []
+    - slug: slice-orange
+      display_name: Slice Orange
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake all the ingredients with ice and strain into a large goblet
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

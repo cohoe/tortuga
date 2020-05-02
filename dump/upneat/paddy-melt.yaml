@@ -1,0 +1,55 @@
+- slug: paddy-melt
+  display_name: Paddy Melt
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin:
+      creator: JS
+      location: JS
+      year: 2011
+      story: JOAQUÍN SIMÓ, 2011 Guests who swear up and down that they hate whiskey
+        will gulp down four of these in an evening.
+    glassware:
+    - slug: fizz
+      display_name: Fizz
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: knappogue-castle-12-year-irish-whiskey
+      display_name: Knappogue Castle 12 Year Irish Whiskey
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: chamomile-infused-old-overholt-rye-whiskey
+      display_name: Chamomile Infused Old Overholt Rye Whiskey
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: amaro-meletti
+      display_name: Amaro Meletti
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: rich-cane-sugar-syrup
+      display_name: Rich Cane Sugar Syrup
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake all the ingredients with ice, then strain into a fancy fizz glass
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

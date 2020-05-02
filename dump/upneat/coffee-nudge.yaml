@@ -1,0 +1,46 @@
+- slug: coffee-nudge
+  display_name: Coffee Nudge
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin: {}
+    glassware:
+    - slug: coffee
+      display_name: Coffee
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: brandy
+      display_name: Brandy
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: dark-cra-me-de-cacao
+      display_name: Dark Cra Me De Cacao
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: coffee-liqueur
+      display_name: Coffee Liqueur
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: hot-coffee
+      display_name: Hot Coffee
+      notes: []
+    - slug: whipped-cream-unsweetened
+      display_name: Whipped Cream Unsweetened
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Build in an Irish coffee glass and float the cream on top
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

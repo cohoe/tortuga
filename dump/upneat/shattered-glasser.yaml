@@ -1,0 +1,61 @@
+- slug: shattered-glasser
+  display_name: Shattered Glasser
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin:
+      creator: Phil Ward
+      location: Phil Ward
+      year: 2008
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: el-tesoro-reposado-tequila
+      display_name: El Tesoro Reposado Tequila
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: los-amantes-joven-mezcal
+      display_name: Los Amantes Joven Mezcal
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: carpano-antica-formula-vermouth
+      display_name: Carpano Antica Formula Vermouth
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: van-oosten-batavia-arrack
+      display_name: Van Oosten Batavia Arrack
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: st-elizabeth-allspice-dram
+      display_name: St Elizabeth Allspice Dram
+      quantity: 0.25
+      unit: ounce
+      notes: []
+    - slug: benedictine
+      display_name: Benedictine
+      quantity: 0.25
+      unit: ounce
+      notes: []
+    - slug: bittermens-xocolatl-mole-bitters
+      display_name: Bittermens Xocolatl Mole Bitters
+      quantity: 2
+      unit: dashes
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Stir all the ingredients over ice, then strain into a coupe
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

@@ -1,0 +1,57 @@
+- slug: miami-iced-tea
+  display_name: Miami Iced Tea
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin: {}
+    glassware:
+    - slug: tall
+      display_name: Tall
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: vodka
+      display_name: Vodka
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: gin
+      display_name: Gin
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: rum
+      display_name: Rum
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: peach-schnapps
+      display_name: Peach Schnapps
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: cranberry-juice
+      display_name: Cranberry Juice
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: 7-up
+      display_name: 7 Up
+      notes: []
+    garnish:
+    - slug: wedge-lemon
+      display_name: Wedge Lemon
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Build over ice in a tall glass
+    - text: Fill with 7-Up
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

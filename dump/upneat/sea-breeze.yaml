@@ -1,0 +1,52 @@
+- slug: sea-breeze
+  display_name: Sea Breeze
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin:
+      year: 1960
+      story: The Sea Breeze was created as a promotion by Ocean Spray Company in the
+        sixties to take advantage of the growing popularity of vodka. They even participated
+        in the release of a new spirit product called Tropico (not to be confused
+        with today's Bacardi Tropico) that was a blend of Don Cossack vodka and cranberry
+        juice. The Seagram Company used the Sea Breeze to promote its aged Ancient
+        Golden Gin in the 1960s and set the stage for the tremendous popularity of
+        the Cosmopolitan.
+    glassware:
+    - slug: highball
+      display_name: Highball
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: vodka
+      display_name: Vodka
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: grapefruit-juice
+      display_name: Grapefruit Juice
+      quantity: 4
+      unit: ounces
+      notes: []
+    - slug: cranberry-juice
+      display_name: Cranberry Juice
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    garnish:
+    - slug: wedge-of-lime
+      display_name: Wedge Of Lime
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Pour the vodka into an iced highball glass
+    - text: Fill partially with the grapefruit juice and top with the cranberry juice
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

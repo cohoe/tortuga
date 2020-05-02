@@ -1,0 +1,50 @@
+- slug: rob-roy
+  display_name: Rob Roy
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin:
+      year: 1930
+      story: "Bill Grimes, in his wonderful book Straight Up or On the Rocks, reveals\
+        \ the origin of the name of this scotch Manhattan: a Broadway show called\
+        \ Rob Roy. In the original The Savoy Cocktail Book (1930), Harry Craddock\
+        \ calls for equal parts of scotch, sweet vermouth, and dry vermouth, but that\
+        \ might be a tad sweet for today's drinker. This is also called Affinity."
+    glassware:
+    - slug: mixing
+      display_name: Mixing
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: scotch-whisky
+      display_name: Scotch Whisky
+      quantity: 2.5
+      unit: ounces
+      notes: []
+    - slug: sweet-italian-vermouth
+      display_name: Sweet Italian Vermouth
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: angostura-bitters
+      display_name: Angostura Bitters
+      quantity: 1
+      unit: dash
+      notes: []
+    garnish:
+    - slug: lemon-peel
+      display_name: Lemon Peel
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Pour all the ingredients over ice in a mixing glass and stir as you would
+        a Martini
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

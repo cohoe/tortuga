@@ -1,0 +1,56 @@
+- slug: margarita
+  display_name: Margarita
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin:
+      creator: and another. Later
+      location: and another. Later
+      story: One day Joe came in with Gerard Pangaud, who announced that he had just
+        won the Margarita contest in Paris and challenged me to make one. They began
+        to sip several versions of my Margarita, trying to determine the perfect proportions
+        of lime juice, Cointreau, and Cuervo Gold down to the milliliter. While they
+        were drinking all those Margaritas, I tried to cut them oM because Joe was
+        getting drunk. But he just snarled at me that he owned the joint and ordered
+        another one
+    glassware:
+    - slug: mixing
+      display_name: Mixing
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: tequila
+      display_name: Tequila
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: cointreau
+      display_name: Cointreau
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    garnish:
+    - slug: salt
+      display_name: Salt
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Combine the ingredients in a mixing glass with ice
+    - text: Shake well and strain into a chilled cocktail glass with a salted rim
+    - text: 'Salting the rim: Rim the edge of the cocktail glass by rubbing a lime
+        piece on the outside rim of the glass, then dipping the outside rim into a
+        saucer of coarse salt'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

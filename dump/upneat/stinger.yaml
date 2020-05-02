@@ -1,0 +1,38 @@
+- slug: stinger
+  display_name: Stinger
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin:
+      story: The classic New York nightcap.
+    glassware:
+    - slug: shake-both-ingredients-with-ice-and-strain-into-an-old-fashioned-glass-filled-with-crushed-ice
+      display_name: Shake Both Ingredients With Ice And Strain Into An Old Fashioned
+        Glass Filled With Crushed Ice
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: cognac
+      display_name: Cognac
+      quantity: 2
+      unit: ounces
+      notes: []
+    - slug: white-cra-me-de-menthe
+      display_name: White Cra Me De Menthe
+      quantity: 1
+      unit: ounce
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake both ingredients with ice and strain into an old-fashioned glass
+        filled with crushed ice
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

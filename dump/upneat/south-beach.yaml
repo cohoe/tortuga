@@ -1,0 +1,52 @@
+- slug: south-beach
+  display_name: South Beach
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin:
+      year: 1992
+      story: I created this one for the Paddington Spirit Distributors Company in
+        1992 to find Campari cocktails that were less bitter and would appeal to the
+        American palate. This one worked.
+    glassware:
+    - slug: martini
+      display_name: Martini
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: campari
+      display_name: Campari
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: amaretto
+      display_name: Amaretto
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: orange-juice
+      display_name: Orange Juice
+      quantity: 2
+      unit: ounces
+      notes: []
+    - slug: simple-syrup-optional
+      display_name: Simple Syrup Optional
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    garnish:
+    - slug: flamed-orange-peel
+      display_name: Flamed Orange Peel
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake all the ingredients with ice and strain into a martini glass
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

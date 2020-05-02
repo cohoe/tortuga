@@ -1,0 +1,58 @@
+- slug: ty-cobbler
+  display_name: Ty Cobbler
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin:
+      creator: Phil Ward
+      location: Phil Ward
+      year: 2008
+    glassware:
+    - slug: rocks
+      display_name: Rocks
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: cherry
+      display_name: Cherry
+      quantity: 3
+      unit: Brandied
+      notes: []
+    - slug: of-white-sugar
+      display_name: Of White Sugar
+      quantity: 1
+      unit: cube
+      notes: []
+    - slug: siete-leguas-blanco-tequila
+      display_name: Siete Leguas Blanco Tequila
+      quantity: 2
+      unit: ounces
+      notes: []
+    - slug: cynar
+      display_name: Cynar
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: bittermens-xocolatl-mole-bitters
+      display_name: Bittermens Xocolatl Mole Bitters
+      quantity: 1
+      unit: dash
+      notes: []
+    garnish:
+    - slug: wheel-of-orange
+      display_name: Wheel Of Orange
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: In a shaker, muddle the cherries and sugar cube
+    - text: Add the remaining ingredients and dry shake
+    - text: Dump into a double rocks glass filled with crushed ice
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

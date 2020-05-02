@@ -1,0 +1,68 @@
+- slug: melancholy-summer
+  display_name: Melancholy Summer
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin:
+      creator: Eryn Reece
+      location: Eryn Reece
+      year: 2013
+    glassware:
+    - slug: nora
+      display_name: Nora
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: of-cucumber
+      display_name: Of Cucumber
+      quantity: 2
+      unit: wheels
+      notes: []
+    - slug: lustau-manzanilla-sherry
+      display_name: Lustau Manzanilla Sherry
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: fords-gin
+      display_name: Fords Gin
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: suze-saveur-dautrefois-liqueur
+      display_name: Suze Saveur Dautrefois Liqueur
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: cantaloupe-juice
+      display_name: Cantaloupe Juice
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: acacia-honey-syrup
+      display_name: Acacia Honey Syrup
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    garnish:
+    - slug: ribbon-of-cucumber
+      display_name: Ribbon Of Cucumber
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: In a shaker, muddle the cucumber wheels
+    - text: Add the remaining ingredients and shake with ice
+    - text: Double strain into a Nick & Nora glass
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

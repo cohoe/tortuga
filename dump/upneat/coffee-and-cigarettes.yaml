@@ -1,0 +1,48 @@
+- slug: coffee-and-cigarettes
+  display_name: Coffee And Cigarettes
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin:
+      creator: Thomas Waugh
+      location: Thomas Waugh
+      year: 2011
+    glassware:
+    - slug: martini
+      display_name: Martini
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: caol-ila-12-year-scotch-whisky
+      display_name: Caol Ila 12 Year Scotch Whisky
+      quantity: 2
+      unit: ounces
+      notes: []
+    - slug: galliano-ristretto
+      display_name: Galliano Ristretto
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: carpano-antica-formula-vermouth
+      display_name: Carpano Antica Formula Vermouth
+      quantity: 1
+      unit: teaspoon
+      notes: []
+    - slug: bittermens-xocolatl-mole-bitters
+      display_name: Bittermens Xocolatl Mole Bitters
+      quantity: 2
+      unit: dashes
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Stir all the ingredients over ice, then strain into a martini glass
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

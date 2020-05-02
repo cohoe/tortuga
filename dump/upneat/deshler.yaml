@@ -1,0 +1,48 @@
+- slug: deshler
+  display_name: Deshler
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      creator: Hugo Enslin
+      location: Hugo Enslin
+      year: 1916
+      story: This stout Manhattan variation was named after lightweight boxer Dave
+        Deshler.
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: rittenhouse-bonded-rye-whiskey
+      display_name: Rittenhouse Bonded Rye Whiskey
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: dubonnet-rouge
+      display_name: Dubonnet Rouge
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: cointreau
+      display_name: Cointreau
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: peychauds-bitters
+      display_name: Peychauds Bitters
+      quantity: 2
+      unit: dashes
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Stir with ice and strain into a chilled coupe
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

@@ -1,0 +1,53 @@
+- slug: la-rosita
+  display_name: La Rosita
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin: {}
+    glassware:
+    - slug: nora
+      display_name: Nora
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: el-tesoro-reposado-tequila
+      display_name: El Tesoro Reposado Tequila
+      quantity: 2
+      unit: ounces
+      notes: []
+    - slug: campari
+      display_name: Campari
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: cocchi-vermouth-di-torino
+      display_name: Cocchi Vermouth Di Torino
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: dolin-dry-vermouth
+      display_name: Dolin Dry Vermouth
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: angostura-bitters
+      display_name: Angostura Bitters
+      quantity: 1
+      unit: dash
+      notes: []
+    garnish:
+    - slug: orange-peel
+      display_name: Orange Peel
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Stir all the ingredients over ice, then strain into a Nick & Nora glass
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

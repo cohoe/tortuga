@@ -1,0 +1,52 @@
+- slug: prairie-oyster
+  display_name: Prairie Oyster
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin:
+      story: No cocktail book would be complete without this frontier chestnut. The
+        idea was to get some vitamins back in the body as soon as possible after a
+        "busy" night. These days, of course, you can pop a multivitamin and an aspirin
+        before bed and avoid gulping whole raw eggs the next day. But for traditionalistsÂ…
+    glassware:
+    - slug: small
+      display_name: Small
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: malt-vinegar
+      display_name: Malt Vinegar
+      quantity: 1
+      unit: dash
+      notes: []
+    - slug: whole-of-a-small-egg-yolk
+      display_name: Whole Of A Small Egg Yolk
+      notes: []
+    - slug: worcestershire-sauce
+      display_name: Worcestershire Sauce
+      quantity: 0.5
+      unit: teaspoon
+      notes: []
+    - slug: tomato-ketchup
+      display_name: Tomato Ketchup
+      quantity: 0.5
+      unit: teaspoon
+      notes: []
+    - slug: tabasco-sauce
+      display_name: Tabasco Sauce
+      quantity: 2
+      unit: dashes
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Place all the ingredients in a small glass in the order listed
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

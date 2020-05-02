@@ -1,0 +1,56 @@
+- slug: great-pumpkin
+  display_name: Great Pumpkin
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      creator: Jim Meehan
+      location: Jim Meehan
+      year: 2008
+      story: Nothing sums up the thrill of fall in the Northeast better than Charles
+        Schulz's masterpiece, "It's the Great Pumpkin, Charlie Brown."
+    glassware:
+    - slug: mixing
+      display_name: Mixing
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: southampton-pumpkin-ale
+      display_name: Southampton Pumpkin Ale
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: rittenhouse-bonded-rye-whiskey
+      display_name: Rittenhouse Bonded Rye Whiskey
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: lairds-bonded-apple-brandy
+      display_name: Lairds Bonded Apple Brandy
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: deep-mountain-grade-b-maple-syrup
+      display_name: Deep Mountain Grade B Maple Syrup
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: egg
+      display_name: Egg
+      quantity: 1
+      unit: Whole
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Add everything to a mixing glass and swirl to decarbonate beer
+    - text: Dry-shake, then shake with ice and strain into a chilled fizz glass
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

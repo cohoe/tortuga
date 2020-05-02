@@ -1,0 +1,48 @@
+- slug: negroni
+  display_name: Negroni
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin:
+      year: 1920
+      story: Created in Florence, Italy, in the 1920s, at the Casoni Bar, when customer
+        Count Camillo Negroni asked the barman to add gin to his Americano. This drink
+        can be made with vodka in place of gin.
+    glassware:
+    - slug: combine-all-the-ingredients-in-an-iced-old-fashioned-glass-and-stir
+      display_name: Combine All The Ingredients In An Iced Old Fashioned Glass And
+        Stir
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: campari
+      display_name: Campari
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: sweet-vermouth
+      display_name: Sweet Vermouth
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: gin
+      display_name: Gin
+      quantity: 1
+      unit: ounce
+      notes: []
+    garnish:
+    - slug: flamed-orange-peel
+      display_name: Flamed Orange Peel
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Combine all the ingredients in an iced old-fashioned glass and stir
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

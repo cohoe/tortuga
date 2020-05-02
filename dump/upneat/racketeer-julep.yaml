@@ -1,0 +1,65 @@
+- slug: racketeer-julep
+  display_name: Racketeer Julep
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin:
+      creator: Jessica Gonzalez
+      location: Jessica Gonzalez
+      year: 2009
+    glassware: []
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: sprig-of-mint
+      display_name: Sprig Of Mint
+      notes: []
+    - slug: bols-genever
+      display_name: Bols Genever
+      quantity: 2
+      unit: ounces
+      notes: []
+    - slug: smith-cross-rum
+      display_name: Smith Cross Rum
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: demerara-syrup
+      display_name: Rich Demerara Syrup
+      quantity: 1
+      unit: teaspoon
+      notes: []
+    - slug: vanilla-syrup
+      display_name: Vanilla Syrup
+      quantity: 1
+      unit: teaspoon
+      notes: []
+    - slug: bitter-truth-aromatic-bitters
+      display_name: Bitter Truth Aromatic Bitters
+      quantity: 1
+      unit: dash
+      notes: []
+    garnish:
+    - slug: bouquet-of-mint
+      display_name: Bouquet Of Mint
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Rub the mint around the inside of a julep tin and discard
+    - text: Put the remaining ingredients (except the bitters) in the tin
+    - text: Fill the tin halfway with crushed ice
+    - text: Stir with a teaspoon, churning the ice as you go, for about 10 seconds,
+        holding the tin by the rim so the entire tin can eventually frost up
+    - text: Add more crushed ice to fill the tin two-thirds full and stir until the
+        tin is completely frosted
+    - text: Add more ice to form a cone above the rim
+    - text: Top with the bitters
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

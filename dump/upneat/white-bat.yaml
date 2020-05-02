@@ -1,0 +1,46 @@
+- slug: white-bat
+  display_name: White Bat
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin: {}
+    glassware:
+    - slug: tall
+      display_name: Tall
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: bacardi-rum
+      display_name: Bacardi Rum
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: kahlaoa
+      display_name: Kahlaoa
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: milk-or-half-and-half
+      display_name: Milk Or Half And Half
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: coca-cola
+      display_name: Coca Cola
+      quantity: 3
+      unit: ounces
+      notes: []
+    garnish: []
+    straw: true
+    citations: []
+    notes: []
+    instructions:
+    - text: Build all the ingredients in a tall glass over ice
+    - text: Stir and serve with a straw
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

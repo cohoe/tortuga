@@ -1,0 +1,38 @@
+- slug: iceberg
+  display_name: Iceberg
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin: {}
+    glassware:
+    - slug: the
+      display_name: The
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: citrus-vodka
+      display_name: Citrus Vodka
+      quantity: 2
+      unit: ounces
+      notes: []
+    - slug: pernod
+      display_name: Pernod
+      quantity: 3
+      unit: dashes
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake the three dashes of Pernod into an empty old-fashioned glass and
+        swirl it around to coat the glass
+    - text: Toss out any excess
+    - text: Add ice and the vodka, and stir
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

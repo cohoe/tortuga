@@ -1,0 +1,35 @@
+- slug: king-alfonse
+  display_name: King Alfonse
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin: {}
+    glassware:
+    - slug: cordial
+      display_name: Cordial
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: dark-creme-de-cacao
+      display_name: Dark Creme De Cacao
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: heavy-cream
+      display_name: Heavy Cream
+      quantity: 1
+      unit: ounce
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Layer in a pousse-café or cordial glass
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

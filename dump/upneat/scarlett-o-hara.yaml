@@ -1,0 +1,42 @@
+- slug: scarlett-o-hara
+  display_name: Scarlett O'Hara
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin:
+      story: The Scarlett O'Hara was a promotion by the Ocean Spray Company in the
+        fifties.
+    glassware:
+    - slug: cocktail
+      display_name: Cocktail
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: southern-comfort
+      display_name: Southern Comfort
+      quantity: 2
+      unit: ounces
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: cranberry-juice
+      display_name: Cranberry Juice
+      quantity: 1
+      unit: ounce
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake all the ingredients with ice and strain into a small cocktail glass
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

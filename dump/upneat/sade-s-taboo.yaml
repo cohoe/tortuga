@@ -1,0 +1,46 @@
+- slug: sade-s-taboo
+  display_name: Sade'S Taboo
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin:
+      creator: Jessica Gonzalez
+      location: Jessica Gonzalez
+      year: 2009
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: hine-h-cognac
+      display_name: Hine H Cognac
+      quantity: 2
+      unit: ounces
+      notes: []
+    - slug: cocchi-americano
+      display_name: Cocchi Americano
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: dolin-rouge-vermouth
+      display_name: Dolin Rouge Vermouth
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: bittermens-hopped-grapefruit-bitters
+      display_name: Bittermens Hopped Grapefruit Bitters
+      quantity: 1
+      unit: dash
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Stir all the ingredients over ice, then strain into a coupe
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

@@ -1,0 +1,65 @@
+- slug: warehouse-c
+  display_name: Warehouse C
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin:
+      creator: Jillian Vose
+      location: Jillian Vose
+      year: 2013
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: 1-strawberry
+      display_name: 1 Strawberry
+      notes: []
+    - slug: buffalo-trace-bourbon
+      display_name: Buffalo Trace Bourbon
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 0.25
+      unit: ounce
+      notes: []
+    - slug: orgeat
+      display_name: Orgeat
+      quantity: 0.25
+      unit: ounce
+      notes: []
+    - slug: cinnamon-bark-syrup
+      display_name: Cinnamon Bark Syrup
+      quantity: 0.25
+      unit: ounce
+      notes: []
+    - slug: ginger-syrup
+      display_name: Ginger Syrup
+      quantity: 0.25
+      unit: ounce
+      notes: []
+    - slug: bitter-truth-aromatic-bitters
+      display_name: Bitter Truth Aromatic Bitters
+      quantity: 1
+      unit: dash
+      notes: []
+    garnish: []
+    straw: true
+    citations: []
+    notes: []
+    instructions:
+    - text: In a shaker, gently muddle the strawberry
+    - text: Add the remaining ingredients and shake with ice, then strain into a coupe
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

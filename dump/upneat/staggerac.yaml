@@ -1,0 +1,57 @@
+- slug: staggerac
+  display_name: Staggerac
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      creator: Don Lee
+      location: Don Lee
+      year: 2007
+      story: George T. Stagg is part of Buffalo Trace's acclaimed Antique Collection
+        of American Whiskies. The rare, unfiltered, barrel-proof whiskey tops the
+        charts at a whopping 70% ABV.
+    glassware:
+    - slug: rocks
+      display_name: Rocks
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: george-t-stagg-bourbon-whiskey
+      display_name: George T Stagg Bourbon Whiskey
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: peychauds-bitters
+      display_name: Peychauds Bitters
+      quantity: 3
+      unit: dashes
+      notes: []
+    - slug: angostura-bitters
+      display_name: Angostura Bitters
+      quantity: 2
+      unit: dashes
+      notes: []
+    - slug: sugar
+      display_name: Sugar
+      quantity: 1
+      unit: cube
+      notes: []
+    - slug: edouard-absinthe
+      display_name: Edouard Absinthe
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Muddle the sugar cube and bitters into a paste
+    - text: Add everything else, then stir with ice and strain into a chilled, Edouard
+        Absinthe-rinsed rocks glass
+    - text: Twist a lemon peel over the surface of the drink and discard
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

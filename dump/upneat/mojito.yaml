@@ -1,0 +1,72 @@
+- slug: mojito
+  display_name: Mojito
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin:
+      year: 1850
+      story: In Havana, Hemingway liked to have his Daiquiris at La Floridita and
+        his Mojitos at La Bodeguita del Medio. Although La Bodeguita is credited with
+        popularizing the Mojito, there's a lot of controversy about the drink's origin.
+        Some believe Constante Ribailagua of the Floridita made the first Mojito.
+        The Mint Julep made in the southern United States beginning in the late eighteenth
+        century from brandy, peach brandy, and eventually from bourbon was one of
+        the first American cocktails to get international recognition, and some believe
+        it sparked the creation of the rum version called Mojito in Cuba. The Mojito
+        was a farmer's drink, sort of the Budweiser of Cuba, with its origins sometime
+        between 1850, when the rum industry in Cuba modernized, in 1920. Those years
+        brought important elements of the drink to Cuba for the first time, like ice
+        and charged water. (The first shipments of ice arrived from New England in
+        the 1850s, but you can bet only the wealthy had access until the turn of the
+        century, when the first artificial ice plants began operation in Cuba.) A
+        spicy sauce of the same name is used in the islands to marinate meat, but
+        it seems to be unrelated to the drink.
+    glassware:
+    - slug: mixing
+      display_name: Mixing
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: sprigs-of-mint
+      display_name: Sprigs Of Mint
+      quantity: 2
+      unit: tender
+      notes: []
+    - slug: simple-syrup
+      display_name: Simple Syrup
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: light-rum
+      display_name: Light Rum
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: angostura-bitters-optional
+      display_name: Angostura Bitters Optional
+      quantity: 2
+      unit: dashes
+      notes: []
+    - slug: soda-water
+      display_name: Soda Water
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Muddle one mint sprig with the Simple Syrup and the lime juice in the
+        bottom of a mixing glass
+    - text: Add the rest of the ingredients and shake with ice
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

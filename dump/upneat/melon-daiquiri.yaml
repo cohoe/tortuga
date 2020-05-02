@@ -1,0 +1,46 @@
+- slug: melon-daiquiri
+  display_name: Melon Daiquiri
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin: {}
+    glassware: []
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: sake
+      display_name: Sake
+      quantity: 2
+      unit: ounces
+      notes: []
+    - slug: chopped-yellow-and-honeydew-melon
+      display_name: Chopped Yellow And Honeydew Melon
+      quantity: 0.75
+      unit: cup
+      notes: []
+    - slug: simple-syrup
+      display_name: Simple Syrup
+      quantity: 2
+      unit: ounces
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 1
+      unit: ounce
+      notes: []
+    garnish:
+    - slug: balls-of-melon
+      display_name: Balls Of Melon
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Blend all the ingredients with a handful of ice and serve in a large goblet
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

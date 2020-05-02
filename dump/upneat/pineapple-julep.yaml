@@ -1,0 +1,52 @@
+- slug: pineapple-julep
+  display_name: Pineapple Julep
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin: {}
+    glassware:
+    - slug: mixing
+      display_name: Mixing
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: tender
+      display_name: Tender
+      quantity: 'leaves of '
+      unit: '2'
+      notes: []
+    - slug: of-ripe-pineapple
+      display_name: Of Ripe Pineapple
+      quantity: 3
+      unit: wedges
+      notes: []
+    - slug: simple-syrup
+      display_name: Simple Syrup
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: bourbon-whiskey
+      display_name: Bourbon Whiskey
+      quantity: 2
+      unit: ounces
+      notes: []
+    garnish:
+    - slug: 2-tender-sprigs-of-mint
+      display_name: 2 Tender Sprigs Of Mint
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: In a mixing glass, muddle the mint leaves, pineapple wedges, and Simple
+        Syrup
+    - text: Add the bourbon and ice and shake well
+    - text: Strain into a highball glass filled with crushed ice and stir well until
+        the glass frosts
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

@@ -1,0 +1,61 @@
+- slug: harvest-sling
+  display_name: Harvest Sling
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      creator: John Deragon
+      location: John Deragon
+      year: 2007
+      story: According to David Wondrich, slings became popular around the turn of
+        the 19th century in America. Later, they took the form of mini punches, served
+        with citrus and liqueurs like this drink.
+    glassware:
+    - slug: collins
+      display_name: Collins
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: lairds-bonded-apple-brandy
+      display_name: Lairds Bonded Apple Brandy
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: martini-sweet-vermouth
+      display_name: Martini Sweet Vermouth
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: benedictine
+      display_name: Benedictine
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: cherry-heering
+      display_name: Cherry Heering
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: house-ginger-beer
+      display_name: House Ginger Beer
+      quantity: 0.5
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake with ice and strain into a chilled Collins glass filled with ice
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

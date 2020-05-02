@@ -1,0 +1,57 @@
+- slug: cherry-blossom
+  display_name: Cherry Blossom
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin:
+      year: 1930
+      story: "Adapted from Harry Craddock's Savoy Cocktail Book, 1930. Make this in\
+        \ the summer, when  cherries are available. Try di\x1Eerent varieties of cherries\
+        \ as they come into season; the sour cherries from upstate New York can add\
+        \ lots of zing to the cocktail."
+    glassware:
+    - slug: mixing
+      display_name: Mixing
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: cherries
+      display_name: Cherries
+      quantity: 5
+      unit: Sour
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: curaassao
+      display_name: Curaassao
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: peter-heering-cherry-heering
+      display_name: Peter Heering Cherry Heering
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: brandy
+      display_name: Brandy
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: In a mixing glass, muddle 4 or 5 cherries with the lemon juice and liqueurs
+    - text: Add the brandy and shake well with ice
+    - text: Strain into a chilled cocktail glass
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

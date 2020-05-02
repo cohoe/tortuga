@@ -1,0 +1,63 @@
+- slug: slap-n-pickle
+  display_name: Slap 'N' Pickle
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin:
+      creator: Brian Miller
+      location: Brian Miller
+      year: 2009
+    glassware:
+    - slug: rocks
+      display_name: Rocks
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: of-cucumber
+      display_name: Of Cucumber
+      quantity: 3
+      unit: wheels
+      notes: []
+    - slug: krogstad-aquavit
+      display_name: Krogstad Aquavit
+      quantity: 2
+      unit: ounces
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: simple-syrup
+      display_name: Simple Syrup
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: grenadine
+      display_name: Grenadine
+      quantity: 1
+      unit: teaspoon
+      notes: []
+    - slug: bitter-truth-celery-bitters
+      display_name: Bitter Truth Celery Bitters
+      quantity: 2
+      unit: dashes
+      notes: []
+    garnish:
+    - slug: 1-spear-cucumber
+      display_name: 1 Spear Cucumber
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: In a shaker, muddle the cucumber wheels
+    - text: Add the remaining ingredients and shake with ice, then double strain into
+        a double rocks glass over 1 large ice cube
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

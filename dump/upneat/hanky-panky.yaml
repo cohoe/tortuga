@@ -1,0 +1,48 @@
+- slug: hanky-panky
+  display_name: Hanky Panky
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin: {}
+    glassware:
+    - slug: nora
+      display_name: Nora
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: fords-gin
+      display_name: Fords Gin
+      quantity: 2
+      unit: ounces
+      notes: []
+    - slug: contratto-americano-rosso-vermouth
+      display_name: Contratto Americano Rosso Vermouth
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: carpano-antica-formula-vermouth
+      display_name: Carpano Antica Formula Vermouth
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: fernet-branca
+      display_name: Fernet Branca
+      quantity: 0.25
+      unit: ounce
+      notes: []
+    garnish:
+    - slug: lemon-peel
+      display_name: Lemon Peel
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Stir all the ingredients over ice, then strain into a Nick & Nora glass
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

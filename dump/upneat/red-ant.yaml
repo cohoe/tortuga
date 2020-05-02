@@ -1,0 +1,61 @@
+- slug: red-ant
+  display_name: Red Ant
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin:
+      creator: Thomas Waugh
+      location: Thomas Waugh
+      year: 2011
+    glassware:
+    - slug: martini
+      display_name: Martini
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: rittenhouse-100-rye-whiskey
+      display_name: Rittenhouse 100 Rye Whiskey
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: del-maguey-chichicapa-mezcal
+      display_name: Del Maguey Chichicapa Mezcal
+      quantity: 1
+      unit: teaspoon
+      notes: []
+    - slug: massenez-kirsch-vieux-cherry-brandy
+      display_name: Massenez Kirsch Vieux Cherry Brandy
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: cherry-heering
+      display_name: Cherry Heering
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: cinnamon-bark-syrup
+      display_name: Cinnamon Bark Syrup
+      quantity: 0.5
+      unit: teaspoon
+      notes: []
+    - slug: bittermens-xocolatl-mole-bitters
+      display_name: Bittermens Xocolatl Mole Bitters
+      quantity: 2
+      unit: dashes
+      notes: []
+    garnish:
+    - slug: 3-skewered-brandied-cherry
+      display_name: 3 Skewered Brandied Cherry
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Stir all the ingredients over ice, then strain into a martini glass
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

@@ -1,0 +1,72 @@
+- slug: luau
+  display_name: Luau
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      creator: Gerry Corcoran
+      location: Gerry Corcoran
+      year: 2009
+      story: "A variation upon the Luau Grog published in Jeff Berry's Sippin'safari,\
+        \ Gerry created this cocktail for two of our regulars: Gina Haase and Jack\
+        \ Fetterman."
+    glassware:
+    - slug: rocks
+      display_name: Rocks
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: wray-nephew-overproof-rum
+      display_name: Wray Nephew Overproof Rum
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: appleton-estate-v-x-rum
+      display_name: Appleton Estate V X Rum
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: el-dorado-15-year-old-rum
+      display_name: El Dorado 15 Year Old Rum
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: simple-syrup
+      display_name: Simple Syrup
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: boiron-passion-fruit-puree
+      display_name: Boiron Passion Fruit Puree
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: kassatly-chtaura-orgeat
+      display_name: Kassatly Chtaura Orgeat
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: angostura-bitters
+      display_name: Angostura Bitters
+      quantity: 1
+      unit: dash
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake with ice and strain into a chilled rocks glass filled with pebble
+        ice
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

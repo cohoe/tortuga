@@ -1,0 +1,61 @@
+- slug: leapfrog
+  display_name: Leapfrog
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      creator: Jim Meehan
+      location: Jim Meehan
+      year: 2007
+      story: In The Ideal Bartender Tom Bullock lists a Leaping Frog cocktail prepared
+        with Hungarian Apricot Brandy and lime juice. I built upon the foundation,
+        adding gin, mint, and bitters.
+    glassware: []
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: plymouth-gin
+      display_name: Plymouth Gin
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: rothman-winter-orchard-apricot-liqueur
+      display_name: Rothman Winter Orchard Apricot Liqueur
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: simple-syrup
+      display_name: Simple Syrup
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: house-orange-bitters
+      display_name: House Orange Bitters
+      quantity: 2
+      unit: dashes
+      notes: []
+    - slug: mint
+      display_name: Mint
+      quantity: 6
+      unit: leaves
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Muddle the mint leaves with the simple syrup
+    - text: Add everything else, then shake with ice and fine-strain into a chilled
+        coupe
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

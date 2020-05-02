@@ -1,0 +1,61 @@
+- slug: golden-beautiful
+  display_name: Golden Beautiful
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin:
+      creator: Thomas Waugh
+      location: Thomas Waugh
+      year: 2009
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: siete-leguas-reposado-tequila
+      display_name: Siete Leguas Reposado Tequila
+      quantity: 2
+      unit: ounces
+      notes: []
+    - slug: campari
+      display_name: Campari
+      quantity: 0.25
+      unit: ounce
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: vanilla-syrup
+      display_name: Vanilla Syrup
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: passion-fruit-syrup
+      display_name: Passion Fruit Syrup
+      quantity: 0.25
+      unit: ounce
+      notes: []
+    - slug: club-soda
+      display_name: Club Soda
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    garnish:
+    - slug: lime-zest
+      display_name: Lime Zest
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Short shake all the ingredients (except the club soda) with 3 ice cubes,
+        then strain into a snifter over 1 large ice cube
+    - text: Top with the club soda
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

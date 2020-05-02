@@ -1,0 +1,49 @@
+- slug: duboudreau-cocktail
+  display_name: Duboudreau Cocktail
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      creator: Jim Meehan
+      location: Jim Meehan
+      year: 2009
+      story: Seattle-based mixologist Jamie Boudreau created a Fernet and elderflower-accented
+        rye cocktail called the Cooper Cocktail. I added Dubonnet and named it after
+        him.
+    glassware: []
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: rittenhouse-bonded-rye-whiskey
+      display_name: Rittenhouse Bonded Rye Whiskey
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: dubonnet-rouge
+      display_name: Dubonnet Rouge
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: fernet-branca
+      display_name: Fernet Branca
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: st-germain-elderflower-liqueur
+      display_name: St Germain Elderflower Liqueur
+      quantity: 0.25
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: a lemon twist
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

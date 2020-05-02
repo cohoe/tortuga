@@ -1,0 +1,46 @@
+- slug: orange-breeze
+  display_name: Orange Breeze
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin: {}
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: stolichnaya-ohranj-vodka
+      display_name: Stolichnaya Ohranj Vodka
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: cointreau
+      display_name: Cointreau
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: orange-juice
+      display_name: Orange Juice
+      quantity: 3
+      unit: ounces
+      notes: []
+    - slug: cranberry-juice
+      display_name: Cranberry Juice
+      quantity: 3
+      unit: ounces
+      notes: []
+    garnish:
+    - slug: slice-of-orange
+      display_name: Slice Of Orange
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Build in a large goblet with ice and stir
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

@@ -1,0 +1,51 @@
+- slug: master-cleanse
+  display_name: Master Cleanse
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      creator: Lydia Reissmueller
+      location: Lydia Reissmueller
+      year: 2009
+      story: This cocktail was inspired by Stanley Burroughs's detox cocktail, composed
+        of lemonade, maple syrup, and cayenne pepper.
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: lairds-bonded-apple-brandy
+      display_name: Lairds Bonded Apple Brandy
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: deep-mountain-grade-b-maple-syrup
+      display_name: Deep Mountain Grade B Maple Syrup
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: 2-25-inch-slices-seeded-jalapeno
+      display_name: 2 25 Inch Slices Seeded Jalapeno
+      notes: []
+    - slug: herb-pharm-goldenseal-tincture
+      display_name: Herb Pharm Goldenseal Tincture
+      quantity: 20
+      unit: drops
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake with ice and fine-strain into a chilled coupe
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

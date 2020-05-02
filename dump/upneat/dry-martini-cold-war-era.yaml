@@ -1,0 +1,44 @@
+- slug: dry-martini-cold-war-era
+  display_name: Dry Martini (Cold War Era)
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin:
+      year: 1960
+      story: After the Second World War, gin was still king, but the amount of vermouth
+        in a Martini began to diminish dramatically. By 1960, the Martini was a lethal
+        11 parts gin to 1 part vermouth.
+    glassware:
+    - slug: mixing
+      display_name: Mixing
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: dry-french-vermouth
+      display_name: Dry French Vermouth
+      quantity: 3
+      unit: dashes
+      notes: []
+    - slug: gin
+      display_name: Gin
+      quantity: 2
+      unit: ounces
+      notes: []
+    garnish:
+    - slug: pitted-cocktail-olive
+      display_name: Pitted Cocktail Olive
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Stir the ingredients with ice in a mixing glass (50 times if using large
+        ice cubes, 30 times if using small cubes)
+    - text: Strain into a chilled martini glass
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

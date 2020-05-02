@@ -1,0 +1,62 @@
+- slug: zombie-punch
+  display_name: Zombie Punch
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin: {}
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: appleton-estate-v-x-rum
+      display_name: Appleton Estate V X Rum
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: ron-del-barrilito-3-star-rum
+      display_name: Ron Del Barrilito 3 Star Rum
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: lemon-hart-151-rum
+      display_name: Lemon Hart 151 Rum
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: zombie-mix
+      display_name: Zombie Mix
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: donns-spices-2
+      display_name: Donns Spices 2
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: angostura-bitters
+      display_name: Angostura Bitters
+      quantity: 1
+      unit: dash
+      notes: []
+    garnish:
+    - slug: sprig-of-mint
+      display_name: Sprig Of Mint
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake all the ingredients with 2 ice cubes, then strain into a tiki mug
+        filled with crushed ice
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

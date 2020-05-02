@@ -1,0 +1,56 @@
+- slug: knickerbein-cocktail
+  display_name: Knickerbein Cocktail
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin:
+      story: This is an unusual name for a rich cocktail that will take the place
+        of dessert.
+    glassware:
+    - slug: shaker
+      display_name: Shaker
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: curaassao
+      display_name: Curaassao
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: maraschino-liqueur
+      display_name: Maraschino Liqueur
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: vs-cognac
+      display_name: Vs Cognac
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: egg
+      display_name: Egg
+      quantity: 1
+      unit: ounce
+      notes: []
+    garnish:
+    - slug: nutmeg
+      display_name: Nutmeg
+      notes: []
+    - slug: orange-zest
+      display_name: Orange Zest
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Add all the ingredients to a cocktail shaker glass with ice and shake
+        very well to completely emulsify the egg
+    - text: Serve in a frosted London dock glass and dust with the nutmeg and orange
+        zest
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

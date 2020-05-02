@@ -1,0 +1,57 @@
+- slug: caricature-cocktail
+  display_name: Caricature Cocktail
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin:
+      story: Created by Gary and Mardee Regan for my wife, Jill, who loves to capture
+        unsuspecting victims with her caricature pen. Most of the victims are delighted;
+        this cocktail will appease those who are not.
+    glassware:
+    - slug: cocktail
+      display_name: Cocktail
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: gin
+      display_name: Gin
+      quantity: 2
+      unit: ounces
+      notes: []
+    - slug: sweet-vermouth
+      display_name: Sweet Vermouth
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: campari
+      display_name: Campari
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: grapefruit-juice
+      display_name: Grapefruit Juice
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: simple-syrup
+      display_name: Simple Syrup
+      quantity: 1
+      unit: ounce
+      notes: []
+    garnish:
+    - slug: flamed-orange-peel
+      display_name: Flamed Orange Peel
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake all the ingredients over ice and strain into a very large chilled
+        cocktail glass
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

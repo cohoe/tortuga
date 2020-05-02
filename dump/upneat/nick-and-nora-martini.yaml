@@ -1,0 +1,45 @@
+- slug: nick-and-nora-martini
+  display_name: Nick And Nora Martini
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin:
+      story: 'During Prohibition, the gin tasted so bad that everything imaginable
+        was added to it to mask the Ravor. The martini waned in popularity. After
+        Prohibition, Nick and Nora Charles of the Thin Man movies and President Franklin
+        Roosevelt put the Martini back on the map. Good gin was back, and people once
+        more embraced the simplicity of the Martini. America got wetter and the Martini
+        got drier: The Nick and Nora recipe calls for 3 parts gin to 1 part dry vermouth.
+        This ratio reigned through the thirties and forties.'
+    glassware:
+    - slug: mixing
+      display_name: Mixing
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: gin
+      display_name: Gin
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: dry-vermouth
+      display_name: Dry Vermouth
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    garnish:
+    - slug: olive
+      display_name: Olive
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Fill a mixing glass with ice, add spirit, and stir well
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

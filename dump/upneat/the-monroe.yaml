@@ -1,0 +1,60 @@
+- slug: the-monroe
+  display_name: The Monroe
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin:
+      creator: Scott Teague
+      location: Scott Teague
+      year: 2013
+    glassware:
+    - slug: rocks
+      display_name: Rocks
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: anchor-junipero-gin
+      display_name: Anchor Junipero Gin
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: massenez-creme-de-peche-peach-liqueur
+      display_name: Massenez Creme De Peche Peach Liqueur
+      quantity: 0.5
+      unit: teaspoon
+      notes: []
+    - slug: orgeat
+      display_name: Orgeat
+      quantity: 0.25
+      unit: ounce
+      notes: []
+    - slug: house-peychauds-bitters
+      display_name: House Peychauds Bitters
+      quantity: 3
+      unit: dashes
+      notes: []
+    - slug: house-orange-bitters
+      display_name: House Orange Bitters
+      quantity: 1
+      unit: dash
+      notes: []
+    - slug: club-soda
+      display_name: Club Soda
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Stir all the ingredients (except the club soda) over ice, then strain
+        into a double rocks glass over 1 large ice cube
+    - text: Add the club soda
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

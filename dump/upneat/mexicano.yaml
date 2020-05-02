@@ -1,0 +1,50 @@
+- slug: mexicano
+  display_name: Mexicano
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      creator: Jim Meehan
+      location: Jim Meehan
+      year: 2010
+      story: The cucumber reinforces the vegetal notes of the earthy tequila, which
+        stands in for sweet vermouth in this regal Americano variation.
+    glassware:
+    - slug: mixing
+      display_name: Mixing
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: partida-reposado-tequila
+      display_name: Partida Reposado Tequila
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: gran-classico-bitter
+      display_name: Gran Classico Bitter
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: 3-25-inch-slices-cucumber
+      display_name: 3 25 Inch Slices Cucumber
+      notes: []
+    - slug: moet-imperial-champagne
+      display_name: Moet Imperial Champagne
+      quantity: 2
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Muddle the cucumber slices in a mixing glass
+    - text: Add spirits and ice, then stir and fine-strain into a chilled coupe
+    - text: Top with 2 oz Moët Imperial Champagne
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

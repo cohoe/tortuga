@@ -1,0 +1,37 @@
+- slug: kentucky-colonel
+  display_name: Kentucky Colonel
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin:
+      story: This is kind of a Southern Stinger. It was the house drink for years
+        at the Hotel Bel-Air in L.A.
+    glassware:
+    - slug: rocks
+      display_name: Rocks
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: bourbon-whiskey
+      display_name: Bourbon Whiskey
+      quantity: 2
+      unit: ounces
+      notes: []
+    - slug: benedictine
+      display_name: Benedictine
+      quantity: 1
+      unit: ounce
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake with ice; strain into a rocks glass filled with crushed ice
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

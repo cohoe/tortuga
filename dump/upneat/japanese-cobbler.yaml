@@ -1,0 +1,58 @@
+- slug: japanese-cobbler
+  display_name: Japanese Cobbler
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin: {}
+    glassware:
+    - slug: bar
+      display_name: Bar
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: 2-wedges-pineapple
+      display_name: 2 Wedges Pineapple
+      notes: []
+    - slug: orange
+      display_name: Orange
+      quantity: 2
+      unit: slices
+      notes: []
+    - slug: lemon
+      display_name: Lemon
+      quantity: 2
+      unit: wedges
+      notes: []
+    - slug: maraschino-liqueur
+      display_name: Maraschino Liqueur
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: sake
+      display_name: Sake
+      quantity: 3
+      unit: ounces
+      notes: []
+    - slug: soda-water
+      display_name: Soda Water
+      notes: []
+    - slug: sprig-of-mint
+      display_name: Sprig Of Mint
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: In the bottom of a bar glass, muddle the skinless pineapple wedge, 1 piece
+        of orange, and 1 piece of lemon with the maraschino liqueur
+    - text: Add the sake and shake with ice
+    - text: Strain into a double old-fashioned glass filled with crushed ice and top
+        with a splash of sweet or dry soda
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

@@ -1,0 +1,64 @@
+- slug: cirque-swizzle
+  display_name: Cirque Swizzle
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin:
+      creator: Jessica Gonzalez
+      location: Jessica Gonzalez
+      year: 2011
+    glassware:
+    - slug: pilsner
+      display_name: Pilsner
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: anchor-junipero-gin
+      display_name: Anchor Junipero Gin
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: yellow-chartreuse
+      display_name: Yellow Chartreuse
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: creme-yvette
+      display_name: Creme Yvette
+      quantity: 1
+      unit: teaspoon
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: vanilla-syrup
+      display_name: Vanilla Syrup
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: simple-syrup
+      display_name: Simple Syrup
+      quantity: 0.25
+      unit: ounce
+      notes: []
+    garnish:
+    - slug: creme-yvette
+      display_name: Creme Yvette
+      notes: []
+    straw: true
+    citations: []
+    notes: []
+    instructions:
+    - text: Dry shake all the ingredients, then dump into a pilsner glass filled with
+        crushed ice
+    - text: Swizzle until cold, then top with a thin layer of Crème Yvette
+    - text: Serve with a straw
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

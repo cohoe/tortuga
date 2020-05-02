@@ -1,0 +1,53 @@
+- slug: koyo
+  display_name: Koyo
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      creator: Daniel Eun
+      location: Daniel Eun
+      year: 2008
+      story: '"Koyo," Japanese for colorful leaves, refers to the period when the
+        leaves turn red, orange, yellow, and brown.'
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: germain
+      display_name: Germain
+      quantity: St
+      notes: []
+    - slug: masumi-okuden-junmai-sake
+      display_name: Masumi Okuden Junmai Sake
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: dubonnet-rouge
+      display_name: Dubonnet Rouge
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: cynar
+      display_name: Cynar
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: yellow-chartreuse
+      display_name: Yellow Chartreuse
+      quantity: 0.25
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Stir with ice and strain into a chilled, St
+    - text: Germain Elderflower Liqueur-rinsed coupe
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

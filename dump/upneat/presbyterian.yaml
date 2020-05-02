@@ -1,0 +1,44 @@
+- slug: presbyterian
+  display_name: Presbyterian
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin:
+      story: My mom's favorite drink.
+    glassware:
+    - slug: highball
+      display_name: Highball
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: bourbon-whiskey
+      display_name: Bourbon Whiskey
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: soda-water
+      display_name: Soda Water
+      quantity: 2.5
+      unit: ounces
+      notes: []
+    - slug: 7-up
+      display_name: 7 Up
+      quantity: 2.5
+      unit: ounces
+      notes: []
+    garnish:
+    - slug: lemon-peel
+      display_name: Lemon Peel
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Build in a highball glass
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

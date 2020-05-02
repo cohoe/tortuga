@@ -1,0 +1,44 @@
+- slug: harvey-wallbanger
+  display_name: Harvey Wallbanger
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin:
+      year: 1960
+      story: "This 1960s drink is purportedly named after a surfer who drank so much\
+        \ he'd bump into the walls. My all-knowing friend Brian Rea tells me that\
+        \ the reason the surfer drank so many Wallbangers was to get the empty Galliano\
+        \ bottles: women really loved them."
+    glassware:
+    - slug: highball
+      display_name: Highball
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: vodka
+      display_name: Vodka
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: orange-juice
+      display_name: Orange Juice
+      quantity: 4
+      unit: ounces
+      notes: []
+    - slug: galliano
+      display_name: Galliano
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Pour the vodka and orange juice together in a highball glass and float
+        a little Galliano on top
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

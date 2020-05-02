@@ -1,0 +1,44 @@
+- slug: eastern-manhattan
+  display_name: Eastern Manhattan
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin:
+      story: Created for the Inagiku Japanese restaurant in the Waldorf Astoria.
+    glassware:
+    - slug: cocktail
+      display_name: Cocktail
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: suntory-royal-japanese-whisky
+      display_name: Suntory Royal Japanese Whisky
+      quantity: 2.5
+      unit: ounces
+      notes: []
+    - slug: pernod
+      display_name: Pernod
+      quantity: 0.25
+      unit: ounce
+      notes: []
+    - slug: sweet-vermouth
+      display_name: Sweet Vermouth
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    garnish:
+    - slug: cherry
+      display_name: Cherry
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Stir with ice to chill and strain into a chilled cocktail glass
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

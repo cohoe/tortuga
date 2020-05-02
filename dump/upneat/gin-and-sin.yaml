@@ -1,0 +1,59 @@
+- slug: gin-and-sin
+  display_name: Gin And Sin
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin: {}
+    glassware:
+    - slug: martini
+      display_name: Martini
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: slice-orange
+      display_name: Slice Orange
+      notes: []
+    - slug: piece-lemon
+      display_name: Piece Lemon
+      notes: []
+    - slug: simple-syrup
+      display_name: Simple Syrup
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: orange-juice
+      display_name: Orange Juice
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: grenadine
+      display_name: Grenadine
+      quantity: 0.25
+      unit: ounce
+      notes: []
+    - slug: gin
+      display_name: Gin
+      quantity: 2
+      unit: ounces
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Muddle the orange slice and lemon piece with the juices
+    - text: Add the gin and grenadine
+    - text: Shake all the ingredients well with ice and strain into a chilled martini
+        glass
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

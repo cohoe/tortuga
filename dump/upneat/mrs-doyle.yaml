@@ -1,0 +1,46 @@
+- slug: mrs-doyle
+  display_name: Mrs. Doyle
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin:
+      creator: Eryn Reece
+      location: Eryn Reece
+      year: 2013
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: redbreast-12-year-irish-whiskey
+      display_name: Redbreast 12 Year Irish Whiskey
+      quantity: 2
+      unit: ounces
+      notes: []
+    - slug: kronan-swedish-punsch
+      display_name: Kronan Swedish Punsch
+      quantity: 0.25
+      unit: ounce
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: simple-syrup
+      display_name: Simple Syrup
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake all the ingredients with ice, then strain into a coupe
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

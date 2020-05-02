@@ -1,0 +1,70 @@
+- slug: doc-s-dram
+  display_name: Doc'S Dram
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin:
+      creator: JS
+      location: JS
+      year: 2011
+      story: JOAQUÍN SIMÓ, 2011 You don't usually see rye and gin together in a split
+        base, but the Old Tom is malty enough and the Overholt so soft that they work
+        fantastically together in this fall-spiced sour.
+    glassware:
+    - slug: rocks
+      display_name: Rocks
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: old-overholt-rye-whiskey
+      display_name: Old Overholt Rye Whiskey
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: ransom-old-tom-gin
+      display_name: Ransom Old Tom Gin
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: lustau-east-india-solera-sherry
+      display_name: Lustau East India Solera Sherry
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: maple-syrup
+      display_name: Maple Syrup
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: apple-butter
+      display_name: Apple Butter
+      quantity: 1
+      unit: teaspoon
+      notes: []
+    - slug: angostura-bitters
+      display_name: Angostura Bitters
+      quantity: 1
+      unit: dash
+      notes: []
+    garnish:
+    - slug: fan-of-apple
+      display_name: Fan Of Apple
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake all the ingredients with ice, then strain into a double rocks glass
+        over 1 large ice cube
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

@@ -1,0 +1,61 @@
+- slug: rebel-rebel
+  display_name: Rebel Rebel
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin:
+      creator: Jillian Vose
+      location: Jillian Vose
+      year: 2013
+    glassware:
+    - slug: mixing
+      display_name: Mixing
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: half-a-cherry-tomato
+      display_name: Half A Cherry Tomato
+      notes: []
+    - slug: siete-leguas-blanco-tequila
+      display_name: Siete Leguas Blanco Tequila
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: watermelon-infused-dolin-dry-vermouth
+      display_name: Watermelon Infused Dolin Dry Vermouth
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: cocchi-americano-rosa
+      display_name: Cocchi Americano Rosa
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: fusion-verjus-blanc
+      display_name: Fusion Verjus Blanc
+      quantity: 0.5
+      unit: teaspoon
+      notes: []
+    - slug: small-pinch-of-kosher-salt
+      display_name: Small Pinch Of Kosher Salt
+      notes: []
+    - slug: house-orange-bitters
+      display_name: House Orange Bitters
+      quantity: 1
+      unit: dash
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: In a mixing glass, muddle the cherry tomato
+    - text: Add the remaining ingredients and stir over ice
+    - text: Double strain into a Nick & Nora Glass
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

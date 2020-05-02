@@ -1,0 +1,53 @@
+- slug: jerry-thomas-s-apple-toddy
+  display_name: Jerry Thomas'S Apple Toddy
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin:
+      year: 1862
+      story: In his 1862 How To Mix Drinks, Jerry Thomas lists toddies and slings
+        together. He indicates that the only difference between them is a little grated
+        nutmeg on top of a sling. Thomas served toddies and slings hot and cold and
+        used only spirits, sugar, and water (except for the Apple Toddy, which is
+        made with a baked apple). By the 1890s, lemon juice and lemon peel were introduced
+        to the toddy and it was on its way to becoming a lemon-and-honey hot cure
+        for colds, dispensed by mothers and grandmothers everywhere.
+    glassware:
+    - slug: a
+      display_name: A
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: half-a-baked-apple
+      display_name: Half A Baked Apple
+      notes: []
+    - slug: fine-white-sugar
+      display_name: Fine White Sugar
+      quantity: 1
+      unit: tablespoon
+      notes: []
+    - slug: glass-of-applejack
+      display_name: Glass Of Applejack
+      quantity: 1
+      unit: wine
+      notes: []
+    garnish:
+    - slug: whole-nutmeg
+      display_name: Whole Nutmeg
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Put the baked apple, sugar, and applejack in a glass or mug
+    - text: Fill the glass two-thirds full of boiling water, and grate a little nutmeg
+        on top
+    - text: If there is a question whether the glass is tempered for extremes of hot
+        and cold, place a silver spoon in the glass before adding the boiling water
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

@@ -1,0 +1,40 @@
+- slug: sevilla
+  display_name: Sevilla
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin:
+      story: I created the Sevilla at Jeroboam Restaurant in Dallas to complement
+        their Onion and Cheddar soup.
+    glassware:
+    - slug: cocktail
+      display_name: Cocktail
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: stolichnaya-ohranj-vodka
+      display_name: Stolichnaya Ohranj Vodka
+      quantity: 3
+      unit: ounces
+      notes: []
+    - slug: lustau-east-india-solera-reserva-sherry
+      display_name: Lustau East India Solera Reserva Sherry
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    garnish:
+    - slug: flamed-orange-peel
+      display_name: Flamed Orange Peel
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Stir with ice to chill and strain into a chilled cocktail glass
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

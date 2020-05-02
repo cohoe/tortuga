@@ -1,0 +1,66 @@
+- slug: dirty-texas-tea
+  display_name: Dirty Texas Tea
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin:
+      story: 'Variation: For a sweeter drink, add .5 ounce Simple Syrup.'
+    glassware:
+    - slug: collins
+      display_name: Collins
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: tequila
+      display_name: Tequila
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: vodka
+      display_name: Vodka
+      quantity: 0.25
+      unit: ounce
+      notes: []
+    - slug: white-rum
+      display_name: White Rum
+      quantity: 0.25
+      unit: ounce
+      notes: []
+    - slug: triple-sec
+      display_name: Triple Sec
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: orange-juice
+      display_name: Orange Juice
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: ounces
+      display_name: Ounces
+      quantity: 3-
+      unit: '4'
+      notes: []
+    - slug: simple-syrup-optional
+      display_name: Simple Syrup Optional
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    garnish:
+    - slug: wedge-lemon
+      display_name: Wedge Lemon
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake all ingredients except the Coca-Cola with ice and strain into an
+        ice tea or collins glass three-quarter filled with ice
+    - text: Top with 3 or 4 ounces of Coca-Cola and stir
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

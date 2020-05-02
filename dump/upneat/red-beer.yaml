@@ -1,0 +1,32 @@
+- slug: red-beer
+  display_name: Red Beer
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin:
+      story: A mountain favorite in the Catskills.
+    glassware: []
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: tomato-juice
+      display_name: Tomato Juice
+      quantity: 2
+      unit: ounces
+      notes: []
+    - slug: lager
+      display_name: Lager
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Add 2 ounces of tomato juice to a draft lager beer
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

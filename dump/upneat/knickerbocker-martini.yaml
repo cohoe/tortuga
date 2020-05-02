@@ -1,0 +1,67 @@
+- slug: knickerbocker-martini
+  display_name: Knickerbocker Martini
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin:
+      year: 1906
+      story: "The modern-style martini of London Dry gin with dry vermouth wasn't\
+        \ offered until the turn of the century. I call it the Knickerbocker Martini.\
+        \ Colonel John Jacob Astor's Knickerbocker Hotel, built in in 1906, housed\
+        \ one of the grandest bars in New York. The bar was also the original home\
+        \ of the Maxfield Parrish triptych of Old King Cole that now hangs above the\
+        \ bar at the St. Regis Hotel. The principal bartender, Martini di Arma di\
+        \ Taggia, made his famous \"dry\" martini there. And although his recipe of\
+        \ equal parts of dry gin and dry vermouth was a long way off from our modern\
+        \ dry Martini, it was the first combination of dry vermouth and dry gin. He\
+        \ mixed half Plymouth gin and half-dry or French vermouth with a dash of orange\
+        \ bitters. Sweet Martinis were also still very popular, and eventually they\
+        \ evolved into the Gin and Italian, or Gin and It as the drink was called\
+        \ during Prohibition. Here is a recipe for a \"dry\" martini similar to the\
+        \ Knickerbocker Martini, from Louis Muckensturm's Louis Mixed Drinks (1906).\
+        \ Notice that Muckensturm's version calls for 2 to 1 gin to vermouth, a step\
+        \ forward: but he had that dash of curaçao to cater to America's sweet tooth."
+    glassware:
+    - slug: martini
+      display_name: Martini
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: orange-bitters
+      display_name: Orange Bitters
+      quantity: 2
+      unit: dashes
+      notes: []
+    - slug: curacao
+      display_name: Curacao
+      quantity: 1
+      unit: dash
+      notes: []
+    - slug: glass-dry-french-vermouth
+      display_name: Glass Dry French Vermouth
+      quantity: 1
+      unit: liqueur
+      notes: []
+    - slug: glasses-gin
+      display_name: Glasses Gin
+      quantity: 2
+      unit: liqueur
+      notes: []
+    garnish:
+    - slug: lemon-peel
+      display_name: Lemon Peel
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Fill a mixing glass with ice; add the spirits, stir well, and strain into
+        a chilled martini glass
+    - text: Squeeze some lemon peel on top
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

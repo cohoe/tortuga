@@ -1,0 +1,46 @@
+- slug: gin-tonic
+  display_name: Gin & Tonic
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      creator: Jim Meehan
+      location: Jim Meehan
+      year: 2007
+      story: Quinine, an extract from cinchona bark, was prescribed in the 19th century
+        as an anti-malarial throughout the British colonies. To make it more palatable,
+        it was added to fortified wines and tonic water.
+    glassware:
+    - slug: collins
+      display_name: Collins
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: club-soda
+      display_name: Club Soda
+      quantity: 3.5
+      unit: oz
+      notes: []
+    - slug: tanqueray-gin
+      display_name: Tanqueray Gin
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: tonic-syrup
+      display_name: Tonic Syrup
+      quantity: 0.75
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Add everything to a chilled Collins glass filled with ice and stir briefly
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

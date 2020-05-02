@@ -1,0 +1,60 @@
+- slug: vauvert-slim
+  display_name: Vauvert Slim
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      creator: Ryan Noreiks
+      location: Ryan Noreiks
+      year: 1605
+      story: Vauvert was home to a Carthusian monastery where Francois Hannibal d'Estrees
+        presented the monks with a manuscript containing a recipe for "elixir of long
+        life" in 1605.
+    glassware: []
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: laphroaig-10-year-old-single-malt-scotch-whisky
+      display_name: Laphroaig 10 Year Old Single Malt Scotch Whisky
+      notes: []
+    - slug: grapefruit-juice
+      display_name: Grapefruit Juice
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: green-chartreuse
+      display_name: Green Chartreuse
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: of-mint
+      display_name: Of Mint
+      quantity: 7
+      unit: Leaves
+      notes: []
+    - slug: white
+      display_name: White
+      quantity: 1
+      unit: Egg
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Muddle 6 mint leaves with the lime juice
+    - text: Add everything else, then dry-shake
+    - text: Shake with ice and fine-strain into a chilled, Laphroaig 10-Year-Old Single
+        Malt Scotch-rinsed egg coupe
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

@@ -1,0 +1,49 @@
+- slug: perfect-pear
+  display_name: Perfect Pear
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      creator: Marco Dionysos
+      location: Marco Dionysos
+      year: 1995
+      story: Marco created this drink at Saucebox in Portland for his ex-wife, Sarah.
+        He named it the Perfect Pear in honor of their marriage and the King Crimson
+        song "Three of a Perfect Pair."
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: clear-creek-pear-brandy
+      display_name: Clear Creek Pear Brandy
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: orange-juice
+      display_name: Orange Juice
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: simple-syrup
+      display_name: Simple Syrup
+      quantity: 0.5
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake with ice and strain into a chilled, half sugar-rimmed coupe
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

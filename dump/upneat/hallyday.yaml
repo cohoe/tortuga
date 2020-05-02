@@ -1,0 +1,61 @@
+- slug: hallyday
+  display_name: Hallyday
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin:
+      creator: Thomas Waugh
+      location: Thomas Waugh
+      year: 2011
+    glassware:
+    - slug: rocks
+      display_name: Rocks
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: vieux-pontarlier-absinthe
+      display_name: Vieux Pontarlier Absinthe
+      notes: []
+    - slug: hine-h-cognac
+      display_name: Hine H Cognac
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: dolin-dry-vermouth
+      display_name: Dolin Dry Vermouth
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: royal-combier-liqueur
+      display_name: Royal Combier Liqueur
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: clear-creek-pear-brandy
+      display_name: Clear Creek Pear Brandy
+      quantity: 1
+      unit: teaspoon
+      notes: []
+    - slug: angostura-bitters
+      display_name: Angostura Bitters
+      quantity: 1
+      unit: dash
+      notes: []
+    garnish:
+    - slug: lemon-peel
+      display_name: Lemon Peel
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Rinse a rocks glass with absinthe and dump
+    - text: Stir the remaining ingredients over ice, then strain into the glass
+    - text: singer, this Sazerac variation uses a quartet of French ingredients
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

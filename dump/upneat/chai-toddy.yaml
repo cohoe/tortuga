@@ -1,0 +1,48 @@
+- slug: chai-toddy
+  display_name: Chai Toddy
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin: {}
+    glassware:
+    - slug: stem
+      display_name: Stem
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: spiced-rum
+      display_name: Spiced Rum
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: peppermint-schnapps
+      display_name: Peppermint Schnapps
+      quantity: 1
+      unit: dash
+      notes: []
+    - slug: honey
+      display_name: Honey
+      quantity: 1
+      unit: teaspoon
+      notes: []
+    - slug: hot-tea
+      display_name: Hot Tea
+      quantity: 4
+      unit: ounces
+      notes: []
+    garnish:
+    - slug: peppermint-stick
+      display_name: Peppermint Stick
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Stir all the inredients in a mug or stem glass
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

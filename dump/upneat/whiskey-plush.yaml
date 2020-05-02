@@ -1,0 +1,63 @@
+- slug: whiskey-plush
+  display_name: Whiskey Plush
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin:
+      year: 1862
+      story: I adapted this recipe from the White Plush, a drink of whiskey and milk,
+        in How to Mix Drinks by Jerry Thomas (1862). The White Plush was named after
+        a gullible New England buyer, as Thomas tells it, who was hustled by a couple
+        of dry-goods salesmen in New York City. They convinced him he was drinking
+        milk and seltzer, a popular local favorite. When the whiskey started to take
+        hold, he knocked over his "milk" and stared at it a moment, then remarked,
+        "Gee, it looks just like white plush." This prompted the two slicks to order
+        "another yard of white plush for the gentleman" from the knowing bartender.
+    glassware:
+    - slug: shake-all-the-ingredients-well-with-ice-and-strain-into-a-chilled-wineglass
+      display_name: Shake All The Ingredients Well With Ice And Strain Into A Chilled
+        Wineglass
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: irish-whiskey
+      display_name: Irish Whiskey
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: baileys-irish-cream
+      display_name: Baileys Irish Cream
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: simple-syrup
+      display_name: Simple Syrup
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: milk-or-cream
+      display_name: Milk Or Cream
+      quantity: 4
+      unit: ounces
+      notes: []
+    - slug: angostura-bitters
+      display_name: Angostura Bitters
+      quantity: 4
+      unit: dashes
+      notes: []
+    garnish:
+    - slug: nutmeg
+      display_name: Nutmeg
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake all the ingredients well with ice and strain into a chilled wineglass
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

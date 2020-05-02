@@ -1,0 +1,56 @@
+- slug: single-malt-sangaree
+  display_name: Single Malt Sangaree
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      creator: Jim Meehan
+      location: Jim Meehan
+      year: 2008
+      story: Sangarees, from the Spanish "sangria," were traditionally prepared, in
+        the early half of the 19th century, with fortified wine, water, sugar, and
+        nutmeg.
+    glassware: []
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: paumanok-cabernet-franc
+      display_name: Paumanok Cabernet Franc
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: oban-14-year-old-single-malt-scotch-whisky
+      display_name: Oban 14 Year Old Single Malt Scotch Whisky
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: red-dubonnet
+      display_name: Red Dubonnet
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: grand-marnier
+      display_name: Grand Marnier
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: demerara-syrup
+      display_name: Demerara Syrup
+      quantity: 1
+      unit: barspoon
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Heat until steaming
+    - text: Pour into a pre-heated heatproof mug
+    - text: Twist an orange peel over the surface and discard
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

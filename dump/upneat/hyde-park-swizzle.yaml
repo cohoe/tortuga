@@ -1,0 +1,65 @@
+- slug: hyde-park-swizzle
+  display_name: Hyde Park Swizzle
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin:
+      creator: Phil Ward
+      location: Phil Ward
+      year: 2008
+    glassware:
+    - slug: pilsner
+      display_name: Pilsner
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: 4-sprigs-mint
+      display_name: 4 Sprigs Mint
+      quantity: 3
+      unit: or
+      notes: []
+    - slug: plymouth-gin
+      display_name: Plymouth Gin
+      quantity: 2
+      unit: ounces
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: simple-syrup
+      display_name: Simple Syrup
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: angostura-bitters
+      display_name: Angostura Bitters
+      quantity: 2
+      unit: dashes
+      notes: []
+    - slug: peychauds-bitters
+      display_name: Peychauds Bitters
+      quantity: 2
+      unit: dashes
+      notes: []
+    garnish:
+    - slug: sprig-of-mint
+      display_name: Sprig Of Mint
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: In a shaker, gently muddle the mint
+    - text: Add the remaining ingredients (except the bitters) and dry shake, then
+        dump into a pilsner glass
+    - text: Fill the glass with crushed ice and swizzle until cold
+    - text: Add the bitters and swizzle them into the top of the drink
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

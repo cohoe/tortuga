@@ -1,0 +1,62 @@
+- slug: frozen-barcelona
+  display_name: Frozen Barcelona
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin:
+      story: I created this for the James Beard House in New York City, during the
+        Barcelona Olympics.
+    glassware:
+    - slug: serve-in-a-london-dock-or-sherry-style-glass
+      display_name: Serve In A London Dock Or Sherry Style Glass
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: spanish-brandy
+      display_name: Spanish Brandy
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: dry-sack-sherry
+      display_name: Dry Sack Sherry
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: cointreau
+      display_name: Cointreau
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: orange-juice
+      display_name: Orange Juice
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: heavy-cream
+      display_name: Heavy Cream
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: simple-syrup
+      display_name: Simple Syrup
+      quantity: 1
+      unit: ounce
+      notes: []
+    garnish:
+    - slug: pinch-of-cinnamon
+      display_name: Pinch Of Cinnamon
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Freeze in the blender with
+    - text: 75 cup of ice
+    - text: Serve in a London dock or sherry-style glass
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

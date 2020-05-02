@@ -1,0 +1,63 @@
+- slug: suffering-bastard
+  display_name: Suffering Bastard
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin:
+      story: A Mai Tai with orange juice.
+    glassware:
+    - slug: tai
+      display_name: Tai
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: good-medium-bodied-rum
+      display_name: Good Medium Bodied Rum
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: overproof-rum-such-as-wray-nephew-or-bacardi-151
+      display_name: Overproof Rum Such As Wray Nephew Or Bacardi 151
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: curaassao
+      display_name: Curaassao
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: orgeat
+      display_name: Orgeat
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: orange-juice
+      display_name: Orange Juice
+      quantity: 2
+      unit: ounces
+      notes: []
+    garnish:
+    - slug: slice-of-lime
+      display_name: Slice Of Lime
+      notes: []
+    - slug: slice-of-orange
+      display_name: Slice Of Orange
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake all the ingredients well and strain into an ice-filled double old-fashioned
+        or Mai Tai glass
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

@@ -1,0 +1,53 @@
+- slug: gin-rickey
+  display_name: Gin Rickey
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin:
+      year: 1900
+      story: Rickeys are traditionally a dry drink, but syrup or sugar can be added.
+        the Rickey took its name from "Colonel Joe" Rickey, a lobbyist in Washington
+        in the late nineteenth century who regularly drank with members of Congress
+        in shoemaker's bar. The barman who invented the drink let Colonel Joe taste
+        it, and when the colonel called for another, he christened it the Gin Rickey.
+        Oddly enough, Colonel Joe later became the first major importer of limes to
+        this country. The early recipe, which first appeared in Modern Mixed Drinks,
+        by George Kappeler, in 1900, is exactly the same as our contemporary recipe.
+        The Gin Rickey is a jumping-off point for more of-the-moment, sexy cocktails.
+    glassware:
+    - slug: highball
+      display_name: Highball
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: gin
+      display_name: Gin
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: soda-water
+      display_name: Soda Water
+      quantity: 5
+      unit: ounces
+      notes: []
+    garnish:
+    - slug: wedge-of-lime
+      display_name: Wedge Of Lime
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Mix all the ingredients in a highball glass with ice
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

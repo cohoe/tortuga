@@ -1,0 +1,56 @@
+- slug: orkney-chapel
+  display_name: Orkney Chapel
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin:
+      creator: Jason Littrell
+      location: Jason Littrell
+      year: 2009
+    glassware:
+    - slug: martini
+      display_name: Martini
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: highland-park-12-year-scotch-whisky
+      display_name: Highland Park 12 Year Scotch Whisky
+      quantity: 2
+      unit: ounces
+      notes: []
+    - slug: dolin-dry-vermouth
+      display_name: Dolin Dry Vermouth
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: lustau-amontillado-sherry
+      display_name: Lustau Amontillado Sherry
+      quantity: 0.25
+      unit: ounce
+      notes: []
+    - slug: grand-marnier
+      display_name: Grand Marnier
+      quantity: 0.25
+      unit: ounce
+      notes: []
+    - slug: rich-cane-sugar-syrup
+      display_name: Rich Cane Sugar Syrup
+      quantity: 0.25
+      unit: ounce
+      notes: []
+    garnish:
+    - slug: orange-peel
+      display_name: Orange Peel
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Stir all the ingredients over ice, then strain into a martini glass
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

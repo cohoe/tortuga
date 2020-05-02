@@ -1,0 +1,57 @@
+- slug: perfect-crime
+  display_name: Perfect Crime
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin:
+      creator: Jillian Vose
+      location: Jillian Vose
+      year: 2013
+    glassware:
+    - slug: rocks
+      display_name: Rocks
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: sombra-mezcal
+      display_name: Sombra Mezcal
+      quantity: 1.75
+      unit: ounces
+      notes: []
+    - slug: pasquet-marie-framboise
+      display_name: Pasquet Marie Framboise
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: amaro-averna
+      display_name: Amaro Averna
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: vanilla-syrup
+      display_name: Vanilla Syrup
+      quantity: 1
+      unit: teaspoon
+      notes: []
+    - slug: house-orange-bitters
+      display_name: House Orange Bitters
+      quantity: 2
+      unit: dashes
+      notes: []
+    garnish:
+    - slug: 2-skewered-raspberry
+      display_name: 2 Skewered Raspberry
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Stir all the ingredients over ice, then strain into a double rocks glass
+        over 1 large ice cube
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

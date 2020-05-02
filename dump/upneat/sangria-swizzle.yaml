@@ -1,0 +1,62 @@
+- slug: sangria-swizzle
+  display_name: Sangria Swizzle
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin:
+      creator: Thomas Waugh
+      location: Thomas Waugh
+      year: 2009
+    glassware:
+    - slug: pilsner
+      display_name: Pilsner
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: dried-currant-infused-wild-turkey-rye-whiskey
+      display_name: Dried Currant Infused Wild Turkey Rye Whiskey
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: red-rioja-wine
+      display_name: Red Rioja Wine
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: cointreau
+      display_name: Cointreau
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: simple-syrup
+      display_name: Simple Syrup
+      quantity: 1
+      unit: teaspoon
+      notes: []
+    - slug: bittermens-xocolatl-mole-bitters
+      display_name: Bittermens Xocolatl Mole Bitters
+      quantity: 1
+      unit: dash
+      notes: []
+    garnish:
+    - slug: wheel-of-orange
+      display_name: Wheel Of Orange
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Combine all the ingredients in a pilsner glass and swizzle while adding
+        crushed ice little by little
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

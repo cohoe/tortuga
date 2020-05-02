@@ -1,0 +1,57 @@
+- slug: jack-sparrow-flip
+  display_name: Jack Sparrow Flip
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin:
+      creator: Brian Miller
+      location: Brian Miller
+      year: 2008
+    glassware:
+    - slug: fizz
+      display_name: Fizz
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: flor-de-caa-a-7-year-rum
+      display_name: Flor De Caa A 7 Year Rum
+      quantity: 2
+      unit: ounces
+      notes: []
+    - slug: sandeman-rainwater-madeira
+      display_name: Sandeman Rainwater Madeira
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: demerara-syrup
+      display_name: Rich Demerara Syrup
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: egg
+      display_name: Egg
+      quantity: 1
+      unit: whole
+      notes: []
+    - slug: fee-brothers-whiskey-barrel-aged-bitters
+      display_name: Fee Brothers Whiskey Barrel Aged Bitters
+      quantity: 2
+      unit: dashes
+      notes: []
+    garnish:
+    - slug: cinnamon
+      display_name: Cinnamon
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Dry shake all the ingredients, then add 3 ice cubes and shake again
+    - text: Double strain into a fancy fizz glass
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

@@ -1,0 +1,59 @@
+- slug: solera-sidecar
+  display_name: Solera Sidecar
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin:
+      creator: JS
+      location: JS
+      year: 2009
+      story: 'JOAQUÍN SIMÓ, 2009 This play on the Sidecar tastes like a dessert pastry:
+        the sherry lends a nutty flavor, the amaro provides a biscotti note, and the
+        cognac is fruity and floral.'
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: hine-h-cognac
+      display_name: Hine H Cognac
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: east-india-solera-sherry
+      display_name: East India Solera Sherry
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: grand-marnier
+      display_name: Grand Marnier
+      quantity: 0.25
+      unit: ounce
+      notes: []
+    - slug: lazzaroni-amaretto
+      display_name: Lazzaroni Amaretto
+      quantity: 0.25
+      unit: ounce
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: simple-syrup
+      display_name: Simple Syrup
+      quantity: 0.25
+      unit: ounce
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake all the ingredients with ice, then strain into a coupe
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

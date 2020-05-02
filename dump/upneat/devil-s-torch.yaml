@@ -1,0 +1,47 @@
+- slug: devil-s-torch
+  display_name: Devil'S Torch
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin:
+      creator: Drinks Ancient and Modern
+      location: Drinks Ancient and Modern
+      year: 1800
+      story: This drink is from 1800 and All That
+    glassware:
+    - slug: cocktail
+      display_name: Cocktail
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: vodka
+      display_name: Vodka
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: dry-french-vermouth
+      display_name: Dry French Vermouth
+      quantity: 1.5
+      unit: ounce
+      notes: []
+    - slug: grenadine
+      display_name: Grenadine
+      quantity: 3
+      unit: dashes
+      notes: []
+    garnish:
+    - slug: lemon-peel
+      display_name: Lemon Peel
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake with ice and strain into a chilled cocktail glass
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

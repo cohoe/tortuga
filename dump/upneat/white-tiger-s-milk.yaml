@@ -1,0 +1,58 @@
+- slug: white-tiger-s-milk
+  display_name: White Tiger'S Milk
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin:
+      story: Adapted from How to Mix Drinks by Jerry Thomas.
+    glassware: []
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: applejack-or-calvados
+      display_name: Applejack Or Calvados
+      quantity: 2
+      unit: ounces
+      notes: []
+    - slug: marie-brizard-apry
+      display_name: Marie Brizard Apry
+      quantity: 2
+      unit: ounces
+      notes: []
+    - slug: angostura-bitters
+      display_name: Angostura Bitters
+      quantity: 0.5
+      unit: teaspoon
+      notes: []
+    - slug: simple-syrup
+      display_name: Simple Syrup
+      quantity: 2
+      unit: ounces
+      notes: []
+    - slug: stiff-egg-white
+      display_name: Stiff Egg White
+      quantity: 1
+      unit: beaten
+      notes: []
+    - slug: whole-milk
+      display_name: Whole Milk
+      quantity: 0.5
+      unit: pint
+      notes: []
+    garnish:
+    - slug: nutmeg
+      display_name: Nutmeg
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Combine all the ingredients in a pitcher and whisk to blend
+    - text: Chill and serve dusted with the nutmeg
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

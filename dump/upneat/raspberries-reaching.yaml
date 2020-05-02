@@ -1,0 +1,48 @@
+- slug: raspberries-reaching
+  display_name: Raspberries Reaching
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      creator: Jim Meehan
+      location: Jim Meehan
+      year: 2009
+      story: I came up with this drink for a dinner pairing competition against Master
+        Sommelier Emily Wines.
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: trimbach-framboise-brandy
+      display_name: Trimbach Framboise Brandy
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: tokaji-aszu-5-puttonyos-red-label
+      display_name: Tokaji Aszu 5 Puttonyos Red Label
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: pama-pomegranate-liqueur
+      display_name: Pama Pomegranate Liqueur
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: marivani-rose-flower-water
+      display_name: Marivani Rose Flower Water
+      quantity: 3
+      unit: drops
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Stir with ice and strain into a chilled coupe
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

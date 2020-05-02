@@ -1,0 +1,49 @@
+- slug: frankfort-rose
+  display_name: Frankfort Rose
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      creator: Artemio Vásquez
+      location: Artemio Vásquez
+      year: 2007
+      story: Originally served with W. L. Weller Bourbon from Frankfort, Kentucky,
+        Artemio switched his whiskey of choice to Bernheim Wheat Whiskey from Bardstown,
+        Kentucky.
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: hibiscus-infused-bernheim-wheat-whiskey
+      display_name: Hibiscus Infused Bernheim Wheat Whiskey
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: simple-syrup
+      display_name: Simple Syrup
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: white
+      display_name: White
+      quantity: 1
+      unit: Egg
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Dry-shake, then shake with ice and strain into a chilled egg coupe
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

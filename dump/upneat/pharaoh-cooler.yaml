@@ -1,0 +1,62 @@
+- slug: pharaoh-cooler
+  display_name: Pharaoh Cooler
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      creator: Jack McGarry
+      location: Jack McGarry
+      year: 2009
+      story: The weekend before Tales of the Cocktail, Jack McGarry spent a night
+        mixing drinks at PDT. This drink, named after the mythic Egyptian origin of
+        watermelon seeds, was so good that we put it on the menu.
+    glassware:
+    - slug: collins
+      display_name: Collins
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: partida-blanco-tequila
+      display_name: Partida Blanco Tequila
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: watermelon-juice
+      display_name: Watermelon Juice
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: house-grenadine
+      display_name: House Grenadine
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: marivani-rose-flower-water
+      display_name: Marivani Rose Flower Water
+      quantity: 4
+      unit: drops
+      notes: []
+    - slug: club-soda
+      display_name: Club Soda
+      quantity: 1
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake with ice and strain into a chilled Collins glass filled with ice
+    - text: Top with 1 oz Club Soda
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

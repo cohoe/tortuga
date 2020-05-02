@@ -1,0 +1,65 @@
+- slug: village-to-village
+  display_name: Village To Village
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin:
+      creator: Thomas Waugh
+      location: Thomas Waugh
+      year: 2009
+    glassware:
+    - slug: pilsner
+      display_name: Pilsner
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: chinaco-verde-blanco-tequila
+      display_name: Chinaco Verde Blanco Tequila
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: st-elizabeth-allspice-dram
+      display_name: St Elizabeth Allspice Dram
+      quantity: 0.5
+      unit: teaspoon
+      notes: []
+    - slug: fuji-apple-juice
+      display_name: Fuji Apple Juice
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: acacia-honey-syrup
+      display_name: Acacia Honey Syrup
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: ginger-syrup
+      display_name: Ginger Syrup
+      quantity: 0.5
+      unit: teaspoon
+      notes: []
+    garnish:
+    - slug: 2-dashes-angostura-bitters
+      display_name: 2 Dashes Angostura Bitters
+      notes: []
+    - slug: sprig-of-mint
+      display_name: Sprig Of Mint
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Short shake all the ingredients with 3 ice cubes, then strain into a pilsner
+        glass filled with crushed ice
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

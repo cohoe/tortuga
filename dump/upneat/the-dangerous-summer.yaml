@@ -1,0 +1,56 @@
+- slug: the-dangerous-summer
+  display_name: The Dangerous Summer
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin:
+      creator: JS
+      location: JS
+      year: 2009
+      story: JOAQUÍN SIMÓ, 2009 This stirred variation of the classic Blood and Sand
+        is named after a Hemingway book about bullfighters. I replaced the rich Cherry
+        Heering with dry cherry brandy and the orange juice with blood orange liqueur.
+    glassware:
+    - slug: martini
+      display_name: Martini
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: yamazaki-12-year-japanese-whisky
+      display_name: Yamazaki 12 Year Japanese Whisky
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: dolin-rouge-vermouth
+      display_name: Dolin Rouge Vermouth
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: solerno-blood-orange-liqueur
+      display_name: Solerno Blood Orange Liqueur
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: massenez-kirsch-vieux-cherry-brandy
+      display_name: Massenez Kirsch Vieux Cherry Brandy
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: orange-peel
+      display_name: Orange Peel
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Stir all the ingredients (except the orange twist) over ice, then strain
+        into a martini glass
+    - text: Flame the orange twist over the drink and discard
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

@@ -1,0 +1,59 @@
+- slug: pilgrim-cocktail
+  display_name: Pilgrim Cocktail
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin: {}
+    glassware:
+    - slug: cocktail
+      display_name: Cocktail
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: dark-rum
+      display_name: Dark Rum
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: light-rum
+      display_name: Light Rum
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: curaassao
+      display_name: Curaassao
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: orange-juice
+      display_name: Orange Juice
+      quantity: 2
+      unit: ounces
+      notes: []
+    - slug: half-a-fruit-of-lime-juice
+      display_name: Half A Fruit Of Lime Juice
+      notes: []
+    - slug: pimento-liqueur
+      display_name: Pimento Liqueur
+      quantity: 0.25
+      unit: ounce
+      notes: []
+    - slug: angostura-bitters
+      display_name: Angostura Bitters
+      quantity: 1
+      unit: dash
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake all the ingredients and strain into a cocktail glass
+    - text: Can be served hot or cold
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

@@ -1,0 +1,50 @@
+- slug: el-diablo
+  display_name: El Diablo
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      creator: Jules Bergeron
+      location: Jules Bergeron
+      year: 1972
+      story: Trader Vic's revised bartender's manual devoted 9 pages to tequila drinks,
+        8 more than any other significant cocktail book of the century.
+    glassware:
+    - slug: rocks
+      display_name: Rocks
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: siembra-azul-blanco-tequila
+      display_name: Siembra Azul Blanco Tequila
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: house-ginger-beer
+      display_name: House Ginger Beer
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: theuriet-creme-de-cassis
+      display_name: Theuriet Creme De Cassis
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.75
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake with ice and strain into a chilled rocks glass filled with ice
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

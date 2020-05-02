@@ -1,0 +1,46 @@
+- slug: the-black-prince
+  display_name: The Black Prince
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin:
+      creator: Phil Ward
+      location: Phil Ward
+      year: 2008
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: zacapa-23-year-rum
+      display_name: Zacapa 23 Year Rum
+      quantity: 2
+      unit: ounces
+      notes: []
+    - slug: punt-e-mes
+      display_name: Punt E Mes
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: amaro-averna
+      display_name: Amaro Averna
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: house-orange-bitters
+      display_name: House Orange Bitters
+      quantity: 1
+      unit: dash
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Stir all the ingredients over ice, then strain into a coupe
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

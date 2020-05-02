@@ -1,0 +1,54 @@
+- slug: golden-girl
+  display_name: Golden Girl
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin: {}
+    glassware:
+    - slug: martini
+      display_name: Martini
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: bacardi-8-rum
+      display_name: Bacardi 8 Rum
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: simple-syrup
+      display_name: Simple Syrup
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: pineapple-juice
+      display_name: Pineapple Juice
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: offley-rich-tawny-port
+      display_name: Offley Rich Tawny Port
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: egg
+      display_name: Egg
+      quantity: 0.5
+      unit: small
+      notes: []
+    garnish:
+    - slug: orange-zest
+      display_name: Orange Zest
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake all the ingredients well with ice and strain into a chilled martini
+        glass
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

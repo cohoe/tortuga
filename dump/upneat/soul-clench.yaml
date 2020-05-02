@@ -1,0 +1,57 @@
+- slug: soul-clench
+  display_name: Soul Clench
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin:
+      creator: Jillian Vose
+      location: Jillian Vose
+      year: 2013
+    glassware:
+    - slug: rocks
+      display_name: Rocks
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: waqar-pisco
+      display_name: Waqar Pisco
+      quantity: 2
+      unit: ounces
+      notes: []
+    - slug: dolin-dry-vermouth
+      display_name: Dolin Dry Vermouth
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: combier-pamplemousse-rose-liqueur
+      display_name: Combier Pamplemousse Rose Liqueur
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: st-germain
+      display_name: St Germain
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: velvet-falernum
+      display_name: Velvet Falernum
+      quantity: 0.25
+      unit: ounce
+      notes: []
+    garnish:
+    - slug: grapefruit-peel
+      display_name: Grapefruit Peel
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Stir all the ingredients over ice, then strain into a double rocks glass
+        over 1 large ice cube
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

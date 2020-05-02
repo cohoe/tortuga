@@ -1,0 +1,67 @@
+- slug: kerala
+  display_name: Kerala
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin:
+      year: 2008
+      story: JOAQUÍN SIMÓ, 2008
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: cardamom
+      display_name: Cardamom
+      quantity: 5
+      unit: pods
+      notes: []
+    - slug: scarlet-ibis-rum
+      display_name: Scarlet Ibis Rum
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: buffalo-trace-bourbon
+      display_name: Buffalo Trace Bourbon
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: pineapple-juice
+      display_name: Pineapple Juice
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: rich-cane-sugar-syrup
+      display_name: Rich Cane Sugar Syrup
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: angostura-bitters
+      display_name: Angostura Bitters
+      quantity: 1
+      unit: dash
+      notes: []
+    - slug: house-peychauds-bitters
+      display_name: House Peychauds Bitters
+      quantity: 1
+      unit: dash
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: In a shaker, gently muddle the cardamom pods
+    - text: Add the remaining ingredients and shake with ice
+    - text: Double strain into a coupe
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

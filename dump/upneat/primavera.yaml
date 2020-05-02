@@ -1,0 +1,62 @@
+- slug: primavera
+  display_name: Primavera
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      creator: Sean Hoard
+      location: Sean Hoard
+      year: 2010
+      story: Before the flowers blossom and the berries ripen, root vegetables such
+        as fennel and celery are all you can get at the market until flowering shoots
+        such as asparagus appear.
+    glassware: []
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: george
+      display_name: George
+      quantity: St
+      notes: []
+    - slug: krogstad-aquavit
+      display_name: Krogstad Aquavit
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: cointreau
+      display_name: Cointreau
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: 2-1-5-inch-tips-of-asparagus
+      display_name: 2 1 5 Inch Tips Of Asparagus
+      notes: []
+    - slug: slice-of-fennel-bulb
+      display_name: Slice Of Fennel Bulb
+      quantity: 1.25
+      unit: inch
+      notes: []
+    - slug: 1-2-inch-stalk-of-celery
+      display_name: 1 2 Inch Stalk Of Celery
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Muddle the Cointreau and vegetables
+    - text: Add everything else, then shake with ice and fine-strain into a chilled
+        St
+    - text: George Absinthe-rinsed coupe
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

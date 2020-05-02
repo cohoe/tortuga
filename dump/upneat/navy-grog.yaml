@@ -1,0 +1,53 @@
+- slug: navy-grog
+  display_name: Navy Grog
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin: {}
+    glassware:
+    - slug: fashioned
+      display_name: Fashioned
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: dussers-navy-rum
+      display_name: Dussers Navy Rum
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: curaassao
+      display_name: Curaassao
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: water
+      display_name: Water
+      quantity: 2
+      unit: ounces
+      notes: []
+    - slug: orange-juice
+      display_name: Orange Juice
+      quantity: 2
+      unit: ounces
+      notes: []
+    - slug: dash-angostura-bitters
+      display_name: Dash Angostura Bitters
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake well with ice and serve in a bucket or double old- fashioned glass
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

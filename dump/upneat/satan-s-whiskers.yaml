@@ -1,0 +1,62 @@
+- slug: satan-s-whiskers
+  display_name: Satan'S Whiskers
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin:
+      year: 1930
+      story: Adapted from an Embassy Club recipe from Hollywood, circa 1930. This
+        is a sinfully rich version of the Bronx Cocktail, and like everything else
+        in Hollywood, if it costs more it must be better.
+    glassware:
+    - slug: martini
+      display_name: Martini
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: gin
+      display_name: Gin
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: sweet-vermouth
+      display_name: Sweet Vermouth
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: dry-vermouth
+      display_name: Dry Vermouth
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: grand-marnier
+      display_name: Grand Marnier
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: orange-juice
+      display_name: Orange Juice
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: angostura-or-orange-bitters
+      display_name: Angostura Or Orange Bitters
+      quantity: 1
+      unit: dash
+      notes: []
+    garnish:
+    - slug: flamed-orange-peel
+      display_name: Flamed Orange Peel
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake all the ingredients with ice and strain into a chilled martini glass
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

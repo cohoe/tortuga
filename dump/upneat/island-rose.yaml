@@ -1,0 +1,47 @@
+- slug: island-rose
+  display_name: Island Rose
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin: {}
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: tequila
+      display_name: Tequila
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: kahlaoa
+      display_name: Kahlaoa
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: chambord-raspberry-liqueur
+      display_name: Chambord Raspberry Liqueur
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: heavy-cream
+      display_name: Heavy Cream
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    garnish:
+    - slug: rose-petal
+      display_name: Rose Petal
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake well with ice and serve straight up or over ice
+    - text: Float the organic rose petal on the surface of the drink
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

@@ -1,0 +1,70 @@
+- slug: cosmopolitan
+  display_name: Cosmopolitan
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin:
+      year: 1980
+      story: "The contemporary recipe for the Cosmopolitan goes back to the test-marketing\
+        \ of Absolut Citron. I've heard an unsubstantiated rumor that a woman named\
+        \ Cheryl Cook invented it in South Beach, Miami, though I was given credit\
+        \ for inventing it by New York magazine (and other publications that cited\
+        \ the New York article as a source). Well, I didn't. What I did do was popularize\
+        \ a definitive recipe that became widely accepted as the standard. The drink\
+        \ )rst appeared on menus in the late 1980s, )rst in New York City at the Odeon\
+        \ in TriBeCa, and )rst in San Francisco at the Fog City Diner; of course,\
+        \ both locations claim to have invented the drink. I put it on my menu at\
+        \ the Rainbow Room in 1996. Shortly after that, Madonna was spotted drinking\
+        \ one, and overnight I was getting calls from as far away as Germany and Australia\
+        \ for the recipe. I added the additional touches of Cointreau and the 5amed\
+        \ orange peel for garnish and presented it several times on television around\
+        \ the country. Now, it is certainly the most recognized drink in the world,\
+        \ next to the classic Martini. But to go back even further: Ocean Spray Cranberry\
+        \ Juice has promoted spirits with their products aggressively for years, and\
+        \ from 1956 to 1970 they were featuring a series of cocktails, one of which\
+        \ was made with 1 ounce of vodka, 1 ounce of cranberry juice, and a squeeze\
+        \ of  lime, called the Harpoon. Add some Triple Sec or Cointreau and you have\
+        \ a Cosmopolitan."
+    glassware:
+    - slug: cocktail
+      display_name: Cocktail
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: citron-vodka
+      display_name: Citron Vodka
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: cointreau
+      display_name: Cointreau
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 0.25
+      unit: ounce
+      notes: []
+    - slug: cranberry-juice
+      display_name: Cranberry Juice
+      quantity: 1
+      unit: ounce
+      notes: []
+    garnish:
+    - slug: flamed-orange-peel
+      display_name: Flamed Orange Peel
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake all the ingredients with ice
+    - text: Strain into a chilled cocktail glass
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

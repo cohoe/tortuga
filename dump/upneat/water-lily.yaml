@@ -1,0 +1,48 @@
+- slug: water-lily
+  display_name: Water Lily
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      creator: Richard Boccato
+      location: Richard Boccato
+      year: 2007
+      story: This drink was served to a dear friend of Richard's whose middle name
+        is "Lily."
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: plymouth-gin
+      display_name: Plymouth Gin
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: rothman-winter-creme-de-violette
+      display_name: Rothman Winter Creme De Violette
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: cointreau
+      display_name: Cointreau
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.75
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake with ice and strain into a chilled coupe
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

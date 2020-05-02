@@ -1,0 +1,65 @@
+- slug: pumpkin-toddy
+  display_name: Pumpkin Toddy
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      creator: Jane Danger
+      location: Jane Danger
+      year: 2008
+      story: Originally, toddies were prepared hot or cold in the 18th century with
+        a spirit, sugar, water, and sometimes nutmeg. The formula has become considerably
+        more involved in the 21st century.
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: lairds-bonded-apple-brandy
+      display_name: Lairds Bonded Apple Brandy
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: rittenhouse-bonded-rye-whiskey
+      display_name: Rittenhouse Bonded Rye Whiskey
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: deep-mountain-grade-b-maple-syrup
+      display_name: Deep Mountain Grade B Maple Syrup
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: libbys-pumpkin-puree
+      display_name: Libbys Pumpkin Puree
+      quantity: 1
+      unit: teaspoon
+      notes: []
+    - slug: angostura-bitters
+      display_name: Angostura Bitters
+      quantity: 2
+      unit: dashes
+      notes: []
+    - slug: hot-water
+      display_name: Hot Water
+      quantity: 5
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Add everything to a pre-heated heatproof mug and stir
+    - text: Top with 5 oz hot water and stir
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

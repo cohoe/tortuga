@@ -1,0 +1,58 @@
+- slug: martinez
+  display_name: Martinez
+  origin: {}
+  specs:
+  - slug: death-co
+    display_name: Death & Co
+    origin: {}
+    glassware:
+    - slug: nora
+      display_name: Nora
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: haymans-old-tom-gin
+      display_name: Haymans Old Tom Gin
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: ransom-old-tom-gin
+      display_name: Ransom Old Tom Gin
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: house-sweet-vermouth
+      display_name: House Sweet Vermouth
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: luxardo-maraschino-liqueur
+      display_name: Luxardo Maraschino Liqueur
+      quantity: 0.5
+      unit: teaspoon
+      notes: []
+    - slug: massenez-kirsch-vieux-cherry-brandy
+      display_name: Massenez Kirsch Vieux Cherry Brandy
+      quantity: 0.5
+      unit: teaspoon
+      notes: []
+    - slug: house-orange-bitters
+      display_name: House Orange Bitters
+      quantity: 1
+      unit: dash
+      notes: []
+    garnish:
+    - slug: lemon-peel
+      display_name: Lemon Peel
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Stir all the ingredients over ice, then strain into a Nick & Nora glass
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

@@ -1,0 +1,67 @@
+- slug: sazerac
+  display_name: Sazerac
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin:
+      year: 1859
+      story: This drink is based on a bitters created by Antoine Amédée Peychaud,
+        who made a Cognac cocktail by mixing his bitters with Cognac. The most popular
+        Cognac for many years in New Orleans was Sazerac de Forge et Fils. In 1859,
+        John Schiller officially christened the Sazerac Cocktail in his newly opened
+        bar, the Sazerac Coffee House. When John H. Handy took over the bar, he altered
+        the famous drink and used whiskey instead of Cognac. I have my own twist on
+        the Sazerac, a mix of Cognac and bourbon.
+    glassware:
+    - slug: rocks
+      display_name: Rocks
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: splash-of-ricard
+      display_name: Splash Of Ricard
+      notes: []
+    - slug: vs-cognac
+      display_name: Vs Cognac
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: rye-whiskey
+      display_name: Rye Whiskey
+      quantity: 1
+      unit: ounce
+      notes: []
+    - slug: simple-syrup
+      display_name: Simple Syrup
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: peychauds-bitters
+      display_name: Peychauds Bitters
+      quantity: 2
+      unit: dashes
+      notes: []
+    - slug: angostura-bitters
+      display_name: Angostura Bitters
+      quantity: 2
+      unit: dashes
+      notes: []
+    garnish:
+    - slug: lemon-peel
+      display_name: Lemon Peel
+      notes: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Chill one rocks glass while preparing the drink in another
+    - text: Splash the Ricard into the second glass and swirl it, then pour it out
+    - text: Add the Cognac, rye, Simple Syrup, and the two kinds of bitters
+    - text: Stir with ice cubes to chill
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

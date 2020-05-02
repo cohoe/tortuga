@@ -1,0 +1,54 @@
+- slug: red-devil
+  display_name: Red Devil
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      creator: Daniel Eun
+      location: Daniel Eun
+      year: 2002
+      story: Daniel named the drink after team Korea's soccer fan club, the Red Devils.
+        According to Eun, the interplay between Korean tea and Dutch gin mirrors the
+        influence of the Dutch coaching staff on the 2002 Korean World Cup soccer
+        team.
+    glassware:
+    - slug: mixing
+      display_name: Mixing
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: bols-genever
+      display_name: Bols Genever
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: jujube-tea-infused-vya-sweet-vermouth
+      display_name: Jujube Tea Infused Vya Sweet Vermouth
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: dried-persimmon
+      display_name: Dried Persimmon
+      quantity: 3
+      unit: slices
+      notes: []
+    - slug: fee-brothers-whiskey-barrel-aged-bitters
+      display_name: Fee Brothers Whiskey Barrel Aged Bitters
+      quantity: 2
+      unit: dashes
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Add the persimmon and vermouth to a mixing glass and muddle
+    - text: Add everything else, then stir with ice and strain over one large cube
+        into a chilled rocks glass
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

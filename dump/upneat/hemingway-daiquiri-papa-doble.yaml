@@ -1,0 +1,60 @@
+- slug: hemingway-daiquiri-papa-doble
+  display_name: Hemingway Daiquiri (Papa Doble)
+  origin: {}
+  specs:
+  - slug: the-craft-of-the-cocktail
+    display_name: The Craft of the Cocktail
+    origin:
+      year: 1921
+      story: In about 1921, the cocktail muse inspired the great Constantino Ribalaigua
+        Vert of the El Floridita Bar in Havana when he added fresh grapefruit juice
+        and maraschino liqueur to the Daiquiri. The result is ambrosia. The drink
+        was made as a frozen drink at the famous Floridita and was named Papa Doble,
+        or "Papa's Double," after Ernest Hemingway. The original recipe didn't call
+        for any sugar, just a touch of the maraschino liqueur, and it is always reprinted
+        that way out of respect to Papa; Hemingway had an aversion to sugar. But you
+        can be sure that for the average customer at the Floridita, the Simple Syrup
+        was part of the recipe.
+    glassware:
+    - slug: cocktail
+      display_name: Cocktail
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: white-rum
+      display_name: White Rum
+      quantity: 1.5
+      unit: ounces
+      notes: []
+    - slug: maraschino-liqueur
+      display_name: Maraschino Liqueur
+      quantity: 0.25
+      unit: ounce
+      notes: []
+    - slug: grapefruit-juice
+      display_name: Grapefruit Juice
+      quantity: 0.5
+      unit: ounce
+      notes: []
+    - slug: simple-syrup-optional
+      display_name: Simple Syrup Optional
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 0.75
+      unit: ounce
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes: []
+    instructions:
+    - text: Shake the ingredients with ice and strain into a chilled cocktail glass
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []
