@@ -1,6 +1,5 @@
 - slug: legend
   display_name: Legend
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
@@ -8,7 +7,6 @@
       creator: Jillian Vose
       location: Jillian Vose
       year: 2012
-    glassware: []
     construction:
       slug: stir
       display_name: Stir
@@ -17,45 +15,31 @@
       display_name: Pierre Ferrand 1840 Cognac
       quantity: 1
       unit: ounce
-      notes: []
     - slug: appleton-estate-v-x-rum
       display_name: Appleton Estate V X Rum
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: lustau-amontillado-sherry
       display_name: Lustau Amontillado Sherry
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: amaro-nonino
       display_name: Amaro Nonino
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: demerara-syrup
       display_name: Rich Demerara Syrup
       quantity: 0.25
       unit: ounce
-      notes: []
     - slug: bitter-truth-aromatic-bitters
       display_name: Bitter Truth Aromatic Bitters
       quantity: 1
       unit: dash
-      notes: []
     - slug: angostura-bitters
       display_name: Angostura Bitters
       quantity: 1
       unit: dash
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Stir all the ingredients over ice, then strain into a coupe
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

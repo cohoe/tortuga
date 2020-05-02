@@ -1,6 +1,5 @@
 - slug: heart-shaped-box
   display_name: Heart Shaped Box
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
@@ -17,50 +16,36 @@
     components:
     - slug: 1-strawberry
       display_name: 1 Strawberry
-      notes: []
     - slug: hine-h-cognac
       display_name: Hine H Cognac
       quantity: 2
       unit: ounces
-      notes: []
     - slug: st-germain
       display_name: St Germain
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: lemon-juice
       display_name: Lemon Juice
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: cinnamon-bark-syrup
       display_name: Cinnamon Bark Syrup
       quantity: 0.25
       unit: ounce
-      notes: []
     - slug: aged-balsamic-vinegar
       display_name: Aged Balsamic Vinegar
       quantity: 0.5
       unit: teaspoon
-      notes: []
     - slug: angostura-bitters
       display_name: Angostura Bitters
       quantity: 1
       unit: dash
-      notes: []
     garnish:
     - slug: 0-5-strawberry
       display_name: 0 5 Strawberry
-      notes: []
     straw: true
-    citations: []
-    notes: []
     instructions:
     - text: In a shaker, gently muddle the strawberry
     - text: Add the remaining ingredients and short shake
     - text: Strain into a double rocks glass filled with crushed ice
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

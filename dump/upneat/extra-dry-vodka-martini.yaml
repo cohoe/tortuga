@@ -1,10 +1,8 @@
 - slug: extra-dry-vodka-martini
   display_name: Extra Dry Vodka Martini
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
-    origin: {}
     glassware:
     - slug: mixing
       display_name: Mixing
@@ -16,27 +14,17 @@
       display_name: Dry Vermouth
       quantity: 1
       unit: dash
-      notes: []
     - slug: vodka
       display_name: Vodka
       quantity: 3
       unit: ounces
-      notes: []
     garnish:
     - slug: olive
       display_name: Olive
-      notes: []
     - slug: lemon-peel
       display_name: Lemon Peel
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Stir with ice in a mixing glass (50 times if using large cubes, 30 if
         using small ones)
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

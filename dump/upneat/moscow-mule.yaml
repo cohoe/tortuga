@@ -1,6 +1,5 @@
 - slug: moscow-mule
   display_name: Moscow Mule
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
@@ -23,23 +22,14 @@
       display_name: Vodka
       quantity: 1.5
       unit: ounces
-      notes: []
     - slug: ounces
       display_name: Ounces
       quantity: 4-
       unit: '5'
-      notes: []
     garnish:
     - slug: wedge-lime
       display_name: Wedge Lime
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Combine the vodka and ginger beer in an iced glass
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

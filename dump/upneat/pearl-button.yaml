@@ -1,6 +1,5 @@
 - slug: pearl-button
   display_name: Pearl Button
-  origin: {}
   specs:
   - slug: pdt
     display_name: PDT
@@ -21,32 +20,21 @@
       display_name: Mae De Ouro Cachaca
       quantity: 2
       unit: oz
-      notes: []
     - slug: lillet-blanc
       display_name: Lillet Blanc
       quantity: 0.75
       unit: oz
-      notes: []
     - slug: lime-juice
       display_name: Lime Juice
       quantity: 0.5
       unit: oz
-      notes: []
     - slug: san-pellegrino-limonata
       display_name: San Pellegrino Limonata
       quantity: 1.5
       unit: oz
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Shake with ice and strain into a chilled Collins glass filled with ice
     - text: Top with 1
     - text: 5 oz of San Pellegrino Limonata
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

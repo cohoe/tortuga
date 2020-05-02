@@ -1,6 +1,5 @@
 - slug: traditional-grog-cold
   display_name: Traditional Grog (Cold)
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
@@ -19,33 +18,22 @@
       display_name: Heavy Bodied Rum
       quantity: 1.5
       unit: ounce
-      notes: []
     - slug: honey-syrup
       display_name: Honey Syrup
       quantity: 1
       unit: ounce
-      notes: []
     - slug: lemon-juice
       display_name: Lemon Juice
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: water
       display_name: Water
       quantity: 4
       unit: ounces
-      notes: []
     garnish:
     - slug: lemon
       display_name: Lemon
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Shake the ingredients with ice and serve over ice in a rocks glass
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

@@ -1,6 +1,5 @@
 - slug: tipperary-cocktail
   display_name: Tipperary Cocktail
-  origin: {}
   specs:
   - slug: pdt
     display_name: PDT
@@ -10,32 +9,21 @@
       year: 1916
       story: "This recipe shows up in Robert Vermeire's Cocktails: How to Mix Them\
         \ as a gin-based sour with grenadine, orange juice, sweet vermouth, and mint."
-    glassware: []
     construction:
       slug: stir
       display_name: Stir
     components:
     - slug: green-chartreuse
       display_name: Green Chartreuse
-      notes: []
     - slug: black-bush-irish-whiskey
       display_name: Black Bush Irish Whiskey
       quantity: 2
       unit: oz
-      notes: []
     - slug: carpano-antica-sweet-vermouth
       display_name: Carpano Antica Sweet Vermouth
       quantity: 1
       unit: oz
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Stir with ice and strain into a chilled, Green Chartreuse-rinsed coupe
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

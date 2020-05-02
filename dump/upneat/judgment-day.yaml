@@ -1,6 +1,5 @@
 - slug: judgment-day
   display_name: Judgment Day
-  origin: {}
   specs:
   - slug: pdt
     display_name: PDT
@@ -11,54 +10,39 @@
       story: Charles's tribute to Macchu Pisco founder Melanie Asher, who bailed him
         out of jail in New Orleans, where he was detained with a friend for dropping
         a bottle of tequila in the Old Absinthe House.
-    glassware: []
     construction:
       slug: shake
       display_name: Shake
     components:
     - slug: pernod-absinthe
       display_name: Pernod Absinthe
-      notes: []
     - slug: macchu-pisco
       display_name: Macchu Pisco
       quantity: 1.5
       unit: oz
-      notes: []
     - slug: st-germain-elderflower-liqueur
       display_name: St Germain Elderflower Liqueur
       quantity: 0.5
       unit: oz
-      notes: []
     - slug: lime-juice
       display_name: Lime Juice
       quantity: 0.5
       unit: oz
-      notes: []
     - slug: lemon-juice
       display_name: Lemon Juice
       quantity: 0.5
       unit: oz
-      notes: []
     - slug: simple-syrup
       display_name: Simple Syrup
       quantity: 0.5
       unit: oz
-      notes: []
     - slug: white
       display_name: White
       quantity: 1
       unit: Egg
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Dry-shake, then shake with ice and strain into a chilled, Pernod Absinthe-rinsed
         egg coupe
     - text: Elizabeth Allspice Dram
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

@@ -1,6 +1,5 @@
 - slug: vipera
   display_name: Vipera
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
@@ -8,7 +7,6 @@
       creator: Brian Miller
       location: Brian Miller
       year: 2008
-    glassware: []
     construction:
       slug: stir
       display_name: Stir
@@ -17,28 +15,18 @@
       display_name: Spiced Pear Infused Siembra Azul Blanco Tequila
       quantity: 2
       unit: ounces
-      notes: []
     - slug: lairds-bonded-apple-brandy
       display_name: Lairds Bonded Apple Brandy
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: yellow-chartreuse
       display_name: Yellow Chartreuse
       quantity: 0.5
       unit: ounce
-      notes: []
     garnish:
     - slug: slice-of-anjou-pear
       display_name: Slice Of Anjou Pear
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Stir all the ingredients over ice, then strain into a coupe
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

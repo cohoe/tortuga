@@ -1,10 +1,8 @@
 - slug: watermelon-martini
   display_name: Watermelon Martini
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
-    origin: {}
     glassware:
     - slug: martini
       display_name: Martini
@@ -16,33 +14,22 @@
       display_name: Lemon Juice
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: midori
       display_name: Midori
       quantity: 1
       unit: ounce
-      notes: []
     - slug: citrus-vodka
       display_name: Citrus Vodka
       quantity: 1
       unit: ounce
-      notes: []
     - slug: watermelon-juice
       display_name: Watermelon Juice
       quantity: 1.5
       unit: ounces
-      notes: []
     garnish:
     - slug: sprigs-of-mint
       display_name: Sprigs Of Mint
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Shake all the ingredients with ice and strain into a chilled martini glass
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

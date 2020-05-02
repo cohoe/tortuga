@@ -1,6 +1,5 @@
 - slug: cinema-highball
   display_name: Cinema Highball
-  origin: {}
   specs:
   - slug: pdt
     display_name: PDT
@@ -21,20 +20,11 @@
       display_name: Coca Cola Classic
       quantity: 4.5
       unit: oz
-      notes: []
     - slug: popcorn-infused-flor-de-cana-silver-dry-rum
       display_name: Popcorn Infused Flor De Cana Silver Dry Rum
       quantity: 2
       unit: oz
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Build in a chilled Collins glass filled with ice cubes
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

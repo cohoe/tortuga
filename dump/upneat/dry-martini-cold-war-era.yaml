@@ -1,6 +1,5 @@
 - slug: dry-martini-cold-war-era
   display_name: Dry Martini (Cold War Era)
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
@@ -20,25 +19,16 @@
       display_name: Dry French Vermouth
       quantity: 3
       unit: dashes
-      notes: []
     - slug: gin
       display_name: Gin
       quantity: 2
       unit: ounces
-      notes: []
     garnish:
     - slug: pitted-cocktail-olive
       display_name: Pitted Cocktail Olive
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Stir the ingredients with ice in a mixing glass (50 times if using large
         ice cubes, 30 times if using small cubes)
     - text: Strain into a chilled martini glass
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

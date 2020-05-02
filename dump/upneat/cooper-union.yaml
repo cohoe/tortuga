@@ -1,6 +1,5 @@
 - slug: cooper-union
   display_name: Cooper Union
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
@@ -17,36 +16,24 @@
     components:
     - slug: laphroaig-10-year-scotch-whisky
       display_name: Laphroaig 10 Year Scotch Whisky
-      notes: []
     - slug: redbreast-12-year-irish-whiskey
       display_name: Redbreast 12 Year Irish Whiskey
       quantity: 2
       unit: ounces
-      notes: []
     - slug: st-germain
       display_name: St Germain
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: house-orange-bitters
       display_name: House Orange Bitters
       quantity: 1
       unit: dash
-      notes: []
     - slug: lemon-peel
       display_name: Lemon Peel
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Rinse a double rocks glass with Laphroaig and dump
     - text: Stir the remaining ingredients (except the lemon twist) over ice, then
         strain into the glass
     - text: Squeeze the lemon twist over the drink and discard
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

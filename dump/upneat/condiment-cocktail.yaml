@@ -1,6 +1,5 @@
 - slug: condiment-cocktail
   display_name: Condiment Cocktail
-  origin: {}
   specs:
   - slug: pdt
     display_name: PDT
@@ -10,7 +9,6 @@
       year: 2009
       story: A dish prepared with celery and mustard seeds at Gramercy Tavern spawned
         the idea to mimic the flavors in liquid form.
-    glassware: []
     construction:
       slug: shake
       display_name: Shake
@@ -19,38 +17,25 @@
       display_name: Partida Reposado Tequila
       quantity: 2
       unit: oz
-      notes: []
     - slug: benedictine
       display_name: Benedictine
       quantity: 0.75
       unit: oz
-      notes: []
     - slug: lustau-palo-cortado-sherry
       display_name: Lustau Palo Cortado Sherry
       quantity: 0.5
       unit: oz
-      notes: []
     - slug: lime-juice
       display_name: Lime Juice
       quantity: 0.5
       unit: oz
-      notes: []
     - slug: bitter-truth-celery-bitters
       display_name: Bitter Truth Celery Bitters
       quantity: 2
       unit: dashes
-      notes: []
     - slug: 1-teaspoon-guldens-spicy-brown-mustard
       display_name: 1 Teaspoon Guldens Spicy Brown Mustard
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Shake with ice and fine-strain into a chilled coupe
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

@@ -1,6 +1,5 @@
 - slug: hadley-s-tears
   display_name: Hadley'S Tears
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
@@ -19,44 +18,31 @@
       display_name: Appleton Estate V X Rum
       quantity: 1
       unit: ounce
-      notes: []
     - slug: bols-genever
       display_name: Bols Genever
       quantity: 1
       unit: ounce
-      notes: []
     - slug: galliano-ristretto
       display_name: Galliano Ristretto
       quantity: 1
       unit: teaspoon
-      notes: []
     - slug: st-george-absinthe
       display_name: St George Absinthe
       quantity: 0.5
       unit: teaspoon
-      notes: []
     - slug: rich-cane-sugar-syrup
       display_name: Rich Cane Sugar Syrup
       quantity: 0.25
       unit: ounce
-      notes: []
     - slug: bitter-truth-aromatic-bitters
       display_name: Bitter Truth Aromatic Bitters
       quantity: 1
       unit: dash
-      notes: []
     garnish:
     - slug: orange-peel
       display_name: Orange Peel
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Stir all the ingredients over ice, then strain into a double rocks glass
         over 1 large ice cube
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

@@ -1,6 +1,5 @@
 - slug: pink-coral
   display_name: Pink Coral
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
@@ -12,7 +11,6 @@
         to the gourmet grocery and get miniature pineapples, hollow them out, and
         serve in them. Be very careful when scraping out the fruit that you don't
         puncture the skin.
-    glassware: []
     construction:
       slug: shake
       display_name: Shake
@@ -21,49 +19,35 @@
       display_name: Vodka
       quantity: 1.5
       unit: ounces
-      notes: []
     - slug: passoa-passion-fruit-liqueur
       display_name: Passoa Passion Fruit Liqueur
       quantity: 1
       unit: ounce
-      notes: []
     - slug: pineapple-juice
       display_name: Pineapple Juice
       quantity: 3
       unit: ounces
-      notes: []
     - slug: passion-fruit-juice
       display_name: Passion Fruit Juice
       quantity: 1
       unit: ounce
-      notes: []
     - slug: guava-juice
       display_name: Guava Juice
       quantity: 1
       unit: ounce
-      notes: []
     - slug: grenadine
       display_name: Grenadine
       quantity: 1
       unit: tablespoon
-      notes: []
     - slug: angostura-bitters
       display_name: Angostura Bitters
       quantity: 1
       unit: dash
-      notes: []
     garnish:
     - slug: tropical-fruit
       display_name: Tropical Fruit
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Shake all the ingredients with ice and serve in a large goblet
     - text: Decorate with tropical fruit if it is available
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

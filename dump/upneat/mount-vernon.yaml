@@ -1,6 +1,5 @@
 - slug: mount-vernon
   display_name: Mount Vernon
-  origin: {}
   specs:
   - slug: pdt
     display_name: PDT
@@ -11,7 +10,6 @@
       story: This cocktail was inspired by George Washington, who operated one of
         the largest distilleries in the country, located on his personal estate, Mount
         Vernon.
-    glassware: []
     construction:
       slug: shake
       display_name: Shake
@@ -20,35 +18,23 @@
       display_name: Clear Creek Kirschwasser
       quantity: 1
       unit: oz
-      notes: []
     - slug: gran-duque-dalba-brandy-de-jerez
       display_name: Gran Duque Dalba Brandy De Jerez
       quantity: 1
       unit: oz
-      notes: []
     - slug: grapefruit-juice
       display_name: Grapefruit Juice
       quantity: 0.75
       unit: oz
-      notes: []
     - slug: lustau-pedro-ximenez-sherry
       display_name: Lustau Pedro Ximenez Sherry
       quantity: 0.5
       unit: oz
-      notes: []
     - slug: cherry-heering
       display_name: Cherry Heering
       quantity: 0.5
       unit: oz
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Shake with ice and strain into a chilled coupe
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

@@ -1,10 +1,8 @@
 - slug: fancy-tequila-cocktail
   display_name: Fancy Tequila Cocktail
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
-    origin: {}
     glassware:
     - slug: martini
       display_name: Martini
@@ -16,33 +14,22 @@
       display_name: Sauza Hornitos Tequila
       quantity: 1
       unit: ounce
-      notes: []
     - slug: grand-marnier
       display_name: Grand Marnier
       quantity: 1
       unit: ounce
-      notes: []
     - slug: orange-juice
       display_name: Orange Juice
       quantity: 1.5
       unit: ounces
-      notes: []
     - slug: lime-juice
       display_name: Lime Juice
       quantity: 0.25
       unit: ounce
-      notes: []
     garnish:
     - slug: flamed-orange-peel
       display_name: Flamed Orange Peel
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Shake all the ingredients with ice and strain into a chilled martini glass
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

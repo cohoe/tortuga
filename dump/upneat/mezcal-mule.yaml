@@ -1,6 +1,5 @@
 - slug: mezcal-mule
   display_name: Mezcal Mule
-  origin: {}
   specs:
   - slug: pdt
     display_name: PDT
@@ -21,45 +20,32 @@
       display_name: Sombra Mezcal
       quantity: 1.5
       unit: oz
-      notes: []
     - slug: house-ginger-beer
       display_name: House Ginger Beer
       quantity: 1
       unit: oz
-      notes: []
     - slug: lime-juice
       display_name: Lime Juice
       quantity: 0.75
       unit: oz
-      notes: []
     - slug: boiron-passion-fruit-puree
       display_name: Boiron Passion Fruit Puree
       quantity: 0.75
       unit: oz
-      notes: []
     - slug: agave-syrup
       display_name: Agave Syrup
       quantity: 0.5
       unit: oz
-      notes: []
     - slug: of-cucumber
       display_name: Of Cucumber
       quantity: 3
       unit: slices
-      notes: []
     garnish:
     - slug: 1-slice-of-cucumber
       display_name: 1 Slice Of Cucumber
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Add the agave syrup and cucumber slices to a mixing glass and muddle
     - text: Add everything else, then shake with ice and strain into a chilled rocks
         glass filled with ice
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

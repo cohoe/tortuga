@@ -1,6 +1,5 @@
 - slug: frozen-strawberry-daiquiri
   display_name: Frozen Strawberry Daiquiri
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
@@ -19,42 +18,30 @@
       display_name: White Rum
       quantity: 1.5
       unit: ounces
-      notes: []
     - slug: maraschino-liqueur
       display_name: Maraschino Liqueur
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: 6-medium-size-cleaned-and-cut-up-strawberry
       display_name: 6 Medium Size Cleaned And Cut Up Strawberry
       quantity: 4
       unit: to
-      notes: []
     - slug: simple-syrup
       display_name: Simple Syrup
       quantity: 1.5
       unit: ounces
-      notes: []
     - slug: lime-juice
       display_name: Lime Juice
       quantity: 1
       unit: ounce
-      notes: []
     garnish:
     - slug: strawberry
       display_name: Strawberry
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Blend all the ingredients with a handful of ice and strain into a special
         frozen-drink glass or into a medium-size wineglass
     - text: See the Hemingway Daiquiri and you will note that frozen drinks require
         a lot more sweetening than shaken drinks because of all the additional water
         from the ice
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

@@ -1,13 +1,11 @@
 - slug: dragon-lily
   display_name: Dragon Lily
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
     origin:
       year: 2008
       story: JOAQUÍN SIMÓ, 2008
-    glassware: []
     construction:
       slug: stir
       display_name: Stir
@@ -16,30 +14,19 @@
       display_name: Siembra Azul Blanco Tequila
       quantity: 1.5
       unit: ounces
-      notes: []
     - slug: tarragon-and-agave-nectar-gastrique
       display_name: Tarragon And Agave Nectar Gastrique
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: house-peychauds-bitters
       display_name: House Peychauds Bitters
       quantity: 1
       unit: dash
-      notes: []
     - slug: dry-champagne
       display_name: Dry Champagne
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Stir all the ingredients (except the champagne) over ice, then strain
         into a flute
     - text: Top with champagne
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

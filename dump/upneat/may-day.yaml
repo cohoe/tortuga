@@ -1,6 +1,5 @@
 - slug: may-day
   display_name: May Day
-  origin: {}
   specs:
   - slug: pdt
     display_name: PDT
@@ -10,7 +9,6 @@
       year: 2009
       story: "Note: the title doesn't refer to a pilot's plea for help; she's talking\
         \ about May 1, when you kick back and start enjoying the summer."
-    glassware: []
     construction:
       slug: stir
       display_name: Stir
@@ -19,41 +17,28 @@
       display_name: Plymouth Gin
       quantity: 0.5
       unit: oz
-      notes: []
     - slug: aperol
       display_name: Aperol
       quantity: 0.5
       unit: oz
-      notes: []
     - slug: lemon-juice
       display_name: Lemon Juice
       quantity: 0.5
       unit: oz
-      notes: []
     - slug: simple-syrup
       display_name: Simple Syrup
       quantity: 1
       unit: barspoon
-      notes: []
     - slug: fee-brothers-rhubarb-bitters
       display_name: Fee Brothers Rhubarb Bitters
       quantity: 3
       unit: dashes
-      notes: []
     - slug: moet-imperial-champagne
       display_name: Moet Imperial Champagne
       quantity: 2
       unit: oz
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Stir with ice and strain into a chilled coupe
     - text: Top with 2 oz Moët Imperial Champagne
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

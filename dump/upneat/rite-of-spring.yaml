@@ -1,6 +1,5 @@
 - slug: rite-of-spring
   display_name: Rite Of Spring
-  origin: {}
   specs:
   - slug: pdt
     display_name: PDT
@@ -11,7 +10,6 @@
       story: When ramps, the wild spring onions that sprout up in cool, forested regions
         of the Northeast, show up at the farmer's market, we know that spring has
         officially begun.
-    glassware: []
     construction:
       slug: stir
       display_name: Stir
@@ -20,25 +18,15 @@
       display_name: Tanqueray Gin
       quantity: 2
       unit: oz
-      notes: []
     - slug: vya-dry-vermouth
       display_name: Vya Dry Vermouth
       quantity: 0.75
       unit: oz
-      notes: []
     - slug: pickled-ramp-brine
       display_name: Pickled Ramp Brine
       quantity: 0.25
       unit: oz
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Stir with ice and strain into a chilled coupe
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

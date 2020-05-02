@@ -1,6 +1,5 @@
 - slug: old-maid
   display_name: Old Maid
-  origin: {}
   specs:
   - slug: pdt
     display_name: PDT
@@ -22,43 +21,30 @@
       display_name: Plymouth Gin
       quantity: 2
       unit: oz
-      notes: []
     - slug: lime-juice
       display_name: Lime Juice
       quantity: 1
       unit: oz
-      notes: []
     - slug: simple-syrup
       display_name: Simple Syrup
       quantity: 0.75
       unit: oz
-      notes: []
     - slug: mint
       display_name: Mint
       quantity: 6
       unit: leaves
-      notes: []
     - slug: cucumber
       display_name: Cucumber
       quantity: 3
       unit: slices
-      notes: []
     garnish:
     - slug: 1-sprig-mint
       display_name: 1 Sprig Mint
-      notes: []
     - slug: 1-slice-of-cucumber
       display_name: 1 Slice Of Cucumber
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Muddle the cucumber and mint with simple syrup
     - text: Add everything else, then shake with ice and finestrain over one large
         cube into a chilled rocks glass
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

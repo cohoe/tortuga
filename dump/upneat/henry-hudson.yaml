@@ -1,6 +1,5 @@
 - slug: henry-hudson
   display_name: Henry Hudson
-  origin: {}
   specs:
   - slug: pdt
     display_name: PDT
@@ -22,35 +21,23 @@
       display_name: Bols Genever
       quantity: 1.5
       unit: oz
-      notes: []
     - slug: channing-daughters-scuttlehole-chardonnay
       display_name: Channing Daughters Scuttlehole Chardonnay
       quantity: 1
       unit: oz
-      notes: []
     - slug: lemon-juice
       display_name: Lemon Juice
       quantity: 0.5
       unit: oz
-      notes: []
     - slug: simple-syrup
       display_name: Simple Syrup
       quantity: 0.5
       unit: oz
-      notes: []
     - slug: van-oosten-batavia-arrack
       display_name: Van Oosten Batavia Arrack
       quantity: 0.25
       unit: oz
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Stir with ice and strain over one large cube into a chilled rocks glass
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

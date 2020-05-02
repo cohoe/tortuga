@@ -1,6 +1,5 @@
 - slug: one-one-one
   display_name: One, One, One
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
@@ -8,7 +7,6 @@
       creator: Thomas Waugh
       location: Thomas Waugh
       year: 2009
-    glassware: []
     construction:
       slug: stir
       display_name: Stir
@@ -17,30 +15,19 @@
       display_name: Krogstad Aquavit
       quantity: 1
       unit: ounce
-      notes: []
     - slug: beefeater-london-dry-gin
       display_name: Beefeater London Dry Gin
       quantity: 1
       unit: ounce
-      notes: []
     - slug: dolin-blanc-vermouth
       display_name: Dolin Blanc Vermouth
       quantity: 1
       unit: ounce
-      notes: []
     - slug: regans-orange-bitters
       display_name: Regans Orange Bitters
       quantity: 1
       unit: dash
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Stir all the ingredients over ice, then strain into a coupe
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

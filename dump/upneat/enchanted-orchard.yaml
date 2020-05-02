@@ -1,6 +1,5 @@
 - slug: enchanted-orchard
   display_name: Enchanted Orchard
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
@@ -18,44 +17,31 @@
       display_name: Campo De Encanto Acholado Pisco
       quantity: 1.5
       unit: ounces
-      notes: []
     - slug: busnel-vsop-calvados
       display_name: Busnel Vsop Calvados
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: benedictine
       display_name: Benedictine
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: pineapple-juice
       display_name: Pineapple Juice
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: lemon-juice
       display_name: Lemon Juice
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: acacia-honey-syrup
       display_name: Acacia Honey Syrup
       quantity: 0.5
       unit: ounce
-      notes: []
     garnish:
     - slug: 1-stick-of-cinnamon
       display_name: 1 Stick Of Cinnamon
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Shake all the ingredients with ice, then strain into a double rocks glass
         over 1 large ice cube
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

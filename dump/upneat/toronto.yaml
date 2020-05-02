@@ -1,10 +1,8 @@
 - slug: toronto
   display_name: Toronto
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
-    origin: {}
     glassware:
     - slug: nora
       display_name: Nora
@@ -16,28 +14,18 @@
       display_name: Rittenhouse 100 Rye Whiskey
       quantity: 2
       unit: ounces
-      notes: []
     - slug: fernet-branca
       display_name: Fernet Branca
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: demerara-syrup
       display_name: Rich Demerara Syrup
       quantity: 1
       unit: teaspoon
-      notes: []
     garnish:
     - slug: lemon-peel
       display_name: Lemon Peel
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Stir all the ingredients over ice, then strain into a Nick & Nora glass
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

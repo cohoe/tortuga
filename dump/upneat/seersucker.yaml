@@ -1,6 +1,5 @@
 - slug: seersucker
   display_name: Seersucker
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
@@ -17,35 +16,24 @@
     components:
     - slug: 1-strawberry
       display_name: 1 Strawberry
-      notes: []
     - slug: flor-de-caa-a-extra-dry-white-rum
       display_name: Flor De Caa A Extra Dry White Rum
       quantity: 2
       unit: ounces
-      notes: []
     - slug: lemon-juice
       display_name: Lemon Juice
       quantity: 1
       unit: ounce
-      notes: []
     - slug: cinnamon-bark-syrup
       display_name: Cinnamon Bark Syrup
       quantity: 0.5
       unit: ounce
-      notes: []
     garnish:
     - slug: strawberry
       display_name: Strawberry
-      notes: []
     straw: true
-    citations: []
-    notes: []
     instructions:
     - text: In a shaker, gently muddle the strawberry
     - text: Add the remaining ingredients and short shake with 3 ice cubes
     - text: Strain into a pilsner glass filled with crushed ice
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

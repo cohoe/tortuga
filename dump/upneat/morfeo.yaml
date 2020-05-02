@@ -1,13 +1,11 @@
 - slug: morfeo
   display_name: Morfeo
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
     origin:
       year: 2009
       story: JOAQUÍN SIMÓ, 2009
-    glassware: []
     construction:
       slug: shake
       display_name: Shake
@@ -16,35 +14,23 @@
       display_name: Chamomile Infused Old Overholt Rye Whiskey
       quantity: 1.5
       unit: ounces
-      notes: []
     - slug: galliano-lautentico
       display_name: Galliano Lautentico
       quantity: 0.25
       unit: ounce
-      notes: []
     - slug: lemon-juice
       display_name: Lemon Juice
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: acacia-honey-syrup
       display_name: Acacia Honey Syrup
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: dry-champagne
       display_name: Dry Champagne
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Shake all the ingredients (except the champagne) with ice, then strain
         into a flute
     - text: Top with champagne
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

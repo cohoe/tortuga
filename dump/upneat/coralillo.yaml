@@ -1,6 +1,5 @@
 - slug: coralillo
   display_name: Coralillo
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
@@ -8,7 +7,6 @@
       creator: Thomas Waugh
       location: Thomas Waugh
       year: 2011
-    glassware: []
     construction:
       slug: stir
       display_name: Stir
@@ -17,33 +15,22 @@
       display_name: El Tesoro Aa Ejo Tequila
       quantity: 1.5
       unit: ounces
-      notes: []
     - slug: yellow-chartreuse
       display_name: Yellow Chartreuse
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: busnel-vsop-calvados
       display_name: Busnel Vsop Calvados
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: clear-creek-pear-brandy
       display_name: Clear Creek Pear Brandy
       quantity: 0.25
       unit: ounce
-      notes: []
     garnish:
     - slug: slice-of-fuji-apple
       display_name: Slice Of Fuji Apple
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Stir all the ingredients over ice, then strain into a coupe
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

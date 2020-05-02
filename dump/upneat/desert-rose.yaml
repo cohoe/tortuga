@@ -1,6 +1,5 @@
 - slug: desert-rose
   display_name: Desert Rose
-  origin: {}
   specs:
   - slug: pdt
     display_name: PDT
@@ -10,7 +9,6 @@
       year: 2007
       story: Artemio Vásquez created this floral gin sour for his beloved wife, Juana
         Rosa.
-    glassware: []
     construction:
       slug: shake
       display_name: Shake
@@ -19,30 +17,19 @@
       display_name: Rose Infused Plymouth Gin
       quantity: 2
       unit: oz
-      notes: []
     - slug: lemon-juice
       display_name: Lemon Juice
       quantity: 0.75
       unit: oz
-      notes: []
     - slug: perfect-purees-of-napa-valley-prickly-pear-puree
       display_name: Perfect Purees Of Napa Valley Prickly Pear Puree
       quantity: 0.5
       unit: oz
-      notes: []
     - slug: simple-syrup
       display_name: Simple Syrup
       quantity: 0.5
       unit: oz
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Shake with ice and strain into a chilled coupe
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

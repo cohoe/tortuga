@@ -1,6 +1,5 @@
 - slug: stick-the-landing
   display_name: Stick The Landing
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
@@ -8,7 +7,6 @@
       creator: Brad Farran
       location: Brad Farran
       year: 2012
-    glassware: []
     construction:
       slug: shake
       display_name: Shake
@@ -17,40 +15,27 @@
       display_name: Louis Royer Force 53 Cognac
       quantity: 1
       unit: ounce
-      notes: []
     - slug: redbreast-12-year-irish-whiskey
       display_name: Redbreast 12 Year Irish Whiskey
       quantity: 1
       unit: ounce
-      notes: []
     - slug: massenez-creme-de-peche-peach-liqueur
       display_name: Massenez Creme De Peche Peach Liqueur
       quantity: 1
       unit: teaspoon
-      notes: []
     - slug: lemon-juice
       display_name: Lemon Juice
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: rich-cane-sugar-syrup
       display_name: Rich Cane Sugar Syrup
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: angostura-bitters
       display_name: Angostura Bitters
       quantity: 2
       unit: dashes
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Shake all the ingredients with ice, then strain into a coupe
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

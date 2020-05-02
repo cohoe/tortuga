@@ -1,6 +1,5 @@
 - slug: red-headed-saint
   display_name: Red Headed Saint
-  origin: {}
   specs:
   - slug: pdt
     display_name: PDT
@@ -22,37 +21,25 @@
       display_name: Beleza Pura Cachaca
       quantity: 2
       unit: oz
-      notes: []
     - slug: lime-juice
       display_name: Lime Juice
       quantity: 0.75
       unit: oz
-      notes: []
     - slug: agave-syrup
       display_name: Agave Syrup
       quantity: 0.5
       unit: oz
-      notes: []
     - slug: yellow-chartreuse
       display_name: Yellow Chartreuse
       quantity: 0.25
       unit: oz
-      notes: []
     - slug: a-b-smeby-verbena-bitters
       display_name: A B Smeby Verbena Bitters
       quantity: 4
       unit: dashes
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Shake with ice and strain into a chilled Collins glass filled with pebble
         ice
     - text: Top with 4 dashes Peychaud's Bitters
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

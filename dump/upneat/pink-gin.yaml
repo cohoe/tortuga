@@ -1,6 +1,5 @@
 - slug: pink-gin
   display_name: Pink Gin
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
@@ -24,25 +23,16 @@
       display_name: Gin
       quantity: 2
       unit: ounces
-      notes: []
     - slug: angostura-or-orange-bitters
       display_name: Angostura Or Orange Bitters
       quantity: 3
       unit: dashes
-      notes: []
     garnish:
     - slug: lemon-peel
       display_name: Lemon Peel
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Combine in an old-fashioned glass over ice
     - text: Originally this drink was served without ice, but these days you won't
         find many takers for warm gin
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

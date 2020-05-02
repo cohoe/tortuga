@@ -1,10 +1,8 @@
 - slug: flirtini
   display_name: Flirtini
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
-    origin: {}
     glassware:
     - slug: mixing
       display_name: Mixing
@@ -16,40 +14,28 @@
       display_name: Of Pineapple
       quantity: 2
       unit: pieces
-      notes: []
     - slug: cointreau
       display_name: Cointreau
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: vodka
       display_name: Vodka
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: pineapple-juice
       display_name: Pineapple Juice
       quantity: 1
       unit: ounce
-      notes: []
     - slug: champagne
       display_name: Champagne
       quantity: 3
       unit: ounces
-      notes: []
     garnish:
     - slug: cherry
       display_name: Cherry
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: In the bottom of a mixing glass, muddle the pineapple pieces and the Cointreau
     - text: Add the vodka and juice and stir with ice
     - text: Strain into a chilled martini glass and top with the Champagne
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

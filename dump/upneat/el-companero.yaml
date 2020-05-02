@@ -1,6 +1,5 @@
 - slug: el-companero
   display_name: El Compañero
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
@@ -19,46 +18,32 @@
       display_name: El Tesoro Reposado Tequila
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: jalapeno-infused-siembra-azul-blanco-tequila
       display_name: Jalapeno Infused Siembra Azul Blanco Tequila
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: lime-juice
       display_name: Lime Juice
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: agave-nectar
       display_name: Agave Nectar
       quantity: 1
       unit: teaspoon
-      notes: []
     - slug: tabasco-chipotle-sauce
       display_name: Tabasco Chipotle Sauce
       quantity: 1
       unit: dash
-      notes: []
     - slug: pinch-of-kosher-salt
       display_name: Pinch Of Kosher Salt
-      notes: []
     - slug: negra-modelo-beer
       display_name: Negra Modelo Beer
-      notes: []
     garnish:
     - slug: sprig-of-cilantro
       display_name: Sprig Of Cilantro
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Shake all the ingredients (except the beer) with 3 ice cubes, then strain
         into a highball glass filled with ice cubes
     - text: Top with Negra Modelo
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

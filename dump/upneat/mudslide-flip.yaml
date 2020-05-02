@@ -1,10 +1,8 @@
 - slug: mudslide-flip
   display_name: Mudslide Flip
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
-    origin: {}
     glassware:
     - slug: pilsner
       display_name: Pilsner
@@ -16,45 +14,32 @@
       display_name: Redbreast 12 Year Irish Whiskey
       quantity: 1.5
       unit: ounces
-      notes: []
     - slug: coffee-infused-carpano-antica-formula-vermouth
       display_name: Coffee Infused Carpano Antica Formula Vermouth
       quantity: 1
       unit: ounce
-      notes: []
     - slug: demerara-syrup
       display_name: Rich Demerara Syrup
       quantity: 0.25
       unit: ounce
-      notes: []
     - slug: egg-yolk
       display_name: Yolk
       quantity: 1
       unit: Egg
-      notes: []
     - slug: heavy-cream
       display_name: Heavy Cream
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: angostura-bitters
       display_name: Angostura Bitters
       quantity: 1
       unit: dash
-      notes: []
     garnish:
     - slug: dark-chocolate
       display_name: Dark Chocolate
-      notes: []
     straw: true
-    citations: []
-    notes: []
     instructions:
     - text: Short shake all the ingredients with 3 ice cubes, then strain into a pilsner
         glass filled with crushed ice
     - text: Coarsely grate some dark chocolate over the drink and serve with a straw
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

@@ -1,6 +1,5 @@
 - slug: resting-point
   display_name: Resting Point
-  origin: {}
   specs:
   - slug: pdt
     display_name: PDT
@@ -10,7 +9,6 @@
       year: 2010
       story: A mashup of reposado, "rested" in Spanish, and punt, "point" in Italian,
         this bittersweet strawberry Margarita will do more than just relax you.
-    glassware: []
     construction:
       slug: unknown
       display_name: Unknown
@@ -19,43 +17,30 @@
       display_name: Siete Leguas Reposado Tequila
       quantity: 1.5
       unit: oz
-      notes: []
     - slug: yellow-chartreuse
       display_name: Yellow Chartreuse
       quantity: 0.5
       unit: oz
-      notes: []
     - slug: punt-e-mes
       display_name: Punt E Mes
       quantity: 0.5
       unit: oz
-      notes: []
     - slug: lemon-juice
       display_name: Lemon Juice
       quantity: 0.5
       unit: oz
-      notes: []
     - slug: agave-syrup
       display_name: Agave Syrup
       quantity: 0.5
       unit: oz
-      notes: []
     - slug: 1-strawberry
       display_name: 1 Strawberry
-      notes: []
     garnish:
     - slug: strawberry
       display_name: Strawberry
-      notes: []
     straw: true
-    citations: []
-    notes: []
     instructions:
     - text: Muddle 1 strawberry
     - text: Add everything else, then shake with ice and finestrain into a chilled
         coupe
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

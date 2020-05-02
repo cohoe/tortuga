@@ -1,6 +1,5 @@
 - slug: hot-lips
   display_name: Hot Lips
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
@@ -19,44 +18,31 @@
       display_name: Jalapeno Infused Siembra Azul Blanco Tequila
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: los-amantes-joven-mezcal
       display_name: Los Amantes Joven Mezcal
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: lemon-juice
       display_name: Lemon Juice
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: pineapple-juice
       display_name: Pineapple Juice
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: vanilla-syrup
       display_name: Vanilla Syrup
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: rich-cane-sugar-syrup
       display_name: Rich Cane Sugar Syrup
       quantity: 1
       unit: teaspoon
-      notes: []
     garnish:
     - slug: rim-with-kosher-salt
       display_name: Rim With Kosher Salt
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Rim half of a fancy fizz glass with salt and add 2 ice cubes
     - text: Stir the remaining ingredients over ice, then strain into the glass
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

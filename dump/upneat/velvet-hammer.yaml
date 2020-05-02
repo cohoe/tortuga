@@ -1,10 +1,8 @@
 - slug: velvet-hammer
   display_name: Velvet Hammer
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
-    origin: {}
     glassware:
     - slug: martini
       display_name: Martini
@@ -16,30 +14,20 @@
       display_name: Triple Sec
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: white-creme-de-cacao
       display_name: White Cra Me De Cacao
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: heavy-cream
       display_name: Heavy Cream
       quantity: 2
       unit: ounces
-      notes: []
     garnish:
     - slug: nutmeg
       display_name: Nutmeg
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Shake all the ingredients well with ice and strain into a chilled cocktail
         or martini glass
     - text: Dust with the nutmeg
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

@@ -1,10 +1,8 @@
 - slug: queen-s-park-swizzle
   display_name: Queen'S Park Swizzle
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
-    origin: {}
     glassware:
     - slug: pilsner
       display_name: Pilsner
@@ -16,44 +14,34 @@
       display_name: Of Mint
       quantity: 10
       unit: leaves
-      notes: []
     - slug: simple-syrup
       display_name: Simple Syrup
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: of-white-sugar
       display_name: Of White Sugar
       quantity: 1
       unit: cube
-      notes: []
     - slug: caa-a-brava-rum
       display_name: Caa A Brava Rum
       quantity: 2
       unit: ounces
-      notes: []
     - slug: lime-juice
       display_name: Lime Juice
       quantity: 1
       unit: ounce
-      notes: []
     - slug: house-peychauds-bitters
       display_name: House Peychauds Bitters
       quantity: 4
       unit: dashes
-      notes: []
     - slug: angostura-bitters
       display_name: Angostura Bitters
       quantity: 4
       unit: dashes
-      notes: []
     garnish:
     - slug: sprig-of-mint
       display_name: Sprig Of Mint
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: In a shaker, gently muddle the mint with the simple syrup and sugar cube
     - text: Add the rum and lime juice and whip (shake with a few pieces of crushed
@@ -61,8 +49,4 @@
     - text: Dump into a pilsner glass filled with crushed ice
     - text: Swizzle until cold, then top with the bitters and swizzle them into the
         top of the drink
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

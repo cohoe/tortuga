@@ -1,6 +1,5 @@
 - slug: 209-east-cocktail
   display_name: 209 East Cocktail
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
@@ -31,26 +30,19 @@
       display_name: Sauza Hornitos Tequila
       quantity: 1.5
       unit: ounces
-      notes: []
     - slug: cointreau
       display_name: Cointreau
       quantity: 1
       unit: ounce
-      notes: []
     - slug: marie-brizard-strawberry-liqueur
       display_name: Marie Brizard Strawberry Liqueur
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: lime-juice
       display_name: Lime Juice
       quantity: 1
       unit: ounce
-      notes: []
-    garnish: []
     straw: true
-    citations: []
-    notes: []
     instructions:
     - text: Shake all the ingredients with ice and strain into a chilled cocktail
         glass
@@ -59,8 +51,4 @@
     - text: To make powdered strawberry, roast strawberries in a low oven until they
         are crisp and dry and pulverize them with a mortar and pestle
     - text: Mix with superfine sugar
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

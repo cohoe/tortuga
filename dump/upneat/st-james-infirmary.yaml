@@ -1,13 +1,11 @@
 - slug: st-james-infirmary
   display_name: St. James Infirmary
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
     origin:
       year: 2011
       story: JOAQUÍN SIMÓ, 2011
-    glassware: []
     construction:
       slug: stir
       display_name: Stir
@@ -16,48 +14,34 @@
       display_name: Plantation Barbados 5 Year Rum
       quantity: 1.5
       unit: ounces
-      notes: []
     - slug: st-james-royal-ambre-rhum-agricole
       display_name: St James Royal Ambre Rhum Agricole
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: cocchi-vermouth-di-torino
       display_name: Cocchi Vermouth Di Torino
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: morenita-cream-sherry
       display_name: Morenita Cream Sherry
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: simple-syrup
       display_name: Simple Syrup
       quantity: 1
       unit: teaspoon
-      notes: []
     - slug: bittermens-elemakule-tiki-bitters
       display_name: Bittermens Elemakule Tiki Bitters
       quantity: 2
       unit: dashes
-      notes: []
     - slug: bitter-truth-jerry-thomas-own-decanter-bitters
       display_name: Bitter Truth Jerry Thomas Own Decanter Bitters
       quantity: 1
       unit: dash
-      notes: []
     garnish:
     - slug: orange-peel
       display_name: Orange Peel
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Stir all the ingredients over ice, then strain into a coupe
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

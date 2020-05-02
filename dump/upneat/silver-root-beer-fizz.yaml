@@ -1,6 +1,5 @@
 - slug: silver-root-beer-fizz
   display_name: Silver Root Beer Fizz
-  origin: {}
   specs:
   - slug: pdt
     display_name: PDT
@@ -21,41 +20,28 @@
       display_name: Mount Gay Eclipse White Rum
       quantity: 1
       unit: oz
-      notes: []
     - slug: smith-cross-jamaican-rum
       display_name: Smith Cross Jamaican Rum
       quantity: 1
       unit: oz
-      notes: []
     - slug: lemon-juice
       display_name: Lemon Juice
       quantity: 0.5
       unit: oz
-      notes: []
     - slug: pineapple-juice
       display_name: Pineapple Juice
       quantity: 0.5
       unit: oz
-      notes: []
     - slug: white
       display_name: White
       quantity: 1
       unit: Egg
-      notes: []
     - slug: fitzs-root-beer
       display_name: Fitzs Root Beer
       quantity: 2
       unit: oz
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Dry-shake, then shake with ice and strain into a chilled fizz glass
     - text: Top with 2 oz Fitz's Root Beer
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

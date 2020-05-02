@@ -1,10 +1,8 @@
 - slug: casino-royale
   display_name: Casino Royale
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
-    origin: {}
     glassware:
     - slug: martini
       display_name: Martini
@@ -16,37 +14,25 @@
       display_name: Gin
       quantity: 1
       unit: ounce
-      notes: []
     - slug: orange-juice
       display_name: Orange Juice
       quantity: 1
       unit: ounce
-      notes: []
     - slug: maraschino-liqueur
       display_name: Maraschino Liqueur
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: lemon-juice
       display_name: Lemon Juice
       quantity: 0.25
       unit: ounce
-      notes: []
     - slug: champagne
       display_name: Champagne
-      notes: []
     garnish:
     - slug: orange-peel
       display_name: Orange Peel
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Shake all the ingredients except the Champagne and strain into a chilled
         martini glass
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

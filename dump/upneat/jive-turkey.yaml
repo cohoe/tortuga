@@ -1,6 +1,5 @@
 - slug: jive-turkey
   display_name: Jive Turkey
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
@@ -8,7 +7,6 @@
       creator: Jessica Gonzalez
       location: Jessica Gonzalez
       year: 2009
-    glassware: []
     construction:
       slug: stir
       display_name: Stir
@@ -17,45 +15,31 @@
       display_name: Buffalo Trace Bourbon
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: rittenhouse-100-rye-whiskey
       display_name: Rittenhouse 100 Rye Whiskey
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: old-overholt-rye-whiskey
       display_name: Old Overholt Rye Whiskey
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: amaro-ciociaro
       display_name: Amaro Ciociaro
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: dolin-dry-vermouth
       display_name: Dolin Dry Vermouth
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: st-germain
       display_name: St Germain
       quantity: 0.25
       unit: ounce
-      notes: []
     - slug: angostura-bitters
       display_name: Angostura Bitters
       quantity: 1
       unit: dash
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Stir all the ingredients over ice, then strain into a coupe
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

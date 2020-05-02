@@ -1,6 +1,5 @@
 - slug: margarita
   display_name: Margarita
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
@@ -25,32 +24,22 @@
       display_name: Tequila
       quantity: 1.5
       unit: ounces
-      notes: []
     - slug: cointreau
       display_name: Cointreau
       quantity: 1
       unit: ounce
-      notes: []
     - slug: lime-juice
       display_name: Lime Juice
       quantity: 0.75
       unit: ounce
-      notes: []
     garnish:
     - slug: salt
       display_name: Salt
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Combine the ingredients in a mixing glass with ice
     - text: Shake well and strain into a chilled cocktail glass with a salted rim
     - text: 'Salting the rim: Rim the edge of the cocktail glass by rubbing a lime
         piece on the outside rim of the glass, then dipping the outside rim into a
         saucer of coarse salt'
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

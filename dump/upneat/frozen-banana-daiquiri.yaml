@@ -1,13 +1,11 @@
 - slug: frozen-banana-daiquiri
   display_name: Frozen Banana Daiquiri
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
     origin:
       story: I use only a small amount of banana liqueur and get the flavor from the
         fruit.
-    glassware: []
     construction:
       slug: unknown
       display_name: Unknown
@@ -16,39 +14,26 @@
       display_name: Light Rum
       quantity: 1
       unit: ounce
-      notes: []
     - slug: gold-rum
       display_name: Gold Rum
       quantity: 1
       unit: ounce
-      notes: []
     - slug: lime-juice
       display_name: Lime Juice
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: simple-syrup
       display_name: Simple Syrup
       quantity: 2
       unit: ounces
-      notes: []
     - slug: banana-liqueur
       display_name: Banana Liqueur
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: 0-5-banana
       display_name: 0 5 Banana
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Blend the ingredients, reserving 1 slice banana, with crushed ice and
         serve in a large goblet
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

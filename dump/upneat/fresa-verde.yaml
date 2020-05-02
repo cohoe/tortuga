@@ -1,6 +1,5 @@
 - slug: fresa-verde
   display_name: Fresa Verde
-  origin: {}
   specs:
   - slug: pdt
     display_name: PDT
@@ -21,39 +20,27 @@
       display_name: Gran Centenario Blanco Tequila
       quantity: 2
       unit: oz
-      notes: []
     - slug: lime-juice
       display_name: Lime Juice
       quantity: 0.75
       unit: oz
-      notes: []
     - slug: al-wadi-pomegranate-molasses
       display_name: Al Wadi Pomegranate Molasses
       quantity: 0.25
       unit: oz
-      notes: []
     - slug: 2-strawberry
       display_name: 2 Strawberry
-      notes: []
     - slug: slices-of-green-bell-pepper
       display_name: Slices Of Green Bell Pepper
       quantity: 2
       unit: Thin
-      notes: []
     garnish:
     - slug: 1-slice-of-strawberry
       display_name: 1 Slice Of Strawberry
-      notes: []
     straw: true
-    citations: []
-    notes: []
     instructions:
     - text: Add the strawberries, green pepper slices, and molasses to a mixing glass
         and muddle
     - text: Add everything else, then shake with ice and fine-strain into a chilled
         coupe
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

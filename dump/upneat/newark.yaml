@@ -1,6 +1,5 @@
 - slug: newark
   display_name: Newark
-  origin: {}
   specs:
   - slug: pdt
     display_name: PDT
@@ -11,7 +10,6 @@
       story: By the time John and I came up with this Brooklyn variation, there were
         so many cocktails named after neighborhoods in Brooklyn, we claimed Newark,
         New Jersey.
-    glassware: []
     construction:
       slug: stir
       display_name: Stir
@@ -20,30 +18,19 @@
       display_name: Lairds Bonded Apple Brandy
       quantity: 2
       unit: oz
-      notes: []
     - slug: vya-sweet-vermouth
       display_name: Vya Sweet Vermouth
       quantity: 1
       unit: oz
-      notes: []
     - slug: fernet-branca
       display_name: Fernet Branca
       quantity: 0.25
       unit: oz
-      notes: []
     - slug: maraska-maraschino-liqueur
       display_name: Maraska Maraschino Liqueur
       quantity: 0.25
       unit: oz
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Stir with ice and strain into a chilled coupe
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

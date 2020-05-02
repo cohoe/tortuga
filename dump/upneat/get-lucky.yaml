@@ -1,6 +1,5 @@
 - slug: get-lucky
   display_name: Get Lucky
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
@@ -17,47 +16,34 @@
     components:
     - slug: 3-blackberry
       display_name: 3 Blackberry
-      notes: []
     - slug: flor-de-cana-extra-dry-white-rum
       display_name: Flor De Cana Extra Dry White Rum
       quantity: 2
       unit: ounces
-      notes: []
     - slug: lemon-juice
       display_name: Lemon Juice
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: ginger-syrup
       display_name: Ginger Syrup
       quantity: 0.25
       unit: ounce
-      notes: []
     - slug: orgeat
       display_name: Orgeat
       quantity: 0.25
       unit: ounce
-      notes: []
     - slug: acacia-honey-syrup
       display_name: Acacia Honey Syrup
       quantity: 0.25
       unit: ounce
-      notes: []
     garnish:
     - slug: house-peychauds-bitters
       display_name: House Peychauds Bitters
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: In a pilsner glass, gently muddle the blackberries
     - text: Fill the glass with crushed ice
     - text: In a shaker, whip the remaining ingredients, shaking with a few pieces
         of crushed ice just until incorporated
     - text: Strain into the glass
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

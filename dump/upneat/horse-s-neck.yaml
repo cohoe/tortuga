@@ -1,6 +1,5 @@
 - slug: horse-s-neck
   display_name: Horse'S Neck
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
@@ -18,19 +17,13 @@
       display_name: Bourbon Whiskey
       quantity: 1.5
       unit: ounces
-      notes: []
     - slug: ginger-ale
       display_name: Ginger Ale
       quantity: 5
       unit: ounces
-      notes: []
     - slug: spiral-lemon-peel
       display_name: Spiral Lemon Peel
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Before icing a highball or collins glass, place the lemon-peel spiral
         in the glass, spiraling up from the bottom with the curled end of the spiral
@@ -38,8 +31,4 @@
     - text: The piece hanging over the edge of the glass should look like a stylized
         horse's neck and head
     - text: Put the ice down through the center of the spiral and then build the drink
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

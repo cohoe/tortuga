@@ -1,6 +1,5 @@
 - slug: imperial-march
   display_name: Imperial March
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
@@ -19,38 +18,26 @@
       display_name: Martin Millers Westbourne Strength Gin
       quantity: 1.5
       unit: ounces
-      notes: []
     - slug: alvear-festival-pale-cream-sherry
       display_name: Alvear Festival Pale Cream Sherry
       quantity: 1
       unit: ounce
-      notes: []
     - slug: cocchi-americano
       display_name: Cocchi Americano
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: luxardo-maraschino-liqueur
       display_name: Luxardo Maraschino Liqueur
       quantity: 1
       unit: teaspoon
-      notes: []
     - slug: house-orange-bitters
       display_name: House Orange Bitters
       quantity: 1
       unit: dash
-      notes: []
     garnish:
     - slug: grapefruit-peel
       display_name: Grapefruit Peel
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Stir all the ingredients over ice, then strain into a fancy fizz glass
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

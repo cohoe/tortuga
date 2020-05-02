@@ -1,6 +1,5 @@
 - slug: flaquita
   display_name: Flaquita
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
@@ -8,7 +7,6 @@
       creator: Jessica Gonzalez
       location: Jessica Gonzalez
       year: 2011
-    glassware: []
     construction:
       slug: shake
       display_name: Shake
@@ -17,45 +15,31 @@
       display_name: El Tesoro Platinum Tequila
       quantity: 1
       unit: ounce
-      notes: []
     - slug: dolin-blanc-vermouth
       display_name: Dolin Blanc Vermouth
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: marie-brizard-white-creme-de-cacao
       display_name: Marie Brizard White Creme De Cacao
       quantity: 0.25
       unit: ounce
-      notes: []
     - slug: campari
       display_name: Campari
       quantity: 0.25
       unit: ounce
-      notes: []
     - slug: lemon-juice
       display_name: Lemon Juice
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: ginger-syrup
       display_name: Ginger Syrup
       quantity: 1
       unit: teaspoon
-      notes: []
     - slug: dry-champagne
       display_name: Dry Champagne
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Shake all the ingredients (except the champagne) with ice, then strain
         into a flute
     - text: Top with champagne
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

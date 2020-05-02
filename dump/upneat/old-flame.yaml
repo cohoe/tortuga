@@ -1,6 +1,5 @@
 - slug: old-flame
   display_name: Old Flame
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
@@ -19,39 +18,27 @@
       display_name: Bombay Gin
       quantity: 1
       unit: ounce
-      notes: []
     - slug: martini-rossi-sweet-vermouth
       display_name: Martini Rossi Sweet Vermouth
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: campari
       display_name: Campari
       quantity: 0.25
       unit: ounce
-      notes: []
     - slug: cointreau
       display_name: Cointreau
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: orange-juice
       display_name: Orange Juice
       quantity: 1.5
       unit: ounces
-      notes: []
     garnish:
     - slug: flamed-orange-peel
       display_name: Flamed Orange Peel
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Shake all the ingredients well to chill and strain into a chilled 5
     - text: 5- to 6-ounce martini glass
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

@@ -1,13 +1,11 @@
 - slug: iron-chancellor
   display_name: Iron Chancellor
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
     origin:
       year: 2008
       story: JOAQUÍN SIMÓ, 2008
-    glassware: []
     construction:
       slug: unknown
       display_name: Unknown
@@ -16,24 +14,14 @@
       display_name: Mackeson Stout
       quantity: 2
       unit: ounces
-      notes: []
     - slug: espresso-infused-demerara-syrup
       display_name: Espresso Infused Demerara Syrup
       quantity: 0.25
       unit: ounce
-      notes: []
     - slug: dry-champagne
       display_name: Dry Champagne
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Combine the beer and syrup in a flute, then slowly add the champagne over
         the back of a teaspoon
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

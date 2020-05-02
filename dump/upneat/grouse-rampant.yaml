@@ -1,6 +1,5 @@
 - slug: grouse-rampant
   display_name: Grouse Rampant
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
@@ -9,7 +8,6 @@
       location: AD
       story: GROUSE RAMPANT This whiskey sour variation is full of fall flavors. I
         make an X with the bitters on top to evoke the Scottish flag.
-    glassware: []
     construction:
       slug: shake
       display_name: Shake
@@ -18,38 +16,26 @@
       display_name: Fuji Apple Infused Famous Grouse Scotch
       quantity: 2
       unit: ounces
-      notes: []
     - slug: lemon-juice
       display_name: Lemon Juice
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: acacia-honey-syrup
       display_name: Acacia Honey Syrup
       quantity: 0.25
       unit: ounce
-      notes: []
     - slug: cinnamon-bark-syrup
       display_name: Cinnamon Bark Syrup
       quantity: 0.25
       unit: ounce
-      notes: []
     - slug: white
       display_name: White
       quantity: 1
       unit: Egg
-      notes: []
     garnish:
     - slug: house-peychauds-bitters
       display_name: House Peychauds Bitters
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Dry shake all the ingredients, then shake again with ice
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

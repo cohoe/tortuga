@@ -1,6 +1,5 @@
 - slug: floradora
   display_name: Floradora
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
@@ -19,35 +18,23 @@
       display_name: Gin
       quantity: 1.5
       unit: ounces
-      notes: []
     - slug: lime-juice
       display_name: Lime Juice
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: raspberry-liqueur
       display_name: Raspberry Liqueur
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: ginger-ale
       display_name: Ginger Ale
-      notes: []
     garnish:
     - slug: piece-of-lime
       display_name: Piece Of Lime
-      notes: []
     - slug: viola-flower
       display_name: Viola Flower
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Build the first three ingredients in a highball glass filled with ice
     - text: Top with ginger ale
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

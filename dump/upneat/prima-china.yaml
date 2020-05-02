@@ -1,6 +1,5 @@
 - slug: prima-china
   display_name: Prima China
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
@@ -10,7 +9,6 @@
       year: 2009
       story: JOAQUÍN SIMÓ, 2009 My wife's mother is Chinese, and one of my wife's
         cousins married a Mexican. So I married both cultures in this cocktail
-    glassware: []
     construction:
       slug: stir
       display_name: Stir
@@ -19,38 +17,26 @@
       display_name: Siembra Azul Anejo Tequila
       quantity: 2
       unit: ounces
-      notes: []
     - slug: earl-grey-infused-dolin-blanc-vermouth
       display_name: Earl Grey Infused Dolin Blanc Vermouth
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: cynar
       display_name: Cynar
       quantity: 0.25
       unit: ounce
-      notes: []
     - slug: marie-brizard-white-creme-de-cacao
       display_name: Marie Brizard White Creme De Cacao
       quantity: 1
       unit: teaspoon
-      notes: []
     - slug: bittermens-xocolatl-mole-bitters
       display_name: Bittermens Xocolatl Mole Bitters
       quantity: 1
       unit: dash
-      notes: []
     garnish:
     - slug: grapefruit-peel
       display_name: Grapefruit Peel
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Stir all the ingredients over ice, then strain into a coupe
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

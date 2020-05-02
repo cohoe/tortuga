@@ -1,6 +1,5 @@
 - slug: sergio-leone
   display_name: Sergio Leone
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
@@ -8,7 +7,6 @@
       creator: Brian Miller
       location: Brian Miller
       year: 2009
-    glassware: []
     construction:
       slug: stir
       display_name: Stir
@@ -17,30 +15,19 @@
       display_name: El Tesoro Reposado Tequila
       quantity: 2
       unit: ounces
-      notes: []
     - slug: carpano-antica-formula-vermouth
       display_name: Carpano Antica Formula Vermouth
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: solerno-blood-orange-liqueur
       display_name: Solerno Blood Orange Liqueur
       quantity: 0.25
       unit: ounce
-      notes: []
     - slug: bittermens-xocolatl-mole-bitters
       display_name: Bittermens Xocolatl Mole Bitters
       quantity: 1
       unit: dash
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Stir all the ingredients over ice, then strain into a coupe
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

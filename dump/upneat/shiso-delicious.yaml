@@ -1,6 +1,5 @@
 - slug: shiso-delicious
   display_name: Shiso Delicious
-  origin: {}
   specs:
   - slug: pdt
     display_name: PDT
@@ -11,7 +10,6 @@
       story: A sweet Maine shrimp dish with red pepper and shiso at WD 50 prompted
         Kevin Diedrich and I to weave the combination into Ryan Magarian's Pepper
         Delicious cocktail.
-    glassware: []
     construction:
       slug: unknown
       display_name: Unknown
@@ -20,39 +18,26 @@
       display_name: Aviation Gin
       quantity: 1.75
       unit: oz
-      notes: []
     - slug: lemon-juice
       display_name: Lemon Juice
       quantity: 0.75
       unit: oz
-      notes: []
     - slug: grapefruit-juice
       display_name: Grapefruit Juice
       quantity: 0.5
       unit: oz
-      notes: []
     - slug: martinique-sugar-cane-syrup
       display_name: Martinique Sugar Cane Syrup
       quantity: 0.25
       unit: oz
-      notes: []
     - slug: of-shiso
       display_name: Of Shiso
       quantity: 2
       unit: Leaves
-      notes: []
     - slug: 1-4-inch-long-slice-red-bell-pepper
       display_name: 1 4 Inch Long Slice Red Bell Pepper
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Muddle the shiso, red bell pepper, and cane syrup
     - text: Add everything else, then shake and fine-strain into a chilled coupe
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

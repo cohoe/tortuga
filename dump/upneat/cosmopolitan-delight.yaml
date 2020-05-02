@@ -1,6 +1,5 @@
 - slug: cosmopolitan-delight
   display_name: Cosmopolitan Delight
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
@@ -20,43 +19,30 @@
       display_name: Brandy
       quantity: 1.5
       unit: ounces
-      notes: []
     - slug: curacao
       display_name: Curacao
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: simple-syrup
       display_name: Simple Syrup
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: lemon-juice
       display_name: Lemon Juice
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: orgeat
       display_name: Orgeat
       quantity: 0.25
       unit: ounce
-      notes: []
     - slug: splash-of-red-wine
       display_name: Splash Of Red Wine
-      notes: []
     garnish:
     - slug: fruit
       display_name: Fruit
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Shake all the ingredients with ice and serve over ice in an old- fashioned
         glass
     - text: Top with a splash of red wine
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

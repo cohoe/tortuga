@@ -1,6 +1,5 @@
 - slug: newfangled
   display_name: Newfangled
-  origin: {}
   specs:
   - slug: pdt
     display_name: PDT
@@ -11,7 +10,6 @@
       story: While we prefer our old-fashioned the old-fashioned way (with sugar,
         bitters, and a twist), the "newfangled" old-fashioned is even better thanks
         to the beer.
-    glassware: []
     construction:
       slug: unknown
       display_name: Unknown
@@ -20,41 +18,28 @@
       display_name: Old Grand Dad Bonded Bourbon Whiskey
       quantity: 2
       unit: oz
-      notes: []
     - slug: simple-syrup
       display_name: Simple Syrup
       quantity: 0.25
       unit: oz
-      notes: []
     - slug: angostura-bitters
       display_name: Angostura Bitters
       quantity: 2
       unit: dashes
-      notes: []
     - slug: half-a-wheel-of-orange
       display_name: Half A Wheel Of Orange
-      notes: []
     - slug: cherry
       display_name: Cherry
       quantity: 3
       unit: Brandied
-      notes: []
     - slug: southampton-double-white-ale
       display_name: Southampton Double White Ale
       quantity: 2
       unit: oz
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Muddle the orange and cherries
     - text: Add everything else, then shake with ice and fine-strain into a chilled
         coupe
     - text: Top with 2 oz Southampton Double White Ale
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

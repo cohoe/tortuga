@@ -1,6 +1,5 @@
 - slug: maple-julep
   display_name: Maple Julep
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
@@ -8,7 +7,6 @@
       creator: Phil Ward
       location: Phil Ward
       year: 2008
-    glassware: []
     construction:
       slug: unknown
       display_name: Unknown
@@ -17,19 +15,14 @@
       display_name: Old Overholt Rye Whiskey
       quantity: 2
       unit: ounces
-      notes: []
     - slug: maple-syrup
       display_name: Maple Syrup
       quantity: 0.25
       unit: ounce
-      notes: []
     garnish:
     - slug: bouquet-of-mint
       display_name: Bouquet Of Mint
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Put the rye and maple syrup in a julep tin
     - text: Fill the tin halfway with crushed ice
@@ -38,8 +31,4 @@
     - text: Add more crushed ice to fill the tin two-thirds full and stir until the
         tin is completely frosted
     - text: Add more ice to form a cone above the rim
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

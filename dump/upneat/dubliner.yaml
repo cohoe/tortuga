@@ -1,10 +1,8 @@
 - slug: dubliner
   display_name: Dubliner
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
-    origin: {}
     glassware:
     - slug: mixing
       display_name: Mixing
@@ -16,24 +14,14 @@
       display_name: Irish Whiskey
       quantity: 1
       unit: ounce
-      notes: []
     - slug: irish-mist
       display_name: Irish Mist
       quantity: 1
       unit: ounce
-      notes: []
     - slug: whipped-cream-unsweetened
       display_name: Whipped Cream Unsweetened
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Pour the spirits into a mixing glass with ice and stir to chill
     - text: Strain into a London dock glass and top with 1 inch of cream
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

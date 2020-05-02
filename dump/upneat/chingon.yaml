@@ -1,6 +1,5 @@
 - slug: chingon
   display_name: Chingon
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
@@ -8,7 +7,6 @@
       creator: Brian Miller
       location: Brian Miller
       year: 2009
-    glassware: []
     construction:
       slug: shake
       display_name: Shake
@@ -17,38 +15,26 @@
       display_name: Siete Leguas Reposado Tequila
       quantity: 2
       unit: ounces
-      notes: []
     - slug: benedictine
       display_name: Benedictine
       quantity: 0.25
       unit: ounce
-      notes: []
     - slug: orange-juice
       display_name: Orange Juice
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: lime-juice
       display_name: Lime Juice
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: orgeat
       display_name: Orgeat
       quantity: 0.5
       unit: ounce
-      notes: []
     garnish:
     - slug: orange-peel
       display_name: Orange Peel
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Shake all the ingredients with ice, then strain into a coupe
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

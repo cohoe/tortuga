@@ -1,6 +1,5 @@
 - slug: terrible-love
   display_name: Terrible Love
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
@@ -20,34 +19,23 @@
       display_name: Del Maguey Chichicapa Mezcal
       quantity: 1.5
       unit: ounces
-      notes: []
     - slug: suze-saveur-dautrefois-liqueur
       display_name: Suze Saveur Dautrefois Liqueur
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: st-germain
       display_name: St Germain
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: house-orange-bitters
       display_name: House Orange Bitters
       quantity: 1
       unit: dash
-      notes: []
     garnish:
     - slug: grapefruit-peel
       display_name: Grapefruit Peel
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Stir all the ingredients over ice, then strain into an old-fashioned glass
         over 1 large ice cube
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

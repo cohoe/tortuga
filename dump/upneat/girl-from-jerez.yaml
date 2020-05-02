@@ -1,6 +1,5 @@
 - slug: girl-from-jerez
   display_name: Girl From Jerez
-  origin: {}
   specs:
   - slug: pdt
     display_name: PDT
@@ -11,7 +10,6 @@
       story: Inspired by the smoothness of Stan Getz's saxophone in "Girl from Ipanema,"
         I softened the citrus in this Brazilian cachaça-based Daiquiri with Pedro
         Ximénez from Jerez.
-    glassware: []
     construction:
       slug: shake
       display_name: Shake
@@ -20,35 +18,23 @@
       display_name: Rhum Clement V S O P
       quantity: 1
       unit: oz
-      notes: []
     - slug: mae-de-ouro-cachaca
       display_name: Mae De Ouro Cachaca
       quantity: 1
       unit: oz
-      notes: []
     - slug: lime-juice
       display_name: Lime Juice
       quantity: 0.75
       unit: oz
-      notes: []
     - slug: lustau-pedro-ximenez-sherry
       display_name: Lustau Pedro Ximenez Sherry
       quantity: 0.5
       unit: oz
-      notes: []
     - slug: st-elizabeth-allspice-dram
       display_name: St Elizabeth Allspice Dram
       quantity: 1
       unit: barspoon
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Shake with ice and strain into a chilled coupe
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

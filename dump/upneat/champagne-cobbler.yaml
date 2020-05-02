@@ -1,10 +1,8 @@
 - slug: champagne-cobbler
   display_name: Champagne Cobbler
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
-    origin: {}
     glassware:
     - slug: bar
       display_name: Bar
@@ -16,38 +14,26 @@
       display_name: Orange
       quantity: 1
       unit: slice
-      notes: []
     - slug: lemon
       display_name: Lemon
       quantity: 1
       unit: wedge
-      notes: []
     - slug: 1-wedge-pineapple
       display_name: 1 Wedge Pineapple
-      notes: []
     - slug: maraschino-liqueur
       display_name: Maraschino Liqueur
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: champagne
       display_name: Champagne
       quantity: 4
       unit: ounces
-      notes: []
     garnish:
     - slug: flamed-orange-peel
       display_name: Flamed Orange Peel
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Muddle the fruit and liqueur in the bottom of a bar glass
     - text: Add ice and Champagne
     - text: Stir gently to retain the bubbles and strain into a champagne flute
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

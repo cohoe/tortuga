@@ -1,11 +1,8 @@
 - slug: frozen-blue-hawaiian
   display_name: Frozen Blue Hawaiian
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
-    origin: {}
-    glassware: []
     construction:
       slug: unknown
       display_name: Unknown
@@ -14,36 +11,24 @@
       display_name: Light Rum
       quantity: 1
       unit: ounce
-      notes: []
     - slug: blue-curaassao
       display_name: Blue Curaassao
       quantity: 1
       unit: ounce
-      notes: []
     - slug: coco-lopez
       display_name: Coco Lopez
       quantity: 1
       unit: ounce
-      notes: []
     - slug: pineapple-juice
       display_name: Pineapple Juice
       quantity: 2
       unit: ounces
-      notes: []
     garnish:
     - slug: slices-of-pineapple
       display_name: Slices Of Pineapple
-      notes: []
     - slug: cherry
       display_name: Cherry
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Blend with 1 cup of cracked ice
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

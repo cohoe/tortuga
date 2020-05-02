@@ -1,6 +1,5 @@
 - slug: schuman-s-alley
   display_name: Schuman'S Alley
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
@@ -19,48 +18,34 @@
       display_name: Contratta Vermouth Bianco
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: dolin-dry-vermouth
       display_name: Dolin Dry Vermouth
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: cocchi-americano
       display_name: Cocchi Americano
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: fords-gin
       display_name: Fords Gin
       quantity: 1
       unit: ounce
-      notes: []
     - slug: yellow-chartreuse
       display_name: Yellow Chartreuse
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: bittermens-hopped-grapefruit-bitters
       display_name: Bittermens Hopped Grapefruit Bitters
       quantity: 1
       unit: dash
-      notes: []
     - slug: dale-degroffs-pimento-bitters
       display_name: Dale Degroffs Pimento Bitters
       quantity: 1
       unit: dash
-      notes: []
     garnish:
     - slug: lemon-peel
       display_name: Lemon Peel
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Stir all the ingredients over ice, then strain into a Nick & Nora glass
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

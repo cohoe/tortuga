@@ -1,50 +1,35 @@
 - slug: tailspin
   display_name: Tailspin
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
-    origin: {}
-    glassware: []
     construction:
       slug: unknown
       display_name: Unknown
     components:
     - slug: campari
       display_name: Campari
-      notes: []
     - slug: beefeater-london-dry-gin
       display_name: Beefeater London Dry Gin
       quantity: 1.5
       unit: ounces
-      notes: []
     - slug: carpano-antica-formula-vermouth
       display_name: Carpano Antica Formula Vermouth
       quantity: 1
       unit: ounce
-      notes: []
     - slug: green-chartreuse
       display_name: Green Chartreuse
       quantity: 1
       unit: ounce
-      notes: []
     - slug: house-orange-bitters
       display_name: House Orange Bitters
       quantity: 1
       unit: dash
-      notes: []
     garnish:
     - slug: lemon-peel
       display_name: Lemon Peel
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Rinse a coupe with Campari and dump
     - text: Stir the remaining ingredients over ice, then strain into the coupe
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

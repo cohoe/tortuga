@@ -1,6 +1,5 @@
 - slug: op-smash
   display_name: Op Smash
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
@@ -19,26 +18,19 @@
       display_name: Pieces Of Lemon
       quantity: 3
       unit: halved
-      notes: []
     - slug: simple-syrup
       display_name: Simple Syrup
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: maraschino-liqueur
       display_name: Maraschino Liqueur
       quantity: 0.25
       unit: ounce
-      notes: []
     - slug: op-flavored-vodka
       display_name: Op Flavored Vodka
       quantity: 1.5
       unit: ounces
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Place the lemon pieces in the bottom of a mixing glass along with the
         simple syrup and maraschino liqueur; muddle well
@@ -47,8 +39,4 @@
     - text: Shake well for 10 seconds, and then pour the entire contents of mixing
         glass back into the rocks glass, lemon pieces and all
     - text: Top with additional cracked ice
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

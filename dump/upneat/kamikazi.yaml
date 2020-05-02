@@ -1,10 +1,8 @@
 - slug: kamikazi
   display_name: Kamikazi
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
-    origin: {}
     glassware:
     - slug: mixing
       display_name: Mixing
@@ -14,33 +12,22 @@
     components:
     - slug: 2-pieces-lime
       display_name: 2 Pieces Lime
-      notes: []
     - slug: vodka
       display_name: Vodka
       quantity: 2
       unit: ounces
-      notes: []
     - slug: cointreau
       display_name: Cointreau
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: roses-lime-juice
       display_name: Roses Lime Juice
       quantity: 0.5
       unit: ounce
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Squeeze the lime pieces into a mixing glass and drop them in
     - text: Add the remaining ingredients and ice
     - text: Shake well and serve in four 1-ounce shot glasses
     - text: Or serve as a cocktail in a chilled martini glass
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

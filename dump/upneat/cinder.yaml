@@ -1,6 +1,5 @@
 - slug: cinder
   display_name: Cinder
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
@@ -8,7 +7,6 @@
       creator: Phil Ward
       location: Phil Ward
       year: 2008
-    glassware: []
     construction:
       slug: unknown
       display_name: Unknown
@@ -17,44 +15,31 @@
       display_name: Pueblo Viejo Reposado Tequila
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: jalapea-o-infused-siembra-azul-blanco-tequila
       display_name: Jalapea O Infused Siembra Azul Blanco Tequila
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: del-maguey-vida-mezcal
       display_name: Del Maguey Vida Mezcal
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: lime-juice
       display_name: Lime Juice
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: simple-syrup
       display_name: Simple Syrup
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: angostura-bitters
       display_name: Angostura Bitters
       quantity: 2
       unit: dashes
-      notes: []
     garnish:
     - slug: rim-with-smoked-salt
       display_name: Rim With Smoked Salt
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Rim a coupe with smoked salt
     - text: Shake the remaining ingredients with ice, then strain into the coupe
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

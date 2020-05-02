@@ -1,10 +1,8 @@
 - slug: fitzgerald
   display_name: Fitzgerald
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
-    origin: {}
     glassware:
     - slug: rocks
       display_name: Rocks
@@ -16,33 +14,22 @@
       display_name: Gin
       quantity: 1.5
       unit: ounces
-      notes: []
     - slug: simple-syrup
       display_name: Simple Syrup
       quantity: 1
       unit: ounce
-      notes: []
     - slug: lemon-juice
       display_name: Lemon Juice
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: angostura-bitters
       display_name: Angostura Bitters
       quantity: 2
       unit: dashes
-      notes: []
     garnish:
     - slug: piece-of-lemon
       display_name: Piece Of Lemon
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Shake all the ingredients with ice and strain into a rocks glass
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

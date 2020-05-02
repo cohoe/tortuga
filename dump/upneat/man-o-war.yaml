@@ -1,13 +1,11 @@
 - slug: man-o-war
   display_name: Man O' War
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
     origin:
       story: 'Variation: Try shaking the cocktail with a small piece of orange and
         lemon in the shaker to add to the flavor.'
-    glassware: []
     construction:
       slug: shake
       display_name: Shake
@@ -16,36 +14,24 @@
       display_name: Wild Turkey 101 Bourbon
       quantity: 1.5
       unit: ounces
-      notes: []
     - slug: curaassao
       display_name: Curaassao
       quantity: 1
       unit: ounce
-      notes: []
     - slug: sweet-vermouth
       display_name: Sweet Vermouth
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: lemon-juice
       display_name: Lemon Juice
       quantity: 0.5
       unit: ounce
-      notes: []
     garnish:
     - slug: slice-orange
       display_name: Slice Orange
-      notes: []
     - slug: cherry
       display_name: Cherry
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Shake all the ingredients well with ice and serve on the rocks
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

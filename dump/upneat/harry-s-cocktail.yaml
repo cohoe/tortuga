@@ -1,6 +1,5 @@
 - slug: harry-s-cocktail
   display_name: Harry'S Cocktail
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
@@ -17,35 +16,24 @@
       display_name: Of Mint
       quantity: 3
       unit: sprigs
-      notes: []
     - slug: sweet-vermouth
       display_name: Sweet Vermouth
       quantity: 1
       unit: ounce
-      notes: []
     - slug: absinthe
       display_name: Absinthe
       quantity: 2
       unit: dashes
-      notes: []
     - slug: gin
       display_name: Gin
       quantity: 2
       unit: ounces
-      notes: []
     garnish:
     - slug: stuffed-olive
       display_name: Stuffed Olive
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: In a mixing glass, muddle 2 sprigs of the mint with the vermouth and Absente
     - text: Add the gin
     - text: Shake with ice and strain into a chilled cocktail glass
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

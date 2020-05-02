@@ -1,10 +1,8 @@
 - slug: stilletto
   display_name: Stilletto
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
-    origin: {}
     glassware:
     - slug: cocktail
       display_name: Cocktail
@@ -16,34 +14,23 @@
       display_name: Amaretto
       quantity: 1
       unit: ounce
-      notes: []
     - slug: marie-brizard-banana-liqueur
       display_name: Marie Brizard Banana Liqueur
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: orange-juice
       display_name: Orange Juice
       quantity: 1
       unit: ounce
-      notes: []
     - slug: pineapple-juice
       display_name: Pineapple Juice
       quantity: 1
       unit: ounce
-      notes: []
     garnish:
     - slug: flamed-orange-peel
       display_name: Flamed Orange Peel
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Shake all the ingredients well with ice and serve up in a chilled cocktail
         glass
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

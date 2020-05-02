@@ -1,6 +1,5 @@
 - slug: platanos-en-mole-old-fashioned
   display_name: Plátanos En Mole Old Fashioned
-  origin: {}
   specs:
   - slug: pdt
     display_name: PDT
@@ -22,25 +21,15 @@
       display_name: Zacapa 23 Centenario Rum
       quantity: 2
       unit: oz
-      notes: []
     - slug: marie-brizard-creme-de-banane
       display_name: Marie Brizard Creme De Banane
       quantity: 0.25
       unit: oz
-      notes: []
     - slug: bittermens-xocolatl-mole-bitters
       display_name: Bittermens Xocolatl Mole Bitters
       quantity: 12
       unit: drops
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Stir with ice and strain over one large cube into a chilled rocks glass
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

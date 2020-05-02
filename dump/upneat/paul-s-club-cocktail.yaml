@@ -1,6 +1,5 @@
 - slug: paul-s-club-cocktail
   display_name: Paul'S Club Cocktail
-  origin: {}
   specs:
   - slug: pdt
     display_name: PDT
@@ -10,7 +9,6 @@
       year: 2007
       story: Our homage to Paul Ricard and Paul's Club, the bar I used to manage in
         Madison, Wisconsin.
-    glassware: []
     construction:
       slug: stir
       display_name: Stir
@@ -19,32 +17,21 @@
       display_name: Tanqueray Gin
       quantity: 2
       unit: oz
-      notes: []
     - slug: concord-shrub
       display_name: Concord Shrub
       quantity: 1
       unit: oz
-      notes: []
     - slug: simple-syrup
       display_name: Simple Syrup
       quantity: 0.25
       unit: oz
-      notes: []
     - slug: ricard-pastis
       display_name: Ricard Pastis
       quantity: 0.25
       unit: oz
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Stir with ice and strain into a chilled coupe
     - text: Float
     - text: 25 oz of Ricard Pastis
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

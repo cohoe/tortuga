@@ -1,6 +1,5 @@
 - slug: framboise-fizz
   display_name: Framboise Fizz
-  origin: {}
   specs:
   - slug: pdt
     display_name: PDT
@@ -10,7 +9,6 @@
       year: 2010
       story: 'Michael Klein chose Framboise, a Belgian ale produced by combining fresh
         raspberries and young lambic, to complement two old friends: tequila and chocolate.'
-    glassware: []
     construction:
       slug: shake
       display_name: Shake
@@ -19,31 +17,20 @@
       display_name: Siete Leguas Reposado Tequila
       quantity: 1.5
       unit: oz
-      notes: []
     - slug: marie-brizard-white-creme-de-cacao
       display_name: Marie Brizard White Creme De Cacao
       quantity: 0.75
       unit: oz
-      notes: []
     - slug: lemon-juice
       display_name: Lemon Juice
       quantity: 0.75
       unit: oz
-      notes: []
     - slug: oud-beersel-framboise
       display_name: Oud Beersel Framboise
       quantity: 2
       unit: oz
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Shake with ice and strain into a chilled egg coupe
     - text: Top with 2 oz Oud Beersel Framboise
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

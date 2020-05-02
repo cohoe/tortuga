@@ -1,6 +1,5 @@
 - slug: white-negroni
   display_name: White Negroni
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
@@ -19,29 +18,19 @@
       display_name: Fords Gin
       quantity: 1.5
       unit: ounces
-      notes: []
     - slug: dolin-blanc-vermouth
       display_name: Dolin Blanc Vermouth
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: suze-saveur-dautrefois-liqueur
       display_name: Suze Saveur Dautrefois Liqueur
       quantity: 0.75
       unit: ounce
-      notes: []
     garnish:
     - slug: lemon-peel
       display_name: Lemon Peel
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Stir all the ingredients over ice, then strain into a double rocks glass
         over 1 large ice cube
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

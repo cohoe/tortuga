@@ -1,6 +1,5 @@
 - slug: champagne-cocktail
   display_name: Champagne Cocktail
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
@@ -19,26 +18,16 @@
     components:
     - slug: champagne
       display_name: Champagne
-      notes: []
     - slug: one-cube-of-sugar
       display_name: One Cube Of Sugar
-      notes: []
     - slug: angostura-bitters
       display_name: Angostura Bitters
-      notes: []
     garnish:
     - slug: lemon-peel
       display_name: Lemon Peel
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Place the Angostura-soaked sugar cube in the bottom of a champagne glass
         and fill the glass with Champagne
     - text: Pour slowly to avoid spillage
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

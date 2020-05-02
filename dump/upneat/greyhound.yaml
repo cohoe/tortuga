@@ -1,10 +1,8 @@
 - slug: greyhound
   display_name: Greyhound
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
-    origin: {}
     glassware:
     - slug: highball
       display_name: Highball
@@ -16,20 +14,11 @@
       display_name: Vodka
       quantity: 1.5
       unit: ounces
-      notes: []
     - slug: grapefruit-juice
       display_name: Grapefruit Juice
       quantity: 4
       unit: ounces
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Pour together into an iced highball glass
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

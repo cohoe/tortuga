@@ -1,10 +1,8 @@
 - slug: dry-manhattan
   display_name: Dry Manhattan
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
-    origin: {}
     glassware:
     - slug: mixing
       display_name: Mixing
@@ -16,30 +14,20 @@
       display_name: Rye Whiskey
       quantity: 2
       unit: ounces
-      notes: []
     - slug: dry-vermouth
       display_name: Dry Vermouth
       quantity: 1
       unit: ounce
-      notes: []
     - slug: angostura-bitters
       display_name: Angostura Bitters
       quantity: 2
       unit: dashes
-      notes: []
     garnish:
     - slug: lemon-peel
       display_name: Lemon Peel
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Pour all the ingredients over ice in a mixing glass and stir as you would
         a Martini
     - text: Strain into a chilled cocktail glass
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

@@ -1,6 +1,5 @@
 - slug: mojito
   display_name: Mojito
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
@@ -33,40 +32,27 @@
       display_name: Sprigs Of Mint
       quantity: 2
       unit: tender
-      notes: []
     - slug: simple-syrup
       display_name: Simple Syrup
       quantity: 1
       unit: ounce
-      notes: []
     - slug: lime-juice
       display_name: Lime Juice
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: light-rum
       display_name: Light Rum
       quantity: 1.5
       unit: ounces
-      notes: []
     - slug: angostura-bitters-optional
       display_name: Angostura Bitters Optional
       quantity: 2
       unit: dashes
-      notes: []
     - slug: soda-water
       display_name: Soda Water
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Muddle one mint sprig with the Simple Syrup and the lime juice in the
         bottom of a mixing glass
     - text: Add the rest of the ingredients and shake with ice
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

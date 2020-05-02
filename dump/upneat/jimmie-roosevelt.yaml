@@ -1,6 +1,5 @@
 - slug: jimmie-roosevelt
   display_name: Jimmie Roosevelt
-  origin: {}
   specs:
   - slug: pdt
     display_name: PDT
@@ -12,7 +11,6 @@
         \ of Paul Garrett, dean of all American Vintners, and present \x91father'\
         \ of Virginia Dare, we brought out two chilled bottles of Garrett Champagne,\
         \ and created this one.\""
-    glassware: []
     construction:
       slug: stir
       display_name: Stir
@@ -21,37 +19,25 @@
       display_name: Remy Martin V S O P Cognac
       quantity: 1
       unit: oz
-      notes: []
     - slug: angostura-bitters
       display_name: Angostura Bitters
-      notes: []
     - slug: angostura-bitters-soaked-demerara-sugar
       display_name: Angostura Bitters Soaked Demerara Sugar
       quantity: 1
       unit: cube
-      notes: []
     - slug: moet-imperial-champagne
       display_name: Moet Imperial Champagne
       quantity: 2
       unit: oz
-      notes: []
     - slug: green-chartreuse
       display_name: Green Chartreuse
       quantity: 1
       unit: barspoon
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Stir the cognac with ice and strain into a chilled egg coupe filled with
         three cracked ice cubes
     - text: Add a sugar cube soaked with Angostura Bitters and top with 2 oz Möet
         Imperial Champagne
     - text: Float the Green Chartreuse over the surface of the drink
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

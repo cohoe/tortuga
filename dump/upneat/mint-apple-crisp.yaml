@@ -1,6 +1,5 @@
 - slug: mint-apple-crisp
   display_name: Mint Apple Crisp
-  origin: {}
   specs:
   - slug: pdt
     display_name: PDT
@@ -10,7 +9,6 @@
       year: 2010
       story: Loosely inspired by the Crisp cocktail in Applegreen's Bar Book, this
         delicate saketini showcases the subtle green melon and mint notes of the sake.
-    glassware: []
     construction:
       slug: unknown
       display_name: Unknown
@@ -19,37 +17,25 @@
       display_name: Heart Of The Hudson Apple Vodka
       quantity: 2
       unit: oz
-      notes: []
     - slug: masumi-arabishiri-sake
       display_name: Masumi Arabishiri Sake
       quantity: 1
       unit: oz
-      notes: []
     - slug: simple-syrup
       display_name: Simple Syrup
       quantity: 0.25
       unit: oz
-      notes: []
     - slug: slices-granny-smith-apple
       display_name: Slices Granny Smith Apple
       quantity: 3.25
       unit: inch
-      notes: []
     - slug: mint
       display_name: Mint
       quantity: 2
       unit: Leaves
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Muddle the apple slices, mint leaves, and simple syrup
     - text: Add everything else and ice
     - text: Stir and fine-strain into a chilled coupe
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

@@ -1,10 +1,8 @@
 - slug: hot-shot
   display_name: Hot Shot
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
-    origin: {}
     glassware:
     - slug: shot
       display_name: Shot
@@ -16,24 +14,14 @@
       display_name: Galliano
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: hot-coffee
       display_name: Hot Coffee
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: whipped-cream
       display_name: Whipped Cream
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Build in a shot glass
     - text: Float whipped cream on top
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

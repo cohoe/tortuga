@@ -1,6 +1,5 @@
 - slug: sweet-hereafter
   display_name: Sweet Hereafter
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
@@ -21,41 +20,28 @@
     components:
     - slug: grapefruit-peel
       display_name: Grapefruit Peel
-      notes: []
     - slug: campo-de-encanto-acholado-pisco
       display_name: Campo De Encanto Acholado Pisco
       quantity: 2
       unit: ounces
-      notes: []
     - slug: cocchi-americano
       display_name: Cocchi Americano
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: dolin-blanc-vermouth
       display_name: Dolin Blanc Vermouth
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: st-germain
       display_name: St Germain
       quantity: 1
       unit: teaspoon
-      notes: []
     - slug: bittermens-hopped-grapefruit-bitters
       display_name: Bittermens Hopped Grapefruit Bitters
       quantity: 1
       unit: dash
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Squeeze the grapefruit twist over a mixing glass and discard
     - text: Add the remaining ingredients and stir over ice, then strain into a coupe
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

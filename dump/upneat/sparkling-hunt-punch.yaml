@@ -1,10 +1,8 @@
 - slug: sparkling-hunt-punch
   display_name: Sparkling Hunt Punch
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
-    origin: {}
     glassware:
     - slug: champagne
       display_name: Champagne
@@ -16,36 +14,24 @@
       display_name: Light Rum
       quantity: 0.25
       unit: ounce
-      notes: []
     - slug: amaretto-di-saronno
       display_name: Amaretto Di Saronno
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: marie-brizard-cherry-liqueur
       display_name: Marie Brizard Cherry Liqueur
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: orange-juice
       display_name: Orange Juice
       quantity: 1
       unit: ounce
-      notes: []
     - slug: champagne
       display_name: Champagne
       quantity: 3
       unit: ounces
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Chill the first four ingredients and strain into a champagne glass
     - text: Top with the Champagne
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

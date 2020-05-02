@@ -1,6 +1,5 @@
 - slug: gilchrist
   display_name: Gilchrist
-  origin: {}
   specs:
   - slug: pdt
     display_name: PDT
@@ -11,7 +10,6 @@
       story: 'Former flautist Daniel Eun named this drink after his old flute repairman,
         Bob Gilchrist. He used Scotch whisky to reflect his heritage and omitted sugar:
         like Hemingway, Bob was diabetic.'
-    glassware: []
     construction:
       slug: shake
       display_name: Shake
@@ -20,35 +18,23 @@
       display_name: Compass Box Asyla Blended Scotch Whisky
       quantity: 1.25
       unit: oz
-      notes: []
     - slug: clear-creek-pear-brandy
       display_name: Clear Creek Pear Brandy
       quantity: 0.75
       unit: oz
-      notes: []
     - slug: grapefruit-juice
       display_name: Grapefruit Juice
       quantity: 0.75
       unit: oz
-      notes: []
     - slug: averna-amaro
       display_name: Averna Amaro
       quantity: 0.5
       unit: oz
-      notes: []
     - slug: fee-brothers-grapefruit-bitters
       display_name: Fee Brothers Grapefruit Bitters
       quantity: 2
       unit: dashes
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Shake with ice and strain into a chilled coupe
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

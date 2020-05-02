@@ -1,6 +1,5 @@
 - slug: myra-breckinridge
   display_name: Myra Breckinridge
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
@@ -19,35 +18,24 @@
       display_name: Laphroaig 10 Year Scotch Whisky
       quantity: 2
       unit: ounces
-      notes: []
     - slug: vieux-pontarlier-absinthe
       display_name: Vieux Pontarlier Absinthe
       quantity: 2
       unit: dashes
-      notes: []
     - slug: lime-juice
       display_name: Lime Juice
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: rich-cane-sugar-syrup
       display_name: Rich Cane Sugar Syrup
       quantity: 0.5
       unit: ounce
-      notes: []
     garnish:
     - slug: sprig-of-mint
       display_name: Sprig Of Mint
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Dry shake all the ingredients, then dump into a pilsner glass filled with
         crushed ice
     - text: Swizzle until cold
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

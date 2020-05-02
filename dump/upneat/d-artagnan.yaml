@@ -1,10 +1,8 @@
 - slug: d-artagnan
   display_name: D'Artagnan
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
-    origin: {}
     glassware:
     - slug: mixing
       display_name: Mixing
@@ -16,40 +14,27 @@
       display_name: Armagnac
       quantity: 1
       unit: teaspoon
-      notes: []
     - slug: grand-marnier
       display_name: Grand Marnier
       quantity: 1
       unit: teaspoon
-      notes: []
     - slug: orange-juice
       display_name: Orange Juice
       quantity: 3
       unit: teaspoons
-      notes: []
     - slug: simple-syrup
       display_name: Simple Syrup
       quantity: 0.5
       unit: teaspoon
-      notes: []
     - slug: champagne
       display_name: Champagne
       quantity: 3
       unit: ounces
-      notes: []
     - slug: thin-strips-orange-peel
       display_name: Thin Strips Orange Peel
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Chill the first four ingredients in a mixing glass and strain into a flute
     - text: Top with chilled Champagne and add strips of orange peel so they extend
         the length of the glass
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

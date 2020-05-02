@@ -1,46 +1,31 @@
 - slug: le-perroquet
   display_name: Le Perroquet
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
-    origin: {}
-    glassware: []
     construction:
       slug: unknown
       display_name: Unknown
     components:
     - slug: generous-dash-campari
       display_name: Generous Dash Campari
-      notes: []
     - slug: dash-gin
       display_name: Dash Gin
-      notes: []
     - slug: orange-juice
       display_name: Orange Juice
       quantity: 2
       unit: ounces
-      notes: []
     - slug: champagne
       display_name: Champagne
       quantity: 4
       unit: ounces
-      notes: []
     garnish:
     - slug: twist-of-lemon-peel
       display_name: Twist Of Lemon Peel
-      notes: []
     - slug: twist-of-orange-peel
       display_name: Twist Of Orange Peel
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Pour the Campari, gin, and orange juice into a champagne flute
     - text: Top with Champagne
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

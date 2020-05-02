@@ -1,6 +1,5 @@
 - slug: ramble
   display_name: Ramble
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
@@ -19,24 +18,17 @@
       display_name: Plymouth Gin
       quantity: 2
       unit: ounces
-      notes: []
     - slug: lemon-juice
       display_name: Lemon Juice
       quantity: 1
       unit: ounce
-      notes: []
     - slug: simple-syrup
       display_name: Simple Syrup
       quantity: 1.25
       unit: ounces
-      notes: []
     - slug: 3-raspberry
       display_name: 3 Raspberry
-      notes: []
-    garnish: []
     straw: true
-    citations: []
-    notes: []
     instructions:
     - text: In a shaker, combine the gin, lemon juice, and
     - text: 75 ounce of the simple syrup
@@ -46,8 +38,4 @@
     - text: 5 ounce simple syrup
     - text: Gently muddle the raspberries, then pour over the top of the drink and
         serve with a straw
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

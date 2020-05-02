@@ -1,6 +1,5 @@
 - slug: tom-collins
   display_name: Tom Collins
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
@@ -18,37 +17,25 @@
       display_name: Gin
       quantity: 1.5
       unit: ounces
-      notes: []
     - slug: lemon-juice
       display_name: Lemon Juice
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: simple-syrup
       display_name: Simple Syrup
       quantity: 1
       unit: ounce
-      notes: []
     - slug: soda-water
       display_name: Soda Water
       quantity: 4
       unit: ounces
-      notes: []
     garnish:
     - slug: slice-of-orange
       display_name: Slice Of Orange
-      notes: []
     - slug: cherry
       display_name: Cherry
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Shake the first three ingredients with ice and strain into a collins glass
     - text: Add the soda and stir
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

@@ -1,6 +1,5 @@
 - slug: honshu-punch
   display_name: Honshu Punch
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
@@ -8,7 +7,6 @@
       creator: Thomas Waugh
       location: Thomas Waugh
       year: 2009
-    glassware: []
     construction:
       slug: shake
       display_name: Shake
@@ -17,47 +15,33 @@
       display_name: Yamazaki 12 Year Japanese Whisky
       quantity: 2
       unit: ounces
-      notes: []
     - slug: lemon-juice
       display_name: Lemon Juice
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: pineapple-juice
       display_name: Pineapple Juice
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: rich-cane-sugar-syrup
       display_name: Rich Cane Sugar Syrup
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: fee-brothers-whiskey-barrel-aged-bitters
       display_name: Fee Brothers Whiskey Barrel Aged Bitters
       quantity: 2
       unit: dashes
-      notes: []
     - slug: bitter-truth-aromatic-bitters
       display_name: Bitter Truth Aromatic Bitters
       quantity: 2
       unit: dashes
-      notes: []
     - slug: club-soda
       display_name: Club Soda
       quantity: 1
       unit: ounce
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Shake all the ingredients (except the club soda), then strain into a snifter
         over 1 large ice cube
     - text: Pour in the club soda
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

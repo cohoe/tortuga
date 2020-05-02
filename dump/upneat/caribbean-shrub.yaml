@@ -1,6 +1,5 @@
 - slug: caribbean-shrub
   display_name: Caribbean Shrub
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
@@ -21,34 +20,23 @@
       display_name: Appleton Estate V X Rum
       quantity: 1
       unit: ounce
-      notes: []
     - slug: la-favorite-rhum-agricole-blanc
       display_name: La Favorite Rhum Agricole Blanc
       quantity: 1
       unit: ounce
-      notes: []
     - slug: strawberry-balsamic-gastrique
       display_name: Strawberry Balsamic Gastrique
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: rich-cane-sugar-syrup
       display_name: Rich Cane Sugar Syrup
       quantity: 0.25
       unit: ounce
-      notes: []
     garnish:
     - slug: 0-5-strawberry
       display_name: 0 5 Strawberry
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Short shake all the ingredients with 3 ice cubes, then strain into a highball
         glass filled with crushed ice
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

@@ -1,6 +1,5 @@
 - slug: vesper
   display_name: Vesper
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
@@ -21,28 +20,18 @@
       display_name: Vodka
       quantity: 1
       unit: part
-      notes: []
     - slug: gin
       display_name: Gin
       quantity: 3
       unit: parts
-      notes: []
     - slug: lillet-blanc
       display_name: Lille Blanc
       quantity: 0.25
       unit: ounce
-      notes: []
     garnish:
     - slug: orange-peel
       display_name: Orange Peel
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Shake with ice and strain into a martini glass
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

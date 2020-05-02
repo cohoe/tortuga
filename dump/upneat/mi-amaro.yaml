@@ -1,6 +1,5 @@
 - slug: mi-amaro
   display_name: Mi Amaro
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
@@ -11,7 +10,6 @@
       story: "JOAQUÍN SIMÓ, 2009 This is probably the best stirred tequila drink I've\
         \ come up with, and it's quite simple: just a Manhattan variation made with\
         \ some incredible ingredients."
-    glassware: []
     construction:
       slug: stir
       display_name: Stir
@@ -20,33 +18,22 @@
       display_name: El Tesoro Reposado Tequila
       quantity: 2
       unit: ounces
-      notes: []
     - slug: amaro-ciociaro
       display_name: Amaro Ciociaro
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: carpano-antica-formula-vermouth
       display_name: Carpano Antica Formula Vermouth
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: st-germain
       display_name: St Germain
       quantity: 0.25
       unit: ounce
-      notes: []
     garnish:
     - slug: grapefruit-peel
       display_name: Grapefruit Peel
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Stir all the ingredients over ice, then strain into a coupe
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

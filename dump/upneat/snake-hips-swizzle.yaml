@@ -1,6 +1,5 @@
 - slug: snake-hips-swizzle
   display_name: Snake Hips Swizzle
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
@@ -18,49 +17,35 @@
       display_name: Hine H Cognac
       quantity: 1.5
       unit: ounces
-      notes: []
     - slug: grand-marnier
       display_name: Grand Marnier
       quantity: 0.25
       unit: ounce
-      notes: []
     - slug: morenita-cream-sherry
       display_name: Morenita Cream Sherry
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: lemon-juice
       display_name: Lemon Juice
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: maple-syrup
       display_name: Maple Syrup
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: cinnamon-bark-syrup
       display_name: Cinnamon Bark Syrup
       quantity: 1
       unit: teaspoon
-      notes: []
     - slug: angostura-bitters
       display_name: Angostura Bitters
       quantity: 2
       unit: dashes
-      notes: []
-    garnish: []
     straw: true
-    citations: []
-    notes: []
     instructions:
     - text: Dry shake all the ingredients (except the bitters), then dump into a pilsner
         glass filled with crushed ice
     - text: Swizzle the drink until cold
     - text: Add the bitters and swizzle them into the top of the drink
     - text: Serve with a straw
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

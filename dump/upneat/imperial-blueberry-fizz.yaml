@@ -1,6 +1,5 @@
 - slug: imperial-blueberry-fizz
   display_name: Imperial Blueberry Fizz
-  origin: {}
   specs:
   - slug: pdt
     display_name: PDT
@@ -21,34 +20,23 @@
       display_name: Hine V S O P Cognac
       quantity: 1.5
       unit: oz
-      notes: []
     - slug: creme-yvette
       display_name: Creme Yvette
       quantity: 0.5
       unit: oz
-      notes: []
     - slug: blueberries
       display_name: Blueberries
       quantity: 2
       unit: tablespoon
-      notes: []
     - slug: moet-imperial-champagne
       display_name: Moet Imperial Champagne
       quantity: 2.5
       unit: oz
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Add the blueberries and Crème Yvette to a mixing glass and muddle
     - text: Add the Cognac and ice, then shake and fine-strain into a chilled egg
         coupe
     - text: Top with 2
     - text: 5 oz Moët Imperial Champagne
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

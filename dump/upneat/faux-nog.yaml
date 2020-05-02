@@ -1,6 +1,5 @@
 - slug: faux-nog
   display_name: Faux Nog
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
@@ -18,35 +17,23 @@
       display_name: Vodka
       quantity: 1
       unit: ounce
-      notes: []
     - slug: white-creme-de-cacao
       display_name: White Cra Me De Cacao
       quantity: 1
       unit: ounce
-      notes: []
     - slug: heavy-cream
       display_name: Heavy Cream
       quantity: 2
       unit: ounces
-      notes: []
     - slug: angostura-bitters
       display_name: Angostura Bitters
       quantity: 3
       unit: dashes
-      notes: []
     - slug: nutmeg
       display_name: Nutmeg
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Shake the ingredients well with ice
     - text: Strain over crushed ice in a London dock glass
     - text: Dust with nutmeg
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

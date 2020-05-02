@@ -1,10 +1,8 @@
 - slug: sloe-comfortable-screw
   display_name: Sloe Comfortable Screw
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
-    origin: {}
     glassware:
     - slug: highball
       display_name: Highball
@@ -16,28 +14,18 @@
       display_name: Sloe Gin
       quantity: 1
       unit: ounce
-      notes: []
     - slug: southern-comfort
       display_name: Southern Comfort
       quantity: 1
       unit: ounce
-      notes: []
     - slug: orange-juice
       display_name: Orange Juice
       quantity: 4
       unit: ounces
-      notes: []
     garnish:
     - slug: slice-of-orange
       display_name: Slice Of Orange
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Build in a highball glass
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

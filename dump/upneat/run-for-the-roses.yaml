@@ -1,13 +1,11 @@
 - slug: run-for-the-roses
   display_name: Run For The Roses
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
     origin:
       year: 2012
       story: JOAQUÍN SIMÓ, 2012
-    glassware: []
     construction:
       slug: stir
       display_name: Stir
@@ -16,35 +14,23 @@
       display_name: Knappogue Castle 12 Year Irish Whiskey
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: rose-infused-lillet-rose
       display_name: Rose Infused Lillet Rose
       quantity: 2
       unit: ounces
-      notes: []
     - slug: massenez-kirsch-vieux-cherry-brandy
       display_name: Massenez Kirsch Vieux Cherry Brandy
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: rich-cane-sugar-syrup
       display_name: Rich Cane Sugar Syrup
       quantity: 1
       unit: teaspoon
-      notes: []
     - slug: dry-champagne
       display_name: Dry Champagne
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Stir all the ingredients (except the champagne) over ice, then strain
         into a coupe
     - text: Top with champagne
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

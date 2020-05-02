@@ -1,6 +1,5 @@
 - slug: wooden-ship
   display_name: Wooden Ship
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
@@ -19,38 +18,26 @@
       display_name: Tanqueray No Ten Gin
       quantity: 1
       unit: ounce
-      notes: []
     - slug: bols-genever
       display_name: Bols Genever
       quantity: 1
       unit: ounce
-      notes: []
     - slug: grand-marnier
       display_name: Grand Marnier
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: rich-cane-sugar-syrup
       display_name: Rich Cane Sugar Syrup
       quantity: 0.5
       unit: teaspoon
-      notes: []
     - slug: fee-brothers-whiskey-barrel-aged-bitters
       display_name: Fee Brothers Whiskey Barrel Aged Bitters
       quantity: 1
       unit: dash
-      notes: []
     garnish:
     - slug: lemon-peel
       display_name: Lemon Peel
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Stir all the ingredients over ice, then strain into a rocks glass
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

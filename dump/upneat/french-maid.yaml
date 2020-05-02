@@ -1,6 +1,5 @@
 - slug: french-maid
   display_name: French Maid
-  origin: {}
   specs:
   - slug: pdt
     display_name: PDT
@@ -21,53 +20,38 @@
       display_name: Hine V S O P Cognac
       quantity: 1.5
       unit: oz
-      notes: []
     - slug: house-ginger-beer
       display_name: House Ginger Beer
       quantity: 1
       unit: oz
-      notes: []
     - slug: lime-juice
       display_name: Lime Juice
       quantity: 0.75
       unit: oz
-      notes: []
     - slug: simple-syrup
       display_name: Simple Syrup
       quantity: 0.75
       unit: oz
-      notes: []
     - slug: john-d-taylors-velvet-falernum
       display_name: John D Taylors Velvet Falernum
       quantity: 0.25
       unit: oz
-      notes: []
     - slug: of-cucumber
       display_name: Of Cucumber
       quantity: 3
       unit: Wheels
-      notes: []
     - slug: leaves
       display_name: Leaves
       quantity: 6-
       unit: '8'
-      notes: []
     garnish:
     - slug: 1-wheel-of-cucumber
       display_name: 1 Wheel Of Cucumber
-      notes: []
     - slug: 1-sprig-of-mint
       display_name: 1 Sprig Of Mint
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Add the cucumber, mint, and simple syrup to a mixing glass and muddle
     - text: Add everything else, then shake with ice and strain into a chilled Collins
         glass filled with ice
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

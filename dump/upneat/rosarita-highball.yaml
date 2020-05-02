@@ -1,10 +1,8 @@
 - slug: rosarita-highball
   display_name: Rosarita Highball
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
-    origin: {}
     glassware:
     - slug: highball
       display_name: Highball
@@ -16,35 +14,24 @@
       display_name: Tequila
       quantity: 1.5
       unit: ounces
-      notes: []
     - slug: cra-me-de-cassis
       display_name: Cra Me De Cassis
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: lime-juice
       display_name: Lime Juice
       quantity: 0.25
       unit: ounce
-      notes: []
     - slug: ginger-ale
       display_name: Ginger Ale
       quantity: 4
       unit: ounces
-      notes: []
     garnish:
     - slug: slice-of-cucumber
       display_name: Slice Of Cucumber
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Shake the first three ingredients and strain into an ice-filled highball
         glass
     - text: Fill with ginger ale
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

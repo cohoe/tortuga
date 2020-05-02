@@ -1,6 +1,5 @@
 - slug: knickerbocker
   display_name: Knickerbocker
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
@@ -22,34 +21,22 @@
       display_name: Appleton Rum
       quantity: 2
       unit: ounces
-      notes: []
     - slug: curacao
       display_name: Curacao
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: raspberry-syrup
       display_name: Raspberry Syrup
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: lemon-juice
       display_name: Lemon Juice
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: 1-wedge-lemon
       display_name: 1 Wedge Lemon
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Assemble all the ingredients in a mixing glass with ice, squeeze the lemon
         wedge and drop it in, shake well, and strain into a chilled cocktail glass
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

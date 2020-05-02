@@ -1,6 +1,5 @@
 - slug: sling-of-aphrodite
   display_name: Sling Of Aphrodite
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
@@ -18,39 +17,27 @@
       display_name: La Favorite Rhum Agricole Ambre
       quantity: 2
       unit: ounces
-      notes: []
     - slug: clear-creek-pear-brandy
       display_name: Clear Creek Pear Brandy
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: fuji-apple-juice
       display_name: Fuji Apple Juice
       quantity: 1
       unit: ounce
-      notes: []
     - slug: lemon-juice
       display_name: Lemon Juice
       quantity: 0.25
       unit: ounce
-      notes: []
     - slug: cinnamon-bark-syrup
       display_name: Cinnamon Bark Syrup
       quantity: 0.5
       unit: ounce
-      notes: []
     garnish:
     - slug: fan-of-apple
       display_name: Fan Of Apple
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Shake all the ingredients with ice, then strain into a highball glass
         filled with ice cubes
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

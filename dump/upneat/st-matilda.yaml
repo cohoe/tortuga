@@ -1,6 +1,5 @@
 - slug: st-matilda
   display_name: St. Matilda
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
@@ -8,47 +7,34 @@
       creator: Phil Ward
       location: Phil Ward
       year: 2007
-    glassware: []
     construction:
       slug: shake
       display_name: Shake
     components:
     - slug: cubed-half-of-a-bartlett-pear
       display_name: Cubed Half Of A Bartlett Pear
-      notes: []
     - slug: siembra-azul-blanco-tequila
       display_name: Siembra Azul Blanco Tequila
       quantity: 2
       unit: ounces
-      notes: []
     - slug: mathilde-poire-pear-liqueur
       display_name: Mathilde Poire Pear Liqueur
       quantity: 0.25
       unit: ounce
-      notes: []
     - slug: lemon-juice
       display_name: Lemon Juice
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: simple-syrup
       display_name: Simple Syrup
       quantity: 0.5
       unit: ounce
-      notes: []
     garnish:
     - slug: slice-of-bartlett-pear
       display_name: Slice Of Bartlett Pear
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: In a shaker, muddle the pear
     - text: Add the remaining ingredients and shake with ice
     - text: Double strain into a coupe
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

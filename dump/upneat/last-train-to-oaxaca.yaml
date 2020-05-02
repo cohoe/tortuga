@@ -1,6 +1,5 @@
 - slug: last-train-to-oaxaca
   display_name: Last Train To Oaxaca
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
@@ -8,7 +7,6 @@
       creator: Brian Miller
       location: Brian Miller
       year: 2009
-    glassware: []
     construction:
       slug: stir
       display_name: Stir
@@ -17,33 +15,22 @@
       display_name: Pueblo Viejo Aa Ejo Tequila
       quantity: 1.5
       unit: ounces
-      notes: []
     - slug: los-amantes-joven-mezcal
       display_name: Los Amantes Joven Mezcal
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: lillet-blanc
       display_name: Lillet Blanc
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: donns-spices-2
       display_name: Donns Spices 2
       quantity: 1
       unit: teaspoon
-      notes: []
     garnish:
     - slug: orange-peel
       display_name: Orange Peel
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Stir all the ingredients over ice, then strain into a coupe
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

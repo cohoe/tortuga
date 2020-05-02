@@ -1,6 +1,5 @@
 - slug: lawn-dart
   display_name: Lawn Dart
-  origin: {}
   specs:
   - slug: pdt
     display_name: PDT
@@ -22,40 +21,27 @@
       display_name: Partida Blanco Tequila
       quantity: 1
       unit: oz
-      notes: []
     - slug: tanqueray-gin
       display_name: Tanqueray Gin
       quantity: 1
       unit: oz
-      notes: []
     - slug: lime-juice
       display_name: Lime Juice
       quantity: 0.75
       unit: oz
-      notes: []
     - slug: agave-syrup
       display_name: Agave Syrup
       quantity: 0.75
       unit: oz
-      notes: []
     - slug: green-chartreuse
       display_name: Green Chartreuse
       quantity: 0.25
       unit: oz
-      notes: []
     - slug: 1-5-inch-slice-green-bell-pepper
       display_name: 1 5 Inch Slice Green Bell Pepper
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Muddle the bell pepper and agave syrup
     - text: Add everything else, then shake with ice and finestrain into a chilled
         Collins glass filled with ice
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

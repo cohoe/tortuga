@@ -1,6 +1,5 @@
 - slug: velvet-warhol
   display_name: Velvet Warhol
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
@@ -8,7 +7,6 @@
       creator: Thomas Waugh
       location: Thomas Waugh
       year: 2008
-    glassware: []
     construction:
       slug: stir
       display_name: Stir
@@ -17,32 +15,21 @@
       display_name: Banana Chip Infused Goslings Black Seal Rum
       quantity: 2
       unit: ounces
-      notes: []
     - slug: marie-brizard-white-creme-de-cacao
       display_name: Marie Brizard White Creme De Cacao
       quantity: 0.25
       unit: ounce
-      notes: []
     - slug: bitter-truth-aromatic-bitters
       display_name: Bitter Truth Aromatic Bitters
       quantity: 2
       unit: dashes
-      notes: []
     - slug: heavy-cream
       display_name: Heavy Cream
       quantity: 1
       unit: ounce
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Stir all the ingredients (except the cream) over ice, then strain into
         a coupe
     - text: Float the cream on top
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

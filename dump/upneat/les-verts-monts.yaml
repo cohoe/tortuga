@@ -1,6 +1,5 @@
 - slug: les-verts-monts
   display_name: Les Verts Monts
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
@@ -19,53 +18,38 @@
       display_name: Tariquet Vs Classique Bas Armagnac
       quantity: 1
       unit: ounce
-      notes: []
     - slug: guillon-painturaud-cognac-grande-champagne-vsop
       display_name: Guillon Painturaud Cognac Grande Champagne Vsop
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: busnel-vsop-calvados
       display_name: Busnel Vsop Calvados
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: dolin-blanc-vermouth
       display_name: Dolin Blanc Vermouth
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: alvear-festival-pale-cream-sherry
       display_name: Alvear Festival Pale Cream Sherry
       quantity: 0.25
       unit: ounce
-      notes: []
     - slug: maple-syrup
       display_name: Maple Syrup
       quantity: 0.25
       unit: ounce
-      notes: []
     - slug: angostura-bitters
       display_name: Angostura Bitters
       quantity: 1
       unit: dash
-      notes: []
     - slug: lemon-peel
       display_name: Lemon Peel
-      notes: []
     garnish:
     - slug: slice-of-fuji-apple
       display_name: Slice Of Fuji Apple
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Stir all the ingredients (except the lemon twist) over ice, then strain
         into a Nick & Nora glass
     - text: Squeeze the lemon twist over the drink and discard
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

@@ -1,6 +1,5 @@
 - slug: shoots-and-ladders
   display_name: Shoots And Ladders
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
@@ -19,30 +18,19 @@
       display_name: Basil Infused Dolin Blanc Vermouth
       quantity: 1.5
       unit: ounces
-      notes: []
     - slug: lustau-amontillado-sherry
       display_name: Lustau Amontillado Sherry
       quantity: 1.5
       unit: ounces
-      notes: []
     - slug: jalapea-o-infused-siembra-azul-blanco-tequila
       display_name: Jalapea O Infused Siembra Azul Blanco Tequila
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: rich-cane-sugar-syrup
       display_name: Rich Cane Sugar Syrup
       quantity: 0.5
       unit: teaspoon
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Stir all the ingredients over ice, then strain into a rocks glass
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

@@ -1,6 +1,5 @@
 - slug: king-bee
   display_name: King Bee
-  origin: {}
   specs:
   - slug: pdt
     display_name: PDT
@@ -10,7 +9,6 @@
       year: 2009
       story: When I asked Nate why he wanted to call his cocktail the King Bee, he
         sent me the lyrics to Muddy Waters's song "I'm a King Bee."
-    glassware: []
     construction:
       slug: shake
       display_name: Shake
@@ -19,37 +17,25 @@
       display_name: Barsol Quebranta Pisco
       quantity: 1.5
       unit: oz
-      notes: []
     - slug: lemon-juice
       display_name: Lemon Juice
       quantity: 0.75
       unit: oz
-      notes: []
     - slug: benedictine
       display_name: Benedictine
       quantity: 0.5
       unit: oz
-      notes: []
     - slug: barenjager-honey-liqueur
       display_name: Barenjager Honey Liqueur
       quantity: 0.5
       unit: oz
-      notes: []
     - slug: lustau-palo-cortado-sherry
       display_name: Lustau Palo Cortado Sherry
       quantity: 0.5
       unit: oz
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Shake with ice and strain into a chilled coupe
     - text: Float
     - text: 5 oz Lustau Palo Cortado Sherry over the surface of the drink
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

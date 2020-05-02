@@ -1,6 +1,5 @@
 - slug: creole-saz
   display_name: Creole Saz
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
@@ -20,41 +19,28 @@
     components:
     - slug: vieux-pontarlier-absinthe
       display_name: Vieux Pontarlier Absinthe
-      notes: []
     - slug: barbancourt-3-star-rum
       display_name: Barbancourt 3 Star Rum
       quantity: 1.5
       unit: ounces
-      notes: []
     - slug: pierre-ferrand-1840-cognac
       display_name: Pierre Ferrand 1840 Cognac
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: rich-cane-sugar-syrup
       display_name: Rich Cane Sugar Syrup
       quantity: 1
       unit: teaspoon
-      notes: []
     - slug: house-peychauds-bitters
       display_name: House Peychauds Bitters
       quantity: 3
       unit: dashes
-      notes: []
     - slug: lemon-peel
       display_name: Lemon Peel
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Rinse a rocks glass with absinthe and dump
     - text: Stir the remaining ingredients (except the lemon twist) over ice, then
         strain into the glass
     - text: Squeeze the lemon twist over the drink and discard
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

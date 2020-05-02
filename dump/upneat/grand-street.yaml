@@ -1,6 +1,5 @@
 - slug: grand-street
   display_name: Grand Street
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
@@ -17,36 +16,24 @@
     components:
     - slug: grapefruit-peel
       display_name: Grapefruit Peel
-      notes: []
     - slug: beefeater-london-dry-gin
       display_name: Beefeater London Dry Gin
       quantity: 2
       unit: ounces
-      notes: []
     - slug: punt-e-mes
       display_name: Punt E Mes
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: cynar
       display_name: Cynar
       quantity: 0.25
       unit: ounce
-      notes: []
     - slug: luxardo-maraschino-liqueur
       display_name: Luxardo Maraschino Liqueur
       quantity: 1
       unit: teaspoon
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: In a mixing glass, gently muddle the grapefruit twist
     - text: Add the remaining ingredients and stir with ice, then strain into a coupe
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

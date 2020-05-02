@@ -1,6 +1,5 @@
 - slug: knickerbocker-martini
   display_name: Knickerbocker Martini
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
@@ -33,35 +32,24 @@
       display_name: Orange Bitters
       quantity: 2
       unit: dashes
-      notes: []
     - slug: curacao
       display_name: Curacao
       quantity: 1
       unit: dash
-      notes: []
     - slug: glass-dry-french-vermouth
       display_name: Glass Dry French Vermouth
       quantity: 1
       unit: liqueur
-      notes: []
     - slug: glasses-gin
       display_name: Glasses Gin
       quantity: 2
       unit: liqueur
-      notes: []
     garnish:
     - slug: lemon-peel
       display_name: Lemon Peel
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Fill a mixing glass with ice; add the spirits, stir well, and strain into
         a chilled martini glass
     - text: Squeeze some lemon peel on top
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

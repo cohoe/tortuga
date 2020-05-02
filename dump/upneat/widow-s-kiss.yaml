@@ -1,6 +1,5 @@
 - slug: widow-s-kiss
   display_name: Widow'S Kiss
-  origin: {}
   specs:
   - slug: pdt
     display_name: PDT
@@ -10,7 +9,6 @@
       year: 1895
       story: George Kappeler penned Modern American Drinks while serving as head bartender
         at the Holland House, one of the finest hotels in New York City at that time.
-    glassware: []
     construction:
       slug: stir
       display_name: Stir
@@ -19,30 +17,19 @@
       display_name: Lairds Bonded Apple Brandy
       quantity: 2
       unit: oz
-      notes: []
     - slug: yellow-chartreuse
       display_name: Yellow Chartreuse
       quantity: 0.25
       unit: oz
-      notes: []
     - slug: benedictine
       display_name: Benedictine
       quantity: 0.25
       unit: oz
-      notes: []
     - slug: angostura-bitters
       display_name: Angostura Bitters
       quantity: 2
       unit: dashes
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Stir with ice and strain into a chilled coupe
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

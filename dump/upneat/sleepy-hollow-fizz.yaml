@@ -1,6 +1,5 @@
 - slug: sleepy-hollow-fizz
   display_name: Sleepy Hollow Fizz
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
@@ -19,45 +18,31 @@
       display_name: Flor De Cana 7 Year Rum
       quantity: 1.5
       unit: ounces
-      notes: []
     - slug: el-dorado-high-strength-151-rum
       display_name: El Dorado High Strength 151 Rum
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: lemon-juice
       display_name: Lemon Juice
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: maple-syrup
       display_name: Maple Syrup
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: egg-yolk
       display_name: Yolk
       quantity: 1
       unit: Egg
-      notes: []
     - slug: pumpkin-puree
       display_name: Pumpkin Puree
       quantity: 2
       unit: teaspoons
-      notes: []
     - slug: club-soda
       display_name: Club Soda
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Dry shake all the ingredients (except the club soda), then shake again
         with ice
     - text: Strain into a fizz glass and top with club soda
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

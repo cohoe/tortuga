@@ -1,6 +1,5 @@
 - slug: cinnamon-girl
   display_name: Cinnamon Girl
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
@@ -19,50 +18,36 @@
       display_name: Of Orange
       quantity: 2
       unit: wedges
-      notes: []
     - slug: siete-leguas-reposado-tequila
       display_name: Siete Leguas Reposado Tequila
       quantity: 2
       unit: ounces
-      notes: []
     - slug: smith-cross-rum
       display_name: Smith Cross Rum
       quantity: 0.25
       unit: ounce
-      notes: []
     - slug: lime-juice
       display_name: Lime Juice
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: cinnamon-bark-syrup
       display_name: Cinnamon Bark Syrup
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: rich-cane-sugar-syrup
       display_name: Rich Cane Sugar Syrup
       quantity: 0.25
       unit: ounce
-      notes: []
     - slug: house-orange-bitters
       display_name: House Orange Bitters
       quantity: 1
       unit: dash
-      notes: []
     garnish:
     - slug: crescent-of-orange
       display_name: Crescent Of Orange
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: In a shaker, muddle the orange wedges
     - text: Add the remaining ingredients and shake with ice
     - text: Strain into a double rocks glass filled with crushed ice
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

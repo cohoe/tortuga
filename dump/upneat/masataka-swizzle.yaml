@@ -1,6 +1,5 @@
 - slug: masataka-swizzle
   display_name: Masataka Swizzle
-  origin: {}
   specs:
   - slug: pdt
     display_name: PDT
@@ -21,31 +20,20 @@
       display_name: Nikka Taketsuru 12 Year Old Japanese Malt Whisky
       quantity: 1.5
       unit: oz
-      notes: []
     - slug: luxardo-amaretto
       display_name: Luxardo Amaretto
       quantity: 0.5
       unit: oz
-      notes: []
     - slug: lemon-juice
       display_name: Lemon Juice
       quantity: 0.5
       unit: oz
-      notes: []
     - slug: demerara-syrup
       display_name: Demerara Syrup
       quantity: 1
       unit: barspoon
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Add everything to a chilled rocks glass, then fill with pebble ice
     - text: Swizzle, then top with more pebble ice
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

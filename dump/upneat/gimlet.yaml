@@ -1,6 +1,5 @@
 - slug: gimlet
   display_name: Gimlet
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
@@ -19,24 +18,14 @@
       display_name: Gin
       quantity: 2.5
       unit: ounces
-      notes: []
     - slug: roses-or-angostura-preserved-lime-juice
       display_name: Roses Or Angostura Preserved Lime Juice
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: wedge-lime
       display_name: Wedge Lime
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Shake the ingredients well with ice and strain into a chilled martini
         glass or serve over ice in an old-fashioned glass
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

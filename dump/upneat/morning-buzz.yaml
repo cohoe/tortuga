@@ -1,6 +1,5 @@
 - slug: morning-buzz
   display_name: Morning Buzz
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
@@ -19,46 +18,32 @@
       display_name: Hine H Cognac
       quantity: 1
       unit: ounce
-      notes: []
     - slug: zacapa-23-year-rum
       display_name: Zacapa 23 Year Rum
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: lustau-amontillado-sherry
       display_name: Lustau Amontillado Sherry
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: orgeat
       display_name: Orgeat
       quantity: 0.25
       unit: ounce
-      notes: []
     - slug: acacia-honey-syrup
       display_name: Acacia Honey Syrup
       quantity: 0.25
       unit: ounce
-      notes: []
     - slug: honey-nut-cheerio-infused-cream
       display_name: Honey Nut Cheerio Infused Cream
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: egg-yolk
       display_name: Yolk
       quantity: 1
       unit: Egg
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Dry shake all the ingredients, then shake with ice
     - text: Double strain into a fancy fizz glass
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

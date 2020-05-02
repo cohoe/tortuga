@@ -1,6 +1,5 @@
 - slug: golden-cadillac
   display_name: Golden Cadillac
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
@@ -18,30 +17,20 @@
       display_name: Galliano
       quantity: 1
       unit: ounce
-      notes: []
     - slug: white-creme-de-cacao
       display_name: White Cra Me De Cacao
       quantity: 1
       unit: ounce
-      notes: []
     - slug: heavy-cream
       display_name: Heavy Cream
       quantity: 2
       unit: ounces
-      notes: []
     garnish:
     - slug: cinnamon
       display_name: Cinnamon
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Shake all the ingredients with ice and strain into a chilled cocktail
         glass
     - text: Dust with cinnamon
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

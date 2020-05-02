@@ -1,6 +1,5 @@
 - slug: stinger
   display_name: Stinger
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
@@ -18,21 +17,12 @@
       display_name: Cognac
       quantity: 2
       unit: ounces
-      notes: []
     - slug: white-cra-me-de-menthe
       display_name: White Cra Me De Menthe
       quantity: 1
       unit: ounce
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Shake both ingredients with ice and strain into an old-fashioned glass
         filled with crushed ice
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

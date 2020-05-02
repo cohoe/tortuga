@@ -1,10 +1,8 @@
 - slug: salty-dog
   display_name: Salty Dog
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
-    origin: {}
     glassware:
     - slug: the
       display_name: The
@@ -16,29 +14,18 @@
       display_name: Of Lemon Or Lime
       quantity: 1
       unit: piece
-      notes: []
     - slug: coarse-salt-for-rimming
       display_name: Coarse Salt For Rimming
-      notes: []
     - slug: vodka
       display_name: Vodka
       quantity: 1.5
       unit: ounces
-      notes: []
     - slug: grapefruit-juice
       display_name: Grapefruit Juice
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Rim a highball glass by rubbing the lemon or lime piece around the outside
         rim of the glass to dampen it and then dusting the rim with coarse salt
     - text: (Do not use table salt
     - text: ) Fill the glass with ice and build the drink
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

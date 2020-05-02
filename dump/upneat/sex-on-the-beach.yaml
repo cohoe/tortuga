@@ -1,10 +1,8 @@
 - slug: sex-on-the-beach
   display_name: Sex On The Beach
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
-    origin: {}
     glassware:
     - slug: highball
       display_name: Highball
@@ -16,35 +14,23 @@
       display_name: Vodka
       quantity: 1.5
       unit: ounces
-      notes: []
     - slug: peachtree-schnapps
       display_name: Peachtree Schnapps
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: chambord-raspberry-liqueur
       display_name: Chambord Raspberry Liqueur
       quantity: 0.25
       unit: ounce
-      notes: []
     - slug: cranberry-juice
       display_name: Cranberry Juice
       quantity: 2
       unit: ounces
-      notes: []
     - slug: pineapple-juice
       display_name: Pineapple Juice
       quantity: 2
       unit: ounces
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Shake all the ingredients and strain into an iced highball glass
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

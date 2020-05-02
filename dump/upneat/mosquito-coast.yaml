@@ -1,6 +1,5 @@
 - slug: mosquito-coast
   display_name: Mosquito Coast
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
@@ -8,7 +7,6 @@
       creator: Phil Ward
       location: Phil Ward
       year: 2008
-    glassware: []
     construction:
       slug: shake
       display_name: Shake
@@ -17,33 +15,22 @@
       display_name: Scarlet Ibis Rum
       quantity: 2
       unit: ounces
-      notes: []
     - slug: st-elizabeth-allspice-dram
       display_name: St Elizabeth Allspice Dram
       quantity: 0.25
       unit: ounce
-      notes: []
     - slug: lime-juice
       display_name: Lime Juice
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: simple-syrup
       display_name: Simple Syrup
       quantity: 0.75
       unit: ounce
-      notes: []
     garnish:
     - slug: wedge-of-lime
       display_name: Wedge Of Lime
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Shake all the ingredients with ice, then strain into a coupe
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

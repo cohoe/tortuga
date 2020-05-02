@@ -1,6 +1,5 @@
 - slug: ti-punch
   display_name: Ti Punch
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
@@ -23,34 +22,23 @@
       display_name: Rum
       quantity: 1.5
       unit: ounces
-      notes: []
     - slug: falernum
       display_name: Falernum
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: simple-syrup
       display_name: Simple Syrup
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: lime-juice
       display_name: Lime Juice
       quantity: 0.75
       unit: ounce
-      notes: []
     garnish:
     - slug: wedge-of-lime
       display_name: Wedge Of Lime
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Shake all the ingredients well and strain into an iced old- fashioned
         glass
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

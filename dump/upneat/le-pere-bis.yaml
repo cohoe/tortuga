@@ -1,6 +1,5 @@
 - slug: le-pere-bis
   display_name: Le Père Bis
-  origin: {}
   specs:
   - slug: pdt
     display_name: PDT
@@ -11,7 +10,6 @@
       story: In 2006, Rob Cooper asked me to create a hot drink with St. Germain.
         To prove that the liqueur could tame one of the most powerful spirits, I mixed
         it with one of Islay's legendary peat monsters.
-    glassware: []
     construction:
       slug: stir
       display_name: Stir
@@ -20,30 +18,19 @@
       display_name: Freshly Brewed Chamomile Tea
       quantity: 4
       unit: oz
-      notes: []
     - slug: ardbeg-10-year-old-single-malt-scotch-whisky
       display_name: Ardbeg 10 Year Old Single Malt Scotch Whisky
       quantity: 1.5
       unit: oz
-      notes: []
     - slug: st-germain-elderflower-liqueur
       display_name: St Germain Elderflower Liqueur
       quantity: 0.5
       unit: oz
-      notes: []
     - slug: honey-syrup
       display_name: Honey Syrup
       quantity: 0.5
       unit: oz
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Add everything to a pre-heated heatproof mug and stir
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

@@ -1,13 +1,11 @@
 - slug: dark-n-bubbly
   display_name: Dark 'N' Bubbly
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
     origin:
       year: 2008
       story: JOAQUÍN SIMÓ, 2008
-    glassware: []
     construction:
       slug: shake
       display_name: Shake
@@ -16,30 +14,19 @@
       display_name: Goslings Black Seal Rum
       quantity: 1.5
       unit: ounces
-      notes: []
     - slug: lime-juice
       display_name: Lime Juice
       quantity: 0.25
       unit: ounce
-      notes: []
     - slug: curried-ginger-syrup
       display_name: Curried Ginger Syrup
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: dry-champagne
       display_name: Dry Champagne
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Shake all the ingredients (except the champagne) with ice, then strain
         into a flute
     - text: Top with champagne
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

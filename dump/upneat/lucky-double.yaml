@@ -1,6 +1,5 @@
 - slug: lucky-double
   display_name: Lucky Double
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
@@ -16,21 +15,15 @@
     components:
     - slug: quartered-half-of-lemon
       display_name: Quartered Half Of Lemon
-      notes: []
     - slug: triple-sec
       display_name: Triple Sec
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: absolut-mandrin-vodka
       display_name: Absolut Mandrin Vodka
       quantity: 2
       unit: ounces
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Drop the lemon quarters into a bar mixing glass
     - text: Add the Triple Sec and muddle well
@@ -38,8 +31,4 @@
     - text: Shake well and pour the entire contents of the mixing glass into a rocks
         glass
     - text: Serve
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

@@ -1,6 +1,5 @@
 - slug: rye-witch
   display_name: Rye Witch
-  origin: {}
   specs:
   - slug: pdt
     display_name: PDT
@@ -21,38 +20,26 @@
       display_name: Rittenhouse Bonded Rye Whiskey
       quantity: 2
       unit: oz
-      notes: []
     - slug: strega-liqueur
       display_name: Strega Liqueur
       quantity: 0.25
       unit: oz
-      notes: []
     - slug: lustau-palo-cortado-sherry
       display_name: Lustau Palo Cortado Sherry
       quantity: 0.25
       unit: oz
-      notes: []
     - slug: sugar
       display_name: Sugar
       quantity: 1
       unit: Cube
-      notes: []
     - slug: house-orange-bitters
       display_name: House Orange Bitters
       quantity: 2
       unit: dashes
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Add the bitters and sugar cube to a mixing glass and muddle to a paste
     - text: Add everything else, then stir with ice and strain into a chilled rocks
         glass
     - text: Twist an orange peel over the surface and discard
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

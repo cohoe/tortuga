@@ -1,6 +1,5 @@
 - slug: improved-whiskey-cocktail
   display_name: Improved Whiskey Cocktail
-  origin: {}
   specs:
   - slug: pdt
     display_name: PDT
@@ -20,36 +19,24 @@
     components:
     - slug: vieux-pontarlier-absinthe
       display_name: Vieux Pontarlier Absinthe
-      notes: []
     - slug: rittenhouse-bonded-rye-whiskey
       display_name: Rittenhouse Bonded Rye Whiskey
       quantity: 2
       unit: oz
-      notes: []
     - slug: luxardo-maraschino-liqueur
       display_name: Luxardo Maraschino Liqueur
       quantity: 0.25
       unit: oz
-      notes: []
     - slug: simple-syrup
       display_name: Simple Syrup
       quantity: 0.25
       unit: oz
-      notes: []
     - slug: angostura-bitters
       display_name: Angostura Bitters
       quantity: 2
       unit: dashes
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: "Stir with ice and strain over one large cube into a chilled, Vieux Pontarlier\
         \ Absinthe\x96rinsed rocks glass"
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

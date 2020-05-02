@@ -1,10 +1,8 @@
 - slug: lizzy-sour
   display_name: Lizzy Sour
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
-    origin: {}
     glassware:
     - slug: martini
       display_name: Martini
@@ -16,28 +14,18 @@
       display_name: Aliza C Gold Passion
       quantity: 1
       unit: ounce
-      notes: []
     - slug: apricot-liqueur
       display_name: Apricot Liqueur
       quantity: 1.5
       unit: ounces
-      notes: []
     - slug: lemon-juice
       display_name: Lemon Juice
       quantity: 1
       unit: ounce
-      notes: []
     garnish:
     - slug: wheel-of-lemon
       display_name: Wheel Of Lemon
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Shake well with ice and strain into a martini glass
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

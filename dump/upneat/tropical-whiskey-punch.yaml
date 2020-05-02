@@ -1,10 +1,8 @@
 - slug: tropical-whiskey-punch
   display_name: Tropical Whiskey Punch
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
-    origin: {}
     glassware:
     - slug: bar
       display_name: Bar
@@ -14,50 +12,35 @@
     components:
     - slug: 4-1-inch-cubes-of-mango
       display_name: 4 1 Inch Cubes Of Mango
-      notes: []
     - slug: of-lemon
       display_name: Of Lemon
       quantity: 1
       unit: wedge
-      notes: []
     - slug: of-pineapple
       display_name: Of Pineapple
       quantity: 2
       unit: wedges
-      notes: []
     - slug: water
       display_name: Water
       quantity: 1
       unit: ounce
-      notes: []
     - slug: simple-syrup
       display_name: Simple Syrup
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: crown-royal-canadian-whiskey
       display_name: Crown Royal Canadian Whiskey
       quantity: 2
       unit: ounces
-      notes: []
     garnish:
     - slug: wedge-of-pineapple
       display_name: Wedge Of Pineapple
-      notes: []
     - slug: wedge-of-lemon
       display_name: Wedge Of Lemon
-      notes: []
     - slug: cherry
       display_name: Cherry
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Muddle all the ingredients except the whiskey in a bar glass
     - text: Add the whiskey and shake with ice
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

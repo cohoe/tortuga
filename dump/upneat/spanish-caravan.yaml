@@ -1,6 +1,5 @@
 - slug: spanish-caravan
   display_name: Spanish Caravan
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
@@ -8,7 +7,6 @@
       creator: Brian Miller
       location: Brian Miller
       year: 2008
-    glassware: []
     construction:
       slug: stir
       display_name: Stir
@@ -17,43 +15,30 @@
       display_name: Lapsang Souchong Infused Siembra Azul Blanco Tequila
       quantity: 2
       unit: ounces
-      notes: []
     - slug: lazzaroni-amaretto
       display_name: Lazzaroni Amaretto
       quantity: 0.25
       unit: ounce
-      notes: []
     - slug: grand-marnier
       display_name: Grand Marnier
       quantity: 0.25
       unit: ounce
-      notes: []
     - slug: benedictine
       display_name: Benedictine
       quantity: 0.25
       unit: ounce
-      notes: []
     - slug: cointreau
       display_name: Cointreau
       quantity: 0.25
       unit: ounce
-      notes: []
     - slug: angostura-orange-bitters
       display_name: Angostura Orange Bitters
       quantity: 1
       unit: dash
-      notes: []
     garnish:
     - slug: orange-peel
       display_name: Orange Peel
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Stir all the ingredients over ice, then strain into a coupe
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

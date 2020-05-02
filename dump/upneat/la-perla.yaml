@@ -1,6 +1,5 @@
 - slug: la-perla
   display_name: La Perla
-  origin: {}
   specs:
   - slug: pdt
     display_name: PDT
@@ -11,7 +10,6 @@
       story: Many mistake the title of this cocktail as a nod to the famous lingerie
         store. It's actually named after renowned tequila guru Tomas Estes's bar in
         London's Covent Garden.
-    glassware: []
     construction:
       slug: stir
       display_name: Stir
@@ -20,25 +18,15 @@
       display_name: Partida Reposado Tequila
       quantity: 1.5
       unit: oz
-      notes: []
     - slug: lustau-manzanilla-sherry
       display_name: Lustau Manzanilla Sherry
       quantity: 1.5
       unit: oz
-      notes: []
     - slug: mathilde-pear-liqueur
       display_name: Mathilde Pear Liqueur
       quantity: 0.75
       unit: oz
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Stir with ice and strain into a chilled coupe
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

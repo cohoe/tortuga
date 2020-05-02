@@ -1,6 +1,5 @@
 - slug: koko-b-ware
   display_name: Koko B. Ware
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
@@ -8,7 +7,6 @@
       creator: Thomas Waugh
       location: Thomas Waugh
       year: 2009
-    glassware: []
     construction:
       slug: shake
       display_name: Shake
@@ -17,49 +15,35 @@
       display_name: Appleton Estate V X Rum
       quantity: 1.5
       unit: ounces
-      notes: []
     - slug: la-favorite-rhum-agricole-ambre
       display_name: La Favorite Rhum Agricole Ambre
       quantity: 0.25
       unit: ounce
-      notes: []
     - slug: lime-juice
       display_name: Lime Juice
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: orgeat
       display_name: Orgeat
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: vanilla-syrup
       display_name: Vanilla Syrup
       quantity: 1
       unit: teaspoon
-      notes: []
     - slug: heavy-cream
       display_name: Heavy Cream
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: angostura-bitters
       display_name: Angostura Bitters
       quantity: 2
       unit: dashes
-      notes: []
     garnish:
     - slug: pinch-of-grated-nutmeg
       display_name: Pinch Of Grated Nutmeg
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Short shake all the ingredients with 3 ice cubes, then strain into a coconut
         mug filled with crushed ice
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

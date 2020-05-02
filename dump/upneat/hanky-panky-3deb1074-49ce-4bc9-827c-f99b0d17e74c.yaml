@@ -1,6 +1,5 @@
 - slug: hanky-panky-3deb1074-49ce-4bc9-827c-f99b0d17e74c
   display_name: Hanky Panky
-  origin: {}
   specs:
   - slug: pdt
     display_name: PDT
@@ -11,7 +10,6 @@
       story: Ada Coleman, the Savoy Hotel's head bartender from 1903 to 1926, created
         this drink for actor Charles Hawtrey, who said "By Jove! That is the real
         hanky-panky."
-    glassware: []
     construction:
       slug: stir
       display_name: Stir
@@ -20,25 +18,15 @@
       display_name: Beefeater Gin
       quantity: 2
       unit: oz
-      notes: []
     - slug: carpano-antica-sweet-vermouth
       display_name: Carpano Antica Sweet Vermouth
       quantity: 1.5
       unit: oz
-      notes: []
     - slug: fernet-branca
       display_name: Fernet Branca
       quantity: 0.25
       unit: oz
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Stir with ice and strain into a chilled coupe
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

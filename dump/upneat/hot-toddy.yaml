@@ -1,11 +1,8 @@
 - slug: hot-toddy
   display_name: Hot Toddy
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
-    origin: {}
-    glassware: []
     construction:
       slug: unknown
       display_name: Unknown
@@ -14,30 +11,19 @@
       display_name: Brandy
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: rum-optional
       display_name: Rum Optional
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: honey
       display_name: Honey
       quantity: 1
       unit: teaspoon
-      notes: []
     - slug: lemon-juice
       display_name: Lemon Juice
       quantity: 0.5
       unit: ounce
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Combine in a mug and fill with hot water or tea
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

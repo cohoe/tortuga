@@ -1,6 +1,5 @@
 - slug: cobra-verde
   display_name: Cobra Verde
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
@@ -8,7 +7,6 @@
       creator: Thomas Waugh
       location: Thomas Waugh
       year: 2009
-    glassware: []
     construction:
       slug: stir
       display_name: Stir
@@ -17,30 +15,19 @@
       display_name: Neisson Rhum Agricole Blanc
       quantity: 1.5
       unit: ounces
-      notes: []
     - slug: chamomile-infused-old-overholt-rye-whiskey
       display_name: Chamomile Infused Old Overholt Rye Whiskey
       quantity: 1
       unit: ounce
-      notes: []
     - slug: yellow-chartreuse
       display_name: Yellow Chartreuse
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: green-chartreuse
       display_name: Green Chartreuse
       quantity: 0.5
       unit: ounce
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Stir all the ingredients over ice, then strain into a coupe
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

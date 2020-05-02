@@ -1,6 +1,5 @@
 - slug: carroll-gardens
   display_name: Carroll Gardens
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
@@ -10,7 +9,6 @@
       year: 2008
       story: JOAQUÍN SIMÓ, 2008 This is one of several D&C spin-offs on the Brooklyn
         cocktail, in this case named after the borough's Italian-American neighborhood.
-    glassware: []
     construction:
       slug: stir
       display_name: Stir
@@ -19,35 +17,23 @@
       display_name: Rittenhouse 100 Rye Whiskey
       quantity: 2
       unit: ounces
-      notes: []
     - slug: punt-e-mes
       display_name: Punt E Mes
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: amaro-nardini
       display_name: Amaro Nardini
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: luxardo-maraschino-liqueur
       display_name: Luxardo Maraschino Liqueur
       quantity: 1
       unit: teaspoon
-      notes: []
     - slug: lemon-peel
       display_name: Lemon Peel
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Stir all the ingredients (except the lemon twist) over ice, then strain
         into a coupe
     - text: Squeeze the lemon twist over the drink and discard
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

@@ -1,6 +1,5 @@
 - slug: douglas-fairbanks
   display_name: Douglas Fairbanks
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
@@ -23,31 +22,20 @@
       display_name: Gin
       quantity: 1.5
       unit: ounces
-      notes: []
     - slug: marie-brizard-apry
       display_name: Marie Brizard Apry
       quantity: 1
       unit: ounce
-      notes: []
     - slug: lime-juice
       display_name: Lime Juice
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: egg-white
       display_name: Egg White
       quantity: 0.75
       unit: ounce
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Shake all the ingredients extra hard to completely emulsify the egg, then
         strain into a chilled cocktail glass
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

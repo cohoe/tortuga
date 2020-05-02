@@ -1,6 +1,5 @@
 - slug: de-la-louisiane
   display_name: De La Louisiane
-  origin: {}
   specs:
   - slug: pdt
     display_name: PDT
@@ -11,7 +10,6 @@
       story: There is no better book about the cocktails of New Orleans than Arthur's.
         It provides half a dozen house specialties, including this Manhattan variation
         with a Creole soul.
-    glassware: []
     construction:
       slug: stir
       display_name: Stir
@@ -20,35 +18,23 @@
       display_name: Wild Turkey Rye Whiskey
       quantity: 2
       unit: oz
-      notes: []
     - slug: dolin-sweet-vermouth
       display_name: Dolin Sweet Vermouth
       quantity: 0.75
       unit: oz
-      notes: []
     - slug: benedictine
       display_name: Benedictine
       quantity: 0.75
       unit: oz
-      notes: []
     - slug: st-george-absinthe
       display_name: St George Absinthe
       quantity: 3
       unit: dashes
-      notes: []
     - slug: peychauds-bitters
       display_name: Peychauds Bitters
       quantity: 3
       unit: dashes
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Stir with ice and strain into a chilled coupe
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

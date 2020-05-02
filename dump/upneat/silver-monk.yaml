@@ -1,6 +1,5 @@
 - slug: silver-monk
   display_name: Silver Monk
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
@@ -8,7 +7,6 @@
       creator: Phil Ward
       location: Phil Ward
       year: 2007
-    glassware: []
     construction:
       slug: shake
       display_name: Shake
@@ -17,45 +15,31 @@
       display_name: Of Cucumber
       quantity: 2
       unit: wheels
-      notes: []
     - slug: of-mint
       display_name: Of Mint
       quantity: 8
       unit: leaves
-      notes: []
     - slug: pinch-of-kosher-salt
       display_name: Pinch Of Kosher Salt
-      notes: []
     - slug: siembra-azul-blanco-tequila
       display_name: Siembra Azul Blanco Tequila
       quantity: 2
       unit: ounces
-      notes: []
     - slug: yellow-chartreuse
       display_name: Yellow Chartreuse
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: lime-juice
       display_name: Lime Juice
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: simple-syrup
       display_name: Simple Syrup
       quantity: 0.5
       unit: ounce
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: In a shaker, muddle the cucumber wheels with the mint and salt
     - text: Add the remaining ingredients and shake with ice
     - text: Double strain into a coupe
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

@@ -1,10 +1,8 @@
 - slug: passion-margarita
   display_name: Passion Margarita
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
-    origin: {}
     glassware:
     - slug: cocktail
       display_name: Cocktail
@@ -16,37 +14,25 @@
       display_name: Aliza C Gold Passion
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: tequila
       display_name: Tequila
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: cointreau
       display_name: Cointreau
       quantity: 1
       unit: ounce
-      notes: []
     - slug: lime-juice
       display_name: Lime Juice
       quantity: 0.75
       unit: ounce
-      notes: []
     garnish:
     - slug: thin-wheel-of-lime
       display_name: Thin Wheel Of Lime
-      notes: []
     - slug: salt
       display_name: Salt
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Shake all the ingredients well with ice and strain into chilled cocktail
         glass rimmed with coarse salt
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

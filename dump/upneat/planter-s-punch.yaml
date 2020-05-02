@@ -1,6 +1,5 @@
 - slug: planter-s-punch
   display_name: Planter'S Punch
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
@@ -19,67 +18,49 @@
       display_name: Dark Rum
       quantity: 1
       unit: ounce
-      notes: []
     - slug: light-rum
       display_name: Light Rum
       quantity: 1
       unit: ounce
-      notes: []
     - slug: curaassao
       display_name: Curaassao
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: orange-juice
       display_name: Orange Juice
       quantity: 2
       unit: ounces
-      notes: []
     - slug: pineapple-juice
       display_name: Pineapple Juice
       quantity: 2
       unit: ounces
-      notes: []
     - slug: simple-syrup
       display_name: Simple Syrup
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: lime-juice
       display_name: Lime Juice
       quantity: 0.25
       unit: ounce
-      notes: []
     - slug: grenadine
       display_name: Grenadine
       quantity: 1
       unit: dash
-      notes: []
     - slug: angostura-bitters
       display_name: Angostura Bitters
       quantity: 1
       unit: dash
-      notes: []
     - slug: soda-water-optional
       display_name: Soda Water Optional
       quantity: 2
       unit: ounces
-      notes: []
     garnish:
     - slug: slice-of-orange
       display_name: Slice Of Orange
-      notes: []
     - slug: cherry
       display_name: Cherry
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Shake all the ingredients except the soda with ice, strain into a collins
         glass three-quarters filled with ice, and top with soda, if using
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

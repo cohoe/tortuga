@@ -1,10 +1,8 @@
 - slug: leprechaun-s-delight
   display_name: Leprechaun'S Delight
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
-    origin: {}
     glassware:
     - slug: martini
       display_name: Martini
@@ -16,28 +14,18 @@
       display_name: Vodka
       quantity: 2
       unit: ounces
-      notes: []
     - slug: white-creme-de-cacao
       display_name: White Creme De Cacao
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: green-creme-de-menthe
       display_name: Green Creme De Menthe
       quantity: 0.25
       unit: ounce
-      notes: []
     garnish:
     - slug: green-maraschino-cherry
       display_name: Green Maraschino Cherry
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Stir all the ingredients and strain into a martini glass
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

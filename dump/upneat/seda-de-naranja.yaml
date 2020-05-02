@@ -1,6 +1,5 @@
 - slug: seda-de-naranja
   display_name: Seda De Naranja
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
@@ -8,7 +7,6 @@
       creator: Phil Ward
       location: Phil Ward
       year: 2007
-    glassware: []
     construction:
       slug: stir
       display_name: Stir
@@ -17,30 +15,19 @@
       display_name: El Tesoro Reposado Tequila
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: grand-marnier
       display_name: Grand Marnier
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: house-orange-bitters
       display_name: House Orange Bitters
       quantity: 1
       unit: dash
-      notes: []
     - slug: dry-champagne
       display_name: Dry Champagne
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Stir all the ingredients (except the champagne) over ice, then strain
         into a coupe
     - text: Top with champagne
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

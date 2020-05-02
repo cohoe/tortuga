@@ -1,6 +1,5 @@
 - slug: coda
   display_name: Coda
-  origin: {}
   specs:
   - slug: pdt
     display_name: PDT
@@ -21,40 +20,27 @@
       display_name: Pampero Aniversario Rum
       quantity: 1
       unit: oz
-      notes: []
     - slug: neisson-rhum-blanc
       display_name: Neisson Rhum Blanc
       quantity: 1
       unit: oz
-      notes: []
     - slug: lime-juice
       display_name: Lime Juice
       quantity: 1
       unit: oz
-      notes: []
     - slug: st-elizabeth-allspice-dram
       display_name: St Elizabeth Allspice Dram
       quantity: 0.5
       unit: oz
-      notes: []
     - slug: demerara-syrup
       display_name: Demerara Syrup
       quantity: 0.5
       unit: oz
-      notes: []
     - slug: organic-egg
       display_name: Organic Egg
       quantity: 1
       unit: Whole
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Dry-shake, then shake with ice and strain into a chilled fizz glass
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

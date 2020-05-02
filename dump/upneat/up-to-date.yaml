@@ -1,6 +1,5 @@
 - slug: up-to-date
   display_name: Up To Date
-  origin: {}
   specs:
   - slug: pdt
     display_name: PDT
@@ -11,7 +10,6 @@
       story: Ensslin calls for Sherry Wine in the recipe, leaving the style open for
         interpretation. While an Oloroso would work nicely, Manzanilla lends vibrant
         salinity and bracing acidity.
-    glassware: []
     construction:
       slug: stir
       display_name: Stir
@@ -20,30 +18,19 @@
       display_name: Wild Turkey Rye Whiskey
       quantity: 2
       unit: oz
-      notes: []
     - slug: lustau-manzanilla-sherry
       display_name: Lustau Manzanilla Sherry
       quantity: 0.75
       unit: oz
-      notes: []
     - slug: grand-marnier
       display_name: Grand Marnier
       quantity: 0.5
       unit: oz
-      notes: []
     - slug: angostura-bitters
       display_name: Angostura Bitters
       quantity: 2
       unit: dashes
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Stir with ice and strain into a chilled coupe
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

@@ -1,6 +1,5 @@
 - slug: jack-rose
   display_name: Jack Rose
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
@@ -21,36 +20,24 @@
       display_name: Applejack
       quantity: 1.5
       unit: ounces
-      notes: []
     - slug: simple-syrup
       display_name: Simple Syrup
       quantity: 1
       unit: ounce
-      notes: []
     - slug: lemon-juice
       display_name: Lemon Juice
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: grenadine
       display_name: Grenadine
       quantity: 2
       unit: dashes
-      notes: []
     garnish:
     - slug: slice-apple
       display_name: Slice Apple
-      notes: []
     - slug: cherry
       display_name: Cherry
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Shake all the ingredients and strain into a small cocktail glass
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

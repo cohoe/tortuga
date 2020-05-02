@@ -1,6 +1,5 @@
 - slug: linbaba-daiquiri
   display_name: Linbaba Daiquiri
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
@@ -11,7 +10,6 @@
       story: JOAQUÍN SIMÓ, 2011 The Indian subcontinent has inspired many of my drinks,
         including this Indian-spiced daiquiri variation named after the lead character
         in one of my favorite books.
-    glassware: []
     construction:
       slug: shake
       display_name: Shake
@@ -20,50 +18,35 @@
       display_name: Scarlet Ibis Rum
       quantity: 1.5
       unit: ounces
-      notes: []
     - slug: appleton-estate-v-x-rum
       display_name: Appleton Estate V X Rum
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: lime-juice
       display_name: Lime Juice
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: cinnamon-bark-syrup
       display_name: Cinnamon Bark Syrup
       quantity: 0.25
       unit: ounce
-      notes: []
     - slug: orgeat
       display_name: Orgeat
       quantity: 0.25
       unit: ounce
-      notes: []
     - slug: ginger-syrup
       display_name: Ginger Syrup
       quantity: 0.25
       unit: ounce
-      notes: []
     - slug: curry-leaf
       display_name: Curry Leaf
       quantity: 2
       unit: fresh
-      notes: []
     - slug: angostura-bitters
       display_name: Angostura Bitters
       quantity: 1
       unit: dash
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Shake all the ingredients with ice, then strain into a coupe
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

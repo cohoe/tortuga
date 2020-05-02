@@ -1,6 +1,5 @@
 - slug: fresa-brava
   display_name: Fresa Brava
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
@@ -8,44 +7,31 @@
       creator: Phil Ward
       location: Phil Ward
       year: 2009
-    glassware: []
     construction:
       slug: shake
       display_name: Shake
     components:
     - slug: 1-strawberry
       display_name: 1 Strawberry
-      notes: []
     - slug: jalapea-o-infused-siembra-azul-blanco-tequila
       display_name: Jalapea O Infused Siembra Azul Blanco Tequila
       quantity: 2
       unit: ounces
-      notes: []
     - slug: yellow-chartreuse
       display_name: Yellow Chartreuse
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: lemon-juice
       display_name: Lemon Juice
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: simple-syrup
       display_name: Simple Syrup
       quantity: 0.5
       unit: ounce
-      notes: []
-    garnish: []
     straw: true
-    citations: []
-    notes: []
     instructions:
     - text: In a shaker, gently muddle the strawberry
     - text: Add the remaining ingredients and shake with ice, then double strain into
         a coupe
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

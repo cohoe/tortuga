@@ -1,6 +1,5 @@
 - slug: seelbach-cocktail
   display_name: Seelbach Cocktail
-  origin: {}
   specs:
   - slug: pdt
     display_name: PDT
@@ -10,7 +9,6 @@
       year: 1995
       story: Chicagoan Adam Seger discovered this pre-Prohibition recipe during his
         tenure at Louisville's historic Seelbach Hotel in 1995.
-    glassware: []
     construction:
       slug: stir
       display_name: Stir
@@ -19,36 +17,24 @@
       display_name: Bulleit Bourbon Whiskey
       quantity: 1
       unit: oz
-      notes: []
     - slug: cointreau
       display_name: Cointreau
       quantity: 0.5
       unit: oz
-      notes: []
     - slug: peychauds-bitters
       display_name: Peychauds Bitters
       quantity: 3
       unit: dashes
-      notes: []
     - slug: angostura-bitters
       display_name: Angostura Bitters
       quantity: 2
       unit: dashes
-      notes: []
     - slug: moet-imperial-champagne
       display_name: Moet Imperial Champagne
       quantity: 2
       unit: oz
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Stir with ice and strain into a chilled coupe
     - text: Top with 2 oz Moët Imperial Champagne
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

@@ -1,10 +1,8 @@
 - slug: scorpion
   display_name: Scorpion
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
-    origin: {}
     glassware:
     - slug: mixing
       display_name: Mixing
@@ -16,50 +14,35 @@
       display_name: Of Pineapple
       quantity: 2
       unit: wedges
-      notes: []
     - slug: 2-cherry
       display_name: 2 Cherry
-      notes: []
     - slug: rum
       display_name: Rum
       quantity: 1
       unit: ounce
-      notes: []
     - slug: brandy
       display_name: Brandy
       quantity: 1
       unit: ounce
-      notes: []
     - slug: lemon-juice
       display_name: Lemon Juice
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: simple-syrup
       display_name: Simple Syrup
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: orange-juice
       display_name: Orange Juice
       quantity: 1
       unit: ounce
-      notes: []
     - slug: orgeat
       display_name: Orgeat
       quantity: 0.5
       unit: ounce
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Bruise 1 pineapple wedge and 1 cherry in the bottom of a mixing glass,
         add the rest of the ingredients, and shake well with ice
     - text: Strain into an ice-filled bucket or double old-fashioned glass
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

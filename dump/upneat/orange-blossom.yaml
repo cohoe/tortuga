@@ -1,6 +1,5 @@
 - slug: orange-blossom
   display_name: Orange Blossom
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
@@ -21,29 +20,19 @@
       display_name: Gin
       quantity: 1.5
       unit: ounces
-      notes: []
     - slug: orange-juice
       display_name: Orange Juice
       quantity: 1.5
       unit: ounces
-      notes: []
     - slug: cointreau
       display_name: Cointreau
       quantity: 0.5
       unit: ounce
-      notes: []
     garnish:
     - slug: flamed-orange-peel
       display_name: Flamed Orange Peel
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Shake all the ingredients with ice and strain into a chilled cocktail
         glass
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

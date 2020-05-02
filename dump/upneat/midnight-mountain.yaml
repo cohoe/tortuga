@@ -1,6 +1,5 @@
 - slug: midnight-mountain
   display_name: Midnight Mountain
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
@@ -19,34 +18,23 @@
       display_name: Amaro Nardini
       quantity: 1.5
       unit: ounces
-      notes: []
     - slug: carpano-antica-formula-vermouth
       display_name: Carpano Antica Formula Vermouth
       quantity: 1
       unit: ounce
-      notes: []
     - slug: marie-brizard-white-creme-de-menthe
       display_name: Marie Brizard White Creme De Menthe
       quantity: 0.25
       unit: ounce
-      notes: []
     - slug: marie-brizard-white-creme-de-cacao
       display_name: Marie Brizard White Creme De Cacao
       quantity: 0.25
       unit: ounce
-      notes: []
     garnish:
     - slug: orange-peel
       display_name: Orange Peel
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Stir all the ingredients over ice, then strain into a double rocks glass
         over 1 large ice cube
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

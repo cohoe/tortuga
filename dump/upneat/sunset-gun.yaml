@@ -1,13 +1,11 @@
 - slug: sunset-gun
   display_name: Sunset Gun
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
     origin:
       year: 2011
       story: JOAQUÍN SIMÓ, 2011
-    glassware: []
     construction:
       slug: shake
       display_name: Shake
@@ -16,39 +14,27 @@
       display_name: Leaves Of Kaffir Lime
       quantity: 2
       unit: fresh
-      notes: []
     - slug: dorothy-parker-gin
       display_name: Dorothy Parker Gin
       quantity: 2
       unit: ounces
-      notes: []
     - slug: velvet-falernum
       display_name: Velvet Falernum
       quantity: 0.25
       unit: ounce
-      notes: []
     - slug: lime-juice
       display_name: Lime Juice
       quantity: 1
       unit: ounce
-      notes: []
     - slug: orgeat
       display_name: Orgeat
       quantity: 0.5
       unit: ounce
-      notes: []
     garnish:
     - slug: fresh-leaf-of-kaffir-lime
       display_name: Fresh Leaf Of Kaffir Lime
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: In a shaker, gently muddle the Kaffir lime leaves
     - text: Add the remaining ingredients and shake with ice
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

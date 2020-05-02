@@ -1,6 +1,5 @@
 - slug: pegu-cocktail
   display_name: Pegu Cocktail
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
@@ -18,36 +17,25 @@
       display_name: Lime
       quantity: 4
       unit: wedges
-      notes: []
     - slug: curacao
       display_name: Curacao
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: angostura-bitters
       display_name: Angostura Bitters
       quantity: 2
       unit: dashes
-      notes: []
     - slug: gin
       display_name: Gin
       quantity: 2
       unit: ounces
-      notes: []
     garnish:
     - slug: lime-peel
       display_name: Lime Peel
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Muddle the lime pieces, curaçao, and bitters in the bottom of a mixing
         glass
     - text: Add the gin and ice and shake
     - text: Strain into a chilled cocktail glass
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

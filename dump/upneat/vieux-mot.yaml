@@ -1,6 +1,5 @@
 - slug: vieux-mot
   display_name: Vieux Mot
-  origin: {}
   specs:
   - slug: pdt
     display_name: PDT
@@ -10,7 +9,6 @@
       year: 2007
       story: The release of St. Germain Elderflower Liqueur in the early half of 2007
         was followed by a frenzy of new cocktails employing it all over the country.
-    glassware: []
     construction:
       slug: shake
       display_name: Shake
@@ -19,30 +17,19 @@
       display_name: Plymouth Gin
       quantity: 1.5
       unit: oz
-      notes: []
     - slug: lemon-juice
       display_name: Lemon Juice
       quantity: 0.75
       unit: oz
-      notes: []
     - slug: st-germain-elderflower-liqueur
       display_name: St Germain Elderflower Liqueur
       quantity: 0.5
       unit: oz
-      notes: []
     - slug: simple-syrup
       display_name: Simple Syrup
       quantity: 0.5
       unit: oz
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Shake with ice and strain into a chilled coupe
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

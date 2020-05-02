@@ -1,6 +1,5 @@
 - slug: trident
   display_name: Trident
-  origin: {}
   specs:
   - slug: pdt
     display_name: PDT
@@ -10,7 +9,6 @@
       year: 2002
       story: In his Essential Bartender's Guide, Robert Hess says this drink "reflects
         my penchant for slightly obscure products not normally found in bars."
-    glassware: []
     construction:
       slug: stir
       display_name: Stir
@@ -19,30 +17,19 @@
       display_name: Krogstad Aquavit
       quantity: 1.5
       unit: oz
-      notes: []
     - slug: lustau-manzanilla-sherry
       display_name: Lustau Manzanilla Sherry
       quantity: 1.5
       unit: oz
-      notes: []
     - slug: cynar
       display_name: Cynar
       quantity: 0.75
       unit: oz
-      notes: []
     - slug: fee-brothers-peach-bitters
       display_name: Fee Brothers Peach Bitters
       quantity: 2
       unit: dashes
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Stir with ice and strain into a chilled coupe
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

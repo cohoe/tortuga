@@ -1,6 +1,5 @@
 - slug: le-bateleur
   display_name: Le Bateleur
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
@@ -8,7 +7,6 @@
       creator: Alex Day
       location: Alex Day
       year: 2008
-    glassware: []
     construction:
       slug: stir
       display_name: Stir
@@ -17,38 +15,26 @@
       display_name: Beefeater London Dry Gin
       quantity: 2
       unit: ounces
-      notes: []
     - slug: punt-e-mes
       display_name: Punt E Mes
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: strega-liqueur
       display_name: Strega Liqueur
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: cynar
       display_name: Cynar
       quantity: 0.25
       unit: ounce
-      notes: []
     - slug: angostura-bitters
       display_name: Angostura Bitters
       quantity: 1
       unit: dash
-      notes: []
     garnish:
     - slug: orange-peel
       display_name: Orange Peel
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Stir all the ingredients over ice, then strain into a coupe
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

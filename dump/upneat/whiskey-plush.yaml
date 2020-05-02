@@ -1,6 +1,5 @@
 - slug: whiskey-plush
   display_name: Whiskey Plush
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
@@ -26,38 +25,26 @@
       display_name: Irish Whiskey
       quantity: 1
       unit: ounce
-      notes: []
     - slug: baileys-irish-cream
       display_name: Baileys Irish Cream
       quantity: 1
       unit: ounce
-      notes: []
     - slug: simple-syrup
       display_name: Simple Syrup
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: milk-or-cream
       display_name: Milk Or Cream
       quantity: 4
       unit: ounces
-      notes: []
     - slug: angostura-bitters
       display_name: Angostura Bitters
       quantity: 4
       unit: dashes
-      notes: []
     garnish:
     - slug: nutmeg
       display_name: Nutmeg
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Shake all the ingredients well with ice and strain into a chilled wineglass
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

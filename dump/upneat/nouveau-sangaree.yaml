@@ -1,6 +1,5 @@
 - slug: nouveau-sangaree
   display_name: Nouveau Sangaree
-  origin: {}
   specs:
   - slug: pdt
     display_name: PDT
@@ -10,7 +9,6 @@
       year: 2009
       story: Liquor.com editor Noah Rothbaum asked me to create a wine cocktail with
         Beaujolais Nouveau to feature on the site.
-    glassware: []
     construction:
       slug: stir
       display_name: Stir
@@ -19,35 +17,23 @@
       display_name: Beaujolais Nouveau
       quantity: 2
       unit: oz
-      notes: []
     - slug: lairds-bonded-apple-brandy
       display_name: Lairds Bonded Apple Brandy
       quantity: 1.5
       unit: oz
-      notes: []
     - slug: plymouth-sloe-gin
       display_name: Plymouth Sloe Gin
       quantity: 0.5
       unit: oz
-      notes: []
     - slug: deep-mountain-grade-b-maple-syrup
       display_name: Deep Mountain Grade B Maple Syrup
       quantity: 0.25
       unit: oz
-      notes: []
     - slug: angostura-bitters
       display_name: Angostura Bitters
       quantity: 2
       unit: dashes
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Stir with ice and strain into a chilled coupe
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

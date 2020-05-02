@@ -1,6 +1,5 @@
 - slug: rum-swizzle
   display_name: Rum Swizzle
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
@@ -21,39 +20,27 @@
       display_name: Barbados Rum
       quantity: 1.5
       unit: ounces
-      notes: []
     - slug: lime-juice
       display_name: Lime Juice
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: simple-syrup
       display_name: Simple Syrup
       quantity: 1
       unit: ounce
-      notes: []
     - slug: falernum
       display_name: Falernum
       quantity: 1
       unit: dash
-      notes: []
     - slug: angostura-bitters
       display_name: Angostura Bitters
       quantity: 3
       unit: dashes
-      notes: []
     garnish:
     - slug: wheel-of-lime
       display_name: Wheel Of Lime
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Swizzle the ingredients in a highball glass filled with crushed ice until
         they foam
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

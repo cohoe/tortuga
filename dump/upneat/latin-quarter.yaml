@@ -1,6 +1,5 @@
 - slug: latin-quarter
   display_name: Latin Quarter
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
@@ -20,46 +19,32 @@
     components:
     - slug: vieux-pontarlier-absinthe
       display_name: Vieux Pontarlier Absinthe
-      notes: []
     - slug: zacapa-23-year-rum
       display_name: Zacapa 23 Year Rum
       quantity: 2
       unit: ounces
-      notes: []
     - slug: rich-cane-sugar-syrup
       display_name: Rich Cane Sugar Syrup
       quantity: 1
       unit: teaspoon
-      notes: []
     - slug: house-peychauds-bitters
       display_name: House Peychauds Bitters
       quantity: 3
       unit: dashes
-      notes: []
     - slug: angostura-bitters
       display_name: Angostura Bitters
       quantity: 1
       unit: dash
-      notes: []
     - slug: bittermens-xocolatl-mole-bitters
       display_name: Bittermens Xocolatl Mole Bitters
       quantity: 1
       unit: dash
-      notes: []
     - slug: lemon-peel
       display_name: Lemon Peel
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Rinse a double rocks glass with absinthe and dump
     - text: Stir the remaining ingredients (except the lemon twist) over ice, then
         strain into the glass
     - text: Squeeze the lemon twist over the drink and discard
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

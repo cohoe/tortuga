@@ -1,6 +1,5 @@
 - slug: hot-apple-pie
   display_name: Hot Apple Pie
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
@@ -18,23 +17,13 @@
       display_name: Tuaca
       quantity: 1.5
       unit: ounces
-      notes: []
     - slug: hot-apple-cider
       display_name: Hot Apple Cider
       quantity: 4
       unit: ounces
-      notes: []
     - slug: whipped-cream
       display_name: Whipped Cream
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Serve in an Irish-coffee glass, and float the cream on top
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

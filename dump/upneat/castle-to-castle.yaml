@@ -1,6 +1,5 @@
 - slug: castle-to-castle
   display_name: Castle To Castle
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
@@ -19,34 +18,23 @@
       display_name: Knappogue Castle 12 Year Irish Whiskey
       quantity: 1.5
       unit: ounces
-      notes: []
     - slug: fuji-apple-juice
       display_name: Fuji Apple Juice
       quantity: 1.5
       unit: ounces
-      notes: []
     - slug: lemon-juice
       display_name: Lemon Juice
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: acacia-honey-syrup
       display_name: Acacia Honey Syrup
       quantity: 0.5
       unit: ounce
-      notes: []
     garnish:
     - slug: sprig-of-basil
       display_name: Sprig Of Basil
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Short shake all the ingredients with 3 ice cubes, then strain into a pilsner
         glass filled with crushed ice
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

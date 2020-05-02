@@ -1,6 +1,5 @@
 - slug: st-rita
   display_name: St. Rita
-  origin: {}
   specs:
   - slug: pdt
     display_name: PDT
@@ -11,7 +10,6 @@
       story: This drink was first served to the Zwack family in Budapest using Sandor
         Zwack's Plum Palinka, a distillate of handharvested wild fruit bottled in
         small quantities.
-    glassware: []
     construction:
       slug: shake
       display_name: Shake
@@ -20,36 +18,24 @@
       display_name: Clear Creek Plum Brandy
       quantity: 1.5
       unit: oz
-      notes: []
     - slug: lime-juice
       display_name: Lime Juice
       quantity: 0.75
       unit: oz
-      notes: []
     - slug: zwack-liqueur
       display_name: Zwack Liqueur
       quantity: 0.5
       unit: oz
-      notes: []
     - slug: honey-syrup
       display_name: Honey Syrup
       quantity: 0.5
       unit: oz
-      notes: []
     - slug: moet-imperial-champagne
       display_name: Moet Imperial Champagne
       quantity: 2
       unit: oz
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Shake with ice and strain into a chilled egg coupe
     - text: Top with 2 oz Moët Imperial Champagne
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

@@ -1,6 +1,5 @@
 - slug: jalisco-swizzle
   display_name: Jalisco Swizzle
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
@@ -19,40 +18,28 @@
       display_name: Siembra Azul Blanco Tequila
       quantity: 1.5
       unit: ounces
-      notes: []
     - slug: del-maguey-vida-mezcal
       display_name: Del Maguey Vida Mezcal
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: lime-juice
       display_name: Lime Juice
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: rich-cane-sugar-syrup
       display_name: Rich Cane Sugar Syrup
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: angostura-bitters
       display_name: Angostura Bitters
       quantity: 2
       unit: dashes
-      notes: []
     garnish:
     - slug: wheel-of-lime
       display_name: Wheel Of Lime
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Dry shake all the ingredients, then dump into a pilsner glass filled with
         crushed ice
     - text: Swizzle until cold
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

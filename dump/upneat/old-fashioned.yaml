@@ -1,6 +1,5 @@
 - slug: old-fashioned
   display_name: Old Fashioned
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
@@ -25,40 +24,27 @@
       display_name: Sugar
       quantity: 1
       unit: teaspoon
-      notes: []
     - slug: angostura-bitters
       display_name: Angostura Bitters
       quantity: 2
       unit: dashes
-      notes: []
     - slug: orange
       display_name: Orange
       quantity: 2
       unit: slices
-      notes: []
     - slug: cherry
       display_name: Cherry
       quantity: 2
       unit: Maraschino
-      notes: []
     - slug: water-or-soda-water
       display_name: Water Or Soda Water
-      notes: []
     - slug: bourbon-whiskey
       display_name: Bourbon Whiskey
       quantity: 2
       unit: ounces
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: In the bottom of an old-fashioned glass, carefully muddle the sugar, Angostura,
         one orange slice, one cherry, and a splash of water or soda
     - text: Remove the orange rind and add the bourbon, ice, and water or soda
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

@@ -1,6 +1,5 @@
 - slug: dark-and-stormy-ii
   display_name: Dark And Stormy Ii
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
@@ -18,38 +17,26 @@
       display_name: Myerss Dark Rum
       quantity: 1
       unit: ounce
-      notes: []
     - slug: light-rum
       display_name: Light Rum
       quantity: 1
       unit: ounce
-      notes: []
     - slug: ginger-beer
       display_name: Ginger Beer
       quantity: 2
       unit: ounces
-      notes: []
     - slug: orange-juice
       display_name: Orange Juice
       quantity: 2
       unit: ounces
-      notes: []
     - slug: pineapple-juice
       display_name: Pineapple Juice
       quantity: 2
       unit: ounces
-      notes: []
     garnish:
     - slug: wedge-lime
       display_name: Wedge Lime
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Build all the ingredients in a large glass over ice and stir
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

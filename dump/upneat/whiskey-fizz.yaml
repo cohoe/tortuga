@@ -1,10 +1,8 @@
 - slug: whiskey-fizz
   display_name: Whiskey Fizz
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
-    origin: {}
     glassware:
     - slug: highball
       display_name: Highball
@@ -16,32 +14,21 @@
       display_name: American Whiskey
       quantity: 1.5
       unit: ounces
-      notes: []
     - slug: lemon-juice
       display_name: Lemon Juice
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: simple-syrup
       display_name: Simple Syrup
       quantity: 1
       unit: ounce
-      notes: []
     - slug: lemon-lime-soda
       display_name: Lemon Lime Soda
       quantity: 3
       unit: ounces
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Shake the first three ingredients and strain into a highball glass filled
         with ice
     - text: Fill with the lemon-lime soda
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

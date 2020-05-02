@@ -1,6 +1,5 @@
 - slug: jerry-thomas-s-apple-toddy
   display_name: Jerry Thomas'S Apple Toddy
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
@@ -22,32 +21,22 @@
     components:
     - slug: half-a-baked-apple
       display_name: Half A Baked Apple
-      notes: []
     - slug: fine-white-sugar
       display_name: Fine White Sugar
       quantity: 1
       unit: tablespoon
-      notes: []
     - slug: glass-of-applejack
       display_name: Glass Of Applejack
       quantity: 1
       unit: wine
-      notes: []
     garnish:
     - slug: whole-nutmeg
       display_name: Whole Nutmeg
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Put the baked apple, sugar, and applejack in a glass or mug
     - text: Fill the glass two-thirds full of boiling water, and grate a little nutmeg
         on top
     - text: If there is a question whether the glass is tempered for extremes of hot
         and cold, place a silver spoon in the glass before adding the boiling water
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

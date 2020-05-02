@@ -1,10 +1,8 @@
 - slug: caipiruva
   display_name: Caipiruva
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
-    origin: {}
     glassware:
     - slug: rocks
       display_name: Rocks
@@ -14,26 +12,19 @@
     components:
     - slug: 0-5-lime
       display_name: 0 5 Lime
-      notes: []
     - slug: grapes
       display_name: Grapes
       quantity: 4
       unit: Green
-      notes: []
     - slug: brown-sugar-syrup
       display_name: Brown Sugar Syrup
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: cachaca
       display_name: Cachaca
       quantity: 2
       unit: ounces
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Chill a rocks glass with cracked ice
     - text: Place the lime quarters and grapes in the bottom of a mixing glass, add
@@ -43,8 +34,4 @@
         the rocks glass into the mixing glass, and shake well
     - text: Pour the entire contents of the mixing glass back into the chilled rocks
         glass and serve
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

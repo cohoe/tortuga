@@ -1,11 +1,8 @@
 - slug: rum-julep
   display_name: Rum Julep
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
-    origin: {}
-    glassware: []
     construction:
       slug: shake
       display_name: Shake
@@ -14,54 +11,39 @@
       display_name: Lemon Hart 151 Rum
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: lemon-hart-original-rum
       display_name: Lemon Hart Original Rum
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: appleton-estate-v-x-rum
       display_name: Appleton Estate V X Rum
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: velvet-falernum
       display_name: Velvet Falernum
       quantity: 0.25
       unit: ounce
-      notes: []
     - slug: donns-spices-2
       display_name: Donns Spices 2
       quantity: 0.25
       unit: ounce
-      notes: []
     - slug: orange-juice
       display_name: Orange Juice
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: lime-juice
       display_name: Lime Juice
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: acacia-honey-syrup
       display_name: Acacia Honey Syrup
       quantity: 0.5
       unit: ounce
-      notes: []
     garnish:
     - slug: bouquet-of-mint
       display_name: Bouquet Of Mint
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Short shake all the ingredients with 3 ice cubes, then strain into a julep
         tin filled with crushed ice
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

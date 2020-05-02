@@ -1,6 +1,5 @@
 - slug: rio-bravo
   display_name: Rio Bravo
-  origin: {}
   specs:
   - slug: pdt
     display_name: PDT
@@ -21,30 +20,19 @@
       display_name: Sagatiba Cachaca
       quantity: 2
       unit: oz
-      notes: []
     - slug: lime-juice
       display_name: Lime Juice
       quantity: 0.75
       unit: oz
-      notes: []
     - slug: kassatly-chtaura-orgeat
       display_name: Kassatly Chtaura Orgeat
       quantity: 0.5
       unit: oz
-      notes: []
     - slug: 3-quarter-sized-slices-freshly-peeled-ginger
       display_name: 3 Quarter Sized Slices Freshly Peeled Ginger
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Add the ginger and orgeat to a mixing glass and muddle
     - text: Add everything else, then shake with ice and fine-strain into a chilled
         coupe
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

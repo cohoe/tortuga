@@ -1,6 +1,5 @@
 - slug: north-garden
   display_name: North Garden
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
@@ -8,7 +7,6 @@
       creator: Jason Littrell
       location: Jason Littrell
       year: 2009
-    glassware: []
     construction:
       slug: stir
       display_name: Stir
@@ -17,35 +15,23 @@
       display_name: Lairds Bonded Apple Brandy
       quantity: 1.5
       unit: ounces
-      notes: []
     - slug: buffalo-trace-bourbon
       display_name: Buffalo Trace Bourbon
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: laphroaig-10-year-scotch-whisky
       display_name: Laphroaig 10 Year Scotch Whisky
       quantity: 0.25
       unit: ounce
-      notes: []
     - slug: demerara-syrup
       display_name: Rich Demerara Syrup
       quantity: 1
       unit: teaspoon
-      notes: []
     - slug: angostura-bitters
       display_name: Angostura Bitters
       quantity: 1
       unit: dash
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Stir all the ingredients over ice, then strain into a coupe
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

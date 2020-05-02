@@ -1,6 +1,5 @@
 - slug: pisco-inferno
   display_name: Pisco Inferno
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
@@ -19,43 +18,30 @@
       display_name: Campo De Encanto Acholado Pisco
       quantity: 2
       unit: ounces
-      notes: []
     - slug: ancho-chile-infused-dolin-rouge-vermouth
       display_name: Ancho Chile Infused Dolin Rouge Vermouth
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: cherry-heering
       display_name: Cherry Heering
       quantity: 2.25
       unit: teaspoons
-      notes: []
     - slug: massenez-kirsch-vieux-cherry-brandy
       display_name: Massenez Kirsch Vieux Cherry Brandy
       quantity: 2.25
       unit: teaspoons
-      notes: []
     - slug: fee-brothers-whiskey-barrel-aged-bitters
       display_name: Fee Brothers Whiskey Barrel Aged Bitters
       quantity: 2
       unit: dashes
-      notes: []
     - slug: house-orange-bitters
       display_name: House Orange Bitters
       quantity: 1
       unit: dash
-      notes: []
     garnish:
     - slug: orange-peel
       display_name: Orange Peel
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Stir all the ingredients over ice, then strain into a martini glass
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

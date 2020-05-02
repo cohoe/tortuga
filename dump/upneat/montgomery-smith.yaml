@@ -1,6 +1,5 @@
 - slug: montgomery-smith
   display_name: Montgomery Smith
-  origin: {}
   specs:
   - slug: pdt
     display_name: PDT
@@ -10,7 +9,6 @@
       year: 2007
       story: On a slow night, Nate's coworker challenged him to invent a drink called
         the Montgomery Smith.
-    glassware: []
     construction:
       slug: stir
       display_name: Stir
@@ -19,25 +17,15 @@
       display_name: Hine V S O P Cognac
       quantity: 2
       unit: oz
-      notes: []
     - slug: benedictine
       display_name: Benedictine
       quantity: 0.5
       unit: oz
-      notes: []
     - slug: fernet-branca
       display_name: Fernet Branca
       quantity: 0.25
       unit: oz
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Stir with ice and strain into a chilled coupe
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

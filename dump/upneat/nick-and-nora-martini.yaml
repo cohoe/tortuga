@@ -1,6 +1,5 @@
 - slug: nick-and-nora-martini
   display_name: Nick And Nora Martini
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
@@ -23,23 +22,14 @@
       display_name: Gin
       quantity: 1.5
       unit: ounces
-      notes: []
     - slug: dry-vermouth
       display_name: Dry Vermouth
       quantity: 0.5
       unit: ounce
-      notes: []
     garnish:
     - slug: olive
       display_name: Olive
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Fill a mixing glass with ice, add spirit, and stir well
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

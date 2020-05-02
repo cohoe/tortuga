@@ -1,6 +1,5 @@
 - slug: shruff-s-end
   display_name: Shruff'S End
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
@@ -8,7 +7,6 @@
       creator: Phil Ward
       location: Phil Ward
       year: 2008
-    glassware: []
     construction:
       slug: stir
       display_name: Stir
@@ -17,30 +15,19 @@
       display_name: Laphroaig 10 Year Scotch Whisky
       quantity: 1
       unit: ounce
-      notes: []
     - slug: lairds-bonded-apple-brandy
       display_name: Lairds Bonded Apple Brandy
       quantity: 1
       unit: ounce
-      notes: []
     - slug: benedictine
       display_name: Benedictine
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: house-peychauds-bitters
       display_name: House Peychauds Bitters
       quantity: 2
       unit: dashes
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Stir all the ingredients over ice, then strain into a coupe
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

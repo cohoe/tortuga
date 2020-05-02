@@ -1,10 +1,8 @@
 - slug: paloma
   display_name: Paloma
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
-    origin: {}
     glassware:
     - slug: highball
       display_name: Highball
@@ -14,35 +12,26 @@
     components:
     - slug: half-a-lime
       display_name: Half A Lime
-      notes: []
     - slug: el-tesoro-platinum-tequila
       display_name: El Tesoro Platinum Tequila
       quantity: 2
       unit: ounces
-      notes: []
     - slug: grapefruit-juice
       display_name: Grapefruit Juice
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: simple-syrup
       display_name: Simple Syrup
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: san-pellegrino-pompelmo-grapefruit-soda
       display_name: San Pellegrino Pompelmo Grapefruit Soda
-      notes: []
     garnish:
     - slug: rim-with-kosher-salt
       display_name: Rim With Kosher Salt
-      notes: []
     - slug: wheel-of-lime
       display_name: Wheel Of Lime
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Rim a highball glass with kosher salt
     - text: Squeeze the lime into a shaker and drop it in
@@ -50,8 +39,4 @@
         3 ice cubes
     - text: Strain into a highball glass filled with ice cubes and top with grapefruit
         soda
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

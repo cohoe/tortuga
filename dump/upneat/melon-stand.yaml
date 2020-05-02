@@ -1,6 +1,5 @@
 - slug: melon-stand
   display_name: Melon Stand
-  origin: {}
   specs:
   - slug: pdt
     display_name: PDT
@@ -21,36 +20,24 @@
       display_name: Plymouth Gin
       quantity: 2
       unit: oz
-      notes: []
     - slug: watermelon-juice
       display_name: Watermelon Juice
       quantity: 1
       unit: oz
-      notes: []
     - slug: lemon-juice
       display_name: Lemon Juice
       quantity: 0.75
       unit: oz
-      notes: []
     - slug: aperol
       display_name: Aperol
       quantity: 0.5
       unit: oz
-      notes: []
     - slug: simple-syrup
       display_name: Simple Syrup
       quantity: 0.5
       unit: oz
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Shake with ice and strain into a chilled Collins glass filled with pebble
         ice
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

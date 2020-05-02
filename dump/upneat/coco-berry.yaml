@@ -1,10 +1,8 @@
 - slug: coco-berry
   display_name: Coco Berry
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
-    origin: {}
     glassware:
     - slug: mixing
       display_name: Mixing
@@ -14,32 +12,21 @@
     components:
     - slug: 4-raspberry
       display_name: 4 Raspberry
-      notes: []
     - slug: chambord-raspberry-liqueur
       display_name: Chambord Raspberry Liqueur
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: light-rum
       display_name: Light Rum
       quantity: 2
       unit: ounces
-      notes: []
     - slug: white-creme-de-cacao
       display_name: White Creme De Cacao
       quantity: 0.5
       unit: ounce
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: In a mixing glass, muddle the berries and Chambord
     - text: Add ice, the rum, and the crème de cacao
     - text: Stir to chill and strain into a chilled cocktail glass
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

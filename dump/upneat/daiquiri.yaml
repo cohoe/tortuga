@@ -1,6 +1,5 @@
 - slug: daiquiri
   display_name: Daiquiri
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
@@ -25,26 +24,16 @@
       display_name: Light Rum
       quantity: 1.5
       unit: ounces
-      notes: []
     - slug: simple-syrup
       display_name: Simple Syrup
       quantity: 1
       unit: ounce
-      notes: []
     - slug: lime-juice
       display_name: Lime Juice
       quantity: 0.75
       unit: ounce
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Shake all the ingredients with ice and strain into a chilled cocktail
         glass
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

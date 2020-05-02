@@ -1,6 +1,5 @@
 - slug: latin-love
   display_name: Latin Love
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
@@ -23,48 +22,34 @@
       display_name: Cruzan Coconut Rum
       quantity: 1
       unit: ounce
-      notes: []
     - slug: cruzan-banana-rum
       display_name: Cruzan Banana Rum
       quantity: 1
       unit: ounce
-      notes: []
     - slug: pineapple-juice
       display_name: Pineapple Juice
       quantity: 3
       unit: ounces
-      notes: []
     - slug: coco-lopez
       display_name: Coco Lopez
       quantity: 1
       unit: ounce
-      notes: []
     - slug: raspberry-juice
       display_name: Raspberry Juice
       quantity: 1
       unit: ounce
-      notes: []
     - slug: heavy-cream
       display_name: Heavy Cream
       quantity: 1
       unit: ounce
-      notes: []
     - slug: ice
       display_name: Ice
       quantity: 1
       unit: scoop
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Combine all the ingredients
     - text: Blend to a smooth consistency
     - text: Rim a hurricane glass with grenadine and coconut shavings
     - text: Pour the mixture into the hurricane glass
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

@@ -1,6 +1,5 @@
 - slug: jekyll-and-hyde
   display_name: Jekyll And Hyde
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
@@ -19,47 +18,33 @@
       display_name: Eagle Rare 10 Year Bourbon
       quantity: 1.5
       unit: ounces
-      notes: []
     - slug: lairds-bonded-apple-brandy
       display_name: Lairds Bonded Apple Brandy
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: cinnamon-bark-syrup
       display_name: Cinnamon Bark Syrup
       quantity: 0.5
       unit: teaspoon
-      notes: []
     - slug: demerara-syrup
       display_name: Rich Demerara Syrup
       quantity: 1
       unit: teaspoon
-      notes: []
     - slug: bitter-truth-aromatic-bitters
       display_name: Bitter Truth Aromatic Bitters
       quantity: 2
       unit: dashes
-      notes: []
     - slug: angostura-bitters
       display_name: Angostura Bitters
       quantity: 2
       unit: dashes
-      notes: []
     garnish:
     - slug: lemon-peel
       display_name: Lemon Peel
-      notes: []
     - slug: orange-peel
       display_name: Orange Peel
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Stir all the ingredients over ice, then strain into a double rocks glass
         over 1 large ice cube
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

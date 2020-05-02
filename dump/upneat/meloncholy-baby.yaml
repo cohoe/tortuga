@@ -1,6 +1,5 @@
 - slug: meloncholy-baby
   display_name: Meloncholy Baby
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
@@ -20,38 +19,26 @@
       display_name: Absolut Citron Vodka
       quantity: 1.5
       unit: ounces
-      notes: []
     - slug: lemon-juice
       display_name: Lemon Juice
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: simple-syrup
       display_name: Simple Syrup
       quantity: 2
       unit: ounces
-      notes: []
     - slug: chopped-canteloupe
       display_name: Chopped Canteloupe
       quantity: 0.5
       unit: cup
-      notes: []
     - slug: water
       display_name: Water
       quantity: 3
       unit: ounces
-      notes: []
     garnish:
     - slug: flamed-lemon-peel
       display_name: Flamed Lemon Peel
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Blend all the ingredients with crushed ice and serve in a tall glass
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

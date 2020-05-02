@@ -1,13 +1,11 @@
 - slug: poinsettia
   display_name: Poinsettia
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
     origin:
       story: This is a great idea for a holiday cocktail party. As an alternative
         to Champagne, a demi-sec or dessert sparkling wine would be ideal.
-    glassware: []
     construction:
       slug: unknown
       display_name: Unknown
@@ -16,26 +14,16 @@
       display_name: Cranberry Juice
       quantity: 2
       unit: ounces
-      notes: []
     - slug: champagne
       display_name: Champagne
       quantity: 4
       unit: ounces
-      notes: []
     - slug: cointreau
       display_name: Cointreau
       quantity: 0.5
       unit: ounce
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Pour cranberry juice into a champagne flute and fill with Champagne
     - text: Top with a float of Cointreau
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

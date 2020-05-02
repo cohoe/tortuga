@@ -1,6 +1,5 @@
 - slug: kentucky-colonel
   display_name: Kentucky Colonel
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
@@ -18,20 +17,11 @@
       display_name: Bourbon Whiskey
       quantity: 2
       unit: ounces
-      notes: []
     - slug: benedictine
       display_name: Benedictine
       quantity: 1
       unit: ounce
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Shake with ice; strain into a rocks glass filled with crushed ice
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

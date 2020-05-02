@@ -1,6 +1,5 @@
 - slug: mum-s-apple-pie
   display_name: Mum'S Apple Pie
-  origin: {}
   specs:
   - slug: pdt
     display_name: PDT
@@ -21,31 +20,20 @@
       display_name: Havana Club 7 Year Old Rum
       quantity: 1.5
       unit: oz
-      notes: []
     - slug: red-jacket-orchard-apple-cider
       display_name: Red Jacket Orchard Apple Cider
       quantity: 1
       unit: oz
-      notes: []
     - slug: lemon-juice
       display_name: Lemon Juice
       quantity: 0.75
       unit: oz
-      notes: []
     - slug: demerara-syrup
       display_name: Demerara Syrup
       quantity: 0.5
       unit: oz
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Shake with ice and strain into a chilled Collins glass filled with pebble
         ice
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

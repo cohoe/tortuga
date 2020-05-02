@@ -1,6 +1,5 @@
 - slug: pressure-drop
   display_name: Pressure Drop
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
@@ -8,7 +7,6 @@
       creator: Thomas Waugh
       location: Thomas Waugh
       year: 2009
-    glassware: []
     construction:
       slug: stir
       display_name: Stir
@@ -17,35 +15,23 @@
       display_name: Ransom Old Tom Gin
       quantity: 1.5
       unit: ounces
-      notes: []
     - slug: amaro-meletti
       display_name: Amaro Meletti
       quantity: 1
       unit: ounce
-      notes: []
     - slug: dolin-dry-vermouth
       display_name: Dolin Dry Vermouth
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: clear-creek-pear-brandy
       display_name: Clear Creek Pear Brandy
       quantity: 1
       unit: teaspoon
-      notes: []
     - slug: angostura-bitters
       display_name: Angostura Bitters
       quantity: 1
       unit: dash
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Stir all the ingredients over ice, then strain into a coupe
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

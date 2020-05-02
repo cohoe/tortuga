@@ -1,6 +1,5 @@
 - slug: overhead-smash
   display_name: Overhead Smash
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
@@ -21,76 +20,56 @@
     - slug: strawberry
       display_name: Strawberry
       quantity: .5
-      notes: []
     - slug: cucumber-wheels
       display_name: Of Cucumber
       quantity: 2
       unit: wheels
-      notes: []
     - slug: tanqueray-london-dry-gin
       display_name: Tanqueray London Dry Gin
       quantity: 1.5
       unit: ounces
-      notes: []
     - slug: bonal-gentiane-quina
       display_name: Bonal Gentiane Quina
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: carpano-antica-formula-vermouth
       display_name: Carpano Antica Formula Vermouth
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: lemon-juice
       display_name: Lemon Juice
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: orgeat
       display_name: Orgeat
       quantity: 0.25
       unit: ounce
-      notes: []
     - slug: ginger-syrup
       display_name: Ginger Syrup
       quantity: 0.25
       unit: ounce
-      notes: []
     - slug: angostura-bitters
       display_name: Angostura Bitters
       quantity: 1
       unit: dash
-      notes: []
     - slug: house-orange-bitters
       display_name: House Orange Bitters
       quantity: 1
       unit: dash
-      notes: []
     - slug: club-soda
       display_name: Club Soda
-      notes: []
     garnish:
     - slug: ribbon-of-cucumber
       display_name: Ribbon Of Cucumber
-      notes: []
     - slug: sprig-of-mint
       display_name: Sprig Of Mint
-      notes: []
     - slug: 1-2-drops-angostura-bitters
       display_name: 1 2 Drops Angostura Bitters
-      notes: []
     straw: true
-    citations: []
-    notes: []
     instructions:
     - text: In a shaker, muddle the strawberry and cucumber wheels
     - text: Add the remaining ingredients (except the club soda) and short shake with
         ice, then strain into a highball glass filled with ice cubes
     - text: Top with club soda
     - text: Serve with a straw
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

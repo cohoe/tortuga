@@ -1,6 +1,5 @@
 - slug: in-sandiary
   display_name: In Sandiary
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
@@ -18,39 +17,27 @@
       display_name: Siembra Azul Blanco Tequila
       quantity: 2
       unit: ounces
-      notes: []
     - slug: watermelon-juice
       display_name: Watermelon Juice
       quantity: 2
       unit: ounces
-      notes: []
     - slug: lime-juice
       display_name: Lime Juice
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: simple-syrup
       display_name: Simple Syrup
       quantity: 0.25
       unit: ounce
-      notes: []
     garnish:
     - slug: rim-with-spicy-sugar
       display_name: Rim With Spicy Sugar
-      notes: []
     - slug: rim-with-salt
       display_name: Rim With Salt
-      notes: []
     straw: true
-    citations: []
-    notes: []
     instructions:
     - text: Rim a highball glass with spicy sugar and salt
     - text: Shake the remaining ingredients with ice, then pour into a highball glass
         filled with ice cubes
     - text: Serve with a straw
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

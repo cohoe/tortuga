@@ -1,6 +1,5 @@
 - slug: pink-flag
   display_name: Pink Flag
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
@@ -8,7 +7,6 @@
       creator: Eryn Reece
       location: Eryn Reece
       year: 2012
-    glassware: []
     construction:
       slug: shake
       display_name: Shake
@@ -17,42 +15,29 @@
       display_name: Of Sage
       quantity: 2
       unit: leaves
-      notes: []
     - slug: tanqueray-london-dry-gin
       display_name: Tanqueray London Dry Gin
       quantity: 2
       unit: ounces
-      notes: []
     - slug: cra-me-yvette
       display_name: Cra Me Yvette
       quantity: 0.25
       unit: ounce
-      notes: []
     - slug: lemon-juice
       display_name: Lemon Juice
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: pineapple-juice
       display_name: Pineapple Juice
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: orgeat
       display_name: Orgeat
       quantity: 0.5
       unit: ounce
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: In a shaker, gently muddle the sage leaves
     - text: Add the remaining ingredients and shake with ice, then double strain into
         a coupe
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

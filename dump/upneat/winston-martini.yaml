@@ -1,6 +1,5 @@
 - slug: winston-martini
   display_name: Winston Martini
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
@@ -20,33 +19,22 @@
     components:
     - slug: dash-frangelico
       display_name: Dash Frangelico
-      notes: []
     - slug: spiced-rum
       display_name: Spiced Rum
       quantity: 1
       unit: ounce
-      notes: []
     - slug: gin
       display_name: Gin
       quantity: 1
       unit: ounce
-      notes: []
     - slug: scant-dash-roses-lime-juice
       display_name: Scant Dash Roses Lime Juice
-      notes: []
     garnish:
     - slug: lemon-peel
       display_name: Lemon Peel
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Season a chilled mixing glass with the Frangelico
     - text: Stir the remaining ingredients in the glass and strain into a martini
         glass
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

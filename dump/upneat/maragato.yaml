@@ -1,6 +1,5 @@
 - slug: maragato
   display_name: Maragato
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
@@ -18,42 +17,29 @@
       display_name: Light Rum
       quantity: 1
       unit: ounce
-      notes: []
     - slug: sweet-vermouth
       display_name: Sweet Vermouth
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: dry-vermouth
       display_name: Dry Vermouth
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: orange-juice
       display_name: Orange Juice
       quantity: 1
       unit: ounce
-      notes: []
     - slug: lime-juice
       display_name: Lime Juice
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: dash-maraschino-liqueur
       display_name: Dash Maraschino Liqueur
-      notes: []
     garnish:
     - slug: flamed-orange-peel
       display_name: Flamed Orange Peel
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Shake all ingredients well with ice and strain into a chilled cocktail
         glass
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

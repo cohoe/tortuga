@@ -1,6 +1,5 @@
 - slug: dos-besitos
   display_name: Dos Besitos
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
@@ -8,7 +7,6 @@
       creator: Scott Teague
       location: Scott Teague
       year: 2013
-    glassware: []
     construction:
       slug: shake
       display_name: Shake
@@ -17,40 +15,27 @@
       display_name: El Tesoro Reposado Tequila
       quantity: 1
       unit: ounce
-      notes: []
     - slug: siete-leguas-blanco-tequila
       display_name: Siete Leguas Blanco Tequila
       quantity: 1
       unit: ounce
-      notes: []
     - slug: pineapple-juice
       display_name: Pineapple Juice
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: lime-juice
       display_name: Lime Juice
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: agave-nectar
       display_name: Agave Nectar
       quantity: 0.25
       unit: ounce
-      notes: []
     - slug: grenadine
       display_name: Grenadine
       quantity: 1
       unit: teaspoon
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Shake all the ingredients with ice, then strain into a coupe
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

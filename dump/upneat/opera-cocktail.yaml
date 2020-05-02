@@ -1,6 +1,5 @@
 - slug: opera-cocktail
   display_name: Opera Cocktail
-  origin: {}
   specs:
   - slug: pdt
     display_name: PDT
@@ -10,7 +9,6 @@
       year: 1914
       story: The original recipe calls for equal parts Dubonnet and gin with a splash
         of Crème de Mandarine. I prefer it with a little more gin.
-    glassware: []
     construction:
       slug: stir
       display_name: Stir
@@ -19,30 +17,19 @@
       display_name: Plymouth Gin
       quantity: 2
       unit: oz
-      notes: []
     - slug: dubonnet-rouge
       display_name: Dubonnet Rouge
       quantity: 1
       unit: oz
-      notes: []
     - slug: mandarine-napoleon-liqueur
       display_name: Mandarine Napoleon Liqueur
       quantity: 0.25
       unit: oz
-      notes: []
     - slug: house-orange-bitters
       display_name: House Orange Bitters
       quantity: 1
       unit: dash
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Stir with ice and strain into a chilled coupe
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

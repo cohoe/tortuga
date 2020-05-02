@@ -1,6 +1,5 @@
 - slug: yin-martini
   display_name: Yin Martini
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
@@ -18,27 +17,17 @@
       display_name: Sake
       quantity: 3
       unit: ounces
-      notes: []
     - slug: gin
       display_name: Gin
       quantity: 0.5
       unit: ounce
-      notes: []
     garnish:
     - slug: oriental-fruit-garnish-optional
       display_name: Oriental Fruit Garnish Optional
-      notes: []
     - slug: litchi-nut-garnish-optional
       display_name: Litchi Nut Garnish Optional
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Pour both ingredients into a mixing glass with ice and stir to chill
     - text: Strain into a chilled martini glass
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

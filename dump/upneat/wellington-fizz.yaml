@@ -1,6 +1,5 @@
 - slug: wellington-fizz
   display_name: Wellington Fizz
-  origin: {}
   specs:
   - slug: pdt
     display_name: PDT
@@ -22,45 +21,31 @@
       display_name: 42 Below Kiwi Vodka
       quantity: 2
       unit: oz
-      notes: []
     - slug: heavy-cream
       display_name: Heavy Cream
       quantity: 1
       unit: oz
-      notes: []
     - slug: lime-juice
       display_name: Lime Juice
       quantity: 0.75
       unit: oz
-      notes: []
     - slug: boiron-passion-fruit-puree
       display_name: Boiron Passion Fruit Puree
       quantity: 0.5
       unit: oz
-      notes: []
     - slug: kassatly-chtaura-orgeat
       display_name: Kassatly Chtaura Orgeat
       quantity: 0.5
       unit: oz
-      notes: []
     - slug: white
       display_name: White
       quantity: 1
       unit: Egg
-      notes: []
     - slug: club-soda
       display_name: Club Soda
       quantity: 1
       unit: oz
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Dry shake, then shake with ice and strain into a chilled Collins glass
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

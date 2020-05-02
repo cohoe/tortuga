@@ -1,6 +1,5 @@
 - slug: edith-s-fizz
   display_name: Edith'S Fizz
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
@@ -17,30 +16,19 @@
       display_name: Lille Blanc
       quantity: 1.5
       unit: ounces
-      notes: []
     - slug: maraschino-liqueur
       display_name: Maraschino Liqueur
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: orange-juice
       display_name: Orange Juice
       quantity: 4
       unit: ounces
-      notes: []
     - slug: soda-water
       display_name: Soda Water
       quantity: 2
       unit: ounces
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Mix all the ingredients in a highball glass
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

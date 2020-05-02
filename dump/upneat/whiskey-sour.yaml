@@ -1,10 +1,8 @@
 - slug: whiskey-sour
   display_name: Whiskey Sour
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
-    origin: {}
     glassware:
     - slug: rocks
       display_name: Rocks
@@ -16,40 +14,27 @@
       display_name: Buffalo Trace Bourbon
       quantity: 2
       unit: ounces
-      notes: []
     - slug: lemon-juice
       display_name: Lemon Juice
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: simple-syrup
       display_name: Simple Syrup
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: white
       display_name: White
       quantity: 1
       unit: Egg
-      notes: []
     garnish:
     - slug: 1-dash-angostura-bitters
       display_name: 1 Dash Angostura Bitters
-      notes: []
     - slug: crescent-of-orange
       display_name: Crescent Of Orange
-      notes: []
     - slug: flag-with-cherry
       display_name: Flag With Cherry
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Dry shake all the ingredients, then shake again with ice
     - text: Double strain into a double rocks glass over 1 large ice cube
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

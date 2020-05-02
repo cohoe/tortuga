@@ -1,6 +1,5 @@
 - slug: ritz-cocktail
   display_name: Ritz Cocktail
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
@@ -17,37 +16,25 @@
       display_name: Cognac
       quantity: 1
       unit: ounce
-      notes: []
     - slug: cointreau
       display_name: Cointreau
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: maraschino-liqueur
       display_name: Maraschino Liqueur
       quantity: 0.25
       unit: ounce
-      notes: []
     - slug: lemon-juice
       display_name: Lemon Juice
       quantity: 0.25
       unit: ounce
-      notes: []
     - slug: champagne
       display_name: Champagne
-      notes: []
     garnish:
     - slug: flamed-orange-peel
       display_name: Flamed Orange Peel
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Stir the first four ingredients in a mixing glass
     - text: Strain into a martini glass and fill with Champagne
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

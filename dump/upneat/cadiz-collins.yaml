@@ -1,6 +1,5 @@
 - slug: cadiz-collins
   display_name: Cádiz Collins
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
@@ -17,49 +16,35 @@
     components:
     - slug: wheel-of-orange
       display_name: Wheel Of Orange
-      notes: []
     - slug: fee-brothers-whiskey-barrel-aged-bitters
       display_name: Fee Brothers Whiskey Barrel Aged Bitters
       quantity: 3
       unit: dashes
-      notes: []
     - slug: plymouth-gin
       display_name: Plymouth Gin
       quantity: 2
       unit: ounces
-      notes: []
     - slug: lustau-amontillado-sherry
       display_name: Lustau Amontillado Sherry
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: lemon-juice
       display_name: Lemon Juice
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: demerara-syrup
       display_name: Rich Demerara Syrup
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: club-soda
       display_name: Club Soda
-      notes: []
     garnish:
     - slug: crescent-of-orange
       display_name: Crescent Of Orange
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: In a shaker, muddle the orange wheel and bitters
     - text: Add the remaining ingredients (except the club soda) and shake with ice,
         then strain into a highball glass filled with ice cubes
     - text: Top with club soda
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

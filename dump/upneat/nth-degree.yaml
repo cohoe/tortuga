@@ -1,6 +1,5 @@
 - slug: nth-degree
   display_name: Nth Degree
-  origin: {}
   specs:
   - slug: pdt
     display_name: PDT
@@ -21,37 +20,25 @@
       display_name: Rhum Clement V S O P
       quantity: 1
       unit: oz
-      notes: []
     - slug: lairds-bonded-apple-brandy
       display_name: Lairds Bonded Apple Brandy
       quantity: 1
       unit: oz
-      notes: []
     - slug: green-chartreuse
       display_name: Green Chartreuse
       quantity: 0.5
       unit: oz
-      notes: []
     - slug: demerara-sugar
       display_name: Demerara Sugar
       quantity: 1
       unit: Cube
-      notes: []
     - slug: fee-brothers-whiskey-barrel-aged-bitters
       display_name: Fee Brothers Whiskey Barrel Aged Bitters
       quantity: 2
       unit: dashes
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Muddle the sugar cube and bitters
     - text: Add everything else, then stir with ice and strain over one large cube
         into a chilled rocks glass
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

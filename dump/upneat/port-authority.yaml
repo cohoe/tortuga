@@ -1,6 +1,5 @@
 - slug: port-authority
   display_name: Port Authority
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
@@ -8,51 +7,37 @@
       creator: Thomas Waugh
       location: Thomas Waugh
       year: 2008
-    glassware: []
     construction:
       slug: shake
       display_name: Shake
     components:
     - slug: 4-blackberry
       display_name: 4 Blackberry
-      notes: []
     - slug: cognac
       display_name: Cognac
       quantity: 2
       unit: ounces
-      notes: []
     - slug: otima-10-year-tawny-port
       display_name: Otima 10 Year Tawny Port
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: cra-me-de-cassis
       display_name: Cra Me De Cassis
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: lemon-juice
       display_name: Lemon Juice
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: bittermens-xocolatl-mole-bitters
       display_name: Bittermens Xocolatl Mole Bitters
       quantity: 2
       unit: dashes
-      notes: []
     garnish:
     - slug: blackberry
       display_name: Blackberry
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: In a shaker, gently muddle the blackberries
     - text: Add the remaining ingredients and shake with ice
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

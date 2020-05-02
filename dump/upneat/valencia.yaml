@@ -1,10 +1,8 @@
 - slug: valencia
   display_name: Valencia
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
-    origin: {}
     glassware:
     - slug: martini
       display_name: Martini
@@ -16,26 +14,16 @@
       display_name: Fino Sherry
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: several-orange-peel
       display_name: Several Orange Peel
-      notes: []
     - slug: gin
       display_name: Gin
       quantity: 2.5
       unit: ounces
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Coat the inside of a chilled martini glass with fino sherry and toss out
         the excess
     - text: Flame several orange peels into the glass
     - text: Chill the gin and strain into the seasoned glass
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

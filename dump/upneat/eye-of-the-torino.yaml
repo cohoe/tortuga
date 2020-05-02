@@ -1,6 +1,5 @@
 - slug: eye-of-the-torino
   display_name: Eye Of The Torino
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
@@ -8,7 +7,6 @@
       creator: Jillian Vose
       location: Jillian Vose
       year: 2013
-    glassware: []
     construction:
       slug: shake
       display_name: Shake
@@ -17,67 +15,49 @@
       display_name: Bowmore 12 Year Scotch Whisky
       quantity: 2
       unit: ounces
-      notes: []
     - slug: cocchi-vermouth-di-torino
       display_name: Cocchi Vermouth Di Torino
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: pineapple-juice
       display_name: Pineapple Juice
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: lemon-juice
       display_name: Lemon Juice
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: orgeat
       display_name: Orgeat
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: vanilla-syrup
       display_name: Vanilla Syrup
       quantity: 1
       unit: teaspoon
-      notes: []
     - slug: coco-lopez
       display_name: Coco Lopez
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: heavy-cream
       display_name: Heavy Cream
       quantity: 0.25
       unit: ounce
-      notes: []
     - slug: angostura-bitters
       display_name: Angostura Bitters
       quantity: 1
       unit: dash
-      notes: []
     - slug: bittermens-xocolatl-mole-bitters
       display_name: Bittermens Xocolatl Mole Bitters
       quantity: 1
       unit: dash
-      notes: []
     garnish:
     - slug: pineapple
       display_name: Pineapple
-      notes: []
     - slug: flag-with-cherry
       display_name: Flag With Cherry
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Short shake all the ingredients with 3 ice cubes, then strain into a coconut
         mug filled with crushed ice
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

@@ -1,6 +1,5 @@
 - slug: coconut-colada
   display_name: Coconut Colada
-  origin: {}
   specs:
   - slug: pdt
     display_name: PDT
@@ -11,7 +10,6 @@
       story: In 2006, a guest asked me to make her a Piña Colada at Gramercy Tavern.
         We didn't stock Coco López, so I used a scoop of coconut sorbet in place of
         the rich cream.
-    glassware: []
     construction:
       slug: shake
       display_name: Shake
@@ -20,30 +18,19 @@
       display_name: Flor De Cana Silver Dry Rum
       quantity: 2
       unit: oz
-      notes: []
     - slug: pineapple-juice
       display_name: Pineapple Juice
       quantity: 1
       unit: oz
-      notes: []
     - slug: lime-juice
       display_name: Lime Juice
       quantity: 0.5
       unit: oz
-      notes: []
     - slug: ciao-bella-coconut-sorbet
       display_name: Ciao Bella Coconut Sorbet
       quantity: 1
       unit: scoop
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Shake with ice and strain into a chilled coupe
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

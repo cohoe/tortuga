@@ -1,6 +1,5 @@
 - slug: the-bittenbender
   display_name: The Bittenbender
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
@@ -8,58 +7,42 @@
       creator: Jillian Vose
       location: Jillian Vose
       year: 2013
-    glassware: []
     construction:
       slug: shake
       display_name: Shake
     components:
     - slug: 4-raspberry
       display_name: 4 Raspberry
-      notes: []
     - slug: lemon-peel
       display_name: Lemon Peel
-      notes: []
     - slug: orange-peel
       display_name: Orange Peel
-      notes: []
     - slug: russells-reserve-10-year-bourbon
       display_name: Russells Reserve 10 Year Bourbon
       quantity: 2
       unit: ounces
-      notes: []
     - slug: cacao-nib-infused-campari
       display_name: Cacao Nib Infused Campari
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: lemon-juice
       display_name: Lemon Juice
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: ginger-syrup
       display_name: Ginger Syrup
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: dry-champagne
       display_name: Dry Champagne
       quantity: 1
       unit: ounce
-      notes: []
     garnish:
     - slug: wheel-of-lemon
       display_name: Wheel Of Lemon
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: In a shaker, muddle the raspberries with the lemon and orange twists
     - text: Add the remaining ingredients (except the champagne) and shake with ice
     - text: Strain into a snifter over 1 large ice cube and top with the champagne
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

@@ -1,6 +1,5 @@
 - slug: strange-brew
   display_name: Strange Brew
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
@@ -19,38 +18,26 @@
       display_name: Tanqueray No Ten Gin
       quantity: 2
       unit: ounces
-      notes: []
     - slug: velvet-falernum
       display_name: Velvet Falernum
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: pineapple-juice
       display_name: Pineapple Juice
       quantity: 1
       unit: ounce
-      notes: []
     - slug: lemon-juice
       display_name: Lemon Juice
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: green-flash-ipa
       display_name: Green Flash Ipa
-      notes: []
     garnish:
     - slug: sprig-of-mint
       display_name: Sprig Of Mint
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Short shake all the ingredients (except the IPA) with 3 ice cubes, then
         strain into a pilsner glass filled with crushed ice
     - text: Top with IPA
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

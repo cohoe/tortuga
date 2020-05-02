@@ -1,6 +1,5 @@
 - slug: new-amsterdam
   display_name: New Amsterdam
-  origin: {}
   specs:
   - slug: pdt
     display_name: PDT
@@ -10,7 +9,6 @@
       year: 2006
       story: Manhattan was first colonized by Dutch traders, who renamed the island
         and surrounding area New Amsterdam.
-    glassware: []
     construction:
       slug: stir
       display_name: Stir
@@ -19,30 +17,19 @@
       display_name: Bols Genever
       quantity: 2
       unit: oz
-      notes: []
     - slug: clear-creek-kirschwasser
       display_name: Clear Creek Kirschwasser
       quantity: 1
       unit: oz
-      notes: []
     - slug: demerara-syrup
       display_name: Demerara Syrup
       quantity: 1
       unit: barspoon
-      notes: []
     - slug: peychauds-bitters
       display_name: Peychauds Bitters
       quantity: 2
       unit: dashes
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Stir with ice and strain into a chilled coupe
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

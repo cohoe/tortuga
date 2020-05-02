@@ -1,6 +1,5 @@
 - slug: gold-rush
   display_name: Gold Rush
-  origin: {}
   specs:
   - slug: pdt
     display_name: PDT
@@ -21,25 +20,15 @@
       display_name: Elijah Craig 12 Year Old Bourbon Whiskey
       quantity: 2
       unit: oz
-      notes: []
     - slug: honey-syrup
       display_name: Honey Syrup
       quantity: 1
       unit: oz
-      notes: []
     - slug: lemon-juice
       display_name: Lemon Juice
       quantity: 0.75
       unit: oz
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Shake with ice and strain over a large cube into a chilled rocks glass
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

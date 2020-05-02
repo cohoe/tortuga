@@ -1,6 +1,5 @@
 - slug: trembling-bell
   display_name: Trembling Bell
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
@@ -8,7 +7,6 @@
       creator: Thomas Waugh
       location: Thomas Waugh
       year: 2012
-    glassware: []
     construction:
       slug: stir
       display_name: Stir
@@ -17,40 +15,27 @@
       display_name: Chamomile Infused Old Overholt Rye Whiskey
       quantity: 1.5
       unit: ounces
-      notes: []
     - slug: knappogue-castle-12-year-irish-whiskey
       display_name: Knappogue Castle 12 Year Irish Whiskey
       quantity: 1
       unit: ounce
-      notes: []
     - slug: cocchi-americano
       display_name: Cocchi Americano
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: massenez-creme-de-peche-peach-liqueur
       display_name: Massenez Creme De Peche Peach Liqueur
       quantity: 1
       unit: teaspoon
-      notes: []
     - slug: acacia-honey-syrup
       display_name: Acacia Honey Syrup
       quantity: 0.5
       unit: teaspoon
-      notes: []
     - slug: lemon-peel
       display_name: Lemon Peel
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Stir all the ingredients (except the lemon twist) over ice, then strain
         into a coupe
     - text: Squeeze the lemon twist over the drink and discard
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

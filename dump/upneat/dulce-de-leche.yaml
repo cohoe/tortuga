@@ -1,6 +1,5 @@
 - slug: dulce-de-leche
   display_name: Dulce De Leche
-  origin: {}
   specs:
   - slug: pdt
     display_name: PDT
@@ -9,7 +8,6 @@
       location: Jim Meehan
       year: 2008
       story: Rum raisin ice cream was my inspiration for this rich flip.
-    glassware: []
     construction:
       slug: unknown
       display_name: Unknown
@@ -18,32 +16,21 @@
       display_name: Don Julio Anejo Tequila
       quantity: 1.25
       unit: oz
-      notes: []
     - slug: toro-albala-pedro-ximenez-sherry
       display_name: Toro Albala Pedro Ximenez Sherry
       quantity: 0.75
       unit: oz
-      notes: []
     - slug: heavy-cream
       display_name: Heavy Cream
       quantity: 0.5
       unit: oz
-      notes: []
     - slug: organic-egg
       display_name: Organic Egg
       quantity: 1
       unit: Whole
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Twist a grapefruit peel into a mixing tin
     - text: Add everything else and dry-shake
     - text: Shake with ice and strain into a chilled coupe
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

@@ -1,6 +1,5 @@
 - slug: little-engine
   display_name: Little Engine
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
@@ -19,39 +18,27 @@
       display_name: Famous Grouse Scotch Whisky
       quantity: 2
       unit: ounces
-      notes: []
     - slug: otima-10-year-tawny-port
       display_name: Otima 10 Year Tawny Port
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: lemon-juice
       display_name: Lemon Juice
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: maple-syrup
       display_name: Maple Syrup
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: apple-butter
       display_name: Apple Butter
       quantity: 1
       unit: teaspoon
-      notes: []
     garnish:
     - slug: fan-of-apple
       display_name: Fan Of Apple
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Short shake all the ingredients with 3 ice cubes, then double strain into
         a double rocks glass filled with crushed ice
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

@@ -1,10 +1,8 @@
 - slug: deshler-cocktail
   display_name: Deshler Cocktail
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
-    origin: {}
     glassware:
     - slug: cocktail
       display_name: Cocktail
@@ -16,31 +14,20 @@
       display_name: Red Dubonnet
       quantity: 1.5
       unit: ounces
-      notes: []
     - slug: rye-whiskey
       display_name: Rye Whiskey
       quantity: 1.5
       unit: ounces
-      notes: []
     - slug: cointreau
       display_name: Cointreau
       quantity: 0.25
       unit: ounce
-      notes: []
     - slug: dash-angostura-bitters
       display_name: Dash Angostura Bitters
-      notes: []
     garnish:
     - slug: orange-peel
       display_name: Orange Peel
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Shake and strain into a cocktail glass
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

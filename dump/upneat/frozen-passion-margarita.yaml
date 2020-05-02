@@ -1,10 +1,8 @@
 - slug: frozen-passion-margarita
   display_name: Frozen Passion Margarita
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
-    origin: {}
     glassware:
     - slug: margarita
       display_name: Margarita
@@ -16,47 +14,33 @@
       display_name: Aliza C Gold Passion
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: tequila
       display_name: Tequila
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: triple-sec
       display_name: Triple Sec
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: lime-juice
       display_name: Lime Juice
       quantity: 1
       unit: ounce
-      notes: []
     - slug: simple-syrup
       display_name: Simple Syrup
       quantity: 1.5
       unit: ounces
-      notes: []
     - slug: cracked-ice
       display_name: Cracked Ice
       quantity: 0.75
       unit: cup
-      notes: []
     garnish:
     - slug: thin-wheel-of-lime
       display_name: Thin Wheel Of Lime
-      notes: []
     - slug: salt
       display_name: Salt
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Pour all the ingredients into a blender and blend
     - text: Serve in a margarita glass rimmed with coarse salt
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

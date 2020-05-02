@@ -1,10 +1,8 @@
 - slug: caribbean-bulldog
   display_name: Caribbean Bulldog
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
-    origin: {}
     glassware:
     - slug: tall
       display_name: Tall
@@ -16,32 +14,21 @@
       display_name: Kahlaoa
       quantity: 1
       unit: ounce
-      notes: []
     - slug: caribbean-cream
       display_name: Caribbean Cream
       quantity: 1
       unit: ounce
-      notes: []
     - slug: half-and-half
       display_name: Half And Half
       quantity: 2
       unit: ounces
-      notes: []
     - slug: coca-cola
       display_name: Coca Cola
       quantity: 4
       unit: ounces
-      notes: []
-    garnish: []
     straw: true
-    citations: []
-    notes: []
     instructions:
     - text: Build the first three ingredients over ice in a tall glass
     - text: Add the Coca-Cola and stir gently
     - text: Serve with long straws
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

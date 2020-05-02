@@ -1,6 +1,5 @@
 - slug: harvest-sling
   display_name: Harvest Sling
-  origin: {}
   specs:
   - slug: pdt
     display_name: PDT
@@ -22,40 +21,27 @@
       display_name: Lairds Bonded Apple Brandy
       quantity: 1.5
       unit: oz
-      notes: []
     - slug: martini-sweet-vermouth
       display_name: Martini Sweet Vermouth
       quantity: 0.5
       unit: oz
-      notes: []
     - slug: benedictine
       display_name: Benedictine
       quantity: 0.5
       unit: oz
-      notes: []
     - slug: cherry-heering
       display_name: Cherry Heering
       quantity: 0.5
       unit: oz
-      notes: []
     - slug: lemon-juice
       display_name: Lemon Juice
       quantity: 0.5
       unit: oz
-      notes: []
     - slug: house-ginger-beer
       display_name: House Ginger Beer
       quantity: 0.5
       unit: oz
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Shake with ice and strain into a chilled Collins glass filled with ice
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

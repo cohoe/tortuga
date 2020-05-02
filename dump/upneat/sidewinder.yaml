@@ -1,6 +1,5 @@
 - slug: sidewinder
   display_name: Sidewinder
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
@@ -8,7 +7,6 @@
       creator: Phil Ward
       location: Phil Ward
       year: 2008
-    glassware: []
     construction:
       slug: stir
       display_name: Stir
@@ -17,40 +15,27 @@
       display_name: Hine H Cognac
       quantity: 2
       unit: ounces
-      notes: []
     - slug: lairds-bonded-apple-brandy
       display_name: Lairds Bonded Apple Brandy
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: benedictine
       display_name: Benedictine
       quantity: 0.25
       unit: ounce
-      notes: []
     - slug: yellow-chartreuse
       display_name: Yellow Chartreuse
       quantity: 0.25
       unit: ounce
-      notes: []
     - slug: vieux-pontarlier-absinthe
       display_name: Vieux Pontarlier Absinthe
       quantity: 1
       unit: dash
-      notes: []
     - slug: house-peychauds-bitters
       display_name: House Peychauds Bitters
       quantity: 1
       unit: dash
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Stir all the ingredients over ice, then strain into a coupe
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

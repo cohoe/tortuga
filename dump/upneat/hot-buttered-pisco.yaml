@@ -1,6 +1,5 @@
 - slug: hot-buttered-pisco
   display_name: Hot Buttered Pisco
-  origin: {}
   specs:
   - slug: pdt
     display_name: PDT
@@ -10,7 +9,6 @@
       year: 2009
       story: "The longest drink recipe in the book, Kevin Diedrich's toddy is an Irish\
         \ Coffee\x96Hot Buttered Rum hybrid."
-    glassware: []
     construction:
       slug: stir
       display_name: Stir
@@ -19,27 +17,17 @@
       display_name: Hot Water
       quantity: 6
       unit: oz
-      notes: []
     - slug: spiced-macchu-pisco
       display_name: Spiced Macchu Pisco
       quantity: 2
       unit: oz
-      notes: []
     - slug: vanilla-butter
       display_name: Vanilla Butter
       quantity: 1
       unit: barspoon
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Add everything to a pre-warmed heatproof mug and stir until vanilla butter
         dissolves
     - text: Top with sweetened whipped cream
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

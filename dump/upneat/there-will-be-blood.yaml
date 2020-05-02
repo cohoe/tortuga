@@ -1,6 +1,5 @@
 - slug: there-will-be-blood
   display_name: There Will Be Blood
-  origin: {}
   specs:
   - slug: pdt
     display_name: PDT
@@ -10,7 +9,6 @@
       year: 2008
       story: John named this sour after Paul Thomas Anderson's gruesome tale of greed
         and ambition, set in the Wild West when bourbon was king.
-    glassware: []
     construction:
       slug: shake
       display_name: Shake
@@ -19,25 +17,15 @@
       display_name: Old Grand Dad Bonded Bourbon Whiskey
       quantity: 2
       unit: oz
-      notes: []
     - slug: godiva-original-liqueur
       display_name: Godiva Original Liqueur
       quantity: 0.75
       unit: oz
-      notes: []
     - slug: blood-orange-juice
       display_name: Blood Orange Juice
       quantity: 0.75
       unit: oz
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Shake with ice and strain into a chilled coupe
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

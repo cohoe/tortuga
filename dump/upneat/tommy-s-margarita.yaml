@@ -1,6 +1,5 @@
 - slug: tommy-s-margarita
   display_name: Tommy'S Margarita
-  origin: {}
   specs:
   - slug: pdt
     display_name: PDT
@@ -21,25 +20,15 @@
       display_name: L J Blanco Tequila
       quantity: 2
       unit: oz
-      notes: []
     - slug: lime-juice
       display_name: Lime Juice
       quantity: 1
       unit: oz
-      notes: []
     - slug: agave-syrup
       display_name: Agave Syrup
       quantity: 1
       unit: oz
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Shake with ice and strain into a chilled rocks glass filled with ice
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

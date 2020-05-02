@@ -1,6 +1,5 @@
 - slug: gin-rickey
   display_name: Gin Rickey
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
@@ -26,28 +25,18 @@
       display_name: Gin
       quantity: 1.5
       unit: ounces
-      notes: []
     - slug: lime-juice
       display_name: Lime Juice
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: soda-water
       display_name: Soda Water
       quantity: 5
       unit: ounces
-      notes: []
     garnish:
     - slug: wedge-of-lime
       display_name: Wedge Of Lime
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Mix all the ingredients in a highball glass with ice
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

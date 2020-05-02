@@ -1,6 +1,5 @@
 - slug: monongahela-mule
   display_name: Monongahela Mule
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
@@ -17,40 +16,28 @@
     components:
     - slug: 4-raspberry
       display_name: 4 Raspberry
-      notes: []
     - slug: of-mint
       display_name: Of Mint
       quantity: 6
       unit: leaves
-      notes: []
     - slug: old-overholt-rye-whiskey
       display_name: Old Overholt Rye Whiskey
       quantity: 2
       unit: ounces
-      notes: []
     - slug: lemon-juice
       display_name: Lemon Juice
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: ginger-syrup
       display_name: Ginger Syrup
       quantity: 0.5
       unit: ounce
-      notes: []
     garnish:
     - slug: sprig-of-mint
       display_name: Sprig Of Mint
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: In a shaker, gently muddle the raspberries and mint
     - text: Add the remaining ingredients and shake with ice
     - text: Double strain into a highball glass filled with ice cubes
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

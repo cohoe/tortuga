@@ -1,6 +1,5 @@
 - slug: marlene-dietrich
   display_name: Marlene Dietrich
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
@@ -20,37 +19,25 @@
       display_name: Canadian Whiskey
       quantity: 2
       unit: ounces
-      notes: []
     - slug: curaassao
       display_name: Curaassao
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: angostura-bitters
       display_name: Angostura Bitters
       quantity: 3
       unit: dashes
-      notes: []
     - slug: lemon
       display_name: Lemon
       quantity: 1
       unit: piece
-      notes: []
     - slug: orange
       display_name: Orange
       quantity: 1
       unit: piece
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Shake all the ingredients well with ice and strain into a rocks glass
         filled with ice
     - text: Squeeze the lemon and orange
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

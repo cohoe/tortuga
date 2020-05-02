@@ -1,6 +1,5 @@
 - slug: the-vanderbilt
   display_name: The Vanderbilt
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
@@ -19,26 +18,16 @@
       display_name: Lairds Bonded Apple Brandy
       quantity: 1.5
       unit: ounces
-      notes: []
     - slug: gran-classico-bitter
       display_name: Gran Classico Bitter
       quantity: 1
       unit: ounce
-      notes: []
     - slug: mathilde-poire-pear-liqueur
       display_name: Mathilde Poire Pear Liqueur
       quantity: 0.75
       unit: ounce
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Stir all the ingredients over ice, then strain into a double rocks glass
         over 1 large ice cube
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

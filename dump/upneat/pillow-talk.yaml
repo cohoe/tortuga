@@ -1,13 +1,11 @@
 - slug: pillow-talk
   display_name: Pillow Talk
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
     origin:
       year: 2009
       story: JOAQUÍN SIMÓ, 2009
-    glassware: []
     construction:
       slug: shake
       display_name: Shake
@@ -16,40 +14,27 @@
       display_name: Beefeater 24 Gin
       quantity: 1.5
       unit: ounces
-      notes: []
     - slug: plymouth-sloe-gin
       display_name: Plymouth Sloe Gin
       quantity: 0.25
       unit: ounce
-      notes: []
     - slug: creme-yvette
       display_name: Creme Yvette
       quantity: 0.25
       unit: ounce
-      notes: []
     - slug: grapefruit-juice
       display_name: Grapefruit Juice
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: vanilla-syrup
       display_name: Vanilla Syrup
       quantity: 0.5
       unit: teaspoon
-      notes: []
     - slug: sparkling-rose
       display_name: Sparkling Rose
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Shake all the ingredients (except the sparkling rosé) with ice, then strain
         into a flute
     - text: Top with sparkling rosé
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

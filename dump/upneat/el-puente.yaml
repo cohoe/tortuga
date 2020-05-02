@@ -1,6 +1,5 @@
 - slug: el-puente
   display_name: El Puente
-  origin: {}
   specs:
   - slug: pdt
     display_name: PDT
@@ -10,43 +9,30 @@
       year: 2007
       story: This cocktail was created to "bridge" the figurative gap between tequila
         and mezcal by featuring the two side by side in a cocktail.
-    glassware: []
     construction:
       slug: shake
       display_name: Shake
     components:
     - slug: del-maguey-vida-mezcal
       display_name: Del Maguey Vida Mezcal
-      notes: []
     - slug: jose-cuervo-platino-tequila
       display_name: Jose Cuervo Platino Tequila
       quantity: 1.5
       unit: oz
-      notes: []
     - slug: grapefruit-juice
       display_name: Grapefruit Juice
       quantity: 0.75
       unit: oz
-      notes: []
     - slug: martini-bianco-vermouth
       display_name: Martini Bianco Vermouth
       quantity: 0.5
       unit: oz
-      notes: []
     - slug: st-germain-elderflower-liqueur
       display_name: St Germain Elderflower Liqueur
       quantity: 0.5
       unit: oz
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Shake with ice and strain into a chilled, Del Maguey Vida Mezcal-rinsed
         coupe
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

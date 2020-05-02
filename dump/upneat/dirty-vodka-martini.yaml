@@ -1,6 +1,5 @@
 - slug: dirty-vodka-martini
   display_name: Dirty Vodka Martini
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
@@ -20,29 +19,19 @@
     components:
     - slug: dash-dry-french-vermouth
       display_name: Dash Dry French Vermouth
-      notes: []
     - slug: vodka
       display_name: Vodka
       quantity: 3
       unit: ounces
-      notes: []
     - slug: olive-brine
       display_name: Olive Brine
       quantity: 0.25
       unit: ounce
-      notes: []
     garnish:
     - slug: pitted-cocktail-olive
       display_name: Pitted Cocktail Olive
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Stir all the ingredients with ice in a mixing glass
     - text: Strain into a chilled martini glass
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

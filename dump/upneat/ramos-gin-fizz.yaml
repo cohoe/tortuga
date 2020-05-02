@@ -1,10 +1,8 @@
 - slug: ramos-gin-fizz
   display_name: Ramos Gin Fizz
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
-    origin: {}
     glassware:
     - slug: highball
       display_name: Highball
@@ -16,54 +14,39 @@
       display_name: Plymouth Gin
       quantity: 2
       unit: ounces
-      notes: []
     - slug: lemon-juice
       display_name: Lemon Juice
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: lime-juice
       display_name: Lime Juice
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: simple-syrup
       display_name: Simple Syrup
       quantity: 1
       unit: ounce
-      notes: []
     - slug: heavy-cream
       display_name: Heavy Cream
       quantity: 1
       unit: ounce
-      notes: []
     - slug: white
       display_name: White
       quantity: 1
       unit: Egg
-      notes: []
     - slug: orange-flower-water
       display_name: Orange Flower Water
       quantity: 6
       unit: drops
-      notes: []
     - slug: club-soda
       display_name: Club Soda
       quantity: 2
       unit: ounces
-      notes: []
-    garnish: []
     straw: true
-    citations: []
-    notes: []
     instructions:
     - text: Dry shake all the ingredients (except the club soda), then fill the shaker
         with ice cubes and shake until the tin is almost too cold to hold
     - text: Double strain into a highball glass and let rest for 30 seconds, then
         slowly top with club soda
     - text: Serve with a straw
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

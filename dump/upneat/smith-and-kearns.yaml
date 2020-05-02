@@ -1,10 +1,8 @@
 - slug: smith-and-kearns
   display_name: Smith And Kearns
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
-    origin: {}
     glassware:
     - slug: build-an-iced-highball-glass-and-top-with-soda
       display_name: Build An Iced Highball Glass And Top With Soda
@@ -16,23 +14,13 @@
       display_name: Kahlaoa
       quantity: 2
       unit: ounces
-      notes: []
     - slug: half-and-half
       display_name: Half And Half
       quantity: 3
       unit: ounces
-      notes: []
     - slug: soda-water
       display_name: Soda Water
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Build  an  iced  highball  glass  and  top  with  soda
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

@@ -1,6 +1,5 @@
 - slug: gin-hound
   display_name: Gin Hound
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
@@ -11,7 +10,6 @@
       story: JOAQUÍN SIMÓ, 2009 Celery is a misunderstood ingredient. People think
         of it as bland and characterless, but it's actually quite intense. This gimlet-style
         drink is meant to showcase its big flavor.
-    glassware: []
     construction:
       slug: shake
       display_name: Shake
@@ -20,30 +18,19 @@
       display_name: Tanqueray London Dry Gin
       quantity: 2
       unit: ounces
-      notes: []
     - slug: celery-juice
       display_name: Celery Juice
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: lime-juice
       display_name: Lime Juice
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: acacia-honey-syrup
       display_name: Acacia Honey Syrup
       quantity: 0.5
       unit: ounce
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Shake all the ingredients with ice, then strain into a coupe
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

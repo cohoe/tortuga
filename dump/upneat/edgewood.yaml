@@ -1,6 +1,5 @@
 - slug: edgewood
   display_name: Edgewood
-  origin: {}
   specs:
   - slug: pdt
     display_name: PDT
@@ -11,7 +10,6 @@
       story: According to Greg, "I thought the name was meaningful and appropriate
         because I had been bartending for five years and realized I was only standing
         at the edge of the (proverbial) woods."
-    glassware: []
     construction:
       slug: shake
       display_name: Shake
@@ -20,30 +18,19 @@
       display_name: Plymouth Gin
       quantity: 1.5
       unit: oz
-      notes: []
     - slug: grapefruit-juice
       display_name: Grapefruit Juice
       quantity: 1
       unit: oz
-      notes: []
     - slug: punt-e-mes
       display_name: Punt E Mes
       quantity: 0.5
       unit: oz
-      notes: []
     - slug: lillet-blanc
       display_name: Lillet Blanc
       quantity: 0.5
       unit: oz
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Shake with ice and strain into a chilled coupe
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

@@ -1,6 +1,5 @@
 - slug: shaddock-rose
   display_name: Shaddock Rose
-  origin: {}
   specs:
   - slug: pdt
     display_name: PDT
@@ -11,7 +10,6 @@
       story: When Small Hand Foods founder Jenn Colliau guest bartended at PDT, she
         served this tequila-based grapefruit Gimlet named after Lauchlin Rose, who
         invented Rose's Lime Cordial in the 19th century.
-    glassware: []
     construction:
       slug: stir
       display_name: Stir
@@ -20,30 +18,19 @@
       display_name: El Tesoro Reposado Tequila
       quantity: 2
       unit: oz
-      notes: []
     - slug: small-hand-foods-grapefruit-cordial
       display_name: Small Hand Foods Grapefruit Cordial
       quantity: 0.5
       unit: oz
-      notes: []
     - slug: peychauds-bitters
       display_name: Peychauds Bitters
       quantity: 1
       unit: dash
-      notes: []
     - slug: house-orange-bitters
       display_name: House Orange Bitters
       quantity: 1
       unit: dash
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Stir with ice and strain into a chilled coupe
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

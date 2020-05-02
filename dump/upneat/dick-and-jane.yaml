@@ -1,6 +1,5 @@
 - slug: dick-and-jane
   display_name: Dick And Jane
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
@@ -8,7 +7,6 @@
       creator: Toby Cecchini
       location: Toby Cecchini
       year: 2009
-    glassware: []
     construction:
       slug: shake
       display_name: Shake
@@ -17,43 +15,30 @@
       display_name: Tanqueray No Ten Gin
       quantity: 1.5
       unit: ounces
-      notes: []
     - slug: st-germain
       display_name: St Germain
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: lemon-juice
       display_name: Lemon Juice
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: hibiscus-syrup
       display_name: Hibiscus Syrup
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: house-peychauds-bitters
       display_name: House Peychauds Bitters
       quantity: 2
       unit: dashes
-      notes: []
     - slug: dry-champagne
       display_name: Dry Champagne
-      notes: []
     garnish:
     - slug: 1-long-skinny-twist-of-lemon-peel
       display_name: 1 Long Skinny Twist Of Lemon Peel
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Shake all the ingredients (except the champagne) with ice, then strain
         into a flute
     - text: Top with champagne
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

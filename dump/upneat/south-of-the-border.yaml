@@ -1,10 +1,8 @@
 - slug: south-of-the-border
   display_name: South Of The Border
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
-    origin: {}
     glassware:
     - slug: martini
       display_name: Martini
@@ -16,25 +14,15 @@
       display_name: Malibu Coconut Rum
       quantity: 1.5
       unit: ounces
-      notes: []
     - slug: amaretto
       display_name: Amaretto
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: pineapple-juice
       display_name: Pineapple Juice
       quantity: 5
       unit: ounces
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Shake all the ingredients and strain into a martini glass
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

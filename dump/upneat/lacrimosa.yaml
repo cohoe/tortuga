@@ -1,6 +1,5 @@
 - slug: lacrimosa
   display_name: Lacrimosa
-  origin: {}
   specs:
   - slug: pdt
     display_name: PDT
@@ -22,25 +21,15 @@
       display_name: Rittenhouse Bonded Rye Whiskey
       quantity: 2
       unit: oz
-      notes: []
     - slug: amaro-luxardo
       display_name: Amaro Luxardo
       quantity: 0.75
       unit: oz
-      notes: []
     - slug: amaro-ciociaro
       display_name: Amaro Ciociaro
       quantity: 0.75
       unit: oz
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Stir with ice and strain over one large cube into a chilled rocks glass
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

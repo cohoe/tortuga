@@ -1,6 +1,5 @@
 - slug: hispaniola
   display_name: Hispaniola
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
@@ -19,34 +18,23 @@
       display_name: Summer Royale Tea Infused Flor De Caa A White Rum
       quantity: 2
       unit: ounces
-      notes: []
     - slug: lime-juice
       display_name: Lime Juice
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: rich-cane-sugar-syrup
       display_name: Rich Cane Sugar Syrup
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: ginger-syrup
       display_name: Ginger Syrup
       quantity: 0.25
       unit: ounce
-      notes: []
     garnish:
     - slug: wheel-of-lime
       display_name: Wheel Of Lime
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Stir all the ingredients over ice, then strain into a double rocks glass
         over 1 large ice cube
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

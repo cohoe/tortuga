@@ -1,6 +1,5 @@
 - slug: saramago
   display_name: Saramago
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
@@ -8,48 +7,34 @@
       creator: Phil Ward
       location: Phil Ward
       year: 2008
-    glassware: []
     construction:
       slug: unknown
       display_name: Unknown
     components:
     - slug: del-maguey-vida-mezcal
       display_name: Del Maguey Vida Mezcal
-      notes: []
     - slug: siembra-azul-blanco-tequila
       display_name: Siembra Azul Blanco Tequila
       quantity: 2
       unit: ounces
-      notes: []
     - slug: dolin-blanc-vermouth
       display_name: Dolin Blanc Vermouth
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: st-germain
       display_name: St Germain
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: house-orange-bitters
       display_name: House Orange Bitters
       quantity: 1
       unit: dash
-      notes: []
     - slug: grapefruit-peel
       display_name: Grapefruit Peel
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Rinse a coupe with mezcal and dump
     - text: Stir the remaining ingredients (except the grapefruit twist) over ice,
         then strain into the coupe
     - text: Squeeze the grapefruit twist over the drink and discard
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

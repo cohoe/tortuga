@@ -1,6 +1,5 @@
 - slug: kir
   display_name: Kir
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
@@ -18,21 +17,12 @@
       display_name: Cra Me De Cassis
       quantity: 0.25
       unit: ounce
-      notes: []
     - slug: white-wine
       display_name: White Wine
-      notes: []
     garnish:
     - slug: lemon-peel-garnish-optional
       display_name: Lemon Peel Garnish Optional
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Pour the Cassis into a white-wine glass and fill with white wine
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

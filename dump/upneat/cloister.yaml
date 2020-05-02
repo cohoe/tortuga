@@ -1,6 +1,5 @@
 - slug: cloister
   display_name: Cloister
-  origin: {}
   specs:
   - slug: pdt
     display_name: PDT
@@ -10,7 +9,6 @@
       year: 1970
       story: The Cloister reads like a cocktail compounded by a 19th-century master.
         Strangely, it first appeared in the 1970s.
-    glassware: []
     construction:
       slug: shake
       display_name: Shake
@@ -19,35 +17,23 @@
       display_name: Tanqueray Gin
       quantity: 1.5
       unit: oz
-      notes: []
     - slug: yellow-chartreuse
       display_name: Yellow Chartreuse
       quantity: 0.5
       unit: oz
-      notes: []
     - slug: grapefruit-juice
       display_name: Grapefruit Juice
       quantity: 0.5
       unit: oz
-      notes: []
     - slug: lemon-juice
       display_name: Lemon Juice
       quantity: 0.25
       unit: oz
-      notes: []
     - slug: simple-syrup
       display_name: Simple Syrup
       quantity: 0.25
       unit: oz
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Shake with ice and strain into a chilled coupe
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

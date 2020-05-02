@@ -1,6 +1,5 @@
 - slug: gilda-cocktail
   display_name: Gilda Cocktail
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
@@ -8,7 +7,6 @@
       creator: Brian Miller
       location: Brian Miller
       year: 2009
-    glassware: []
     construction:
       slug: shake
       display_name: Shake
@@ -17,33 +15,22 @@
       display_name: Siembra Azul Blanco Tequila
       quantity: 2
       unit: ounces
-      notes: []
     - slug: pineapple-juice
       display_name: Pineapple Juice
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: lime-juice
       display_name: Lime Juice
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: cinnamon-bark-syrup
       display_name: Cinnamon Bark Syrup
       quantity: 0.5
       unit: ounce
-      notes: []
     garnish:
     - slug: wheel-of-lime
       display_name: Wheel Of Lime
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Shake all the ingredients with ice, then strain into a coupe
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

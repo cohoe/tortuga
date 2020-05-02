@@ -1,12 +1,10 @@
 - slug: city-rickey
   display_name: City Rickey
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
     origin:
       story: This is more of a tall, sparkling Cosmopolitan than a Rickey.
-    glassware: []
     construction:
       slug: unknown
       display_name: Unknown
@@ -15,39 +13,26 @@
       display_name: Gin
       quantity: 1.5
       unit: ounces
-      notes: []
     - slug: lime-juice
       display_name: Lime Juice
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: cointreau
       display_name: Cointreau
       quantity: 1
       unit: ounce
-      notes: []
     - slug: soda-water
       display_name: Soda Water
-      notes: []
     - slug: cranberry-juice
       display_name: Cranberry Juice
-      notes: []
     garnish:
     - slug: slice-of-orange
       display_name: Slice Of Orange
-      notes: []
     - slug: slice-of-lime
       display_name: Slice Of Lime
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Pour gin, lime juice, and Cointreau into a highball three-quarters filled
         with ice
     - text: Fill with soda and cranberry and stir
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

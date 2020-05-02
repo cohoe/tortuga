@@ -1,6 +1,5 @@
 - slug: whiskey-daisy
   display_name: Whiskey Daisy
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
@@ -21,44 +20,30 @@
       display_name: Of Lime
       quantity: 1
       unit: wedge
-      notes: []
     - slug: quartered-half-lemon
       display_name: Quartered Half Lemon
-      notes: []
     - slug: simple-syrup
       display_name: Simple Syrup
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: yellow-chartreuse
       display_name: Yellow Chartreuse
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: american-whiskey
       display_name: American Whiskey
       quantity: 1.5
       unit: ounces
-      notes: []
     garnish:
     - slug: wedge-of-lemon
       display_name: Wedge Of Lemon
-      notes: []
     - slug: wedge-of-lime
       display_name: Wedge Of Lime
-      notes: []
     - slug: cherry
       display_name: Cherry
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Muddle the first four ingredients in a mixing glass
     - text: Add the whiskey and shake well with ice
     - text: Strain into a highball glass filled with crushed ice
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

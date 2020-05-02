@@ -1,6 +1,5 @@
 - slug: traditional-grog-hot
   display_name: Traditional Grog (Hot)
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
@@ -8,7 +7,6 @@
       story: Strictly speaking, grog is either a hot or a cold drink of rum, sugar,
         molasses or honey, lemon juice, and water in the proportions below. In The
         Flowing Bowl by William Schmidt, the author calls for hot tea instead of water.
-    glassware: []
     construction:
       slug: stir
       display_name: Stir
@@ -17,33 +15,22 @@
       display_name: Heavy Bodied Rum
       quantity: 1.5
       unit: ounce
-      notes: []
     - slug: honey-syrup
       display_name: Honey Syrup
       quantity: 1
       unit: ounce
-      notes: []
     - slug: lemon-juice
       display_name: Lemon Juice
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: hot-water
       display_name: Hot Water
       quantity: 4
       unit: ounces
-      notes: []
     garnish:
     - slug: stick-of-cinnamon
       display_name: Stick Of Cinnamon
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Mix all ingredients in a mug and stir
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

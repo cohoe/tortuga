@@ -1,6 +1,5 @@
 - slug: spaghetti-western
   display_name: Spaghetti Western
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
@@ -20,34 +19,23 @@
       display_name: Siete Leguas Reposado Tequila
       quantity: 1
       unit: ounce
-      notes: []
     - slug: los-nahuales-mezcal
       display_name: Los Nahuales Mezcal
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: amaro-nonino
       display_name: Amaro Nonino
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: house-orange-bitters
       display_name: House Orange Bitters
       quantity: 1
       unit: dash
-      notes: []
     garnish:
     - slug: grapefruit-peel
       display_name: Grapefruit Peel
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Stir all the ingredients over ice, then strain into an old-fashioned glass
         over 1 large ice cube
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

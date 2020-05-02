@@ -1,6 +1,5 @@
 - slug: negroni
   display_name: Negroni
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
@@ -21,28 +20,18 @@
       display_name: Campari
       quantity: 1
       unit: ounce
-      notes: []
     - slug: sweet-vermouth
       display_name: Sweet Vermouth
       quantity: 1
       unit: ounce
-      notes: []
     - slug: gin
       display_name: Gin
       quantity: 1
       unit: ounce
-      notes: []
     garnish:
     - slug: flamed-orange-peel
       display_name: Flamed Orange Peel
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Combine all the ingredients in an iced old-fashioned glass and stir
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

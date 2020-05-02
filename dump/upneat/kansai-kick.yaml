@@ -1,6 +1,5 @@
 - slug: kansai-kick
   display_name: Kansai Kick
-  origin: {}
   specs:
   - slug: pdt
     display_name: PDT
@@ -11,7 +10,6 @@
       story: Using the Cameron's Kick cocktail as a template, John deBary substituted
         malt whiskey aged on Japan's Kansai plain in place of its Celtic brethren,
         used lime in place of lemon juice, and added a little Madeira for complexity.
-    glassware: []
     construction:
       slug: shake
       display_name: Shake
@@ -20,30 +18,19 @@
       display_name: Yamazaki 12 Year Old Japanese Single Malt Whisky
       quantity: 1.5
       unit: oz
-      notes: []
     - slug: blandys-sercial-madeira
       display_name: Blandys Sercial Madeira
       quantity: 0.75
       unit: oz
-      notes: []
     - slug: lime-juice
       display_name: Lime Juice
       quantity: 0.75
       unit: oz
-      notes: []
     - slug: kassatly-chtaura-orgeat
       display_name: Kassatly Chtaura Orgeat
       quantity: 0.4
       unit: oz
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Shake with ice and strain into a chilled coupe
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

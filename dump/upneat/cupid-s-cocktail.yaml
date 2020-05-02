@@ -1,6 +1,5 @@
 - slug: cupid-s-cocktail
   display_name: Cupid'S Cocktail
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
@@ -18,31 +17,20 @@
       display_name: Peter Heering Cherry Heering
       quantity: 1
       unit: ounce
-      notes: []
     - slug: peachtree-schnapps
       display_name: Peachtree Schnapps
       quantity: 1
       unit: ounce
-      notes: []
     - slug: orange-juice
       display_name: Orange Juice
       quantity: 4
       unit: ounces
-      notes: []
     garnish:
     - slug: slice-orange
       display_name: Slice Orange
-      notes: []
     - slug: slice-cherry
       display_name: Slice Cherry
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Shake all the ingredients and strain into a chilled highball glass
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

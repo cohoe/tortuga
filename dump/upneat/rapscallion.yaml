@@ -1,6 +1,5 @@
 - slug: rapscallion
   display_name: Rapscallion
-  origin: {}
   specs:
   - slug: pdt
     display_name: PDT
@@ -10,7 +9,6 @@
       year: 2007
       story: When the cocktail delivered a wee bit more than expected, the name Rapscallion
         was given to it.
-    glassware: []
     construction:
       slug: stir
       display_name: Stir
@@ -18,27 +16,17 @@
     - slug: george
       display_name: George
       quantity: St
-      notes: []
     - slug: talisker-10-year-old-single-malt-scotch-whisky
       display_name: Talisker 10 Year Old Single Malt Scotch Whisky
       quantity: 2.25
       unit: oz
-      notes: []
     - slug: lustau-pedro-ximenez-sherry
       display_name: Lustau Pedro Ximenez Sherry
       quantity: 0.75
       unit: oz
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Stir with ice and strain into a chilled, St
     - text: George Absinthe-rinsed coupe
     - text: Twist a lemon peel over the surface and discard
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

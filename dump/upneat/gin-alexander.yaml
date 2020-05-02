@@ -1,6 +1,5 @@
 - slug: gin-alexander
   display_name: Gin Alexander
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
@@ -17,28 +16,18 @@
       display_name: Gin
       quantity: 1
       unit: ounce
-      notes: []
     - slug: dark-creme-de-cacao
       display_name: Dark Creme De Cacao
       quantity: 1
       unit: ounce
-      notes: []
     - slug: heavy-cream
       display_name: Heavy Cream
       quantity: 2
       unit: ounces
-      notes: []
     garnish:
     - slug: pinch-nutmeg
       display_name: Pinch Nutmeg
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Shake the ingredients with ice and strain into a small cocktail glass
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

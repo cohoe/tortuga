@@ -1,6 +1,5 @@
 - slug: merry-widow
   display_name: Merry Widow
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
@@ -16,36 +15,24 @@
     components:
     - slug: dash-absinthe
       display_name: Dash Absinthe
-      notes: []
     - slug: gin
       display_name: Gin
       quantity: 2
       unit: ounces
-      notes: []
     - slug: dry-vermouth
       display_name: Dry Vermouth
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: dash-angostura-bitters
       display_name: Dash Angostura Bitters
-      notes: []
     - slug: dash-benedictine
       display_name: Dash Benedictine
-      notes: []
     garnish:
     - slug: flamed-lemon-peel
       display_name: Flamed Lemon Peel
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Season a chilled martini glass with the absinthe and set it aside
     - text: Stir the remaining ingredients with ice in a bar glass and strain into
         the chilled martini glass
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

@@ -1,10 +1,8 @@
 - slug: coco-s-punch
   display_name: Coco'S Punch
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
-    origin: {}
     glassware:
     - slug: drink
       display_name: Drink
@@ -16,57 +14,41 @@
       display_name: Light Rum
       quantity: 0.75
       unit: ounces
-      notes: []
     - slug: gold-rum
       display_name: Gold Rum
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: dark-rum
       display_name: Dark Rum
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: malibu-coconut-rum
       display_name: Malibu Coconut Rum
       quantity: 0.25
       unit: ounce
-      notes: []
     - slug: orange-juice
       display_name: Orange Juice
       quantity: 2
       unit: ounces
-      notes: []
     - slug: pineapple-juice
       display_name: Pineapple Juice
       quantity: 3
       unit: ounces
-      notes: []
     - slug: grenadine
       display_name: Grenadine
       quantity: 0.25
       unit: teaspoon
-      notes: []
     - slug: angostura-bitters
       display_name: Angostura Bitters
       quantity: 1
       unit: dash
-      notes: []
     garnish:
     - slug: maraschino-cherry
       display_name: Maraschino Cherry
-      notes: []
     - slug: slice-of-orange
       display_name: Slice Of Orange
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Shake all the ingredients with ice and strain into a large goblet or a
         specialty drink glass
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

@@ -1,6 +1,5 @@
 - slug: peach-melissa
   display_name: Peach Melissa
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
@@ -17,38 +16,26 @@
       display_name: Goslings Dark Rum
       quantity: 1.5
       unit: ounces
-      notes: []
     - slug: simple-syrup
       display_name: Simple Syrup
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: orange-juice
       display_name: Orange Juice
       quantity: 1
       unit: ounce
-      notes: []
     - slug: lemon-juice
       display_name: Lemon Juice
       quantity: 0.25
       unit: ounce
-      notes: []
     - slug: peach-pura-c-e
       display_name: Peach Pura C E
       quantity: 1
       unit: ounce
-      notes: []
     garnish:
     - slug: slice-of-peach
       display_name: Slice Of Peach
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Shake all the ingredients with ice and strain into a cocktail glass
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

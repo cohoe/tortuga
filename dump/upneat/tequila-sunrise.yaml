@@ -1,6 +1,5 @@
 - slug: tequila-sunrise
   display_name: Tequila Sunrise
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
@@ -21,25 +20,15 @@
       display_name: White Tequila
       quantity: 1.5
       unit: ounces
-      notes: []
     - slug: 5-ounces-orange-juice
       display_name: 5 Ounces Orange Juice
       quantity: 4
       unit: or
-      notes: []
     - slug: grenadine
       display_name: Grenadine
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Ice a highball glass
     - text: Add the tequila, pour in fresh orange juice, and top off with a float
         of grenadine
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

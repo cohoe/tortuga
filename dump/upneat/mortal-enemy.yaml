@@ -1,6 +1,5 @@
 - slug: mortal-enemy
   display_name: Mortal Enemy
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
@@ -19,40 +18,27 @@
       display_name: Dorothy Parker Gin
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: marie-brizard-white-creme-de-cacao
       display_name: Marie Brizard White Creme De Cacao
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: american-fruits-black-currant-cordial
       display_name: American Fruits Black Currant Cordial
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: vieux-pontarlier-absinthe
       display_name: Vieux Pontarlier Absinthe
       quantity: 1
       unit: dash
-      notes: []
     - slug: lime-juice
       display_name: Lime Juice
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: simple-syrup
       display_name: Simple Syrup
       quantity: 0.25
       unit: ounce
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Shake all the ingredients with ice, then strain into a Nick & Nora glass
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

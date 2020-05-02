@@ -1,6 +1,5 @@
 - slug: double-fill-up
   display_name: Double Fill Up
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
@@ -8,7 +7,6 @@
       creator: Phil Ward
       location: Phil Ward
       year: 2008
-    glassware: []
     construction:
       slug: shake
       display_name: Shake
@@ -17,38 +15,26 @@
       display_name: Rittenhouse 100 Rye Whiskey
       quantity: 2
       unit: ounces
-      notes: []
     - slug: lemon-juice
       display_name: Lemon Juice
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: simple-syrup
       display_name: Simple Syrup
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: pomegranate-molasses
       display_name: Pomegranate Molasses
       quantity: 1
       unit: teaspoon
-      notes: []
     - slug: of-mint
       display_name: Of Mint
       quantity: 3
       unit: leaves
-      notes: []
     garnish:
     - slug: 1-leaf-mint
       display_name: 1 Leaf Mint
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Shake all the ingredients with ice, then double strain into a coupe
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

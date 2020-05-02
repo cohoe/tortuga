@@ -1,6 +1,5 @@
 - slug: pina-colada
   display_name: Piña Colada
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
@@ -16,7 +15,6 @@
         \ it the Bahia. The trick to making a great Piña Colada is to use both light\
         \ rum and dark rum, a dash of bitters, and a little heavy cream, which creates\
         \ a drink with a much more complex flavor."
-    glassware: []
     construction:
       slug: unknown
       display_name: Unknown
@@ -25,51 +23,36 @@
       display_name: Light Rum
       quantity: 1.5
       unit: ounces
-      notes: []
     - slug: goslings-or-myerss-dark-rum
       display_name: Goslings Or Myerss Dark Rum
       quantity: 1
       unit: ounce
-      notes: []
     - slug: coco-lopez
       display_name: Coco Lopez
       quantity: 2
       unit: ounces
-      notes: []
     - slug: heavy-cream
       display_name: Heavy Cream
       quantity: 1
       unit: ounce
-      notes: []
     - slug: pineapple-juice
       display_name: Pineapple Juice
       quantity: 4
       unit: ounces
-      notes: []
     - slug: angostura-bitters
       display_name: Angostura Bitters
       quantity: 1
       unit: dash
-      notes: []
     - slug: crushed-ice
       display_name: Crushed Ice
       quantity: 1
       unit: cup
-      notes: []
     garnish:
     - slug: wedge-of-pineapple
       display_name: Wedge Of Pineapple
-      notes: []
     - slug: maraschino-cherry
       display_name: Maraschino Cherry
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Pour all the ingredients into a blender and blend for 15 seconds
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

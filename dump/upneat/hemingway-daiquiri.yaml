@@ -1,6 +1,5 @@
 - slug: hemingway-daiquiri
   display_name: Hemingway Daiquiri
-  origin: {}
   specs:
   - slug: pdt
     display_name: PDT
@@ -10,7 +9,6 @@
       year: 1939
       story: "Cuban Bar La Florida's famous Daiquiri #3, served without the sugar\
         \ for diabetic author and barfly Ernest Hemingway."
-    glassware: []
     construction:
       slug: shake
       display_name: Shake
@@ -19,30 +17,19 @@
       display_name: Banks 5 Island Rum
       quantity: 2
       unit: oz
-      notes: []
     - slug: lime-juice
       display_name: Lime Juice
       quantity: 0.75
       unit: oz
-      notes: []
     - slug: luxardo-maraschino-liqueur
       display_name: Luxardo Maraschino Liqueur
       quantity: 0.5
       unit: oz
-      notes: []
     - slug: grapefruit-juice
       display_name: Grapefruit Juice
       quantity: 0.5
       unit: oz
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Shake with ice and strain into a chilled coupe
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

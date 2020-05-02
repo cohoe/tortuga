@@ -1,6 +1,5 @@
 - slug: mae-west-royal-diamond-fizz
   display_name: Mae West Royal Diamond Fizz
-  origin: {}
   specs:
   - slug: pdt
     display_name: PDT
@@ -11,7 +10,6 @@
       story: 'Mae West loved champagne, so LeNell included it along with pomegranate
         (the fruit of Aphrodite), bourbon (her favorite spirit), and a natural aphrodisiac:
         goji berries.'
-    glassware: []
     construction:
       slug: shake
       display_name: Shake
@@ -20,31 +18,20 @@
       display_name: Goji Berry Infused Four Roses Single Barrel Bourbon Whiskey
       quantity: 2
       unit: oz
-      notes: []
     - slug: grapefruit-juice
       display_name: Grapefruit Juice
       quantity: 1
       unit: oz
-      notes: []
     - slug: pama-pomegranate-liqueur
       display_name: Pama Pomegranate Liqueur
       quantity: 0.5
       unit: oz
-      notes: []
     - slug: egg
       display_name: Egg
       quantity: 1
       unit: Whole
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Dry-shake, then shake with ice and strain into a chilled egg coupe rimmed
         with sugar, cayenne, and cocoa powder
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

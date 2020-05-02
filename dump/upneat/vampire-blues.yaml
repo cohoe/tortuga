@@ -1,6 +1,5 @@
 - slug: vampire-blues
   display_name: Vampire Blues
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
@@ -19,44 +18,31 @@
       display_name: Old Weller Antique 107 Bourbon
       quantity: 1.5
       unit: ounces
-      notes: []
     - slug: east-india-solera-sherry
       display_name: East India Solera Sherry
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: lemon-juice
       display_name: Lemon Juice
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: simple-syrup
       display_name: Simple Syrup
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: pumpkin-butter
       display_name: Pumpkin Butter
       quantity: 1
       unit: teaspoon
-      notes: []
     - slug: angostura-bitters
       display_name: Angostura Bitters
       quantity: 2
       unit: dashes
-      notes: []
     garnish:
     - slug: 1-stick-of-cinnamon
       display_name: 1 Stick Of Cinnamon
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Shake all the ingredients with ice, then strain into a double rocks glass
         filled with ice cubes
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

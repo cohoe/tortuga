@@ -1,11 +1,8 @@
 - slug: south-side
   display_name: South Side
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
-    origin: {}
-    glassware: []
     construction:
       slug: shake
       display_name: Shake
@@ -14,39 +11,27 @@
       display_name: Of Mint
       quantity: 5
       unit: leaves
-      notes: []
     - slug: beefeater-london-dry-gin
       display_name: Beefeater London Dry Gin
       quantity: 2
       unit: ounces
-      notes: []
     - slug: lime-juice
       display_name: Lime Juice
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: rich-cane-sugar-syrup
       display_name: Rich Cane Sugar Syrup
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: angostura-bitters
       display_name: Angostura Bitters
       quantity: 1
       unit: dash
-      notes: []
     garnish:
     - slug: 1-leaf-mint
       display_name: 1 Leaf Mint
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: In a cocktail shaker, gently muddle the mint
     - text: Add the remaining ingredients, shake with ice, and strain into a coupe
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

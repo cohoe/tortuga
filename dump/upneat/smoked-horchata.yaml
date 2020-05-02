@@ -1,6 +1,5 @@
 - slug: smoked-horchata
   display_name: Smoked Horchata
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
@@ -18,39 +17,27 @@
       display_name: Fortaleza Reposado Tequila
       quantity: 1
       unit: ounce
-      notes: []
     - slug: del-maguey-crema-de-mezcal
       display_name: Del Maguey Crema De Mezcal
       quantity: 1
       unit: ounce
-      notes: []
     - slug: cinnamon-bark-syrup
       display_name: Cinnamon Bark Syrup
       quantity: 0.25
       unit: ounce
-      notes: []
     - slug: house-horchata
       display_name: House Horchata
       quantity: 2
       unit: ounces
-      notes: []
     - slug: angostura-bitters
       display_name: Angostura Bitters
       quantity: 1
       unit: dash
-      notes: []
     garnish:
     - slug: 1-stick-of-cinnamon
       display_name: 1 Stick Of Cinnamon
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Shake all the ingredients with ice, then strain into a double rocks glass
         over 1 large ice cube
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

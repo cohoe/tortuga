@@ -1,6 +1,5 @@
 - slug: sour-apple-martini
   display_name: Sour Apple Martini
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
@@ -8,7 +7,6 @@
       story: I made this for Natalie Cole and her manager, on the occasion of Rupert
         Murdoch's seventieth birthday party. I had the cocktail gig, and she was the
         surprise entertainment. Rupert loved her, and she loved my Sour Apple Martinis.
-    glassware: []
     construction:
       slug: shake
       display_name: Shake
@@ -17,34 +15,23 @@
       display_name: Citrus Vodka
       quantity: 2
       unit: ounces
-      notes: []
     - slug: sour-apple-pucker
       display_name: Sour Apple Pucker
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: cointreau
       display_name: Cointreau
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: lemon-juice
       display_name: Lemon Juice
       quantity: 0.75
       unit: ounce
-      notes: []
     garnish:
     - slug: thin-slice-granny-smith-apple
       display_name: Thin Slice Granny Smith Apple
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Assemble all the ingredients in a cocktail shaker and shake well with
         ice
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

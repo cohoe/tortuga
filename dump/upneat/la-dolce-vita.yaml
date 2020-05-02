@@ -1,6 +1,5 @@
 - slug: la-dolce-vita
   display_name: La Dolce Vita
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
@@ -19,26 +18,16 @@
       display_name: Chamomile Infused Old Overholt Rye Whiskey
       quantity: 2
       unit: ounces
-      notes: []
     - slug: campari
       display_name: Campari
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: st-germain
       display_name: St Germain
       quantity: 0.5
       unit: ounce
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Stir all the ingredients over ice, then strain into a double rocks glass
         over 1 large ice cube
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

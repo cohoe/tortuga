@@ -1,10 +1,8 @@
 - slug: happy-honey-cocktail
   display_name: Happy Honey Cocktail
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
-    origin: {}
     glassware:
     - slug: martini
       display_name: Martini
@@ -16,25 +14,15 @@
       display_name: Brandy
       quantity: 2
       unit: ounces
-      notes: []
     - slug: grapefruit-juice
       display_name: Grapefruit Juice
       quantity: 1
       unit: ounce
-      notes: []
     - slug: honey-syrup
       display_name: Honey Syrup
       quantity: 0.5
       unit: ounce
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Shake all the ingredients with ice and strain into small martini glass
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

@@ -1,13 +1,11 @@
 - slug: rye-club-cocktail
   display_name: Rye Club Cocktail
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
     origin:
       story: A cocktail like this, served over shaved ice, is referred to as a "mist."
         I created this for Fritz Maytag's malted rye Whiskey.
-    glassware: []
     construction:
       slug: shake
       display_name: Shake
@@ -16,25 +14,15 @@
       display_name: Old Potrero Rye Whiskey
       quantity: 1.5
       unit: ounces
-      notes: []
     - slug: curaassao
       display_name: Curaassao
       quantity: 1
       unit: ounce
-      notes: []
     - slug: orange-bitters-or-angostura-bitters
       display_name: Orange Bitters Or Angostura Bitters
       quantity: 1
       unit: dash
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Shake all the ingredients with ice and serve over shaved ice
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

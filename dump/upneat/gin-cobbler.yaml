@@ -1,10 +1,8 @@
 - slug: gin-cobbler
   display_name: Gin Cobbler
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
-    origin: {}
     glassware:
     - slug: mixing
       display_name: Mixing
@@ -16,34 +14,23 @@
       display_name: Orange
       quantity: 2
       unit: slices
-      notes: []
     - slug: lemon
       display_name: Lemon
       quantity: 2
       unit: wedges
-      notes: []
     - slug: cherry-heering
       display_name: Cherry Heering
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: gin
       display_name: Gin
       quantity: 1.5
       unit: ounces
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: In a mixing glass, muddle the skinless pineapple wedge, 1 piece of the
         orange, and 1 piece of the lemon with Peter Heering
     - text: Add the gin and 1 ounce of water
     - text: Shake with ice and strain into a double old- fashioned glass filled with
         crushed ice
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

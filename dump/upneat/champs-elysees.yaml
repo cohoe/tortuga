@@ -1,11 +1,8 @@
 - slug: champs-elysees
   display_name: Champs Élysées
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
-    origin: {}
-    glassware: []
     construction:
       slug: shake
       display_name: Shake
@@ -14,38 +11,26 @@
       display_name: Pierre Ferrand Ambre Cognac
       quantity: 2
       unit: ounces
-      notes: []
     - slug: green-chartreuse
       display_name: Green Chartreuse
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: lemon-juice
       display_name: Lemon Juice
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: rich-cane-sugar-syrup
       display_name: Rich Cane Sugar Syrup
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: angostura-bitters
       display_name: Angostura Bitters
       quantity: 1
       unit: dash
-      notes: []
     garnish:
     - slug: lemon-peel
       display_name: Lemon Peel
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Shake all the ingredients with ice, then strain into a coupe
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

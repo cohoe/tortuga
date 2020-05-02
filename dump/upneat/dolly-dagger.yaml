@@ -1,6 +1,5 @@
 - slug: dolly-dagger
   display_name: Dolly Dagger
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
@@ -19,41 +18,29 @@
       display_name: Smith Cross Rum
       quantity: 1
       unit: ounce
-      notes: []
     - slug: williams-humbert-dry-sack-medium-sherry
       display_name: Williams Humbert Dry Sack Medium Sherry
       quantity: 1.5
       unit: ounces
-      notes: []
     - slug: lime-juice
       display_name: Lime Juice
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: rich-cane-sugar-syrup
       display_name: Rich Cane Sugar Syrup
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: vanilla-syrup
       display_name: Vanilla Syrup
       quantity: 1
       unit: teaspoon
-      notes: []
     garnish:
     - slug: sprig-of-mint
       display_name: Sprig Of Mint
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Whip all the ingredients, shaking with a few pieces of crushed ice just
         until incorporated
     - text: Strain into a pilsner glass filled with crushed ice
     - text: Swizzle until cold
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

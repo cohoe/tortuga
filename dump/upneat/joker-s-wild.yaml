@@ -1,6 +1,5 @@
 - slug: joker-s-wild
   display_name: Joker'S Wild
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
@@ -19,45 +18,31 @@
       display_name: La Diablada Pisco
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: zoco-pacharan-navarro-liqueur
       display_name: Zoco Pacharan Navarro Liqueur
       quantity: 1.5
       unit: ounces
-      notes: []
     - slug: vieux-pontarlier-absinthe
       display_name: Vieux Pontarlier Absinthe
       quantity: 2
       unit: dashes
-      notes: []
     - slug: lemon-juice
       display_name: Lemon Juice
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: simple-syrup
       display_name: Simple Syrup
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: vanilla-syrup
       display_name: Vanilla Syrup
       quantity: 0.25
       unit: ounce
-      notes: []
     - slug: club-soda
       display_name: Club Soda
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Dry shake all the ingredients (except the club soda), then shake again
         with ice
     - text: Strain into a highball glass filled with ice cubes
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

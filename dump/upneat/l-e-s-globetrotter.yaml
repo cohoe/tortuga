@@ -1,6 +1,5 @@
 - slug: l-e-s-globetrotter
   display_name: L.E.S. Globetrotter
-  origin: {}
   specs:
   - slug: pdt
     display_name: PDT
@@ -21,30 +20,19 @@
       display_name: Wild Turkey Rye Whiskey
       quantity: 1.25
       unit: oz
-      notes: []
     - slug: hine-v-s-o-p-cognac
       display_name: Hine V S O P Cognac
       quantity: 0.75
       unit: oz
-      notes: []
     - slug: benedictine
       display_name: Benedictine
       quantity: 0.75
       unit: oz
-      notes: []
     - slug: rhum-clement-creole-shrub
       display_name: Rhum Clement Creole Shrub
       quantity: 0.5
       unit: oz
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Stir with ice and strain over an ice sphere into a chilled rocks glass
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

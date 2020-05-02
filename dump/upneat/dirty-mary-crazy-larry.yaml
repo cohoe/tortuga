@@ -1,6 +1,5 @@
 - slug: dirty-mary-crazy-larry
   display_name: Dirty Mary, Crazy Larry
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
@@ -19,19 +18,10 @@
       display_name: Lairds Bonded Apple Brandy
       quantity: 2
       unit: ounces
-      notes: []
     - slug: full-sail-session-black-lager
       display_name: Full Sail Session Black Lager
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Fill a pilsner glass with ice cubes and add the apple brandy
     - text: Top with Full Sail
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

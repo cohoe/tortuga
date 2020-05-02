@@ -1,6 +1,5 @@
 - slug: nitty-gritty
   display_name: Nitty Gritty
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
@@ -12,7 +11,6 @@
         of mezcal and sherry was so drying that the cocktail needed some texture and
         sweetness. The smallest amount of pear liqueur and agave nectar made a huge
         difference.
-    glassware: []
     construction:
       slug: stir
       display_name: Stir
@@ -21,48 +19,34 @@
       display_name: Del Maguey Espadin Especial Mezcal
       quantity: 1.5
       unit: ounces
-      notes: []
     - slug: la-cigarrera-manzanilla-sherry
       display_name: La Cigarrera Manzanilla Sherry
       quantity: 1.5
       unit: ounces
-      notes: []
     - slug: benedictine
       display_name: Benedictine
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: rothman-winter-pear-liqueur
       display_name: Rothman Winter Pear Liqueur
       quantity: 0.5
       unit: teaspoon
-      notes: []
     - slug: agave-nectar
       display_name: Agave Nectar
       quantity: 0.5
       unit: teaspoon
-      notes: []
     - slug: bar-code-baked-apple-bitters
       display_name: Bar Code Baked Apple Bitters
       quantity: 1
       unit: dash
-      notes: []
     - slug: bitter-truth-aromatic-bitters
       display_name: Bitter Truth Aromatic Bitters
       quantity: 1
       unit: dash
-      notes: []
     garnish:
     - slug: lemon-peel
       display_name: Lemon Peel
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Stir all the ingredients over ice, then strain into a coupe
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

@@ -1,6 +1,5 @@
 - slug: martinez-cocktail-original
   display_name: Martinez Cocktail (Original)
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
@@ -40,37 +39,25 @@
       display_name: Bokers Bitters Substitute Angostura Bitters
       quantity: 1
       unit: dash
-      notes: []
     - slug: maraschino-liqueur
       display_name: Maraschino Liqueur
       quantity: 2
       unit: dashes
-      notes: []
     - slug: old-tom-gin
       display_name: Old Tom Gin
       quantity: 1
       unit: pony
-      notes: []
     - slug: sweet-italian-vermouth
       display_name: Sweet Italian Vermouth
       quantity: 1
       unit: wineglass
-      notes: []
     - slug: gum-syrup-optional
       display_name: Gum Syrup Optional
-      notes: []
     garnish:
     - slug: one-quarter-lemon
       display_name: One Quarter Lemon
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Shake well and strain into a large cocktail glass
     - text: Put a quarter slice of lemon in the glass and serve
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

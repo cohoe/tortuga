@@ -1,10 +1,8 @@
 - slug: derby-cocktail
   display_name: Derby Cocktail
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
-    origin: {}
     glassware:
     - slug: mixing
       display_name: Mixing
@@ -14,34 +12,23 @@
     components:
     - slug: half-a-quartered-peach
       display_name: Half A Quartered Peach
-      notes: []
     - slug: several-leaves-of-mint
       display_name: Several Leaves Of Mint
-      notes: []
     - slug: fee-brothers-peach-bitters
       display_name: Fee Brothers Peach Bitters
       quantity: 0.25
       unit: ounce
-      notes: []
     - slug: gin
       display_name: Gin
       quantity: 2.5
       unit: ounces
-      notes: []
     garnish:
     - slug: sprig-of-mint
       display_name: Sprig Of Mint
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: In a mixing glass, muddle together the peach, mint, and peach bitters
         or peach liqueur
     - text: Add the gin and ice
     - text: Shake all the ingredients well and strain into a small martini glass
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

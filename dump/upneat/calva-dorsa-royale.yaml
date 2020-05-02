@@ -1,6 +1,5 @@
 - slug: calva-dorsa-royale
   display_name: Calva Dorsa Royale
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
@@ -8,7 +7,6 @@
       creator: Phil Ward
       location: Phil Ward
       year: 2008
-    glassware: []
     construction:
       slug: stir
       display_name: Stir
@@ -17,30 +15,19 @@
       display_name: Busnel Vsop Calvados
       quantity: 1.5
       unit: ounces
-      notes: []
     - slug: st-germain
       display_name: St Germain
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: vieux-pontarlier-absinthe
       display_name: Vieux Pontarlier Absinthe
       quantity: 2
       unit: dashes
-      notes: []
     - slug: dry-champagne
       display_name: Dry Champagne
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Stir all the ingredients (except the champagne) over ice, then strain
         into a coupe
     - text: Top with champagne
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

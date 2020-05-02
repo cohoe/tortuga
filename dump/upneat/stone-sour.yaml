@@ -1,6 +1,5 @@
 - slug: stone-sour
   display_name: Stone Sour
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
@@ -19,36 +18,24 @@
       display_name: Old Potrero Rye Whiskey
       quantity: 1.5
       unit: ounces
-      notes: []
     - slug: lemon-juice
       display_name: Lemon Juice
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: simple-syrup
       display_name: Simple Syrup
       quantity: 1
       unit: ounce
-      notes: []
     - slug: orange-juice
       display_name: Orange Juice
       quantity: 1
       unit: ounce
-      notes: []
     garnish:
     - slug: slice-of-orange
       display_name: Slice Of Orange
-      notes: []
     - slug: cherry
       display_name: Cherry
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Shake all the ingredients with ice and serve in a rocks glass over ice
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

@@ -1,10 +1,8 @@
 - slug: godmother
   display_name: Godmother
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
-    origin: {}
     glassware:
     - slug: rocks
       display_name: Rocks
@@ -16,20 +14,11 @@
       display_name: Vodka
       quantity: 1
       unit: ounce
-      notes: []
     - slug: amaretto
       display_name: Amaretto
       quantity: 1
       unit: ounce
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Pour over ice in a rocks glass
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

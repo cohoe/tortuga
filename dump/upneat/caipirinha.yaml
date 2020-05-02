@@ -1,6 +1,5 @@
 - slug: caipirinha
   display_name: Caipirinha
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
@@ -17,21 +16,15 @@
     components:
     - slug: 0-5-lime
       display_name: 0 5 Lime
-      notes: []
     - slug: brown-sugar-syrup
       display_name: Brown Sugar Syrup
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: cachaca
       display_name: Cachaca
       quantity: 2
       unit: ounces
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Chill a rocks glass with cracked ice
     - text: Place the lime quarters in the bottom of a mixing glass, add the syrup,
@@ -40,8 +33,4 @@
         the rocks glass into the mixing glass, and shake well
     - text: Pour the entire contents of the mixing glass back into the chilled rocks
         glass and serve
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

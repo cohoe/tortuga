@@ -1,6 +1,5 @@
 - slug: dale-cooper
   display_name: Dale Cooper
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
@@ -19,35 +18,23 @@
       display_name: Siete Leguas Reposado Tequila
       quantity: 2
       unit: ounces
-      notes: []
     - slug: coffee-infused-carpano-antica-formula-vermouth
       display_name: Coffee Infused Carpano Antica Formula Vermouth
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: green-chartreuse
       display_name: Green Chartreuse
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: cinnamon-bark-syrup
       display_name: Cinnamon Bark Syrup
       quantity: 1
       unit: teaspoon
-      notes: []
     - slug: bittermens-xocolatl-mole-bitters
       display_name: Bittermens Xocolatl Mole Bitters
       quantity: 1
       unit: dash
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Stir all the ingredients over ice, then strain into a martini glass
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

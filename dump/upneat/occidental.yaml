@@ -1,6 +1,5 @@
 - slug: occidental
   display_name: Occidental
-  origin: {}
   specs:
   - slug: pdt
     display_name: PDT
@@ -11,37 +10,25 @@
       story: Linie aquavit is shipped from Norway, across the equator and back again
         in old sherry casks. Nate named this tipple after the direction of the journey
         home.
-    glassware: []
     construction:
       slug: stir
       display_name: Stir
     components:
     - slug: fernet-branca
       display_name: Fernet Branca
-      notes: []
     - slug: linie-aquavit
       display_name: Linie Aquavit
       quantity: 2
       unit: oz
-      notes: []
     - slug: grand-marnier
       display_name: Grand Marnier
       quantity: 0.75
       unit: oz
-      notes: []
     - slug: amaro-nonino
       display_name: Amaro Nonino
       quantity: 0.5
       unit: oz
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Stir with ice and strain into a chilled, Fernet Branca-rinsed coupe
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

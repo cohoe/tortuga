@@ -1,6 +1,5 @@
 - slug: tom-bomb
   display_name: Tom Bomb
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
@@ -8,7 +7,6 @@
       creator: Jillian Vose
       location: Jillian Vose
       year: 2011
-    glassware: []
     construction:
       slug: shake
       display_name: Shake
@@ -17,40 +15,27 @@
       display_name: Ransom Old Tom Gin
       quantity: 1.5
       unit: ounces
-      notes: []
     - slug: donns-spices-2
       display_name: Donns Spices 2
       quantity: 0.25
       unit: ounce
-      notes: []
     - slug: lemon-juice
       display_name: Lemon Juice
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: pineapple-juice
       display_name: Pineapple Juice
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: orgeat
       display_name: Orgeat
       quantity: 0.25
       unit: ounce
-      notes: []
     - slug: acacia-honey-syrup
       display_name: Acacia Honey Syrup
       quantity: 0.25
       unit: ounce
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Shake all the ingredients with ice, then strain into a coupe
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

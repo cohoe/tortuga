@@ -1,13 +1,11 @@
 - slug: midnight-mass
   display_name: Midnight Mass
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
     origin:
       year: 2009
       story: JOAQUÍN SIMÓ, 2009
-    glassware: []
     construction:
       slug: stir
       display_name: Stir
@@ -16,33 +14,22 @@
       display_name: Scarlet Ibis Rum
       quantity: 2
       unit: ounces
-      notes: []
     - slug: cardamaro
       display_name: Cardamaro
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: benedictine
       display_name: Benedictine
       quantity: 0.25
       unit: ounce
-      notes: []
     - slug: bitter-truth-jerry-thomas-own-decanter-bitters
       display_name: Bitter Truth Jerry Thomas Own Decanter Bitters
       quantity: 1
       unit: dash
-      notes: []
     garnish:
     - slug: orange-peel
       display_name: Orange Peel
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Stir all the ingredients over ice, then strain into a coupe
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

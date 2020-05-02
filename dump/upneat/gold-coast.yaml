@@ -1,6 +1,5 @@
 - slug: gold-coast
   display_name: Gold Coast
-  origin: {}
   specs:
   - slug: pdt
     display_name: PDT
@@ -22,27 +21,17 @@
       display_name: Karlssons Gold Vodka
       quantity: 2
       unit: oz
-      notes: []
     - slug: carlshamns-flaggpunsch
       display_name: Carlshamns Flaggpunsch
       quantity: 0.5
       unit: oz
-      notes: []
     - slug: fresh-dill
       display_name: Fresh Dill
       quantity: 1
       unit: Sprig
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Add the dill and Flaggpunsch to a mixing glass and muddle
     - text: Add vodka and ice, then stir and fine-strain over one large cube into
         a chilled rocks glass
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

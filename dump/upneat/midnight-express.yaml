@@ -1,6 +1,5 @@
 - slug: midnight-express
   display_name: Midnight Express
-  origin: {}
   specs:
   - slug: pdt
     display_name: PDT
@@ -10,7 +9,6 @@
       year: 2008
       story: Don and John developed this recipe with the help of Abraço owner and
         barista Jamie McCormick.
-    glassware: []
     construction:
       slug: unknown
       display_name: Unknown
@@ -19,30 +17,19 @@
       display_name: Freshly Brewed Coffee
       quantity: 3
       unit: oz
-      notes: []
     - slug: walnut-infused-hine-v-s-o-p-cognac
       display_name: Walnut Infused Hine V S O P Cognac
       quantity: 1.5
       unit: oz
-      notes: []
     - slug: luxardo-amaretto
       display_name: Luxardo Amaretto
       quantity: 0.25
       unit: oz
-      notes: []
     - slug: simple-syrup
       display_name: Simple Syrup
       quantity: 0.25
       unit: oz
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Build in a pre-heated heatproof mug
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

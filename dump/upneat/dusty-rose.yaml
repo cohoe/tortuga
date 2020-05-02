@@ -1,6 +1,5 @@
 - slug: dusty-rose
   display_name: Dusty Rose
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
@@ -20,25 +19,15 @@
       display_name: Cherry Brandy
       quantity: 1
       unit: ounce
-      notes: []
     - slug: white-creme-de-cacao
       display_name: White Cra Me De Cacao
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: heavy-cream
       display_name: Heavy Cream
       quantity: 2
       unit: ounces
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Shake and serve in a small martini glass
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

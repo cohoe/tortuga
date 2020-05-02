@@ -1,6 +1,5 @@
 - slug: million-dollar-cocktail
   display_name: Million Dollar Cocktail
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
@@ -18,35 +17,23 @@
       display_name: Gin
       quantity: 1.5
       unit: ounces
-      notes: []
     - slug: sweet-vermouth
       display_name: Sweet Vermouth
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: pineapple-juice
       display_name: Pineapple Juice
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: egg-white
       display_name: Egg White
       quantity: 0.5
       unit: small
-      notes: []
     - slug: grenadine
       display_name: Grenadine
       quantity: 2
       unit: dashes
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Shake all the ingredients with ice and strain into a martini glass
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

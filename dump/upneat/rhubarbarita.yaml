@@ -1,6 +1,5 @@
 - slug: rhubarbarita
   display_name: Rhubarbarita
-  origin: {}
   specs:
   - slug: pdt
     display_name: PDT
@@ -10,7 +9,6 @@
       year: 2008
       story: The red-skinned rhubarb has a vegetal quality that pairs perfectly with
         earthy Tequila in our Cadillac Margarita with Cosmo-colored windows.
-    glassware: []
     construction:
       slug: shake
       display_name: Shake
@@ -19,35 +17,23 @@
       display_name: Partida Blanco Tequila
       quantity: 1.5
       unit: oz
-      notes: []
     - slug: lemon-juice
       display_name: Lemon Juice
       quantity: 1
       unit: oz
-      notes: []
     - slug: grand-marnier
       display_name: Grand Marnier
       quantity: 0.75
       unit: oz
-      notes: []
     - slug: boiron-rhubarb-puree
       display_name: Boiron Rhubarb Puree
       quantity: 0.5
       unit: oz
-      notes: []
     - slug: house-grenadine
       display_name: House Grenadine
       quantity: 0.5
       unit: oz
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Shake with ice and strain into a chilled coupe
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

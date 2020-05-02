@@ -1,6 +1,5 @@
 - slug: irish-coconut
   display_name: Irish Coconut
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
@@ -17,36 +16,24 @@
       display_name: Baileys Irish Cream
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: white-rum
       display_name: White Rum
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: heavy-cream
       display_name: Heavy Cream
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: coco-lopez
       display_name: Coco Lopez
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: ounces
       display_name: Ounces
       quantity: 2-
       unit: '3'
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Shake all the ingredients well with ice
     - text: Strain into an iced highball glass, top with soda, and stir
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

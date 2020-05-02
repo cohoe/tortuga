@@ -1,6 +1,5 @@
 - slug: lion-s-tooth
   display_name: Lion'S Tooth
-  origin: {}
   specs:
   - slug: pdt
     display_name: PDT
@@ -10,7 +9,6 @@
       year: 2010
       story: The English word "dandelion" is a corruption of the French "dent de lion,"
         lion's tooth, named after the toothy shape of the leaf.
-    glassware: []
     construction:
       slug: stir
       display_name: Stir
@@ -19,30 +17,19 @@
       display_name: Dandelion Root Infused Rittenhouse Bonded Rye Whiskey
       quantity: 2
       unit: oz
-      notes: []
     - slug: lustau-palo-cortado-sherry
       display_name: Lustau Palo Cortado Sherry
       quantity: 0.75
       unit: oz
-      notes: []
     - slug: yellow-chartreuse
       display_name: Yellow Chartreuse
       quantity: 0.5
       unit: oz
-      notes: []
     - slug: st-germain-elderflower-liqueur
       display_name: St Germain Elderflower Liqueur
       quantity: 0.25
       unit: oz
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Stir with ice and strain into a chilled coupe
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

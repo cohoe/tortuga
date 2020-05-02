@@ -1,6 +1,5 @@
 - slug: eagle-eye-cherry
   display_name: Eagle Eye Cherry
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
@@ -19,58 +18,42 @@
       display_name: Flor De Caa A 7 Year Rum
       quantity: 2
       unit: ounces
-      notes: []
     - slug: cherry-heering
       display_name: Cherry Heering
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: alvear-festival-pale-cream-sherry
       display_name: Alvear Festival Pale Cream Sherry
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: lustau-east-india-solera-sherry
       display_name: Lustau East India Solera Sherry
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: alchemia-chocolate-vodka
       display_name: Alchemia Chocolate Vodka
       quantity: 0.25
       unit: ounce
-      notes: []
     - slug: carpano-antica-formula-vermouth
       display_name: Carpano Antica Formula Vermouth
       quantity: 1
       unit: teaspoon
-      notes: []
     - slug: suze-saveur-dautrefois-liqueur
       display_name: Suze Saveur Dautrefois Liqueur
       quantity: 0.5
       unit: teaspoon
-      notes: []
     - slug: bittercube-cherry-bark-vanilla-bitters
       display_name: Bittercube Cherry Bark Vanilla Bitters
       quantity: 1
       unit: dash
-      notes: []
     - slug: orange-peel
       display_name: Orange Peel
-      notes: []
     garnish:
     - slug: brandied-cherry
       display_name: Brandied Cherry
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Stir all the ingredients (except the orange twist) over ice, then strain
         into a port glass
     - text: Squeeze the orange twist over the drink and discard
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

@@ -1,6 +1,5 @@
 - slug: la-florida-cocktail
   display_name: La Florida Cocktail
-  origin: {}
   specs:
   - slug: pdt
     display_name: PDT
@@ -10,7 +9,6 @@
       year: 2009
       story: The weekend before Tales of the Cocktail in 2009, Jack McGarry worked
         a shift at PDT and served this delicious Daiquiri variation.
-    glassware: []
     construction:
       slug: shake
       display_name: Shake
@@ -19,35 +17,23 @@
       display_name: Banks 5 Island Rum
       quantity: 2
       unit: oz
-      notes: []
     - slug: lime-juice
       display_name: Lime Juice
       quantity: 0.75
       unit: oz
-      notes: []
     - slug: marie-brizard-creme-de-cacao
       display_name: Marie Brizard Creme De Cacao
       quantity: 0.5
       unit: oz
-      notes: []
     - slug: martini-sweet-vermouth
       display_name: Martini Sweet Vermouth
       quantity: 0.25
       unit: oz
-      notes: []
     - slug: house-grenadine
       display_name: House Grenadine
       quantity: 1
       unit: barspoon
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Shake with ice and strain into a chilled coupe
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

@@ -1,10 +1,8 @@
 - slug: cherry-kiss
   display_name: Cherry Kiss
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
-    origin: {}
     glassware:
     - slug: martini
       display_name: Martini
@@ -16,34 +14,23 @@
       display_name: Gin
       quantity: 1.5
       unit: ounces
-      notes: []
     - slug: maraschino-liqueur
       display_name: Maraschino Liqueur
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: pineapple-juice
       display_name: Pineapple Juice
       quantity: 2
       unit: ounces
-      notes: []
     - slug: grenadine
       display_name: Grenadine
       quantity: 3
       unit: dashes
-      notes: []
     garnish:
     - slug: nutmeg
       display_name: Nutmeg
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Shake all the ingredients well and strain into a chilled martini glass
     - text: Dust with a little bit of grated nutmeg
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

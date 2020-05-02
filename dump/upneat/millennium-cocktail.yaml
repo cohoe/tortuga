@@ -1,6 +1,5 @@
 - slug: millennium-cocktail
   display_name: Millennium Cocktail
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
@@ -29,36 +28,24 @@
       display_name: Courvoisier Millennium Cognac
       quantity: 1.5
       unit: ounces
-      notes: []
     - slug: pineapple-juice
       display_name: Pineapple Juice
       quantity: 1.5
       unit: ounces
-      notes: []
     - slug: curacao
       display_name: Curacao
       quantity: 1
       unit: ounce
-      notes: []
     - slug: angostura-bitters
       display_name: Angostura Bitters
       quantity: 1
       unit: dash
-      notes: []
     garnish:
     - slug: flamed-orange-peel
       display_name: Flamed Orange Peel
-      notes: []
     - slug: nutmeg
       display_name: Nutmeg
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Shake all the ingredients with ice and strain into a chilled martini glass
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

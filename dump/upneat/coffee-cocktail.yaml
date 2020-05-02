@@ -1,6 +1,5 @@
 - slug: coffee-cocktail
   display_name: Coffee Cocktail
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
@@ -19,34 +18,23 @@
       display_name: Brandy
       quantity: 1
       unit: ounce
-      notes: []
     - slug: ruby-port
       display_name: Ruby Port
       quantity: 1
       unit: ounce
-      notes: []
     - slug: egg
       display_name: Egg
       quantity: 1
       unit: small
-      notes: []
     - slug: sugar
       display_name: Sugar
       quantity: 0.5
       unit: teaspoon
-      notes: []
     garnish:
     - slug: nutmeg
       display_name: Nutmeg
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Shake all the ingredients well with ice and strain into a port glass
     - text: Dust with nutmeg
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

@@ -1,6 +1,5 @@
 - slug: statesman
   display_name: Statesman
-  origin: {}
   specs:
   - slug: pdt
     display_name: PDT
@@ -10,7 +9,6 @@
       year: 2008
       story: Erick created this clean, sophisticated cocktail to sip while exchanging
         witty commentary.
-    glassware: []
     construction:
       slug: stir
       display_name: Stir
@@ -19,30 +17,19 @@
       display_name: Beefeater 24 Gin
       quantity: 2
       unit: oz
-      notes: []
     - slug: rothman-winter-orchard-pear-liqueur
       display_name: Rothman Winter Orchard Pear Liqueur
       quantity: 0.5
       unit: oz
-      notes: []
     - slug: green-chartreuse
       display_name: Green Chartreuse
       quantity: 1
       unit: barspoon
-      notes: []
     - slug: regans-orange-bitters
       display_name: Regans Orange Bitters
       quantity: 1
       unit: dash
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Stir with ice and strain into a chilled coupe
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

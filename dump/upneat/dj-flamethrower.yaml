@@ -1,6 +1,5 @@
 - slug: dj-flamethrower
   display_name: Dj Flamethrower
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
@@ -22,48 +21,34 @@
       display_name: Siete Leguas Reposado Tequila
       quantity: 1
       unit: ounce
-      notes: []
     - slug: del-maguey-vida-mezcal
       display_name: Del Maguey Vida Mezcal
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: ancho-chile-infused-dolin-rouge-vermouth
       display_name: Ancho Chile Infused Dolin Rouge Vermouth
       quantity: 1
       unit: ounce
-      notes: []
     - slug: grapefruit-juice
       display_name: Grapefruit Juice
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: lime-juice
       display_name: Lime Juice
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: cinnamon-bark-syrup
       display_name: Cinnamon Bark Syrup
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: angostura-bitters
       display_name: Angostura Bitters
-      notes: []
     garnish:
     - slug: 1-stick-of-cinnamon
       display_name: 1 Stick Of Cinnamon
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Short shake all the ingredients (except the bitters) with 3 ice cubes,
         then strain into a pilsner glass filled with crushed ice
     - text: Add the bitters and swizzle them on top of the drink
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

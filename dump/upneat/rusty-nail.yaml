@@ -1,11 +1,8 @@
 - slug: rusty-nail
   display_name: Rusty Nail
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
-    origin: {}
-    glassware: []
     construction:
       slug: unknown
       display_name: Unknown
@@ -14,20 +11,11 @@
       display_name: Scotch Whisky
       quantity: 2
       unit: ounces
-      notes: []
     - slug: drambuie
       display_name: Drambuie
       quantity: 0.75
       unit: ounce
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Pour the scotch over ice and float the Drambuie on top
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

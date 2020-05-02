@@ -1,6 +1,5 @@
 - slug: cuba-libre
   display_name: Cuba Libre
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
@@ -21,22 +20,12 @@
       display_name: Rum
       quantity: 2
       unit: ounces
-      notes: []
     - slug: coca-cola
       display_name: Coca Cola
-      notes: []
     - slug: wedge-lime
       display_name: Wedge Lime
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Pour the Cuban rum over ice in the highball glass and fill with Coca-Cola
     - text: Squeeze in a lime wedge
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

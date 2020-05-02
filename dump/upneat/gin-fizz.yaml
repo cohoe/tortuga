@@ -1,6 +1,5 @@
 - slug: gin-fizz
   display_name: Gin Fizz
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
@@ -19,30 +18,19 @@
       display_name: Gin
       quantity: 1.5
       unit: ounces
-      notes: []
     - slug: lemon-juice
       display_name: Lemon Juice
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: simple-syrup
       display_name: Simple Syrup
       quantity: 1
       unit: ounce
-      notes: []
     - slug: soda-water
       display_name: Soda Water
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Shake the gin, lemon juice, and syrup and strain into a highball glass
         (but see note) with ice
     - text: Fill with club soda
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

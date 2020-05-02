@@ -1,6 +1,5 @@
 - slug: steeplechase
   display_name: Steeplechase
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
@@ -18,45 +17,32 @@
       display_name: 4 Leaves Of Mint
       quantity: 3
       unit: or
-      notes: []
     - slug: blackberry-brandy
       display_name: Blackberry Brandy
       quantity: 0.25
       unit: ounce
-      notes: []
     - slug: curaassao
       display_name: Curaassao
       quantity: 0.25
       unit: ounce
-      notes: []
     - slug: bourbon-whiskey
       display_name: Bourbon Whiskey
       quantity: 2
       unit: ounces
-      notes: []
     - slug: angostura-bitters
       display_name: Angostura Bitters
       quantity: 2
       unit: dashes
-      notes: []
     - slug: orange-juice
       display_name: Orange Juice
       quantity: 2
       unit: ounces
-      notes: []
     garnish:
     - slug: 1-sprig-of-mint
       display_name: 1 Sprig Of Mint
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Muddle the mint leaves and the two liqueurs in the bottom of a mixing
         glass
     - text: Add the rest of the ingredients and shake with ice
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

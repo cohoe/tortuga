@@ -1,10 +1,8 @@
 - slug: upside-down-martini
   display_name: Upside Down Martini
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
-    origin: {}
     glassware:
     - slug: mixing
       display_name: Mixing
@@ -16,23 +14,14 @@
       display_name: Dry Vermouth
       quantity: 2.5
       unit: ounces
-      notes: []
     - slug: gin
       display_name: Gin
       quantity: 1
       unit: ounce
-      notes: []
     garnish:
     - slug: lemon-peel
       display_name: Lemon Peel
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Assemble gin and vermouth in a mixing glass Illed with ice and stir
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

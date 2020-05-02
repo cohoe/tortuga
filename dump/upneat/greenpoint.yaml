@@ -1,6 +1,5 @@
 - slug: greenpoint
   display_name: Greenpoint
-  origin: {}
   specs:
   - slug: pdt
     display_name: PDT
@@ -11,7 +10,6 @@
       story: Mickey used to stroll through Greenpoint on his days off. The route gave
         him the idea to create a variation on a well-known cocktail from Milk & Honey
         called the Red Hook.
-    glassware: []
     construction:
       slug: stir
       display_name: Stir
@@ -20,30 +18,19 @@
       display_name: Rittenhouse Bonded Rye Whiskey
       quantity: 2
       unit: oz
-      notes: []
     - slug: punt-e-mes
       display_name: Punt E Mes
       quantity: 1
       unit: oz
-      notes: []
     - slug: yellow-chartreuse
       display_name: Yellow Chartreuse
       quantity: 1
       unit: barspoon
-      notes: []
     - slug: angostura-bitters
       display_name: Angostura Bitters
       quantity: 1
       unit: dash
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Stir with ice and strain into a chilled coupe
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

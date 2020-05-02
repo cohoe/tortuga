@@ -1,6 +1,5 @@
 - slug: radio-days
   display_name: Radio Days
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
@@ -8,55 +7,40 @@
       creator: Alex Day
       location: Alex Day
       year: 2013
-    glassware: []
     construction:
       slug: shake
       display_name: Shake
     components:
     - slug: crescent-of-orange
       display_name: Crescent Of Orange
-      notes: []
     - slug: angostura-bitters
       display_name: Angostura Bitters
       quantity: 1
       unit: dash
-      notes: []
     - slug: tanqueray-london-dry-gin
       display_name: Tanqueray London Dry Gin
       quantity: 1
       unit: ounce
-      notes: []
     - slug: salers-gentiane-aperitif
       display_name: Salers Gentiane Aperitif
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: lemon-juice
       display_name: Lemon Juice
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: acacia-honey-syrup
       display_name: Acacia Honey Syrup
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: dry-champagne
       display_name: Dry Champagne
-      notes: []
     garnish:
     - slug: crescent-of-orange
       display_name: Crescent Of Orange
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: In a shaker, muddle the orange crescent and bitters
     - text: Add the remaining ingredients (except the champagne) and shake with ice
     - text: Strain into a large coupe and top with champagne
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

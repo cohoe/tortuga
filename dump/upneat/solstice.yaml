@@ -1,6 +1,5 @@
 - slug: solstice
   display_name: Solstice
-  origin: {}
   specs:
   - slug: pdt
     display_name: PDT
@@ -10,7 +9,6 @@
       year: 2007
       story: Solstice, Latin for when the sun stands still, refers to both the longest
         and shortest days of the year. John solemnly serves his on the darkest.
-    glassware: []
     construction:
       slug: stir
       display_name: Stir
@@ -19,35 +17,23 @@
       display_name: Rittenhouse Bonded Rye Whiskey
       quantity: 1.5
       unit: oz
-      notes: []
     - slug: lairds-bonded-apple-brandy
       display_name: Lairds Bonded Apple Brandy
       quantity: 0.5
       unit: oz
-      notes: []
     - slug: amaro-nonino
       display_name: Amaro Nonino
       quantity: 0.5
       unit: oz
-      notes: []
     - slug: dubonnet-rouge
       display_name: Dubonnet Rouge
       quantity: 0.5
       unit: oz
-      notes: []
     - slug: house-grenadine
       display_name: House Grenadine
       quantity: 0.25
       unit: oz
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Stir with ice and strain into a chilled coupe
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

@@ -1,6 +1,5 @@
 - slug: queens-park-swizzle
   display_name: Queens Park Swizzle
-  origin: {}
   specs:
   - slug: pdt
     display_name: PDT
@@ -21,36 +20,25 @@
       display_name: Barbancourt 8 Year Old Rhum
       quantity: 2
       unit: oz
-      notes: []
     - slug: lime-juice
       display_name: Lime Juice
       quantity: 1
       unit: oz
-      notes: []
     - slug: demerara-syrup
       display_name: Demerara Syrup
       quantity: 0.5
       unit: oz
-      notes: []
     - slug: of-mint
       display_name: Of Mint
       quantity: 8
       unit: Leaves
-      notes: []
     garnish:
     - slug: 1-sprig-of-mint
       display_name: 1 Sprig Of Mint
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Muddle mint leaves and demerara syrup in a chilled Collins glass
     - text: Add rhum, lime, and pebble ice, then swizzle and top with more pebble
         ice
     - text: Add 2 dashes Peychaud's Bitters and 2 dashes Angostura Bitters
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

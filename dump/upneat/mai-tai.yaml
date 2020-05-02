@@ -1,6 +1,5 @@
 - slug: mai-tai
   display_name: Mai Tai
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
@@ -27,37 +26,25 @@
       display_name: Aged Rum
       quantity: 2
       unit: ounces
-      notes: []
     - slug: curacao
       display_name: Curacao
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: lime-juice
       display_name: Lime Juice
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: orgeat
       display_name: Orgeat
       quantity: 0.25
       unit: ounce
-      notes: []
     garnish:
     - slug: 2-sprigs-mint
       display_name: 2 Sprigs Mint
-      notes: []
     - slug: wedge-lime
       display_name: Wedge Lime
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Shake the ingredients well with ice and strain into an old- fashioned
         glass filled with ice
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

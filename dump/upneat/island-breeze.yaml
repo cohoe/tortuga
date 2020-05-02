@@ -1,10 +1,8 @@
 - slug: island-breeze
   display_name: Island Breeze
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
-    origin: {}
     glassware:
     - slug: highball
       display_name: Highball
@@ -16,33 +14,22 @@
       display_name: Light Rum
       quantity: 1.5
       unit: ounces
-      notes: []
     - slug: pineapple-juice
       display_name: Pineapple Juice
       quantity: 4
       unit: ounces
-      notes: []
     - slug: cranberry-juice
       display_name: Cranberry Juice
       quantity: 1
       unit: ounce
-      notes: []
     - slug: angostura-bitters
       display_name: Angostura Bitters
       quantity: 2
       unit: dashes
-      notes: []
     garnish:
     - slug: piece-lime
       display_name: Piece Lime
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Build over ice in a highball glass
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

@@ -1,6 +1,5 @@
 - slug: rainbow-sour
   display_name: Rainbow Sour
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
@@ -27,36 +26,24 @@
       display_name: Pineau Des Charentes
       quantity: 1
       unit: ounce
-      notes: []
     - slug: marie-brizard-apry
       display_name: Marie Brizard Apry
       quantity: 1
       unit: ounce
-      notes: []
     - slug: lemon-juice
       display_name: Lemon Juice
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: simple-syrup
       display_name: Simple Syrup
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: cherry
       display_name: Cherry
-      notes: []
     garnish:
     - slug: slice-of-orange
       display_name: Slice Of Orange
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Shake all the ingredients with ice and serve in a rocks glass
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

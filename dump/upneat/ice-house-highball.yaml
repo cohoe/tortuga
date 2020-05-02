@@ -1,6 +1,5 @@
 - slug: ice-house-highball
   display_name: Ice House Highball
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
@@ -21,27 +20,17 @@
       display_name: Absolut Citron Vodka
       quantity: 1.5
       unit: ounce
-      notes: []
     - slug: lemonade
       display_name: Lemonade
       quantity: 5
       unit: ounces
-      notes: []
     - slug: dash-marie-brizard-white-creme-de-menthe
       display_name: Dash Marie Brizard White Creme De Menthe
-      notes: []
     garnish:
     - slug: edible-flower
       display_name: Edible Flower
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Build the vodka and lemonade in a large pint glass filled with ice and
         top with a dash of crème de menthe
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

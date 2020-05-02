@@ -1,10 +1,8 @@
 - slug: mint-julep
   display_name: Mint Julep
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
-    origin: {}
     glassware:
     - slug: highball
       display_name: Highball
@@ -16,28 +14,18 @@
       display_name: Sprigs Of Mint
       quantity: 2
       unit: tender
-      notes: []
     - slug: simple-syrup
       display_name: Simple Syrup
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: bourbon-whiskey
       display_name: Bourbon Whiskey
       quantity: 2
       unit: ounces
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: In the bottom of a highball glass or a silver julep cup, muddle one sprig
         of mint with the sugar syrup
     - text: Fill with crushed ice and add the bourbon
     - text: Swirl with a bar spoon until the outside of the glass frosts
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

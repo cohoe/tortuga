@@ -1,6 +1,5 @@
 - slug: sea-breeze
   display_name: Sea Breeze
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
@@ -24,29 +23,19 @@
       display_name: Vodka
       quantity: 1.5
       unit: ounces
-      notes: []
     - slug: grapefruit-juice
       display_name: Grapefruit Juice
       quantity: 4
       unit: ounces
-      notes: []
     - slug: cranberry-juice
       display_name: Cranberry Juice
       quantity: 1.5
       unit: ounces
-      notes: []
     garnish:
     - slug: wedge-of-lime
       display_name: Wedge Of Lime
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Pour the vodka into an iced highball glass
     - text: Fill partially with the grapefruit juice and top with the cranberry juice
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

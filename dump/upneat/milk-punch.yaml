@@ -1,6 +1,5 @@
 - slug: milk-punch
   display_name: Milk Punch
-  origin: {}
   specs:
   - slug: pdt
     display_name: PDT
@@ -21,31 +20,20 @@
       display_name: Whole Milk
       quantity: 1.5
       unit: oz
-      notes: []
     - slug: pierre-ferrand-ambre-cognac
       display_name: Pierre Ferrand Ambre Cognac
       quantity: 1
       unit: oz
-      notes: []
     - slug: myerss-dark-rum
       display_name: Myerss Dark Rum
       quantity: 1
       unit: oz
-      notes: []
     - slug: simple-syrup
       display_name: Simple Syrup
       quantity: 0.75
       unit: oz
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Shake with ice and strain into a chilled rocks glass filled with one large
         cube
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

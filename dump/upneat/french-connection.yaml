@@ -1,12 +1,10 @@
 - slug: french-connection
   display_name: French Connection
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
     origin:
       story: Renee's nightcap or eye-opener, and sometimes both.
-    glassware: []
     construction:
       slug: unknown
       display_name: Unknown
@@ -15,20 +13,11 @@
       display_name: Courvoisier Cognac
       quantity: 1.5
       unit: ounces
-      notes: []
     - slug: grand-marnier
       display_name: Grand Marnier
       quantity: 1
       unit: ounce
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Serve in a warm brandy snifter
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

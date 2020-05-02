@@ -1,6 +1,5 @@
 - slug: julien-sorel
   display_name: Julien Sorel
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
@@ -8,7 +7,6 @@
       creator: Phil Ward
       location: Phil Ward
       year: 2008
-    glassware: []
     construction:
       slug: shake
       display_name: Shake
@@ -17,39 +15,26 @@
       display_name: Courvoisier Cognac
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: green-chartreuse
       display_name: Green Chartreuse
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: luxardo-maraschino-liqueur
       display_name: Luxardo Maraschino Liqueur
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: lemon-juice
       display_name: Lemon Juice
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: dry-champagne
       display_name: Dry Champagne
-      notes: []
     - slug: lemon-peel
       display_name: Lemon Peel
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Shake all the ingredients (except the champagne and lemon twist) with
         ice, then strain into a flute
     - text: Top with champagne
     - text: Squeeze the lemon twist over the drink and discard
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

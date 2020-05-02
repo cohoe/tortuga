@@ -1,6 +1,5 @@
 - slug: celine-fizz
   display_name: Celine Fizz
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
@@ -19,40 +18,27 @@
       display_name: Plymouth Gin
       quantity: 2
       unit: ounces
-      notes: []
     - slug: st-germain
       display_name: St Germain
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: lemon-juice
       display_name: Lemon Juice
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: simple-syrup
       display_name: Simple Syrup
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: white
       display_name: White
       quantity: 1
       unit: Egg
-      notes: []
     - slug: club-soda
       display_name: Club Soda
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Dry shake all the ingredients (except the club soda), then shake again
         with ice
     - text: Double strain into a fizz glass and top with club soda
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

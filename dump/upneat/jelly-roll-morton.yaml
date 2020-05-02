@@ -1,6 +1,5 @@
 - slug: jelly-roll-morton
   display_name: Jelly Roll Morton
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
@@ -8,7 +7,6 @@
       creator: Thomas Waugh
       location: Thomas Waugh
       year: 2009
-    glassware: []
     construction:
       slug: shake
       display_name: Shake
@@ -17,46 +15,32 @@
       display_name: Hine H Cognac
       quantity: 1.5
       unit: ounces
-      notes: []
     - slug: dried-currant-infused-wild-turkey-rye-whiskey
       display_name: Dried Currant Infused Wild Turkey Rye Whiskey
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: sandeman-ruby-port
       display_name: Sandeman Ruby Port
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: simple-syrup
       display_name: Simple Syrup
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: egg-yolk
       display_name: Yolk
       quantity: 1
       unit: Egg
-      notes: []
     - slug: heavy-cream
       display_name: Heavy Cream
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: angostura-bitters
       display_name: Angostura Bitters
       quantity: 1
       unit: dash
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Dry shake all the ingredients, then shake again with ice
     - text: Double strain into a coupe
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

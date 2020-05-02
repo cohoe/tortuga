@@ -1,6 +1,5 @@
 - slug: zombie
   display_name: Zombie
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
@@ -18,70 +17,51 @@
       display_name: Lime Juice
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: lemon-juice
       display_name: Lemon Juice
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: orange-juice
       display_name: Orange Juice
       quantity: 1.5
       unit: ounces
-      notes: []
     - slug: passion-fruit-puree
       display_name: Passion Fruit Puree
       quantity: 1.5
       unit: ounces
-      notes: []
     - slug: grenadine
       display_name: Grenadine
       quantity: 0.25
       unit: ounce
-      notes: []
     - slug: curacao
       display_name: Curacao
       quantity: 1
       unit: ounce
-      notes: []
     - slug: apricot-brandy-in-lieu-of-curacao-optional
       display_name: Apricot Brandy In Lieu Of Curacao Optional
       quantity: 1
       unit: ounce
-      notes: []
     - slug: dark-rum
       display_name: Dark Rum
       quantity: 1
       unit: ounce
-      notes: []
     - slug: light-rum
       display_name: Light Rum
       quantity: 1
       unit: ounce
-      notes: []
     - slug: angostura-bitters
       display_name: Angostura Bitters
       quantity: 2
       unit: dashes
-      notes: []
     - slug: float-of-overproof-rum-optional
       display_name: Float Of Overproof Rum Optional
-      notes: []
     garnish:
     - slug: sprig-of-mint
       display_name: Sprig Of Mint
-      notes: []
     - slug: fruit
       display_name: Fruit
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Add all the ingredients into a mixing glass and shake
     - text: Strain into a large glass and add the mint and seasonal fruit
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

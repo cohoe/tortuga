@@ -1,6 +1,5 @@
 - slug: over-and-out
   display_name: Over And Out
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
@@ -8,7 +7,6 @@
       creator: Eryn Reece
       location: Eryn Reece
       year: 2013
-    glassware: []
     construction:
       slug: shake
       display_name: Shake
@@ -17,45 +15,31 @@
       display_name: Krogstad Aquavit
       quantity: 1
       unit: ounce
-      notes: []
     - slug: ocho-2012-plata-tequila
       display_name: Ocho 2012 Plata Tequila
       quantity: 1
       unit: ounce
-      notes: []
     - slug: lime-juice
       display_name: Lime Juice
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: watermelon-juice
       display_name: Watermelon Juice
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: rich-cane-sugar-syrup
       display_name: Rich Cane Sugar Syrup
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: bitter-truth-celery-bitters
       display_name: Bitter Truth Celery Bitters
       quantity: 1
       unit: dash
-      notes: []
     - slug: house-orange-bitters
       display_name: House Orange Bitters
       quantity: 1
       unit: dash
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Shake all the ingredients with ice, then strain into a large coupe
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

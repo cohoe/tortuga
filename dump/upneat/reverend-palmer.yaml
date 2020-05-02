@@ -1,6 +1,5 @@
 - slug: reverend-palmer
   display_name: Reverend Palmer
-  origin: {}
   specs:
   - slug: pdt
     display_name: PDT
@@ -21,25 +20,15 @@
       display_name: Black Tea Infused Elijah Craig 12 Year Old Bourbon Whiskey
       quantity: 2
       unit: oz
-      notes: []
     - slug: lemon-cordial
       display_name: Lemon Cordial
       quantity: 0.5
       unit: oz
-      notes: []
     - slug: angostura-bitters
       display_name: Angostura Bitters
       quantity: 2
       unit: dashes
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Stir with ice and strain over one large cube into a chilled rocks glass
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

@@ -1,6 +1,5 @@
 - slug: hemingway-daiquiri-papa-doble
   display_name: Hemingway Daiquiri (Papa Doble)
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
@@ -26,35 +25,23 @@
       display_name: White Rum
       quantity: 1.5
       unit: ounces
-      notes: []
     - slug: maraschino-liqueur
       display_name: Maraschino Liqueur
       quantity: 0.25
       unit: ounce
-      notes: []
     - slug: grapefruit-juice
       display_name: Grapefruit Juice
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: simple-syrup-optional
       display_name: Simple Syrup Optional
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: lime-juice
       display_name: Lime Juice
       quantity: 0.75
       unit: ounce
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Shake the ingredients with ice and strain into a chilled cocktail glass
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

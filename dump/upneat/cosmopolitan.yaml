@@ -1,6 +1,5 @@
 - slug: cosmopolitan
   display_name: Cosmopolitan
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
@@ -37,34 +36,23 @@
       display_name: Citron Vodka
       quantity: 1.5
       unit: ounces
-      notes: []
     - slug: cointreau
       display_name: Cointreau
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: lime-juice
       display_name: Lime Juice
       quantity: 0.25
       unit: ounce
-      notes: []
     - slug: cranberry-juice
       display_name: Cranberry Juice
       quantity: 1
       unit: ounce
-      notes: []
     garnish:
     - slug: flamed-orange-peel
       display_name: Flamed Orange Peel
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Shake all the ingredients with ice
     - text: Strain into a chilled cocktail glass
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

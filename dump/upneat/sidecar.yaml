@@ -1,6 +1,5 @@
 - slug: sidecar
   display_name: Sidecar
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
@@ -21,31 +20,21 @@
       display_name: Brandy
       quantity: 1
       unit: ounce
-      notes: []
     - slug: cointreau
       display_name: Cointreau
       quantity: 1
       unit: ounce
-      notes: []
     - slug: lemon-juice
       display_name: Lemon Juice
       quantity: 0.75
       unit: ounce
-      notes: []
     garnish:
     - slug: flamed-orange-peel
       display_name: Flamed Orange Peel
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Shake all the ingredients with ice and strain into an iced old- fashioned
         glass
     - text: 'Note: If served "up," strain into a small cocktail glass with a sugared
         rim'
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

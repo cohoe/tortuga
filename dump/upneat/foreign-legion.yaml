@@ -1,6 +1,5 @@
 - slug: foreign-legion
   display_name: Foreign Legion
-  origin: {}
   specs:
   - slug: pdt
     display_name: PDT
@@ -21,40 +20,27 @@
       display_name: Mount Gay X O Rum
       quantity: 1.5
       unit: oz
-      notes: []
     - slug: aperol
       display_name: Aperol
       quantity: 0.5
       unit: oz
-      notes: []
     - slug: dubonnet-rouge
       display_name: Dubonnet Rouge
       quantity: 0.5
       unit: oz
-      notes: []
     - slug: lustau-manzanilla-sherry
       display_name: Lustau Manzanilla Sherry
       quantity: 0.5
       unit: oz
-      notes: []
     - slug: marie-brizard-dark-creme-de-cacao
       display_name: Marie Brizard Dark Creme De Cacao
       quantity: 1
       unit: barspoon
-      notes: []
     - slug: fee-brothers-rhubarb-bitters
       display_name: Fee Brothers Rhubarb Bitters
       quantity: 1
       unit: dash
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Stir with ice and strain over an ice sphere into a chilled rocks glass
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

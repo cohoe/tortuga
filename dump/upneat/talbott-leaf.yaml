@@ -1,6 +1,5 @@
 - slug: talbott-leaf
   display_name: Talbott Leaf
-  origin: {}
   specs:
   - slug: pdt
     display_name: PDT
@@ -11,7 +10,6 @@
       story: "Gerry Corcoran created this bourbon-based Champs Élysées\x96 Clover\
         \ Leaf mashup named after the Talbott Tavern, an 18thcentury public house\
         \ located in the center of Bardstown, Kentucky."
-    glassware: []
     construction:
       slug: unknown
       display_name: Unknown
@@ -20,45 +18,32 @@
       display_name: Old Grand Dad Bonded Bourbon Whiskey
       quantity: 2
       unit: oz
-      notes: []
     - slug: lemon-juice
       display_name: Lemon Juice
       quantity: 0.75
       unit: oz
-      notes: []
     - slug: green-chartreuse
       display_name: Green Chartreuse
       quantity: 0.5
       unit: oz
-      notes: []
     - slug: cynar
       display_name: Cynar
       quantity: 0.25
       unit: oz
-      notes: []
     - slug: bonne-maman-strawberry-preserves
       display_name: Bonne Maman Strawberry Preserves
       quantity: 1
       unit: barspoon
-      notes: []
     - slug: of-mint
       display_name: Of Mint
       quantity: 6
       unit: Leaves
-      notes: []
     garnish:
     - slug: 1-leaf-of-mint
       display_name: 1 Leaf Of Mint
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Muddle 6 mint leaves and the Cynar
     - text: Add everything else, then shake with ice and fine-strain into a chilled
         coupe
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

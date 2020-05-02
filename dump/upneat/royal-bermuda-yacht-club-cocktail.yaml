@@ -1,6 +1,5 @@
 - slug: royal-bermuda-yacht-club-cocktail
   display_name: Royal Bermuda Yacht Club Cocktail
-  origin: {}
   specs:
   - slug: pdt
     display_name: PDT
@@ -11,7 +10,6 @@
       story: After reading about this drink in Vintage Spirits and Forgotten Cocktails
         in 2004, I picked up a bottle of Velvet Falernum and have stocked it in all
         the bars I've run ever since.
-    glassware: []
     construction:
       slug: shake
       display_name: Shake
@@ -20,30 +18,19 @@
       display_name: Mount Gay Eclipse Amber Rum
       quantity: 2
       unit: oz
-      notes: []
     - slug: lime-juice
       display_name: Lime Juice
       quantity: 1
       unit: oz
-      notes: []
     - slug: cointreau
       display_name: Cointreau
       quantity: 0.5
       unit: oz
-      notes: []
     - slug: john-d-taylors-velvet-falernum
       display_name: John D Taylors Velvet Falernum
       quantity: 0.5
       unit: oz
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Shake with ice and strain into a chilled coupe
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

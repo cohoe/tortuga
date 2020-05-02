@@ -1,6 +1,5 @@
 - slug: harvey-wallbanger
   display_name: Harvey Wallbanger
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
@@ -21,24 +20,14 @@
       display_name: Vodka
       quantity: 1.5
       unit: ounces
-      notes: []
     - slug: orange-juice
       display_name: Orange Juice
       quantity: 4
       unit: ounces
-      notes: []
     - slug: galliano
       display_name: Galliano
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Pour the vodka and orange juice together in a highball glass and float
         a little Galliano on top
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

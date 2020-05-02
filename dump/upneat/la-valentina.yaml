@@ -1,6 +1,5 @@
 - slug: la-valentina
   display_name: La Valentina
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
@@ -9,55 +8,40 @@
         (except the beer) and short shake with 3 ice cubes. Double strain into a pilsner
         glass filled with crushed ice, then pour in the beer. Garnish with the raspberries
         and serve with a straw.
-    glassware: []
     construction:
       slug: unknown
       display_name: Unknown
     components:
     - slug: 3-raspberry
       display_name: 3 Raspberry
-      notes: []
     - slug: don-julio-blanco-tequila
       display_name: Don Julio Blanco Tequila
       quantity: 1.5
       unit: ounces
-      notes: []
     - slug: grapefruit-juice
       display_name: Grapefruit Juice
       quantity: 1
       unit: ounce
-      notes: []
     - slug: lime-juice
       display_name: Lime Juice
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: simple-syrup
       display_name: Simple Syrup
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: pinch-of-kosher-salt
       display_name: Pinch Of Kosher Salt
-      notes: []
     - slug: blanche-de-bruxelles-beer
       display_name: Blanche De Bruxelles Beer
       quantity: 1.5
       unit: ounces
-      notes: []
     garnish:
     - slug: 3-skewered-raspberry
       display_name: 3 Skewered Raspberry
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: THOMAS WAUGH, 2009 The 1930s-era Blinker cocktail turned me on to the
         combination of rye, grapefruit, and raspberries
     - text: I substituted tequila for the rye and lightened it up with wheat beer
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

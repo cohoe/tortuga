@@ -1,6 +1,5 @@
 - slug: the-dangerous-summer
   display_name: The Dangerous Summer
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
@@ -22,35 +21,23 @@
       display_name: Yamazaki 12 Year Japanese Whisky
       quantity: 1.5
       unit: ounces
-      notes: []
     - slug: dolin-rouge-vermouth
       display_name: Dolin Rouge Vermouth
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: solerno-blood-orange-liqueur
       display_name: Solerno Blood Orange Liqueur
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: massenez-kirsch-vieux-cherry-brandy
       display_name: Massenez Kirsch Vieux Cherry Brandy
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: orange-peel
       display_name: Orange Peel
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Stir all the ingredients (except the orange twist) over ice, then strain
         into a martini glass
     - text: Flame the orange twist over the drink and discard
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

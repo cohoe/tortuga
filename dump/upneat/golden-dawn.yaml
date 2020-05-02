@@ -1,6 +1,5 @@
 - slug: golden-dawn
   display_name: Golden Dawn
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
@@ -19,40 +18,27 @@
       display_name: Gin
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: orange-juice
       display_name: Orange Juice
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: marie-brizard-apry
       display_name: Marie Brizard Apry
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: dash-grenadine
       display_name: Dash Grenadine
-      notes: []
     - slug: bitters
       display_name: Bitters
       quantity: 2
       unit: dashes
-      notes: []
     garnish:
     - slug: slice-orange
       display_name: Slice Orange
-      notes: []
     - slug: cherry
       display_name: Cherry
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Shake all the ingredients well with ice and strain into a chilled martini
         glass
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

@@ -1,32 +1,20 @@
 - slug: white-wine-spritzer
   display_name: White Wine Spritzer
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
-    origin: {}
-    glassware: []
     construction:
       slug: unknown
       display_name: Unknown
     components:
     - slug: white-wine
       display_name: White Wine
-      notes: []
     - slug: soda-water
       display_name: Soda Water
-      notes: []
     garnish:
     - slug: lemon-peel
       display_name: Lemon Peel
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: White wine with ice and club soda
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

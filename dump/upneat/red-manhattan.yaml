@@ -1,6 +1,5 @@
 - slug: red-manhattan
   display_name: Red Manhattan
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
@@ -18,28 +17,18 @@
       display_name: Absolut Kurant Vodka
       quantity: 2.5
       unit: ounces
-      notes: []
     - slug: saint-raphael-apertif-de-france
       display_name: Saint Raphael Apertif De France
       quantity: 0.75
       unit: ounce
-      notes: []
     - slug: angostura-bitters
       display_name: Angostura Bitters
       quantity: 2
       unit: dashes
-      notes: []
     garnish:
     - slug: cherry
       display_name: Cherry
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Stir with ice to chill and strain into a chilled martini glass
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

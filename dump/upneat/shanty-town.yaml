@@ -1,6 +1,5 @@
 - slug: shanty-town
   display_name: Shanty Town
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
@@ -19,19 +18,10 @@
       display_name: Perrys Tot Navy Strength Gin
       quantity: 1
       unit: ounce
-      notes: []
     - slug: docs-hard-apple-cider
       display_name: Docs Hard Apple Cider
-      notes: []
-    garnish: []
     straw: true
-    citations: []
-    notes: []
     instructions:
     - text: Fill a pilsner glass with ice cubes and add the gin
     - text: Top with cider and serve with a straw
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

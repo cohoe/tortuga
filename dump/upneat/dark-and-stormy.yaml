@@ -1,11 +1,8 @@
 - slug: dark-and-stormy
   display_name: Dark And Stormy
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
-    origin: {}
-    glassware: []
     construction:
       slug: unknown
       display_name: Unknown
@@ -14,24 +11,14 @@
       display_name: Goslings Or Myerss Dark Rum
       quantity: 2
       unit: ounces
-      notes: []
     - slug: ginger-beer
       display_name: Ginger Beer
       quantity: 5
       unit: ounces
-      notes: []
     - slug: wedge-lime
       display_name: Wedge Lime
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Pour the rum over ice in highball and fill with ginger beer
     - text: Squeeze in the lime wedge
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

@@ -1,6 +1,5 @@
 - slug: colony-room-cocktail
   display_name: Colony Room Cocktail
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
@@ -28,33 +27,22 @@
       display_name: Ricard
       quantity: 1
       unit: dash
-      notes: []
     - slug: gin
       display_name: Gin
       quantity: 2
       unit: ounces
-      notes: []
     - slug: noilly-prat-dry-vermouth
       display_name: Noilly Prat Dry Vermouth
       quantity: 2
       unit: dashes
-      notes: []
     - slug: angostura-bitters
       display_name: Angostura Bitters
       quantity: 1
       unit: dash
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Season a chilled martini glass by dashing it with Ricard and coating the
         inside, then pour out the excess
     - text: Chill the gin, vermouth, and bitters by stirring with ice
     - text: Strain into the prepared martini glass
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

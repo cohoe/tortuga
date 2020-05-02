@@ -1,6 +1,5 @@
 - slug: martini-cocktail
   display_name: Martini Cocktail
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
@@ -26,49 +25,34 @@
       display_name: Dashes
       quantity: 2-
       unit: '3'
-      notes: []
     - slug: dashes
       display_name: Dashes
       quantity: 2-
       unit: '3'
-      notes: []
     - slug: curacao-optional
       display_name: Curacao Optional
       quantity: 1
       unit: dash
-      notes: []
     - slug: absinthe-optional
       display_name: Absinthe Optional
       quantity: 1
       unit: dash
-      notes: []
     - slug: half-a-wineglass-old-tom-gin
       display_name: Half A Wineglass Old Tom Gin
-      notes: []
     - slug: half-a-wineglass-sweet-italian-vermouth
       display_name: Half A Wineglass Sweet Italian Vermouth
-      notes: []
     garnish:
     - slug: cherry-garnish-optional
       display_name: Cherry Garnish Optional
-      notes: []
     - slug: medium-size-olive-garnish-optional
       display_name: Medium Size Olive Garnish Optional
-      notes: []
     - slug: lemon-peel
       display_name: Lemon Peel
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Fill a large bar glass with ice
     - text: Add ingredients
     - text: Stir well with a spoon
     - text: Strain into a fancy cocktail glass; put in a cherry or medium-size olive
         (if required) and squeeze a lemon peel on top
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

@@ -1,6 +1,5 @@
 - slug: wrong-aisle
   display_name: Wrong Aisle
-  origin: {}
   specs:
   - slug: pdt
     display_name: PDT
@@ -10,43 +9,30 @@
       year: 2010
       story: Fruit vinegars or shrubbs, as they were called a century ago, work just
         as well in cocktails as they do in food preparation.
-    glassware: []
     construction:
       slug: stir
       display_name: Stir
     components:
     - slug: st-germain-elderflower-liqueur
       display_name: St Germain Elderflower Liqueur
-      notes: []
     - slug: lairds-bonded-apple-brandy
       display_name: Lairds Bonded Apple Brandy
       quantity: 2
       unit: oz
-      notes: []
     - slug: lillet-rouge
       display_name: Lillet Rouge
       quantity: 1
       unit: oz
-      notes: []
     - slug: quince-shrub-huilerie-beaujolaise-vinaigre-de-coing
       display_name: Quince Shrub Huilerie Beaujolaise Vinaigre De Coing
       quantity: 0.25
       unit: oz
-      notes: []
     - slug: fee-brothers-whiskey-barrel-aged-bitters
       display_name: Fee Brothers Whiskey Barrel Aged Bitters
       quantity: 1
       unit: dash
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Stir with ice and strain into a chilled, St
     - text: Germain-Elderflower Liqueur rinsed coupe
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

@@ -1,6 +1,5 @@
 - slug: cameron-s-kick
   display_name: Cameron'S Kick
-  origin: {}
   specs:
   - slug: pdt
     display_name: PDT
@@ -10,7 +9,6 @@
       year: 1922
       story: There should be a law against creating great drinks with provocative
         titles and not including a story. This one is still shrouded in mystery.
-    glassware: []
     construction:
       slug: shake
       display_name: Shake
@@ -19,30 +17,19 @@
       display_name: Famous Grouse Blended Scotch Whisky
       quantity: 1
       unit: oz
-      notes: []
     - slug: jameson-irish-whiskey
       display_name: Jameson Irish Whiskey
       quantity: 1
       unit: oz
-      notes: []
     - slug: lemon-juice
       display_name: Lemon Juice
       quantity: 0.75
       unit: oz
-      notes: []
     - slug: kassatly-chtaura-orgeat
       display_name: Kassatly Chtaura Orgeat
       quantity: 0.5
       unit: oz
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Shake with ice and strain into a chilled coupe
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

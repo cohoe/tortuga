@@ -1,6 +1,5 @@
 - slug: chocolate-punch
   display_name: Chocolate Punch
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
@@ -19,40 +18,28 @@
       display_name: Cognac
       quantity: 1
       unit: ounce
-      notes: []
     - slug: ruby-port
       display_name: Ruby Port
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: dark-cra-me-de-cacao
       display_name: Dark Cra Me De Cacao
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: simple-syrup
       display_name: Simple Syrup
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: heavy-cream
       display_name: Heavy Cream
       quantity: 1
       unit: ounce
-      notes: []
     garnish:
     - slug: nutmeg
       display_name: Nutmeg
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Shake all the ingredients very well with ice and strain into a chilled
         cocktail glass
     - text: Grate a little nutmeg on top
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

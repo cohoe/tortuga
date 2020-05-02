@@ -1,10 +1,8 @@
 - slug: strawberry-cosmopolitan
   display_name: Strawberry Cosmopolitan
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
-    origin: {}
     glassware:
     - slug: mixing
       display_name: Mixing
@@ -16,33 +14,22 @@
       display_name: 4 Depending On Size Strawberry
       quantity: 2
       unit: to
-      notes: []
     - slug: cointreau
       display_name: Cointreau
       quantity: 1
       unit: ounce
-      notes: []
     - slug: lime-juice
       display_name: Lime Juice
       quantity: 0.25
       unit: ounce
-      notes: []
     - slug: citrus-vodka
       display_name: Citrus Vodka
       quantity: 1.5
       unit: ounces
-      notes: []
-    garnish: []
     straw: true
-    citations: []
-    notes: []
     instructions:
     - text: Use sweet strawberries
     - text: In the bottom of a mixing glass, muddle the remaining strawberries with
         the Cointreau and lime juice
     - text: Add the vodka and ice and shake well to a ten count
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

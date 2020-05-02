@@ -1,6 +1,5 @@
 - slug: screwdriver
   display_name: Screwdriver
-  origin: {}
   specs:
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
@@ -19,23 +18,14 @@
       display_name: Vodka
       quantity: 1.5
       unit: ounces
-      notes: []
     - slug: orange-juice
       display_name: Orange Juice
       quantity: 5
       unit: ounces
-      notes: []
     garnish:
     - slug: slice-of-orange
       display_name: Slice Of Orange
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Build over ice in a highball glass
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

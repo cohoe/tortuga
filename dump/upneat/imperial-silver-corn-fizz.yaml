@@ -1,6 +1,5 @@
 - slug: imperial-silver-corn-fizz
   display_name: Imperial Silver Corn Fizz
-  origin: {}
   specs:
   - slug: pdt
     display_name: PDT
@@ -10,7 +9,6 @@
       year: 2009
       story: Our beloved regular Wylie Dufresne, the chef and owner of WD 50, created
         the corn water, meant to complement the corn-based Tennessee Whisky.
-    glassware: []
     construction:
       slug: shake
       display_name: Shake
@@ -19,36 +17,24 @@
       display_name: George Dickel No 12 Tennessee Whiskey
       quantity: 1.5
       unit: oz
-      notes: []
     - slug: corn-water
       display_name: Corn Water
       quantity: 1
       unit: oz
-      notes: []
     - slug: honey-syrup
       display_name: Honey Syrup
       quantity: 0.5
       unit: oz
-      notes: []
     - slug: white
       display_name: White
       quantity: 1
       unit: Egg
-      notes: []
     - slug: moet-imperial-champagne
       display_name: Moet Imperial Champagne
       quantity: 1
       unit: oz
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Dry-shake, then shake with ice and strain into a chilled egg coupe
     - text: Top with 1 oz Moët Imperial Champagne
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

@@ -1,6 +1,5 @@
 - slug: frisco
   display_name: Frisco
-  origin: {}
   specs:
   - slug: pdt
     display_name: PDT
@@ -10,7 +9,6 @@
       year: 1930
       story: A Derby cocktail without the bitters, this stiff, elegant drink is named
         after one of the most established cocktail communities in the world.
-    glassware: []
     construction:
       slug: stir
       display_name: Stir
@@ -19,20 +17,11 @@
       display_name: Old Potrero Hotalings Rye Whiskey
       quantity: 2
       unit: oz
-      notes: []
     - slug: benedictine
       display_name: Benedictine
       quantity: 0.5
       unit: oz
-      notes: []
-    garnish: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: Stir with ice and strain into a chilled coupe
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

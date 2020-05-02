@@ -1,6 +1,5 @@
 - slug: crane-kick
   display_name: Crane Kick
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
@@ -19,47 +18,33 @@
       display_name: Yamazaki 12 Year Japanese Whisky
       quantity: 2
       unit: ounces
-      notes: []
     - slug: laphroaig-10-year-scotch-whisky
       display_name: Laphroaig 10 Year Scotch Whisky
       quantity: 1
       unit: teaspoon
-      notes: []
     - slug: kalani-ron-de-coco-coconut-liqueur
       display_name: Kalani Ron De Coco Coconut Liqueur
       quantity: 2
       unit: teaspoons
-      notes: []
     - slug: orange-juice
       display_name: Orange Juice
       quantity: 1
       unit: ounce
-      notes: []
     - slug: lemon-juice
       display_name: Lemon Juice
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: orgeat
       display_name: Orgeat
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: angostura-bitters
       display_name: Angostura Bitters
       quantity: 1
       unit: dash
-      notes: []
-    garnish: []
     straw: true
-    citations: []
-    notes: []
     instructions:
     - text: Short shake all the ingredients with 3 cubes of ice, then strain into
         a pilsner glass filled with crushed ice
     - text: Serve with a straw
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []

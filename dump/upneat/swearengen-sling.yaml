@@ -1,6 +1,5 @@
 - slug: swearengen-sling
   display_name: Swearengen Sling
-  origin: {}
   specs:
   - slug: death-co
     display_name: Death & Co
@@ -19,45 +18,32 @@
       display_name: Cherry
       quantity: 2
       unit: Brandied
-      notes: []
     - slug: bulleit-bourbon
       display_name: Bulleit Bourbon
       quantity: 2
       unit: ounces
-      notes: []
     - slug: amaro-nonino
       display_name: Amaro Nonino
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: cherry-heering
       display_name: Cherry Heering
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: lemon-juice
       display_name: Lemon Juice
       quantity: 0.5
       unit: ounce
-      notes: []
     - slug: simple-syrup
       display_name: Simple Syrup
       quantity: 0.5
       unit: ounce
-      notes: []
     garnish:
     - slug: brandied-cherry
       display_name: Brandied Cherry
-      notes: []
     straw: false
-    citations: []
-    notes: []
     instructions:
     - text: In a shaker, muddle the cherries
     - text: Add the remaining ingredients and shake with ice
     - text: Strain into a highball glass filled with ice cubes
-    images: []
   spec_count: 1
-  citations: []
-  notes: []
-  images: []
