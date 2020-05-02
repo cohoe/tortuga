@@ -4,8 +4,7 @@
   - slug: the-craft-of-the-cocktail
     display_name: The Craft of the Cocktail
     origin:
-      creator: a kind of Mint Julep for the New England crowd.
-      location: a kind of Mint Julep for the New England crowd.
+      creator: a kind of Mint Julep for the New England crowd..
       story: "This was the house drink of the Famous \x9121' Club for years"
     glassware:
     - slug: bar
