@@ -17,12 +17,12 @@
       quantity: 2
       unit: ounces
       notes: []
-    - slug: white-cra-me-de-cacao
+    - slug: white-creme-de-cacao
       display_name: White Cra Me De Cacao
       quantity: 0.25
       unit: ounce
       notes: []
-    - slug: lille-blanc
+    - slug: lillet-blanc
       display_name: Lille Blanc
       quantity: 0.5
       unit: ounce

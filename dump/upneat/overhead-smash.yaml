@@ -18,10 +18,11 @@
       slug: shake
       display_name: Shake
     components:
-    - slug: 0-5-strawberry
-      display_name: 0 5 Strawberry
+    - slug: strawberry
+      display_name: Strawberry
+      quantity: .5
       notes: []
-    - slug: of-cucumber
+    - slug: cucumber-wheels
       display_name: Of Cucumber
       quantity: 2
       unit: wheels

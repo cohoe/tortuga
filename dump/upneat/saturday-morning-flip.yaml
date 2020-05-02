@@ -32,7 +32,7 @@
       quantity: 1
       unit: teaspoon
       notes: []
-    - slug: yolk
+    - slug: egg-yolk
       display_name: Yolk
       quantity: 1
       unit: Egg

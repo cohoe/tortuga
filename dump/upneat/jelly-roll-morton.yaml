@@ -33,7 +33,7 @@
       quantity: 0.5
       unit: ounce
       notes: []
-    - slug: yolk
+    - slug: egg-yolk
       display_name: Yolk
       quantity: 1
       unit: Egg
