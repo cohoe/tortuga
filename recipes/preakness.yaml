@@ -2,20 +2,20 @@
 - slug: preakness
   display_name: Preakness
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: coupe
       components:
-        - name: old grand-dad 114 bourbon
+        - slug: old grand-dad 114 bourbon
           quantity: 1.5
           unit: oz
-        - name: carpano antica formula vermouth
+        - slug: carpano antica formula vermouth
           quantity: .75
           unit: oz
-        - name: bénédictine
+        - slug: bénédictine
           quantity: .25
           unit: oz
-        - name: bitter truth aromatic bitters
+        - slug: bitter truth aromatic bitters
           quantity: 1
           unit: dash
       construction:

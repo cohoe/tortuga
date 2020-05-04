@@ -7,20 +7,20 @@
     location: New York NY
     year: 2007
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: coupe
       components:
-        - name: el tesoro reposado tequila
+        - slug: el tesoro reposado tequila
           quantity: 1.5
           unit: oz
-        - name: del maguey san luis del rio mezcal
+        - slug: del maguey san luis del rio mezcal
           quantity: .5
           unit: oz
-        - name: agave nectar
+        - slug: agave nectar
           quantity: 1
           unit: tsp
-        - name: angostura bitters
+        - slug: angostura bitters
           quantity: 2
           unit: dash
       construction:

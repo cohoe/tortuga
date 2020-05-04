@@ -5,23 +5,23 @@
     creator: Hugo Ensslin
     year: 1916
   specs:
-    - name: Bergeron Bartenders Guide
+    - slug: Bergeron Bartenders Guide
       origin:
         creator: Trader Vic
         year: 1947
       glassware:
         - slug: coupe
       components:
-        - name: swedish punsch
+        - slug: swedish punsch
           quantity: 1.5
           unit: oz
-        - name: jamaican rum
+        - slug: jamaican rum
           quantity: .75
           unit: oz
-        - name: lemon juice
+        - slug: lemon juice
           quantity: 1
           unit: tsp
-        - name: orange juice
+        - slug: orange juice
           quantity: 1
           unit: tsp
       construction:

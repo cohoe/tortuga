@@ -7,26 +7,26 @@
     location: New York NY
     year: 2011
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: coupe
       components:
-        - name: rittenhouse 100 rye whiskey
+        - slug: rittenhouse 100 rye whiskey
           quantity: 1.5
           unit: oz
-        - name: campari
+        - slug: campari
           quantity: .25
           unit: oz
-        - name: grand marnier
+        - slug: grand marnier
           quantity: .25
           unit: oz
-        - name: grapefruit juice
+        - slug: grapefruit juice
           quantity: .75
           unit: oz
-        - name: lemon juice
+        - slug: lemon juice
           quantity: .5
           unit: oz
-        - name: ginger syrup
+        - slug: ginger syrup
           quantity: .25
           unit: oz
       construction:

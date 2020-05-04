@@ -6,20 +6,20 @@
     venue: Death & Co
     location: New York NY
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: coupe
       components:
-        - name: batavia arrack van oosten
+        - slug: batavia arrack van oosten
           quantity: 1.5
           unit: oz
-        - name: marie brizard white creme de cacao
+        - slug: marie brizard white creme de cacao
           quantity: .75
           unit: oz
-        - name: carpano antica formula vermouth
+        - slug: carpano antica formula vermouth
           quantity: .75
           unit: oz
-        - name: lime juice
+        - slug: lime juice
           quantity: .75
           unit: oz
       construction:

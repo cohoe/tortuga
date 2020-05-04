@@ -9,26 +9,26 @@
       French and American apple brandies form a rich foundation for this
       simple cocktail.
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: rocks
       components:
-        - name: domaine du manoir de montreuil reserve
+        - slug: domaine du manoir de montreuil reserve
           quantity: 1.5
           unit: oz
-        - name: lairds old apple brandy
+        - slug: lairds old apple brandy
           quantity: 1.5
           unit: oz
-        - name: rich simple syrup
+        - slug: rich simple syrup
           quantity: .25
           unit: oz
-        - name: angostura bitters
+        - slug: angostura bitters
           quantity: 2
           unit: dash
-        - name: orange bitters
+        - slug: orange bitters
           quantity: 1
           unit: dash
-        - name: pimento bitters
+        - slug: pimento bitters
           quantity: 1
           unit: dash
       construction:

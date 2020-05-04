@@ -6,23 +6,23 @@
     venue: Death & Co
     location: New York NY
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: coupe
       components:
-        - name: scarlet ibis rum
+        - slug: scarlet ibis rum
           quantity: 1.5
           unit: oz
-        - name: cruzan black strap rum
+        - slug: cruzan black strap rum
           quantity: .5
           unit: oz
-        - name: dolin rouge vermouth
+        - slug: dolin rouge vermouth
           quantity: 1
           unit: oz
-        - name: lazzaroni amaretto
+        - slug: lazzaroni amaretto
           quantity: 1
           unit: tsp
-        - name: fee brothers whiskey barrel-aged bitters
+        - slug: fee brothers whiskey barrel-aged bitters
           quantity: 1
           unit: dash
       construction:

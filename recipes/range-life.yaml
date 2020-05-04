@@ -7,20 +7,20 @@
     location: New York NY
     year: 2008
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: coupe
       components:
-        - name: el tesoro reposado tequila
+        - slug: el tesoro reposado tequila
           quantity: 2
           unit: oz
-        - name: campari
+        - slug: campari
           quantity: .5
           unit: oz
-        - name: grand marnier
+        - slug: grand marnier
           quantity: .5
           unit: oz
-        - name: punt e mes
+        - slug: punt e mes
           quantity: .5
           unit: oz
       construction:

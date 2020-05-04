@@ -2,20 +2,20 @@
 - slug: shipwrecked
   display_name: Shipwrecked
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: coupe
       components:
-        - name: el dorado 8-year rum
+        - slug: el dorado 8-year rum
           quantity: 1.5
           unit: oz
-        - name: del maguey vida mezcal
+        - slug: del maguey vida mezcal
           quantity: .5
           unit: oz
-        - name: lime juice
+        - slug: lime juice
           quantity: .75
           unit: oz
-        - name: agave nectar
+        - slug: agave nectar
           quantity: .5
           unit: oz
       construction:

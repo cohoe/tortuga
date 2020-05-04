@@ -7,17 +7,17 @@
     location: New York NY
     year: 2007
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: rocks
       components:
-        - name: plymouth gin
+        - slug: plymouth gin
           quantity: 2
           unit: oz
-        - name: st-germain
+        - slug: st-germain
           quantity: .5
           unit: oz
-        - name: house orange bitters
+        - slug: house orange bitters
           quantity: 2
           unit: dash
       construction:

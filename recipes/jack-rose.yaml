@@ -4,17 +4,17 @@
   origin:
     year: 1910
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: coupe
       components:
-        - name: laird's bonded apple brandy
+        - slug: laird's bonded apple brandy
           quantity: 2
           unit: oz
-        - name: lemon juice
+        - slug: lemon juice
           quantity: .75
           unit: oz
-        - name: jack rudy grenadine
+        - slug: jack rudy grenadine
           quantity: .75
           unit: oz
       construction:

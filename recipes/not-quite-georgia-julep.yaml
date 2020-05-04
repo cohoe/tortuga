@@ -7,20 +7,20 @@
     location: New York NY
     year: 2008
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: julep
       components:
-        - name: cognac
+        - slug: cognac
           quantity: 1
           unit: oz
-        - name: lairds bonded apple brandy
+        - slug: lairds bonded apple brandy
           quantity: 1
           unit: oz
-        - name: massenez crème de pêche peach liqueur
+        - slug: massenez crème de pêche peach liqueur
           quantity: 1
           unit: tsp
-        - name: simple syrup
+        - slug: simple syrup
           quantity: 1
           unit: tsp
       construction:

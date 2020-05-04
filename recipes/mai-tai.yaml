@@ -5,23 +5,23 @@
     creator: Victor Bergeron
     year: 1944
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: UNKNOWN
       components:
-        - name: clement premiere canne
+        - slug: clement premiere canne
           quantity: 1
           unit: oz
-        - name: appleton estate reserve rum
+        - slug: appleton estate reserve rum
           quantity: 1
           unit: oz
-        - name: lime juice
+        - slug: lime juice
           quantity: .75
           unit: oz
-        - name: small hand foods orgeat
+        - slug: small hand foods orgeat
           quantity: .75
           unit: oz
-        - name: pierre ferrand dry curacao
+        - slug: pierre ferrand dry curacao
           quantity: .5
           unit: oz
       construction:
@@ -33,26 +33,26 @@
       straw: false
       citations:
         - title: Meehan's Bartender Manual
-    - name: State Park
+    - slug: State Park
       glassware:
         - slug: tiki
       components:
-        - name: old monk 7-year rum
+        - slug: old monk 7-year rum
           quantity: .75
           unit: oz
-        - name: privateer ambre rum
+        - slug: privateer ambre rum
           quantity: .75
           unit: oz
-        - name: pierre ferrand dry curaçao
+        - slug: pierre ferrand dry curaçao
           quantity: .75
           unit: oz
-        - name: lime juice
+        - slug: lime juice
           quantity: .75
           unit: oz
-        - name: orgeat
+        - slug: orgeat
           quantity: .75
           unit: oz
-        - name: simple syrup
+        - slug: simple syrup
           quantity: .75
           unit: oz
       construction:

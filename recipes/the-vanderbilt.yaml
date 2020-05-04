@@ -7,17 +7,17 @@
     location: New York NY
     year: 2013
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: rocks
       components:
-        - name: laird's bonded apple brandy
+        - slug: laird's bonded apple brandy
           quantity: 1.5
           unit: oz
-        - name: gran classico bitter
+        - slug: gran classico bitter
           quantity: 1
           unit: oz
-        - name: mathilde poire pear liqueur
+        - slug: mathilde poire pear liqueur
           quantity: .75
           unit: oz
       construction:

@@ -2,7 +2,7 @@
 - slug: rum-old-fashioned
   display_name: Rum Old Fashioned
   specs:
-    - name: Two Rum
+    - slug: Two Rum
       origin:
         venue: Drink
         location: Boston MA
@@ -13,19 +13,19 @@
       glassware:
         - slug: rocks
       components:
-        - name: smith & cross jamaican rum
+        - slug: smith & cross jamaican rum
           quantity: .5
           unit: oz
-        - name: el dorado 12 year rum
+        - slug: el dorado 12 year rum
           quantity: 1.5
           unit: oz
-        - name: demerara syrup
+        - slug: demerara syrup
           quantity: .5
           unit: oz
-        - name: mole bitters
+        - slug: mole bitters
           quantity: 1
           unit: dash
-        - name: orange bitters
+        - slug: orange bitters
           quantity: 2
           unit: dash
       construction:
@@ -39,7 +39,7 @@
         - title: Self
       notes:
         - text: spec guestimated based on the Franklin Mortgage spec
-    - name: Three Rum
+    - slug: Three Rum
       origin:
         creator: Mike Treffehn
         venue: The Franklin Mortgage & Investment Co
@@ -47,22 +47,22 @@
       glassware:
         - slug: rocks
       components:
-        - name: appleton estate reserve rum
+        - slug: appleton estate reserve rum
           quantity: 1
           unit: oz
-        - name: ron-zacapa-centenario-23-rum
+        - slug: ron-zacapa-centenario-23-rum
           quantity: .5
           unit: oz
-        - name: smith & cross jamaican rum
+        - slug: smith & cross jamaican rum
           quantity: .5
           unit: oz
-        - name: demerara syrup
+        - slug: demerara syrup
           quantity: 1
           unit: tsp
-        - name: orange bitters
+        - slug: orange bitters
           quantity: 2
           unit: dash
-        - name: mole bitters
+        - slug: mole bitters
           quantity: 1
           unit: dash
       construction:

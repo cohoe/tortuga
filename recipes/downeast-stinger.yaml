@@ -5,20 +5,20 @@
     venue: Charlie's Kitchen
     location: Cambridge MA
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: pint
       components:
-        - name: amaretto
+        - slug: amaretto
           quantity: 1
           unit: oz
-        - name: goslings black seal rum
+        - slug: goslings black seal rum
           quantity: 1
           unit: oz
-        - name: pineapple juice
+        - slug: pineapple juice
           quantity: 1
           unit: oz
-        - name: downeast original hard cider
+        - slug: downeast original hard cider
           quantity: 4
           unit: oz
       construction:

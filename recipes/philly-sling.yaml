@@ -6,23 +6,23 @@
     venue: Columbia Room
     location: New York NY
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: coupe
       components:
-        - name: calvados
+        - slug: calvados
           quantity: 1.5
           unit: oz
-        - name: plymouth sloe gin
+        - slug: plymouth sloe gin
           quantity: 1
           unit: oz
-        - name: lemon juice
+        - slug: lemon juice
           quantity: .5
           unit: oz
-        - name: simple syrup
+        - slug: simple syrup
           quantity: .25
           unit: oz
-        - name: fee brothers whiskey barrel-aged bitters
+        - slug: fee brothers whiskey barrel-aged bitters
           quantity: 1
           unit: dash
       construction:

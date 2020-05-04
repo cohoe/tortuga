@@ -6,23 +6,23 @@
     venue: Drink
     location: Boston MA
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: coupe
       components:
-        - name: isaura ouro cachaça
+        - slug: isaura ouro cachaça
           quantity: 1.5
           unit: oz
-        - name: st-germain
+        - slug: st-germain
           quantity: .5
           unit: oz
-        - name: lime juice
+        - slug: lime juice
           quantity: .5
           unit: oz
-        - name: simple syrup
+        - slug: simple syrup
           quantity: .5
           unit: oz
-        - name: caol-ila-12-year-scotch-whisky
+        - slug: caol-ila-12-year-scotch-whisky
           unit: rinse
       construction:
         slug: shake

@@ -7,20 +7,20 @@
     location: New York NY
     year: 2011
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: coupe
       components:
-        - name: del maguey chichicapa mezcal
+        - slug: del maguey chichicapa mezcal
           quantity: .75
           unit: oz
-        - name: yellow chartreuse
+        - slug: yellow chartreuse
           quantity: .75
           unit: oz
-        - name: aperol
+        - slug: aperol
           quantity: .75
           unit: oz
-        - name: lime juice
+        - slug: lime juice
           quantity: .75
           unit: oz
       construction:

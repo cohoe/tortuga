@@ -6,20 +6,20 @@
     venue: Little Branch
     location: New York NY
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: coupe
       components:
-        - name: bourbon whiskey
+        - slug: bourbon whiskey
           quantity: .75
           unit: oz
-        - name: aperol
+        - slug: aperol
           quantity: .75
           unit: oz
-        - name: amaro nonino
+        - slug: amaro nonino
           quantity: .75
           unit: oz
-        - name: lemon juice
+        - slug: lemon juice
           quantity: .75
           unit: oz
       construction:

@@ -4,23 +4,23 @@
   origin:
     creator: Sother Teague
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: rocks
       components:
-        - name: amaro nonino
+        - slug: amaro nonino
           quantity: 1.5
           unit: oz
-        - name: cognac
+        - slug: cognac
           quantity: 1
           unit: oz
-        - name: cocchi americano
+        - slug: cocchi americano
           quantity: 1
           unit: oz
-        - name: water
+        - slug: water
           quantity: .5
           unit: oz
-        - name: orange bitters
+        - slug: orange bitters
           quantity: 2
           unit: dash
       construction:

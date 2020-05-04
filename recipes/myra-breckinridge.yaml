@@ -10,20 +10,20 @@
       Anthony Sarnicola, a regular at the bar, named this drink and described
       it as "a sex change for Laphroaig"
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: pilsner
       components:
-        - name: laphroaig 10 year old single malt scotch whisky
+        - slug: laphroaig 10 year old single malt scotch whisky
           quantity: 2
           unit: oz
-        - name: vieux pontarlier absinthe
+        - slug: vieux pontarlier absinthe
           quantity: 2
           unit: dash
-        - name: lime juice
+        - slug: lime juice
           quantity: .75
           unit: oz
-        - name: cane sugar syrup
+        - slug: cane sugar syrup
           quantity: .5
           unit: oz
       construction:

@@ -7,25 +7,25 @@
     location: New York NY
     year: 2008
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: coupe
       components:
-        - name: santa teresa 1796 rum
+        - slug: santa teresa 1796 rum
           quantity: 2
           unit: oz
-        - name: cherry heering
+        - slug: cherry heering
           quantity: .5
           unit: oz
-        - name: demerara syrup
+        - slug: demerara syrup
           quantity: .25
           unit: oz
-        - name: egg yolk
+        - slug: egg yolk
           quantity: 1
-        - name: heavy cream
+        - slug: heavy cream
           quantity: .5
           unit: oz
-        - name: bittermens xocolatl mole bitters
+        - slug: bittermens xocolatl mole bitters
           quantity: 2
           unit: oz
       construction:

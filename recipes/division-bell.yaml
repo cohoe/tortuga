@@ -6,20 +6,20 @@
     venue: Mayahuel
     location: New York NY
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: coupe
       components:
-        - name: del maguey vida mezcal
+        - slug: del maguey vida mezcal
           quantity: 1
           unit: oz
-        - name: aperol
+        - slug: aperol
           quantity: .75
           unit: oz
-        - name: luxardo maraschino liqueur
+        - slug: luxardo maraschino liqueur
           quantity: .5
           unit: oz
-        - name: lime juice
+        - slug: lime juice
           quantity: .75
           unit: oz
       construction:

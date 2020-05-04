@@ -6,23 +6,23 @@
     venue: Death & Co
     location: New York NY
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: coupe
       components:
-        - name: centinela reposado tequila
+        - slug: centinela reposado tequila
           quantity: 1.5
           unit: oz
-        - name: amaro nonino
+        - slug: amaro nonino
           quantity: .75
           unit: oz
-        - name: cardamaro
+        - slug: cardamaro
           quantity: .75
           unit: oz
-        - name: lemon juice
+        - slug: lemon juice
           quantity: .75
           unit: oz
-        - name: maraska maraschino liqueur
+        - slug: maraska maraschino liqueur
           quantity: 1
           unit: tsp
       construction:

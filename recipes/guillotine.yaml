@@ -6,20 +6,20 @@
     venue: Le Boudoir
     location: Brooklyn NY
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: snifter
       components:
-        - name: mezcal
+        - slug: mezcal
           quantity: 1
           unit: oz
-        - name: blended scotch whisky
+        - slug: blended scotch whisky
           quantity: .75
           unit: oz
-        - name: giffard banane du bresil
+        - slug: giffard banane du bresil
           quantity: .25
           unit: oz
-        - name: honey syrup
+        - slug: honey syrup
           quantity: .25
           unit: oz
       construction:

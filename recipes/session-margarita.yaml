@@ -2,26 +2,26 @@
 - slug: session-margarita
   display_name: Session Margarita
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: rocks
       components:
-        - name: manzanilla sherry
+        - slug: manzanilla sherry
           quantity: 1.5
           unit: oz
-        - name: tequila
+        - slug: tequila
           quantity: .75
           unit: oz
-        - name: original combier
+        - slug: original combier
           quantity: .75
           unit: oz
-        - name: lime juice
+        - slug: lime juice
           quantity: .75
           unit: oz
-        - name: agave syrup
+        - slug: agave syrup
           quantity: 1
           unit: barspoon
-        - name: salt
+        - slug: salt
           quantity: 1
           unit: pinch
       construction:

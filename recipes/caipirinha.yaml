@@ -4,16 +4,16 @@
   origin:
     location: Brazil
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: rocks
       components:
-        - name: cachaça
+        - slug: cachaça
           quantity: 2
           unit: oz
-        - name: lime
+        - slug: lime
           quantity: .5
-        - name: demerara sugar
+        - slug: demerara sugar
           quantity: 2
           unit: barspoon
       construction:

@@ -6,23 +6,23 @@
     venue: Backbar
     location: Somerville MA
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: wine
       components:
-        - name: fino sherry
+        - slug: fino sherry
           quantity: 1.5
           unit: oz
-        - name: carpano antica formula vermouth
+        - slug: carpano antica formula vermouth
           quantity: 1.5
           unit: oz
-        - name: orange bitters
+        - slug: orange bitters
           quantity: 1
           unit: dash
-        - name: angostura bitters
+        - slug: angostura bitters
           quantity: 1
           unit: dash
-        - name: sparkling wine
+        - slug: sparkling wine
           quantity: 3
           unit: oz
       construction:

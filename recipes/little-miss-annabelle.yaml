@@ -11,26 +11,26 @@
       who owns Pierre Ferrand. It has a rich mouthfeel for such a small amount of
       sweetener.
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: coupe
       components:
-        - name: pierre ferrand ambre cognac
+        - slug: pierre ferrand ambre cognac
           quantity: 2
           unit: oz
-        - name: mathilde poire pear liqueur
+        - slug: mathilde poire pear liqueur
           quantity: .25
           unit: oz
-        - name: bénédictine
+        - slug: bénédictine
           quantity: .25
           unit: oz
-        - name: lemon juice
+        - slug: lemon juice
           quantity: .75
           unit: oz
-        - name: cane sugar syrup
+        - slug: cane sugar syrup
           quantity: .25
           unit: oz
-        - name: house peychaud's bitters
+        - slug: house peychaud's bitters
           quantity: 1
           unit: dash
       construction:

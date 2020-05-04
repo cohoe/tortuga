@@ -7,23 +7,23 @@
     location: New Orleans LA
     year: 2019
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: collins
       components:
-        - name: sexton irish whiskey
+        - slug: sexton irish whiskey
           quantity: 1.5
           unit: oz
-        - name: amontillado sherry
+        - slug: amontillado sherry
           quantity: 1.5
           unit: oz
-        - name: pineapple juice
+        - slug: pineapple juice
           quantity: .5
           unit: oz
-        - name: cinnamon clove syrup
+        - slug: cinnamon clove syrup
           quantity: .75
           unit: oz
-        - name: peychauds bitters
+        - slug: peychauds bitters
           quantity: 2
           unit: dash
       construction:

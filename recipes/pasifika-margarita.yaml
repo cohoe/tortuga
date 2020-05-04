@@ -5,29 +5,29 @@
     creator: Samuel Jimenez
     location: Oakland CA
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: highball
       components:
-        - name: patrón silver
+        - slug: patrón silver
           quantity: 1.5
           unit: oz
-        - name: patrón citrónge
+        - slug: patrón citrónge
           quantity: .5
           unit: oz
-        - name: coconut water
+        - slug: coconut water
           quantity: 1
           unit: oz
-        - name: pineapple juice
+        - slug: pineapple juice
           quantity: .5
           unit: oz
-        - name: lime juice
+        - slug: lime juice
           quantity: .5
           unit: oz
-        - name: simple syrup
+        - slug: simple syrup
           quantity: 1
           unit: barspoon
-        - name: li hing mui syrup
+        - slug: li hing mui syrup
           quantity: 1
           unit: barspoon
       construction:

@@ -8,7 +8,7 @@
       With vague roots in 19th century New Orleans, the Blackthorn is one of
       the few classic cocktails to highlight Irish whiskey.
   specs:
-    - name: Lazy Bird
+    - slug: Lazy Bird
       origin:
         creator: Lee Zaremba
         venue: Lazy Bird
@@ -16,19 +16,19 @@
       glassware:
         - slug: rocks
       components:
-        - name: knappogue-castle-12-year-irish-whiskey
+        - slug: knappogue-castle-12-year-irish-whiskey
           quantity: 2
           unit: oz
-        - name: dry vermouth
+        - slug: dry vermouth
           quantity: .5
           unit: oz
-        - name: sweet vermouth
+        - slug: sweet vermouth
           quantity: .5
           unit: oz
-        - name: angostura bitters
+        - slug: angostura bitters
           quantity: 2
           unit: dash
-        - name: absinthe
+        - slug: absinthe
           quantity: 1
           unit: dash
       construction:

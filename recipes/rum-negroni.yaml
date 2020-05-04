@@ -6,20 +6,20 @@
     venue: Amor y Amargo
     location: New York NY
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: rocks
       components:
-        - name: aged rum
+        - slug: aged rum
           quantity: 2
           unit: oz
-        - name: sweet vermouth
+        - slug: sweet vermouth
           quantity: 1
           unit: oz
-        - name: amaro meletti
+        - slug: amaro meletti
           quantity: 1
           unit: oz
-        - name: angostura bitters
+        - slug: angostura bitters
           quantity: 1.5
           unit: dash
       construction:

@@ -5,20 +5,20 @@
     creator: Judge Jr
     year: 1927
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: coupe
       components:
-        - name: laird's bonded apple brandy
+        - slug: laird's bonded apple brandy
           quantity: 2
           unit: oz
-        - name: lemon juice
+        - slug: lemon juice
           quantity: .5
           unit: oz
-        - name: orange juice
+        - slug: orange juice
           quantity: .5
           unit: oz
-        - name: grade B maple syrup
+        - slug: grade B maple syrup
           quantity: .5
           unit: oz
       construction:

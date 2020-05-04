@@ -7,21 +7,21 @@
     location: New York NY
     year: 2008
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: wine
       components:
-        - name: beefeater london dry gin
+        - slug: beefeater london dry gin
           # or appleton estate v/x rum, siembra azul blanco tequila, compass box asyla scotch, calvados, or hine h cognac
           quantity: 1
           unit: oz
-        - name: dry champagne
+        - slug: dry champagne
           quantity: 1
           unit: oz
-        - name: st-germain
+        - slug: st-germain
           quantity: 1
           unit: oz
-        - name: club soda
+        - slug: club soda
           quantity: 1
           unit: oz
       construction:

@@ -2,20 +2,20 @@
 - slug: french-95
   display_name: French 95
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: fizz
       components:
-        - name: buffalo trace bourbon
+        - slug: buffalo trace bourbon
           quantity: 2
           unit: oz
-        - name: lemon juice
+        - slug: lemon juice
           quantity: .75
           unit: oz
-        - name: cane sugar syrup
+        - slug: cane sugar syrup
           quantity: .5
           unit: oz
-        - name: dry champagne
+        - slug: dry champagne
       construction:
         slug: shake
       instructions:

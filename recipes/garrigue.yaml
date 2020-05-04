@@ -6,23 +6,23 @@
     venue: SABA
     location: Dublin, Ireland
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: coupe
       components:
-        - name: bacardi superior rum
+        - slug: bacardi superior rum
           quantity: 1.66
           unit: oz
-        - name: lemon juice
+        - slug: lemon juice
           quantity: .66
           unit: oz
-        - name: yellow chartreuse
+        - slug: yellow chartreuse
           quantity: .5
           unit: oz
-        - name: orgeat
+        - slug: orgeat
           quantity: .5
           unit: oz
-        - name: sea salt
+        - slug: sea salt
           quantity: 1
           unit: pinch
       construction:

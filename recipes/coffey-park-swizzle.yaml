@@ -11,26 +11,26 @@
       tribute to the Queen's Park Swizzle, the most classic drink in
       the category.
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: pilsner
       components:
-        - name: barbancourt 3-star rum
+        - slug: barbancourt 3-star rum
           quantity: 1
           unit: oz
-        - name: lustau amontillado sherry
+        - slug: lustau amontillado sherry
           quantity: 1
           unit: oz
-        - name: john d taylors velvet falernum
+        - slug: john d taylors velvet falernum
           quantity: .25
           unit: oz
-        - name: lime juice
+        - slug: lime juice
           quantity: .75
           unit: oz
-        - name: ginger syrup
+        - slug: ginger syrup
           quantity: .75
           unit: oz
-        - name: angostura bitters
+        - slug: angostura bitters
           quantity: 3
           unit: dash
       construction:

@@ -14,26 +14,26 @@
       easy-drinking Daiquiri-inspired cocktail," says beverage director
       Tyson Buhler.
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: coupe
       components:
-        - name: j-m-rhum-blanc
+        - slug: j-m-rhum-blanc
           quantity: 1
           unit: oz
-        - name: bertoux brandy
+        - slug: bertoux brandy
           quantity: .75
           unit: oz
-        - name: lemon juice
+        - slug: lemon juice
           quantity: .75
           unit: oz
-        - name: suze
+        - slug: suze
           quantity: .5
           unit: oz
-        - name: super rich honey syrup
+        - slug: super rich honey syrup
           quantity: .5
           unit: oz
-        - name: simple syrup
+        - slug: simple syrup
           quantity: .25
           unit: oz
       construction:

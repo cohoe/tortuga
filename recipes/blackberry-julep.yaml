@@ -6,17 +6,17 @@
     venue: Blackbird Bar Restaurant
     location: New York NY
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: highball
       components:
-        - name: hendricks gin
+        - slug: hendricks gin
           quantity: 1.5
           unit: oz
-        - name: lemon juice
+        - slug: lemon juice
           quantity: 1
           unit: oz
-        - name: marie brizard blackberry liqueur
+        - slug: marie brizard blackberry liqueur
           quantity: 1
           unit: oz
       construction:

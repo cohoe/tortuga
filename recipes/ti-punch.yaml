@@ -5,16 +5,16 @@
     location: Martinique
     year: 1890
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: rocks
       components:
-        - name: la favorite rhum agricole blanc
+        - slug: la favorite rhum agricole blanc
           quantity: 2
           unit: oz
-        - name: lime
+        - slug: lime
           quantity: .5
-        - name: cane sugar syrup
+        - slug: cane sugar syrup
           quantity: 1
           unit: tsp
       construction:

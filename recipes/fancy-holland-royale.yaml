@@ -10,23 +10,23 @@
       This started as a genever-based martini, then Phil topped it with
       champagne.
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: flute
       components:
-        - name: bols genever
+        - slug: bols genever
           quantity: 1.5
           unit: oz
-        - name: grand marnier
+        - slug: grand marnier
           quantity: .75
           unit: oz
-        - name: cane sugar syrup
+        - slug: cane sugar syrup
           quantity: 1
           unit: tsp
-        - name: fee brothers whiskey barrel-aged bitters
+        - slug: fee brothers whiskey barrel-aged bitters
           quantity: 1
           unit: dash
-        - name: dry champagne
+        - slug: dry champagne
       construction:
         slug: stir
       instructions:

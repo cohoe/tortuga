@@ -4,26 +4,26 @@
   origin:
     creator: Sother Teague
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: swizzle
       components:
-        - name: avua prata cachaça
+        - slug: avua prata cachaça
           quantity: 1
           unit: oz
-        - name: jägermeister
+        - slug: jägermeister
           quantity: 1
           unit: oz
-        - name: lemon juice
+        - slug: lemon juice
           quantity: .75
           unit: oz
-        - name: orgeat
+        - slug: orgeat
           quantity: .75
           unit: oz
-        - name: ginger syrup
+        - slug: ginger syrup
           quantity: .75
           unit: oz
-        - name: peychauds bitters
+        - slug: peychauds bitters
       construction:
         slug: shake
       instructions:

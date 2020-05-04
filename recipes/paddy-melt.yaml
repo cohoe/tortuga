@@ -10,23 +10,23 @@
       Guests who swear up and down that they hate whiskey will gulp down
       four of these in an evening.
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: fizz
       components:
-        - name: knappogue castle 12-year irish whiskey
+        - slug: knappogue castle 12-year irish whiskey
           quantity: 1.5
           unit: oz
-        - name: chamomile-infused old overholt rye whiskey
+        - slug: chamomile-infused old overholt rye whiskey
           quantity: .5
           unit: oz
-        - name: amaro meletti
+        - slug: amaro meletti
           quantity: .5
           unit: oz
-        - name: lemon juice
+        - slug: lemon juice
           quantity: .75
           unit: oz
-        - name: cane sugar syrup
+        - slug: cane sugar syrup
           quantity: .5
           unit: oz
       construction:

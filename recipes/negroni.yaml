@@ -4,17 +4,17 @@
   origin:
     location: Italy
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: rocks
       components:
-        - name: london dry gin
+        - slug: london dry gin
           quantity: 1
           unit: oz
-        - name: campari
+        - slug: campari
           quantity: 1
           unit: oz
-        - name: sweet vermouth
+        - slug: sweet vermouth
           quantity: 1
           unit: oz
       construction:

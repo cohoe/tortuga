@@ -7,23 +7,23 @@
     location: New York NY
     year: 2007
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: coupe
       components:
-        - name: hine h vsop cognac
+        - slug: hine h vsop cognac
           quantity: 1
           unit: oz
-        - name: appleton signature rum
+        - slug: appleton signature rum
           quantity: 1
           unit: oz
-        - name: carpano antica formula vermouth
+        - slug: carpano antica formula vermouth
           quantity: .75
           unit: oz
-        - name: luxardo maraschino liqueur
+        - slug: luxardo maraschino liqueur
           quantity: .25
           unit: oz
-        - name: angostura bitters
+        - slug: angostura bitters
           quantity: 1
           unit: dash
       construction:

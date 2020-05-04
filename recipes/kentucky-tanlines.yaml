@@ -5,29 +5,29 @@
     venue: Blueprint
     location: Brooklyn NY
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: rocks
       components:
-        - name: bourbon whiskey
+        - slug: bourbon whiskey
           quantity: 1
           unit: oz
-        - name: yaguara ouro cachaca
+        - slug: yaguara ouro cachaca
           quantity: 1
           unit: oz
-        - name: amaro nardini
+        - slug: amaro nardini
           quantity: .25
           unit: oz
-        - name: pineapple juice
+        - slug: pineapple juice
           quantity: .75
           unit: oz
-        - name: lime juice
+        - slug: lime juice
           quantity: .5
           unit: oz
-        - name: vanilla syrup
+        - slug: vanilla syrup
           quantity: .5
           unit: oz
-        - name: angostura bitters
+        - slug: angostura bitters
           quantity: 1
           unit: dash
       construction:

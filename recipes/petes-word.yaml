@@ -6,20 +6,20 @@
     venue: Death & Co
     location: New York NY
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: coupe
       components:
-        - name: laphroaig-10-year-old-single-malt-scotch-whisky
+        - slug: laphroaig-10-year-old-single-malt-scotch-whisky
           quantity: .75
           unit: oz
-        - name: luxardo maraschino liqueur
+        - slug: luxardo maraschino liqueur
           quantity: .75
           unit: oz
-        - name: green chartreuse
+        - slug: green chartreuse
           quantity: .75
           unit: oz
-        - name: lime juice
+        - slug: lime juice
           quantity: .75
           unit: oz
       construction:

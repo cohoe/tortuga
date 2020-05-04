@@ -11,20 +11,20 @@
       of my pet ingredients: sherry and Amaro Nonino. It tastes similar
       to a Manhattan but much lighter.
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: coupe
       components:
-        - name: russell's reserve rye whiskey
+        - slug: russell's reserve rye whiskey
           quantity: 1
           unit: oz
-        - name: amaro nonino
+        - slug: amaro nonino
           quantity: 1
           unit: oz
-        - name: lustau east india sherry
+        - slug: lustau east india sherry
           quantity: 1
           unit: oz
-        - name: regans orange bitters
+        - slug: regans orange bitters
           quantity: 1
           unit: dash
       construction:

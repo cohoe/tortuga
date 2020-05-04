@@ -7,26 +7,26 @@
     location: New Orleans LA
     year: 2019
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: bowl
       components:
-        - name: sexton irish whiskey
+        - slug: sexton irish whiskey
           quantity: 1
           unit: oz
-        - name: orgeat
+        - slug: orgeat
           quantity: 1
           unit: oz
-        - name: genepi
+        - slug: genepi
           quantity: 1
           unit: oz
-        - name: lime juice
+        - slug: lime juice
           quantity: 1
           unit: oz
-        - name: green tea
+        - slug: green tea
           quantity: 1
           unit: oz
-        - name: absinthe
+        - slug: absinthe
           unit: dash
       construction:
         slug: punch

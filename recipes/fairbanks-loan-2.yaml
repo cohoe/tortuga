@@ -12,26 +12,26 @@
       apricot brandy and egg white, the drink is named after the influential
       silent film actor who became one of Hollywood’s earliest megastars.
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: coupe
       components:
-        - name: beefeater london dry gin
+        - slug: beefeater london dry gin
           quantity: .75
           unit: oz
-        - name: plantation pineapple rum
+        - slug: plantation pineapple rum
           quantity: .75
           unit: oz
-        - name: lilletperitif
+        - slug: lilletperitif
           quantity: .5
           unit: oz
-        - name: honey syrup
+        - slug: honey syrup
           quantity: .25
           unit: oz
-        - name: lemon juice
+        - slug: lemon juice
           quantity: .25
           unit: oz
-        - name: lime juice
+        - slug: lime juice
           quantity: .25
           unit: oz
       construction:

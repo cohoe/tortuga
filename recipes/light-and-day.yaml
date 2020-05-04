@@ -6,23 +6,23 @@
     venue: Death & Co
     location: New York NY
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: coupe
       components:
-        - name: plymouth gin
+        - slug: plymouth gin
           quantity: 2
           unit: oz
-        - name: yellow chartreuse
+        - slug: yellow chartreuse
           quantity: .5
           unit: oz
-        - name: maraska maraschino liqueur
+        - slug: maraska maraschino liqueur
           quantity: .25
           unit: oz
-        - name: orange juice
+        - slug: orange juice
           quantity: .25
           unit: oz
-        - name: house peychauds bitters
+        - slug: house peychauds bitters
           quantity: 4
           unit: dash
       construction:

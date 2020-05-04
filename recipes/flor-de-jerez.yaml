@@ -17,26 +17,26 @@
       rum to bring out the sherry's darker, raisiny flavors, and apricot
       liqueur to bring out its fruity notes.
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: coupe
       components:
-        - name: appleton estate reserve rum
+        - slug: appleton estate reserve rum
           quantity: .5
           unit: oz
-        - name: lustau amontillado sherry
+        - slug: lustau amontillado sherry
           quantity: 1.5
           unit: oz
-        - name: rothman & winter apricot liqueur
+        - slug: rothman & winter apricot liqueur
           quantity: .25
           unit: oz
-        - name: lemon juice
+        - slug: lemon juice
           quantity: .75
           unit: oz
-        - name: cane sugar syrup
+        - slug: cane sugar syrup
           quantity: .5
           unit: oz
-        - name: angostura bitters
+        - slug: angostura bitters
           quantity: 1
           unit: dash
       construction:

@@ -2,17 +2,17 @@
 - slug: diamondback
   display_name: Diamondback
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: nicknora
       components:
-        - name: rittenhouse 100 rye whiskey
+        - slug: rittenhouse 100 rye whiskey
           quantity: 2
           unit: oz
-        - name: laird's bonded apple brandy
+        - slug: laird's bonded apple brandy
           quantity: .5
           unit: oz
-        - name: yellow chartreuse
+        - slug: yellow chartreuse
           quantity: .5
           unit: oz
       construction:
@@ -34,17 +34,17 @@
         - text: from a night at Drink, try equal parts
         - text: equal parts does yield a less rye-forward drink, though had to do with calvados since im out of apple brandy
         - text: almost a bit too chart-y so maybe reduce that a bit? but its still good enough
-    - name: Drink
+    - slug: Drink
       glassware:
         - slug: coupe
       components:
-        - name: rittenhouse 100 rye whiskey
+        - slug: rittenhouse 100 rye whiskey
           quantity: 1
           unit: oz
-        - name: reposado tequila
+        - slug: reposado tequila
           quantity: 1
           unit: oz
-        - name: yellow chartreuse
+        - slug: yellow chartreuse
           quantity: 1
           unit: oz
       construction:

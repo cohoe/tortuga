@@ -2,17 +2,17 @@
 - slug: manhattan
   display_name: Manhattan
   specs:
-    - name: Death & Co
+    - slug: Death & Co
       glassware:
         - slug: coupe
       components:
-        - name: rittenhouse 100 rye whiskey
+        - slug: rittenhouse 100 rye whiskey
           quantity: 2.5
           unit: oz
-        - name: house sweet vermouth
+        - slug: house sweet vermouth
           quantity: .75
           unit: oz
-        - name: angostura bitters
+        - slug: angostura bitters
           quantity: 2
           unit: dash
       construction:
@@ -33,17 +33,17 @@
           publisher: Ten Speed Press
       notes:
         - text: house sweet vermouth is equal parts dolin rouge and punt e mes
-    - name: original
+    - slug: original
       glassware:
         - slug: rocks
       components:
-        - name: rye whiskey
+        - slug: rye whiskey
           quantity: 2
           unit: oz
-        - name: sweet vermouth
+        - slug: sweet vermouth
           quantity: .5
           unit: oz
-        - name: angostura bitters
+        - slug: angostura bitters
           quantity: 1
           unit: dash
       construction:

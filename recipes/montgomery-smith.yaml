@@ -6,17 +6,17 @@
     venue: PDT
     location: New York NY
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: coupe
       components:
-        - name: cognac
+        - slug: cognac
           quantity: 2
           unit: oz
-        - name: bénédictine
+        - slug: bénédictine
           quantity: .5
           unit: oz
-        - name: Fernet-Branca
+        - slug: Fernet-Branca
           quantity: .25
           unit: oz
       construction:

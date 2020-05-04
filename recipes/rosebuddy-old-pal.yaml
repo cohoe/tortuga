@@ -5,20 +5,20 @@
     venue: Rosebud
     location: Somerville MA
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: rocks
       components:
-        - name: old overholt rye whiskey
+        - slug: old overholt rye whiskey
           quantity: 2
           unit: oz
-        - name: "combier liqueur d'abricot"
+        - slug: "combier liqueur d'abricot"
           quantity: .5
           unit: oz
-        - name: campari
+        - slug: campari
           quantity: .75
           unit: oz
-        - name: cinzano extra dry vermouth
+        - slug: cinzano extra dry vermouth
           quantity: .75
           unit: oz
       construction:

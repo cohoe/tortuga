@@ -7,20 +7,20 @@
     location: New York NY
     year: 2008
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: coupe
       components:
-        - name: laird's bonded apple brandy
+        - slug: laird's bonded apple brandy
           quantity: 2
           unit: oz
-        - name: carpano antica formula vermouth
+        - slug: carpano antica formula vermouth
           quantity: .75
           unit: oz
-        - name: cointreau
+        - slug: cointreau
           quantity: .5
           unit: oz
-        - name: bittermens xocolatl mole bitters
+        - slug: bittermens xocolatl mole bitters
           quantity: 1
           unit: dash
       construction:

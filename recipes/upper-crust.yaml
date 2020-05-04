@@ -2,23 +2,23 @@
 - slug: upper-crust
   display_name: Upper Crust
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: coupe
       components:
-        - name: cognac
+        - slug: cognac
           quantity: 1
           unit: oz
-        - name: old tom gin
+        - slug: old tom gin
           quantity: .5
           unit: oz
-        - name: maraschino liqueur
+        - slug: maraschino liqueur
           quantity: .25
           unit: oz
-        - name: lemon juice
+        - slug: lemon juice
           quantity: .75
           unit: oz
-        - name: orgeat
+        - slug: orgeat
           quantity: .5
           unit: oz
       construction:

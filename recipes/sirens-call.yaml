@@ -5,23 +5,23 @@
     venue: Blueprint
     location: Brooklyn NY
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: rocks
       components:
-        - name: rhum-clement-v-s-o-p
+        - slug: rhum-clement-v-s-o-p
           quantity: 1
           unit: oz
-        - name: banks 5 island rum
+        - slug: banks 5 island rum
           quantity: 1
           unit: oz
-        - name: lime juice
+        - slug: lime juice
           quantity: 1
           unit: oz
-        - name: apricot syrup
+        - slug: apricot syrup
           quantity: .5
           unit: oz
-        - name: cinnamon bark syrup
+        - slug: cinnamon bark syrup
           quantity: .25
           unit: oz
       construction:

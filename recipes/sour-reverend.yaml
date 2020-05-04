@@ -5,17 +5,17 @@
     creator: Grant Cohoe
     location: Cambridge MA
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: rocks
       components:
-        - name: plantation pineapple rum
+        - slug: plantation pineapple rum
           quantity: 2
           unit: oz
-        - name: lemon juice
+        - slug: lemon juice
           quantity: .75
           unit: oz
-        - name: simple syrup
+        - slug: simple syrup
           quantity: .75
           unit: oz
       construction:

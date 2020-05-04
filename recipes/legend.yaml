@@ -7,29 +7,29 @@
     location: New York NY
     year: 2012
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: coupe
       components:
-        - name: pierre ferrand 1840 cognac
+        - slug: pierre ferrand 1840 cognac
           quantity: 1
           unit: oz
-        - name: appleton signature rum
+        - slug: appleton signature rum
           quantity: .5
           unit: oz
-        - name: lustau amontillado sherry
+        - slug: lustau amontillado sherry
           quantity: .75
           unit: oz
-        - name: amaro nonino
+        - slug: amaro nonino
           quantity: .5
           unit: oz
-        - name: demerara syrup
+        - slug: demerara syrup
           quantity: .25
           unit: oz
-        - name: bitter truth aromatic bitters
+        - slug: bitter truth aromatic bitters
           quantity: 1
           unit: dash
-        - name: angostura bitters
+        - slug: angostura bitters
           quantity: 1
           unit: dash
       construction:

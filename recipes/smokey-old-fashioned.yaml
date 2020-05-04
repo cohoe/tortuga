@@ -4,26 +4,26 @@
   origin:
     creator: Elliott Clark
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: rocks
       components:
-        - name: mezcal
+        - slug: mezcal
           quantity: 1
           unit: oz
-        - name: aged rum
+        - slug: aged rum
           quantity: 1
           unit: oz
-        - name: drambuie
+        - slug: drambuie
           quantity: .25
           unit: oz
-        - name: demerara syrup
+        - slug: demerara syrup
           quantity: .25
           unit: oz
-        - name: angostura bitters
+        - slug: angostura bitters
           quantity: 1
           unit: dash
-        - name: orange bitters
+        - slug: orange bitters
           quantity: 1
           unit: dash
       construction:

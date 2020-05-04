@@ -11,26 +11,26 @@
       lends a butty flavor, the amaro provides a biscotti note, and the
       cognac is fruity and floral.
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: coupe
       components:
-        - name: hine h vsop cognac
+        - slug: hine h vsop cognac
           quantity: 1.5
           unit: oz
-        - name: lustau east india sherry
+        - slug: lustau east india sherry
           quantity: .5
           unit: oz
-        - name: grand marnier
+        - slug: grand marnier
           quantity: .25
           unit: oz
-        - name: lazzaroni amaretto
+        - slug: lazzaroni amaretto
           quantity: .25
           unit: oz
-        - name: lemon juice
+        - slug: lemon juice
           quantity: .5
           unit: oz
-        - name: simple syrup
+        - slug: simple syrup
           quantity: .25
           unit: oz
       construction:

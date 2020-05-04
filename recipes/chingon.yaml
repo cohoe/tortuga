@@ -6,23 +6,23 @@
     venue: Death & Co
     location: New York NY
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: coupe
       components:
-        - name: siete leguas reposado tequila
+        - slug: siete leguas reposado tequila
           quantity: 2
           unit: oz
-        - name: bénédictine
+        - slug: bénédictine
           quantity: .25
           unit: oz
-        - name: orange juice
+        - slug: orange juice
           quantity: .5
           unit: oz
-        - name: lime juice
+        - slug: lime juice
           quantity: .5
           unit: oz
-        - name: orgeat
+        - slug: orgeat
           quantity: .5
           unit: oz
       construction:

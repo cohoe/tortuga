@@ -11,24 +11,24 @@
       French-colony rum, and bitters that originated in Haiti, a former
       French colony.
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: rocks
       components:
-        - name: vieux pontarlier absinthe
-        - name: barbancourt 3-star rum
+        - slug: vieux pontarlier absinthe
+        - slug: barbancourt 3-star rum
           quantity: 1.5
           unit: oz
-        - name: pierre ferrand 1840 cognac
+        - slug: pierre ferrand 1840 cognac
           quantity: .5
           unit: oz
-        - name: cane sugar syrup
+        - slug: cane sugar syrup
           quantity: 1
           unit: tsp
-        - name: house peychaud's bitters
+        - slug: house peychaud's bitters
           quantity: 3
           unit: dash
-        - name: lemon twist
+        - slug: lemon twist
           quantity: 1
       construction:
         slug: stir

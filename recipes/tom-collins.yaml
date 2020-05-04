@@ -2,20 +2,20 @@
 - slug: tom-collins
   display_name: Tom Collins
   specs:
-    - name: Death & Co
+    - slug: Death & Co
       glassware:
         - slug: highball
       components:
-        - name: beefeater london dry gin
+        - slug: beefeater london dry gin
           quantity: 2
           unit: oz
-        - name: lemon juice
+        - slug: lemon juice
           quantity: 1
           unit: oz
-        - name: simple syrup
+        - slug: simple syrup
           quantity: .75
           unit: oz
-        - name: club soda
+        - slug: club soda
       construction:
         slug: shake
       instructions:

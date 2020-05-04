@@ -7,20 +7,20 @@
     location: Miami FL
     year: 2011
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: highball
       components:
-        - name: plymouth gin
+        - slug: plymouth gin
           quantity: 2
           unit: oz
-        - name: st-germain
+        - slug: st-germain
           quantity: 1
           unit: oz
-        - name: aperol
+        - slug: aperol
           quantity: .75
           unit: oz
-        - name: club soda
+        - slug: club soda
       construction:
         slug: build
       instructions:

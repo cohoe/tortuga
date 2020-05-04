@@ -2,25 +2,25 @@
 - slug: fish-house-punch
   display_name: Fish House Punch
   specs:
-    - name: 'Death & Co'
+    - slug: 'Death & Co'
       glassware:
         - slug: snifter
       components:
-        - name: sugar cubes
+        - slug: sugar cubes
           quantity: 4
-        - name: club soda
+        - slug: club soda
           quantity: 2
           unit: oz
-        - name: lemon juice
+        - slug: lemon juice
           quantity: 1
           unit: oz
-        - name: hine h vsop cognac
+        - slug: hine h vsop cognac
           quantity: 1
           unit: oz
-        - name: appleton signature rum
+        - slug: appleton signature rum
           quantity: 1
           unit: oz
-        - name: massenez crème de pêche peach liqueur
+        - slug: massenez crème de pêche peach liqueur
           quantity: .5
           unit: oz
       construction:

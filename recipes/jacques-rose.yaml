@@ -9,23 +9,23 @@
       This is a fancy version of a tasty and simple cocktail [Jack Rose]
       that has stood the test of time.
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: sour
       components:
-        - name: daron fine calvados
+        - slug: daron fine calvados
           quantity: 2
           unit: oz
-        - name: Café Cancale grenadine
+        - slug: Café Cancale grenadine
           quantity: .5
           unit: oz
-        - name: lemon juice
+        - slug: lemon juice
           quantity: .75
           unit: oz
-        - name: demerara syrup
+        - slug: demerara syrup
           quantity: .25
           unit: oz
-        - name: angostura bitters
+        - slug: angostura bitters
           quantity: 2
           unit: dash
       construction:

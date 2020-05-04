@@ -8,20 +8,20 @@
     story: >-
       Named for something an Italian mob boss would say.
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: coupe
       components:
-        - name: yellow chartreuse
+        - slug: yellow chartreuse
           quantity: .75
           unit: oz
-        - name: aperol
+        - slug: aperol
           quantity: .75
           unit: oz
-        - name: domaine de canton ginger liqueur
+        - slug: domaine de canton ginger liqueur
           quantity: .75
           unit: oz
-        - name: cardamaro
+        - slug: cardamaro
           quantity: .75
           unit: oz
       construction:

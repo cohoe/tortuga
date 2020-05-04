@@ -2,26 +2,26 @@
 - slug: pink-lady
   display_name: Pink Lady
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: UNKNOWN
       components:
-        - name: plymouth gin
+        - slug: plymouth gin
           quantity: 1.5
           unit: oz
-        - name: laird's bonded apple brandy
+        - slug: laird's bonded apple brandy
           quantity: .5
           unit: oz
-        - name: lemon juice
+        - slug: lemon juice
           quantity: .75
           unit: oz
-        - name: simple syrup
+        - slug: simple syrup
           quantity: .75
           unit: oz
-        - name: grenadine
+        - slug: grenadine
           quantity: .25
           unit: oz
-        - name: egg white
+        - slug: egg white
           quantity: 1
       construction:
         slug: shake

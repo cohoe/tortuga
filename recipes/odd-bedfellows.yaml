@@ -4,26 +4,26 @@
   origin:
     creator: Sother Teague
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: fancy fizz
       components:
-        - name: fernet-branca
+        - slug: fernet-branca
           quantity: 1
           unit: oz
-        - name: el dorado 8-year rum
+        - slug: el dorado 8-year rum
           quantity: .75
           unit: oz
-        - name: creme de cacao
+        - slug: creme de cacao
           quantity: .5
           unit: oz
-        - name: smith cross jamaican rum
+        - slug: smith cross jamaican rum
           quantity: .25
           unit: oz
-        - name: pineapple juice
+        - slug: pineapple juice
           quantity: 1.5
           unit: oz
-        - name: coconut cream
+        - slug: coconut cream
           quantity: 1
           unit: oz
       construction:

@@ -7,20 +7,20 @@
     location: New York NY
     year: 2008
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: coupe
       components:
-        - name: laphroaig-10-year-old-single-malt-scotch-whisky
+        - slug: laphroaig-10-year-old-single-malt-scotch-whisky
           quantity: 1
           unit: oz
-        - name: laird's bonded apple brandy
+        - slug: laird's bonded apple brandy
           quantity: 1
           unit: oz
-        - name: benedictine
+        - slug: benedictine
           quantity: .5
           unit: oz
-        - name: house peychaud's bitters
+        - slug: house peychaud's bitters
           quantity: 2
           unit: dash
       construction:

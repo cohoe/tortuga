@@ -2,35 +2,35 @@
 - slug: port-au-prince
   display_name: Port au Prince
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: pilsner
       components:
-        - name: barbancourt 3-star rum
+        - slug: barbancourt 3-star rum
           quantity: 1
           unit: oz
-        - name: el dorado 3-year rum
+        - slug: el dorado 3-year rum
           quantity: 1
           unit: oz
-        - name: lemon hart 151 rum
+        - slug: lemon hart 151 rum
           quantity: .25
           unit: oz
-        - name: john d taylors velvet falernum
+        - slug: john d taylors velvet falernum
           quantity: .75
           unit: oz
-        - name: lime juice
+        - slug: lime juice
           quantity: .75
           unit: oz
-        - name: pineapple juice
+        - slug: pineapple juice
           quantity: .5
           unit: oz
-        - name: grenadine
+        - slug: grenadine
           quantity: .25
           unit: oz
-        - name: ginger syrup
+        - slug: ginger syrup
           quantity: 1
           unit: tsp
-        - name: bittermens elemakule tiki bitters
+        - slug: bittermens elemakule tiki bitters
           quantity: 6
           unit: drop
       construction:

@@ -6,20 +6,20 @@
     venue: Milk & Honey
     location: New York NY
   specs:
-    - name: Milk & Honey
+    - slug: Milk & Honey
       glassware:
         - slug: coupe
       components:
-        - name: gin
+        - slug: gin
           quantity: .75
           unit: oz
-        - name: orange liqueur
+        - slug: orange liqueur
           quantity: .75
           unit: oz
-        - name: créme de violette
+        - slug: créme de violette
           quantity: .75
           unit: oz
-        - name: lemon juice
+        - slug: lemon juice
           quantity: .75
           unit: oz
       construction:

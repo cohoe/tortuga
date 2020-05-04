@@ -11,23 +11,23 @@
       At Café Cancale in Chicago, Scott Kennedy uses dry curaçao instead
       of triple sec.
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: coupe
       components:
-        - name: old forester 86-proof bourbon
+        - slug: old forester 86-proof bourbon
           quantity: 1
           unit: oz
-        - name: angostura 5-year rum
+        - slug: angostura 5-year rum
           quantity: .75
           unit: oz
-        - name: pierre ferrand dry curaçao
+        - slug: pierre ferrand dry curaçao
           quantity: .5
           unit: oz
-        - name: lemon juice
+        - slug: lemon juice
           quantity: .75
           unit: oz
-        - name: orange juice
+        - slug: orange juice
           quantity: .5
           unit: oz
       construction:

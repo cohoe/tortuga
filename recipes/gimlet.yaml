@@ -2,7 +2,7 @@
 - slug: gimlet
   display_name: Gimlet
   specs:
-    - name: Clover Club
+    - slug: Clover Club
       origin:
         creator: Tom Macy
         venue: Clover Club
@@ -10,13 +10,13 @@
       glassware:
         - slug: coupe
       components:
-        - name: tanqueray london dry gin
+        - slug: tanqueray london dry gin
           quantity: 2
           unit: oz
-        - name: simple syrup
+        - slug: simple syrup
           quantity: .75
           unit: oz
-        - name: lime juice
+        - slug: lime juice
           quantity: .5
           unit: oz
       construction:
@@ -25,7 +25,7 @@
         - text: muddle two lime wedges in the syrup and add to a shaker with the rest of the ingredients including juice
         - text: shake with ice and fine-strain into a glass
       straw: false
-    - name: Frenchette
+    - slug: Frenchette
       origin:
         creator: Sarah Morrissey
         venue: Frenchette
@@ -33,13 +33,13 @@
       glassware:
         - slug: coupe
       components:
-        - name: tanqueray london dry gin
+        - slug: tanqueray london dry gin
           quantity: 2
           unit: oz
-        - name: 3:2 simple syrup
+        - slug: 3:2 simple syrup
           quantity: .75
           unit: oz
-        - name: lime juice
+        - slug: lime juice
           quantity: 1
           unit: oz
       construction:

@@ -10,24 +10,24 @@
       In my opinion, this French 75 variation is the best beginner Campari
       drink in history.
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: flute
       components:
-        - name: plymouth gin
+        - slug: plymouth gin
           quantity: 1
           unit: oz
-        - name: campari
+        - slug: campari
           quantity: .25
           unit: oz
-        - name: lemon juice
+        - slug: lemon juice
           quantity: .5
           unit: oz
-        - name: simple syrup
+        - slug: simple syrup
           quantity: .5
           unit: oz
-        - name: dry champagne
-        - name: grapefruit twist
+        - slug: dry champagne
+        - slug: grapefruit twist
       construction:
         slug: shake
       instructions:

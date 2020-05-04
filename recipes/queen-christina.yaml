@@ -6,20 +6,20 @@
     venue: Eastern Standard
     location: Boston MA
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: coupe
       components:
-        - name: bourbon whiskey
+        - slug: bourbon whiskey
           quantity: 1.5
           unit: oz
-        - name: swedish punsch
+        - slug: swedish punsch
           quantity: .75
           unit: oz
-        - name: lemon juice
+        - slug: lemon juice
           quantity: .75
           unit: oz
-        - name: simple syrup
+        - slug: simple syrup
           quantity: .25
           unit: oz
       construction:

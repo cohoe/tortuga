@@ -4,17 +4,17 @@
   origin:
     creator: Laura Bailey
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: rocks
       components:
-        - name: bourbon whiskey
+        - slug: bourbon whiskey
           quantity: 2
           unit: oz
-        - name: lemon juice
+        - slug: lemon juice
           quantity: 1.5
           unit: oz
-        - name: maple syrup
+        - slug: maple syrup
           quantity: .75
           unit: oz
       construction:

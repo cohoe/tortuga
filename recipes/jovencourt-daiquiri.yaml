@@ -10,20 +10,20 @@
       This cocktail was my first epiphany about using mezcal in a mixed
       drink. Doing so is common now, but nobody was mixing with it back then.
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: coupe
       components:
-        - name: barbancourt-rhum-blanc
+        - slug: barbancourt-rhum-blanc
           quantity: 2
           unit: oz
-        - name: del maguey vida mezcal
+        - slug: del maguey vida mezcal
           quantity: .25
           unit: oz
-        - name: lime juice
+        - slug: lime juice
           quantity: .75
           unit: oz
-        - name: simple syrup
+        - slug: simple syrup
           quantity: .75
           unit: oz
       construction:

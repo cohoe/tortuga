@@ -11,23 +11,23 @@
       Santa Teresa rum becomes even more pronounced thanks to the apple brandy
       and maple syrup.
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: coupe
       components:
-        - name: santa teresa 1796 rum
+        - slug: santa teresa 1796 rum
           quantity: 2
           unit: oz
-        - name: laird's bonded apple brandy
+        - slug: laird's bonded apple brandy
           quantity: .25
           unit: oz
-        - name: yellow chartreuse
+        - slug: yellow chartreuse
           quantity: .25
           unit: oz
-        - name: lime juice
+        - slug: lime juice
           quantity: .75
           unit: oz
-        - name: grade b maple syrup
+        - slug: grade b maple syrup
           quantity: .5
           unit: oz
       construction:

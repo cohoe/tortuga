@@ -6,14 +6,14 @@
     location: Dijon, France
     era: 1940s
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: flute
       components:
-        - name: laurent-perrier brut
+        - slug: laurent-perrier brut
           quantity: 5
           unit: oz
-        - name: merlet crème de cassis
+        - slug: merlet crème de cassis
           quantity: .25
           unit: oz
       construction:

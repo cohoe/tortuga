@@ -7,23 +7,23 @@
     location: New York NY
     year: 2007
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: coupe
       components:
-        - name: rittenhouse 100 rye whiskey
+        - slug: rittenhouse 100 rye whiskey
           quantity: 1
           unit: oz
-        - name: lairds bonded apple brandy
+        - slug: lairds bonded apple brandy
           quantity: 1
           unit: oz
-        - name: yellow chartreuse
+        - slug: yellow chartreuse
           quantity: .25
           unit: oz
-        - name: bénédictine
+        - slug: bénédictine
           quantity: .25
           unit: oz
-        - name: angostura bitters
+        - slug: angostura bitters
           quantity: 1
           unit: dash
       construction:

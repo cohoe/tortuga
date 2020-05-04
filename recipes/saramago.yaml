@@ -7,24 +7,24 @@
     location: New York NY
     year: 2008
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: coupe
       components:
-        - name: del maguey vida mezcal
-        - name: siembra azul blanco tequila
+        - slug: del maguey vida mezcal
+        - slug: siembra azul blanco tequila
           quantity: 2
           unit: oz
-        - name: dolin blanc vermouth
+        - slug: dolin blanc vermouth
           quantity: .75
           unit: oz
-        - name: st germain
+        - slug: st germain
           quantity: .5
           unit: oz
-        - name: house orange bitters
+        - slug: house orange bitters
           quantity: 1
           unit: dash
-        - name: grapefruit twist
+        - slug: grapefruit twist
           quantity: 1
       construction:
         slug: stir

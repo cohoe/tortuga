@@ -6,23 +6,23 @@
     venue: Amor y Amargo
     location: New York NY
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: flask
       components:
-        - name: rittenhouse 100 rye whiskey
+        - slug: rittenhouse 100 rye whiskey
           quantity: .75
           unit: oz
-        - name: beefeater london dry gin
+        - slug: beefeater london dry gin
           quantity: .75
           unit: oz
-        - name: bonal gentiane quina
+        - slug: bonal gentiane quina
           quantity: .75
           unit: oz
-        - name: amaro meletti
+        - slug: amaro meletti
           quantity: .75
           unit: oz
-        - name: bittermens elemakule tiki bitters
+        - slug: bittermens elemakule tiki bitters
           quantity: 2
           unit: dash
       construction:

@@ -6,23 +6,23 @@
     venue: Death & Co
     location: New York NY
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: coupe
       components:
-        - name: ransom old tom gin
+        - slug: ransom old tom gin
           quantity: 1.5
           unit: oz
-        - name: amaro meletti
+        - slug: amaro meletti
           quantity: 1
           unit: oz
-        - name: dolin dry vermouth
+        - slug: dolin dry vermouth
           quantity: .5
           unit: oz
-        - name: clear creek pear brandy
+        - slug: clear creek pear brandy
           quantity: 1
           unit: tsp
-        - name: angostura bitters
+        - slug: angostura bitters
           quantity: 1
           unit: dash
       construction:

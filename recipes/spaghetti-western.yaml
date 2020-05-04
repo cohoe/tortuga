@@ -7,20 +7,20 @@
     location: New York NY
     year: 2011
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: rocks
       components:
-        - name: siete leguas reposado tequila
+        - slug: siete leguas reposado tequila
           quantity: 1
           unit: oz
-        - name: los nahuales mezcal
+        - slug: los nahuales mezcal
           quantity: .5
           unit: oz
-        - name: amaro nonino
+        - slug: amaro nonino
           quantity: .75
           unit: oz
-        - name: house orange bitters
+        - slug: house orange bitters
           quantity: 1
           unit: dash
       construction:

@@ -2,23 +2,23 @@
 - slug: how-do-i-compare
   display_name: How Do I Compare
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: rocks
       components:
-        - name: apple brandy
+        - slug: apple brandy
           quantity: .75
           unit: oz
-        - name: bourbon whiskey
+        - slug: bourbon whiskey
           quantity: .75
           unit: oz
-        - name: bénédictine
+        - slug: bénédictine
           quantity: .5
           unit: oz
-        - name: cointreau
+        - slug: cointreau
           quantity: .25
           unit: oz
-        - name: apple bitters
+        - slug: apple bitters
           quantity: 2
           unit: dash
       construction:

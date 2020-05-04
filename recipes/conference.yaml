@@ -6,29 +6,29 @@
     venue: Death & Co
     location: New York NY
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: rocks
       components:
-        - name: rittenhouse 100 rye whiskey
+        - slug: rittenhouse 100 rye whiskey
           quantity: .5
           unit: oz
-        - name: buffalo trace bourbon
+        - slug: buffalo trace bourbon
           quantity: .5
           unit: oz
-        - name: calvados
+        - slug: calvados
           quantity: .5
           unit: oz
-        - name: hine h vsop cognac
+        - slug: hine h vsop cognac
           quantity: .5
           unit: oz
-        - name: demerara syrup
+        - slug: demerara syrup
           quantity: 1
           unit: tsp
-        - name: angostura bitters
+        - slug: angostura bitters
           quantity: 2
           unit: dash
-        - name: bittermens xocolatl mole bitters
+        - slug: bittermens xocolatl mole bitters
           quantity: 1
           unit: dash
       construction:

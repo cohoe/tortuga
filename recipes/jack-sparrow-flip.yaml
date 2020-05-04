@@ -7,22 +7,22 @@
     location: New York NY
     year: 2008
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: fizz
       components:
-        - name: flor-de-cana-7-year-rum
+        - slug: flor-de-cana-7-year-rum
           quantity: 2
           unit: oz
-        - name: sandeman rainwater madeira
+        - slug: sandeman rainwater madeira
           quantity: .75
           unit: oz
-        - name: demerara syrup
+        - slug: demerara syrup
           quantity: .75
           unit: oz
-        - name: egg
+        - slug: egg
           quantity: 1
-        - name: fee brothers whiskey barrel-aged bitters
+        - slug: fee brothers whiskey barrel-aged bitters
           quantity: 2
           unit: dash
       construction:

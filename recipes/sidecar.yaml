@@ -5,20 +5,20 @@
     location: London
     year: 1922
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: coupe
       components:
-        - name: rémy martin VSOP cognac
+        - slug: rémy martin VSOP cognac
           quantity: 2
           unit: oz
-        - name: lemon juice
+        - slug: lemon juice
           quantity: .75
           unit: oz
-        - name: cointreau
+        - slug: cointreau
           quantity: .5
           unit: oz
-        - name: simple syrup
+        - slug: simple syrup
           quantity: .25
           unit: oz
       construction:

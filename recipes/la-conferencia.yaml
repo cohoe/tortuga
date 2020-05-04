@@ -11,29 +11,29 @@
       cocktail that I had to rip it off. My version replaced the whiskey with
       tequila, naturally.
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: rocks
       components:
-        - name: el tesoro reposado tequila
+        - slug: el tesoro reposado tequila
           quantity: .5
           unit: oz
-        - name: del maguey vida mezcal
+        - slug: del maguey vida mezcal
           quantity: .5
           unit: oz
-        - name: la favorite rhum agricole blanc
+        - slug: la favorite rhum agricole blanc
           quantity: .5
           unit: oz
-        - name: santa teresa 1796 rum
+        - slug: santa teresa 1796 rum
           quantity: .5
           unit: oz
-        - name: cane sugar syrup
+        - slug: cane sugar syrup
           quantity: .25
           unit: oz
-        - name: angostura bitters
+        - slug: angostura bitters
           quantity: 1
           unit: dash
-        - name: bittermens xocolatl mole bitters
+        - slug: bittermens xocolatl mole bitters
           quantity: 1
           unit: dash
       construction:

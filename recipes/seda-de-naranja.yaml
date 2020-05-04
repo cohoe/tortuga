@@ -7,20 +7,20 @@
     location: New York NY
     year: 2007
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: coupe
       components:
-        - name: el tesoro reposado tequila
+        - slug: el tesoro reposado tequila
           quantity: .75
           unit: oz
-        - name: grand marnier
+        - slug: grand marnier
           quantity: .75
           unit: oz
-        - name: house orange bitters
+        - slug: house orange bitters
           quantity: 1
           unit: dash
-        - name: dry champagne
+        - slug: dry champagne
       construction:
         slug: stir
       instructions:

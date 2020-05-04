@@ -6,20 +6,20 @@
     venue: The Hawthorne
     location: Boston MA
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: coupe
       components:
-        - name: siete leguas reposado tequila
+        - slug: siete leguas reposado tequila
           quantity: 1
           unit: oz
-        - name: cocchi americano
+        - slug: cocchi americano
           quantity: 1
           unit: oz
-        - name: dolin dry vermouth
+        - slug: dolin dry vermouth
           quantity: 1
           unit: oz
-        - name: crème de violette
+        - slug: crème de violette
           quantity: 1
           unit: barspoon
       construction:

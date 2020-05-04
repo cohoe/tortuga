@@ -2,26 +2,26 @@
 - slug: mezcal-swizzle
   display_name: Mezcal Swizzle
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: collins
       components:
-        - name: mezcal
+        - slug: mezcal
           quantity: 1
           unit: oz
-        - name: amontillado sherry
+        - slug: amontillado sherry
           quantity: 1
           unit: oz
-        - name: ginger syrup
+        - slug: ginger syrup
           quantity: .5
           unit: oz
-        - name: falernum
+        - slug: falernum
           quantity: .5
           unit: oz
-        - name: grapefruit juice
+        - slug: grapefruit juice
           quantity: .5
           unit: oz
-        - name: lime juice
+        - slug: lime juice
           quantity: .5
           unit: oz
       construction:

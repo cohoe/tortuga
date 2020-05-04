@@ -7,23 +7,23 @@
     location: New York NY
     year: 2007
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: coupe
       components:
-        - name: plymouth gin
+        - slug: plymouth gin
           quantity: 1
           unit: oz
-        - name: cointreau
+        - slug: cointreau
           quantity: .75
           unit: oz
-        - name: luxardo maraschino liqueur
+        - slug: luxardo maraschino liqueur
           quantity: .5
           unit: oz
-        - name: lemon juice
+        - slug: lemon juice
           quantity: .5
           unit: oz
-        - name: dry champagne
+        - slug: dry champagne
       construction:
         slug: shake
       instructions:

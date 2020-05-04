@@ -4,14 +4,14 @@
   origin:
     location: Spain
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: highball
       components:
-        - name: london dry gin
+        - slug: london dry gin
           quantity: 2
           unit: oz
-        - name: tonic water
+        - slug: tonic water
           quantity: 4
           unit: oz
       construction:

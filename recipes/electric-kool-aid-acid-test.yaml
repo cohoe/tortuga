@@ -11,25 +11,25 @@
       with rum it's a Seersucker; and with apple brandy it's a Sloe
       Scobeyville Sling.
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: pilsner
       components:
-        - name: siembra azul blanco tequila
+        - slug: siembra azul blanco tequila
           quantity: 1
           unit: oz
-        - name: sloe gin
+        - slug: sloe gin
           quantity: 1
           unit: oz
-        - name: lemon juice
+        - slug: lemon juice
           quantity: 1
           unit: oz
-        - name: simple syrup
+        - slug: simple syrup
           quantity: .75
           unit: oz
-        - name: blackberry
+        - slug: blackberry
           quantity: 3
-        - name: luxardo maraschino liqueur
+        - slug: luxardo maraschino liqueur
           quantity: .25
           unit: oz
       construction:

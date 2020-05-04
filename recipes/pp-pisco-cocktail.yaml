@@ -8,32 +8,32 @@
       This fizzy pisco cocktail matches the floral qualities of
       pisco with the earthiness of Pimm's.
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: collins
       components:
-        - name: pisco
+        - slug: pisco
           quantity: 1
           unit: oz
-        - name: pimm's no. 1
+        - slug: pimm's no. 1
           quantity: 1
           unit: oz
-        - name: maraschino liqueur
+        - slug: maraschino liqueur
           quantity: .25
           unit: oz
-        - name: lime juice
+        - slug: lime juice
           quantity: .5
           unit: oz
-        - name: lemon juice
+        - slug: lemon juice
           quantity: .5
           unit: oz
-        - name: rich simple syrup
+        - slug: rich simple syrup
           quantity: .25
           unit: oz
-        - name: angostura bitters
+        - slug: angostura bitters
           quantity: 3
           unit: dash
-        - name: ginger beer
+        - slug: ginger beer
       construction:
         slug: shake
       instructions:

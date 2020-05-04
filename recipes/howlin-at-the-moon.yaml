@@ -6,22 +6,22 @@
     venue: Death & Co
     location: New York NY
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: rocks
       components:
-        - name: lemon twist
+        - slug: lemon twist
           quantity: 1
-        - name: bols barrel-aged genever
+        - slug: bols barrel-aged genever
           quantity: 2
           unit: oz
-        - name: marie brizard white creme de cacao
+        - slug: marie brizard white creme de cacao
           quantity: 2
           unit: tsp
-        - name: cane sugar syrup
+        - slug: cane sugar syrup
           quantity: .5
           unit: tsp
-        - name: bittercube-cherry-bark-vanilla-bitters
+        - slug: bittercube-cherry-bark-vanilla-bitters
           quantity: 2
           unit: dash
       construction:

@@ -6,26 +6,26 @@
     venue: Death & Co
     location: New York NY
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: coupe
       components:
-        - name: el tesoro reposado tequila
+        - slug: el tesoro reposado tequila
           quantity: 1
           unit: oz
-        - name: siete leguas blanco tequila
+        - slug: siete leguas blanco tequila
           quantity: 1
           unit: oz
-        - name: pineapple juice
+        - slug: pineapple juice
           quantity: .75
           unit: oz
-        - name: lime juice
+        - slug: lime juice
           quantity: .5
           unit: oz
-        - name: agave syrup
+        - slug: agave syrup
           quantity: .25
           unit: oz
-        - name: grenadine
+        - slug: grenadine
           quantity: 1
           unit: tsp
       construction:

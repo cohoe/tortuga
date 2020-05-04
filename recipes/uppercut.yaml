@@ -7,26 +7,26 @@
     venue: Amor y Amargo
     location: New York NY
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: UNKNOWN
       components:
-        - name: bourbon whiskey
+        - slug: bourbon whiskey
           quantity: 1
           unit: oz
-        - name: applejack
+        - slug: applejack
           quantity: .75
           unit: oz
-        - name: becherovka
+        - slug: becherovka
           quantity: .25
           unit: oz
-        - name: orange juice
+        - slug: orange juice
           quantity: .25
           unit: oz
-        - name: lemon juice
+        - slug: lemon juice
           quantity: .5
           unit: oz
-        - name: hard cider
+        - slug: hard cider
       construction:
         slug: build
       instructions:

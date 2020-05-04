@@ -2,17 +2,17 @@
 - slug: aperol-spritz
   display_name: Aperol Spritz
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: wine
       components:
-        - name: prosecco
+        - slug: prosecco
           quantity: 3
           unit: oz
-        - name: aperol
+        - slug: aperol
           quantity: 2
           unit: oz
-        - name: soda water
+        - slug: soda water
           quantity: 1
           unit: oz
       construction:

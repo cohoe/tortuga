@@ -10,26 +10,26 @@
       in handing the spec to various bartenders they suggest changes, mostly
       due to its quantity of Orgeat.
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: rocks
       components:
-        - name: el dorado 12 year rum
+        - slug: el dorado 12 year rum
           quantity: 1.5
           unit: oz
-        - name: orgeat
+        - slug: orgeat
           quantity: .75
           unit: oz
-        - name: lemon juice
+        - slug: lemon juice
           quantity: .5
           unit: oz
-        - name: pineapple juice
+        - slug: pineapple juice
           quantity: .5
           unit: oz
-        - name: pedro ximenez sherry
+        - slug: pedro ximenez sherry
           quantity: .25
           unit: oz
-        - name: amontillado sherry
+        - slug: amontillado sherry
           quantity: .25
           unit: oz
       construction:

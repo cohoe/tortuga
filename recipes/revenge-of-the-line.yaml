@@ -11,20 +11,20 @@
       lime and charred pineapple, the drink reads like a beachside bonfire
       in a glass.
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: rocks
       components:
-        - name: mezcal
+        - slug: mezcal
           quantity: 1.75
           unit: oz
-        - name: yellow chartreuse
+        - slug: yellow chartreuse
           quantity: .25
           unit: oz
-        - name: charred pineapple syrup
+        - slug: charred pineapple syrup
           quantity: .75
           unit: oz
-        - name: lemon juice
+        - slug: lemon juice
           quantity: 1
           unit: oz
       construction:
@@ -36,17 +36,17 @@
         - slug: chile powder dipped pineapple
       straw: false
       # @TODO
-#    - name: charred pineapple syrup
+#    - slug: charred pineapple syrup
 #      glassware:
 #        - slug: bottle
 #      components:
-#        - name: charred pineapple
+#        - slug: charred pineapple
 #          quantity: 250
 #          unit: gram
-#        - name: '2:1 simple syrup'
+#        - slug: '2:1 simple syrup'
 #          quantity: 750
 #          unit: gram
-#        - name: jalapeños
+#        - slug: jalapeños
 #          quantity: 2
 #      construction:
 #        slug: shake

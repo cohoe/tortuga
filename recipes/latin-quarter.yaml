@@ -11,27 +11,27 @@
       sazerac variation has ended up on the menus of cocktail bars all over
       the world.
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: rocks
       components:
-        - name: vieux pontarlier absinthe
-        - name: ron-zacapa-centenario-23-rum
+        - slug: vieux pontarlier absinthe
+        - slug: ron-zacapa-centenario-23-rum
           quantity: 2
           unit: oz
-        - name: cane sugar syrup
+        - slug: cane sugar syrup
           quantity: 1
           unit: tsp
-        - name: house peychaud's bitters
+        - slug: house peychaud's bitters
           quantity: 3
           unit: dash
-        - name: angostura bitters
+        - slug: angostura bitters
           quantity: 1
           unit: dash
-        - name: bittermens xocolatl mole bitters
+        - slug: bittermens xocolatl mole bitters
           quantity: 1
           unit: dash
-        - name: lemon twist
+        - slug: lemon twist
           quantity: 1
       construction:
         slug: stir

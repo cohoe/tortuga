@@ -6,23 +6,23 @@
     venue: Standby
     location: Detroit
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: collins
       components:
-        - name: aged rum
+        - slug: aged rum
           quantity: 1
           unit: oz
-        - name: falernum
+        - slug: falernum
           quantity: 1.5
           unit: oz
-        - name: lime juice
+        - slug: lime juice
           quantity: .75
           unit: oz
-        - name: angostura bitters
+        - slug: angostura bitters
           quantity: 1
           unit: oz
-        - name: blackstrap rum
+        - slug: blackstrap rum
           quantity: 1
           unit: oz
       construction:

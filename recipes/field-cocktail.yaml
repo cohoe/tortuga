@@ -7,17 +7,17 @@
     location: New York NY
     year: 2010
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: coupe
       components:
-        - name: pierre ferrand ambre cognac
+        - slug: pierre ferrand ambre cognac
           quantity: 2
           unit: oz
-        - name: noilly prat dry vermouth
+        - slug: noilly prat dry vermouth
           quantity: 1
           unit: oz
-        - name: pineapple juice
+        - slug: pineapple juice
           quantity: .75
           unit: oz
       construction:

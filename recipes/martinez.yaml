@@ -2,20 +2,20 @@
 - slug: martinez
   display_name: Martinez
   specs:
-    - name: PDT
+    - slug: PDT
       glassware:
         - slug: coupe
       components:
-        - name: hayman's old tom gin
+        - slug: hayman's old tom gin
           quantity: 1.5
           unit: oz
-        - name: dolin rouge vermouth
+        - slug: dolin rouge vermouth
           quantity: 1.5
           unit: oz
-        - name: luxardo maraschino liqueur
+        - slug: luxardo maraschino liqueur
           quantity: .25
           unit: oz
-        - name: "boker's bitters"
+        - slug: "boker's bitters"
           quantity: 2
           unit: dash
       construction:
@@ -27,26 +27,26 @@
       straw: false
       citations:
         - title: PDT Cocktails
-    - name: 'Death & Co'
+    - slug: 'Death & Co'
       glassware:
         - slug: nickandnora
       components:
-        - name: "hayman's old tom gin"
+        - slug: "hayman's old tom gin"
           quantity: 1.5
           unit: oz
-        - name: ransom old tom gin
+        - slug: ransom old tom gin
           quantity: .5
           unit: oz
-        - name: house sweet vermouth
+        - slug: house sweet vermouth
           quantity: 1
           unit: oz
-        - name: luxardo maraschino liqueur
+        - slug: luxardo maraschino liqueur
           quantity: .5
           unit: tsp
-        - name: massenez kirsch vieux cherry brandy
+        - slug: massenez kirsch vieux cherry brandy
           quantity: .5
           unit: tsp
-        - name: house orange bitters
+        - slug: house orange bitters
           quantity: 1
           unit: dash
       construction:
@@ -66,21 +66,21 @@
             - Alex Day
           date: 2014-10-07
           publisher: Ten Speed Press
-    - name: Dante NYC
+    - slug: Dante NYC
       origin:
         venue: Dante NYC
         location: Brooklyn NY
       components:
-        - name: otto's athens vermouth
+        - slug: otto's athens vermouth
           quantity: 2
           unit: oz
-        - name: old duff genever
+        - slug: old duff genever
           quantity: 1
           unit: oz
-        - name: maraschino liqueur
+        - slug: maraschino liqueur
           quantity: 1
           unit: barspoon
-        - name: boker's bitters
+        - slug: boker's bitters
           quantity: 2
           unit: dash
       construction:

@@ -12,29 +12,29 @@
       form of mandarin vodka and lime) and topped with sparkling wine, in
       a refreshing nod to late summer spritzes.
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: coupe
       components:
-        - name: del maguey vida mezcal
+        - slug: del maguey vida mezcal
           quantity: 1
           unit: oz
-        - name: lustau-amontillado-sherry
+        - slug: lustau-amontillado-sherry
           quantity: .75
           unit: oz
-        - name: lime juice
+        - slug: lime juice
           quantity: .75
           unit: oz
-        - name: hangar one mandarin vodka
+        - slug: hangar one mandarin vodka
           quantity: .5
           unit: oz
-        - name: agave syrup
+        - slug: agave syrup
           quantity: .5
           unit: oz
-        - name: rothman & winter apricot liqueur
+        - slug: rothman & winter apricot liqueur
           quantity: .25
           unit: oz
-        - name: cava
+        - slug: cava
           quantity: 1.5
           unit: oz
       construction:

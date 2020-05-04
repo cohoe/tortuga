@@ -6,20 +6,20 @@
     venue: The Pass & Provisions
     location: Houston TX
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: rocks
       components:
-        - name: plantation pineapple rum
+        - slug: plantation pineapple rum
           quantity: 1
           unit: oz
-        - name: aperol
+        - slug: aperol
           quantity: 1
           unit: oz
-        - name: swedish punsch
+        - slug: swedish punsch
           quantity: .5
           unit: oz
-        - name: angostura bitters
+        - slug: angostura bitters
           quantity: 1
           unit: dash
       construction:

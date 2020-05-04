@@ -7,17 +7,17 @@
     location: Chicago IL
     year: 2010
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: goblet
       components:
-        - name: aperol
+        - slug: aperol
           quantity: 1
           unit: oz
-        - name: punt e mes
+        - slug: punt e mes
           quantity: 1
           unit: oz
-        - name: prosecco
+        - slug: prosecco
       construction:
         slug: stir
       instructions:

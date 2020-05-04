@@ -9,18 +9,18 @@
       Misty Kalkofen at Green Street invented this drink for Ron Cooper
       of Del Maguey who was a guest at her bar that night.
   specs:
-    - name: original
+    - slug: original
       components:
-        - name: mezcal
+        - slug: mezcal
           quantity: 1
           unit: oz
-        - name: st-germain
+        - slug: st-germain
           quantity: 1
           unit: oz
-        - name: punt-e-mes
+        - slug: punt-e-mes
           quantity: .5
           unit: oz
-        - name: lemon-juice
+        - slug: lemon-juice
           quantity: .5
           unit: oz
       construction:

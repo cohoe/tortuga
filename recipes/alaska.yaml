@@ -5,17 +5,17 @@
     creator: Robert Simonson
     year: 2017
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: coupe
       components:
-        - name: old tom gin
+        - slug: old tom gin
           quantity: 2
           unit: oz
-        - name: yellow chartreuse
+        - slug: yellow chartreuse
           quantity: 1
           unit: oz
-        - name: orange bitters
+        - slug: orange bitters
           quantity: 2
           unit: dash
       construction:

@@ -6,32 +6,32 @@
     venue: Death & Co
     location: New York NY
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: highball
       components:
-        - name: haymans old tom gin
+        - slug: haymans old tom gin
           quantity: 1.5
           unit: oz
-        - name: el dorado 12-year rum
+        - slug: el dorado 12-year rum
           quantity: .5
           unit: oz
-        - name: "donns spices #2"
+        - slug: "donns spices #2"
           quantity: .75
           unit: oz
-        - name: vieux pontarlier absinthe
+        - slug: vieux pontarlier absinthe
           quantity: 1
           unit: dash
-        - name: pineapple juice
+        - slug: pineapple juice
           quantity: 1
           unit: oz
-        - name: lime juice
+        - slug: lime juice
           quantity: .5
           unit: oz
-        - name: orgeat
+        - slug: orgeat
           quantity: .25
           unit: oz
-        - name: house peychauds bitters
+        - slug: house peychauds bitters
           quantity: 1
           unit: oz
       construction:

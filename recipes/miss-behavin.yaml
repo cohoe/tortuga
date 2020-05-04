@@ -7,23 +7,23 @@
     location: New York NY
     year: 2008
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: flute
       components:
-        - name: clear creek pear brandy
+        - slug: clear creek pear brandy
           quantity: .75
           unit: oz
-        - name: lairds bonded apple brandy
+        - slug: lairds bonded apple brandy
           quantity: .75
           unit: oz
-        - name: lemon juice
+        - slug: lemon juice
           quantity: .75
           unit: oz
-        - name: simple syrup
+        - slug: simple syrup
           quantity: 1
           unit: oz
-        - name: dry champagne
+        - slug: dry champagne
       construction:
         slug: stir
       instructions:

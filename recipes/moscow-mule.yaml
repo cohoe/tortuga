@@ -6,20 +6,20 @@
     location: Hollywood CA
     year: 1940
   specs:
-    - name: PDT
+    - slug: PDT
       glassware:
         - slug: mule
       origin:
         venue: Please Don't Tell
         location: New York NY
       components:
-        - name: fentimans ginger beer
+        - slug: fentimans ginger beer
           quantity: 4
           unit: oz
-        - name: smirnoff vodka
+        - slug: smirnoff vodka
           quantity: 1.5
           unit: oz
-        - name: lime juice
+        - slug: lime juice
           quantity: .5
           unit: oz
       construction:
@@ -38,23 +38,23 @@
           date: 2017-10-17
       notes:
         - text: this is a test note for a single spec
-    - name: Death & Co
+    - slug: Death & Co
       glassware:
         - slug: highball
       origin:
         venue: Death & Co
         location: New York NY
       components:
-        - name: charbay vodka
+        - slug: charbay vodka
           quantity: 2
           unit: oz
-        - name: lime juice
+        - slug: lime juice
           quantity: .5
           unit: oz
-        - name: ginger syrup
+        - slug: ginger syrup
           quantity: .75
           unit: oz
-        - name: club soda
+        - slug: club soda
       construction:
         slug: shake
       instructions:

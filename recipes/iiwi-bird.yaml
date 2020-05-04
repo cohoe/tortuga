@@ -6,20 +6,20 @@
     venue: Bar Mezzana
     location: Boston MA
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: coupe
       components:
-        - name: privateer tiki gin
+        - slug: privateer tiki gin
           quantity: 2
           unit: oz
-        - name: aperol
+        - slug: aperol
           quantity: .5
           unit: oz
-        - name: passion fruit syrup
+        - slug: passion fruit syrup
           quantity: .5
           unit: oz
-        - name: lime juice
+        - slug: lime juice
           quantity: .5
           unit: oz
       construction:

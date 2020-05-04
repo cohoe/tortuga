@@ -4,20 +4,20 @@
   origin:
     creator: Rick Dobbs
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: UNKNOWN
       components:
-        - name: olmeca altos reposado tequila
+        - slug: olmeca altos reposado tequila
           quantity: 2
           unit: oz
-        - name: giffard blue curacao
+        - slug: giffard blue curacao
           quantity: .5
           unit: oz
-        - name: lime juice
+        - slug: lime juice
           quantity: 1
           unit: oz
-        - name: prosecco
+        - slug: prosecco
       construction:
         slug: shake
       instructions:

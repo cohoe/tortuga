@@ -6,29 +6,29 @@
     venue: Field Guide
     location: Halifax NS
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: coupe
       components:
-        - name: blanco tequila
+        - slug: blanco tequila
           quantity: 1
           unit: oz
-        - name: dry vermouth
+        - slug: dry vermouth
           quantity: 1
           unit: oz
-        - name: mezcal
+        - slug: mezcal
           quantity: .5
           unit: oz
-        - name: bénédictine
+        - slug: bénédictine
           quantity: .5
           unit: oz
-        - name: yellow chartreuse
+        - slug: yellow chartreuse
           quantity: 1
           unit: tsp
-        - name: orange bitters
+        - slug: orange bitters
           quantity: 2
           unit: dash
-        - name: lime peel
+        - slug: lime peel
       construction:
         slug: stir
       instructions:

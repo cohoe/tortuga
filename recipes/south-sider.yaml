@@ -12,23 +12,23 @@
       The splash of champagne acts more like a garnish, lightening up the
       drink a little bit.
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: coupe
       components:
-        - name: el dorado 12-year rum
+        - slug: el dorado 12-year rum
           quantity: 2
           unit: oz
-        - name: carpano antica formula vermouth
+        - slug: carpano antica formula vermouth
           quantity: 1
           unit: oz
-        - name: angostura bitters
+        - slug: angostura bitters
           quantity: 1
           unit: dash
-        - name: house peychauds bitters
+        - slug: house peychauds bitters
           quantity: 1
           unit: dash
-        - name: dry champagne
+        - slug: dry champagne
           quantity: .5
           unit: oz
       construction:

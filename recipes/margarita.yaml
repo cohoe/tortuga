@@ -4,20 +4,20 @@
   origin:
     location: Mexico
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: rocks
       components:
-        - name: blanco tequila
+        - slug: blanco tequila
           quantity: 2
           unit: oz
-        - name: lime juice
+        - slug: lime juice
           quantity: 1.5
           unit: oz
-        - name: triple sec
+        - slug: triple sec
           quantity: .5
           unit: oz
-        - name: simple syrup
+        - slug: simple syrup
           quantity: .5
           unit: oz
       construction:

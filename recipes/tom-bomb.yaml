@@ -10,26 +10,26 @@
       This was my first Death & Co drink. It uses the popular tiki flavor
       combination of pineapple, lemon, and spice, the latter in Donn's Spices #2.
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: coupe
       components:
-        - name: ransom old tom gin
+        - slug: ransom old tom gin
           quantity: 1.5
           unit: oz
-        - name: "donn's spices #2"
+        - slug: "donn's spices #2"
           quantity: .25
           unit: oz
-        - name: lemon juice
+        - slug: lemon juice
           quantity: .5
           unit: oz
-        - name: pineapple juice
+        - slug: pineapple juice
           quantity: .5
           unit: oz
-        - name: orgeat
+        - slug: orgeat
           quantity: .25
           unit: oz
-        - name: acacia honey syrup
+        - slug: acacia honey syrup
           quantity: .25
           unit: oz
       construction:

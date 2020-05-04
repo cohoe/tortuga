@@ -6,23 +6,23 @@
     venue: The Hawthorne
     location: Boston MA
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: rocks
       components:
-        - name: plantation pineapple rum
+        - slug: plantation pineapple rum
           quantity: 2
           unit: oz
-        - name: demerara syrup
+        - slug: demerara syrup
           quantity: .25
           unit: oz
-        - name: galliano ristretto
+        - slug: galliano ristretto
           quantity: 1
           unit: tsp
-        - name: angostura bitters
+        - slug: angostura bitters
           quantity: 1
           unit: dash
-        - name: orange bitters
+        - slug: orange bitters
           quantity: 1
           unit: dash
       construction:

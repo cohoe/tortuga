@@ -6,23 +6,23 @@
     venue: Death & Co
     location: New York NY
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: rocks
       components:
-        - name: ron del barrilito 3-star rum
+        - slug: ron del barrilito 3-star rum
           quantity: 2
           unit: oz
-        - name: lairds bonded apple brandy
+        - slug: lairds bonded apple brandy
           quantity: .5
           unit: oz
-        - name: yellow chartreuse
+        - slug: yellow chartreuse
           quantity: .5
           unit: oz
-        - name: grenadine
+        - slug: grenadine
           quantity: 1
           unit: tsp
-        - name: house peychauds bitters
+        - slug: house peychauds bitters
           quantity: 1
           unit: dash
       construction:

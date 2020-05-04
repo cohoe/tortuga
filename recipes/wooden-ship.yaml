@@ -7,23 +7,23 @@
     location: New York NY
     year: 2011
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: rocks
       components:
-        - name: tanqueray no. ten gin
+        - slug: tanqueray no. ten gin
           quantity: 1
           unit: oz
-        - name: bols genever
+        - slug: bols genever
           quantity: 1
           unit: oz
-        - name: grand marnier
+        - slug: grand marnier
           quantity: .5
           unit: oz
-        - name: cane sugar syrup
+        - slug: cane sugar syrup
           quantity: .5
           unit: tsp
-        - name: fee brothers whiskey barrel-aged bitters
+        - slug: fee brothers whiskey barrel-aged bitters
           quantity: 1
           unit: dash
       construction:

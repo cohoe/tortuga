@@ -5,20 +5,20 @@
     venue: Dinky
     location: Princeton NJ
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: rocks
       components:
-        - name: skrewball peanut butter whiskey
+        - slug: skrewball peanut butter whiskey
           quantity: .75
           unit: oz
-        - name: rittenhouse-100-rye-whiskey
+        - slug: rittenhouse-100-rye-whiskey
           quantity: .75
           unit: oz
-        - name: st george raspberry liqueur
+        - slug: st george raspberry liqueur
           quantity: .5
           unit: oz
-        - name: angostura bitters
+        - slug: angostura bitters
           quantity: 4
           unit: dash
       construction:

@@ -5,20 +5,20 @@
     creator: Judge Jr
     year: 1927
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: coupe
       components:
-        - name: london dry gin
+        - slug: london dry gin
           quantity: 1
           unit: oz
-        - name: lemon juice
+        - slug: lemon juice
           quantity: .5
           unit: oz
-        - name: simple syrup
+        - slug: simple syrup
           quantity: .5
           unit: oz
-        - name: dry champagne
+        - slug: dry champagne
           quantity: 1
           unit: oz
       construction:
@@ -32,23 +32,23 @@
       citations:
         - title: PDT Cocktails
           href: https://mixologytech.com/pdt/index.html
-    - name: Punch Winner
+    - slug: Punch Winner
       origin:
         creator: Tim Miner
         venue: The Long Island Bar
       glassware:
         - slug: flute
       components:
-        - name: hine h vsop cognac
+        - slug: hine h vsop cognac
           quantity: 1
           unit: oz
-        - name: lemon juice
+        - slug: lemon juice
           quantity: .5
           unit: oz
-        - name: simple syrup
+        - slug: simple syrup
           quantity: .5
           unit: oz
-        - name: louis roederer champagne brut primier
+        - slug: louis roederer champagne brut primier
       construction:
         slug: shake
       instructions:
@@ -63,26 +63,26 @@
           href: https://punchdrink.com/recipes/tim-miners-french-75/
       notes:
         - text: this is quite good, despite having thrown most of it on the floor
-    - name: Punch Runnerup
+    - slug: Punch Runnerup
       origin:
         creator: Sarah Morrissey
         venue: Frenchette
       glassware:
         - slug: flute
       components:
-        - name: plymouth gin
+        - slug: plymouth gin
           quantity: 1.5
           unit: oz
-        - name: lemon juice
+        - slug: lemon juice
           quantity: 1
           unit: oz
-        - name: cane sugar syrup
+        - slug: cane sugar syrup
           quantity: .75
           unit: oz
-        - name: orange bitters
+        - slug: orange bitters
           quantity: 2
           unit: dash
-        - name: sparkling wine
+        - slug: sparkling wine
           quantity: 2
           unit: oz
       construction:

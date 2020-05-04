@@ -2,20 +2,20 @@
 - slug: last-word
   display_name: Last Word
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: coupe
       components:
-        - name: beefeater london dry gin
+        - slug: beefeater london dry gin
           quantity: .75
           unit: oz
-        - name: green chartreuse
+        - slug: green chartreuse
           quantity: .75
           unit: oz
-        - name: luxardo maraschino liqueur
+        - slug: luxardo maraschino liqueur
           quantity: .75
           unit: oz
-        - name: lime juice
+        - slug: lime juice
           quantity: .75
           unit: oz
       construction:

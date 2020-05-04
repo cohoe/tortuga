@@ -5,17 +5,17 @@
     venue: Tommy's Mexican Restaurant
     location: San Francisco CA
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: rocks
       components:
-        - name: L&J blanco tequila
+        - slug: L&J blanco tequila
           quantity: 2
           unit: oz
-        - name: lime juice
+        - slug: lime juice
           quantity: 1
           unit: oz
-        - name: agave syrup
+        - slug: agave syrup
           quantity: 1
           unit: oz
       construction:

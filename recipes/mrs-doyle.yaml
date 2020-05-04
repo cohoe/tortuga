@@ -6,20 +6,20 @@
     venue: Death & Co
     location: New York NY
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: coupe
       components:
-        - name: redbreast 12-year irish whiskey
+        - slug: redbreast 12-year irish whiskey
           quantity: 2
           unit: oz
-        - name: kronan swedish punsch
+        - slug: kronan swedish punsch
           quantity: .25
           unit: oz
-        - name: lemon juice
+        - slug: lemon juice
           quantity: .75
           unit: oz
-        - name: simple syrup
+        - slug: simple syrup
           quantity: .5
           unit: oz
       construction:

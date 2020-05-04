@@ -7,20 +7,20 @@
     location: New York NY
     year: 2008
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: coupe
       components:
-        - name: ron zacapa centenario 23 rum
+        - slug: ron zacapa centenario 23 rum
           quantity: 2
           unit: oz
-        - name: punt e mes
+        - slug: punt e mes
           quantity: .75
           unit: oz
-        - name: amaro averna
+        - slug: amaro averna
           quantity: .5
           unit: oz
-        - name: house orange bitters
+        - slug: house orange bitters
           quantity: 1
           unit: dash
       construction:

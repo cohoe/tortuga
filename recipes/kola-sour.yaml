@@ -6,25 +6,25 @@
     venue: Amor y Amargo
     location: New York NY
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: rocks
       components:
-        - name: banks 5 island rum
+        - slug: banks 5 island rum
           quantity: 1
           unit: oz
-        - name: amaro meletti
+        - slug: amaro meletti
           quantity: 1
           unit: oz
-        - name: orgeat
+        - slug: orgeat
           quantity: .5
           unit: oz
-        - name: lemon juice
+        - slug: lemon juice
           quantity: .75
           unit: oz
-        - name: egg white
+        - slug: egg white
           quantity: 1
-        - name: bittercube cherry bark & vanilla bitters
+        - slug: bittercube cherry bark & vanilla bitters
           quantity: 1
           unit: dash
       construction:

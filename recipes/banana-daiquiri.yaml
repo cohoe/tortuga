@@ -6,23 +6,23 @@
     venue: Death & Co
     location: New York NY
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: coupe
       components:
-        - name: giffard banane du bresil
+        - slug: giffard banane du bresil
           quantity: .75
           unit: oz
-        - name: Rum-Bar gold
+        - slug: Rum-Bar gold
           quantity: 1.75
           unit: oz
-        - name: Rum-Bar White Overproof
+        - slug: Rum-Bar White Overproof
           quantity: .25
           unit: oz
-        - name: lime juice
+        - slug: lime juice
           quantity: .75
           unit: oz
-        - name: simple syrup
+        - slug: simple syrup
           quantity: .25
           unit: oz
       construction:

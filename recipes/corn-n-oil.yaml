@@ -4,20 +4,20 @@
   origin:
     venue: Barbados
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: rocks
       components:
-        - name: cruzan black strap rum
+        - slug: cruzan black strap rum
           quantity: 2
           unit: oz
-        - name: john d taylors velvet falernum
+        - slug: john d taylors velvet falernum
           quantity: .5
           unit: oz
-        - name: lime juice
+        - slug: lime juice
           quantity: .5
           unit: oz
-        - name: angostura bitters
+        - slug: angostura bitters
           quantity: 3
           unit: dash
       construction:

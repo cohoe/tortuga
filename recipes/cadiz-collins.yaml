@@ -6,28 +6,28 @@
     venue: Death & Co
     location: New York NY
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: highball
       components:
-        - name: orange wheel
+        - slug: orange wheel
           quantity: 1
-        - name: fee brothers whiskey barrel-aged bitters
+        - slug: fee brothers whiskey barrel-aged bitters
           quantity: 3
           unit: dash
-        - name: plymouth gin
+        - slug: plymouth gin
           quantity: 2
           unit: oz
-        - name: lustau amontillado sherry
+        - slug: lustau amontillado sherry
           quantity: .75
           unit: oz
-        - name: lemon juice
+        - slug: lemon juice
           quantity: .5
           unit: oz
-        - name: demerara syrup
+        - slug: demerara syrup
           quantity: .5
           unit: oz
-        - name: club soda
+        - slug: club soda
       construction:
         slug: shake
       instructions:

@@ -13,23 +13,23 @@
       first guest to request a sherry drink at Berry's famed New Orleans
       tiki bar, Latitude 29.
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: coupe
       components:
-        - name: amontillado sherry
+        - slug: amontillado sherry
           quantity: 1.5
           unit: oz
-        - name: pineapple juice
+        - slug: pineapple juice
           quantity: .75
           unit: oz
-        - name: sweet vermouth
+        - slug: sweet vermouth
           quantity: .75
           unit: oz
-        - name: sabra
+        - slug: sabra
           quantity: .75
           unit: oz
-        - name: angostura bitters
+        - slug: angostura bitters
           quantity: 1
           unit: dash
       construction:

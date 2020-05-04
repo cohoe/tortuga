@@ -10,23 +10,23 @@
       The venerable British bartender Angus Winchester came in one night
       and asked me to make him a three-rum daiquiri. This is the result.
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: coupe
       components:
-        - name: appleton signature rum
+        - slug: appleton signature rum
           quantity: .75
           unit: oz
-        - name: ron del barrilito 3-star rum
+        - slug: ron del barrilito 3-star rum
           quantity: .75
           unit: oz
-        - name: la favorite rhum agricole blanc
+        - slug: la favorite rhum agricole blanc
           quantity: .5
           unit: oz
-        - name: lime juice
+        - slug: lime juice
           quantity: .75
           unit: oz
-        - name: cane sugar syrup
+        - slug: cane sugar syrup
           quantity: .5
           unit: oz
       construction:

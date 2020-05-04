@@ -4,23 +4,23 @@
   origin:
     creator: Sother Teague
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: mug
       components:
-        - name: apple brandy
+        - slug: apple brandy
           quantity: 1.5
           unit: oz
-        - name: hot apple cider
+        - slug: hot apple cider
           quantity: 1
           unit: oz
-        - name: cinnamon syrup
+        - slug: cinnamon syrup
           quantity: .5
           unit: oz
-        - name: lemon juice
+        - slug: lemon juice
           quantity: .25
           unit: oz
-        - name: bar keep apple bitters
+        - slug: bar keep apple bitters
           quantity: 2
           unit: dash
       construction:

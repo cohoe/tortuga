@@ -2,20 +2,20 @@
 - slug: airmail
   display_name: Airmail
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: flute
       components:
-        - name: ron del barrilito 3-star rum
+        - slug: ron del barrilito 3-star rum
           quantity: 1
           unit: oz
-        - name: lime juice
+        - slug: lime juice
           quantity: .5
           unit: oz
-        - name: acacia honey syrup
+        - slug: acacia honey syrup
           quantity: .5
           unit: oz
-        - name: dry champagne
+        - slug: dry champagne
       construction:
         slug: shake
       instructions:

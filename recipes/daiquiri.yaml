@@ -4,17 +4,17 @@
   origin:
     location: Cuba
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: coupe
       components:
-        - name: lightly aged column still rum
+        - slug: lightly aged column still rum
           quantity: 2
           unit: oz
-        - name: lime juice
+        - slug: lime juice
           quantity: 1
           unit: oz
-        - name: simple syrup
+        - slug: simple syrup
           quantity: 1
           unit: oz
       construction:

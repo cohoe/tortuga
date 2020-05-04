@@ -6,17 +6,17 @@
     venue: Amor y Amargo
     location: New York NY
   specs:
-    - name: original
+    - slug: original
       glassware:
         - slug: highball
       components:
-        - name: cinnamon syrup
+        - slug: cinnamon syrup
           quantity: .5
           unit: oz
-        - name: bourbon whiskey
+        - slug: bourbon whiskey
           quantity: 2
           unit: oz
-        - name: hard cider
+        - slug: hard cider
           quantity: 4
           unit: oz
       construction:
