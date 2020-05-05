@@ -15,8 +15,7 @@
       display_name: Lemon Hart Original Rum
       quantity: 0.75
       unit: ounce
-    - slug: appleton-estate-v-x-rum
-      display_name: Appleton Estate V X Rum
+    - slug: appleton-signature-rum
       quantity: 0.5
       unit: ounce
     - slug: velvet-falernum

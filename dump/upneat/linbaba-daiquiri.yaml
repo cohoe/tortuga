@@ -17,8 +17,7 @@
       display_name: Scarlet Ibis Rum
       quantity: 1.5
       unit: ounces
-    - slug: appleton-estate-v-x-rum
-      display_name: Appleton Estate V X Rum
+    - slug: appleton-signature-rum
       quantity: 0.5
       unit: ounce
     - slug: lime-juice

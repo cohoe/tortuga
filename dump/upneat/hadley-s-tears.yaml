@@ -13,8 +13,7 @@
       slug: stir
       display_name: Stir
     components:
-    - slug: appleton-estate-v-x-rum
-      display_name: Appleton Estate V X Rum
+    - slug: appleton-signature-rum
       quantity: 1
       unit: ounce
     - slug: bols-genever

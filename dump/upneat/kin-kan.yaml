@@ -12,11 +12,8 @@
       slug: shake
       display_name: Shake
     components:
-    - slug: germain
-      display_name: Germain
-      quantity: St
-    - slug: beefeater-gin
-      display_name: Beefeater Gin
+    - slug: st-germain
+    - slug: beefeater-london-dry-gin
       quantity: 1.5
       unit: oz
     - slug: kumquat-cordial

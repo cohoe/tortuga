@@ -12,8 +12,7 @@
       slug: shake
       display_name: Shake
     components:
-    - slug: beefeater-gin
-      display_name: Beefeater Gin
+    - slug: beefeater-london-dry-gin
       quantity: 0.75
       unit: oz
     - slug: aperol

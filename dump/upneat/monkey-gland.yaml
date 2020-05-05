@@ -13,10 +13,9 @@
       slug: unknown
       display_name: Unknown
     components:
-    - slug: splash-of-ricard
-      display_name: Splash Of Ricard
-    - slug: beefeater-gin
-      display_name: Beefeater Gin
+    - slug: ricard-pastis
+      quantity: splash
+    - slug: beefeater-london-dry-gin
       quantity: 2
       unit: ounces
     - slug: orange-juice

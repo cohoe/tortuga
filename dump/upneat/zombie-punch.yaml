@@ -7,8 +7,7 @@
       slug: shake
       display_name: Shake
     components:
-    - slug: appleton-estate-v-x-rum
-      display_name: Appleton Estate V X Rum
+    - slug: appleton-signature-rum
       quantity: 1.5
       unit: ounces
     - slug: ron-del-barrilito-3-star-rum

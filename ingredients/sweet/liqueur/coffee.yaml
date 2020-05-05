@@ -17,3 +17,6 @@
   parent: coffee-liqueur
   slug: kahlua
   kind: product
+  aliases:
+    - Kahlua
+    - Kahlaoa

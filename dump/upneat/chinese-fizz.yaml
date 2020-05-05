@@ -13,8 +13,7 @@
       slug: shake
       display_name: Shake
     components:
-    - slug: appleton-estate-v-x-rum
-      display_name: Appleton Estate V X Rum
+    - slug: appleton-signature-rum
       quantity: 2
       unit: ounces
     - slug: cointreau

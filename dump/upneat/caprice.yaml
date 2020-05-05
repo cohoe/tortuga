@@ -13,8 +13,7 @@
       slug: stir
       display_name: Stir
     components:
-    - slug: beefeater-gin
-      display_name: Beefeater Gin
+    - slug: beefeater-london-dry-gin
       quantity: 1.5
       unit: oz
     - slug: dolin-dry-vermouth
