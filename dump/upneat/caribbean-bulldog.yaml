@@ -10,12 +10,10 @@
       slug: unknown
       display_name: Unknown
     components:
-    - slug: kahlaoa
-      display_name: Kahlaoa
+    - slug: kahlua
       quantity: 1
       unit: ounce
-    - slug: caribbean-cream
-      display_name: Caribbean Cream
+    - slug: coconut-cream
       quantity: 1
       unit: ounce
     - slug: half-and-half

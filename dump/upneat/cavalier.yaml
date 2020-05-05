@@ -13,8 +13,7 @@
       slug: shake
       display_name: Shake
     components:
-    - slug: hine-v-s-o-p-cognac
-      display_name: Hine V S O P Cognac
+    - slug: hine-h-vsop-cognac
       quantity: 2
       unit: oz
     - slug: lemon-juice

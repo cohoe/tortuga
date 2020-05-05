@@ -18,8 +18,8 @@
       display_name: Lemon
       quantity: 1
       unit: wedge
-    - slug: 1-wedge-pineapple
-      display_name: 1 Wedge Pineapple
+    - slug: pineapple-wedge
+      quantity: 1
     - slug: maraschino-liqueur
       display_name: Maraschino Liqueur
       quantity: 0.75

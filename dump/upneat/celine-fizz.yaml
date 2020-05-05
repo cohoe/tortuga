@@ -29,10 +29,8 @@
       display_name: Simple Syrup
       quantity: 0.75
       unit: ounce
-    - slug: white
-      display_name: White
+    - slug: egg-white
       quantity: 1
-      unit: Egg
     - slug: club-soda
       display_name: Club Soda
     straw: false

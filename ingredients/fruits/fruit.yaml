@@ -149,6 +149,11 @@
   slug: pineapple
   kind: ingredient
 
+- display_name: Pineapple Wedge
+  parent: pineapple
+  slug: pineapple-wedge
+  kind: ingredient
+
 - display_name: Prickly Pear
   parent: fruit
   slug: prickly-pear

@@ -19,8 +19,7 @@
       display_name: Wild Turkey Rye Whiskey
       quantity: 1.25
       unit: oz
-    - slug: hine-v-s-o-p-cognac
-      display_name: Hine V S O P Cognac
+    - slug: hine-h-vsop-cognac
       quantity: 0.75
       unit: oz
     - slug: benedictine

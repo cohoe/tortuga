@@ -15,8 +15,7 @@
       slug: unknown
       display_name: Unknown
     components:
-    - slug: hine-v-s-o-p-cognac
-      display_name: Hine V S O P Cognac
+    - slug: hine-h-vsop-cognac
       quantity: 1.5
       unit: oz
     - slug: house-ginger-beer

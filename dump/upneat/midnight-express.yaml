@@ -16,8 +16,7 @@
       display_name: Freshly Brewed Coffee
       quantity: 3
       unit: oz
-    - slug: walnut-infused-hine-v-s-o-p-cognac
-      display_name: Walnut Infused Hine V S O P Cognac
+    - slug: walnut-infused-hine-vsop-cognac
       quantity: 1.5
       unit: oz
     - slug: luxardo-amaretto
