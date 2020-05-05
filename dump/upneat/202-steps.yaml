@@ -13,8 +13,10 @@
       slug: shake
       display_name: Shake
     components:
-    - slug: quarter-peeled-tangerine
-      display_name: Quarter Peeled Tangerine
+    - slug: tangerine
+      quantity: .25
+      notes:
+        - text: peeled
     - slug: bakers-bourbon
       display_name: Bakers Bourbon
       quantity: 2

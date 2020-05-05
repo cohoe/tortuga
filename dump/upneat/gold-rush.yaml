@@ -15,8 +15,7 @@
       slug: shake
       display_name: Shake
     components:
-    - slug: elijah-craig-12-year-old-bourbon-whiskey
-      display_name: Elijah Craig 12 Year Old Bourbon Whiskey
+    - slug: elijah-craig-12-year-bourbon
       quantity: 2
       unit: oz
     - slug: honey-syrup

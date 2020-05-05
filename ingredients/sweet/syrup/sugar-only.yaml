@@ -23,6 +23,14 @@
   slug: martinique-cane-sugar-syrup
   kind: ingredient
 
+- display_name: Rich Cane Sugar Syrup
+  parent: syrup
+  slug: rich-cane-sugar-syrup
+  kind: ingredient
+  aliases:
+    - "2:1 Cane Syrup"
+    - Rich Cane Syrup
+
 - display_name: Maple Syrup
   parent: syrup
   slug: maple-syrup

@@ -14,8 +14,7 @@
       display_name: Citrus Vodka
       quantity: 2
       unit: ounces
-    - slug: pernod
-      display_name: Pernod
+    - slug: pernod-fils-absinthe
       quantity: 3
       unit: dashes
     straw: false

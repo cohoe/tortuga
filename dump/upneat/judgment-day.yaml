@@ -13,8 +13,7 @@
       slug: shake
       display_name: Shake
     components:
-    - slug: pernod-absinthe
-      display_name: Pernod Absinthe
+    - slug: pernod-fils-absinthe
     - slug: macchu-pisco
       display_name: Macchu Pisco
       quantity: 1.5

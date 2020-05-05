@@ -10,8 +10,7 @@
       slug: stir
       display_name: Stir
     components:
-    - slug: van-oosten-batavia-arrack
-      display_name: Van Oosten Batavia Arrack
+    - slug: batavia-arrack-van-oosten
       quantity: 2
       unit: ounces
     - slug: cinnamon-orange-tea-infused-sweet-vermouth

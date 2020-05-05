@@ -32,8 +32,7 @@
       display_name: Simple Syrup
       quantity: 0.5
       unit: oz
-    - slug: van-oosten-batavia-arrack
-      display_name: Van Oosten Batavia Arrack
+    - slug: batavia-arrack-van-oosten
       quantity: 0.25
       unit: oz
     straw: false

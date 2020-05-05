@@ -9,8 +9,7 @@
       slug: unknown
       display_name: Unknown
     components:
-    - slug: pernod
-      display_name: Pernod
+    - slug: pernod-fils-absinthe
     - slug: gin
       display_name: Gin
       quantity: 2.5

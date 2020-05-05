@@ -16,8 +16,7 @@
       display_name: Suntory Royal Japanese Whisky
       quantity: 2.5
       unit: ounces
-    - slug: pernod
-      display_name: Pernod
+    - slug: pernod-fils-absinthe
       quantity: 0.25
       unit: ounce
     - slug: sweet-vermouth

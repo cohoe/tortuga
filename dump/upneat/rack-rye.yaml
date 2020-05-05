@@ -19,8 +19,7 @@
       display_name: Wild Turkey Russells Reserve 6 Year Old Rye Whiskey
       quantity: 1.5
       unit: oz
-    - slug: van-oosten-batavia-arrack
-      display_name: Van Oosten Batavia Arrack
+    - slug: batavia-arrack-van-oosten
       quantity: 0.75
       unit: oz
     - slug: demerara-syrup

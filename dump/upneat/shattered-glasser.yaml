@@ -22,8 +22,7 @@
       display_name: Carpano Antica Formula Vermouth
       quantity: 0.75
       unit: ounce
-    - slug: van-oosten-batavia-arrack
-      display_name: Van Oosten Batavia Arrack
+    - slug: batavia-arrack-van-oosten
       quantity: 0.5
       unit: ounce
     - slug: st-elizabeth-allspice-dram

@@ -13,8 +13,7 @@
       slug: shake
       display_name: Shake
     components:
-    - slug: van-oosten-batavia-arrack
-      display_name: Van Oosten Batavia Arrack
+    - slug: batavia-arrack-van-oosten
       quantity: 1
       unit: ounce
     - slug: scarlet-ibis-rum

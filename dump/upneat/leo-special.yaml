@@ -22,10 +22,12 @@
       display_name: Lime Juice
       quantity: 0.75
       unit: ounce
-    - slug: dash-pernod
-      display_name: Dash Pernod
-    - slug: dash-green-cra-me-de-menthe
-      display_name: Dash Green Cra Me De Menthe
+    - slug: pernod-fils-absinthe
+      quantity: 1
+      unit: dash
+    - slug: green-creme-de-menthe
+      quantity: 1
+      unit: dash
     straw: false
     instructions:
     - text: Shake well with ice and strain into a chilled cocktail glass

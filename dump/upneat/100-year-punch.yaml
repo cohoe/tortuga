@@ -16,8 +16,7 @@
       slug: unknown
       display_name: Unknown
     components:
-    - slug: elijah-craig-12-year-old-bourbon-whiskey
-      display_name: Elijah Craig 12 Year Old Bourbon Whiskey
+    - slug: elijah-craig-12-year-bourbon
       quantity: 1
       unit: oz
     - slug: bek-se-ju-100-year-wine

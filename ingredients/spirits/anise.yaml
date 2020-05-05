@@ -18,6 +18,8 @@
   parent: absinthe
   slug: pernod-fils-absinthe
   kind: product
+  aliases:
+    - Pernod
 
 - display_name: St. George Absinthe
   parent: absinthe

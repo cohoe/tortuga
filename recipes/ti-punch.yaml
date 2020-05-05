@@ -14,7 +14,7 @@
           unit: oz
         - slug: lime
           quantity: .5
-        - slug: cane sugar syrup
+        - slug: rich-cane-sugar-syrup
           quantity: 1
           unit: tsp
       construction:
