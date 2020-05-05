@@ -14,8 +14,8 @@
       slug: unknown
       display_name: Unknown
     components:
-    - slug: 0-5-lime
-      display_name: 0 5 Lime
+    - slug: lime
+      quantity: .5
     - slug: brown-sugar-syrup
       display_name: Brown Sugar Syrup
       quantity: 0.75

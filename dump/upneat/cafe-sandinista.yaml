@@ -15,8 +15,7 @@
       slug: shake
       display_name: Shake
     components:
-    - slug: lustau-east-india-solera-sherry
-      display_name: Lustau East India Solera Sherry
+    - slug: lustau-east-india-sherry
       quantity: 1
       unit: ounce
     - slug: coffee-and-chile-infused-campari
@@ -35,8 +34,9 @@
       display_name: Rich Demerara Syrup
       quantity: 0.5
       unit: ounce
-    - slug: small-pinch-of-kosher-salt
-      display_name: Small Pinch Of Kosher Salt
+    - slug: kosher-salt
+      quantity: 1
+      unit: pinch
     garnish:
     - slug: coffee-bean
       display_name: Coffee Bean

@@ -10,10 +10,10 @@
       slug: unknown
       display_name: Unknown
     components:
-    - slug: 0-5-lime
-      display_name: 0 5 Lime
-    - slug: grapes
-      display_name: Grapes
+    - slug: lime
+      quantity: .5
+    - slug: grape
+      display_name: Grape
       quantity: 4
       unit: Green
     - slug: brown-sugar-syrup

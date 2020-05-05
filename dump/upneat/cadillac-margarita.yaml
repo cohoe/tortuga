@@ -10,9 +10,10 @@
       slug: shake
       display_name: Shake
     components:
-    - slug: 100-blue-agave-tequila
-      display_name: 100 Blue Agave Tequila
+    - slug: blanco-tequila
       quantity: 1.5
+      notes:
+        - text: calls for "100 blue agave tequila" which is nonspecific
       unit: ounces
     - slug: grand-marnier
       display_name: Grand Marnier

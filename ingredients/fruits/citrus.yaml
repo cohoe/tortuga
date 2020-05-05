@@ -34,6 +34,11 @@
   slug: orange-wheel
   kind: ingredient
 
+- display_name: Orange Crescent
+  parent: orange
+  slug: orange-crescent
+  kind: ingredient
+
 - display_name: Blood Orange
   parent: orange
   slug: blood-orange
