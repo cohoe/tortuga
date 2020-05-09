@@ -1,0 +1,39 @@
+---
+- slug: kington-negroni
+  display_name: Kingston Negroni
+  origin:
+    creator: Joaquín Simó
+  specs:
+    - slug: improved
+      display_name: Improved
+      origin:
+        creator: Sother Teague
+      glassware:
+        - slug: rocks
+      components:
+        - slug: real-mccoy-12-year-rum
+          quantity: 1.5
+          unit: oz
+        - slug: zucca-rabarbaro
+          quantity: .75
+          unit: oz
+        - slug: pune-e-mes
+          quantity: .75
+          unit: oz
+        - slug: tiki-bitters
+          quantity: 2
+          unit: dash
+      construction:
+        slug: stir
+      instructions:
+        - text: stir all the ingredients over ice, then strain into a rocks glass
+      garnish:
+        - slug: orange twist
+      straw: false
+      citations:
+        - title: Direct
+          author:
+            - Grant Cohoe
+          date: 2020-05-07
+          notes:
+            - text: via Instagram with @creativedrunk

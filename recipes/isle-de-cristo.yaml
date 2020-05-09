@@ -1,0 +1,47 @@
+---
+- slug: isle-de-cristo
+  display_name: Isle de Cristo
+  origin:
+    creator: Morgan Young
+    venue: The Mad Priest
+    location: Chattanooga TN
+    story: >-
+      The idea behind The Mad Priest’s spirit-forward cocktail was to create a 
+      template that transitions seamlessly into warm days. Built on a base of 
+      reposado tequila and lifted with a quartet of modifiers, the result is 
+      slightly saline, bitter and sweet.
+  specs:
+    - slug: original
+      glassware:
+        - slug: rocks
+      components:
+        - slug: patron-reposado-tequila
+          quantity: 1.5
+          unit: oz
+        - slug: rothman-winter-peach-liqueur
+          quantity: .5
+          unit: oz
+        - slug: licor-43
+          quantity: .25
+          unit: oz
+        - slug: saline
+          quantity: 4
+          unit: drop
+        - slug: bittermens elemakule tiki bitters
+          quantity: 2
+          unit: dropper
+      construction:
+        slug: stir
+      instructions:
+        - text: add ingredients to mixing glass and stir for 30 seconds
+        - text: strain into a chilled coupe or over a large-cut rock in a small old-fashioned glass
+      straw: false
+      notes:
+        - text: "4:1 saline 80g water, 20g salt"
+      citations:
+        - title: "Tip Your Bartender: The Mad Priest Chattanooga"
+          author:
+            - Punch
+          date: 2020-04-08
+          publisher: PUNCH
+          href: https://punchdrink.com/articles/tip-your-bartender-the-mad-priest-chattanooga/
