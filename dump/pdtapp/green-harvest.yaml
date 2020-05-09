@@ -6,7 +6,9 @@
     display_name: PDT
     origin:
       year: 2009
-    glassware: []
+    glassware:
+    - slug: fizz
+      display_name: Fizz
     construction:
       slug: stir
       display_name: Stir
@@ -37,20 +39,20 @@
     notes:
     - text: Jim Meehan, Fall 2009
       author:
-      datetime: '2020-05-09T03:24:56.142168'
+      datetime: '2020-05-09T03:34:16.469659'
     - text: In viticultural terms, “green harvesting” is the pruning of immature grape
         clusters that allows the remaining fruit on the vine to ripen with a greater
         concentration of flavor.
       author:
-      datetime: '2020-05-09T03:24:56.142173'
+      datetime: '2020-05-09T03:34:16.469677'
     instructions:
     - text: Muddle the grapes, then add remaining ingredients
       author:
-      datetime: '2020-05-09T03:24:56.142177'
+      datetime: '2020-05-09T03:34:16.469680'
     - text: Stir with ice, then fine-strain into a chilled fizz glass filled with
         ice cubes
       author:
-      datetime: '2020-05-09T03:24:56.142179'
+      datetime: '2020-05-09T03:34:16.469682'
     images: []
   spec_count: 1
   citations: []

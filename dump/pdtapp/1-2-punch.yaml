@@ -6,7 +6,9 @@
     display_name: PDT
     origin:
       year: 2013
-    glassware: []
+    glassware:
+    - slug: pilsner
+      display_name: Pilsner
     construction:
       slug: stir
       display_name: Stir
@@ -37,19 +39,19 @@
     notes:
     - text: Jeff Bell, Summer 2013
       author:
-      datetime: '2020-05-09T03:24:56.169955'
+      datetime: '2020-05-09T03:34:16.499776'
     - text: The jab and cross are the classic combo in the boxing ring. In the barroom,
         Scotch and beer reign supreme.
       author:
-      datetime: '2020-05-09T03:24:56.169960'
+      datetime: '2020-05-09T03:34:16.499780'
     instructions:
     - text: Stir with ice, then strain into a chilled pilsner glass filled with ice
         cubes
       author:
-      datetime: '2020-05-09T03:24:56.169964'
+      datetime: '2020-05-09T03:34:16.499783'
     - text: Top with 3 oz Victory Prima Pilsner
       author:
-      datetime: '2020-05-09T03:24:56.169966'
+      datetime: '2020-05-09T03:34:16.499785'
     images: []
   spec_count: 1
   citations: []

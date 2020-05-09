@@ -6,7 +6,9 @@
     display_name: PDT
     origin:
       year: 2008
-    glassware: []
+    glassware:
+    - slug: rocks
+      display_name: Rocks
     construction:
       slug: stir
       display_name: Stir
@@ -37,16 +39,16 @@
     notes:
     - text: Lydia Reissmueller, Fall 2008
       author:
-      datetime: '2020-05-09T03:24:56.143824'
+      datetime: '2020-05-09T03:34:16.471547'
     - text: Lydia created this cocktail with the help of chef Joshua McFadden, who
         took a job in Maine before we put it on the menu.
       author:
-      datetime: '2020-05-09T03:24:56.143829'
+      datetime: '2020-05-09T03:34:16.471552'
     instructions:
     - text: Stir with ice, then strain over one large ice cube into a chilled rocks
         glass
       author:
-      datetime: '2020-05-09T03:24:56.143832'
+      datetime: '2020-05-09T03:34:16.471555'
     images: []
   spec_count: 1
   citations: []

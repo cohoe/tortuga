@@ -6,7 +6,9 @@
     display_name: PDT
     origin:
       year: 1989
-    glassware: []
+    glassware:
+    - slug: rocks
+      display_name: Rocks
     construction:
       slug: shake
       display_name: Shake
@@ -30,21 +32,21 @@
     notes:
     - text: Charles Schumann, Tropical Bar Book, 1989
       author:
-      datetime: '2020-05-09T03:24:56.240653'
+      datetime: '2020-05-09T03:34:16.566836'
     - text: According to cocktail historians Jared Brown and Anistatia Miller, caipirinha
         is the Brazilian term for “country bumpkin.”
       author:
-      datetime: '2020-05-09T03:24:56.240658'
+      datetime: '2020-05-09T03:34:16.566840'
     instructions:
     - text: Muddle the lime and sugar, then add the cachaça
       author:
-      datetime: '2020-05-09T03:24:56.240662'
+      datetime: '2020-05-09T03:34:16.566843'
     - text: Shake with ice and pour unstrained into a chilled rocks glass
       author:
-      datetime: '2020-05-09T03:24:56.240664'
+      datetime: '2020-05-09T03:34:16.566846'
     - text: (No garnish)
       author:
-      datetime: '2020-05-09T03:24:56.240666'
+      datetime: '2020-05-09T03:34:16.566848'
     images: []
   spec_count: 1
   citations: []

@@ -6,7 +6,9 @@
     display_name: PDT
     origin:
       year: 2008
-    glassware: []
+    glassware:
+    - slug: rocks
+      display_name: Rocks
     construction:
       slug: shake
       display_name: Shake
@@ -45,19 +47,19 @@
     notes:
     - text: Daniel Eun, Summer 2008
       author:
-      datetime: '2020-05-09T03:24:56.232598'
+      datetime: '2020-05-09T03:34:16.558515'
     - text: Daniel ended up with more blackberries on his chin than in his mouth during
         recipe testing, so we called his drink the Blackbeard.
       author:
-      datetime: '2020-05-09T03:24:56.232602'
+      datetime: '2020-05-09T03:34:16.558519'
     instructions:
     - text: Muddle the berries and syrup in a mixing tin, then add remaining ingredients
       author:
-      datetime: '2020-05-09T03:24:56.232607'
+      datetime: '2020-05-09T03:34:16.558523'
     - text: Dry-shake and pour unstrained into a chilled rocks glass filled with pebble
         ice
       author:
-      datetime: '2020-05-09T03:24:56.232609'
+      datetime: '2020-05-09T03:34:16.558527'
     images: []
   spec_count: 1
   citations: []

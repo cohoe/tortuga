@@ -6,7 +6,9 @@
     display_name: PDT
     origin:
       year: 2007
-    glassware: []
+    glassware:
+    - slug: mixing
+      display_name: Mixing
     construction:
       slug: stir
       display_name: Stir
@@ -42,23 +44,23 @@
     notes:
     - text: Jim Meehan, Fall 2007
       author:
-      datetime: '2020-05-09T03:24:56.239167'
+      datetime: '2020-05-09T03:34:16.565142'
     - text: 'Whenever we incorporate Strega into a recipe, the cocktail’s name is
         likely to feature the English translation: witch.'
       author:
-      datetime: '2020-05-09T03:24:56.239171'
+      datetime: '2020-05-09T03:34:16.565146'
     instructions:
     - text: In a mixing glass muddle the bitters and sugar cube, then add remaining
         ingredients
       author:
-      datetime: '2020-05-09T03:24:56.239175'
+      datetime: '2020-05-09T03:34:16.565150'
     - text: Stir with ice, then strain into a chilled rocks glass and pinch an orange
         peel over the surface
       author:
-      datetime: '2020-05-09T03:24:56.239177'
+      datetime: '2020-05-09T03:34:16.565152'
     - text: (No garnish)
       author:
-      datetime: '2020-05-09T03:24:56.239180'
+      datetime: '2020-05-09T03:34:16.565154'
     images: []
   spec_count: 1
   citations: []

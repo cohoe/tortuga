@@ -6,7 +6,9 @@
     display_name: PDT
     origin:
       year: 2009
-    glassware: []
+    glassware:
+    - slug: mixing
+      display_name: Mixing
     construction:
       slug: stir
       display_name: Stir
@@ -32,20 +34,20 @@
     notes:
     - text: Jim Meehan, Winter 2009
       author:
-      datetime: '2020-05-09T03:24:56.170707'
+      datetime: '2020-05-09T03:34:16.500636'
     - text: Jim created this old-fashioned featuring classic Swedish ingredients after
         visiting the Bjäre Peninsula in southern Sweden, where the potatoes used to
         make Karlsson’s vodka are grown.
       author:
-      datetime: '2020-05-09T03:24:56.170711'
+      datetime: '2020-05-09T03:34:16.500641'
     instructions:
     - text: In a mixing glass, muddle the dill and Flaggpunsch, then add vodka
       author:
-      datetime: '2020-05-09T03:24:56.170715'
+      datetime: '2020-05-09T03:34:16.500644'
     - text: Stir with ice, then fine-strain over one large ice cube in a chilled rocks
         glass
       author:
-      datetime: '2020-05-09T03:24:56.170717'
+      datetime: '2020-05-09T03:34:16.500646'
     images: []
   spec_count: 1
   citations: []

@@ -6,7 +6,9 @@
     display_name: PDT
     origin:
       year: 2010
-    glassware: []
+    glassware:
+    - slug: rocks
+      display_name: Rocks
     construction:
       slug: stir
       display_name: Stir
@@ -32,17 +34,17 @@
     notes:
     - text: Jim Meehan, Summer 2010
       author:
-      datetime: '2020-05-09T03:24:56.192979'
+      datetime: '2020-05-09T03:34:16.516086'
     - text: Inspired by the classic dessert, this cocktail was first served at the
         StarChefs.com International Chef’s Congress, held at the Seventh Regiment
         Armory on New York City’s Park Avenue.
       author:
-      datetime: '2020-05-09T03:24:56.192990'
+      datetime: '2020-05-09T03:34:16.516091'
     instructions:
     - text: Stir with ice, then strain over one large ice cube in a chilled rocks
         glass
       author:
-      datetime: '2020-05-09T03:24:56.192994'
+      datetime: '2020-05-09T03:34:16.516094'
     images: []
   spec_count: 1
   citations: []

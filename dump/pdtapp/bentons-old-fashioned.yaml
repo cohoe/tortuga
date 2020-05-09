@@ -6,7 +6,9 @@
     display_name: PDT
     origin:
       year: 2007
-    glassware: []
+    glassware:
+    - slug: rocks
+      display_name: Rocks
     construction:
       slug: stir
       display_name: Stir
@@ -32,16 +34,16 @@
     notes:
     - text: Don Lee, Winter 2007
       author:
-      datetime: '2020-05-09T03:24:56.179734'
+      datetime: '2020-05-09T03:34:16.502942'
     - text: 'The crossroad of haute barnyard and barroom: Don combined the countries
         best bacon (Benton’s) with one Kentucky’s finest bourbons (Four Roses).'
       author:
-      datetime: '2020-05-09T03:24:56.179739'
+      datetime: '2020-05-09T03:34:16.502946'
     instructions:
     - text: Stir with ice, then strain into a chilled rocks glass filled with one
         large ice cube
       author:
-      datetime: '2020-05-09T03:24:56.179744'
+      datetime: '2020-05-09T03:34:16.502949'
     images: []
   spec_count: 1
   citations: []

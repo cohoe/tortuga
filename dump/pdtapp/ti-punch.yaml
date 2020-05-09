@@ -6,7 +6,9 @@
     display_name: PDT
     origin:
       year: 1997
-    glassware: []
+    glassware:
+    - slug: rocks
+      display_name: Rocks
     construction:
       slug: unknown
       display_name: Unknown
@@ -33,22 +35,22 @@
     notes:
     - text: Ed Hamilton, Rums of the Eastern Caribbean, 1997
       author:
-      datetime: '2020-05-09T03:24:56.195121'
+      datetime: '2020-05-09T03:34:16.518499'
     - text: Ed Hamilton, who exports rhum from Martinique, is largely responsible
         for importing this Caribbean classic to the United States.
       author:
-      datetime: '2020-05-09T03:24:56.195125'
+      datetime: '2020-05-09T03:34:16.518503'
     instructions:
     - text: Squeeze the lime disc on both sides (to express the oil from the peel
         and juice from the flesh) into a chilled rocks glass
       author:
-      datetime: '2020-05-09T03:24:56.195129'
+      datetime: '2020-05-09T03:34:16.518507'
     - text: Add remaining ingredients and top with pebble ice
       author:
-      datetime: '2020-05-09T03:24:56.195131'
+      datetime: '2020-05-09T03:34:16.519218'
     - text: Swizzle, then top with more pebble ice and swizzle again
       author:
-      datetime: '2020-05-09T03:24:56.195133'
+      datetime: '2020-05-09T03:34:16.519222'
     images: []
   spec_count: 1
   citations: []

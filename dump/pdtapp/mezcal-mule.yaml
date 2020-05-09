@@ -6,7 +6,9 @@
     display_name: PDT
     origin:
       year: 2009
-    glassware: []
+    glassware:
+    - slug: rocks
+      display_name: Rocks
     construction:
       slug: shake
       display_name: Shake
@@ -47,18 +49,18 @@
     notes:
     - text: Jim Meehan, Winter 2009
       author:
-      datetime: '2020-05-09T03:24:56.146418'
+      datetime: '2020-05-09T03:34:16.474269'
     - text: Passion fruit and cucumber brighten this earthy mule spiced with a blend
         of native Mexican chilis.
       author:
-      datetime: '2020-05-09T03:24:56.146422'
+      datetime: '2020-05-09T03:34:16.474274'
     instructions:
     - text: Muddle the agave syrup and cucumber, then add remaining ingredients
       author:
-      datetime: '2020-05-09T03:24:56.146427'
+      datetime: '2020-05-09T03:34:16.474281'
     - text: Shake with ice, then strain into a chilled rocks glass filled with ice
       author:
-      datetime: '2020-05-09T03:24:56.146429'
+      datetime: '2020-05-09T03:34:16.474283'
     images: []
   spec_count: 1
   citations: []

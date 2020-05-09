@@ -6,7 +6,9 @@
     display_name: PDT
     origin:
       year: 2012
-    glassware: []
+    glassware:
+    - slug: pilsner
+      display_name: Pilsner
     construction:
       slug: shake
       display_name: Shake
@@ -42,20 +44,20 @@
     notes:
     - text: Jeff Bell, Spring 2012
       author:
-      datetime: '2020-05-09T03:24:56.205666'
+      datetime: '2020-05-09T03:34:16.529190'
     - text: Upon returning from a trip to Copenhagen and Berlin, Jeff put the final
         touches on his Northern European shandy with a little Italian amaro to balance
         the latitude.
       author:
-      datetime: '2020-05-09T03:24:56.205670'
+      datetime: '2020-05-09T03:34:16.529194'
     instructions:
     - text: Shake with pebble ice and strain into a chilled, ice-filled pilsner glass
         rimmed with La Boîte Isphahan N.1
       author:
-      datetime: '2020-05-09T03:24:56.205674'
+      datetime: '2020-05-09T03:34:16.529198'
     - text: Top with 4 oz Ommegang Witte
       author:
-      datetime: '2020-05-09T03:24:56.205677'
+      datetime: '2020-05-09T03:34:16.529200'
     images: []
   spec_count: 1
   citations: []

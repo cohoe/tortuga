@@ -6,7 +6,9 @@
     display_name: PDT
     origin:
       year: 2011
-    glassware: []
+    glassware:
+    - slug: collins
+      display_name: Collins
     construction:
       slug: shake
       display_name: Shake
@@ -47,16 +49,16 @@
     notes:
     - text: Jeff Bell, Spring 2011
       author:
-      datetime: '2020-05-09T03:24:56.213701'
+      datetime: '2020-05-09T03:34:16.537829'
     - text: 'Jeff combined the fruit of the green tomatillo vine with G’Vine: a modern
         gin that features grape flower blossoms in its botanical profile.'
       author:
-      datetime: '2020-05-09T03:24:56.213705'
+      datetime: '2020-05-09T03:34:16.537833'
     instructions:
     - text: Muddle the peppercorns and syrup, then add remaining ingredients. Shake
         with ice and fine-strain into a chilled collins glass
       author:
-      datetime: '2020-05-09T03:24:56.213709'
+      datetime: '2020-05-09T03:34:16.537851'
     images: []
   spec_count: 1
   citations: []

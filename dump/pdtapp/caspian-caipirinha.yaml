@@ -6,7 +6,9 @@
     display_name: PDT
     origin:
       year: 2013
-    glassware: []
+    glassware:
+    - slug: rocks
+      display_name: Rocks
     construction:
       slug: shake
       display_name: Shake
@@ -32,20 +34,20 @@
     notes:
     - text: Payman Bahmani & Jeff Bell, Winter 2013
       author:
-      datetime: '2020-05-09T03:24:56.137547'
+      datetime: '2020-05-09T03:34:16.464466'
     - text: Dried Persian limes and fenugreek are common ingredients in the cuisine
         of the Caspian Sea. They also complement the earthy flavors of cachaça in
         this West Asian take on the classic Caipirinha.
       author:
-      datetime: '2020-05-09T03:24:56.137552'
+      datetime: '2020-05-09T03:34:16.464472'
     instructions:
     - text: Shake with ice and pour unstrained into a chilled Combier Kümmel rinsed
         rocks glass
       author:
-      datetime: '2020-05-09T03:24:56.137556'
+      datetime: '2020-05-09T03:34:16.464476'
     - text: (No garnish)
       author:
-      datetime: '2020-05-09T03:24:56.137559'
+      datetime: '2020-05-09T03:34:16.464478'
     images: []
   spec_count: 1
   citations: []

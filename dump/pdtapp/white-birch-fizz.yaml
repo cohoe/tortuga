@@ -6,7 +6,9 @@
     display_name: PDT
     origin:
       year: 2009
-    glassware: []
+    glassware:
+    - slug: collins
+      display_name: Collins
     construction:
       slug: shake
       display_name: Shake
@@ -42,21 +44,21 @@
     notes:
     - text: John deBary, Fall 2009
       author:
-      datetime: '2020-05-09T03:24:56.206950'
+      datetime: '2020-05-09T03:34:16.530545'
     - text: John created this drink at his childhood home on White Birch Lane for
         his mother, who loved gin.
       author:
-      datetime: '2020-05-09T03:24:56.206954'
+      datetime: '2020-05-09T03:34:16.530550'
     instructions:
     - text: Dry-shake, then shake with ice
       author:
-      datetime: '2020-05-09T03:24:56.206959'
+      datetime: '2020-05-09T03:34:16.530553'
     - text: Strain into a chilled collins glass
       author:
-      datetime: '2020-05-09T03:24:56.206961'
+      datetime: '2020-05-09T03:34:16.530555'
     - text: Top with 2 oz club soda
       author:
-      datetime: '2020-05-09T03:24:56.206963'
+      datetime: '2020-05-09T03:34:16.530558'
     images: []
   spec_count: 1
   citations: []

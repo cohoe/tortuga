@@ -6,7 +6,9 @@
     display_name: PDT
     origin:
       year: 2008
-    glassware: []
+    glassware:
+    - slug: mixing
+      display_name: Mixing
     construction:
       slug: shake
       display_name: Shake
@@ -42,18 +44,18 @@
     notes:
     - text: Jim Meehan, Fall 2008
       author:
-      datetime: '2020-05-09T03:24:56.162086'
+      datetime: '2020-05-09T03:34:16.491357'
     - text: Nothing captures the spirit of fall in the Northeast more accurately than
         Charles Schulz’s masterpiece, It’s the Great Pumpkin, Charlie Brown.
       author:
-      datetime: '2020-05-09T03:24:56.162091'
+      datetime: '2020-05-09T03:34:16.491362'
     instructions:
     - text: Add all ingredients to a mixing glass and swirl to decarbonate the beer
       author:
-      datetime: '2020-05-09T03:24:56.162095'
+      datetime: '2020-05-09T03:34:16.491365'
     - text: Dry-shake, then shake with ice and strain into a chilled fizz glass
       author:
-      datetime: '2020-05-09T03:24:56.162097'
+      datetime: '2020-05-09T03:34:16.491368'
     images: []
   spec_count: 1
   citations: []

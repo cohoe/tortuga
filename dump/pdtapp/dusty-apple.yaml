@@ -6,7 +6,9 @@
     display_name: PDT
     origin:
       year: 2012
-    glassware: []
+    glassware:
+    - slug: toddy
+      display_name: Toddy
     construction:
       slug: unknown
       display_name: Unknown
@@ -37,16 +39,16 @@
     notes:
     - text: Jim Meehan, Fall 2012
       author:
-      datetime: '2020-05-09T03:24:56.153253'
+      datetime: '2020-05-09T03:34:16.481322'
     - text: Warm cider, barrel-aged Tequila, and gentian-tinged Suze make this winter
         warmer taste like you discovered a vital young apple tree growing in a forgotten
         cellar.
       author:
-      datetime: '2020-05-09T03:24:56.153258'
+      datetime: '2020-05-09T03:34:16.481327'
     instructions:
     - text: Build in a preheated toddy glass
       author:
-      datetime: '2020-05-09T03:24:56.153262'
+      datetime: '2020-05-09T03:34:16.481330'
     images: []
   spec_count: 1
   citations: []

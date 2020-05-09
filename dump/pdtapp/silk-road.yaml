@@ -6,7 +6,9 @@
     display_name: PDT
     origin:
       year: 2007
-    glassware: []
+    glassware:
+    - slug: rocks
+      display_name: Rocks
     construction:
       slug: stir
       display_name: Stir
@@ -37,16 +39,16 @@
     notes:
     - text: Don Lee, Fall 2007
       author:
-      datetime: '2020-05-09T03:24:56.165772'
+      datetime: '2020-05-09T03:34:16.495659'
     - text: This cocktail was fashioned after Joyva Sesame Crunch candy and named
         after the ancient trade route that once linked Asia to India and Europe.
       author:
-      datetime: '2020-05-09T03:24:56.165776'
+      datetime: '2020-05-09T03:34:16.495664'
     instructions:
     - text: Stir with ice, then strain into a chilled rocks glass filled with one
         large ice cube
       author:
-      datetime: '2020-05-09T03:24:56.165780'
+      datetime: '2020-05-09T03:34:16.495667'
     images: []
   spec_count: 1
   citations: []

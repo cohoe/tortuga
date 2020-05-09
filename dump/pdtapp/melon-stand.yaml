@@ -6,7 +6,9 @@
     display_name: PDT
     origin:
       year: 2008
-    glassware: []
+    glassware:
+    - slug: collins
+      display_name: Collins
     construction:
       slug: shake
       display_name: Shake
@@ -42,15 +44,15 @@
     notes:
     - text: Jane Danger, Summer 2008
       author:
-      datetime: '2020-05-09T03:24:56.159544'
+      datetime: '2020-05-09T03:34:16.488442'
     - text: 'Jane’s nod to Micky and Richie’s Archangel and Audrey’s Intro to Aperol
         is named after her Minnesota dream bar: Jane’s Sweet Melon Stand.'
       author:
-      datetime: '2020-05-09T03:24:56.159549'
+      datetime: '2020-05-09T03:34:16.488446'
     instructions:
     - text: Shake with ice, then strain into a collins glass filled with pebble ice
       author:
-      datetime: '2020-05-09T03:24:56.159553'
+      datetime: '2020-05-09T03:34:16.488449'
     images: []
   spec_count: 1
   citations: []

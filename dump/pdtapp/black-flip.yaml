@@ -6,7 +6,9 @@
     display_name: PDT
     origin:
       year: 2007
-    glassware: []
+    glassware:
+    - slug: fizz
+      display_name: Fizz
     construction:
       slug: shake
       display_name: Shake
@@ -37,18 +39,18 @@
     notes:
     - text: Jim Meehan, Winter 2007
       author:
-      datetime: '2020-05-09T03:24:56.191485'
+      datetime: '2020-05-09T03:34:16.514616'
     - text: 'This drink was inspired by the chapter on flips in Wayne Curtis’s excellent
         book And a Bottle of Rum: A History of the New World in Ten Cocktails.'
       author:
-      datetime: '2020-05-09T03:24:56.191490'
+      datetime: '2020-05-09T03:34:16.514620'
     instructions:
     - text: Add all ingredients to a shaker and swirl to decarbonate beer
       author:
-      datetime: '2020-05-09T03:24:56.191494'
+      datetime: '2020-05-09T03:34:16.514623'
     - text: Dry-shake, then shake with ice and strain into a chilled fizz glass
       author:
-      datetime: '2020-05-09T03:24:56.191496'
+      datetime: '2020-05-09T03:34:16.514626'
     images: []
   spec_count: 1
   citations: []

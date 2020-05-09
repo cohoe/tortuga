@@ -6,7 +6,9 @@
     display_name: PDT
     origin:
       year: 2007
-    glassware: []
+    glassware:
+    - slug: fizz
+      display_name: Fizz
     construction:
       slug: shake
       display_name: Shake
@@ -37,15 +39,15 @@
     notes:
     - text: John Deragon, Fall 2007
       author:
-      datetime: '2020-05-09T03:24:56.152778'
+      datetime: '2020-05-09T03:34:16.480783'
     - text: This rich fall flip was created right after Eric Seed released Rothman
         & Winter Orchard Apricot in the U.S.
       author:
-      datetime: '2020-05-09T03:24:56.152782'
+      datetime: '2020-05-09T03:34:16.480787'
     instructions:
     - text: Dry-shake, then shake with ice and strain into a chilled fizz glass
       author:
-      datetime: '2020-05-09T03:24:56.152786'
+      datetime: '2020-05-09T03:34:16.480790'
     images: []
   spec_count: 1
   citations: []

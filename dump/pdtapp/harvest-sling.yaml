@@ -6,7 +6,9 @@
     display_name: PDT
     origin:
       year: 2007
-    glassware: []
+    glassware:
+    - slug: collins
+      display_name: Collins
     construction:
       slug: shake
       display_name: Shake
@@ -47,14 +49,14 @@
     notes:
     - text: John Deragon, Fall 2007
       author:
-      datetime: '2020-05-09T03:24:56.221163'
+      datetime: '2020-05-09T03:34:16.546076'
     - text: The Singapore Sling was John’s muse for this refreshing autumnal highball.
       author:
-      datetime: '2020-05-09T03:24:56.221167'
+      datetime: '2020-05-09T03:34:16.546080'
     instructions:
     - text: Shake with ice, then strain into a chilled collins glass filled with ice
       author:
-      datetime: '2020-05-09T03:24:56.221174'
+      datetime: '2020-05-09T03:34:16.546087'
     images: []
   spec_count: 1
   citations: []

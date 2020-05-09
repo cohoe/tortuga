@@ -6,7 +6,9 @@
     display_name: PDT
     origin:
       year: 2009
-    glassware: []
+    glassware:
+    - slug: rocks
+      display_name: Rocks
     construction:
       slug: stir
       display_name: Stir
@@ -42,17 +44,17 @@
     notes:
     - text: Jim Meehan & Gerry Corcoran, Spring 2009
       author:
-      datetime: '2020-05-09T03:24:56.154463'
+      datetime: '2020-05-09T03:34:16.482708'
     - text: To commemorate the 400th anniversary of Henry Hudson’s landfall during
         his exploration for Holland, we created this Dutch genever–based punchspiked
         with Indonesian arrack to give you a taste of the world Hudson was seeking.
       author:
-      datetime: '2020-05-09T03:24:56.154467'
+      datetime: '2020-05-09T03:34:16.482713'
     instructions:
     - text: Stir with ice, then strain over one large ice cube in a chilled rocks
         glass
       author:
-      datetime: '2020-05-09T03:24:56.154471'
+      datetime: '2020-05-09T03:34:16.482716'
     images: []
   spec_count: 1
   citations: []

@@ -6,7 +6,9 @@
     display_name: PDT
     origin:
       year: 2011
-    glassware: []
+    glassware:
+    - slug: collins
+      display_name: Collins
     construction:
       slug: shake
       display_name: Shake
@@ -35,23 +37,23 @@
     notes:
     - text: John deBary, Summer 2011
       author:
-      datetime: '2020-05-09T03:24:56.199715'
+      datetime: '2020-05-09T03:34:16.523156'
     - text: The pluot, a genetically engineered plum/apricot hybrid, is the perfect
         complement to this precious mixture of Oregon plum brandy and Austrian apricot
         liqueur.
       author:
-      datetime: '2020-05-09T03:24:56.199719'
+      datetime: '2020-05-09T03:34:16.523161'
     instructions:
     - text: Muddle the half pluot, then add remaining ingredients
       author:
-      datetime: '2020-05-09T03:24:56.199723'
+      datetime: '2020-05-09T03:34:16.523164'
     - text: Shake with ice, then fine-strain into a chilled collins glass filled with
         ice
       author:
-      datetime: '2020-05-09T03:24:56.199725'
+      datetime: '2020-05-09T03:34:16.523169'
     - text: Top with .75 oz club soda
       author:
-      datetime: '2020-05-09T03:24:56.199727'
+      datetime: '2020-05-09T03:34:16.523172'
     images: []
   spec_count: 1
   citations: []

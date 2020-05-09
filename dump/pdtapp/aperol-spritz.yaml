@@ -6,7 +6,9 @@
     display_name: PDT
     origin:
       year: 2000
-    glassware: []
+    glassware:
+    - slug: rocks
+      display_name: Rocks
     construction:
       slug: stir
       display_name: Stir
@@ -37,15 +39,15 @@
     notes:
     - text: Corporate creation, 2000s
       author:
-      datetime: '2020-05-09T03:24:56.164643'
+      datetime: '2020-05-09T03:34:16.494383'
     - text: This simple recipe, listed on the back of the Aperol bottle, is also known
         as the Venetian Spritz.
       author:
-      datetime: '2020-05-09T03:24:56.164648'
+      datetime: '2020-05-09T03:34:16.494387'
     instructions:
     - text: Build in a chilled rocks glass, then fill with ice cubes and stir
       author:
-      datetime: '2020-05-09T03:24:56.164652'
+      datetime: '2020-05-09T03:34:16.494390'
     images: []
   spec_count: 1
   citations: []

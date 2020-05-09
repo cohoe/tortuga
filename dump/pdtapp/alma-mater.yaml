@@ -6,7 +6,9 @@
     display_name: PDT
     origin:
       year: 2011
-    glassware: []
+    glassware:
+    - slug: mixing
+      display_name: Mixing
     construction:
       slug: stir
       display_name: Stir
@@ -35,27 +37,27 @@
       display_name: 2 Strawberries Trimmed And Halved
       notes: []
     garnish: []
-    straw: false
+    straw: true
     citations: []
     notes:
     - text: Jim Meehan & Karen Fu, Spring 2011
       author:
-      datetime: '2020-05-09T03:24:56.182620'
+      datetime: '2020-05-09T03:34:16.505978'
     - text: Using the red and white colors of Jim Meehan’s alma mater (Wisconsin)
         as inspiration, Karen and Jim collaborated on this fruity take on the classic
         Old Pal cocktail.
       author:
-      datetime: '2020-05-09T03:24:56.182625'
+      datetime: '2020-05-09T03:34:16.505983'
     instructions:
     - text: In a mixing glass muddle the strawberries, then add remaining ingredients
       author:
-      datetime: '2020-05-09T03:24:56.182629'
+      datetime: '2020-05-09T03:34:16.505987'
     - text: Stir with ice, then fine-strain into a chilled coupe
       author:
-      datetime: '2020-05-09T03:24:56.182631'
+      datetime: '2020-05-09T03:34:16.505989'
     - text: (No garnish)
       author:
-      datetime: '2020-05-09T03:24:56.182634'
+      datetime: '2020-05-09T03:34:16.505991'
     images: []
   spec_count: 1
   citations: []

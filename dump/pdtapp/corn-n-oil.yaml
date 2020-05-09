@@ -5,7 +5,9 @@
   - slug: pdt
     display_name: PDT
     origin: {}
-    glassware: []
+    glassware:
+    - slug: rocks
+      display_name: Rocks
     construction:
       slug: unknown
       display_name: Unknown
@@ -31,25 +33,25 @@
     notes:
     - text: Classic
       author:
-      datetime: '2020-05-09T03:24:56.236206'
+      datetime: '2020-05-09T03:34:16.562084'
     - text: The inky, blackstrap molasses–based rum floats like oil on the surface
         of this lime- and clove-accented swizzle.
       author:
-      datetime: '2020-05-09T03:24:56.236211'
+      datetime: '2020-05-09T03:34:16.562088'
     instructions:
     - text: Build the falernum and lime juice in a rocks glass, then top with pebble
         ice and swizzle
       author:
-      datetime: '2020-05-09T03:24:56.236215'
+      datetime: '2020-05-09T03:34:16.562091'
     - text: Float the rum, then add more pebble ice
       author:
-      datetime: '2020-05-09T03:24:56.236217'
+      datetime: '2020-05-09T03:34:16.562093'
     - text: Top with 2 dashes Angostura Bitters
       author:
-      datetime: '2020-05-09T03:24:56.236220'
+      datetime: '2020-05-09T03:34:16.562095'
     - text: (No garnish)
       author:
-      datetime: '2020-05-09T03:24:56.236222'
+      datetime: '2020-05-09T03:34:16.562097'
     images: []
   spec_count: 1
   citations: []

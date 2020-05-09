@@ -6,7 +6,9 @@
     display_name: PDT
     origin:
       year: 2013
-    glassware: []
+    glassware:
+    - slug: collins
+      display_name: Collins
     construction:
       slug: shake
       display_name: Shake
@@ -32,18 +34,18 @@
     notes:
     - text: Michael Klein, Spring 2013
       author:
-      datetime: '2020-05-09T03:24:56.141012'
+      datetime: '2020-05-09T03:34:16.468347'
     - text: Mind your Ps and Qsor, in this case, the way the peas and Chartreuse balance
         the floral quality of the gin.
       author:
-      datetime: '2020-05-09T03:24:56.141016'
+      datetime: '2020-05-09T03:34:16.468351'
     instructions:
     - text: Shake with ice, then strain into a chilled collins glass filled with ice
       author:
-      datetime: '2020-05-09T03:24:56.141020'
+      datetime: '2020-05-09T03:34:16.468354'
     - text: Top with 1.5 oz Q Tonic
       author:
-      datetime: '2020-05-09T03:24:56.141022'
+      datetime: '2020-05-09T03:34:16.468357'
     images: []
   spec_count: 1
   citations: []

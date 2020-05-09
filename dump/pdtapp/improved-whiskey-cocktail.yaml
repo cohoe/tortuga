@@ -6,7 +6,9 @@
     display_name: PDT
     origin:
       year: 1876
-    glassware: []
+    glassware:
+    - slug: rocks
+      display_name: Rocks
     construction:
       slug: stir
       display_name: Stir
@@ -37,17 +39,17 @@
     notes:
     - text: Jerry Thomas, The Bar-Tenders’ Guide, 1876
       author:
-      datetime: '2020-05-09T03:24:56.181581'
+      datetime: '2020-05-09T03:34:16.504861'
     - text: In Imbibe!, David Wondrich traces the ascendancy of the plain whiskey
         cocktail to more evolved versions such as the Fancy Whiskey Cocktail in the
         1862 edition and the Improved Whiskey Cocktail, which appeared 14 years later.
       author:
-      datetime: '2020-05-09T03:24:56.181585'
+      datetime: '2020-05-09T03:34:16.504866'
     instructions:
     - text: Stir with ice, then strain over one large ice cube in a chilled, Vieux
         Pontarlier Absinthe–rinsed rocks glass
       author:
-      datetime: '2020-05-09T03:24:56.181589'
+      datetime: '2020-05-09T03:34:16.504876'
     images: []
   spec_count: 1
   citations: []

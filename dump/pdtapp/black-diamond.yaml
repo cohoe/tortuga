@@ -6,7 +6,9 @@
     display_name: PDT
     origin:
       year: 2012
-    glassware: []
+    glassware:
+    - slug: mixing
+      display_name: Mixing
     construction:
       slug: stir
       display_name: Stir
@@ -43,19 +45,19 @@
     notes:
     - text: John deBary Summer 2012
       author:
-      datetime: '2020-05-09T03:24:56.219024'
+      datetime: '2020-05-09T03:34:16.543600'
     - text: The porter complements the chocolate notes of the single malt while the
         blackberries and pepper reinforce the malt’s fruity, spicy qualities.
       author:
-      datetime: '2020-05-09T03:24:56.219029'
+      datetime: '2020-05-09T03:34:16.543604'
     instructions:
     - text: In a mixing glass muddle the berries and peppercorns, then add remaining
         ingredients
       author:
-      datetime: '2020-05-09T03:24:56.219033'
+      datetime: '2020-05-09T03:34:16.543607'
     - text: Stir with ice and fine-strain into a chilled coupe
       author:
-      datetime: '2020-05-09T03:24:56.219035'
+      datetime: '2020-05-09T03:34:16.543609'
     images: []
   spec_count: 1
   citations: []

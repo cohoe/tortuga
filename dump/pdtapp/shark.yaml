@@ -6,7 +6,9 @@
     display_name: PDT
     origin:
       year: 2010
-    glassware: []
+    glassware:
+    - slug: rocks
+      display_name: Rocks
     construction:
       slug: shake
       display_name: Shake
@@ -62,17 +64,17 @@
     notes:
     - text: John deBary, Winter 2010
       author:
-      datetime: '2020-05-09T03:24:56.157630'
+      datetime: '2020-05-09T03:34:16.486299'
     - text: John named his creation after former PDT bartender Sean “Sharky” Hoard,
         whose affection for blue drinks was honed by the beloved brand ambassador,
         Jacob Briars.
       author:
-      datetime: '2020-05-09T03:24:56.157634'
+      datetime: '2020-05-09T03:34:16.486304'
     instructions:
     - text: Shake with ice, then strain into a chilled rocks glass filled with pebble
         ice
       author:
-      datetime: '2020-05-09T03:24:56.157638'
+      datetime: '2020-05-09T03:34:16.486307'
     images: []
   spec_count: 1
   citations: []

@@ -6,7 +6,9 @@
     display_name: PDT
     origin:
       year: 2009
-    glassware: []
+    glassware:
+    - slug: collins
+      display_name: Collins
     construction:
       slug: shake
       display_name: Shake
@@ -42,23 +44,23 @@
     notes:
     - text: David Slape, Spring 2009
       author:
-      datetime: '2020-05-09T03:24:56.164103'
+      datetime: '2020-05-09T03:34:16.493743'
     - text: We eschewed house-made bitters until tasting our friend Louis Smeby’s
         outstanding verbena bitters, which complemented the grassy, sugarcane-based
         cachaça.
       author:
-      datetime: '2020-05-09T03:24:56.164107'
+      datetime: '2020-05-09T03:34:16.493748'
     instructions:
     - text: Shake with ice, then strain into a chilled collins glass filled with pebble
         ice
       author:
-      datetime: '2020-05-09T03:24:56.164112'
+      datetime: '2020-05-09T03:34:16.493751'
     - text: Top with 4 dashes Peychaud’s Bitters
       author:
-      datetime: '2020-05-09T03:24:56.164114'
+      datetime: '2020-05-09T03:34:16.493753'
     - text: (No garnish)
       author:
-      datetime: '2020-05-09T03:24:56.164116'
+      datetime: '2020-05-09T03:34:16.493755'
     images: []
   spec_count: 1
   citations: []

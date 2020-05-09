@@ -6,7 +6,9 @@
     display_name: PDT
     origin:
       year: 2008
-    glassware: []
+    glassware:
+    - slug: rocks
+      display_name: Rocks
     construction:
       slug: stir
       display_name: Stir
@@ -37,15 +39,15 @@
     notes:
     - text: Johnny Iuzzini, Winter 2008
       author:
-      datetime: '2020-05-09T03:24:56.139927'
+      datetime: '2020-05-09T03:34:16.467081'
     - text: Renowned pastry chef Johnny Iuzzini created this twist on the Cock ’N’
         Bull Special from Ted Saucier’s Bottoms Up while tending bar at PDT.
       author:
-      datetime: '2020-05-09T03:24:56.139932'
+      datetime: '2020-05-09T03:34:16.467087'
     instructions:
     - text: Stir with ice, then strain over an ice sphere into a chilled rocks glass
       author:
-      datetime: '2020-05-09T03:24:56.139937'
+      datetime: '2020-05-09T03:34:16.467091'
     images: []
   spec_count: 1
   citations: []

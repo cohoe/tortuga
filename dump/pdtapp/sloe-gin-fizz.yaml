@@ -6,7 +6,9 @@
     display_name: PDT
     origin:
       year: 1910
-    glassware: []
+    glassware:
+    - slug: fizz
+      display_name: Fizz
     construction:
       slug: shake
       display_name: Shake
@@ -37,22 +39,22 @@
     notes:
     - text: Jack Grohusko, Jack’s Manual, 1910
       author:
-      datetime: '2020-05-09T03:24:56.165069'
+      datetime: '2020-05-09T03:34:16.494834'
     - text: Plymouth sloe gin is prepared by macerating berries gathered from blackthorn
         bushes in high-proof gin for months, sweetening the mixture to taste, and
         diluting it to 26% ABV before bottling.
       author:
-      datetime: '2020-05-09T03:24:56.165073'
+      datetime: '2020-05-09T03:34:16.494838'
     instructions:
     - text: Shake with ice, then strain into a chilled fizz glass
       author:
-      datetime: '2020-05-09T03:24:56.165077'
+      datetime: '2020-05-09T03:34:16.494842'
     - text: Top with 3 oz club soda
       author:
-      datetime: '2020-05-09T03:24:56.165079'
+      datetime: '2020-05-09T03:34:16.494844'
     - text: (No garnish)
       author:
-      datetime: '2020-05-09T03:24:56.165081'
+      datetime: '2020-05-09T03:34:16.494846'
     images: []
   spec_count: 1
   citations: []

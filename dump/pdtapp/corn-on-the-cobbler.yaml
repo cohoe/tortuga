@@ -6,7 +6,9 @@
     display_name: PDT
     origin:
       year: 2013
-    glassware: []
+    glassware:
+    - slug: collins
+      display_name: Collins
     construction:
       slug: shake
       display_name: Shake
@@ -37,17 +39,17 @@
     notes:
     - text: Jeff Bell, Summer 2013
       author:
-      datetime: '2020-05-09T03:24:56.229414'
+      datetime: '2020-05-09T03:34:16.554927'
     - text: Jeff captured the essence of summercorn on the cobin this savory long
         drink prepared with puréed corn and a Tennessee whiskey distilled from a corn-heavy
         mash bill.
       author:
-      datetime: '2020-05-09T03:24:56.229418'
+      datetime: '2020-05-09T03:34:16.554931'
     instructions:
     - text: Shake with ice, then strain into a chilled collins glass filled with pebble
         ice
       author:
-      datetime: '2020-05-09T03:24:56.229422'
+      datetime: '2020-05-09T03:34:16.554935'
     images: []
   spec_count: 1
   citations: []

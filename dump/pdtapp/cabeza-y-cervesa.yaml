@@ -6,7 +6,9 @@
     display_name: PDT
     origin:
       year: 2013
-    glassware: []
+    glassware:
+    - slug: pilsner
+      display_name: Pilsner
     construction:
       slug: stir
       display_name: Stir
@@ -47,16 +49,16 @@
     notes:
     - text: Jeff Bell & Jim Meehan, Spring 2013
       author:
-      datetime: '2020-05-09T03:24:56.164393'
+      datetime: '2020-05-09T03:34:16.494137'
     - text: 'This is an ode to two pairs: tequila & beer and our colleagues Simon
         Ford & Dushan Zaric, who helped create Cabeza Tequila.'
       author:
-      datetime: '2020-05-09T03:24:56.164397'
+      datetime: '2020-05-09T03:34:16.494142'
     instructions:
     - text: Stir with ice and strain into a chilled pilsner glass filled with ice
         cubes.
       author:
-      datetime: '2020-05-09T03:24:56.164401'
+      datetime: '2020-05-09T03:34:16.494145'
     images: []
   spec_count: 1
   citations: []

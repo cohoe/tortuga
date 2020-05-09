@@ -6,7 +6,9 @@
     display_name: PDT
     origin:
       year: 1937
-    glassware: []
+    glassware:
+    - slug: rocks
+      display_name: Rocks
     construction:
       slug: shake
       display_name: Shake
@@ -37,15 +39,15 @@
     notes:
     - text: W. J. Tarling, Café Royal Cocktail Book, 1937 (as the “Picador Cocktail”)
       author:
-      datetime: '2020-05-09T03:24:56.161608'
+      datetime: '2020-05-09T03:34:16.490730'
     - text: Margarita is Spanish for “daisy,” a sour sweetened with curaçao or grenadine.
       author:
-      datetime: '2020-05-09T03:24:56.161613'
+      datetime: '2020-05-09T03:34:16.490749'
     instructions:
     - text: Shake with ice, then strain into a chilled rocks glass filled with ice
         cubes or a chilled coupe (optional salt rim)
       author:
-      datetime: '2020-05-09T03:24:56.161617'
+      datetime: '2020-05-09T03:34:16.490752'
     images: []
   spec_count: 1
   citations: []

@@ -6,7 +6,9 @@
     display_name: PDT
     origin:
       year: 2007
-    glassware: []
+    glassware:
+    - slug: collins
+      display_name: Collins
     construction:
       slug: stir
       display_name: Stir
@@ -32,16 +34,16 @@
     notes:
     - text: Jim Meehan, Spring 2007
       author:
-      datetime: '2020-05-09T03:24:56.206712'
+      datetime: '2020-05-09T03:34:16.530268'
     - text: Quinine, an extract from cinchona bark, was prescribed in the 19th century
         as an anti-malarial throughout the British colonies. To make it more palatable,
         it was added to fortified wines and tonic water.
       author:
-      datetime: '2020-05-09T03:24:56.206717'
+      datetime: '2020-05-09T03:34:16.530272'
     instructions:
     - text: Build in a chilled collins glass filled with ice and stir briefly
       author:
-      datetime: '2020-05-09T03:24:56.206720'
+      datetime: '2020-05-09T03:34:16.530275'
     images: []
   spec_count: 1
   citations: []

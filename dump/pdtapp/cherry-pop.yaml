@@ -6,7 +6,9 @@
     display_name: PDT
     origin:
       year: 2009
-    glassware: []
+    glassware:
+    - slug: collins
+      display_name: Collins
     construction:
       slug: shake
       display_name: Shake
@@ -42,19 +44,19 @@
     notes:
     - text: Jane Danger, Spring 2009
       author:
-      datetime: '2020-05-09T03:24:56.215733'
+      datetime: '2020-05-09T03:34:16.540136'
     - text: Jane’s cocktail goes down like sodaor pop, as they call it where she grew
         up in Minnesota.
       author:
-      datetime: '2020-05-09T03:24:56.215737'
+      datetime: '2020-05-09T03:34:16.540141'
     instructions:
     - text: Muddle two cherries and syrup, then add remaining ingredients
       author:
-      datetime: '2020-05-09T03:24:56.215741'
+      datetime: '2020-05-09T03:34:16.540144'
     - text: Shake with ice and strain into a chilled collins glass filled with pebble
         ice
       author:
-      datetime: '2020-05-09T03:24:56.215743'
+      datetime: '2020-05-09T03:34:16.540146'
     images: []
   spec_count: 1
   citations: []

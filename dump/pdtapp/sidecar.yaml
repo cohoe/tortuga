@@ -37,18 +37,18 @@
     notes:
     - text: 'Robert Vermeire, Cocktails: How to Mix Them, 1922'
       author:
-      datetime: '2020-05-09T03:24:56.223365'
+      datetime: '2020-05-09T03:34:16.548443'
     - text: According to Vermiere, this cocktail “was first introduced by MacGarry,
         the celebrated bar-tender of Buck’s Club” in London.
       author:
-      datetime: '2020-05-09T03:24:56.223369'
+      datetime: '2020-05-09T03:34:16.548447'
     instructions:
     - text: Shake with ice, then strain into a chilled, half sugar-rimmed coupe
       author:
-      datetime: '2020-05-09T03:24:56.223373'
+      datetime: '2020-05-09T03:34:16.548450'
     - text: (No garnish)
       author:
-      datetime: '2020-05-09T03:24:56.223375'
+      datetime: '2020-05-09T03:34:16.548452'
     images: []
   spec_count: 1
   citations: []

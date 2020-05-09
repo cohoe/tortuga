@@ -6,7 +6,9 @@
     display_name: PDT
     origin:
       year: 1932
-    glassware: []
+    glassware:
+    - slug: collins
+      display_name: Collins
     construction:
       slug: unknown
       display_name: Unknown
@@ -27,21 +29,21 @@
     notes:
     - text: Leurs Cocktails Par Antoine, 1932
       author:
-      datetime: '2020-05-09T03:24:56.181149'
+      datetime: '2020-05-09T03:34:16.504388'
     - text: Originally called the Milano-Torino, this drink was so popular among American
         tourists, that the Italian barmen renamed it in their honor.
       author:
-      datetime: '2020-05-09T03:24:56.181153'
+      datetime: '2020-05-09T03:34:16.504393'
     instructions:
     - text: Build in a chilled collins glass
       author:
-      datetime: '2020-05-09T03:24:56.181157'
+      datetime: '2020-05-09T03:34:16.504399'
     - text: Add ice cubes
       author:
-      datetime: '2020-05-09T03:24:56.181159'
+      datetime: '2020-05-09T03:34:16.504401'
     - text: Top with 2.5 oz club soda
       author:
-      datetime: '2020-05-09T03:24:56.181165'
+      datetime: '2020-05-09T03:34:16.504404'
     images: []
   spec_count: 1
   citations: []

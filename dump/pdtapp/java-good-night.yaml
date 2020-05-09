@@ -6,7 +6,9 @@
     display_name: PDT
     origin:
       year: 2013
-    glassware: []
+    glassware:
+    - slug: pilsner
+      display_name: Pilsner
     construction:
       slug: stir
       display_name: Stir
@@ -47,20 +49,20 @@
     notes:
     - text: Jeff Bell, Spring 2013
       author:
-      datetime: '2020-05-09T03:24:56.163382'
+      datetime: '2020-05-09T03:34:16.492916'
     - text: Macaroon Parlour proprietors Simon Tung and Christina Ha introduced Jeff
         to Blue Bottle’s delicious chicory-spiced coffee blend, which he incorporated
         in this Javanese rum–enhanced Thai iced coffee.
       author:
-      datetime: '2020-05-09T03:24:56.163387'
+      datetime: '2020-05-09T03:34:16.492921'
     instructions:
     - text: Muddle the mint with the milks, then add remaining ingredients
       author:
-      datetime: '2020-05-09T03:24:56.163391'
+      datetime: '2020-05-09T03:34:16.492927'
     - text: Stir without ice and fine-strain into a chilled pilsner glass filled with
         pebble ice
       author:
-      datetime: '2020-05-09T03:24:56.163393'
+      datetime: '2020-05-09T03:34:16.492930'
     images: []
   spec_count: 1
   citations: []

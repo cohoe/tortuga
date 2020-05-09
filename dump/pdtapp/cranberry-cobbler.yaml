@@ -6,7 +6,9 @@
     display_name: PDT
     origin:
       year: 2007
-    glassware: []
+    glassware:
+    - slug: rocks
+      display_name: Rocks
     construction:
       slug: shake
       display_name: Shake
@@ -48,23 +50,23 @@
     notes:
     - text: Michael Madrusan & Jim Meehan, Winter 2007
       author:
-      datetime: '2020-05-09T03:24:56.162378'
+      datetime: '2020-05-09T03:34:16.491676'
     - text: Cranberries are the last berries available before winter settles over
         the Northeast. We used them to prepare a classic cobbler, sweetened with a
         historic style of off-dry sherry.
       author:
-      datetime: '2020-05-09T03:24:56.162383'
+      datetime: '2020-05-09T03:34:16.491680'
     instructions:
     - text: Add the citrus, cranberries and syrup to a mixing tin and muddle
       author:
-      datetime: '2020-05-09T03:24:56.162387'
+      datetime: '2020-05-09T03:34:16.491683'
     - text: Add everything else and ice
       author:
-      datetime: '2020-05-09T03:24:56.162389'
+      datetime: '2020-05-09T03:34:16.491686'
     - text: Shake with ice and strain into a chilled rocks glass filled with pebble
         ice
       author:
-      datetime: '2020-05-09T03:24:56.162392'
+      datetime: '2020-05-09T03:34:16.491688'
     images: []
   spec_count: 1
   citations: []

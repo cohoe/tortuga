@@ -6,7 +6,9 @@
     display_name: PDT
     origin:
       year: 2008
-    glassware: []
+    glassware:
+    - slug: rocks
+      display_name: Rocks
     construction:
       slug: stir
       display_name: Stir
@@ -32,16 +34,16 @@
     notes:
     - text: David Slape, Fall 2008
       author:
-      datetime: '2020-05-09T03:24:56.165267'
+      datetime: '2020-05-09T03:34:16.495118'
     - text: This Negroni variation, whose name means “tears” in Latin, substitutes
         rye for gin, amaro for sweet vermouth, and Luxardo bitter for Campari.
       author:
-      datetime: '2020-05-09T03:24:56.165271'
+      datetime: '2020-05-09T03:34:16.495122'
     instructions:
     - text: Stir with ice, then strain over one large ice cube into a chilled rocks
         glass
       author:
-      datetime: '2020-05-09T03:24:56.165275'
+      datetime: '2020-05-09T03:34:16.495125'
     images: []
   spec_count: 1
   citations: []

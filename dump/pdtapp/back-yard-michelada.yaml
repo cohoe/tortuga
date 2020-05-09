@@ -6,7 +6,9 @@
     display_name: PDT
     origin:
       year: 2011
-    glassware: []
+    glassware:
+    - slug: mixing
+      display_name: Mixing
     construction:
       slug: unknown
       display_name: Unknown
@@ -45,22 +47,22 @@
     notes:
     - text: Jim Meehan, Spring 2011
       author:
-      datetime: '2020-05-09T03:24:56.244102'
+      datetime: '2020-05-09T03:34:16.570586'
     - text: 'The briny, smoky quality of the malt is accentuated by the pickles and
         spice: think of it as a Scottish Pickle Back with a beer chaser.'
       author:
-      datetime: '2020-05-09T03:24:56.244106'
+      datetime: '2020-05-09T03:34:16.570590'
     instructions:
     - text: In a mixing glass combine whisky, juice, syrup, brine, and mustard
       author:
-      datetime: '2020-05-09T03:24:56.244110'
+      datetime: '2020-05-09T03:34:16.570594'
     - text: Fine-strain (to remove mustard seeds) into a chilled pilsner glass rimmed
         with ground black pepper and filled with ice cubes
       author:
-      datetime: '2020-05-09T03:24:56.244113'
+      datetime: '2020-05-09T03:34:16.570596'
     - text: Top with the beer.
       author:
-      datetime: '2020-05-09T03:24:56.244115'
+      datetime: '2020-05-09T03:34:16.570598'
     images: []
   spec_count: 1
   citations: []

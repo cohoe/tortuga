@@ -6,7 +6,9 @@
     display_name: PDT
     origin:
       year: 2012
-    glassware: []
+    glassware:
+    - slug: collins
+      display_name: Collins
     construction:
       slug: shake
       display_name: Shake
@@ -37,16 +39,16 @@
     notes:
     - text: Jeff Bell, Spring 2012
       author:
-      datetime: '2020-05-09T03:24:56.245077'
+      datetime: '2020-05-09T03:34:16.571688'
     - text: We love to showcase neighborhood specialties such as chef Christina Tossi’s
         brilliant Cereal Milk. This cocktail riffs on the New Orleans brunch staple.
       author:
-      datetime: '2020-05-09T03:24:56.245081'
+      datetime: '2020-05-09T03:34:16.571692'
     instructions:
     - text: Shake with ice, then strain into a chilled collins glass filled with ice
         cubes
       author:
-      datetime: '2020-05-09T03:24:56.245085'
+      datetime: '2020-05-09T03:34:16.571695'
     images: []
   spec_count: 1
   citations: []

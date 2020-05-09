@@ -6,7 +6,9 @@
     display_name: PDT
     origin:
       year: 2013
-    glassware: []
+    glassware:
+    - slug: rocks
+      display_name: Rocks
     construction:
       slug: stir
       display_name: Stir
@@ -37,16 +39,16 @@
     notes:
     - text: Jim Meehan, Summer 2013
       author:
-      datetime: '2020-05-09T03:24:56.180976'
+      datetime: '2020-05-09T03:34:16.504181'
     - text: We like to think that the applejack-drinking, rye-whiskey-distilling,
         cherry-tree-cutting-down statesman would have appreciated this cocktail.
       author:
-      datetime: '2020-05-09T03:24:56.180980'
+      datetime: '2020-05-09T03:34:16.504186'
     instructions:
     - text: Stir with ice, then strain over one large ice cube in a chilled, The Bitter
         Truth Pimento Dram–rinsed rocks glass
       author:
-      datetime: '2020-05-09T03:24:56.180985'
+      datetime: '2020-05-09T03:34:16.504189'
     images: []
   spec_count: 1
   citations: []

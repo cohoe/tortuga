@@ -6,7 +6,9 @@
     display_name: PDT
     origin:
       year: 2011
-    glassware: []
+    glassware:
+    - slug: collins
+      display_name: Collins
     construction:
       slug: shake
       display_name: Shake
@@ -40,24 +42,24 @@
     notes:
     - text: Jeff Bell and Euclides López, Summer 2011
       author:
-      datetime: '2020-05-09T03:24:56.203913'
+      datetime: '2020-05-09T03:34:16.527285'
     - text: Euclides and Jeff spiced up the classic Paloma with muddled red bell pepper,
         smoky mezcal, and a little Yellow Chartreuse. It’s served with Mexican Squirt
         for authenticity. In a pinch, Ting will do.
       author:
-      datetime: '2020-05-09T03:24:56.203917'
+      datetime: '2020-05-09T03:34:16.527290'
     instructions:
     - text: Muddle the pepper and Chartreuse, then add the lemon juice, mezcal, and
         tequila
       author:
-      datetime: '2020-05-09T03:24:56.203921'
+      datetime: '2020-05-09T03:34:16.527293'
     - text: Shake with ice and fine-strain into a chilled, collins glass rimmed with
         rimming mix N.7 and filled with ice cubes
       author:
-      datetime: '2020-05-09T03:24:56.203932'
+      datetime: '2020-05-09T03:34:16.527296'
     - text: Top with 1.5 oz Squirt, Mexican formula
       author:
-      datetime: '2020-05-09T03:24:56.203935'
+      datetime: '2020-05-09T03:34:16.527298'
     images: []
   spec_count: 1
   citations: []

@@ -6,7 +6,9 @@
     display_name: PDT
     origin:
       year: 2013
-    glassware: []
+    glassware:
+    - slug: collins
+      display_name: Collins
     construction:
       slug: shake
       display_name: Shake
@@ -42,20 +44,20 @@
     notes:
     - text: John deBary, Summer 2013
       author:
-      datetime: '2020-05-09T03:24:56.203643'
+      datetime: '2020-05-09T03:34:16.526979'
     - text: Fruit from one of the best growing seasons in memory inspired John deBary’s
         late summer sling lengthened with Raphael Lyon’s cherry and apple spiked sparkling
         honey wine.
       author:
-      datetime: '2020-05-09T03:24:56.203647'
+      datetime: '2020-05-09T03:34:16.526983'
     instructions:
     - text: Shake with ice and fine-strain into a chilled collins glass filled with
         ice cubes
       author:
-      datetime: '2020-05-09T03:24:56.203651'
+      datetime: '2020-05-09T03:34:16.526987'
     - text: Top with 1.5 oz Enlightenment Cuvée Anguis Singularum II
       author:
-      datetime: '2020-05-09T03:24:56.203654'
+      datetime: '2020-05-09T03:34:16.526989'
     images: []
   spec_count: 1
   citations: []

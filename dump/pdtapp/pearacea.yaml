@@ -6,7 +6,9 @@
     display_name: PDT
     origin:
       year: 2014
-    glassware: []
+    glassware:
+    - slug: rocks
+      display_name: Rocks
     construction:
       slug: shake
       display_name: Shake
@@ -47,17 +49,17 @@
     notes:
     - text: Jim Meehan, Winter 2014
       author:
-      datetime: '2020-05-09T03:24:56.226345'
+      datetime: '2020-05-09T03:34:16.551537'
     - text: A juxtaposition of panacea, a cure-all named after the Greek goddess of
         remedy, and pear; which distinguishes Jim’s elixir from Sam Ross’s better-known
         Penicillin cocktail.
       author:
-      datetime: '2020-05-09T03:24:56.226349'
+      datetime: '2020-05-09T03:34:16.551541'
     instructions:
     - text: Shake with ice, then strain into a chilled rocks glass filled with one
         large ice cube
       author:
-      datetime: '2020-05-09T03:24:56.226353'
+      datetime: '2020-05-09T03:34:16.551544'
     images: []
   spec_count: 1
   citations: []

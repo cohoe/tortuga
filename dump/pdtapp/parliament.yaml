@@ -6,7 +6,9 @@
     display_name: PDT
     origin:
       year: 2014
-    glassware: []
+    glassware:
+    - slug: collins
+      display_name: Collins
     construction:
       slug: stir
       display_name: Stir
@@ -37,16 +39,16 @@
     notes:
     - text: Jeff Bell, Fall 2014
       author:
-      datetime: '2020-05-09T03:24:56.205218'
+      datetime: '2020-05-09T03:34:16.528704'
     - text: 'Birds of a feather flock together, as do these two buhos (owls in Spanish),
         who spice up this riff on the classic La Batanga: a salt rimmed tequila and
         Coke garnished with half a lime.'
       author:
-      datetime: '2020-05-09T03:24:56.205223'
+      datetime: '2020-05-09T03:34:16.528708'
     instructions:
     - text: Build in a salt-rimmed collins glass, then add ice and stir to chill
       author:
-      datetime: '2020-05-09T03:24:56.205227'
+      datetime: '2020-05-09T03:34:16.528711'
     images: []
   spec_count: 1
   citations: []

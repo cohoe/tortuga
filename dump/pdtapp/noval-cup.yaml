@@ -6,7 +6,9 @@
     display_name: PDT
     origin:
       year: 2010
-    glassware: []
+    glassware:
+    - slug: collins
+      display_name: Collins
     construction:
       slug: shake
       display_name: Shake
@@ -30,27 +32,27 @@
       display_name: 1 Strawberry
       notes: []
     garnish: []
-    straw: false
+    straw: true
     citations: []
     notes:
     - text: Jim Meehan, Summer 2010
       author:
-      datetime: '2020-05-09T03:24:56.157085'
+      datetime: '2020-05-09T03:34:16.485643'
     - text: Using the Pimms Cup as his template, Jim fashioned this cocktail to show
         off the versatility of port in a summer cooler.
       author:
-      datetime: '2020-05-09T03:24:56.157089'
+      datetime: '2020-05-09T03:34:16.485647'
     instructions:
     - text: Muddle the strawberry and syrup, then add remaining ingredients
       author:
-      datetime: '2020-05-09T03:24:56.157093'
+      datetime: '2020-05-09T03:34:16.485651'
     - text: Shake with ice, then fine-strain into a chilled collins glass filled with
         ice
       author:
-      datetime: '2020-05-09T03:24:56.157095'
+      datetime: '2020-05-09T03:34:16.485653'
     - text: Top with 2 oz club soda
       author:
-      datetime: '2020-05-09T03:24:56.157098'
+      datetime: '2020-05-09T03:34:16.485655'
     images: []
   spec_count: 1
   citations: []

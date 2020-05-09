@@ -6,7 +6,9 @@
     display_name: PDT
     origin:
       year: 2013
-    glassware: []
+    glassware:
+    - slug: rocks
+      display_name: Rocks
     construction:
       slug: shake
       display_name: Shake
@@ -57,17 +59,17 @@
     notes:
     - text: Jim Meehan, Fall 2013
       author:
-      datetime: '2020-05-09T03:24:56.232946'
+      datetime: '2020-05-09T03:34:16.558901'
     - text: This heady blend of nautical spirits and spices was inspired by the exploration
         of ships lost at sea. Let the adventurer be warned that more than one of these
         may threaten the expedition.
       author:
-      datetime: '2020-05-09T03:24:56.232951'
+      datetime: '2020-05-09T03:34:16.558906'
     instructions:
     - text: Shake with ice, then strain into a chilled rocks glass filled with pebble
         ice
       author:
-      datetime: '2020-05-09T03:24:56.232958'
+      datetime: '2020-05-09T03:34:16.558909'
     images: []
   spec_count: 1
   citations: []

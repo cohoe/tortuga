@@ -6,7 +6,9 @@
     display_name: PDT
     origin:
       year: 2010
-    glassware: []
+    glassware:
+    - slug: rocks
+      display_name: Rocks
     construction:
       slug: shake
       display_name: Shake
@@ -52,16 +54,16 @@
     notes:
     - text: John deBary, Fall 2010
       author:
-      datetime: '2020-05-09T03:24:56.188524'
+      datetime: '2020-05-09T03:34:16.511454'
     - text: John used bright elderflower liqueur, bitter amaro, and pear-infused cognac
         as bittersweet accents in his Peruvian pisco–based cobbler featuring fall’s
         final tree fruit.
       author:
-      datetime: '2020-05-09T03:24:56.188528'
+      datetime: '2020-05-09T03:34:16.511459'
     instructions:
     - text: Shake with ice, then strain into a rocks glass filled with pebble ice
       author:
-      datetime: '2020-05-09T03:24:56.188532'
+      datetime: '2020-05-09T03:34:16.511465'
     images: []
   spec_count: 1
   citations: []

@@ -6,7 +6,9 @@
     display_name: PDT
     origin:
       year: 2014
-    glassware: []
+    glassware:
+    - slug: pilsner
+      display_name: Pilsner
     construction:
       slug: shake
       display_name: Shake
@@ -37,23 +39,23 @@
     notes:
     - text: Jeff Bell, Fall 2014
       author:
-      datetime: '2020-05-09T03:24:56.201948'
+      datetime: '2020-05-09T03:34:16.525241'
     - text: Pineapple and chili pair well in Tacos al Pastor, so Jeff incorporated
         them in this modern michelada rimmed with Lior Sercarz’s harissa-inspired
         spice blend.
       author:
-      datetime: '2020-05-09T03:24:56.201952'
+      datetime: '2020-05-09T03:34:16.525245'
     instructions:
     - text: Shake with ice, then strain into a chilled pilsner glass rimmed with rimming
         mix N.37 and filled with ice cubes
       author:
-      datetime: '2020-05-09T03:24:56.201956'
+      datetime: '2020-05-09T03:34:16.525249'
     - text: Top with 3 oz Victory Prima Pilsner
       author:
-      datetime: '2020-05-09T03:24:56.201959'
+      datetime: '2020-05-09T03:34:16.525251'
     - text: (No garnish)
       author:
-      datetime: '2020-05-09T03:24:56.201961'
+      datetime: '2020-05-09T03:34:16.525253'
     images: []
   spec_count: 1
   citations: []

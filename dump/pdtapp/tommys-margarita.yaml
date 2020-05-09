@@ -5,7 +5,9 @@
   - slug: pdt
     display_name: PDT
     origin: {}
-    glassware: []
+    glassware:
+    - slug: rocks
+      display_name: Rocks
     construction:
       slug: shake
       display_name: Shake
@@ -31,19 +33,19 @@
     notes:
     - text: Tommy’s Mexican Restaurant, San Francisco
       author:
-      datetime: '2020-05-09T03:24:56.150754'
+      datetime: '2020-05-09T03:34:16.478746'
     - text: In 1987 Julio Bermejo created this modern Margarita variation, which substitutes
         agave nectar for triple sec, and named it after his family’s Mexican restaurant,
         Tommy’s.
       author:
-      datetime: '2020-05-09T03:24:56.150758'
+      datetime: '2020-05-09T03:34:16.478750'
     instructions:
     - text: Shake with ice, then strain into a rocks glass filled with ice cubes
       author:
-      datetime: '2020-05-09T03:24:56.150762'
+      datetime: '2020-05-09T03:34:16.478754'
     - text: (No garnish)
       author:
-      datetime: '2020-05-09T03:24:56.150764'
+      datetime: '2020-05-09T03:34:16.478756'
     images: []
   spec_count: 1
   citations: []

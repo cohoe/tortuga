@@ -6,7 +6,9 @@
     display_name: PDT
     origin:
       year: 2008
-    glassware: []
+    glassware:
+    - slug: mixing
+      display_name: Mixing
     construction:
       slug: stir
       display_name: Stir
@@ -37,22 +39,22 @@
     notes:
     - text: Daniel Eun, Winter 2008
       author:
-      datetime: '2020-05-09T03:24:56.190037'
+      datetime: '2020-05-09T03:34:16.513029'
     - text: In Korea the ginseng and other herbs used to flavor baekseju (“100-years
         wine”) were hoped to help one live for 100 years.
       author:
-      datetime: '2020-05-09T03:24:56.190042'
+      datetime: '2020-05-09T03:34:16.513034'
     instructions:
     - text: Zest half the tangerine into a mixing glass, then add remaining ingredients
       author:
-      datetime: '2020-05-09T03:24:56.190046'
+      datetime: '2020-05-09T03:34:16.513037'
     - text: Stir with ice, then fine-strain into a chilled rocks glass filled with
         ice cubes
       author:
-      datetime: '2020-05-09T03:24:56.190048'
+      datetime: '2020-05-09T03:34:16.513039'
     - text: Top with 1 oz Q Tonic
       author:
-      datetime: '2020-05-09T03:24:56.190050'
+      datetime: '2020-05-09T03:34:16.513041'
     images: []
   spec_count: 1
   citations: []

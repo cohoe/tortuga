@@ -6,7 +6,9 @@
     display_name: PDT
     origin:
       year: 2014
-    glassware: []
+    glassware:
+    - slug: collins
+      display_name: Collins
     construction:
       slug: shake
       display_name: Shake
@@ -37,19 +39,19 @@
     notes:
     - text: Jeff Bell, Spring 2014
       author:
-      datetime: '2020-05-09T03:24:56.208104'
+      datetime: '2020-05-09T03:34:16.531729'
     - text: Jeff Bell formulated this savory quintet of ingredients featuring Hendrick’s
         new Quinetum cordial; a product modeled after a 19th century medicinal tonic.
       author:
-      datetime: '2020-05-09T03:24:56.208108'
+      datetime: '2020-05-09T03:34:16.531734'
     instructions:
     - text: Shake with ice, then strain into a chilled collins glass filled with an
         ice spear
       author:
-      datetime: '2020-05-09T03:24:56.208112'
+      datetime: '2020-05-09T03:34:16.531780'
     - text: Top with 1 oz Dry Cucumber Soda
       author:
-      datetime: '2020-05-09T03:24:56.208115'
+      datetime: '2020-05-09T03:34:16.531782'
     images: []
   spec_count: 1
   citations: []

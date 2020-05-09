@@ -6,7 +6,9 @@
     display_name: PDT
     origin:
       year: 2013
-    glassware: []
+    glassware:
+    - slug: rocks
+      display_name: Rocks
     construction:
       slug: shake
       display_name: Shake
@@ -47,16 +49,16 @@
     notes:
     - text: Jim Meehan, Spring 2013
       author:
-      datetime: '2020-05-09T03:24:56.221786'
+      datetime: '2020-05-09T03:34:16.546679'
     - text: The recipe for Trader Vic’s classic tequila-based El Diablo is the inspiration
         for this riff, which features a handful of our favorite producers.
       author:
-      datetime: '2020-05-09T03:24:56.221790'
+      datetime: '2020-05-09T03:34:16.546682'
     instructions:
     - text: Shake with ice, then strain into a chilled rocks glass filled with pebble
         ice
       author:
-      datetime: '2020-05-09T03:24:56.221794'
+      datetime: '2020-05-09T03:34:16.546686'
     images: []
   spec_count: 1
   citations: []

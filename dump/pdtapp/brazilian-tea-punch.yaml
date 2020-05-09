@@ -6,7 +6,9 @@
     display_name: PDT
     origin:
       year: 2010
-    glassware: []
+    glassware:
+    - slug: rocks
+      display_name: Rocks
     construction:
       slug: unknown
       display_name: Unknown
@@ -33,22 +35,22 @@
     notes:
     - text: Jim Meehan & Michael Klein, Spring 2010
       author:
-      datetime: '2020-05-09T03:24:56.232049'
+      datetime: '2020-05-09T03:34:16.557792'
     - text: Michael prepared a lemongrass syrup to brighten up the tea-infused cachaça
         in this Southeastern Asian spin on the Caribbean Ti’ Punch.
       author:
-      datetime: '2020-05-09T03:24:56.232053'
+      datetime: '2020-05-09T03:34:16.557796'
     instructions:
     - text: Squeeze the lime disc on both sides to get all the oil from the peel and
         juice from the flesh into a chilled rocks glass
       author:
-      datetime: '2020-05-09T03:24:56.232057'
+      datetime: '2020-05-09T03:34:16.557800'
     - text: Add remaining ingredients and pebble ice
       author:
-      datetime: '2020-05-09T03:24:56.232059'
+      datetime: '2020-05-09T03:34:16.557802'
     - text: Swizzle, then top with more pebble ice and swizzle again
       author:
-      datetime: '2020-05-09T03:24:56.232061'
+      datetime: '2020-05-09T03:34:16.557804'
     images: []
   spec_count: 1
   citations: []

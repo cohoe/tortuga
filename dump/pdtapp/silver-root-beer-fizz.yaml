@@ -6,7 +6,9 @@
     display_name: PDT
     origin:
       year: 2009
-    glassware: []
+    glassware:
+    - slug: fizz
+      display_name: Fizz
     construction:
       slug: shake
       display_name: Shake
@@ -42,18 +44,18 @@
     notes:
     - text: Jim Meehan, Fall 2009
       author:
-      datetime: '2020-05-09T03:24:56.239958'
+      datetime: '2020-05-09T03:34:16.566012'
     - text: Jim created this savory cocktail for Chef Wylie Dufresne, who is a self-professed
         root beer fanatic.
       author:
-      datetime: '2020-05-09T03:24:56.239963'
+      datetime: '2020-05-09T03:34:16.566016'
     instructions:
     - text: Dry-shake, then shake with ice and strain into a chilled fizz glass
       author:
-      datetime: '2020-05-09T03:24:56.239967'
+      datetime: '2020-05-09T03:34:16.566019'
     - text: Top with 2 oz Maine Root Root Beer
       author:
-      datetime: '2020-05-09T03:24:56.239969'
+      datetime: '2020-05-09T03:34:16.566021'
     images: []
   spec_count: 1
   citations: []

@@ -6,7 +6,9 @@
     display_name: PDT
     origin:
       year: 1876
-    glassware: []
+    glassware:
+    - slug: collins
+      display_name: Collins
     construction:
       slug: shake
       display_name: Shake
@@ -32,18 +34,18 @@
     notes:
     - text: Jerry Thomas, The Bar-Tenders’ Guide, 1876
       author:
-      datetime: '2020-05-09T03:24:56.144524'
+      datetime: '2020-05-09T03:34:16.472282'
     - text: This cocktail was named after John Collins, a waiter at Limmer’s Hotel
         in London, who was famous for his gin punch.
       author:
-      datetime: '2020-05-09T03:24:56.144528'
+      datetime: '2020-05-09T03:34:16.472287'
     instructions:
     - text: Shake with ice, then strain into a chilled collins glass filled with ice
       author:
-      datetime: '2020-05-09T03:24:56.144532'
+      datetime: '2020-05-09T03:34:16.472290'
     - text: Top with 2 oz club soda
       author:
-      datetime: '2020-05-09T03:24:56.144534'
+      datetime: '2020-05-09T03:34:16.472292'
     images: []
   spec_count: 1
   citations: []

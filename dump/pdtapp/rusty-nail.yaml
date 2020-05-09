@@ -6,7 +6,9 @@
     display_name: PDT
     origin:
       year: 1977
-    glassware: []
+    glassware:
+    - slug: rocks
+      display_name: Rocks
     construction:
       slug: stir
       display_name: Stir
@@ -27,16 +29,16 @@
     notes:
     - text: Stan Jones, Jones’ Complete Barguide, 1977
       author:
-      datetime: '2020-05-09T03:24:56.208542'
+      datetime: '2020-05-09T03:34:16.532264'
     - text: According to David Wondrich, a cocktail composed of Scotch and Drambuie
         called the B.I.F. was first published in 1937.
       author:
-      datetime: '2020-05-09T03:24:56.208546'
+      datetime: '2020-05-09T03:34:16.532268'
     instructions:
     - text: Stir with ice, then strain over a large ice cube into a chilled rocks
         glass
       author:
-      datetime: '2020-05-09T03:24:56.208550'
+      datetime: '2020-05-09T03:34:16.532271'
     images: []
   spec_count: 1
   citations: []

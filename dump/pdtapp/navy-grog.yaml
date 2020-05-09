@@ -6,7 +6,9 @@
     display_name: PDT
     origin:
       year: 1941
-    glassware: []
+    glassware:
+    - slug: rocks
+      display_name: Rocks
     construction:
       slug: unknown
       display_name: Unknown
@@ -47,19 +49,19 @@
     notes:
     - text: Don the Beachcomber, 1941
       author:
-      datetime: '2020-05-09T03:24:56.226863'
+      datetime: '2020-05-09T03:34:16.552092'
     - text: The term “grog” was coined by members of the British Royal Navy, who named
         their rum ration after Admiral Edward “Old Grog” Vernon, so nicknamed because
         he wore a grogram coat.
       author:
-      datetime: '2020-05-09T03:24:56.226872'
+      datetime: '2020-05-09T03:34:16.552096'
     instructions:
     - text: Build in a chilled rocks glass filled with pebble ice
       author:
-      datetime: '2020-05-09T03:24:56.226877'
+      datetime: '2020-05-09T03:34:16.552102'
     - text: Swizzle, then top with more pebble ice
       author:
-      datetime: '2020-05-09T03:24:56.226879'
+      datetime: '2020-05-09T03:34:16.552105'
     images: []
   spec_count: 1
   citations: []

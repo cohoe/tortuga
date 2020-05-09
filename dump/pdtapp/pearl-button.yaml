@@ -6,7 +6,9 @@
     display_name: PDT
     origin:
       year: 2008
-    glassware: []
+    glassware:
+    - slug: collins
+      display_name: Collins
     construction:
       slug: shake
       display_name: Shake
@@ -32,18 +34,18 @@
     notes:
     - text: John Deragon, Spring 2008
       author:
-      datetime: '2020-05-09T03:24:56.198971'
+      datetime: '2020-05-09T03:34:16.522367'
     - text: The combination of ingredients gives off an opalescent glimmer reminiscent
         of the pearl buttons on John’s vest.
       author:
-      datetime: '2020-05-09T03:24:56.198975'
+      datetime: '2020-05-09T03:34:16.522372'
     instructions:
     - text: Shake with ice, then strain into a chilled collins glass filled with ice
       author:
-      datetime: '2020-05-09T03:24:56.198979'
+      datetime: '2020-05-09T03:34:16.522375'
     - text: Top with 1.5 oz of San Pellegrino Limonata
       author:
-      datetime: '2020-05-09T03:24:56.198985'
+      datetime: '2020-05-09T03:34:16.522377'
     images: []
   spec_count: 1
   citations: []

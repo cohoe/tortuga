@@ -6,7 +6,9 @@
     display_name: PDT
     origin:
       year: 1862
-    glassware: []
+    glassware:
+    - slug: rocks
+      display_name: Rocks
     construction:
       slug: shake
       display_name: Shake
@@ -37,16 +39,16 @@
     notes:
     - text: Jerry Thomas, The Bar-Tenders’ Guide, 1862
       author:
-      datetime: '2020-05-09T03:24:56.200024'
+      datetime: '2020-05-09T03:34:16.523477'
     - text: This delicious New Orleans brunch staple is rarely served on menus north
         of the Mason-Dixon Line.
       author:
-      datetime: '2020-05-09T03:24:56.200029'
+      datetime: '2020-05-09T03:34:16.523482'
     instructions:
     - text: Shake with ice, then strain over one large ice cube in a chilled rocks
         glass
       author:
-      datetime: '2020-05-09T03:24:56.200034'
+      datetime: '2020-05-09T03:34:16.523485'
     images: []
   spec_count: 1
   citations: []

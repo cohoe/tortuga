@@ -6,7 +6,9 @@
     display_name: PDT
     origin:
       year: 1862
-    glassware: []
+    glassware:
+    - slug: punch
+      display_name: Punch
     construction:
       slug: shake
       display_name: Shake
@@ -47,18 +49,18 @@
     notes:
     - text: Jerry Thomas, The Bar-Tenders’ Guide, 1862
       author:
-      datetime: '2020-05-09T03:24:56.216653'
+      datetime: '2020-05-09T03:34:16.541255'
     - text: The original recipe called for peach brandy, a peach eau de vie aged in
         wood barrels that was absent from the market when we resurrected this recipe.
         In the years since, Peach Street Distillers has released the first new bottling
         of peach brandy in over a centuryand it’s a gem!
       author:
-      datetime: '2020-05-09T03:24:56.216658'
+      datetime: '2020-05-09T03:34:16.541259'
     instructions:
     - text: Shake with ice, then strain into a chilled punch glass filled with ice
         cubes
       author:
-      datetime: '2020-05-09T03:24:56.216662'
+      datetime: '2020-05-09T03:34:16.541263'
     images: []
   spec_count: 1
   citations: []

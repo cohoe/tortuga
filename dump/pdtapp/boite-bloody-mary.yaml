@@ -6,7 +6,9 @@
     display_name: PDT
     origin:
       year: 2013
-    glassware: []
+    glassware:
+    - slug: collins
+      display_name: Collins
     construction:
       slug: shake
       display_name: Shake
@@ -57,18 +59,18 @@
     notes:
     - text: Jim Meehan, Summer 2013
       author:
-      datetime: '2020-05-09T03:24:56.215480'
+      datetime: '2020-05-09T03:34:16.539837'
     - text: La Boîte’s lively spice mix is a spectacle unto itself. Hold the salad
         bar!
       author:
-      datetime: '2020-05-09T03:24:56.215484'
+      datetime: '2020-05-09T03:34:16.539842'
     instructions:
     - text: Build in a shaker, then fill with ice cubes
       author:
-      datetime: '2020-05-09T03:24:56.215488'
+      datetime: '2020-05-09T03:34:16.539845'
     - text: Roll, then fine-strain into a chilled collins glass filled with ice
       author:
-      datetime: '2020-05-09T03:24:56.215490'
+      datetime: '2020-05-09T03:34:16.539847'
     images: []
   spec_count: 1
   citations: []

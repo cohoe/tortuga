@@ -6,7 +6,9 @@
     display_name: PDT
     origin:
       year: 2007
-    glassware: []
+    glassware:
+    - slug: rocks
+      display_name: Rocks
     construction:
       slug: stir
       display_name: Stir
@@ -32,16 +34,16 @@
     notes:
     - text: John Deragon, Winter 2007
       author:
-      datetime: '2020-05-09T03:24:56.240854'
+      datetime: '2020-05-09T03:34:16.567096'
     - text: After tasting Eben Freeman’s walnut cognac at Tailor, John came up with
         this nutty old-fashioned whose name suggests its effect on the imbiber.
       author:
-      datetime: '2020-05-09T03:24:56.240858'
+      datetime: '2020-05-09T03:34:16.567100'
     instructions:
     - text: Stir with ice, then strain over one large ice cube into a chilled rocks
         glass
       author:
-      datetime: '2020-05-09T03:24:56.240862'
+      datetime: '2020-05-09T03:34:16.567103'
     images: []
   spec_count: 1
   citations: []

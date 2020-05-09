@@ -6,7 +6,9 @@
     display_name: PDT
     origin:
       year: 2005
-    glassware: []
+    glassware:
+    - slug: rocks
+      display_name: Rocks
     construction:
       slug: shake
       display_name: Shake
@@ -37,23 +39,23 @@
     notes:
     - text: Jim Meehan, New York, 2005
       author:
-      datetime: '2020-05-09T03:24:56.229879'
+      datetime: '2020-05-09T03:34:16.555397'
     - text: Jim named this Southside Fizz variation in honor of the three parks in
         Gramercy Tavern’s neighborhood (Madison Park to the north, Gramercy Park to
         the east, and Union Square to the south).
       author:
-      datetime: '2020-05-09T03:24:56.229884'
+      datetime: '2020-05-09T03:34:16.555402'
     instructions:
     - text: Muddle mint and orgeat, then add remaining ingredients
       author:
-      datetime: '2020-05-09T03:24:56.229888'
+      datetime: '2020-05-09T03:34:16.555405'
     - text: Shake with ice, then fine-strain into a chilled rocks glass filled with
         ice cubes
       author:
-      datetime: '2020-05-09T03:24:56.229890'
+      datetime: '2020-05-09T03:34:16.555407'
     - text: Top with 1 oz club soda
       author:
-      datetime: '2020-05-09T03:24:56.229892'
+      datetime: '2020-05-09T03:34:16.555409'
     images: []
   spec_count: 1
   citations: []

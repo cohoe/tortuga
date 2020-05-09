@@ -6,7 +6,9 @@
     display_name: PDT
     origin:
       year: 2010
-    glassware: []
+    glassware:
+    - slug: fizz
+      display_name: Fizz
     construction:
       slug: shake
       display_name: Shake
@@ -42,19 +44,19 @@
     notes:
     - text: Lydia Reissmueller, Fall 2010
       author:
-      datetime: '2020-05-09T03:24:56.211946'
+      datetime: '2020-05-09T03:34:16.535921'
     - text: Lydia came up with a handful of brilliant drinks at PDT including this
         healthy ode to the Beastie Boys’ 1986 party classic “Slow and Low” from Licensed
         to Ill.
       author:
-      datetime: '2020-05-09T03:24:56.211950'
+      datetime: '2020-05-09T03:34:16.535926'
     instructions:
     - text: Shake with ice, then strain into a fizz glass filled with ice
       author:
-      datetime: '2020-05-09T03:24:56.211955'
+      datetime: '2020-05-09T03:34:16.535929'
     - text: (No garnish)
       author:
-      datetime: '2020-05-09T03:24:56.211957'
+      datetime: '2020-05-09T03:34:16.535932'
     images: []
   spec_count: 1
   citations: []

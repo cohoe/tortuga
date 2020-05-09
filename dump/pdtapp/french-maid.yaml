@@ -6,7 +6,9 @@
     display_name: PDT
     origin:
       year: 2008
-    glassware: []
+    glassware:
+    - slug: collins
+      display_name: Collins
     construction:
       slug: shake
       display_name: Shake
@@ -50,19 +52,19 @@
     notes:
     - text: Jim Meehan, Fall 2008
       author:
-      datetime: '2020-05-09T03:24:56.228695'
+      datetime: '2020-05-09T03:34:16.554090'
     - text: Attaboy’s Sam Ross created a similar bourbon-based drink which he dubbed
         the Kentucky Maid. Consider this her spicy French cousin.
       author:
-      datetime: '2020-05-09T03:24:56.228700'
+      datetime: '2020-05-09T03:34:16.554095'
     instructions:
     - text: Muddle the cucumber, mint, and syrup, then add everything else
       author:
-      datetime: '2020-05-09T03:24:56.228705'
+      datetime: '2020-05-09T03:34:16.554099'
     - text: Shake with ice, then strain into a chilled collins glass filled with ice
         cubes
       author:
-      datetime: '2020-05-09T03:24:56.228707'
+      datetime: '2020-05-09T03:34:16.554101'
     images: []
   spec_count: 1
   citations: []

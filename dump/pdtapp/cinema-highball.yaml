@@ -6,7 +6,9 @@
     display_name: PDT
     origin:
       year: 2007
-    glassware: []
+    glassware:
+    - slug: collins
+      display_name: Collins
     construction:
       slug: unknown
       display_name: Unknown
@@ -27,18 +29,18 @@
     notes:
     - text: Don Lee, Winter 2007
       author:
-      datetime: '2020-05-09T03:24:56.215147'
+      datetime: '2020-05-09T03:34:16.539420'
     - text: Don Lee’s popcorn-infused rum transforms a familiar drink into a night
         out at the movies in a glass.
       author:
-      datetime: '2020-05-09T03:24:56.215151'
+      datetime: '2020-05-09T03:34:16.539423'
     instructions:
     - text: Build in a chilled collins glass filled with ice cubes
       author:
-      datetime: '2020-05-09T03:24:56.215155'
+      datetime: '2020-05-09T03:34:16.539441'
     - text: (No garnish)
       author:
-      datetime: '2020-05-09T03:24:56.215158'
+      datetime: '2020-05-09T03:34:16.539443'
     images: []
   spec_count: 1
   citations: []

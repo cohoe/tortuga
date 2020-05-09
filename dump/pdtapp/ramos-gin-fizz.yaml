@@ -6,7 +6,9 @@
     display_name: PDT
     origin:
       year: 1895
-    glassware: []
+    glassware:
+    - slug: collins
+      display_name: Collins
     construction:
       slug: shake
       display_name: Shake
@@ -52,21 +54,21 @@
     notes:
     - text: George Kappeler, Modern American Drinks, 1895
       author:
-      datetime: '2020-05-09T03:24:56.232332'
+      datetime: '2020-05-09T03:34:16.558141'
     - text: The New Orleans Fizz first served in Henry C. Ramos’s Imperial Cabinet
         Saloon didn’t gain its eponym until the early 20th century.
       author:
-      datetime: '2020-05-09T03:24:56.232336'
+      datetime: '2020-05-09T03:34:16.558146'
     instructions:
     - text: Dry-shake, shake with ice, and fine-strain into a chilled collins glass
       author:
-      datetime: '2020-05-09T03:24:56.232341'
+      datetime: '2020-05-09T03:34:16.558149'
     - text: Top with 1 oz club soda
       author:
-      datetime: '2020-05-09T03:24:56.232343'
+      datetime: '2020-05-09T03:34:16.558151'
     - text: (No garnish)
       author:
-      datetime: '2020-05-09T03:24:56.232345'
+      datetime: '2020-05-09T03:34:16.558191'
     images: []
   spec_count: 1
   citations: []

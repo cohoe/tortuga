@@ -6,7 +6,9 @@
     display_name: PDT
     origin:
       year: 2011
-    glassware: []
+    glassware:
+    - slug: pilsner
+      display_name: Pilsner
     construction:
       slug: unknown
       display_name: Unknown
@@ -47,19 +49,19 @@
     notes:
     - text: Jeff Bell, Spring 2011
       author:
-      datetime: '2020-05-09T03:24:56.216091'
+      datetime: '2020-05-09T03:34:16.540494'
     - text: This cocktail features La Boîte’s Shabazi N.38, a spice blend featuring
         green chilies, parsley, and coriander.
       author:
-      datetime: '2020-05-09T03:24:56.216095'
+      datetime: '2020-05-09T03:34:16.540498'
     instructions:
     - text: Build in an iced pilsner glass rimmed with kosher salt and La Boîte Shabazi
         N.38 spice blend
       author:
-      datetime: '2020-05-09T03:24:56.216100'
+      datetime: '2020-05-09T03:34:16.540501'
     - text: (No garnish)
       author:
-      datetime: '2020-05-09T03:24:56.216102'
+      datetime: '2020-05-09T03:34:16.540504'
     images: []
   spec_count: 1
   citations: []

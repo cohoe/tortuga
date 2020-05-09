@@ -6,7 +6,9 @@
     display_name: PDT
     origin:
       year: 1862
-    glassware: []
+    glassware:
+    - slug: the
+      display_name: The
     construction:
       slug: stir
       display_name: Stir
@@ -30,11 +32,11 @@
     notes:
     - text: Jerry Thomas, The Bar-Tenders’ Guide, 1862
       author:
-      datetime: '2020-05-09T03:24:56.227280'
+      datetime: '2020-05-09T03:34:16.552588'
     - text: The water in this classic preparation for traditional absinthe helps release
         the aromatic elements of the spirit and dilutes it to a potable strength.
       author:
-      datetime: '2020-05-09T03:24:56.227285'
+      datetime: '2020-05-09T03:34:16.552592'
     instructions:
     - text: Pour absinthe into a chilled absinthe glass. Place a slotted absinthe
         spoon over the rim of the glass and set a sugar cube on top of the spoon.
@@ -44,7 +46,7 @@
         of the glass. When the mixture is completely cloudy, the drip should be ready.
         Stir and serve.
       author:
-      datetime: '2020-05-09T03:24:56.227289'
+      datetime: '2020-05-09T03:34:16.552595'
     images: []
   spec_count: 1
   citations: []

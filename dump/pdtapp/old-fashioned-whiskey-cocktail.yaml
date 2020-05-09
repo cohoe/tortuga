@@ -6,7 +6,9 @@
     display_name: PDT
     origin:
       year: 1888
-    glassware: []
+    glassware:
+    - slug: rocks
+      display_name: Rocks
     construction:
       slug: stir
       display_name: Stir
@@ -32,19 +34,19 @@
     notes:
     - text: Theodore Proulx, The Bartender’s Manual, 1888
       author:
-      datetime: '2020-05-09T03:24:56.163589'
+      datetime: '2020-05-09T03:34:16.493156'
     - text: In 1806 the word cocktail was defined in the Balance and Columbian Repository
         newspaper, so by 1888 it was already old hat!
       author:
-      datetime: '2020-05-09T03:24:56.163594'
+      datetime: '2020-05-09T03:34:16.493161'
     instructions:
     - text: Muddle sugar and bitters, then add whiskey
       author:
-      datetime: '2020-05-09T03:24:56.163598'
+      datetime: '2020-05-09T03:34:16.493164'
     - text: Stir with ice, then strain over one large ice cube in a chilled rocks
         glass
       author:
-      datetime: '2020-05-09T03:24:56.163600'
+      datetime: '2020-05-09T03:34:16.493166'
     images: []
   spec_count: 1
   citations: []

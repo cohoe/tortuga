@@ -6,7 +6,9 @@
     display_name: PDT
     origin:
       year: 2008
-    glassware: []
+    glassware:
+    - slug: rocks
+      display_name: Rocks
     construction:
       slug: stir
       display_name: Stir
@@ -37,21 +39,21 @@
     notes:
     - text: Daniel Eun, Fall 2008
       author:
-      datetime: '2020-05-09T03:24:56.179410'
+      datetime: '2020-05-09T03:34:16.502692'
     - text: Daniel named the drink after the supporters club for Korea’s national
         football team. According to him, the interplay between Korean tea and Dutch
         gin mirrors the influence of the Dutch coaching staff on the 2002 Korean World
         Cup soccer team.
       author:
-      datetime: '2020-05-09T03:24:56.179415'
+      datetime: '2020-05-09T03:34:16.502696'
     instructions:
     - text: Muddle the persimmon and vermouth, then add remaining ingredients
       author:
-      datetime: '2020-05-09T03:24:56.179419'
+      datetime: '2020-05-09T03:34:16.502699'
     - text: Stir with ice and fine-strain over one large ice cube in a chilled rocks
         glass
       author:
-      datetime: '2020-05-09T03:24:56.179422'
+      datetime: '2020-05-09T03:34:16.502702'
     images: []
   spec_count: 1
   citations: []

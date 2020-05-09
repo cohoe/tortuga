@@ -35,23 +35,23 @@
       unit: thin
       notes: []
     garnish: []
-    straw: false
+    straw: true
     citations: []
     notes:
     - text: Jim Meehan, Summer 2008
       author:
-      datetime: '2020-05-09T03:24:56.244366'
+      datetime: '2020-05-09T03:34:16.570898'
     - text: To accentuate the vegetal quality of the tequila, Jim muddled green bell
         pepper in this pomegranate-accented strawberry daisy.
       author:
-      datetime: '2020-05-09T03:24:56.244370'
+      datetime: '2020-05-09T03:34:16.570902'
     instructions:
     - text: Muddle the strawberries, pepper, and grenadine, then add remaining ingredients
       author:
-      datetime: '2020-05-09T03:24:56.244374'
+      datetime: '2020-05-09T03:34:16.570905'
     - text: Shake with ice and fine-strain into a chilled coupe
       author:
-      datetime: '2020-05-09T03:24:56.244377'
+      datetime: '2020-05-09T03:34:16.570908'
     images: []
   spec_count: 1
   citations: []

@@ -40,23 +40,23 @@
       display_name: 1 Strawberry Trimmed
       notes: []
     garnish: []
-    straw: false
+    straw: true
     citations: []
     notes:
     - text: Lindsay Nader, Spring 2010
       author:
-      datetime: '2020-05-09T03:24:56.170982'
+      datetime: '2020-05-09T03:34:16.500921'
     - text: A mashup of reposado, “rested” in Spanish, and punt, “point” in Italian,
         this bittersweet strawberry Margarita is R&R in a glass.
       author:
-      datetime: '2020-05-09T03:24:56.170987'
+      datetime: '2020-05-09T03:34:16.500926'
     instructions:
     - text: In a shaking tin muddle strawberry, then add remaining ingredients
       author:
-      datetime: '2020-05-09T03:24:56.170991'
+      datetime: '2020-05-09T03:34:16.500929'
     - text: Shake with ice and fine-strain into a chilled coupe
       author:
-      datetime: '2020-05-09T03:24:56.170993'
+      datetime: '2020-05-09T03:34:16.500932'
     images: []
   spec_count: 1
   citations: []

@@ -6,7 +6,9 @@
     display_name: PDT
     origin:
       year: 2009
-    glassware: []
+    glassware:
+    - slug: rocks
+      display_name: Rocks
     construction:
       slug: stir
       display_name: Stir
@@ -42,18 +44,18 @@
     notes:
     - text: Lydia Reissmueller, Fall 2009
       author:
-      datetime: '2020-05-09T03:24:56.166301'
+      datetime: '2020-05-09T03:34:16.496238'
     - text: Lydia Reissmueller came up with this twist on Rock & Rye, a liqueur prepared
         by sweetening straight rye, batavia arrack, demerara syrup and bitters
       author:
-      datetime: '2020-05-09T03:24:56.166306'
+      datetime: '2020-05-09T03:34:16.496242'
     instructions:
     - text: Stir with ice, then strain into a chilled rocks glass filled with ice
       author:
-      datetime: '2020-05-09T03:24:56.166310'
+      datetime: '2020-05-09T03:34:16.496246'
     - text: Pinch an orange peel and lemon peel over the surface and discard
       author:
-      datetime: '2020-05-09T03:24:56.166313'
+      datetime: '2020-05-09T03:34:16.496248'
     images: []
   spec_count: 1
   citations: []

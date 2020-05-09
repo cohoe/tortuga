@@ -6,7 +6,9 @@
     display_name: PDT
     origin:
       year: 2009
-    glassware: []
+    glassware:
+    - slug: rocks
+      display_name: Rocks
     construction:
       slug: shake
       display_name: Shake
@@ -57,19 +59,19 @@
     notes:
     - text: Gerry Corcoran, Spring 2009
       author:
-      datetime: '2020-05-09T03:24:56.142506'
+      datetime: '2020-05-09T03:34:16.470092'
     - text: Gerry created this riff on the Luau Grog published in Jeff Berry’s Sippin’
         Safari for two of our beloved regulars, Gina Haase and Jack Fetterman.
       author:
-      datetime: '2020-05-09T03:24:56.142511'
+      datetime: '2020-05-09T03:34:16.470097'
     instructions:
     - text: Shake with ice, then strain into a chilled rocks glass filled with pebble
         ice
       author:
-      datetime: '2020-05-09T03:24:56.142515'
+      datetime: '2020-05-09T03:34:16.470100'
     - text: Top with more pebble ice
       author:
-      datetime: '2020-05-09T03:24:56.142517'
+      datetime: '2020-05-09T03:34:16.470102'
     images: []
   spec_count: 1
   citations: []

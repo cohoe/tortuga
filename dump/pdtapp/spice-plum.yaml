@@ -6,7 +6,9 @@
     display_name: PDT
     origin:
       year: 2012
-    glassware: []
+    glassware:
+    - slug: cocktail
+      display_name: Cocktail
     construction:
       slug: shake
       display_name: Shake
@@ -42,20 +44,20 @@
     notes:
     - text: Jim Meehan & Jeff Bell, Summer 2012
       author:
-      datetime: '2020-05-09T03:24:56.219567'
+      datetime: '2020-05-09T03:34:16.544252'
     - text: This plummy take on a classic Daiquiri is rimmed with rimming mix N.26,
         a mixture of La Boîte’s N.26 (long pepper, lemon, and mace) and demerara sugar,
         which balances the citrus.
       author:
-      datetime: '2020-05-09T03:24:56.219572'
+      datetime: '2020-05-09T03:34:16.544256'
     instructions:
     - text: Shake with ice, then strain into a cocktail glass rimmed with rimming
         mix N.26
       author:
-      datetime: '2020-05-09T03:24:56.219576'
+      datetime: '2020-05-09T03:34:16.544259'
     - text: (No garnish)
       author:
-      datetime: '2020-05-09T03:24:56.219578'
+      datetime: '2020-05-09T03:34:16.544262'
     images: []
   spec_count: 1
   citations: []

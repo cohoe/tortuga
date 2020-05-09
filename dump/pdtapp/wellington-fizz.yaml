@@ -6,7 +6,9 @@
     display_name: PDT
     origin:
       year: 2010
-    glassware: []
+    glassware:
+    - slug: collins
+      display_name: Collins
     construction:
       slug: shake
       display_name: Shake
@@ -47,18 +49,18 @@
     notes:
     - text: Sean Hoard, Spring 2010
       author:
-      datetime: '2020-05-09T03:24:56.181854'
+      datetime: '2020-05-09T03:34:16.505184'
     - text: 'Named after a coastal town on New Zealand’s northern island, this fizz
         marries the classic Ramos Gin Fizz with a “Kiwi” delicacy: passion fruit pavlova.'
       author:
-      datetime: '2020-05-09T03:24:56.181859'
+      datetime: '2020-05-09T03:34:16.505188'
     instructions:
     - text: Dry shake, then shake with ice and strain into a chilled collins glass
       author:
-      datetime: '2020-05-09T03:24:56.181863'
+      datetime: '2020-05-09T03:34:16.505192'
     - text: Top with 1 oz club soda
       author:
-      datetime: '2020-05-09T03:24:56.181865'
+      datetime: '2020-05-09T03:34:16.505194'
     images: []
   spec_count: 1
   citations: []

@@ -6,7 +6,9 @@
     display_name: PDT
     origin:
       year: 1972
-    glassware: []
+    glassware:
+    - slug: rocks
+      display_name: Rocks
     construction:
       slug: shake
       display_name: Shake
@@ -42,16 +44,16 @@
     notes:
     - text: Jules Bergeron, Trader Vic’s Bartender’s Guide, 1972
       author:
-      datetime: '2020-05-09T03:24:56.219824'
+      datetime: '2020-05-09T03:34:16.544547'
     - text: Tiki godfather Trader Vic claimed he first served this drink to friends
         visiting from Tahiti in 1944, who pronounced it Maitai roa!“Very good!”
       author:
-      datetime: '2020-05-09T03:24:56.219828'
+      datetime: '2020-05-09T03:34:16.544551'
     instructions:
     - text: Shake with ice, then strain into a chilled rocks glass filled with pebble
         ice
       author:
-      datetime: '2020-05-09T03:24:56.219833'
+      datetime: '2020-05-09T03:34:16.544555'
     images: []
   spec_count: 1
   citations: []

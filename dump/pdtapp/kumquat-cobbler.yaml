@@ -6,7 +6,9 @@
     display_name: PDT
     origin:
       year: 2011
-    glassware: []
+    glassware:
+    - slug: collins
+      display_name: Collins
     construction:
       slug: shake
       display_name: Shake
@@ -47,18 +49,18 @@
     notes:
     - text: Jim Meehan, Spring 2011
       author:
-      datetime: '2020-05-09T03:24:56.186150'
+      datetime: '2020-05-09T03:34:16.509061'
     - text: Jim created this cocktail at the behest of New York Magazine’s Rob Patronite
         and Robin Raisfeld, who requested a kumquat recipe for their “In Season” column.
       author:
-      datetime: '2020-05-09T03:24:56.186155'
+      datetime: '2020-05-09T03:34:16.509066'
     instructions:
     - text: Muddle the kumquats, then add remaining ingredients
       author:
-      datetime: '2020-05-09T03:24:56.186159'
+      datetime: '2020-05-09T03:34:16.509069'
     - text: Shake with ice, then strain into a collins glass filled with pebble ice
       author:
-      datetime: '2020-05-09T03:24:56.186162'
+      datetime: '2020-05-09T03:34:16.509072'
     images: []
   spec_count: 1
   citations: []

@@ -6,7 +6,9 @@
     display_name: PDT
     origin:
       year: 2010
-    glassware: []
+    glassware:
+    - slug: mixing
+      display_name: Mixing
     construction:
       slug: stir
       display_name: Stir
@@ -40,19 +42,19 @@
     notes:
     - text: Karen Fu & Jim Meehan, Summer 2010
       author:
-      datetime: '2020-05-09T03:24:56.216368'
+      datetime: '2020-05-09T03:34:16.540860'
     - text: Loosely inspired by the Crisp cocktail in Applegreen’s Bar Book, this
         delicate saketini showcases the subtle green melon and mint notes of the sake.
       author:
-      datetime: '2020-05-09T03:24:56.216372'
+      datetime: '2020-05-09T03:34:16.540865'
     instructions:
     - text: In a mixing glass muddle the apple, mint, and syrup, then add remaining
         ingredients
       author:
-      datetime: '2020-05-09T03:24:56.216377'
+      datetime: '2020-05-09T03:34:16.540876'
     - text: Stir with ice and fine-strain into a chilled coupe
       author:
-      datetime: '2020-05-09T03:24:56.216379'
+      datetime: '2020-05-09T03:34:16.540878'
     images: []
   spec_count: 1
   citations: []

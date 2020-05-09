@@ -6,7 +6,9 @@
     display_name: PDT
     origin:
       year: 1937
-    glassware: []
+    glassware:
+    - slug: rocks
+      display_name: Rocks
     construction:
       slug: stir
       display_name: Stir
@@ -47,19 +49,19 @@
     notes:
     - text: Stanley Clisby Arthur, Famous New Orleans Drinks, 1937
       author:
-      datetime: '2020-05-09T03:24:56.141917'
+      datetime: '2020-05-09T03:34:16.469352'
     - text: According to Arthur, “This is the cocktail that Walter Bergeron, head
         bartender of the Hotel Monteleone cocktail lounge, takes pride in mixing.”
       author:
-      datetime: '2020-05-09T03:24:56.141921'
+      datetime: '2020-05-09T03:34:16.469356'
     instructions:
     - text: Stir with ice, then strain over one large ice cube into a chilled rocks
         glass
       author:
-      datetime: '2020-05-09T03:24:56.141925'
+      datetime: '2020-05-09T03:34:16.469360'
     - text: (No garnish)
       author:
-      datetime: '2020-05-09T03:24:56.141928'
+      datetime: '2020-05-09T03:34:16.469363'
     images: []
   spec_count: 1
   citations: []

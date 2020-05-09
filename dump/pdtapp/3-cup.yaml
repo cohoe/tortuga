@@ -6,7 +6,9 @@
     display_name: PDT
     origin:
       year: 2009
-    glassware: []
+    glassware:
+    - slug: collins
+      display_name: Collins
     construction:
       slug: shake
       display_name: Shake
@@ -60,20 +62,20 @@
     notes:
     - text: Gerry Corcoran, Spring 2009
       author:
-      datetime: '2020-05-09T03:24:56.184358'
+      datetime: '2020-05-09T03:34:16.507566'
     - text: 'The number refers to the base spirit of the original line of bottled
         Pimms cocktails. When they were launched; #2 was scotch, #3 was brandy, #4
         was rum, #5 was rye whiskey, and #6 was vodka.'
       author:
-      datetime: '2020-05-09T03:24:56.184380'
+      datetime: '2020-05-09T03:34:16.507571'
     instructions:
     - text: Muddle the mint, cucumber, and orange, then add remaining ingredients
       author:
-      datetime: '2020-05-09T03:24:56.184385'
+      datetime: '2020-05-09T03:34:16.507575'
     - text: Shake with ice, then fine-strain into a chilled collins glass filled with
         an ice spear
       author:
-      datetime: '2020-05-09T03:24:56.184387'
+      datetime: '2020-05-09T03:34:16.507577'
     images: []
   spec_count: 1
   citations: []
