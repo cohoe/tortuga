@@ -1,0 +1,50 @@
+- slug: airmail
+  display_name: Airmail
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 1941
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: banks-5-island-rum
+      display_name: Banks 5 Island Rum
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: honey-syrup
+      display_name: Honey Syrup
+      quantity: 0.5
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: W. C. Whitfield, Here’s How, 1941
+      author:
+      datetime: '2020-05-09T03:24:56.210489'
+    - text: 'Underneath the printed recipe, it states: “It ought to make you fly high.”'
+      author:
+      datetime: '2020-05-09T03:24:56.210493'
+    instructions:
+    - text: Shake with ice, then strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.210497'
+    - text: Top with 1.5 oz Laurent-Perrier Brut
+      author:
+      datetime: '2020-05-09T03:24:56.210499'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

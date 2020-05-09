@@ -1,0 +1,61 @@
+- slug: parkside-fizz
+  display_name: Parkside Fizz
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2005
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: dsp-ca-162-citrus-medica-var-sarcodactylis
+      display_name: Dsp Ca 162 Citrus Medica Var Sarcodactylis
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: small-hand-foods-orgeat
+      display_name: Small Hand Foods Orgeat
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: leaves-plus-1-mint-sprig-for-garnish
+      display_name: Leaves Plus 1 Mint Sprig For Garnish
+      quantity: 8
+      unit: mint
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jim Meehan, New York, 2005
+      author:
+      datetime: '2020-05-09T03:24:56.229879'
+    - text: Jim named this Southside Fizz variation in honor of the three parks in
+        Gramercy Tavern’s neighborhood (Madison Park to the north, Gramercy Park to
+        the east, and Union Square to the south).
+      author:
+      datetime: '2020-05-09T03:24:56.229884'
+    instructions:
+    - text: Muddle mint and orgeat, then add remaining ingredients
+      author:
+      datetime: '2020-05-09T03:24:56.229888'
+    - text: Shake with ice, then fine-strain into a chilled rocks glass filled with
+        ice cubes
+      author:
+      datetime: '2020-05-09T03:24:56.229890'
+    - text: Top with 1 oz club soda
+      author:
+      datetime: '2020-05-09T03:24:56.229892'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

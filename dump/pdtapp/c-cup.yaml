@@ -1,0 +1,66 @@
+- slug: c-cup
+  display_name: C Cup
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2012
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: tanqueray-10-gin
+      display_name: Tanqueray 10 Gin
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: apple-cider
+      display_name: Apple Cider
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: cocchi-americano
+      display_name: Cocchi Americano
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: yellow-chartreuse-v-e-p
+      display_name: Yellow Chartreuse V E P
+      quantity: 0.2
+      unit: oz
+      notes: []
+    - slug: leaves
+      display_name: Leaves
+      quantity: 3
+      unit: cilantro
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Anne Robinson, Fall 2012
+      author:
+      datetime: '2020-05-09T03:24:56.137816'
+    - text: After combining more than a handful of CsChartreuse, cilantro, Cocchi,
+        and ciderin a breast-shaped coupe, we felt compelled to give it a racy name.
+      author:
+      datetime: '2020-05-09T03:24:56.137820'
+    instructions:
+    - text: Shake with ice and fine-strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.137825'
+    - text: (No garnish)
+      author:
+      datetime: '2020-05-09T03:24:56.137827'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

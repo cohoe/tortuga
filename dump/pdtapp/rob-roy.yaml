@@ -1,0 +1,49 @@
+- slug: rob-roy
+  display_name: Rob Roy
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 1900
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: famous-grouse-blended-scotch-whisky
+      display_name: Famous Grouse Blended Scotch Whisky
+      quantity: 2.5
+      unit: oz
+      notes: []
+    - slug: dolin-rouge-vermouth
+      display_name: Dolin Rouge Vermouth
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: angostura-orange-bitters
+      display_name: Angostura Orange Bitters
+      quantity: 2
+      unit: dashes
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: 'The Cocktail Book: A Sideboard Manual for Gentlemen, 1900'
+      author:
+      datetime: '2020-05-09T03:24:56.161814'
+    - text: The Scotch Whisky Manhattan was named after the romantic comic opera Rob
+        Roy, which opened in 1894 in Manhattan’s Herald Square, right around the corner
+        from the newly built Waldorf Hotel.
+      author:
+      datetime: '2020-05-09T03:24:56.161818'
+    instructions:
+    - text: Stir with ice, then strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.161822'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

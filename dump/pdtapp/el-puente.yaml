@@ -1,0 +1,53 @@
+- slug: el-puente
+  display_name: El Puente
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2007
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: astral-blanco-tequila
+      display_name: Astral Blanco Tequila
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: grapefruit-juice
+      display_name: Grapefruit Juice
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: martini-bianco-vermouth
+      display_name: Martini Bianco Vermouth
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: st-germain
+      display_name: St Germain
+      quantity: 0.5
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jim Meehan, Summer 2007
+      author:
+      datetime: '2020-05-09T03:24:56.159320'
+    - text: The modifiers in this cocktail “bridge” the smoky, fruity, and vegetal
+        flavors of tequila and mezcal.
+      author:
+      datetime: '2020-05-09T03:24:56.159324'
+    instructions:
+    - text: Shake with ice, then strain into a chilled, Sombra Mezcal-rinsed coupe
+      author:
+      datetime: '2020-05-09T03:24:56.159328'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

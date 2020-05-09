@@ -1,0 +1,60 @@
+- slug: mojito
+  display_name: Mojito
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 1929
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: banks-5-island-rum
+      display_name: Banks 5 Island Rum
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: simple-syrup
+      display_name: Simple Syrup
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: leaves-plus-1-mint-sprig-for-garnish
+      display_name: Leaves Plus 1 Mint Sprig For Garnish
+      quantity: 8
+      unit: mint
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Juan A. Lasa, Libro de Cocktail, 1929 (as the “Rum Mojo”)
+      author:
+      datetime: '2020-05-09T03:24:56.243536'
+    - text: The Mojito regained popularity in 2002 after Pierce Brosnan (playing James
+        Bond, of course) ordered one in Die Another Day.
+      author:
+      datetime: '2020-05-09T03:24:56.243540'
+    instructions:
+    - text: Add the simple syrup and mint leaves to a mixing glass and muddle
+      author:
+      datetime: '2020-05-09T03:24:56.243544'
+    - text: Add the rest of the ingredients, then shake and fine-strain into a chilled
+        collins glass filled with ice
+      author:
+      datetime: '2020-05-09T03:24:56.243546'
+    - text: Top with 1 oz club soda
+      author:
+      datetime: '2020-05-09T03:24:56.243548'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

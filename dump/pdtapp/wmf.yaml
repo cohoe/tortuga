@@ -1,0 +1,62 @@
+- slug: wmf
+  display_name: WMF
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2012
+    glassware: []
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: hakushu-12-year-old
+      display_name: Hakushu 12 Year Old
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: lustau-east-india-sherry
+      display_name: Lustau East India Sherry
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: abbey-ale-syrup
+      display_name: Abbey Ale Syrup
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: clear-creek-kirschwasser
+      display_name: Clear Creek Kirschwasser
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: mango-vinegar-huilerie-beaujolaise-vinaigre-de-mangue
+      display_name: Mango Vinegar Huilerie Beaujolaise Vinaigre De Mangue
+      quantity: 0.25
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Payman Bahmani, Summer 2012
+      author:
+      datetime: '2020-05-09T03:24:56.210296'
+    - text: With ingredients like mango vinegar and beer syrup, Payman figured people
+        might ask ‘WTF?’ Whereas a marine might say, “Whisky Tango Foxtrot,” Payman
+        says, “Whiskey Mango Foxtrot!”
+      author:
+      datetime: '2020-05-09T03:24:56.210300'
+    instructions:
+    - text: Build in a pilsner glass, then fill with pebble ice
+      author:
+      datetime: '2020-05-09T03:24:56.210304'
+    - text: Swizzle, then top with more pebble ice
+      author:
+      datetime: '2020-05-09T03:24:56.210306'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

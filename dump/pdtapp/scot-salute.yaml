@@ -1,0 +1,58 @@
+- slug: scot-salute
+  display_name: Scot Salute
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2010
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: cocchi-americano
+      display_name: Cocchi Americano
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: compass-box-orangerie
+      display_name: Compass Box Orangerie
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: compass-box-peat-monster
+      display_name: Compass Box Peat Monster
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: regans-orange-bitters
+      display_name: Regans Orange Bitters
+      quantity: 1
+      unit: dash
+      notes: []
+    - slug: angostura-bitters
+      display_name: Angostura Bitters
+      quantity: 1
+      unit: dash
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jim Meehan, Fall 2010
+      author:
+      datetime: '2020-05-09T03:24:56.240433'
+    - text: In celebration of the 10th Anniversary of Compass Box, Jim blended a couple
+        of his favorite marks in this twist on the classic Prince Edward cocktail.
+      author:
+      datetime: '2020-05-09T03:24:56.240437'
+    instructions:
+    - text: Stir with ice, then strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.240442'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

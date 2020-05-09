@@ -1,0 +1,65 @@
+- slug: redthorn
+  display_name: Redthorn
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2012
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: nolets-silver-dry-gin
+      display_name: Nolets Silver Dry Gin
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: dolin-blanc-vermouth
+      display_name: Dolin Blanc Vermouth
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: grapefruit-juice
+      display_name: Grapefruit Juice
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: rose-simple-syrup
+      display_name: Rose Simple Syrup
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: 3-raspberries
+      display_name: 3 Raspberries
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jeff Bell, Summer 2012
+      author:
+      datetime: '2020-05-09T03:24:56.159102'
+    - text: Jeff combined fresh raspberries and Lebanese rose syrup to accentuate
+        the raspberry and rose botanicals in Nolet’s and added citrus to balance the
+        sweetness of the summery sour.
+      author:
+      datetime: '2020-05-09T03:24:56.159106'
+    instructions:
+    - text: Muddle raspberries, juices, and syrup, then add remaining ingredients
+      author:
+      datetime: '2020-05-09T03:24:56.159110'
+    - text: Shake with ice and fine-strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.159113'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

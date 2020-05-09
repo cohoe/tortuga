@@ -1,0 +1,57 @@
+- slug: green-lantern
+  display_name: Green Lantern
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2011
+    glassware: []
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: mexican-hot-chocolate
+      display_name: Mexican Hot Chocolate
+      quantity: 5
+      unit: oz
+      notes: []
+    - slug: pueblo-viejo-anejo-tequila
+      display_name: Pueblo Viejo Anejo Tequila
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: green-chartreuse
+      display_name: Green Chartreuse
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: cholula-hot-sauce
+      display_name: Cholula Hot Sauce
+      quantity: 1
+      unit: dash
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jim Meehan, Winter 2011
+      author:
+      datetime: '2020-05-09T03:24:56.189772'
+    - text: Verte ChaudGreen Chartreuse and hot chocolateis a popular après ski in
+        the French Alps. With no mountains in our midst, we figured a little more
+        booze wouldn’t hurt.
+      author:
+      datetime: '2020-05-09T03:24:56.189777'
+    instructions:
+    - text: Build in a preheated mug
+      author:
+      datetime: '2020-05-09T03:24:56.189784'
+    - text: (No garnish)
+      author:
+      datetime: '2020-05-09T03:24:56.189787'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

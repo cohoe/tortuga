@@ -1,0 +1,63 @@
+- slug: spice-plum
+  display_name: Spice Plum
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2012
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: banks-7-golden-age-rum
+      display_name: Banks 7 Golden Age Rum
+      quantity: 1.75
+      unit: oz
+      notes: []
+    - slug: clear-creek-plum-brandy
+      display_name: Clear Creek Plum Brandy
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: averell-damson-gin
+      display_name: Averell Damson Gin
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: petit-canne-sugar-cane-syrup
+      display_name: Petit Canne Sugar Cane Syrup
+      quantity: 0.25
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jim Meehan & Jeff Bell, Summer 2012
+      author:
+      datetime: '2020-05-09T03:24:56.219567'
+    - text: This plummy take on a classic Daiquiri is rimmed with rimming mix N.26,
+        a mixture of La Boîte’s N.26 (long pepper, lemon, and mace) and demerara sugar,
+        which balances the citrus.
+      author:
+      datetime: '2020-05-09T03:24:56.219572'
+    instructions:
+    - text: Shake with ice, then strain into a cocktail glass rimmed with rimming
+        mix N.26
+      author:
+      datetime: '2020-05-09T03:24:56.219576'
+    - text: (No garnish)
+      author:
+      datetime: '2020-05-09T03:24:56.219578'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

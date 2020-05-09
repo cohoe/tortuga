@@ -1,0 +1,70 @@
+- slug: tom-ginger
+  display_name: Tom & Ginger
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2010
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: whole-milk
+      display_name: Whole Milk
+      quantity: 3
+      unit: oz
+      notes: []
+    - slug: pierre-ferrand-ambre-cognac
+      display_name: Pierre Ferrand Ambre Cognac
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: cruzan-black-strap-rum
+      display_name: Cruzan Black Strap Rum
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: smith-cross-rum
+      display_name: Smith Cross Rum
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: demerara-syrup
+      display_name: Demerara Syrup
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: tom-ginger-batter
+      display_name: Tom Ginger Batter
+      quantity: 1
+      unit: Tbsp
+      notes: []
+    - slug: angostura-bitters
+      display_name: Angostura Bitters
+      quantity: 1
+      unit: dash
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jeff Bell, Winter 2010
+      author:
+      datetime: '2020-05-09T03:24:56.234431'
+    - text: Jeff used his mother’s gingersnap cookies as inspiration for this twist
+        on the original Tom and Jerry, an early 19th-century recipe popularized by
+        Jerry Thomas himself.
+      author:
+      datetime: '2020-05-09T03:24:56.234436'
+    instructions:
+    - text: While heating the milk, build remaining ingredients in a preheated Tom
+        & Jerry mug, then stir in the milk
+      author:
+      datetime: '2020-05-09T03:24:56.234440'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

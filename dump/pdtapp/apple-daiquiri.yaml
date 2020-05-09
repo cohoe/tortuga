@@ -1,0 +1,57 @@
+- slug: apple-daiquiri
+  display_name: Apple Daiquiri
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2007
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: flor-de-cana-extra-dry-rum
+      display_name: Flor De Cana Extra Dry Rum
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: schonauer-apfel-schnapps
+      display_name: Schonauer Apfel Schnapps
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: simple-syrup
+      display_name: Simple Syrup
+      quantity: 0.25
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: John Deragon, Fall 2007
+      author:
+      datetime: '2020-05-09T03:24:56.220888'
+    - text: Originally John spiced the German apple schnapps with Phillips Farm apple
+        spread from the Union Square greenmarket. The spread added complexity, but
+        the recipe works well without it.
+      author:
+      datetime: '2020-05-09T03:24:56.220899'
+    instructions:
+    - text: Shake with ice, then strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.220903'
+    - text: (No garnish)
+      author:
+      datetime: '2020-05-09T03:24:56.220906'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

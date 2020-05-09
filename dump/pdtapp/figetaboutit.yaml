@@ -1,0 +1,59 @@
+- slug: figetaboutit
+  display_name: Figetaboutit
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2009
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: bulleit-bourbon
+      display_name: Bulleit Bourbon
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: luxardo-amaretto
+      display_name: Luxardo Amaretto
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: st-dalfour-fig-jam
+      display_name: St Dalfour Fig Jam
+      quantity: 1
+      unit: barspoon
+      notes: []
+    - slug: angostura-bitters
+      display_name: Angostura Bitters
+      quantity: 2
+      unit: dashes
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Lindsay Nader, Fall 2009
+      author:
+      datetime: '2020-05-09T03:24:56.220444'
+    - text: Weary to hear any more debate over potential names for Lindsay’s bittersweet
+        Italian-American whiskey sour, Sean Hoard suggested we figetaboutit, and so
+        it stands.
+      author:
+      datetime: '2020-05-09T03:24:56.220448'
+    instructions:
+    - text: Shake with ice and fine-strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.220452'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

@@ -1,0 +1,56 @@
+- slug: sidecar
+  display_name: Sidecar
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 1922
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: remy-martin-v-s-o-p-cognac
+      display_name: Remy Martin V S O P Cognac
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: cointreau
+      display_name: Cointreau
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: simple-syrup
+      display_name: Simple Syrup
+      quantity: 0.25
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: 'Robert Vermeire, Cocktails: How to Mix Them, 1922'
+      author:
+      datetime: '2020-05-09T03:24:56.223365'
+    - text: According to Vermiere, this cocktail “was first introduced by MacGarry,
+        the celebrated bar-tender of Buck’s Club” in London.
+      author:
+      datetime: '2020-05-09T03:24:56.223369'
+    instructions:
+    - text: Shake with ice, then strain into a chilled, half sugar-rimmed coupe
+      author:
+      datetime: '2020-05-09T03:24:56.223373'
+    - text: (No garnish)
+      author:
+      datetime: '2020-05-09T03:24:56.223375'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

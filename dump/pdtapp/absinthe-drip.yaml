@@ -1,0 +1,52 @@
+- slug: absinthe-drip
+  display_name: Absinthe Drip
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 1862
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: vieux-pontarlier-absinthe
+      display_name: Vieux Pontarlier Absinthe
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: 4-5-6-oz-filtered-water-ice-cold
+      display_name: 4 5 6 Oz Filtered Water Ice Cold
+      notes: []
+    - slug: sugar-cube
+      display_name: Sugar Cube
+      quantity: 1
+      unit: demerara
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jerry Thomas, The Bar-Tenders’ Guide, 1862
+      author:
+      datetime: '2020-05-09T03:24:56.227280'
+    - text: The water in this classic preparation for traditional absinthe helps release
+        the aromatic elements of the spirit and dilutes it to a potable strength.
+      author:
+      datetime: '2020-05-09T03:24:56.227285'
+    instructions:
+    - text: Pour absinthe into a chilled absinthe glass. Place a slotted absinthe
+        spoon over the rim of the glass and set a sugar cube on top of the spoon.
+        Using an absinthe fountain or water carafe, slowly pour or drip ice-cold water
+        over the sugar cube into the glass. As the dripping water dissolves the sugar
+        cube, watch the “hydrophobic” layer of undiluted absinthe rise to the top
+        of the glass. When the mixture is completely cloudy, the drip should be ready.
+        Stir and serve.
+      author:
+      datetime: '2020-05-09T03:24:56.227289'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

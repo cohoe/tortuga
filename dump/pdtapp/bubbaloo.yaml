@@ -1,0 +1,56 @@
+- slug: bubbaloo
+  display_name: Bubbaloo
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2009
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: macchu-pisco
+      display_name: Macchu Pisco
+      quantity: 2.25
+      unit: oz
+      notes: []
+    - slug: carpano-antica-formula-vermouth
+      display_name: Carpano Antica Formula Vermouth
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: rothman-winter-orchard-apricot
+      display_name: Rothman Winter Orchard Apricot
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: amargo-cortesano-bitters
+      display_name: Amargo Cortesano Bitters
+      quantity: 3
+      unit: dashes
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Euclides López, Spring 2009
+      author:
+      datetime: '2020-05-09T03:24:56.207640'
+    - text: López used peach-flavored Bubblicious BurstBubbaloo Durazno, as it’s called
+        in Mexicoas his inspiration for this Peruvian brandy-based treat.
+      author:
+      datetime: '2020-05-09T03:24:56.207644'
+    instructions:
+    - text: Stir with ice, then strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.207652'
+    - text: (No garnish)
+      author:
+      datetime: '2020-05-09T03:24:56.207654'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

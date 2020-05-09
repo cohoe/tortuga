@@ -1,0 +1,58 @@
+- slug: east-india-cocktail
+  display_name: East India Cocktail
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 1900
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: h-by-hine-fine-champagne-vsop
+      display_name: H By Hine Fine Champagne Vsop
+      quantity: 1.75
+      unit: oz
+      notes: []
+    - slug: marie-brizard-orange-curacao
+      display_name: Marie Brizard Orange Curacao
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: pineapple-juice
+      display_name: Pineapple Juice
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: pampero-aniversario-rum
+      display_name: Pampero Aniversario Rum
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: house-orange-bitters
+      display_name: House Orange Bitters
+      quantity: 2
+      unit: dashes
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Harry Johnson, Bartenders’ Manual, 1900
+      author:
+      datetime: '2020-05-09T03:24:56.178790'
+    - text: In his ultra-rare Bartenders’ Manual, Johnson writes, “This drink is a
+        great favorite with the English living in the different parts of East India.”
+      author:
+      datetime: '2020-05-09T03:24:56.178800'
+    instructions:
+    - text: Shake with ice, then strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.178851'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

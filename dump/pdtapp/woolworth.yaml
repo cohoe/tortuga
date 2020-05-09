@@ -1,0 +1,53 @@
+- slug: woolworth
+  display_name: Woolworth
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2007
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: compass-box-asyla-blended-scotch-whisky
+      display_name: Compass Box Asyla Blended Scotch Whisky
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: lustau-manzanilla-papirusa
+      display_name: Lustau Manzanilla Papirusa
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: benedictine
+      display_name: Benedictine
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: of-house-orange-bitters
+      display_name: Of House Orange Bitters
+      quantity: 2
+      unit: Dashes
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: John Deragon, Fall 2007
+      author:
+      datetime: '2020-05-09T03:24:56.187893'
+    - text: This one’s named after the Woolworth building, once the tallest building
+        in New York City.
+      author:
+      datetime: '2020-05-09T03:24:56.187898'
+    instructions:
+    - text: Stir with ice, then strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.187902'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

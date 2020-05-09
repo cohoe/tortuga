@@ -1,0 +1,75 @@
+- slug: shipwreck
+  display_name: Shipwreck
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2013
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: smith-cross-rum
+      display_name: Smith Cross Rum
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: linie-aquavit
+      display_name: Linie Aquavit
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: pernod-absinthe
+      display_name: Pernod Absinthe
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: blandys-bual-5-year-old-madeira
+      display_name: Blandys Bual 5 Year Old Madeira
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: pineapple-juice
+      display_name: Pineapple Juice
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: petit-canne-sugar-cane-syrup
+      display_name: Petit Canne Sugar Cane Syrup
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: miracle-mile-redeye-bitters
+      display_name: Miracle Mile Redeye Bitters
+      quantity: 2
+      unit: Dashes
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jim Meehan, Fall 2013
+      author:
+      datetime: '2020-05-09T03:24:56.232946'
+    - text: This heady blend of nautical spirits and spices was inspired by the exploration
+        of ships lost at sea. Let the adventurer be warned that more than one of these
+        may threaten the expedition.
+      author:
+      datetime: '2020-05-09T03:24:56.232951'
+    instructions:
+    - text: Shake with ice, then strain into a chilled rocks glass filled with pebble
+        ice
+      author:
+      datetime: '2020-05-09T03:24:56.232958'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

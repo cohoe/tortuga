@@ -1,0 +1,76 @@
+- slug: boite-bloody-mary
+  display_name: Boîte Bloody Mary
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2013
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: tomato-juice
+      display_name: Tomato Juice
+      quantity: 4
+      unit: oz
+      notes: []
+    - slug: ketel-one-vodka
+      display_name: Ketel One Vodka
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: lea-perrins-worcestershire-sauce
+      display_name: Lea Perrins Worcestershire Sauce
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: golds-horseradish
+      display_name: Golds Horseradish
+      quantity: 0.5
+      unit: tsp
+      notes: []
+    - slug: la-boite-b-mary-spice-mix
+      display_name: La Boite B Mary Spice Mix
+      quantity: 0.5
+      unit: tsp
+      notes: []
+    - slug: cholula-hot-sauce
+      display_name: Cholula Hot Sauce
+      quantity: 0.25
+      unit: tsp
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jim Meehan, Summer 2013
+      author:
+      datetime: '2020-05-09T03:24:56.215480'
+    - text: La Boîte’s lively spice mix is a spectacle unto itself. Hold the salad
+        bar!
+      author:
+      datetime: '2020-05-09T03:24:56.215484'
+    instructions:
+    - text: Build in a shaker, then fill with ice cubes
+      author:
+      datetime: '2020-05-09T03:24:56.215488'
+    - text: Roll, then fine-strain into a chilled collins glass filled with ice
+      author:
+      datetime: '2020-05-09T03:24:56.215490'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

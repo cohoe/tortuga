@@ -1,0 +1,61 @@
+- slug: smoked-plum-toddy
+  display_name: Smoked Plum Toddy
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2010
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: lapsang-souchong-tea-freshly-brewed
+      display_name: Lapsang Souchong Tea Freshly Brewed
+      quantity: 4
+      unit: oz
+      notes: []
+    - slug: averells-damson-gin
+      display_name: Averells Damson Gin
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: ransom-old-tom-gin
+      display_name: Ransom Old Tom Gin
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: housemade-vanilla-syrup
+      display_name: Housemade Vanilla Syrup
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: simple-syrup
+      display_name: Simple Syrup
+      quantity: 0.25
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Karen Fu & Jim Meehan, Winter 2010
+      author:
+      datetime: '2020-05-09T03:24:56.231780'
+    - text: Vanilla and cloves complement the gin botanicals in this curious winter
+        cure-all.
+      author:
+      datetime: '2020-05-09T03:24:56.231784'
+    instructions:
+    - text: Build in a preheated mug
+      author:
+      datetime: '2020-05-09T03:24:56.231788'
+    - text: Stir
+      author:
+      datetime: '2020-05-09T03:24:56.231791'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

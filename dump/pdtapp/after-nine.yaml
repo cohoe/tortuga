@@ -1,0 +1,54 @@
+- slug: after-nine
+  display_name: After Nine
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2012
+    glassware: []
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: in-pursuit-of-tea-lavender-mint-freshly-brewed
+      display_name: In Pursuit Of Tea Lavender Mint Freshly Brewed
+      quantity: 8
+      unit: oz
+      notes: []
+    - slug: monkey-47-schwarzwald-dry-gin
+      display_name: Monkey 47 Schwarzwald Dry Gin
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: brizard-white-creme-de-cacao
+      display_name: Brizard White Creme De Cacao
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: green-chartreuse-v-e-p
+      display_name: Green Chartreuse V E P
+      quantity: 0.25
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jim Meehan, Winter 2012
+      author:
+      datetime: '2020-05-09T03:24:56.234119'
+    - text: A fitting reward for a vigorous day on the slopes; this winter warmer
+        also delights those of us who spend more time looking at mountains than scaling
+        them.
+      author:
+      datetime: '2020-05-09T03:24:56.234123'
+    instructions:
+    - text: Build in a preheated mug
+      author:
+      datetime: '2020-05-09T03:24:56.234128'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

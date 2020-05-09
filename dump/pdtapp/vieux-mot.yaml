@@ -1,0 +1,56 @@
+- slug: vieux-mot
+  display_name: Vieux Mot
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2007
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: plymouth-gin
+      display_name: Plymouth Gin
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: st-germain
+      display_name: St Germain
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: simple-syrup
+      display_name: Simple Syrup
+      quantity: 0.5
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Don Lee, Fall 2007
+      author:
+      datetime: '2020-05-09T03:24:56.237974'
+    - text: Loosely inspired by the Last Word cocktail, Don’s “old word” features
+        St. Germain as the lone liqueur in his refreshing gin sour.
+      author:
+      datetime: '2020-05-09T03:24:56.237978'
+    instructions:
+    - text: Shake with ice, then strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.237982'
+    - text: (No garnish)
+      author:
+      datetime: '2020-05-09T03:24:56.237989'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

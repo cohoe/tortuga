@@ -1,0 +1,48 @@
+- slug: there-will-be-blood
+  display_name: There Will Be Blood
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2008
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: old-grand-dad-bonded-bourbon
+      display_name: Old Grand Dad Bonded Bourbon
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: tempus-fugit-creme-de-cacao
+      display_name: Tempus Fugit Creme De Cacao
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: blood-orange-juice
+      display_name: Blood Orange Juice
+      quantity: 0.75
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: John deBary, Winter 2008
+      author:
+      datetime: '2020-05-09T03:24:56.206102'
+    - text: John named this after Paul Thomas Anderson’s gruesome tale of greed and
+        ambition set in the Wild West when bourbon was king.
+      author:
+      datetime: '2020-05-09T03:24:56.206106'
+    instructions:
+    - text: Shake with ice, then strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.206110'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

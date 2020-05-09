@@ -1,0 +1,59 @@
+- slug: morango-fizz
+  display_name: Morango Fizz
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2007
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: strawberry-infused-cachaca
+      display_name: Strawberry Infused Cachaca
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: simple-syrup
+      display_name: Simple Syrup
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: white
+      display_name: White
+      quantity: 1
+      unit: egg
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Don Lee, Summer 2007
+      author:
+      datetime: '2020-05-09T03:24:56.217073'
+    - text: Morango means strawberry in Portuguese, the native tongue of Brazil, where
+        cachaça comes from.
+      author:
+      datetime: '2020-05-09T03:24:56.217078'
+    instructions:
+    - text: Dry-shake, then shake with ice and strain into a chilled collins glass
+      author:
+      datetime: '2020-05-09T03:24:56.217082'
+    - text: Top with 1 oz club soda
+      author:
+      datetime: '2020-05-09T03:24:56.217084'
+    - text: (No garnish)
+      author:
+      datetime: '2020-05-09T03:24:56.217086'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

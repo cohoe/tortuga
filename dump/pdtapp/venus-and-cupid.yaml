@@ -1,0 +1,67 @@
+- slug: venus-and-cupid
+  display_name: Venus and Cupid
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2011
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: siembra-azul-reposado-tequila
+      display_name: Siembra Azul Reposado Tequila
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: aperol
+      display_name: Aperol
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: punt-e-mes
+      display_name: Punt E Mes
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: grapefruit-juice
+      display_name: Grapefruit Juice
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: white
+      display_name: White
+      quantity: 1
+      unit: egg
+      notes: []
+    - slug: cardamom-pod
+      display_name: Cardamom Pod
+      quantity: 1
+      unit: green
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Edixon Caridad, Spring 2011
+      author:
+      datetime: '2020-05-09T03:24:56.138372'
+    - text: Edixon used cardamom, a purported aphrodisiac, in this cocktail named
+        after Diego Velazquez’s Venus and Cupid, a reproduction of which hangs on
+        the wall across from the bar.
+      author:
+      datetime: '2020-05-09T03:24:56.138377'
+    instructions:
+    - text: Muddle the cardamom pod, then add remaining ingredients
+      author:
+      datetime: '2020-05-09T03:24:56.138381'
+    - text: Dry-shake, then shake with ice and fine-strain into a chilled egg coupe
+      author:
+      datetime: '2020-05-09T03:24:56.138384'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

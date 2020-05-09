@@ -1,0 +1,59 @@
+- slug: cocula
+  display_name: Cocula
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2014
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: tapatio-blanco-tequila
+      display_name: Tapatio Blanco Tequila
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: channing-daughters-vervino-1
+      display_name: Channing Daughters Vervino 1
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: lemongrass-syrup
+      display_name: Lemongrass Syrup
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: of-tarragon
+      display_name: Of Tarragon
+      quantity: 1
+      unit: sprig
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Euclides López, Spring 2014
+      author:
+      datetime: '2020-05-09T03:24:56.183491'
+    - text: Channing Daughters winemaker Christopher Tracy uses hyper-seasonal local
+        botanicals to make three different vermouth like fortified wines he calls
+        “vervinos”.
+      author:
+      datetime: '2020-05-09T03:24:56.183496'
+    instructions:
+    - text: Shake with ice and fine-strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.183500'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

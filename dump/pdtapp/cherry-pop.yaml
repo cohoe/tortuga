@@ -1,0 +1,62 @@
+- slug: cherry-pop
+  display_name: Cherry Pop
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2009
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: plymouth-gin
+      display_name: Plymouth Gin
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: luxardo-maraschino-liqueur
+      display_name: Luxardo Maraschino Liqueur
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: simple-syrup
+      display_name: Simple Syrup
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: fresh-cherries-reserve-1-for-garnish
+      display_name: Fresh Cherries Reserve 1 For Garnish
+      quantity: 3
+      unit: pitted
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jane Danger, Spring 2009
+      author:
+      datetime: '2020-05-09T03:24:56.215733'
+    - text: Jane’s cocktail goes down like sodaor pop, as they call it where she grew
+        up in Minnesota.
+      author:
+      datetime: '2020-05-09T03:24:56.215737'
+    instructions:
+    - text: Muddle two cherries and syrup, then add remaining ingredients
+      author:
+      datetime: '2020-05-09T03:24:56.215741'
+    - text: Shake with ice and strain into a chilled collins glass filled with pebble
+        ice
+      author:
+      datetime: '2020-05-09T03:24:56.215743'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

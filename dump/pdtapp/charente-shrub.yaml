@@ -1,0 +1,59 @@
+- slug: charente-shrub
+  display_name: Charente Shrub
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2012
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: pierre-ferrand-ambre-cognac
+      display_name: Pierre Ferrand Ambre Cognac
+      quantity: 1.75
+      unit: oz
+      notes: []
+    - slug: cardamaro
+      display_name: Cardamaro
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: pok-pok-som-raspberry-drinking-vinegar
+      display_name: Pok Pok Som Raspberry Drinking Vinegar
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: the-bitter-truth-aromatic-bitters
+      display_name: The Bitter Truth Aromatic Bitters
+      quantity: 1
+      unit: dash
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Michael Klein, Summer 2012
+      author:
+      datetime: '2020-05-09T03:24:56.142771'
+    - text: Before the globalization of agriculture, if you wanted berries out of
+        season, you had to preserve them by making jams or shrubs such as this bottling
+        from Pok Pok.
+      author:
+      datetime: '2020-05-09T03:24:56.142775'
+    instructions:
+    - text: Shake with ice, then strain into a chilled, Ricard rinsed coupe
+      author:
+      datetime: '2020-05-09T03:24:56.142779'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

@@ -1,0 +1,61 @@
+- slug: state-border
+  display_name: State Border
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2011
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: cocchi-americano
+      display_name: Cocchi Americano
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: krogstad-aquavit
+      display_name: Krogstad Aquavit
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: hangar-one-chipotle-vodka
+      display_name: Hangar One Chipotle Vodka
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: st-germain
+      display_name: St Germain
+      quantity: 0.5
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Michael Klein, Spring 2011
+      author:
+      datetime: '2020-05-09T03:24:56.203162'
+    - text: 'The name of this Corpse Reviver No. 2 variation references the neighboring
+        states where House Spirits and Hangar One are located: California and Oregon.'
+      author:
+      datetime: '2020-05-09T03:24:56.203166'
+    instructions:
+    - text: Shake with ice, then strain into a St. George Absinthe rinsed coupe
+      author:
+      datetime: '2020-05-09T03:24:56.203170'
+    - text: (No garnish)
+      author:
+      datetime: '2020-05-09T03:24:56.203172'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

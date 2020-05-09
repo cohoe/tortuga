@@ -1,0 +1,44 @@
+- slug: spice-trader
+  display_name: Spice Trader
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2012
+    glassware: []
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: of-sesame-oil
+      display_name: Of Sesame Oil
+      quantity: 4
+      unit: drops
+      notes: []
+    - slug: club-soda
+      display_name: Club Soda
+      quantity: 0.5
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Michael Klein, Spring 2012
+      author:
+      datetime: '2020-05-09T03:24:56.190225'
+    - text: For centuries Holland was the center of the global spice trade. In tribute,
+        Michael enhanced the Dutch genever base of this exotic sour with spicy ginger
+        liqueur and aromatic sesame oil.
+      author:
+      datetime: '2020-05-09T03:24:56.190229'
+    instructions:
+    - text: Top with pebble ice
+      author:
+      datetime: '2020-05-09T03:24:56.190233'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

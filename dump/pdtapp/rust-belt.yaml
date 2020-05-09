@@ -1,0 +1,63 @@
+- slug: rust-belt
+  display_name: Rust Belt
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2008
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: barbancourt-8-year-old-rhum
+      display_name: Barbancourt 8 Year Old Rhum
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: navan-vanilla-liqueur
+      display_name: Navan Vanilla Liqueur
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: kassatly-chtaura-orgeat
+      display_name: Kassatly Chtaura Orgeat
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: white
+      display_name: White
+      quantity: 1
+      unit: egg
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: John deBary, Winter 2008
+      author:
+      datetime: '2020-05-09T03:24:56.145942'
+    - text: A mist of Angostura aromatic bitters contributes an aromatic garnish and
+        a rusty hue to John’s vanilla-and-almond-accented rum sour.
+      author:
+      datetime: '2020-05-09T03:24:56.145946'
+    instructions:
+    - text: Dry-shake, then shake with ice and strain into a chilled egg coupe
+      author:
+      datetime: '2020-05-09T03:24:56.145950'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

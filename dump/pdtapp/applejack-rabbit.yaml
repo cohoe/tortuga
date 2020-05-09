@@ -1,0 +1,56 @@
+- slug: applejack-rabbit
+  display_name: Applejack Rabbit
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 1927
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: lairds-bonded-apple-brandy
+      display_name: Lairds Bonded Apple Brandy
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: orange-juice
+      display_name: Orange Juice
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: deep-mountain-grade-b-maple-syrup
+      display_name: Deep Mountain Grade B Maple Syrup
+      quantity: 0.5
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Judge Jr., Here’s How, 1927
+      author:
+      datetime: '2020-05-09T03:24:56.228085'
+    - text: Jim discovered this cocktail in David Embury’s The Fine Art of Mixing
+        Drinks and put it on the menu at Gramercy Tavern before featuring it at PDT.
+      author:
+      datetime: '2020-05-09T03:24:56.228090'
+    instructions:
+    - text: Shake with ice, then strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.228094'
+    - text: (No garnish)
+      author:
+      datetime: '2020-05-09T03:24:56.228096'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

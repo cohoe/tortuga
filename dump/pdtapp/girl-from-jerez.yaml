@@ -1,0 +1,58 @@
+- slug: girl-from-jerez
+  display_name: Girl From Jerez
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2009
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: rhum-clement-v-s-o-p
+      display_name: Rhum Clement V S O P
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: mae-de-ouro-cachaca
+      display_name: Mae De Ouro Cachaca
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: lustau-pedro-ximenez-san-emilio
+      display_name: Lustau Pedro Ximenez San Emilio
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: st-elizabeth-allspice-dram
+      display_name: St Elizabeth Allspice Dram
+      quantity: 1
+      unit: barspoon
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jim Meehan, Spring 2009
+      author:
+      datetime: '2020-05-09T03:24:56.218134'
+    - text: In this tropical serenade to the sherry triangle, the Pedro Ximénez smooths
+        out the cachaça like Stan Getz’s saxophone plays “The Girl from Ipanema.”
+      author:
+      datetime: '2020-05-09T03:24:56.218138'
+    instructions:
+    - text: Shake with ice, then strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.218142'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

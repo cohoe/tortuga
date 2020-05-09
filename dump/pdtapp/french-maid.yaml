@@ -1,0 +1,70 @@
+- slug: french-maid
+  display_name: French Maid
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2008
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: h-by-hine-fine-champagne-vsop
+      display_name: H By Hine Fine Champagne Vsop
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: house-ginger-beer
+      display_name: House Ginger Beer
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: simple-syrup
+      display_name: Simple Syrup
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: john-d-taylors-velvet-falernum
+      display_name: John D Taylors Velvet Falernum
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: wheels-reserve-one-for-garnish
+      display_name: Wheels Reserve One For Garnish
+      quantity: 4
+      unit: cucumber
+      notes: []
+    - slug: 6-8-mint-leaves-reserve-and-one-sprig-for-garnish
+      display_name: 6 8 Mint Leaves Reserve And One Sprig For Garnish
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jim Meehan, Fall 2008
+      author:
+      datetime: '2020-05-09T03:24:56.228695'
+    - text: Attaboy’s Sam Ross created a similar bourbon-based drink which he dubbed
+        the Kentucky Maid. Consider this her spicy French cousin.
+      author:
+      datetime: '2020-05-09T03:24:56.228700'
+    instructions:
+    - text: Muddle the cucumber, mint, and syrup, then add everything else
+      author:
+      datetime: '2020-05-09T03:24:56.228705'
+    - text: Shake with ice, then strain into a chilled collins glass filled with ice
+        cubes
+      author:
+      datetime: '2020-05-09T03:24:56.228707'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

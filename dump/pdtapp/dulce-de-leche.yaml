@@ -1,0 +1,54 @@
+- slug: dulce-de-leche
+  display_name: Dulce de Leche
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2008
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: don-julio-anejo-tequila
+      display_name: Don Julio Anejo Tequila
+      quantity: 1.25
+      unit: oz
+      notes: []
+    - slug: lustau-pedro-ximenez-san-emilio
+      display_name: Lustau Pedro Ximenez San Emilio
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: heavy-cream
+      display_name: Heavy Cream
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: 1-egg
+      display_name: 1 Egg
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jim Meehan, Winter 2008
+      author:
+      datetime: '2020-05-09T03:24:56.212383'
+    - text: Rum raisin ice cream was the inspiration for this rich flip.
+      author:
+      datetime: '2020-05-09T03:24:56.212387'
+    instructions:
+    - text: Pinch a grapefruit peel into a shaking tin, then add all ingredients and
+        dry-shake
+      author:
+      datetime: '2020-05-09T03:24:56.212390'
+    - text: Shake with ice, then strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.212393'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

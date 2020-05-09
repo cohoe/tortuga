@@ -1,0 +1,52 @@
+- slug: algonquin
+  display_name: Algonquin
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 1935
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: rittenhouse-bonded-rye-whiskey
+      display_name: Rittenhouse Bonded Rye Whiskey
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: dolin-blanc-vermouth
+      display_name: Dolin Blanc Vermouth
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: pineapple-juice
+      display_name: Pineapple Juice
+      quantity: 0.75
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Selmer Fougner, Along the Wine Trail, 1935
+      author:
+      datetime: '2020-05-09T03:24:56.230972'
+    - text: This cocktail was named after the historic hotel where a handful of New
+        York’s most famous writers, artists, and actors gathered for lunch before
+        the enactment of Prohibition.
+      author:
+      datetime: '2020-05-09T03:24:56.230976'
+    instructions:
+    - text: Stir with ice, then strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.230981'
+    - text: (No garnish)
+      author:
+      datetime: '2020-05-09T03:24:56.230983'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

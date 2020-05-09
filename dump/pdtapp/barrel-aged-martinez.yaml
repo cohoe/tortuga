@@ -1,0 +1,53 @@
+- slug: barrel-aged-martinez
+  display_name: Barrel Aged Martinez
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2010
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: ransom-old-tom-gin
+      display_name: Ransom Old Tom Gin
+      quantity: 1.75
+      unit: oz
+      notes: []
+    - slug: blandys-sercial-5-year-old-madeira
+      display_name: Blandys Sercial 5 Year Old Madeira
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: gran-classico-bitter
+      display_name: Gran Classico Bitter
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: luxardo-maraschino-liqueur
+      display_name: Luxardo Maraschino Liqueur
+      quantity: 1
+      unit: Barspoon
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jim Meehan, Winter 2010
+      author:
+      datetime: '2020-05-09T03:24:56.153019'
+    - text: The Old Tom gin in this wink at barrel-aged cocktails was matured in former
+        pinot noir barrels by Oregon-based distiller and winemaker Tad Seestedt.
+      author:
+      datetime: '2020-05-09T03:24:56.153023'
+    instructions:
+    - text: Stir with ice, then strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.153027'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

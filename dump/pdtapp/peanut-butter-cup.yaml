@@ -1,0 +1,55 @@
+- slug: peanut-butter-cup
+  display_name: Peanut Butter Cup
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2011
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: bulleit-bourbon
+      display_name: Bulleit Bourbon
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: celery-juice
+      display_name: Celery Juice
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: lustau-pedro-ximenez-san-emilio
+      display_name: Lustau Pedro Ximenez San Emilio
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: peanut-butter-syrup
+      display_name: Peanut Butter Syrup
+      quantity: 0.5
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jeff Bell, Fall 2011
+      author:
+      datetime: '2020-05-09T03:24:56.194393'
+    - text: Using ants on a log as his inspiration, Jeff melted peanut butter into
+        honey syrup and substituted Pedro Ximénez for raisins. The celery appears
+        both as juice and as the swizzle.
+      author:
+      datetime: '2020-05-09T03:24:56.194397'
+    instructions:
+    - text: Shake with ice, then strain into a chilled rocks glass filled with pebble
+        ice
+      author:
+      datetime: '2020-05-09T03:24:56.194401'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

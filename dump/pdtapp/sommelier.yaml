@@ -1,0 +1,59 @@
+- slug: sommelier
+  display_name: Sommelier
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2013
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: sombra-mezcal
+      display_name: Sombra Mezcal
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: pok-pok-som-tamarind-drinking-vinegar
+      display_name: Pok Pok Som Tamarind Drinking Vinegar
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: benedictine
+      display_name: Benedictine
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: st-elizabeth-allspice-dram
+      display_name: St Elizabeth Allspice Dram
+      quantity: 0.25
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jim Meehan, Fall 2013
+      author:
+      datetime: '2020-05-09T03:24:56.197109'
+    - text: Chef Andy Ricker’s line of drinking vinegars (“Som”) bolsters the acidity
+        of the lime juice in Jim’s playful allusion to Sombra-founder Richard Betts’s
+        former vocation.
+      author:
+      datetime: '2020-05-09T03:24:56.197113'
+    instructions:
+    - text: Shake with ice and fine-strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.197117'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

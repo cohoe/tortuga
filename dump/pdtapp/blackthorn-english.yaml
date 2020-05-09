@@ -1,0 +1,53 @@
+- slug: blackthorn-english
+  display_name: Blackthorn (English)
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 1900
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: plymouth-gin
+      display_name: Plymouth Gin
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: plymouth-sloe-gin
+      display_name: Plymouth Sloe Gin
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: carpano-antica-formula-vermouth
+      display_name: Carpano Antica Formula Vermouth
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: house-orange-bitters
+      display_name: House Orange Bitters
+      quantity: 2
+      unit: dashes
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: The Sideboard Manual, 1900
+      author:
+      datetime: '2020-05-09T03:24:56.160452'
+    - text: Sloe berries used to produce this traditional liqueur were once harvested
+        from blackthorn bushes that grew uncultivated throughout England.
+      author:
+      datetime: '2020-05-09T03:24:56.160456'
+    instructions:
+    - text: Stir with ice, then strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.160460'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

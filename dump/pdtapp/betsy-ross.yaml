@@ -1,0 +1,54 @@
+- slug: betsy-ross
+  display_name: Betsy Ross
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 1941
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: pierre-ferrand-ambre-cognac
+      display_name: Pierre Ferrand Ambre Cognac
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: quinta-do-noval-black-port
+      display_name: Quinta Do Noval Black Port
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: grand-marnier
+      display_name: Grand Marnier
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: angostura-bitters
+      display_name: Angostura Bitters
+      quantity: 2
+      unit: dashes
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Crosby Gaige, Cocktail Guide & Ladies Companion, 1941
+      author:
+      datetime: '2020-05-09T03:24:56.156860'
+    - text: Elizabeth Ross may no longer be credited with having sewed our nation’s
+        first flag, but we’ll just as happily toast to her service to the Continental
+        Army packing musket-balls!
+      author:
+      datetime: '2020-05-09T03:24:56.156864'
+    instructions:
+    - text: Stir with ice, then strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.156876'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

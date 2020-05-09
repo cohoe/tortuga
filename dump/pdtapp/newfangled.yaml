@@ -1,0 +1,66 @@
+- slug: newfangled
+  display_name: Newfangled
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2010
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: old-grand-dad-bonded-bourbon
+      display_name: Old Grand Dad Bonded Bourbon
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: simple-syrup
+      display_name: Simple Syrup
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: angostura-bitters
+      display_name: Angostura Bitters
+      quantity: 2
+      unit: dashes
+      notes: []
+    - slug: half-an-orange-wheel
+      display_name: Half An Orange Wheel
+      notes: []
+    - slug: cherries
+      display_name: Cherries
+      quantity: 3
+      unit: brandied
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Kevin Diedrich, Spring 2010
+      author:
+      datetime: '2020-05-09T03:24:56.138840'
+    - text: While we prefer our Old-Fashioned the old-fashioned way (with sugar, bitters,
+        and a twist), a little beer makes the 20th century’s fruit-forward “Old-Fashioned”
+        worth toasting.
+      author:
+      datetime: '2020-05-09T03:24:56.138844'
+    instructions:
+    - text: Muddle the orange and cherries, then add remaining ingredients
+      author:
+      datetime: '2020-05-09T03:24:56.138848'
+    - text: Shake with ice, then fine-strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.138851'
+    - text: Top with 2 oz Southampton Double White Ale
+      author:
+      datetime: '2020-05-09T03:24:56.138853'
+    - text: (No garnish)
+      author:
+      datetime: '2020-05-09T03:24:56.138855'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

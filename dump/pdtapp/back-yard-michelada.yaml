@@ -1,0 +1,68 @@
+- slug: back-yard-michelada
+  display_name: Back Yard Michelada
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2011
+    glassware: []
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: captain-lawrence-pale-ale
+      display_name: Captain Lawrence Pale Ale
+      quantity: 6
+      unit: oz
+      notes: []
+    - slug: black-grouse-blended-scotch-whisky
+      display_name: Black Grouse Blended Scotch Whisky
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: grapefruit-juice
+      display_name: Grapefruit Juice
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: honey-syrup
+      display_name: Honey Syrup
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: dill-pickle-brine
+      display_name: Dill Pickle Brine
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: 1-4-tsp-guldens-spicy-brown-mustard
+      display_name: 1 4 Tsp Guldens Spicy Brown Mustard
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jim Meehan, Spring 2011
+      author:
+      datetime: '2020-05-09T03:24:56.244102'
+    - text: 'The briny, smoky quality of the malt is accentuated by the pickles and
+        spice: think of it as a Scottish Pickle Back with a beer chaser.'
+      author:
+      datetime: '2020-05-09T03:24:56.244106'
+    instructions:
+    - text: In a mixing glass combine whisky, juice, syrup, brine, and mustard
+      author:
+      datetime: '2020-05-09T03:24:56.244110'
+    - text: Fine-strain (to remove mustard seeds) into a chilled pilsner glass rimmed
+        with ground black pepper and filled with ice cubes
+      author:
+      datetime: '2020-05-09T03:24:56.244113'
+    - text: Top with the beer.
+      author:
+      datetime: '2020-05-09T03:24:56.244115'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

@@ -1,0 +1,53 @@
+- slug: raspberries-reaching
+  display_name: Raspberries Reaching
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2009
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: clear-creek-framboise
+      display_name: Clear Creek Framboise
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: royal-tokaji-aszu-5-puttonyos
+      display_name: Royal Tokaji Aszu 5 Puttonyos
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: pama-pomegranate-liqueur
+      display_name: Pama Pomegranate Liqueur
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: rose-water
+      display_name: Rose Water
+      quantity: 3
+      unit: drops
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jim Meehan, Summer 2009
+      author:
+      datetime: '2020-05-09T03:24:56.226064'
+    - text: Jim came up with this drink for a food pairing competition against Kimpton
+        Hotel’s Master Sommelier Emily Wines.
+      author:
+      datetime: '2020-05-09T03:24:56.226069'
+    instructions:
+    - text: Stir with ice, then strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.226073'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

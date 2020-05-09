@@ -1,0 +1,49 @@
+- slug: wrong-aisle
+  display_name: Wrong Aisle
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2010
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: lairds-bonded-apple-brandy
+      display_name: Lairds Bonded Apple Brandy
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: lillet-rouge
+      display_name: Lillet Rouge
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: huilerie-beaujolaise-vinaigre-de-coing
+      display_name: Huilerie Beaujolaise Vinaigre De Coing
+      quantity: 0.25
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jim Meehan, Fall 2010
+      author:
+      datetime: '2020-05-09T03:24:56.190958'
+    - text: Fruit vinegars or shrubs, as they used to be called, work just as well
+        in cocktails as they do in traditional food preparations such as salad dressings
+        and gastriques.
+      author:
+      datetime: '2020-05-09T03:24:56.190962'
+    instructions:
+    - text: Stir with ice, then strain into a chilled, St. Germain-rinsed coupe
+      author:
+      datetime: '2020-05-09T03:24:56.190966'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

@@ -1,0 +1,59 @@
+- slug: de-la-louisiane
+  display_name: De La Louisiane
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 1937
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: wild-turkey-rye-whiskey
+      display_name: Wild Turkey Rye Whiskey
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: dolin-rouge-vermouth
+      display_name: Dolin Rouge Vermouth
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: benedictine
+      display_name: Benedictine
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: st-george-absinthe
+      display_name: St George Absinthe
+      quantity: 3
+      unit: dashes
+      notes: []
+    - slug: peychauds-bitters
+      display_name: Peychauds Bitters
+      quantity: 3
+      unit: dashes
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Stanley Clisby Arthur, Famous New Orleans Drinks, 1937
+      author:
+      datetime: '2020-05-09T03:24:56.235705'
+    - text: There’s no better book about the cocktails of New Orleans than Arthur’s,
+        which documents half a dozen house specialties, including this Manhattan variation
+        with a Creole soul.
+      author:
+      datetime: '2020-05-09T03:24:56.235714'
+    instructions:
+    - text: Stir with ice, then strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.235718'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

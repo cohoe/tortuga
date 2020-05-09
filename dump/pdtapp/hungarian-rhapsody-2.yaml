@@ -1,0 +1,59 @@
+- slug: hungarian-rhapsody-2
+  display_name: 'Hungarian Rhapsody #2'
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2010
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: zwack-liqueur
+      display_name: Zwack Liqueur
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: plymouth-gin
+      display_name: Plymouth Gin
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: of-house-orange-bitters
+      display_name: Of House Orange Bitters
+      quantity: 2
+      unit: dashes
+      notes: []
+    - slug: of-bittermans-chocolate-mole-bitters
+      display_name: Of Bittermans Chocolate Mole Bitters
+      quantity: 2
+      unit: dashes
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Lydia Reissmueller, Summer 2010
+      author:
+      datetime: '2020-05-09T03:24:56.212923'
+    - text: A nod to her Hungarian heritage and training as a musician, Lydia named
+        this after composer Franz Liszt’s composition for piano, written in 1847.
+      author:
+      datetime: '2020-05-09T03:24:56.212927'
+    instructions:
+    - text: Stir over pebble ice
+      author:
+      datetime: '2020-05-09T03:24:56.212931'
+    - text: Strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.212933'
+    - text: Top with 1.75 oz Virgil’s Cream Soda
+      author:
+      datetime: '2020-05-09T03:24:56.212936'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

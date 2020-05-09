@@ -1,0 +1,52 @@
+- slug: old-pal
+  display_name: Old Pal
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 1922
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: old-overholt-rye-whiskey
+      display_name: Old Overholt Rye Whiskey
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: dolin-dry-vermouth
+      display_name: Dolin Dry Vermouth
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: campari
+      display_name: Campari
+      quantity: 0.75
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Harry McElhone, ABC of Mixing Cocktails, 1922
+      author:
+      datetime: '2020-05-09T03:24:56.223815'
+    - text: In his appendix to Harry McElhone’s Barflies and Cocktails, Arthur Moss
+        said that his friend “Sparrow” Robertson dedicated this cocktail to him, and
+        called it “My Old Pal.”
+      author:
+      datetime: '2020-05-09T03:24:56.223819'
+    instructions:
+    - text: Stir with ice, then strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.223823'
+    - text: (No garnish)
+      author:
+      datetime: '2020-05-09T03:24:56.223825'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

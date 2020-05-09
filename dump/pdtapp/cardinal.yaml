@@ -1,0 +1,60 @@
+- slug: cardinal
+  display_name: Cardinal
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2014
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: tanqueray-10-gin
+      display_name: Tanqueray 10 Gin
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: casoni-aperitivo
+      display_name: Casoni Aperitivo
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: vermouth-del-professore-rosso
+      display_name: Vermouth Del Professore Rosso
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: grapefruit-juice
+      display_name: Grapefruit Juice
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.25
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jeff Bell, Spring 2014
+      author:
+      datetime: '2020-05-09T03:24:56.199223'
+    - text: The scarlet-hued Casoni gives this refreshing aperitif it’s rosy complexion;
+        and the Roman vermouth, named after Jerry “Professor” Thomas, lends it the
+        gravitas of a Cardinal.
+      author:
+      datetime: '2020-05-09T03:24:56.199227'
+    instructions:
+    - text: Shake with ice, then strain into a chilled coupe rinsed with Contratto
+        Fernet
+      author:
+      datetime: '2020-05-09T03:24:56.199231'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

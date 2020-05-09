@@ -1,0 +1,49 @@
+- slug: ace-in-the-hole
+  display_name: Ace in the Hole
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2011
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: anchor-hophead-vodka
+      display_name: Anchor Hophead Vodka
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: kiuchi-no-shizuku
+      display_name: Kiuchi No Shizuku
+      quantity: 1.25
+      unit: oz
+      notes: []
+    - slug: lillet-blanc
+      display_name: Lillet Blanc
+      quantity: 1
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Michael Klein, Winter 2011
+      author:
+      datetime: '2020-05-09T03:24:56.211498'
+    - text: Michael developed this variation upon the Vesper cocktail, popularized
+        in the scene where Bond orders a cocktail in Casino Royale while he’s playing
+        cards.
+      author:
+      datetime: '2020-05-09T03:24:56.211502'
+    instructions:
+    - text: Stir with ice, then strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.211510'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

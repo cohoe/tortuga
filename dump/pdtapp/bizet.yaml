@@ -1,0 +1,51 @@
+- slug: bizet
+  display_name: Bizet
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2008
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: shinn-estate-rose
+      display_name: Shinn Estate Rose
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: luxardo-bitter
+      display_name: Luxardo Bitter
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: amaro-ciociaro
+      display_name: Amaro Ciociaro
+      quantity: 0.5
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: David Slape, Spring 2008
+      author:
+      datetime: '2020-05-09T03:24:56.230071'
+    - text: This Champagne Americano of sorts was named after the gifted 19th-century
+        French opera composer who wrote the score to Carmen.
+      author:
+      datetime: '2020-05-09T03:24:56.230075'
+    instructions:
+    - text: Stir with ice, then strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.230079'
+    - text: Top with 1 oz Laurent-Perrier Brut
+      author:
+      datetime: '2020-05-09T03:24:56.230081'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

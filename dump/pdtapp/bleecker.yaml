@@ -1,0 +1,58 @@
+- slug: bleecker
+  display_name: Bleecker
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2013
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: bulleit-rye-whiskey
+      display_name: Bulleit Rye Whiskey
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: rabarbaro-zucca
+      display_name: Rabarbaro Zucca
+      quantity: 0.375
+      unit: oz
+      notes: []
+    - slug: bonne-maman-raspberry-preserves
+      display_name: Bonne Maman Raspberry Preserves
+      quantity: 1
+      unit: tsp
+      notes: []
+    - slug: bittermens-xocolatl-mole-bitters
+      display_name: Bittermens Xocolatl Mole Bitters
+      quantity: 1
+      unit: dash
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Anne Robinson, Summer 2013
+      author:
+      datetime: '2020-05-09T03:24:56.166027'
+    - text: This bourbon-based Blinker variation is a fitting escape from the congested
+        West Village artery it’s named after.
+      author:
+      datetime: '2020-05-09T03:24:56.166032'
+    instructions:
+    - text: Shake with ice and fine-strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.166036'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

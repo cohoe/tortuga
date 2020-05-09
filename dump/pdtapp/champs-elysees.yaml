@@ -1,0 +1,58 @@
+- slug: champs-elysees
+  display_name: Champs-Élysées
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 1930
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: h-by-hine-fine-champagne-vsop
+      display_name: H By Hine Fine Champagne Vsop
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: green-chartreuse
+      display_name: Green Chartreuse
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: simple-syrup
+      display_name: Simple Syrup
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: angostura-bitters
+      display_name: Angostura Bitters
+      quantity: 1
+      unit: dash
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Harry Craddock, The Savoy Cocktail Book, 1930
+      author:
+      datetime: '2020-05-09T03:24:56.148782'
+    - text: Craddock doesn’t specify whether the drink should be prepared with yellow
+        or green Chartreuse; we prefer green.
+      author:
+      datetime: '2020-05-09T03:24:56.148787'
+    instructions:
+    - text: Shake with ice, then strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.148791'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

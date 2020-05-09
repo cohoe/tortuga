@@ -1,0 +1,72 @@
+- slug: sage-old-buck
+  display_name: Sage Old Buck
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2009
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: benromach-organic-single-malt-scotch-whisky
+      display_name: Benromach Organic Single Malt Scotch Whisky
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: house-ginger-beer
+      display_name: House Ginger Beer
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: simple-syrup
+      display_name: Simple Syrup
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: belle-de-brillet
+      display_name: Belle De Brillet
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: housemade-vanilla-syrup
+      display_name: Housemade Vanilla Syrup
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: black-peppercorns
+      display_name: Black Peppercorns
+      quantity: 8
+      unit: whole
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jim Meehan & Lydia Reissmueller, Fall 2009
+      author:
+      datetime: '2020-05-09T03:24:56.217861'
+    - text: Wise beyond her years behind the bar, Lydia accentuated the barrel-finish
+        of the malt whisky with black pepper and vanilla.
+      author:
+      datetime: '2020-05-09T03:24:56.217865'
+    instructions:
+    - text: Muddle the peppercorns with the simple syrup, then add remaining ingredients
+      author:
+      datetime: '2020-05-09T03:24:56.217877'
+    - text: Shake with ice and fine-strain into a chilled collins glass filled with
+        ice
+      author:
+      datetime: '2020-05-09T03:24:56.217880'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

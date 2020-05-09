@@ -1,0 +1,53 @@
+- slug: caprice
+  display_name: Caprice
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 1940
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: beefeater-gin
+      display_name: Beefeater Gin
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: dolin-dry-vermouth
+      display_name: Dolin Dry Vermouth
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: benedictine
+      display_name: Benedictine
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: house-orange-bitters
+      display_name: House Orange Bitters
+      quantity: 1
+      unit: dash
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Hyman Gale & Gerald F. Marco, How & When, 1940
+      author:
+      datetime: '2020-05-09T03:24:56.245745'
+    - text: Marco and Gale’s manual includes an extensive wine and spirits overview
+        and a fine collection of classic and unusual concoctions, including this one.
+      author:
+      datetime: '2020-05-09T03:24:56.245750'
+    instructions:
+    - text: Stir with ice, then strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.245754'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

@@ -1,0 +1,47 @@
+- slug: paloma
+  display_name: Paloma
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2005
+    glassware: []
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: siete-leguas-reposado-tequila
+      display_name: Siete Leguas Reposado Tequila
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 0.5
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: David Wondrich, Killer Cocktails, 2005
+      author:
+      datetime: '2020-05-09T03:24:56.222219'
+    - text: The Paloma is traditionally prepared with Squirt, which in Mexico is sweetened
+        with cane sugar. When you can’t source the south-of-the-border formula, try
+        Ting, Izze, or Stirrings.
+      author:
+      datetime: '2020-05-09T03:24:56.222223'
+    instructions:
+    - text: Build in a chilled salt-rimmed collins glass, then add ice
+      author:
+      datetime: '2020-05-09T03:24:56.222226'
+    - text: Top with 2 oz Squirt, Mexican variety
+      author:
+      datetime: '2020-05-09T03:24:56.222229'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

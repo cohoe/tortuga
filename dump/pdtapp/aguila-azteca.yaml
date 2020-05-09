@@ -1,0 +1,56 @@
+- slug: aguila-azteca
+  display_name: Águila Azteca
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2008
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: jose-cuervo-tradicional-reposado-tequila
+      display_name: Jose Cuervo Tradicional Reposado Tequila
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: honeydew-melon-juice
+      display_name: Honeydew Melon Juice
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: domaine-de-canton-ginger-liqueur
+      display_name: Domaine De Canton Ginger Liqueur
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: rothman-winter-creme-de-violette
+      display_name: Rothman Winter Creme De Violette
+      quantity: 0.25
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jim Meehan, Summer 2008
+      author:
+      datetime: '2020-05-09T03:24:56.150553'
+    - text: 'This tequila-based Aviation cocktail variation is named after the iconic
+        symbol of the strongest Aztec warrior: the eagle.'
+      author:
+      datetime: '2020-05-09T03:24:56.150558'
+    instructions:
+    - text: Shake with ice, then strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.150562'
+    - text: (No garnish)
+      author:
+      datetime: '2020-05-09T03:24:56.150564'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

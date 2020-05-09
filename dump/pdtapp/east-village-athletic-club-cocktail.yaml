@@ -1,0 +1,56 @@
+- slug: east-village-athletic-club-cocktail
+  display_name: East Village Athletic Club Cocktail
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2008
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: siembra-azul-blanco-tequila
+      display_name: Siembra Azul Blanco Tequila
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: yellow-chartreuse
+      display_name: Yellow Chartreuse
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: grand-marnier
+      display_name: Grand Marnier
+      quantity: 0.5
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jim Meehan & John Deragon & Don Lee, Spring 2008
+      author:
+      datetime: '2020-05-09T03:24:56.150286'
+    - text: In Bottoms Up, Ted Saucier attributed the Last Word to the Detroit Athletic
+        Club. We tinkered with the recipe and named it in honor of PDT’s neighborhood.
+      author:
+      datetime: '2020-05-09T03:24:56.150290'
+    instructions:
+    - text: Shake with ice, then strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.150294'
+    - text: (No garnish)
+      author:
+      datetime: '2020-05-09T03:24:56.150296'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

@@ -1,0 +1,48 @@
+- slug: dark-stormy
+  display_name: Dark & Stormy
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 1997
+    glassware: []
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: goslings-black-seal-rum
+      display_name: Goslings Black Seal Rum
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 0.75
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Edward Hamilton, The Complete Guide to Rum, 1997
+      author:
+      datetime: '2020-05-09T03:24:56.153994'
+    - text: In 2009 Gosling’s took the controversial step of trademarking both “Dark
+        ’N Stormy” and a specific recipe which calls for less rum, no lime, and a
+        great deal of Gosling’s-brand ginger beer. We’ve improved both the recipe
+        and the punctuation.
+      author:
+      datetime: '2020-05-09T03:24:56.153999'
+    instructions:
+    - text: Build in a chilled collins glass filled with ice cubes
+      author:
+      datetime: '2020-05-09T03:24:56.154003'
+    - text: Top with 3 oz Q Ginger
+      author:
+      datetime: '2020-05-09T03:24:56.154005'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

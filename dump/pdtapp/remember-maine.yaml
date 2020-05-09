@@ -1,0 +1,54 @@
+- slug: remember-maine
+  display_name: Remember Maine
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2008
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: rhum-clement-v-s-o-p
+      display_name: Rhum Clement V S O P
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: red-jacket-orchard-apple-cider
+      display_name: Red Jacket Orchard Apple Cider
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: st-elizabeth-allspice-dram
+      display_name: St Elizabeth Allspice Dram
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: angostura-bitters
+      display_name: Angostura Bitters
+      quantity: 2
+      unit: dashes
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Lydia Reissmueller, Fall 2008
+      author:
+      datetime: '2020-05-09T03:24:56.143824'
+    - text: Lydia created this cocktail with the help of chef Joshua McFadden, who
+        took a job in Maine before we put it on the menu.
+      author:
+      datetime: '2020-05-09T03:24:56.143829'
+    instructions:
+    - text: Stir with ice, then strain over one large ice cube into a chilled rocks
+        glass
+      author:
+      datetime: '2020-05-09T03:24:56.143832'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

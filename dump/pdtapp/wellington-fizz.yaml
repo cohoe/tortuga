@@ -1,0 +1,66 @@
+- slug: wellington-fizz
+  display_name: Wellington Fizz
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2010
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: 42-below-kiwi-vodka
+      display_name: 42 Below Kiwi Vodka
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: heavy-cream
+      display_name: Heavy Cream
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: boiron-passion-fruit-puree
+      display_name: Boiron Passion Fruit Puree
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: kassatly-chtaura-orgeat
+      display_name: Kassatly Chtaura Orgeat
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: white
+      display_name: White
+      quantity: 1
+      unit: egg
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Sean Hoard, Spring 2010
+      author:
+      datetime: '2020-05-09T03:24:56.181854'
+    - text: 'Named after a coastal town on New Zealand’s northern island, this fizz
+        marries the classic Ramos Gin Fizz with a “Kiwi” delicacy: passion fruit pavlova.'
+      author:
+      datetime: '2020-05-09T03:24:56.181859'
+    instructions:
+    - text: Dry shake, then shake with ice and strain into a chilled collins glass
+      author:
+      datetime: '2020-05-09T03:24:56.181863'
+    - text: Top with 1 oz club soda
+      author:
+      datetime: '2020-05-09T03:24:56.181865'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

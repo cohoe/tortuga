@@ -1,0 +1,58 @@
+- slug: tazza-dalba
+  display_name: Tazza D’Alba
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2012
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: campari
+      display_name: Campari
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: dolin-blanc-vermouth
+      display_name: Dolin Blanc Vermouth
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: st-dalfour-kumquat-preserves
+      display_name: St Dalfour Kumquat Preserves
+      quantity: 1
+      unit: barspoon
+      notes: []
+    - slug: white
+      display_name: White
+      quantity: 1
+      unit: egg
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Anne Robinson, Winter 2012
+      author:
+      datetime: '2020-05-09T03:24:56.242324'
+    - text: Alba is “sunrise” in Italian, and boy does Jessica Alba shine in Mario
+        Testino’s 2009 Campari calendar shoot!
+      author:
+      datetime: '2020-05-09T03:24:56.242328'
+    instructions:
+    - text: Dry-shake, then shake with ice and fine-strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.242332'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

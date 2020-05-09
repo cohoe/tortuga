@@ -1,0 +1,67 @@
+- slug: pearl-of-puebla
+  display_name: Pearl of Puebla
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2008
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: sombra-mezcal
+      display_name: Sombra Mezcal
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: yellow-chartreuse
+      display_name: Yellow Chartreuse
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: of-oregano-fresh
+      display_name: Of Oregano Fresh
+      quantity: 4
+      unit: sprigs
+      notes: []
+    - slug: ricard
+      display_name: Ricard
+      quantity: 1
+      unit: barspoon
+      notes: []
+    - slug: agave-nectar
+      display_name: Agave Nectar
+      quantity: 1
+      unit: barspoon
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jim Meehan, Winter 2008
+      author:
+      datetime: '2020-05-09T03:24:56.227537'
+    - text: 'With the help of Puebla native Euclides López, Jim fashioned this Mexican
+        rendition of Audrey Saunders’s French Pearl featuring two staples of Puebla
+        cuisine: mezcal and fresh oregano.'
+      author:
+      datetime: '2020-05-09T03:24:56.227544'
+    instructions:
+    - text: Muddle the oregano and agave, then add everything else
+      author:
+      datetime: '2020-05-09T03:24:56.227549'
+    - text: Shake with ice and fine-strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.227551'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

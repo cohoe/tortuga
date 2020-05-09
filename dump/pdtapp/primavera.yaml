@@ -1,0 +1,67 @@
+- slug: primavera
+  display_name: Primavera
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2010
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: krogstad-aquavit
+      display_name: Krogstad Aquavit
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: cointreau
+      display_name: Cointreau
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: petit-canne-sugar-cane-syrup
+      display_name: Petit Canne Sugar Cane Syrup
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: 2-1-5-asparagus-tips
+      display_name: 2 1 5 Asparagus Tips
+      notes: []
+    - slug: 1-25-slice-fennel-bulb
+      display_name: 1 25 Slice Fennel Bulb
+      notes: []
+    - slug: 1-2-celery-stalk
+      display_name: 1 2 Celery Stalk
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Sean Hoard, Summer 2010
+      author:
+      datetime: '2020-05-09T03:24:56.239705'
+    - text: Before the flowers blossom and the berries ripen, root vegetables such
+        as fennel and celery are all you can get at the market until flowering shoots
+        such as asparagus appear.
+      author:
+      datetime: '2020-05-09T03:24:56.239710'
+    instructions:
+    - text: Muddle the Cointreau and vegetables, then add remaining ingredients
+      author:
+      datetime: '2020-05-09T03:24:56.239714'
+    - text: Shake with ice, then fine-strain into a chilled St. George absinthe–rinsed
+        coupe
+      author:
+      datetime: '2020-05-09T03:24:56.239716'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

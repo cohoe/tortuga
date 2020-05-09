@@ -1,0 +1,56 @@
+- slug: black-flip
+  display_name: Black Flip
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2007
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: brooklyn-black-chocolate-stout
+      display_name: Brooklyn Black Chocolate Stout
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: cruzan-black-strap-rum
+      display_name: Cruzan Black Strap Rum
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: demerara-syrup
+      display_name: Demerara Syrup
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: egg
+      display_name: Egg
+      quantity: 1
+      unit: whole
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jim Meehan, Winter 2007
+      author:
+      datetime: '2020-05-09T03:24:56.191485'
+    - text: 'This drink was inspired by the chapter on flips in Wayne Curtis’s excellent
+        book And a Bottle of Rum: A History of the New World in Ten Cocktails.'
+      author:
+      datetime: '2020-05-09T03:24:56.191490'
+    instructions:
+    - text: Add all ingredients to a shaker and swirl to decarbonate beer
+      author:
+      datetime: '2020-05-09T03:24:56.191494'
+    - text: Dry-shake, then shake with ice and strain into a chilled fizz glass
+      author:
+      datetime: '2020-05-09T03:24:56.191496'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

@@ -1,0 +1,58 @@
+- slug: hotel-nacional-special
+  display_name: Hotel Nacional Special
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 1935
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: bacardi-8-rum
+      display_name: Bacardi 8 Rum
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: pineapple-juice
+      display_name: Pineapple Juice
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: simple-syrup
+      display_name: Simple Syrup
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: rothman-winter-orchard-apricot
+      display_name: Rothman Winter Orchard Apricot
+      quantity: 0.25
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Bar La Florida Cocktails, 1935
+      author:
+      datetime: '2020-05-09T03:24:56.170209'
+    - text: Will P. Taylor, who created this drink at the Nacional bar in Cuba, was
+        the Waldorf-Astoria’s last manager before Prohibition shuttered the bar.
+      author:
+      datetime: '2020-05-09T03:24:56.170213'
+    instructions:
+    - text: Shake with ice, then strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.170217'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

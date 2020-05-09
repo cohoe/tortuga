@@ -1,0 +1,59 @@
+- slug: som-collins
+  display_name: Som Collins
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2014
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: captain-lawrence-liquid-gold
+      display_name: Captain Lawrence Liquid Gold
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: jameson-irish-whiskey
+      display_name: Jameson Irish Whiskey
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: pok-pok-honey-som-drinking-vinegar
+      display_name: Pok Pok Honey Som Drinking Vinegar
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: umenoyado-yuzu-shu
+      display_name: Umenoyado Yuzu Shu
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: dutchs-colonial-cocktail-bitters
+      display_name: Dutchs Colonial Cocktail Bitters
+      quantity: 10
+      unit: Drops
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jeff Bell, Spring 2014
+      author:
+      datetime: '2020-05-09T03:24:56.210032'
+    - text: We love the classic gin-based Tom Collins, but Irish Whiskey is a better
+        pairing with Pok Pok’s honey flavored drinking vinegar in this beer and yuzu
+        lengthened variation.
+      author:
+      datetime: '2020-05-09T03:24:56.210037'
+    instructions:
+    - text: Stir with ice and strain into a collins glass filled with ice
+      author:
+      datetime: '2020-05-09T03:24:56.210041'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

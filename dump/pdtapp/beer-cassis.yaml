@@ -1,0 +1,47 @@
+- slug: beer-cassis
+  display_name: Beer Cassis
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2008
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: dubonnet-rouge
+      display_name: Dubonnet Rouge
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: merlet-cassis
+      display_name: Merlet Cassis
+      quantity: 0.25
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jim Meehan, Spring 2008
+      author:
+      datetime: '2020-05-09T03:24:56.229578'
+    - text: In the 1930s, aperitif cocktails such as the Byrrh Cassis, which this
+        cocktail was based on, were popular in sidewalk cafés of cosmopolitan European
+        cities.
+      author:
+      datetime: '2020-05-09T03:24:56.229582'
+    instructions:
+    - text: Stir with ice, then strain into a chilled egg coupe
+      author:
+      datetime: '2020-05-09T03:24:56.229586'
+    - text: Top with 6 oz Brooklyn Brewery Local 1
+      author:
+      datetime: '2020-05-09T03:24:56.229589'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

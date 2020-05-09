@@ -1,0 +1,53 @@
+- slug: prince-edward
+  display_name: Prince Edward
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 1977
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: compass-box-oak-cross-blended-malt-scotch-whisky
+      display_name: Compass Box Oak Cross Blended Malt Scotch Whisky
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: lillet-blanc
+      display_name: Lillet Blanc
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: drambuie
+      display_name: Drambuie
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: house-orange-bitters
+      display_name: House Orange Bitters
+      quantity: 2
+      unit: dashes
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Stan Jones, Jones’ Complete Bar Guide, 1977
+      author:
+      datetime: '2020-05-09T03:24:56.179133'
+    - text: Stan Jones’s recipe didn’t include bitters, but Jim felt a couple dashes
+        improved the drink.
+      author:
+      datetime: '2020-05-09T03:24:56.179138'
+    instructions:
+    - text: Stir with ice, then strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.179143'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

@@ -1,0 +1,54 @@
+- slug: imperial-blueberry-fizz
+  display_name: Imperial Blueberry Fizz
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2009
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: h-by-hine-fine-champagne-vsop
+      display_name: H By Hine Fine Champagne Vsop
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: creme-yvette
+      display_name: Creme Yvette
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: blueberries
+      display_name: Blueberries
+      quantity: 2
+      unit: tbsp
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jim Meehan, Spring 2009
+      author:
+      datetime: '2020-05-09T03:24:56.207168'
+    - text: 'Crème Yvette liqueur’s affinity for blueberries gave Jim the idea of
+        introducing the pair to a more aristocratic couple: Champagne and cognac.'
+      author:
+      datetime: '2020-05-09T03:24:56.207172'
+    instructions:
+    - text: Muddle the blueberries and Crème Yvette liqueur, then add cognac
+      author:
+      datetime: '2020-05-09T03:24:56.207176'
+    - text: Shake with ice and fine-strain into a chilled egg coupe
+      author:
+      datetime: '2020-05-09T03:24:56.207179'
+    - text: Top with 2.5 oz Laurent-Perrier Brut
+      author:
+      datetime: '2020-05-09T03:24:56.207181'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

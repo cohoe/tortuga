@@ -1,0 +1,66 @@
+- slug: kumquat-cobbler
+  display_name: Kumquat Cobbler
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2011
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: pierre-ferrand-ambre-cognac
+      display_name: Pierre Ferrand Ambre Cognac
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: strega
+      display_name: Strega
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: lemon-hart-151-proof-demerara-rum
+      display_name: Lemon Hart 151 Proof Demerara Rum
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: simple-syrup
+      display_name: Simple Syrup
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: plus-1-half-lemon-wheel-reserved-for-garnish
+      display_name: Plus 1 Half Lemon Wheel Reserved For Garnish
+      quantity: 3
+      unit: kumquats
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jim Meehan, Spring 2011
+      author:
+      datetime: '2020-05-09T03:24:56.186150'
+    - text: Jim created this cocktail at the behest of New York Magazine’s Rob Patronite
+        and Robin Raisfeld, who requested a kumquat recipe for their “In Season” column.
+      author:
+      datetime: '2020-05-09T03:24:56.186155'
+    instructions:
+    - text: Muddle the kumquats, then add remaining ingredients
+      author:
+      datetime: '2020-05-09T03:24:56.186159'
+    - text: Shake with ice, then strain into a collins glass filled with pebble ice
+      author:
+      datetime: '2020-05-09T03:24:56.186162'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

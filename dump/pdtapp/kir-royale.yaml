@@ -1,0 +1,44 @@
+- slug: kir-royale
+  display_name: Kir Royale
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 1965
+    glassware: []
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: laurent-perrier-brut
+      display_name: Laurent Perrier Brut
+      quantity: 5
+      unit: oz
+      notes: []
+    - slug: merlet-creme-de-cassis
+      display_name: Merlet Creme De Cassis
+      quantity: 0.25
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: The U.K.B.G. Guide to Drinks, 1965
+      author:
+      datetime: '2020-05-09T03:24:56.219999'
+    - text: Félix Kir, the former mayor of Dijon, popularized the combination of crème
+        de cassis and local white wine (originally called Blanc-Cassis) by offering
+        it to delegations to promote the region during the 1940s.
+      author:
+      datetime: '2020-05-09T03:24:56.220003'
+    instructions:
+    - text: Build in a flute
+      author:
+      datetime: '2020-05-09T03:24:56.220007'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

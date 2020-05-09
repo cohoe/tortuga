@@ -1,0 +1,51 @@
+- slug: jack-rose
+  display_name: Jack Rose
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 1908
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: lairds-bonded-apple-brandy
+      display_name: Lairds Bonded Apple Brandy
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: jack-rudy-grenadine
+      display_name: Jack Rudy Grenadine
+      quantity: 0.75
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: William Boothby, The World’s Drinks & How to Mix Them, 1908
+      author:
+      datetime: '2020-05-09T03:24:56.207403'
+    - text: One of the many hypotheses surrounding the name of this drink is that
+        it’s a corruption of Jacquemot, a pink rose with a similar hue to the drink.
+      author:
+      datetime: '2020-05-09T03:24:56.207408'
+    instructions:
+    - text: Shake with ice, then strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.207412'
+    - text: (No garnish)
+      author:
+      datetime: '2020-05-09T03:24:56.207414'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

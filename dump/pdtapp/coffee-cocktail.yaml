@@ -1,0 +1,54 @@
+- slug: coffee-cocktail
+  display_name: Coffee Cocktail
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 1887
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: h-by-hine-fine-champagne-vsop
+      display_name: H By Hine Fine Champagne Vsop
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: quinta-do-noval-black-port
+      display_name: Quinta Do Noval Black Port
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: simple-syrup
+      display_name: Simple Syrup
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: egg
+      display_name: Egg
+      quantity: 1
+      unit: whole
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jerry Thomas, The Bar-Tenders’ Guide, 1887
+      author:
+      datetime: '2020-05-09T03:24:56.183950'
+    - text: How this flip became known as the Coffee Cocktail is a mystery, but for
+        those who mix drinks in a bar that doesn’t serve coffee, it’s the perfect
+        nightcap.
+      author:
+      datetime: '2020-05-09T03:24:56.183955'
+    instructions:
+    - text: Dry-shake, then shake with ice and strain into a chilled egg coupe
+      author:
+      datetime: '2020-05-09T03:24:56.183959'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

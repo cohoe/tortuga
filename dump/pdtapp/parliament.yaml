@@ -1,0 +1,54 @@
+- slug: parliament
+  display_name: Parliament
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2014
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: bittermens-buho-amaro-fernet-ginger-cola
+      display_name: Bittermens Buho Amaro Fernet Ginger Cola
+      quantity: 2.25
+      unit: oz
+      notes: []
+    - slug: el-buho-mezcal
+      display_name: El Buho Mezcal
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: lustau-palo-cortado-sherry
+      display_name: Lustau Palo Cortado Sherry
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: amaro-nonino
+      display_name: Amaro Nonino
+      quantity: 0.75
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jeff Bell, Fall 2014
+      author:
+      datetime: '2020-05-09T03:24:56.205218'
+    - text: 'Birds of a feather flock together, as do these two buhos (owls in Spanish),
+        who spice up this riff on the classic La Batanga: a salt rimmed tequila and
+        Coke garnished with half a lime.'
+      author:
+      datetime: '2020-05-09T03:24:56.205223'
+    instructions:
+    - text: Build in a salt-rimmed collins glass, then add ice and stir to chill
+      author:
+      datetime: '2020-05-09T03:24:56.205227'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

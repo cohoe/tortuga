@@ -1,0 +1,54 @@
+- slug: against-all-odds-cocktail
+  display_name: Against All Odds Cocktail
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2008
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: bushmills-irish-whiskey
+      display_name: Bushmills Irish Whiskey
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: channing-daughters-scuttlehole-chardonnay
+      display_name: Channing Daughters Scuttlehole Chardonnay
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: rothman-winter-orchard-apricot
+      display_name: Rothman Winter Orchard Apricot
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: rhum-clement-creole-shrubb
+      display_name: Rhum Clement Creole Shrubb
+      quantity: 0.25
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jim Meehan & David Slape & Gerry Corcoran, Summer 2008
+      author:
+      datetime: '2020-05-09T03:24:56.238902'
+    - text: This cocktail, prepared with wine and spirits based from cane, agave,
+        and grain, earned its name by defying all ingredient compounding logic.
+      author:
+      datetime: '2020-05-09T03:24:56.238906'
+    instructions:
+    - text: Stir with ice, then strain into a chilled, Ilegal Reposado Mezcal-rinsed
+        coupe
+      author:
+      datetime: '2020-05-09T03:24:56.238910'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

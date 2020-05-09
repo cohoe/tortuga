@@ -1,0 +1,57 @@
+- slug: tomrs-collins
+  display_name: Tomr’s Collins
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2011
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: plymouth-gin
+      display_name: Plymouth Gin
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: tomrs-tonic-syrup
+      display_name: Tomrs Tonic Syrup
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: grapefruit-juice
+      display_name: Grapefruit Juice
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.25
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jim Meehan & Jeff Bell & Edixon Caridad, Winter 2011
+      author:
+      datetime: '2020-05-09T03:24:56.155194'
+    - text: Tom Richter’s handcrafted tonic syrup enhances this imperial twist on
+        the classic Tom Collins.
+      author:
+      datetime: '2020-05-09T03:24:56.155198'
+    instructions:
+    - text: Shake with ice, then strain into a chilled collins glass filled with ice
+        cubes
+      author:
+      datetime: '2020-05-09T03:24:56.155202'
+    - text: Top with 1.5 oz Laurent-Perrier Brut
+      author:
+      datetime: '2020-05-09T03:24:56.155205'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

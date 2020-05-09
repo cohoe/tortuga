@@ -1,0 +1,56 @@
+- slug: rosy-cheeks
+  display_name: Rosy Cheeks
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2012
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: redbreast-12-year-old-irish-whiskey
+      display_name: Redbreast 12 Year Old Irish Whiskey
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: plymouth-sloe-gin
+      display_name: Plymouth Sloe Gin
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: tempus-fugit-creme-de-cacao
+      display_name: Tempus Fugit Creme De Cacao
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.5
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jim Meehan, Winter 2012
+      author:
+      datetime: '2020-05-09T03:24:56.197347'
+    - text: On a cool night, nothing restores the color to your complexion like a
+        dram of whiskey chased with Champagne.
+      author:
+      datetime: '2020-05-09T03:24:56.197351'
+    instructions:
+    - text: Stir with ice, then strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.197355'
+    - text: Top with 2 oz Laurent-Perrier Brut
+      author:
+      datetime: '2020-05-09T03:24:56.197358'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

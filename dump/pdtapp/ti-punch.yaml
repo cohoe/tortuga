@@ -1,0 +1,56 @@
+- slug: ti-punch
+  display_name: Ti’ Punch
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 1997
+    glassware: []
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: neisson-rhum-reserve-speciale
+      display_name: Neisson Rhum Reserve Speciale
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: petit-canne-sugar-cane-syrup
+      display_name: Petit Canne Sugar Cane Syrup
+      quantity: 1
+      unit: barspoon
+      notes: []
+    - slug: disc-silver-dollar-size-twist-cut-straight-off-the-side-of-a-lime-to-retain-flesh-with-the-peel
+      display_name: Disc Silver Dollar Size Twist Cut Straight Off The Side Of A Lime
+        To Retain Flesh With The Peel
+      quantity: 1
+      unit: lime
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Ed Hamilton, Rums of the Eastern Caribbean, 1997
+      author:
+      datetime: '2020-05-09T03:24:56.195121'
+    - text: Ed Hamilton, who exports rhum from Martinique, is largely responsible
+        for importing this Caribbean classic to the United States.
+      author:
+      datetime: '2020-05-09T03:24:56.195125'
+    instructions:
+    - text: Squeeze the lime disc on both sides (to express the oil from the peel
+        and juice from the flesh) into a chilled rocks glass
+      author:
+      datetime: '2020-05-09T03:24:56.195129'
+    - text: Add remaining ingredients and top with pebble ice
+      author:
+      datetime: '2020-05-09T03:24:56.195131'
+    - text: Swizzle, then top with more pebble ice and swizzle again
+      author:
+      datetime: '2020-05-09T03:24:56.195133'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

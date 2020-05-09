@@ -1,0 +1,53 @@
+- slug: nigori-milk-punch
+  display_name: Nigori Milk Punch
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2009
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: kamoizumi-summer-snow-nigori-ginjo
+      display_name: Kamoizumi Summer Snow Nigori Ginjo
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: h-by-hine-fine-champagne-vsop
+      display_name: H By Hine Fine Champagne Vsop
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: navan-vanilla-liqueur
+      display_name: Navan Vanilla Liqueur
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: old-men-great-in-28-bitters
+      display_name: Old Men Great In 28 Bitters
+      quantity: 3
+      unit: dashes
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jim Meehan, Winter 2009
+      author:
+      datetime: '2020-05-09T03:24:56.222949'
+    - text: The rich, creamy sake is a perfect substitute for dairy in this vanilla-accented
+        milk punch.
+      author:
+      datetime: '2020-05-09T03:24:56.222953'
+    instructions:
+    - text: Stir with ice, then strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.222957'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

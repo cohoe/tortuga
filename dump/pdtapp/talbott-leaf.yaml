@@ -1,0 +1,66 @@
+- slug: talbott-leaf
+  display_name: Talbott Leaf
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2009
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: old-grand-dad-bonded-bourbon
+      display_name: Old Grand Dad Bonded Bourbon
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: green-chartreuse
+      display_name: Green Chartreuse
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: cynar
+      display_name: Cynar
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: bonne-maman-strawberry-preserves
+      display_name: Bonne Maman Strawberry Preserves
+      quantity: 1
+      unit: barspoon
+      notes: []
+    - slug: leaves-reserve-1-for-garnish
+      display_name: Leaves Reserve 1 For Garnish
+      quantity: 7
+      unit: Mint
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Gerry Corcoran, Spring 2009
+      author:
+      datetime: '2020-05-09T03:24:56.219311'
+    - text: This Champs Élysées – Clover Leaf mashup is named after the Talbott Tavern,
+        an 18th-century public house located in the center of Bardstown, Kentucky.
+      author:
+      datetime: '2020-05-09T03:24:56.219316'
+    instructions:
+    - text: Muddle mint and Cynar, then add remaining ingredients
+      author:
+      datetime: '2020-05-09T03:24:56.219320'
+    - text: Shake with ice, then fine-strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.219322'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

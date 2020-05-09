@@ -1,0 +1,53 @@
+- slug: margarita
+  display_name: Margarita
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 1937
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: el-tesoro-platinum-tequila
+      display_name: El Tesoro Platinum Tequila
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: cointreau
+      display_name: Cointreau
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: agave-syrup
+      display_name: Agave Syrup
+      quantity: 0.25
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: W. J. Tarling, Café Royal Cocktail Book, 1937 (as the “Picador Cocktail”)
+      author:
+      datetime: '2020-05-09T03:24:56.161608'
+    - text: Margarita is Spanish for “daisy,” a sour sweetened with curaçao or grenadine.
+      author:
+      datetime: '2020-05-09T03:24:56.161613'
+    instructions:
+    - text: Shake with ice, then strain into a chilled rocks glass filled with ice
+        cubes or a chilled coupe (optional salt rim)
+      author:
+      datetime: '2020-05-09T03:24:56.161617'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

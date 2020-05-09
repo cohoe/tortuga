@@ -1,0 +1,63 @@
+- slug: black-diamond
+  display_name: Black Diamond
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2012
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: yamazaki-12-year-old
+      display_name: Yamazaki 12 Year Old
+      quantity: 1.75
+      unit: oz
+      notes: []
+    - slug: bonal-gentiane-quina
+      display_name: Bonal Gentiane Quina
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: greenport-harbor-black-duck-porter
+      display_name: Greenport Harbor Black Duck Porter
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: caledonia-spirits-elderberry-cordial
+      display_name: Caledonia Spirits Elderberry Cordial
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: 2-blackberries
+      display_name: 2 Blackberries
+      notes: []
+    - slug: 3-peppercorns
+      display_name: 3 Peppercorns
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: John deBary Summer 2012
+      author:
+      datetime: '2020-05-09T03:24:56.219024'
+    - text: The porter complements the chocolate notes of the single malt while the
+        blackberries and pepper reinforce the malt’s fruity, spicy qualities.
+      author:
+      datetime: '2020-05-09T03:24:56.219029'
+    instructions:
+    - text: In a mixing glass muddle the berries and peppercorns, then add remaining
+        ingredients
+      author:
+      datetime: '2020-05-09T03:24:56.219033'
+    - text: Stir with ice and fine-strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.219035'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

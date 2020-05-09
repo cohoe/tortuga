@@ -1,0 +1,49 @@
+- slug: buona-notte
+  display_name: Buona Notte
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2007
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: walnut-infused-cognac
+      display_name: Walnut Infused Cognac
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: yellow-chartreuse
+      display_name: Yellow Chartreuse
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: amaro-ciociaro
+      display_name: Amaro Ciociaro
+      quantity: 0.25
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: John Deragon, Winter 2007
+      author:
+      datetime: '2020-05-09T03:24:56.240854'
+    - text: After tasting Eben Freeman’s walnut cognac at Tailor, John came up with
+        this nutty old-fashioned whose name suggests its effect on the imbiber.
+      author:
+      datetime: '2020-05-09T03:24:56.240858'
+    instructions:
+    - text: Stir with ice, then strain over one large ice cube into a chilled rocks
+        glass
+      author:
+      datetime: '2020-05-09T03:24:56.240862'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

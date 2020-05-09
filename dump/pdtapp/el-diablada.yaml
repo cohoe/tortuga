@@ -1,0 +1,64 @@
+- slug: el-diablada
+  display_name: El Diablada
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2013
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: la-diablada-pisco
+      display_name: La Diablada Pisco
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: perrys-tot-gin
+      display_name: Perrys Tot Gin
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: caledonia-spirits-elderberry-cordial
+      display_name: Caledonia Spirits Elderberry Cordial
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: house-ginger-beer
+      display_name: House Ginger Beer
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: honey-syrup
+      display_name: Honey Syrup
+      quantity: 0.5
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jim Meehan, Spring 2013
+      author:
+      datetime: '2020-05-09T03:24:56.221786'
+    - text: The recipe for Trader Vic’s classic tequila-based El Diablo is the inspiration
+        for this riff, which features a handful of our favorite producers.
+      author:
+      datetime: '2020-05-09T03:24:56.221790'
+    instructions:
+    - text: Shake with ice, then strain into a chilled rocks glass filled with pebble
+        ice
+      author:
+      datetime: '2020-05-09T03:24:56.221794'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

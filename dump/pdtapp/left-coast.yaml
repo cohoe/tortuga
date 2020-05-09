@@ -1,0 +1,67 @@
+- slug: left-coast
+  display_name: Left Coast
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2009
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: clear-creek-plum-brandy
+      display_name: Clear Creek Plum Brandy
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: anchor-genevieve
+      display_name: Anchor Genevieve
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: luxardo-maraschino-liqueur
+      display_name: Luxardo Maraschino Liqueur
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: pineapple-juice
+      display_name: Pineapple Juice
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: rothman-winter-creme-de-violette
+      display_name: Rothman Winter Creme De Violette
+      quantity: 1
+      unit: barspoon
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jim Meehan, Spring 2009
+      author:
+      datetime: '2020-05-09T03:24:56.198459'
+    - text: This Aviation-inspired cocktail, made with products from two of our favorite
+        West Coast distillers, recognizes their pioneering work on America’s “left
+        coast.”
+      author:
+      datetime: '2020-05-09T03:24:56.198463'
+    instructions:
+    - text: Shake with ice, then strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.198467'
+    - text: (No garnish)
+      author:
+      datetime: '2020-05-09T03:24:56.198470'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

@@ -1,0 +1,63 @@
+- slug: beachbum
+  display_name: Beachbum
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2007
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: mount-gay-eclipse-amber-rum
+      display_name: Mount Gay Eclipse Amber Rum
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: flor-de-cana-extra-dry-rum
+      display_name: Flor De Cana Extra Dry Rum
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: pineapple-juice
+      display_name: Pineapple Juice
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: rothman-winter-orchard-apricot
+      display_name: Rothman Winter Orchard Apricot
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: kassatly-chtaura-orgeat
+      display_name: Kassatly Chtaura Orgeat
+      quantity: 0.5
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: John Deragon, Winter 2007
+      author:
+      datetime: '2020-05-09T03:24:56.147597'
+    - text: John created this cocktail in honor of Jeff “Beachbum” Berry, whose research
+        helped resurrect tiki cocktails in the 21st century.
+      author:
+      datetime: '2020-05-09T03:24:56.147601'
+    instructions:
+    - text: Shake with ice, then strain into a chilled tiki mug filled with ice cubes
+      author:
+      datetime: '2020-05-09T03:24:56.147606'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

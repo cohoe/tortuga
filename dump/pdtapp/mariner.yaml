@@ -1,0 +1,55 @@
+- slug: mariner
+  display_name: Mariner
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2008
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: compass-box-oak-cross-blended-malt-scotch-whisky
+      display_name: Compass Box Oak Cross Blended Malt Scotch Whisky
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: black-cardamom-syrup
+      display_name: Black Cardamom Syrup
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: pineapple-juice
+      display_name: Pineapple Juice
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.25
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: John Deragon, Summer 2008
+      author:
+      datetime: '2020-05-09T03:24:56.213436'
+    - text: John bolstered the peaty quality of the Scotch by sweetening his cocktail
+        with a syrup infused with black cardamom, a Southeast Asian spice dried over
+        an open flame.
+      author:
+      datetime: '2020-05-09T03:24:56.213440'
+    instructions:
+    - text: Stir with ice, then strain over one large ice cube into a chilled rocks
+        glass
+      author:
+      datetime: '2020-05-09T03:24:56.213444'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

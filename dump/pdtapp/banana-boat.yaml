@@ -1,0 +1,79 @@
+- slug: banana-boat
+  display_name: Banana Boat
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2014
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: banks-7-golden-age-rum
+      display_name: Banks 7 Golden Age Rum
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: lustau-east-india-sherry
+      display_name: Lustau East India Sherry
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: lemon-hart-151-proof-demerara-rum
+      display_name: Lemon Hart 151 Proof Demerara Rum
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: small-hand-foods-orgeat
+      display_name: Small Hand Foods Orgeat
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: giffard-creme-de-banane
+      display_name: Giffard Creme De Banane
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: pineapple-juice
+      display_name: Pineapple Juice
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: heavy-cream
+      display_name: Heavy Cream
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: bittermens-xocolatl-mole-bitters
+      display_name: Bittermens Xocolatl Mole Bitters
+      quantity: 0.25
+      unit: tsp
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: (Nick Brown & Jim Meehan, Spring 2014
+      author:
+      datetime: '2020-05-09T03:24:56.137312'
+    - text: The Bruléed banana brings out the molasses notes of the rum and the sweetness
+        of the nutty orgeat in this tropical excursion from the urban confines of
+        New York City.
+      author:
+      datetime: '2020-05-09T03:24:56.137324'
+    instructions:
+    - text: Shake with ice, then strain into a tiki mug filled with pebble ice
+      author:
+      datetime: '2020-05-09T03:24:56.137330'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

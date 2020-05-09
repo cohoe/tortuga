@@ -1,0 +1,63 @@
+- slug: deep-purple
+  display_name: Deep Purple
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2011
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: pierre-ferrand-ambre-cognac
+      display_name: Pierre Ferrand Ambre Cognac
+      quantity: 1.75
+      unit: oz
+      notes: []
+    - slug: quinta-do-noval-black-port
+      display_name: Quinta Do Noval Black Port
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: lillet-rouge
+      display_name: Lillet Rouge
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: grapes
+      display_name: Grapes
+      quantity: 6
+      unit: concord
+      notes: []
+    - slug: leaf
+      display_name: Leaf
+      quantity: 1
+      unit: shiso
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jim Meehan, Fall 2011
+      author:
+      datetime: '2020-05-09T03:24:56.151188'
+    - text: After helping Jim formulate this autumnal concord cobbler, PDT bartender
+        Karen Fu quickly named it after the seminal English rock band Deep Purple.
+        Feel free to hum “Smoke on the Water” as you sip it.
+      author:
+      datetime: '2020-05-09T03:24:56.151192'
+    instructions:
+    - text: Muddle the grapes and shiso, then add remaining ingredients
+      author:
+      datetime: '2020-05-09T03:24:56.151196'
+    - text: Shake with ice, then fine-strain into a chilled rocks glass filled with
+        pebble ice
+      author:
+      datetime: '2020-05-09T03:24:56.151198'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

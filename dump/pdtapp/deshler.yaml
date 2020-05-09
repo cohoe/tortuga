@@ -1,0 +1,53 @@
+- slug: deshler
+  display_name: Deshler
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 1916
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: rittenhouse-bonded-rye-whiskey
+      display_name: Rittenhouse Bonded Rye Whiskey
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: dubonnet-rouge
+      display_name: Dubonnet Rouge
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: cointreau
+      display_name: Cointreau
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: peychauds-bitters
+      display_name: Peychauds Bitters
+      quantity: 2
+      unit: dashes
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Hugo Enslin, Recipes for Mixed Drinks, 1916
+      author:
+      datetime: '2020-05-09T03:24:56.224574'
+    - text: This stout Manhattan variation was named after lightweight boxer Dave
+        Deshler.
+      author:
+      datetime: '2020-05-09T03:24:56.224578'
+    instructions:
+    - text: Stir with ice, then strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.224582'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

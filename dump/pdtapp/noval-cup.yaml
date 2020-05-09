@@ -1,0 +1,58 @@
+- slug: noval-cup
+  display_name: Noval Cup
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2010
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: quinta-do-noval-black-port
+      display_name: Quinta Do Noval Black Port
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: simple-syrup
+      display_name: Simple Syrup
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: 1-strawberry
+      display_name: 1 Strawberry
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jim Meehan, Summer 2010
+      author:
+      datetime: '2020-05-09T03:24:56.157085'
+    - text: Using the Pimms Cup as his template, Jim fashioned this cocktail to show
+        off the versatility of port in a summer cooler.
+      author:
+      datetime: '2020-05-09T03:24:56.157089'
+    instructions:
+    - text: Muddle the strawberry and syrup, then add remaining ingredients
+      author:
+      datetime: '2020-05-09T03:24:56.157093'
+    - text: Shake with ice, then fine-strain into a chilled collins glass filled with
+        ice
+      author:
+      datetime: '2020-05-09T03:24:56.157095'
+    - text: Top with 2 oz club soda
+      author:
+      datetime: '2020-05-09T03:24:56.157098'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

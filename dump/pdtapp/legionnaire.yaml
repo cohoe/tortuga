@@ -1,0 +1,58 @@
+- slug: legionnaire
+  display_name: Legionnaire
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2013
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: rhum-clement-v-s-o-p
+      display_name: Rhum Clement V S O P
+      quantity: 1.75
+      unit: oz
+      notes: []
+    - slug: cynar
+      display_name: Cynar
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: paul-marie-fils-pineau-des-charentes-tres-veiux
+      display_name: Paul Marie Fils Pineau Des Charentes Tres Veiux
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: miracle-mile-toasted-pecan-bitters
+      display_name: Miracle Mile Toasted Pecan Bitters
+      quantity: 2
+      unit: Dashes
+      notes: []
+    - slug: st-dalfour-royal-fig-jam
+      display_name: St Dalfour Royal Fig Jam
+      quantity: 1
+      unit: barspoon
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Sara Justice, Fall 2013
+      author:
+      datetime: '2020-05-09T03:24:56.224351'
+    - text: Like a legionnaire, Sara marshaled her Francophilia to conceive this combination
+        of products from the outer reaches of the French diaspora.
+      author:
+      datetime: '2020-05-09T03:24:56.224355'
+    instructions:
+    - text: Stir with ice and fine-strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.224360'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

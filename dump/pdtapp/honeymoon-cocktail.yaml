@@ -1,0 +1,56 @@
+- slug: honeymoon-cocktail
+  display_name: Honeymoon Cocktail
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 1916
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: lairds-bonded-apple-brandy
+      display_name: Lairds Bonded Apple Brandy
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: marie-brizard-orange-curacao
+      display_name: Marie Brizard Orange Curacao
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: benedictine
+      display_name: Benedictine
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.5
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Hugo Ensslin, Recipes for Mixed Drinks, 1916
+      author:
+      datetime: '2020-05-09T03:24:56.155449'
+    - text: One can only speculate about the reasoning behind the author’s choice
+        of “Honeymoon” as the title of this knee-bendingly boozy sour.
+      author:
+      datetime: '2020-05-09T03:24:56.155453'
+    instructions:
+    - text: Shake with ice, then strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.155457'
+    - text: (No garnish)
+      author:
+      datetime: '2020-05-09T03:24:56.155460'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

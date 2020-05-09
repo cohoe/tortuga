@@ -1,0 +1,68 @@
+- slug: rosemary-society
+  display_name: Rosemary Society
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2010
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: tanqueray-london-dry-gin
+      display_name: Tanqueray London Dry Gin
+      quantity: 1.75
+      unit: oz
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: rosemary-syrup
+      display_name: Rosemary Syrup
+      quantity: 0.6
+      unit: oz
+      notes: []
+    - slug: grapefruit-juice
+      display_name: Grapefruit Juice
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: clear-creek-williams-pear-brandy
+      display_name: Clear Creek Williams Pear Brandy
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: of-rosemary
+      display_name: Of Rosemary
+      quantity: 0.5
+      unit: sprig
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Michael Klein, Winter 2010
+      author:
+      datetime: '2020-05-09T03:24:56.158822'
+    - text: The name of this Oregon-brandy-accented cocktail references the portland
+        Rose Society, a collective of gardeners founded in 1888 to preserve the cultivation
+        of rose gardens in the city.
+      author:
+      datetime: '2020-05-09T03:24:56.158826'
+    instructions:
+    - text: Muddle the needles of the rosemary sprig with the rosemary syrup, then
+        add remaining ingredients
+      author:
+      datetime: '2020-05-09T03:24:56.158830'
+    - text: Shake with ice and fine-strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.158833'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

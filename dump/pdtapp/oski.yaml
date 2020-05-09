@@ -1,0 +1,61 @@
+- slug: oski
+  display_name: Oski
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2013
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: anchor-hophead-vodka
+      display_name: Anchor Hophead Vodka
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: kina-lavion-dor
+      display_name: Kina Lavion Dor
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: grapefruit-juice
+      display_name: Grapefruit Juice
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: small-hand-foods-pineapple-gum-syrup
+      display_name: Small Hand Foods Pineapple Gum Syrup
+      quantity: 0.25
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jeff Bell, Summer 2013
+      author:
+      datetime: '2020-05-09T03:24:56.171243'
+    - text: This twist on our Paddington cocktail features a California vodka and
+        is named after U.C. Berkeley mascot and fellow black bear Oski.
+      author:
+      datetime: '2020-05-09T03:24:56.171247'
+    instructions:
+    - text: Shake with ice and fine-strain into a chilled St. Germain-rinsed coupe
+      author:
+      datetime: '2020-05-09T03:24:56.171251'
+    - text: (No garnish)
+      author:
+      datetime: '2020-05-09T03:24:56.171253'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

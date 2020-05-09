@@ -1,0 +1,66 @@
+- slug: shiso-malt-sour
+  display_name: Shiso Malt Sour
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2009
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: yamazaki-12-year-old
+      display_name: Yamazaki 12 Year Old
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: simple-syrup
+      display_name: Simple Syrup
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: vieux-pontarlier-absinthe
+      display_name: Vieux Pontarlier Absinthe
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: leaves-reserve-1-for-garnish
+      display_name: Leaves Reserve 1 For Garnish
+      quantity: 3
+      unit: shiso
+      notes: []
+    - slug: white
+      display_name: White
+      quantity: 1
+      unit: egg
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jim Meehan, Spring 2009
+      author:
+      datetime: '2020-05-09T03:24:56.169700'
+    - text: The anise- and mint-accented shiso brightens the bittersweet absinthe
+        in this ethereal Japanese whisky sour.
+      author:
+      datetime: '2020-05-09T03:24:56.169705'
+    instructions:
+    - text: Muddle shiso and syrup, then add remaining ingredients
+      author:
+      datetime: '2020-05-09T03:24:56.169710'
+    - text: Dry-shake, then shake with ice and fine-strain into a chilled egg coupe
+      author:
+      datetime: '2020-05-09T03:24:56.169712'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

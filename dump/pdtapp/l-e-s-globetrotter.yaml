@@ -1,0 +1,53 @@
+- slug: l-e-s-globetrotter
+  display_name: L.E.S. Globetrotter
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2008
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: wild-turkey-rye-whiskey
+      display_name: Wild Turkey Rye Whiskey
+      quantity: 1.25
+      unit: oz
+      notes: []
+    - slug: h-by-hine-fine-champagne-vsop
+      display_name: H By Hine Fine Champagne Vsop
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: benedictine
+      display_name: Benedictine
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: rhum-clement-creole-shrubb
+      display_name: Rhum Clement Creole Shrubb
+      quantity: 0.5
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Johnny Iuzzini, Winter 2008
+      author:
+      datetime: '2020-05-09T03:24:56.139927'
+    - text: Renowned pastry chef Johnny Iuzzini created this twist on the Cock ’N’
+        Bull Special from Ted Saucier’s Bottoms Up while tending bar at PDT.
+      author:
+      datetime: '2020-05-09T03:24:56.139932'
+    instructions:
+    - text: Stir with ice, then strain over an ice sphere into a chilled rocks glass
+      author:
+      datetime: '2020-05-09T03:24:56.139937'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

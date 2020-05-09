@@ -1,0 +1,49 @@
+- slug: age-of-enlightenment
+  display_name: Age of Enlightenment
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2014
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: enlightenment-floralia-botanical-mead
+      display_name: Enlightenment Floralia Botanical Mead
+      quantity: 1.75
+      unit: oz
+      notes: []
+    - slug: reisetbauer-barrel-aged-blue-gin
+      display_name: Reisetbauer Barrel Aged Blue Gin
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: yellow-chartreuse-v-e-p
+      display_name: Yellow Chartreuse V E P
+      quantity: 0.25
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jim Meehan, Spring 2014
+      author:
+      datetime: '2020-05-09T03:24:56.160043'
+    - text: Widespread interest in historic spirits are paving the way for anachronistic
+        producers like Enlightenment Wines’ Raphael Lyon, whose medieval mead brings
+        us back to the future.
+      author:
+      datetime: '2020-05-09T03:24:56.160048'
+    instructions:
+    - text: Stir with ice, then strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.160052'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

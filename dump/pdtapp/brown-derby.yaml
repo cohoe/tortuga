@@ -1,0 +1,51 @@
+- slug: brown-derby
+  display_name: Brown Derby
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 1930
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: makers-mark-bourbon
+      display_name: Makers Mark Bourbon
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: grapefruit-juice
+      display_name: Grapefruit Juice
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: honey-syrup
+      display_name: Honey Syrup
+      quantity: 0.75
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Buzza & Cardozo, Hollywood Cocktails, 1930s
+      author:
+      datetime: '2020-05-09T03:24:56.154665'
+    - text: Dale DeGroff attributes the Brown Derby cocktail, named after the famous
+        hat-shaped restaurant in Hollywood, to Buzza’s rare bar book.
+      author:
+      datetime: '2020-05-09T03:24:56.154670'
+    instructions:
+    - text: Shake with ice, then strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.154674'
+    - text: (No garnish)
+      author:
+      datetime: '2020-05-09T03:24:56.154676'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

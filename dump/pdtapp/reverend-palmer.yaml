@@ -1,0 +1,49 @@
+- slug: reverend-palmer
+  display_name: Reverend Palmer
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2007
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: black-tea-infused-bourbon
+      display_name: Black Tea Infused Bourbon
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: lemon-cordial-syrup
+      display_name: Lemon Cordial Syrup
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: angostura-bitters
+      display_name: Angostura Bitters
+      quantity: 2
+      unit: dashes
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Don Lee, Summer 2007
+      author:
+      datetime: '2020-05-09T03:24:56.160235'
+    - text: Like legendary golfer Arnold Palmer’s country-club cooler, this Old Fashioned–variant
+        is a classic.
+      author:
+      datetime: '2020-05-09T03:24:56.160240'
+    instructions:
+    - text: Stir with ice, then strain over one large ice cube into a chilled rocks
+        glass
+      author:
+      datetime: '2020-05-09T03:24:56.160244'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

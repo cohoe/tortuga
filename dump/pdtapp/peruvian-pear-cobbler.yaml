@@ -1,0 +1,69 @@
+- slug: peruvian-pear-cobbler
+  display_name: Peruvian Pear Cobbler
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2010
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: macchu-pisco
+      display_name: Macchu Pisco
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: belle-de-brillet
+      display_name: Belle De Brillet
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: amaro-ciociaro
+      display_name: Amaro Ciociaro
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: st-germain
+      display_name: St Germain
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: simple-syrup
+      display_name: Simple Syrup
+      quantity: 0.25
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: John deBary, Fall 2010
+      author:
+      datetime: '2020-05-09T03:24:56.188524'
+    - text: John used bright elderflower liqueur, bitter amaro, and pear-infused cognac
+        as bittersweet accents in his Peruvian pisco–based cobbler featuring fall’s
+        final tree fruit.
+      author:
+      datetime: '2020-05-09T03:24:56.188528'
+    instructions:
+    - text: Shake with ice, then strain into a rocks glass filled with pebble ice
+      author:
+      datetime: '2020-05-09T03:24:56.188532'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

@@ -1,0 +1,52 @@
+- slug: desert-rose
+  display_name: Desert Rose
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2007
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: rose-infused-gin
+      display_name: Rose Infused Gin
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: perfect-purees-of-napa-valley-prickly-pear-puree
+      display_name: Perfect Purees Of Napa Valley Prickly Pear Puree
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: simple-syrup
+      display_name: Simple Syrup
+      quantity: 0.5
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Artemio Vásquez, Winter 2007
+      author:
+      datetime: '2020-05-09T03:24:56.225294'
+    - text: Vásquez named this floral gin sour after his beloved wife Juana Rosa.
+      author:
+      datetime: '2020-05-09T03:24:56.225298'
+    instructions:
+    - text: Shake with ice, then strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.225302'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

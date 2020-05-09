@@ -1,0 +1,62 @@
+- slug: clover-club
+  display_name: Clover Club
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 1909
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: plymouth-gin
+      display_name: Plymouth Gin
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: simple-syrup
+      display_name: Simple Syrup
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: bonne-maman-raspberry-preserves
+      display_name: Bonne Maman Raspberry Preserves
+      quantity: 1
+      unit: barspoon
+      notes: []
+    - slug: white
+      display_name: White
+      quantity: 1
+      unit: egg
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Paul Lowe, Drinks, 1909
+      author:
+      datetime: '2020-05-09T03:24:56.195819'
+    - text: A select group of journalists and socialites, collectively referred to
+        as the Clover Club, commiserated at the Bellevue Stratford Hotel in Philadelphia
+        from the 1880s through the 1920s.
+      author:
+      datetime: '2020-05-09T03:24:56.195823'
+    instructions:
+    - text: Dry-shake, then shake with ice and strain into a chilled egg coupe
+      author:
+      datetime: '2020-05-09T03:24:56.195828'
+    - text: (No garnish)
+      author:
+      datetime: '2020-05-09T03:24:56.195830'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

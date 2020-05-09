@@ -1,0 +1,53 @@
+- slug: apricot-flip
+  display_name: Apricot Flip
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2007
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: h-by-hine-fine-champagne-vsop
+      display_name: H By Hine Fine Champagne Vsop
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: rothman-winter-orchard-apricot
+      display_name: Rothman Winter Orchard Apricot
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: simple-syrup
+      display_name: Simple Syrup
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: egg
+      display_name: Egg
+      quantity: 1
+      unit: whole
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: John Deragon, Fall 2007
+      author:
+      datetime: '2020-05-09T03:24:56.152778'
+    - text: This rich fall flip was created right after Eric Seed released Rothman
+        & Winter Orchard Apricot in the U.S.
+      author:
+      datetime: '2020-05-09T03:24:56.152782'
+    instructions:
+    - text: Dry-shake, then shake with ice and strain into a chilled fizz glass
+      author:
+      datetime: '2020-05-09T03:24:56.152786'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

@@ -1,0 +1,56 @@
+- slug: bronx
+  display_name: Bronx
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 1908
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: beefeater-gin
+      display_name: Beefeater Gin
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: orange-juice
+      display_name: Orange Juice
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: dolin-dry-vermouth
+      display_name: Dolin Dry Vermouth
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: carpano-antica-formula-vermouth
+      display_name: Carpano Antica Formula Vermouth
+      quantity: 0.75
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: William Boothby, The World’s Drinks & How to Mix Them, 1908
+      author:
+      datetime: '2020-05-09T03:24:56.148535'
+    - text: 'The Bronx: Named after the zoo, not the borough, this drink was one of
+        the most popular of its time.'
+      author:
+      datetime: '2020-05-09T03:24:56.148539'
+    instructions:
+    - text: Shake with ice, then strain into chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.148543'
+    - text: (No garnish)
+      author:
+      datetime: '2020-05-09T03:24:56.148545'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

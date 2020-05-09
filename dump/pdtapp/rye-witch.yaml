@@ -1,0 +1,66 @@
+- slug: rye-witch
+  display_name: Rye Witch
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2007
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: rittenhouse-bonded-rye-whiskey
+      display_name: Rittenhouse Bonded Rye Whiskey
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: strega
+      display_name: Strega
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: lustau-palo-cortado-peninsula
+      display_name: Lustau Palo Cortado Peninsula
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: sugar-cube
+      display_name: Sugar Cube
+      quantity: 1
+      unit: demerara
+      notes: []
+    - slug: house-orange-bitters
+      display_name: House Orange Bitters
+      quantity: 2
+      unit: dashes
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jim Meehan, Fall 2007
+      author:
+      datetime: '2020-05-09T03:24:56.239167'
+    - text: 'Whenever we incorporate Strega into a recipe, the cocktail’s name is
+        likely to feature the English translation: witch.'
+      author:
+      datetime: '2020-05-09T03:24:56.239171'
+    instructions:
+    - text: In a mixing glass muddle the bitters and sugar cube, then add remaining
+        ingredients
+      author:
+      datetime: '2020-05-09T03:24:56.239175'
+    - text: Stir with ice, then strain into a chilled rocks glass and pinch an orange
+        peel over the surface
+      author:
+      datetime: '2020-05-09T03:24:56.239177'
+    - text: (No garnish)
+      author:
+      datetime: '2020-05-09T03:24:56.239180'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

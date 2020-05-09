@@ -1,0 +1,62 @@
+- slug: for-peats-sake
+  display_name: For Peat’s Sake
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2011
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: celery-juice
+      display_name: Celery Juice
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: ardbeg-10-year-old-scotch-whisky
+      display_name: Ardbeg 10 Year Old Scotch Whisky
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: green-chartreuse
+      display_name: Green Chartreuse
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: luxardo-maraschino-liqueur
+      display_name: Luxardo Maraschino Liqueur
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: pernod-absinthe
+      display_name: Pernod Absinthe
+      quantity: 0.25
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jim Meehan & Jeff Bell, Fall 2011
+      author:
+      datetime: '2020-05-09T03:24:56.222045'
+    - text: Using the Last Word as their muse, Jim and Jeff tamed the legendary peat
+        monster with a host of flavorful ingredients and accentuated its brininess
+        with celery juice.
+      author:
+      datetime: '2020-05-09T03:24:56.222050'
+    instructions:
+    - text: Shake with ice, then strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.222054'
+    - text: (No garnish)
+      author:
+      datetime: '2020-05-09T03:24:56.222056'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

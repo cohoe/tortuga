@@ -1,0 +1,54 @@
+- slug: velvet-club
+  display_name: Velvet Club
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2008
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: h-by-hine-fine-champagne-vsop
+      display_name: H By Hine Fine Champagne Vsop
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: lillet-blanc
+      display_name: Lillet Blanc
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: marie-brizard-white-creme-de-cacao
+      display_name: Marie Brizard White Creme De Cacao
+      quantity: 0.5
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jane Danger, Winter 2008
+      author:
+      datetime: '2020-05-09T03:24:56.146846'
+    - text: 'Jane spiked L.V. Battersby’s Velvet Glove cocktail, from the Café Royal
+        Cocktail Book, with a splash of PDT’s “club” soda: Laurent-Perrier Brut Champagne.'
+      author:
+      datetime: '2020-05-09T03:24:56.146850'
+    instructions:
+    - text: Stir with ice, then strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.146854'
+    - text: Top with 1 oz Laurent-Perrier Brut
+      author:
+      datetime: '2020-05-09T03:24:56.146856'
+    - text: (No garnish)
+      author:
+      datetime: '2020-05-09T03:24:56.146858'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

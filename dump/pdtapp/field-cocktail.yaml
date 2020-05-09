@@ -1,0 +1,48 @@
+- slug: field-cocktail
+  display_name: Field Cocktail
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2010
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: pierre-ferrand-ambre-cognac
+      display_name: Pierre Ferrand Ambre Cognac
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: noilly-prat-dry-vermouth
+      display_name: Noilly Prat Dry Vermouth
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: pineapple-juice
+      display_name: Pineapple Juice
+      quantity: 0.75
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jim Meehan, Spring 2010
+      author:
+      datetime: '2020-05-09T03:24:56.208733'
+    - text: This cognac-driven variation on the rye-based Algonquin Cocktail is a
+        tribute to Colin Peter Field, who runs the Hemingway Bar in Paris’s Ritz Hotel.
+      author:
+      datetime: '2020-05-09T03:24:56.208737'
+    instructions:
+    - text: Stir with ice, then strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.208741'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

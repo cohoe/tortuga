@@ -1,0 +1,67 @@
+- slug: vieux-carre
+  display_name: Vieux Carré
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 1937
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: sazerac-6-year-old-rye-whiskey
+      display_name: Sazerac 6 Year Old Rye Whiskey
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: h-by-hine-fine-champagne-vsop
+      display_name: H By Hine Fine Champagne Vsop
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: carpano-antica-formula-vermouth
+      display_name: Carpano Antica Formula Vermouth
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: benedictine
+      display_name: Benedictine
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: angostura-bitters
+      display_name: Angostura Bitters
+      quantity: 1
+      unit: dash
+      notes: []
+    - slug: peychauds-bitters
+      display_name: Peychauds Bitters
+      quantity: 1
+      unit: dash
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Stanley Clisby Arthur, Famous New Orleans Drinks, 1937
+      author:
+      datetime: '2020-05-09T03:24:56.141917'
+    - text: According to Arthur, “This is the cocktail that Walter Bergeron, head
+        bartender of the Hotel Monteleone cocktail lounge, takes pride in mixing.”
+      author:
+      datetime: '2020-05-09T03:24:56.141921'
+    instructions:
+    - text: Stir with ice, then strain over one large ice cube into a chilled rocks
+        glass
+      author:
+      datetime: '2020-05-09T03:24:56.141925'
+    - text: (No garnish)
+      author:
+      datetime: '2020-05-09T03:24:56.141928'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

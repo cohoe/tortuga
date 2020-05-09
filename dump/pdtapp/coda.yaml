@@ -1,0 +1,63 @@
+- slug: coda
+  display_name: Coda
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2008
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: pampero-aniversario-rum
+      display_name: Pampero Aniversario Rum
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: neisson-rhum-blanc
+      display_name: Neisson Rhum Blanc
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: st-elizabeth-allspice-dram
+      display_name: St Elizabeth Allspice Dram
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: demerara-syrup
+      display_name: Demerara Syrup
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: egg
+      display_name: Egg
+      quantity: 1
+      unit: whole
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Daniel Eun, Spring 2008
+      author:
+      datetime: '2020-05-09T03:24:56.233808'
+    - text: In music, a coda (Italian for “tail”) is a passage that brings conclusion
+        to a particular piece.
+      author:
+      datetime: '2020-05-09T03:24:56.233813'
+    instructions:
+    - text: Dry-shake, then shake with ice and strain into a chilled fizz glass
+      author:
+      datetime: '2020-05-09T03:24:56.233862'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

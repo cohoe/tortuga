@@ -1,0 +1,79 @@
+- slug: zombie-punch
+  display_name: Zombie Punch
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 1934
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: appleton-estate-reserve-rum
+      display_name: Appleton Estate Reserve Rum
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: bacardi-8-rum
+      display_name: Bacardi 8 Rum
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: lemon-hart-151-proof-demerara-rum
+      display_name: Lemon Hart 151 Proof Demerara Rum
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: john-d-taylors-velvet-falernum
+      display_name: John D Taylors Velvet Falernum
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: trader-tikis-dons-mix
+      display_name: Trader Tikis Dons Mix
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: jack-rudy-grenadine
+      display_name: Jack Rudy Grenadine
+      quantity: 1
+      unit: barspoon
+      notes: []
+    - slug: 1-8-tsp-vieux-pontarlier-absinthe
+      display_name: 1 8 Tsp Vieux Pontarlier Absinthe
+      notes: []
+    - slug: angostura-bitters
+      display_name: Angostura Bitters
+      quantity: 1
+      unit: dash
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Don the Beachcomber, 1934
+      author:
+      datetime: '2020-05-09T03:24:56.141609'
+    - text: 'Tiki bar owners like Donn Beach went through a lot of trouble to keep
+        their recipes a secret: only the most trusted staff members knew the full
+        recipes, which were batched secretly and given to the bartenders on the front
+        line to mix out of numbered bottles.'
+      author:
+      datetime: '2020-05-09T03:24:56.141614'
+    instructions:
+    - text: Shake with ice, then strain into a chilled tiki mug filled with pebble
+        ice
+      author:
+      datetime: '2020-05-09T03:24:56.141618'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

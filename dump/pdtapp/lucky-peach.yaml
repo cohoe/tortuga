@@ -1,0 +1,52 @@
+- slug: lucky-peach
+  display_name: Lucky Peach
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2010
+    glassware: []
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: peach-infused-rye-rum-blend
+      display_name: Peach Infused Rye Rum Blend
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: lustau-pedro-ximenez-san-emilio
+      display_name: Lustau Pedro Ximenez San Emilio
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: leaves
+      display_name: Leaves
+      quantity: 8
+      unit: mint
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Karen Fu & Jim Meehan, Summer 2010
+      author:
+      datetime: '2020-05-09T03:24:56.144961'
+    - text: After a hot, dry growing season, we infused a bumper crop of yellow peaches
+        into high proof Jamaican rum and Kentucky rye to serve in this summery julep.
+      author:
+      datetime: '2020-05-09T03:24:56.144966'
+    instructions:
+    - text: In a julep cup muddle the mint and sherry, then add the rye/rum blend
+        and top with pebble ice
+      author:
+      datetime: '2020-05-09T03:24:56.144970'
+    - text: Swizzle, then add more pebble ice
+      author:
+      datetime: '2020-05-09T03:24:56.144972'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

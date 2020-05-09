@@ -1,0 +1,49 @@
+- slug: lacrimosa
+  display_name: Lacrimosa
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2008
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: rittenhouse-bonded-rye-whiskey
+      display_name: Rittenhouse Bonded Rye Whiskey
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: luxardo-bitter
+      display_name: Luxardo Bitter
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: amaro-ciociaro
+      display_name: Amaro Ciociaro
+      quantity: 0.75
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: David Slape, Fall 2008
+      author:
+      datetime: '2020-05-09T03:24:56.165267'
+    - text: This Negroni variation, whose name means “tears” in Latin, substitutes
+        rye for gin, amaro for sweet vermouth, and Luxardo bitter for Campari.
+      author:
+      datetime: '2020-05-09T03:24:56.165271'
+    instructions:
+    - text: Stir with ice, then strain over one large ice cube into a chilled rocks
+        glass
+      author:
+      datetime: '2020-05-09T03:24:56.165275'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

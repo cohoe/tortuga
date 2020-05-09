@@ -1,0 +1,56 @@
+- slug: white-lady
+  display_name: White Lady
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 1929
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: beefeater-gin
+      display_name: Beefeater Gin
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: cointreau
+      display_name: Cointreau
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: white
+      display_name: White
+      quantity: 1
+      unit: egg
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Harry McElhone, ABC of Mixing Cocktails, 1929
+      author:
+      datetime: '2020-05-09T03:24:56.220207'
+    - text: You can still order McElhone’s iconic creation at Harry’s New York Bar
+        in Paris from one of the bar’s old-school, white-coated barmen.
+      author:
+      datetime: '2020-05-09T03:24:56.220211'
+    instructions:
+    - text: Dry-shake, then shake with ice and strain into a chilled egg coupe
+      author:
+      datetime: '2020-05-09T03:24:56.220215'
+    - text: (No garnish)
+      author:
+      datetime: '2020-05-09T03:24:56.220218'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

@@ -1,0 +1,59 @@
+- slug: mai-tai
+  display_name: Mai-Tai
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 1972
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: clement-premiere-canne
+      display_name: Clement Premiere Canne
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: appleton-estate-reserve-rum
+      display_name: Appleton Estate Reserve Rum
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: pierre-ferrand-dry-curacao
+      display_name: Pierre Ferrand Dry Curacao
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: small-hand-foods-orgeat
+      display_name: Small Hand Foods Orgeat
+      quantity: 0.75
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jules Bergeron, Trader Vic’s Bartender’s Guide, 1972
+      author:
+      datetime: '2020-05-09T03:24:56.219824'
+    - text: Tiki godfather Trader Vic claimed he first served this drink to friends
+        visiting from Tahiti in 1944, who pronounced it Maitai roa!“Very good!”
+      author:
+      datetime: '2020-05-09T03:24:56.219828'
+    instructions:
+    - text: Shake with ice, then strain into a chilled rocks glass filled with pebble
+        ice
+      author:
+      datetime: '2020-05-09T03:24:56.219833'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

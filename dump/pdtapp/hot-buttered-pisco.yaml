@@ -1,0 +1,51 @@
+- slug: hot-buttered-pisco
+  display_name: Hot Buttered Pisco
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2009
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: hot-water
+      display_name: Hot Water
+      quantity: 6
+      unit: oz
+      notes: []
+    - slug: spiced-pisco
+      display_name: Spiced Pisco
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: vanilla-butter
+      display_name: Vanilla Butter
+      quantity: 1
+      unit: barspoon
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Kevin Diedrich, Winter 2009
+      author:
+      datetime: '2020-05-09T03:24:56.223143'
+    - text: Kevin’s Hot Buttered Rum / Tom & Jerry hybrid is perfect for a cool night
+        in the Ica Valley where the pisco grapes grow.
+      author:
+      datetime: '2020-05-09T03:24:56.223147'
+    instructions:
+    - text: Build in a preheated mug, then stir until vanilla butter dissolves
+      author:
+      datetime: '2020-05-09T03:24:56.223151'
+    - text: Top with sweetened whipped cream
+      author:
+      datetime: '2020-05-09T03:24:56.223156'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

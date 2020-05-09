@@ -1,0 +1,36 @@
+- slug: sunset-bolivar
+  display_name: Sunset Bolívar
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2012
+    glassware: []
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: pinch-a-grapefruit-twist-over-the-surface-and-discard
+      display_name: Pinch A Grapefruit Twist Over The Surface And Discard
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Luis Brávo, Winter 2012
+      author:
+      datetime: '2020-05-09T03:24:56.148320'
+    - text: The name of Luis’s cocktail alludes to a L.A. street and the Venezuelan-born
+        revolutionary leader Simón Bolívar, who campaigned to unify Latin America.
+      author:
+      datetime: '2020-05-09T03:24:56.148324'
+    instructions:
+    - text: (No garnish)
+      author:
+      datetime: '2020-05-09T03:24:56.148328'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

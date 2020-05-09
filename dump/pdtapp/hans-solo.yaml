@@ -1,0 +1,60 @@
+- slug: hans-solo
+  display_name: Hans Solo
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2013
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: reisetbauer-blue-gin-barrel-aged
+      display_name: Reisetbauer Blue Gin Barrel Aged
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: blandys-sercial-5-year-old-madeira
+      display_name: Blandys Sercial 5 Year Old Madeira
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: jean-marc-roulot-lapricot-liqueur
+      display_name: Jean Marc Roulot Lapricot Liqueur
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: tempus-fugit-abbotts-bitters
+      display_name: Tempus Fugit Abbotts Bitters
+      quantity: 1
+      unit: Dash
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jim Meehan, Fall 2013
+      author:
+      datetime: '2020-05-09T03:24:56.243800'
+    - text: Hans Reisetbauer filled a Kracher wine barrel with his Blue Gin and shared
+        the results with Jim six years later, hoping he’d like it. Jim bought the
+        whole barrel and paid homage to Hans with this cocktail.
+      author:
+      datetime: '2020-05-09T03:24:56.243804'
+    instructions:
+    - text: Stir with ice, then strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.243808'
+    - text: Top with 1 oz Laurent-Perrier Brut
+      author:
+      datetime: '2020-05-09T03:24:56.243811'
+    - text: No garnish
+      author:
+      datetime: '2020-05-09T03:24:56.243813'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

@@ -1,0 +1,60 @@
+- slug: leekeasy
+  display_name: Leekeasy
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2013
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: tanqueray-malacca-gin
+      display_name: Tanqueray Malacca Gin
+      quantity: 1.75
+      unit: oz
+      notes: []
+    - slug: noilly-prat-extra-dry-vermouth
+      display_name: Noilly Prat Extra Dry Vermouth
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: dolin-genepy-des-alpes
+      display_name: Dolin Genepy Des Alpes
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: 6-1-4-pieces-of-scallion
+      display_name: 6 1 4 Pieces Of Scallion
+      notes: []
+    - slug: slices
+      display_name: Slices
+      quantity: 3
+      unit: cucumber
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Anne Robinson, Summer 2013
+      author:
+      datetime: '2020-05-09T03:24:56.231508'
+    - text: 'Anne’s savory Gibson variation combines importer Eric Seed’s genepy with
+        two recently re-released favorites: Noilly Pratt extra dry vermouth and Tanqueray
+        Malacca.'
+      author:
+      datetime: '2020-05-09T03:24:56.231513'
+    instructions:
+    - text: Muddle the vegetables, then add remaining ingredients
+      author:
+      datetime: '2020-05-09T03:24:56.231517'
+    - text: Stir with ice, then fine-strain into a chilled, St. Germain–rinsed coupe
+      author:
+      datetime: '2020-05-09T03:24:56.231519'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

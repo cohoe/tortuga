@@ -1,0 +1,67 @@
+- slug: honey-island
+  display_name: Honey Island
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2013
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: novo-fogo-cachaca-organica-silver
+      display_name: Novo Fogo Cachaca Organica Silver
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: shinn-estate-pear-cider
+      display_name: Shinn Estate Pear Cider
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: honey-syrup
+      display_name: Honey Syrup
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: amaro-sibilla
+      display_name: Amaro Sibilla
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: white
+      display_name: White
+      quantity: 1
+      unit: egg
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Sara Justice, Fall 2013
+      author:
+      datetime: '2020-05-09T03:24:56.161395'
+    - text: 'This cocktail makes you feel like you’ve arrived on Honey Island: an
+        automobile-free fisherman’s paradise near Morretes, where Novo Fogo hails
+        from.'
+      author:
+      datetime: '2020-05-09T03:24:56.161399'
+    instructions:
+    - text: Dry-shake, then shake with ice, then strain into a chilled egg coupe
+      author:
+      datetime: '2020-05-09T03:24:56.161403'
+    - text: (No garnish)
+      author:
+      datetime: '2020-05-09T03:24:56.161406'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

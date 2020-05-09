@@ -1,0 +1,46 @@
+- slug: jimmie-roosevelt
+  display_name: Jimmie Roosevelt
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 1939
+    glassware: []
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: h-by-hine-fine-champagne-vsop-chilled
+      display_name: H By Hine Fine Champagne Vsop Chilled
+      quantity: 1
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Charles Baker, The Gentleman’s Companion, 1939
+      author:
+      datetime: '2020-05-09T03:24:56.201239'
+    - text: 'Baker created this drink for Colonel Jimmie Roosevelt: “It was warmish,
+        and being a sort of Nephew-in-Law of Paul Garrett, dean of all American Vintners,
+        and present ‘father’ of Virginia Dare, we brought out two chilled bottles
+        of Garrett Champagne, and created this one.”'
+      author:
+      datetime: '2020-05-09T03:24:56.201243'
+    instructions:
+    - text: 1 demerara sugar cube soaked in Angostura Bitters
+      author:
+      datetime: '2020-05-09T03:24:56.201247'
+    - text: Top with 2 oz Laurent-Perrier Brut
+      author:
+      datetime: '2020-05-09T03:24:56.201249'
+    - text: Float .25 oz green Chartreuse
+      author:
+      datetime: '2020-05-09T03:24:56.201251'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

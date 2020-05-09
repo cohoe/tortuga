@@ -1,0 +1,62 @@
+- slug: japanese-courage
+  display_name: Japanese Courage
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2009
+    glassware: []
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: kamoizumi-shusen-three-dots-sake
+      display_name: Kamoizumi Shusen Three Dots Sake
+      quantity: 6
+      unit: oz
+      notes: []
+    - slug: bols-genever
+      display_name: Bols Genever
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: yellow-chartreuse
+      display_name: Yellow Chartreuse
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: domaine-de-canton-ginger-liqueur
+      display_name: Domaine De Canton Ginger Liqueur
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: honey-syrup
+      display_name: Honey Syrup
+      quantity: 0.25
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jim Meehan, Winter 2009
+      author:
+      datetime: '2020-05-09T03:24:56.187390'
+    - text: Genever, the backbone of this winter warmer, was called “Dutch Courage,”
+        by 17th-century English soldiers who were impressed by how hard the Dutch
+        fought after a dram of the stuff.
+      author:
+      datetime: '2020-05-09T03:24:56.187394'
+    instructions:
+    - text: 'Heat the sake in a bain-marie: do not boil'
+      author:
+      datetime: '2020-05-09T03:24:56.187399'
+    - text: Pour the sake and remaining ingredients into a preheated mug
+      author:
+      datetime: '2020-05-09T03:24:56.187401'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

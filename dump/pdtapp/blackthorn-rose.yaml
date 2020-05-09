@@ -1,0 +1,57 @@
+- slug: blackthorn-rose
+  display_name: Blackthorn Rose
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2009
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: hendricks-gin
+      display_name: Hendricks Gin
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: plymouth-sloe-gin
+      display_name: Plymouth Sloe Gin
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: lillet-rouge
+      display_name: Lillet Rouge
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: mymoune-rose-syrup
+      display_name: Mymoune Rose Syrup
+      quantity: 1
+      unit: barspoon
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: David Slape, Spring 2009
+      author:
+      datetime: '2020-05-09T03:24:56.182097'
+    - text: 'To enhance the unusual botanicals in Hendrick’s gin, David came up with
+        this rose-accented variation on the classic that employs Dubonnet’s Bordelaise
+        brethren: Lillet Rouge.'
+      author:
+      datetime: '2020-05-09T03:24:56.182102'
+    instructions:
+    - text: Stir with ice, then strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.182106'
+    - text: (No garnish)
+      author:
+      datetime: '2020-05-09T03:24:56.182108'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

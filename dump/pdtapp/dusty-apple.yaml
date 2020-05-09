@@ -1,0 +1,54 @@
+- slug: dusty-apple
+  display_name: Dusty Apple
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2012
+    glassware: []
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: apple-cider-hot
+      display_name: Apple Cider Hot
+      quantity: 4
+      unit: oz
+      notes: []
+    - slug: pueblo-viejo-anejo-tequila
+      display_name: Pueblo Viejo Anejo Tequila
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: suze-saveur-dautrefois
+      display_name: Suze Saveur Dautrefois
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: angostura-bitters
+      display_name: Angostura Bitters
+      quantity: 1
+      unit: dash
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jim Meehan, Fall 2012
+      author:
+      datetime: '2020-05-09T03:24:56.153253'
+    - text: Warm cider, barrel-aged Tequila, and gentian-tinged Suze make this winter
+        warmer taste like you discovered a vital young apple tree growing in a forgotten
+        cellar.
+      author:
+      datetime: '2020-05-09T03:24:56.153258'
+    instructions:
+    - text: Build in a preheated toddy glass
+      author:
+      datetime: '2020-05-09T03:24:56.153262'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

@@ -1,0 +1,59 @@
+- slug: kina-miele
+  display_name: Kina Miele
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2010
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: dolin-dry-vermouth
+      display_name: Dolin Dry Vermouth
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: cocchi-americano
+      display_name: Cocchi Americano
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: nonino-gioiello
+      display_name: Nonino Gioiello
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: clear-creek-pear-brandy
+      display_name: Clear Creek Pear Brandy
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: the-bitter-truth-lemon-bitters
+      display_name: The Bitter Truth Lemon Bitters
+      quantity: 1
+      unit: dash
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Sean Hoard, Summer 2010
+      author:
+      datetime: '2020-05-09T03:24:56.149193'
+    - text: Kina alludes to quinquinas, apéritif wines which employ quinine as the
+        primary bittering agent. Miele is Italian for honey, the base of Nonino’s
+        brilliant honey distillate.
+      author:
+      datetime: '2020-05-09T03:24:56.149197'
+    instructions:
+    - text: Stir with ice, then strain over a large ice cube in a chilled rocks glass
+      author:
+      datetime: '2020-05-09T03:24:56.149201'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

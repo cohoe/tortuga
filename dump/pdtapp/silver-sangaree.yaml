@@ -1,0 +1,71 @@
+- slug: silver-sangaree
+  display_name: Silver Sangaree
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2007
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: paumanok-cabernet-franc
+      display_name: Paumanok Cabernet Franc
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: famous-grouse-blended-scotch-whisky
+      display_name: Famous Grouse Blended Scotch Whisky
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: quinta-do-noval-black-port
+      display_name: Quinta Do Noval Black Port
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: clove-syrup
+      display_name: Clove Syrup
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: cherries
+      display_name: Cherries
+      quantity: 4
+      unit: brandied
+      notes: []
+    - slug: white
+      display_name: White
+      quantity: 1
+      unit: egg
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jane Danger, Winter 2007
+      author:
+      datetime: '2020-05-09T03:24:56.209515'
+    - text: Jane developed this wintry sangaree while tending bar around the corner
+        at Ravi DeRossi’s wine- and beer-focused bar, The Bourgeois Pig.
+      author:
+      datetime: '2020-05-09T03:24:56.209519'
+    instructions:
+    - text: Muddle the cherries and syrup, then add remaining ingredients
+      author:
+      datetime: '2020-05-09T03:24:56.209523'
+    - text: Dry-shake, then shake with ice and strain into a chilled egg coupe
+      author:
+      datetime: '2020-05-09T03:24:56.209525'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

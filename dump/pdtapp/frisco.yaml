@@ -1,0 +1,43 @@
+- slug: frisco
+  display_name: Frisco
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 1930
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: old-potrero-hotalings-rye-whiskey
+      display_name: Old Potrero Hotalings Rye Whiskey
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: benedictine
+      display_name: Benedictine
+      quantity: 0.5
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: William Boothby, Boothby’s World Drinks, 1930
+      author:
+      datetime: '2020-05-09T03:24:56.168517'
+    - text: A Derby cocktail without the bitters, the title of this Old Fashioned
+        analog is a nickname most San Franciscans revile.
+      author:
+      datetime: '2020-05-09T03:24:56.168523'
+    instructions:
+    - text: Stir with ice, then strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.168527'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

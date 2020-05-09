@@ -1,0 +1,59 @@
+- slug: rhubarbarita
+  display_name: Rhubarbarita
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2008
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: partida-blanco-tequila
+      display_name: Partida Blanco Tequila
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: grand-marnier
+      display_name: Grand Marnier
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: boiron-rhubarb-puree
+      display_name: Boiron Rhubarb Puree
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: jack-rudy-grenadine
+      display_name: Jack Rudy Grenadine
+      quantity: 0.5
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jim Meehan & Don Lee, Spring 2008
+      author:
+      datetime: '2020-05-09T03:24:56.147892'
+    - text: The red-skinned rhubarb has an earthy quality that pairs perfectly with
+        Partida Tequila. Think of this as a Cadillac Margarita with Cosmo-colored
+        windows.
+      author:
+      datetime: '2020-05-09T03:24:56.147896'
+    instructions:
+    - text: Shake with ice, then strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.147900'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

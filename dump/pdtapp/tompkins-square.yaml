@@ -1,0 +1,65 @@
+- slug: tompkins-square
+  display_name: Tompkins Square
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2011
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: rittenhouse-bonded-rye-whiskey
+      display_name: Rittenhouse Bonded Rye Whiskey
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: clear-creek-kirschwasser
+      display_name: Clear Creek Kirschwasser
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: maurin-quina
+      display_name: Maurin Quina
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: benedictine
+      display_name: Benedictine
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: angostura-bitters
+      display_name: Angostura Bitters
+      quantity: 1
+      unit: dash
+      notes: []
+    - slug: peychauds-bitters
+      display_name: Peychauds Bitters
+      quantity: 1
+      unit: dash
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Michael Klein, Summer 2011
+      author:
+      datetime: '2020-05-09T03:24:56.152129'
+    - text: This twist on the classic Vieux Carré named after the nearby park substitutes
+        kirschwasser for cognac and Maurin, a historic quinquina infused with cherries,
+        for sweet vermouth.
+      author:
+      datetime: '2020-05-09T03:24:56.152134'
+    instructions:
+    - text: Stir with ice, then strain into an St. Elizabeth allspice dram–rinsed
+        coupe
+      author:
+      datetime: '2020-05-09T03:24:56.152138'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

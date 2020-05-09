@@ -1,0 +1,58 @@
+- slug: cosmopolitan
+  display_name: Cosmopolitan
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 1985
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: absolut-citron
+      display_name: Absolut Citron
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: cointreau
+      display_name: Cointreau
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: lakewood-cranberry-juice
+      display_name: Lakewood Cranberry Juice
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: simple-syrup
+      display_name: Simple Syrup
+      quantity: 0.25
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Cheryl Cooke, Miami, 1985
+      author:
+      datetime: '2020-05-09T03:24:56.151419'
+    - text: Gary Regan credits Cheryl Cooke of Miami as the creator of this cocktail
+        popularized by Dale DeGroff and Toby Cecchini in the late 1980s.
+      author:
+      datetime: '2020-05-09T03:24:56.151423'
+    instructions:
+    - text: Shake with ice, then strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.151430'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

@@ -1,0 +1,57 @@
+- slug: corn-n-oil
+  display_name: Corn n’ Oil
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin: {}
+    glassware: []
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: john-d-taylors-velvet-falernum
+      display_name: John D Taylors Velvet Falernum
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: cruzan-black-strap-rum
+      display_name: Cruzan Black Strap Rum
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 0.5
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Classic
+      author:
+      datetime: '2020-05-09T03:24:56.236206'
+    - text: The inky, blackstrap molasses–based rum floats like oil on the surface
+        of this lime- and clove-accented swizzle.
+      author:
+      datetime: '2020-05-09T03:24:56.236211'
+    instructions:
+    - text: Build the falernum and lime juice in a rocks glass, then top with pebble
+        ice and swizzle
+      author:
+      datetime: '2020-05-09T03:24:56.236215'
+    - text: Float the rum, then add more pebble ice
+      author:
+      datetime: '2020-05-09T03:24:56.236217'
+    - text: Top with 2 dashes Angostura Bitters
+      author:
+      datetime: '2020-05-09T03:24:56.236220'
+    - text: (No garnish)
+      author:
+      datetime: '2020-05-09T03:24:56.236222'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

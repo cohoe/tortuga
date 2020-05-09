@@ -1,0 +1,61 @@
+- slug: condiment-cocktail
+  display_name: Condiment Cocktail
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2009
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: partida-reposado-tequila
+      display_name: Partida Reposado Tequila
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: benedictine
+      display_name: Benedictine
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: lustau-palo-cortado-peninsula
+      display_name: Lustau Palo Cortado Peninsula
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: the-bitter-truth-celery-bitters
+      display_name: The Bitter Truth Celery Bitters
+      quantity: 2
+      unit: dashes
+      notes: []
+    - slug: 1-8-tsp-guldens-spicy-brown-mustard
+      display_name: 1 8 Tsp Guldens Spicy Brown Mustard
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jim Meehan, Winter 2009
+      author:
+      datetime: '2020-05-09T03:24:56.238292'
+    - text: A dish prepared with celery and mustard seeds at Gramercy Tavern spawned
+        the idea to mimic the flavors in liquid form.
+      author:
+      datetime: '2020-05-09T03:24:56.238297'
+    instructions:
+    - text: Shake with ice and fine-strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.238301'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

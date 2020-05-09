@@ -1,0 +1,59 @@
+- slug: purple-rain
+  display_name: Purple Rain
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2013
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: makers-mark-bourbon
+      display_name: Makers Mark Bourbon
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: blandys-rainwater-madeira
+      display_name: Blandys Rainwater Madeira
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: pineapple-juice
+      display_name: Pineapple Juice
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: creme-yvette
+      display_name: Creme Yvette
+      quantity: 0.5
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jim Meehan, Fall 2013
+      author:
+      datetime: '2020-05-09T03:24:56.224076'
+    - text: Jim created this cocktail at McCrady’s in Charleston, which boasts one
+        of the largest selections of Madeira in the country. Hopefully, Prince would
+        agree that this is what it tastes like when doves cry.
+      author:
+      datetime: '2020-05-09T03:24:56.224080'
+    instructions:
+    - text: Shake with ice and fine-strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.224084'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

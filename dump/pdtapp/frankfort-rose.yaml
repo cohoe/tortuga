@@ -1,0 +1,54 @@
+- slug: frankfort-rose
+  display_name: Frankfort Rose
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2007
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: hibiscus-infused-whiskey
+      display_name: Hibiscus Infused Whiskey
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: simple-syrup
+      display_name: Simple Syrup
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: white
+      display_name: White
+      quantity: 1
+      unit: egg
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Artemio Vásquez, Fall 2007
+      author:
+      datetime: '2020-05-09T03:24:56.182309'
+    - text: It wasn’t until after he’d named the drink that Artemio switched his whiskey
+        of choice from W.L. Weller bourbon (of Frankfort) to Bernheim wheat whiskey
+        (of Bardstown).
+      author:
+      datetime: '2020-05-09T03:24:56.182314'
+    instructions:
+    - text: Dry-shake, then shake with ice and strain into a chilled egg coupe
+      author:
+      datetime: '2020-05-09T03:24:56.182318'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

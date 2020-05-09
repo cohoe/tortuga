@@ -1,0 +1,63 @@
+- slug: aquabeet-shandy
+  display_name: Aquabeet Shandy
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2012
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: krogstad-aquavit
+      display_name: Krogstad Aquavit
+      quantity: 1.25
+      unit: oz
+      notes: []
+    - slug: absolut-vodka
+      display_name: Absolut Vodka
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: beet-juice
+      display_name: Beet Juice
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: cynar
+      display_name: Cynar
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: grapefruit-juice
+      display_name: Grapefruit Juice
+      quantity: 0.5
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jeff Bell, Spring 2012
+      author:
+      datetime: '2020-05-09T03:24:56.205666'
+    - text: Upon returning from a trip to Copenhagen and Berlin, Jeff put the final
+        touches on his Northern European shandy with a little Italian amaro to balance
+        the latitude.
+      author:
+      datetime: '2020-05-09T03:24:56.205670'
+    instructions:
+    - text: Shake with pebble ice and strain into a chilled, ice-filled pilsner glass
+        rimmed with La Boîte Isphahan N.1
+      author:
+      datetime: '2020-05-09T03:24:56.205674'
+    - text: Top with 4 oz Ommegang Witte
+      author:
+      datetime: '2020-05-09T03:24:56.205677'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

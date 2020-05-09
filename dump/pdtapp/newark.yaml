@@ -1,0 +1,57 @@
+- slug: newark
+  display_name: Newark
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2007
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: lairds-bonded-apple-brandy
+      display_name: Lairds Bonded Apple Brandy
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: vya-sweet-vermouth
+      display_name: Vya Sweet Vermouth
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: fernet-branca
+      display_name: Fernet Branca
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: luxardo-maraschino-liqueur
+      display_name: Luxardo Maraschino Liqueur
+      quantity: 0.25
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jim Meehan & John Deragon, Fall 2007
+      author:
+      datetime: '2020-05-09T03:24:56.189209'
+    - text: There were so many Brooklyn cocktail variations named after neighborhoods
+        in the borough by the time this was conceived, Jim and John claimed Newark
+        for its proximity to Laird’s.
+      author:
+      datetime: '2020-05-09T03:24:56.189213'
+    instructions:
+    - text: Stir with ice, then strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.189217'
+    - text: (No garnish)
+      author:
+      datetime: '2020-05-09T03:24:56.189220'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

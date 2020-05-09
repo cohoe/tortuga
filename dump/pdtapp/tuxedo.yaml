@@ -1,0 +1,54 @@
+- slug: tuxedo
+  display_name: Tuxedo
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 1900
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: plymouth-gin
+      display_name: Plymouth Gin
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: dolin-dry-vermouth
+      display_name: Dolin Dry Vermouth
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: luxardo-maraschino-liqueur
+      display_name: Luxardo Maraschino Liqueur
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: house-orange-bitters
+      display_name: House Orange Bitters
+      quantity: 2
+      unit: dashes
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Harry Johnson, Bartenders’ Manual, 1900
+      author:
+      datetime: '2020-05-09T03:24:56.213192'
+    - text: The tuxedo’s roots can be traced back the Tuxedo Park Club in New York’s
+        Ramapo Mountains, where the sporty coat became all the rage.
+      author:
+      datetime: '2020-05-09T03:24:56.213196'
+    instructions:
+    - text: Stir with ice, then strain into a chilled, Vieux Pontarlier Absinthe-rinsed
+        coupe
+      author:
+      datetime: '2020-05-09T03:24:56.213200'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

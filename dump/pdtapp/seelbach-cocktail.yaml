@@ -1,0 +1,56 @@
+- slug: seelbach-cocktail
+  display_name: Seelbach Cocktail
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2003
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: bulleit-bourbon
+      display_name: Bulleit Bourbon
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: cointreau
+      display_name: Cointreau
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: peychauds-bitters
+      display_name: Peychauds Bitters
+      quantity: 3
+      unit: dashes
+      notes: []
+    - slug: angostura-bitters
+      display_name: Angostura Bitters
+      quantity: 2
+      unit: dashes
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Ted Haigh, Vintage Spirits & Forgotten Cocktails, 2003
+      author:
+      datetime: '2020-05-09T03:24:56.144750'
+    - text: Chicagoan Adam Seger discovered this pre-Prohibition recipe during his
+        tenure at Louisville’s historic Seelbach Hotel in 1995.
+      author:
+      datetime: '2020-05-09T03:24:56.144754'
+    instructions:
+    - text: Stir with ice, then strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.144758'
+    - text: Top with 2 oz Laurent-Perrier Brut
+      author:
+      datetime: '2020-05-09T03:24:56.144760'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

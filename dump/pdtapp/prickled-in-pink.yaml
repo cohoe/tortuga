@@ -1,0 +1,53 @@
+- slug: prickled-in-pink
+  display_name: Prickled in Pink
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2014
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: plymouth-sloe-gin
+      display_name: Plymouth Sloe Gin
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: sombra-mezcal
+      display_name: Sombra Mezcal
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: the-perfect-puree-of-napa-valley-prickly-pear-puree
+      display_name: The Perfect Puree Of Napa Valley Prickly Pear Puree
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 0.5
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Euclides López, Winter 2014
+      author:
+      datetime: '2020-05-09T03:24:56.179995'
+    - text: Bittersweet sloe gin balances the tropical fruit in Euclides Lopez’s Southwestern
+        mezcal sour.
+      author:
+      datetime: '2020-05-09T03:24:56.180000'
+    instructions:
+    - text: Shake with ice and fine-strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.180004'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

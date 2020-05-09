@@ -1,0 +1,37 @@
+- slug: cocktail-culture
+  display_name: Cocktail Culture
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2014
+    glassware: []
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: spray-2-spritzes-of-bourbon-vanilla-extract-over-the-surface
+      display_name: Spray 2 Spritzes Of Bourbon Vanilla Extract Over The Surface
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jim Meehan, Spring 2014
+      author:
+      datetime: '2020-05-09T03:24:56.161134'
+    - text: Craft vodka and artisanal yogurt combine to form a surprisingly light
+        Middle Eastern style refresher called lassi. Better known for its breweries,
+        Colorado’s craft spirits and dairy show off their prowess here.
+      author:
+      datetime: '2020-05-09T03:24:56.161138'
+    instructions:
+    - text: (No garnish)
+      author:
+      datetime: '2020-05-09T03:24:56.161142'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

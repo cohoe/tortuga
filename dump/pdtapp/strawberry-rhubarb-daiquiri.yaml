@@ -1,0 +1,62 @@
+- slug: strawberry-rhubarb-daiquiri
+  display_name: Strawberry Rhubarb Daiquiri
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2012
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: banks-5-island-rum
+      display_name: Banks 5 Island Rum
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: aperol
+      display_name: Aperol
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: boiron-rhubarb-puree
+      display_name: Boiron Rhubarb Puree
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: simple-syrup
+      display_name: Simple Syrup
+      quantity: 0.5
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jim Meehan, Spring 2012
+      author:
+      datetime: '2020-05-09T03:24:56.202704'
+    - text: To brighten the vegetal notes in the rhubarb, Jim Meehan added fresh strawberries
+        and bittersweet Aperol to his seasonal, hand-shaken Daiquiri.
+      author:
+      datetime: '2020-05-09T03:24:56.202708'
+    instructions:
+    - text: Muddle 2 strawberries with the simple syrup, then add the rest of the
+        ingredients
+      author:
+      datetime: '2020-05-09T03:24:56.202712'
+    - text: Shake with ice and fine-strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.202715'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

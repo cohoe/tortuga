@@ -1,0 +1,60 @@
+- slug: stamford-fix
+  display_name: Stamford Fix
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2011
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: barsol-mosto-verde-pisco
+      display_name: Barsol Mosto Verde Pisco
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: lustau-manzanilla-papirusa
+      display_name: Lustau Manzanilla Papirusa
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: benedictine
+      display_name: Benedictine
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: leaves
+      display_name: Leaves
+      quantity: 4
+      unit: basil
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jim Meehan, Summer 2011
+      author:
+      datetime: '2020-05-09T03:24:56.156639'
+    - text: Jim fixed this drink for Barsol founder Diego Loret de Mola at his home
+        in Stamford, Connecticut.
+      author:
+      datetime: '2020-05-09T03:24:56.156643'
+    instructions:
+    - text: Muddle the basil and the Bénédictine, then add remaining ingredients
+      author:
+      datetime: '2020-05-09T03:24:56.156647'
+    - text: Stir with ice, then fine-strain into a chilled coupe and pinch a grapefruit
+        peel over the surface
+      author:
+      datetime: '2020-05-09T03:24:56.156649'
+    - text: (No garnish)
+      author:
+      datetime: '2020-05-09T03:24:56.156651'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

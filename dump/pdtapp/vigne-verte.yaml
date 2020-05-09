@@ -1,0 +1,64 @@
+- slug: vigne-verte
+  display_name: Vigne Verte
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2011
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: gvine-floraison
+      display_name: Gvine Floraison
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: celery-juice
+      display_name: Celery Juice
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: tomatillo-juice
+      display_name: Tomatillo Juice
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: pages-grape-syrup
+      display_name: Pages Grape Syrup
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: peppercorns
+      display_name: Peppercorns
+      quantity: 10
+      unit: black
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jeff Bell, Spring 2011
+      author:
+      datetime: '2020-05-09T03:24:56.213701'
+    - text: 'Jeff combined the fruit of the green tomatillo vine with G’Vine: a modern
+        gin that features grape flower blossoms in its botanical profile.'
+      author:
+      datetime: '2020-05-09T03:24:56.213705'
+    instructions:
+    - text: Muddle the peppercorns and syrup, then add remaining ingredients. Shake
+        with ice and fine-strain into a chilled collins glass
+      author:
+      datetime: '2020-05-09T03:24:56.213709'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

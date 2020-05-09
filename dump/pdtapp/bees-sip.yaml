@@ -1,0 +1,48 @@
+- slug: bees-sip
+  display_name: Bee’s Sip
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2008
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: chamomile-infused-pisco
+      display_name: Chamomile Infused Pisco
+      quantity: 2.5
+      unit: oz
+      notes: []
+    - slug: miyaksaka-masumi-okuden-kanzukuri
+      display_name: Miyaksaka Masumi Okuden Kanzukuri
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: barenjager-honey-liqueur
+      display_name: Barenjager Honey Liqueur
+      quantity: 0.5
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jim Meehan, Spring 2008
+      author:
+      datetime: '2020-05-09T03:24:56.240179'
+    - text: The sake balances the chamomile and elderflower in this saketini inspired
+        by Kenta Goto’s Yokahama Romance cocktail.
+      author:
+      datetime: '2020-05-09T03:24:56.240183'
+    instructions:
+    - text: Stir with ice, then strain into a chilled St. Germain-rinsed coupe
+      author:
+      datetime: '2020-05-09T03:24:56.240188'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

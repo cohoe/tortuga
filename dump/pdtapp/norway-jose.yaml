@@ -1,0 +1,53 @@
+- slug: norway-jose
+  display_name: Norway José
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2011
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: siete-leguas-reposado-tequila
+      display_name: Siete Leguas Reposado Tequila
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: linie-aquavit
+      display_name: Linie Aquavit
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: lustau-pedro-ximenez-san-emilio
+      display_name: Lustau Pedro Ximenez San Emilio
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: bittermens-xocolatl-mole-bitters
+      display_name: Bittermens Xocolatl Mole Bitters
+      quantity: 2
+      unit: dashes
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Edixon Caridad, Winter 2011
+      author:
+      datetime: '2020-05-09T03:24:56.167473'
+    - text: Initially we thought tequila and aquavit together? No way! Edixon paired
+        them with rich sherry and spicy mole bitters, proving us all wrong.
+      author:
+      datetime: '2020-05-09T03:24:56.167479'
+    instructions:
+    - text: Stir with ice, then strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.167482'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

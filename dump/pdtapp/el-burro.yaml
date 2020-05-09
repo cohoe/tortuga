@@ -1,0 +1,64 @@
+- slug: el-burro
+  display_name: El Burro
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2008
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: siembra-azul-reposado-tequila
+      display_name: Siembra Azul Reposado Tequila
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: house-ginger-beer
+      display_name: House Ginger Beer
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: pineapple-juice
+      display_name: Pineapple Juice
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: simple-syrup
+      display_name: Simple Syrup
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: vieux-pontarlier-absinthe
+      display_name: Vieux Pontarlier Absinthe
+      quantity: 0.25
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jim Meehan, Winter 2008
+      author:
+      datetime: '2020-05-09T03:24:56.194658'
+    - text: A highball made with lime juice and ginger ale is a buck; substitute ginger
+        beer for ale and it’s a mule; add absinthe and Tequila and you’ve got yourself
+        a burro.
+      author:
+      datetime: '2020-05-09T03:24:56.194662'
+    instructions:
+    - text: Shake with ice, then strain into a chilled collins glass filled with ice
+      author:
+      datetime: '2020-05-09T03:24:56.194666'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

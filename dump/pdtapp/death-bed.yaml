@@ -1,0 +1,61 @@
+- slug: death-bed
+  display_name: Death Bed
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2008
+    glassware: []
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: pampero-aniversario-rum
+      display_name: Pampero Aniversario Rum
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: barbancourt-rhum-blanc
+      display_name: Barbancourt Rhum Blanc
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: cherry-heering
+      display_name: Cherry Heering
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: pineapple-juice
+      display_name: Pineapple Juice
+      quantity: 0.5
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: John Deragon, Fall 2008
+      author:
+      datetime: '2020-05-09T03:24:56.168775'
+    - text: John created this cocktail to assuage the aches and pains of a cold that
+        left him bedridden.
+      author:
+      datetime: '2020-05-09T03:24:56.168779'
+    instructions:
+    - text: Build in a chilled collins glass, then top with pebble ice
+      author:
+      datetime: '2020-05-09T03:24:56.168783'
+    - text: Swizzle, then top with more pebble ice
+      author:
+      datetime: '2020-05-09T03:24:56.168786'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

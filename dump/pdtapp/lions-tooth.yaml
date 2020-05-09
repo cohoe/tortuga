@@ -1,0 +1,56 @@
+- slug: lions-tooth
+  display_name: Lion’s Tooth
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2010
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: dandelion-root-infused-rye-whiskey
+      display_name: Dandelion Root Infused Rye Whiskey
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: lustau-palo-cortado-peninsula
+      display_name: Lustau Palo Cortado Peninsula
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: yellow-chartreuse
+      display_name: Yellow Chartreuse
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: st-germain
+      display_name: St Germain
+      quantity: 0.25
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: John deBary, Spring 2010
+      author:
+      datetime: '2020-05-09T03:24:56.230558'
+    - text: The English word “dandelion” is a corruption of the French dent-de-lion“lion’s
+        tooth,” after the toothy shape of the leaf.
+      author:
+      datetime: '2020-05-09T03:24:56.230562'
+    instructions:
+    - text: Stir with ice, then strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.230570'
+    - text: (No garnish)
+      author:
+      datetime: '2020-05-09T03:24:56.230572'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

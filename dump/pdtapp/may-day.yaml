@@ -1,0 +1,64 @@
+- slug: may-day
+  display_name: May Day
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2009
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: plymouth-gin
+      display_name: Plymouth Gin
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: aperol
+      display_name: Aperol
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: simple-syrup
+      display_name: Simple Syrup
+      quantity: 1
+      unit: barspoon
+      notes: []
+    - slug: fee-brothers-rhubarb-bitters
+      display_name: Fee Brothers Rhubarb Bitters
+      quantity: 3
+      unit: dashes
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jane Danger, Spring 2009
+      author:
+      datetime: '2020-05-09T03:24:56.225817'
+    - text: The name of this drink refers not to a pilot’s plea for help but to the
+        celebration on May 1st, when spring starts feeling like summer.
+      author:
+      datetime: '2020-05-09T03:24:56.225821'
+    instructions:
+    - text: Stir with ice, then strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.225825'
+    - text: Top with 2 oz Laurent-Perrier Brut
+      author:
+      datetime: '2020-05-09T03:24:56.225827'
+    - text: (No garnish)
+      author:
+      datetime: '2020-05-09T03:24:56.225829'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

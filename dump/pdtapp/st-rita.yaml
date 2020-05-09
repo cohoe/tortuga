@@ -1,0 +1,57 @@
+- slug: st-rita
+  display_name: St. Rita
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2008
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: clear-creek-plum-brandy
+      display_name: Clear Creek Plum Brandy
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: zwack-liqueur
+      display_name: Zwack Liqueur
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: honey-syrup
+      display_name: Honey Syrup
+      quantity: 0.5
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jim Meehan, Fall 2008
+      author:
+      datetime: '2020-05-09T03:24:56.157839'
+    - text: This drink was first served to the Zwack family in Budapest using Sandor
+        Zwack’s Plum Palinka, a distillate of hand-harvested wild fruit bottled in
+        small quantities.
+      author:
+      datetime: '2020-05-09T03:24:56.157843'
+    instructions:
+    - text: Shake with ice, then strain into a chilled egg coupe
+      author:
+      datetime: '2020-05-09T03:24:56.157847'
+    - text: Top with 2 oz Laurent-Perrier Brut
+      author:
+      datetime: '2020-05-09T03:24:56.157850'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

@@ -1,0 +1,57 @@
+- slug: 20th-century
+  display_name: 20th Century
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 1937
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: plymouth-gin
+      display_name: Plymouth Gin
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: marie-brizard-white-creme-de-cacao
+      display_name: Marie Brizard White Creme De Cacao
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: lillet-blanc
+      display_name: Lillet Blanc
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.75
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: W. J. Tarling, Café Royal Cocktail Book, 1937
+      author:
+      datetime: '2020-05-09T03:24:56.245298'
+    - text: This cocktail was credited to C.A. Tuck and named after the 20th Century
+        Limited luxury train that traveled between New York City and Chicago from
+        1902 to 1967.
+      author:
+      datetime: '2020-05-09T03:24:56.245302'
+    instructions:
+    - text: Shake with ice, then strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.245306'
+    - text: (No garnish)
+      author:
+      datetime: '2020-05-09T03:24:56.245309'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

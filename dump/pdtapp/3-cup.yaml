@@ -1,0 +1,81 @@
+- slug: 3-cup
+  display_name: '#3 Cup'
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2009
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: h-by-hine-fine-champagne-vsop
+      display_name: H By Hine Fine Champagne Vsop
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: house-ginger-beer
+      display_name: House Ginger Beer
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: martini-rosso-vermouth
+      display_name: Martini Rosso Vermouth
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: marie-brizard-orange-curacao
+      display_name: Marie Brizard Orange Curacao
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: cherry-heering
+      display_name: Cherry Heering
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: 4-5-mint-leaves-plus-1-sprig-for-garnish
+      display_name: 4 5 Mint Leaves Plus 1 Sprig For Garnish
+      notes: []
+    - slug: cucumber-do-not-peel
+      display_name: Cucumber Do Not Peel
+      quantity: 2
+      unit: slices
+      notes: []
+    - slug: orange-reserve-1-for-garnish
+      display_name: Orange Reserve 1 For Garnish
+      quantity: 2
+      unit: slices
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Gerry Corcoran, Spring 2009
+      author:
+      datetime: '2020-05-09T03:24:56.184358'
+    - text: 'The number refers to the base spirit of the original line of bottled
+        Pimms cocktails. When they were launched; #2 was scotch, #3 was brandy, #4
+        was rum, #5 was rye whiskey, and #6 was vodka.'
+      author:
+      datetime: '2020-05-09T03:24:56.184380'
+    instructions:
+    - text: Muddle the mint, cucumber, and orange, then add remaining ingredients
+      author:
+      datetime: '2020-05-09T03:24:56.184385'
+    - text: Shake with ice, then fine-strain into a chilled collins glass filled with
+        an ice spear
+      author:
+      datetime: '2020-05-09T03:24:56.184387'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

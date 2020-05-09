@@ -1,0 +1,56 @@
+- slug: whiskey-smash
+  display_name: Whiskey Smash
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 1999
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: rittenhouse-bonded-rye-whiskey
+      display_name: Rittenhouse Bonded Rye Whiskey
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: wedges
+      display_name: Wedges
+      quantity: 3
+      unit: lemon
+      notes: []
+    - slug: simple-syrup
+      display_name: Simple Syrup
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: leaves-plus-1-sprig-for-garnish
+      display_name: Leaves Plus 1 Sprig For Garnish
+      quantity: 6
+      unit: mint
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Dale DeGroff, New York City, 1999
+      author:
+      datetime: '2020-05-09T03:24:56.197583'
+    - text: 'According to Dale, this drink is a take on Jerry Thomas’s Whiskey Smash:
+        “a julep on a small plan”.'
+      author:
+      datetime: '2020-05-09T03:24:56.197587'
+    instructions:
+    - text: Muddle the lemon wedges, mint and simple syrup then add the rye
+      author:
+      datetime: '2020-05-09T03:24:56.197591'
+    - text: Shake with ice, then fine-strain into a rocks glass filled with ice cubes
+      author:
+      datetime: '2020-05-09T03:24:56.197594'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

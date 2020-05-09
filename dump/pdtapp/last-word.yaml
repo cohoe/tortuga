@@ -1,0 +1,57 @@
+- slug: last-word
+  display_name: Last Word
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 1951
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: tanqueray-london-dry-gin
+      display_name: Tanqueray London Dry Gin
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: luxardo-maraschino-liqueur
+      display_name: Luxardo Maraschino Liqueur
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: green-chartreuse
+      display_name: Green Chartreuse
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 0.75
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Ted Saucier, Bottoms Up, 1951
+      author:
+      datetime: '2020-05-09T03:24:56.228932'
+    - text: Legendary Seattle barman Murray Stenson, formerly of Zig Zag Café, is
+        largely responsible for the popularity of this classic cocktail from Saucier’s
+        bawdy book.
+      author:
+      datetime: '2020-05-09T03:24:56.228936'
+    instructions:
+    - text: Shake with ice, then strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.228940'
+    - text: (No garnish)
+      author:
+      datetime: '2020-05-09T03:24:56.228942'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

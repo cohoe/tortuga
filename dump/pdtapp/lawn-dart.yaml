@@ -1,0 +1,66 @@
+- slug: lawn-dart
+  display_name: Lawn Dart
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2010
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: partida-blanco-tequila
+      display_name: Partida Blanco Tequila
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: tanqueray-london-dry-gin
+      display_name: Tanqueray London Dry Gin
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: agave-syrup
+      display_name: Agave Syrup
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: green-chartreuse
+      display_name: Green Chartreuse
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: 1-5-slice-green-bell-pepper
+      display_name: 1 5 Slice Green Bell Pepper
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Sean Hoard, Summer 2010
+      author:
+      datetime: '2020-05-09T03:24:56.204663'
+    - text: For Sean, nothing signifies the arrival of summer like the smell of fresh-cut
+        grass. His cocktail mimics its aroma and suggests a use for the newly manicured
+        field.
+      author:
+      datetime: '2020-05-09T03:24:56.204667'
+    instructions:
+    - text: Muddle the pepper and syrup
+      author:
+      datetime: '2020-05-09T03:24:56.204671'
+    - text: Add remaining ingredients, shake with ice, and fine-strain into a chilled
+        collins glass filled with ice
+      author:
+      datetime: '2020-05-09T03:24:56.204674'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

@@ -1,0 +1,69 @@
+- slug: st-marks-reviver
+  display_name: St. Mark’s Reviver
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 1946
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: paul-beau-v-s-o-p-cognac
+      display_name: Paul Beau V S O P Cognac
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: luxardo-maraschino-liqueur
+      display_name: Luxardo Maraschino Liqueur
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: pierre-ferrand-dry-curacao
+      display_name: Pierre Ferrand Dry Curacao
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: of-angostura-bitters
+      display_name: Of Angostura Bitters
+      quantity: 2
+      unit: dashes
+      notes: []
+    - slug: white
+      display_name: White
+      quantity: 1
+      unit: egg
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Charles Baker, The South American Gentleman’s Companion, 1946
+      author:
+      datetime: '2020-05-09T03:24:56.154961'
+    - text: Otherwise known as the Revivificador san Marco, Charles Baker nabbed it
+        from the “prescription-book” of the port doctor in Cartagena, Colombia.
+      author:
+      datetime: '2020-05-09T03:24:56.154965'
+    instructions:
+    - text: Dry-shake, then shake with ice and fine-strain into a chilled egg coupe
+      author:
+      datetime: '2020-05-09T03:24:56.154970'
+    - text: Top with 1 spritz Angostura Bitters
+      author:
+      datetime: '2020-05-09T03:24:56.154972'
+    - text: (No garnish)
+      author:
+      datetime: '2020-05-09T03:24:56.154974'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

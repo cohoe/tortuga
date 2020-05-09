@@ -1,0 +1,74 @@
+- slug: mekong-delta
+  display_name: Mekong Delta
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2014
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: ilegal-reposado-mezcal
+      display_name: Ilegal Reposado Mezcal
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: siete-leguas-blanco-tequila
+      display_name: Siete Leguas Blanco Tequila
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: garden-queen-tamarind-concentrate
+      display_name: Garden Queen Tamarind Concentrate
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: small-hand-foods-pineapple-gum-syrup
+      display_name: Small Hand Foods Pineapple Gum Syrup
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: 8-drops-bittermens-hellfire-habanero-shrub
+      display_name: 8 Drops Bittermens Hellfire Habanero Shrub
+      notes: []
+    - slug: cherry-tomato
+      display_name: Cherry Tomato
+      quantity: 1
+      unit: small
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Long Thai, Summer 2014
+      author:
+      datetime: '2020-05-09T03:24:56.189542'
+    - text: 'This savory sour is a riff on a Vietnamese sour soup called Canh Chua,
+        prepared with tamarind, chili pepper, pineapple, tomato, bean sprout, and
+        fish or shrimp. The dish hails from Southern Vietnam near the Mekong Delta:
+        hence the title of Long’s first menu contribution.'
+      author:
+      datetime: '2020-05-09T03:24:56.189546'
+    instructions:
+    - text: Muddle the cherry tomato, then add the rest of the ingredients
+      author:
+      datetime: '2020-05-09T03:24:56.189551'
+    - text: Shake with ice and fine-strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.189553'
+    - text: (No garnish)
+      author:
+      datetime: '2020-05-09T03:24:56.189555'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

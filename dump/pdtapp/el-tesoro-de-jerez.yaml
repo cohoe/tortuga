@@ -1,0 +1,49 @@
+- slug: el-tesoro-de-jerez
+  display_name: El Tesoro de Jerez
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2010
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: aviation-gin
+      display_name: Aviation Gin
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: lustau-east-india-sherry
+      display_name: Lustau East India Sherry
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: domaine-de-canton-ginger-liqueur
+      display_name: Domaine De Canton Ginger Liqueur
+      quantity: 0.5
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Euclides López, Fall 2010
+      author:
+      datetime: '2020-05-09T03:24:56.202919'
+    - text: Barmen Euclides López, known for his sharp palate, created this drink
+        on a hot summer day in July. We’ve guarded the recipe like a treasure until
+        now.
+      author:
+      datetime: '2020-05-09T03:24:56.202924'
+    instructions:
+    - text: Stir with ice, then strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.202927'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

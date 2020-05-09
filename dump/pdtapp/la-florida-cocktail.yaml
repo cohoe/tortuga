@@ -1,0 +1,58 @@
+- slug: la-florida-cocktail
+  display_name: La Florida Cocktail
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 1972
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: banks-5-island-rum
+      display_name: Banks 5 Island Rum
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: marie-brizard-creme-de-cacao
+      display_name: Marie Brizard Creme De Cacao
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: martini-rosso-vermouth
+      display_name: Martini Rosso Vermouth
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: jack-rudy-grenadine
+      display_name: Jack Rudy Grenadine
+      quantity: 1
+      unit: barspoon
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jules Bergeron, Trader Vic’s Bartender’s Guide, 1972
+      author:
+      datetime: '2020-05-09T03:24:56.230329'
+    - text: Jack McGarry served this delicious Daiquiri variation during a guest shift
+        behind the bar at PDT before Tales of the Cocktail in 2009.
+      author:
+      datetime: '2020-05-09T03:24:56.230333'
+    instructions:
+    - text: Shake with ice, then strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.230338'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

@@ -1,0 +1,64 @@
+- slug: nolets-noel
+  display_name: Nolet’s Noël
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2012
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: averell-damson-gin
+      display_name: Averell Damson Gin
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: nolets-silver-dry-gin
+      display_name: Nolets Silver Dry Gin
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: clear-creek-douglas-fir-eau-de-vie
+      display_name: Clear Creek Douglas Fir Eau De Vie
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: grapefruit-juice
+      display_name: Grapefruit Juice
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: petit-canne-sugar-cane-syrup
+      display_name: Petit Canne Sugar Cane Syrup
+      quantity: 1
+      unit: barspoon
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jim Meehan, Winter 2012
+      author:
+      datetime: '2020-05-09T03:24:56.241593'
+    - text: With visions of sugar plums dancing in his head, Jim came up with this
+        damson gin–based sour featuring Clear Creek’s most Christmassy eau de vie
+        and one of Holland’s most hallowed gins.
+      author:
+      datetime: '2020-05-09T03:24:56.241598'
+    instructions:
+    - text: Shake with ice and fine-strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.241602'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

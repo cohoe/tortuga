@@ -1,0 +1,68 @@
+- slug: nightshade
+  display_name: Nightshade
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2013
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: astral-blanco-tequila
+      display_name: Astral Blanco Tequila
+      quantity: 1.75
+      unit: oz
+      notes: []
+    - slug: mandarin-napoleon
+      display_name: Mandarin Napoleon
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: tomatillo-juice
+      display_name: Tomatillo Juice
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: sombra-mezcal
+      display_name: Sombra Mezcal
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: agave-syrup
+      display_name: Agave Syrup
+      quantity: 1
+      unit: barspoon
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jim Meehan & Luis Brávo, Summer 2013
+      author:
+      datetime: '2020-05-09T03:24:56.166981'
+    - text: This savory spin on the Margarita takes cues from both the plant family
+        the tomatillo descends from and the mezcal’s brand name, which means “shade”
+        in Spanish.
+      author:
+      datetime: '2020-05-09T03:24:56.166985'
+    instructions:
+    - text: Shake with ice and fine-strain into a chilled coupe rimmed with rimming
+        mix N.38
+      author:
+      datetime: '2020-05-09T03:24:56.166990'
+    - text: (No garnish)
+      author:
+      datetime: '2020-05-09T03:24:56.166992'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

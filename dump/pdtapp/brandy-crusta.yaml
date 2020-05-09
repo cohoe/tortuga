@@ -1,0 +1,54 @@
+- slug: brandy-crusta
+  display_name: Brandy Crusta
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 1862
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: h-by-hine-fine-champagne-vsop
+      display_name: H By Hine Fine Champagne Vsop
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: luxardo-maraschino-liqueur
+      display_name: Luxardo Maraschino Liqueur
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: marie-brizard-orange-curacao
+      display_name: Marie Brizard Orange Curacao
+      quantity: 0.5
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jerry Thomas, The Bar-Tenders’ Guide, 1862
+      author:
+      datetime: '2020-05-09T03:24:56.194172'
+    - text: The granddaddy of the Sidecar, the Crusta was created by Joseph Santini
+        of the New Orleans Exchange Bar in the mid-19th century.
+      author:
+      datetime: '2020-05-09T03:24:56.194176'
+    instructions:
+    - text: Shake with ice, then strain into a chilled, sugar-rimmed wine glass filled
+        with an entire lemon and orange peel
+      author:
+      datetime: '2020-05-09T03:24:56.194179'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

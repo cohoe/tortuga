@@ -1,0 +1,61 @@
+- slug: heirloom
+  display_name: Heirloom
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2008
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: haymans-old-tom-gin
+      display_name: Haymans Old Tom Gin
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: cynar
+      display_name: Cynar
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: strega
+      display_name: Strega
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: grapes
+      display_name: Grapes
+      quantity: 7
+      unit: concord
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Johnny Iuzzini, Fall 2008
+      author:
+      datetime: '2020-05-09T03:24:56.145204'
+    - text: Concord grapes reminded Johnny of the Catskills and, in turn, of his mother’s
+        roasted artichoke pasta, so he reached for the Cynar.
+      author:
+      datetime: '2020-05-09T03:24:56.145208'
+    instructions:
+    - text: Muddle the grapes and lime juice, then add remaining ingredients
+      author:
+      datetime: '2020-05-09T03:24:56.145212'
+    - text: Shake with ice, then fine-strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.145215'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

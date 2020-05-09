@@ -1,0 +1,59 @@
+- slug: dandelions-share
+  display_name: Dandelion’s Share
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2013
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: zubrowka-vodka
+      display_name: Zubrowka Vodka
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: enlightenment-dandelion-wine
+      display_name: Enlightenment Dandelion Wine
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: barenjager-honey-liqueur
+      display_name: Barenjager Honey Liqueur
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: st-germain
+      display_name: St Germain
+      quantity: 0.25
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jeff Bell, Spring 2013
+      author:
+      datetime: '2020-05-09T03:24:56.235983'
+    - text: Jeff, who created this cocktail to complement Raphael Lyon’s delicious
+        dandelion wine, always thought the pesky flowers required the lion’s share
+        of yard work in his parents’ backyard.
+      author:
+      datetime: '2020-05-09T03:24:56.235987'
+    instructions:
+    - text: Shake with ice, then strain into a chilled cocktail coupe
+      author:
+      datetime: '2020-05-09T03:24:56.235992'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

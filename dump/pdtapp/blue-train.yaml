@@ -1,0 +1,68 @@
+- slug: blue-train
+  display_name: Blue Train
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2013
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: louis-royer-force-53o
+      display_name: Louis Royer Force 53O
+      quantity: 1.75
+      unit: oz
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: plymouth-sloe-gin
+      display_name: Plymouth Sloe Gin
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: honey-syrup
+      display_name: Honey Syrup
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: blueberries
+      display_name: Blueberries
+      quantity: 2
+      unit: tbsp
+      notes: []
+    - slug: dale-degroffs-pimento-aromatic-bitters
+      display_name: Dale Degroffs Pimento Aromatic Bitters
+      quantity: 2
+      unit: Dashes
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jeff Bell & Sara Justice, Summer 2013
+      author:
+      datetime: '2020-05-09T03:24:56.170499'
+    - text: In this take, Jeff and Sara riffed on the Sidecar like jazz musicians.
+        We honored their improvisation by naming the drink after John Coltrane’s classic
+        1957 album.
+      author:
+      datetime: '2020-05-09T03:24:56.170503'
+    instructions:
+    - text: Muddle the berries, then add remaining ingredients
+      author:
+      datetime: '2020-05-09T03:24:56.170507'
+    - text: Shake with ice, then fine-strain into a chilled coupe rinsed with a lemon
+        twist
+      author:
+      datetime: '2020-05-09T03:24:56.170509'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

@@ -1,0 +1,52 @@
+- slug: mexicano
+  display_name: Mexicano
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2010
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: partida-reposado-tequila
+      display_name: Partida Reposado Tequila
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: gran-classico-bitter
+      display_name: Gran Classico Bitter
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: 3-25-slices-cucumber
+      display_name: 3 25 Slices Cucumber
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jim Meehan, Summer 2010
+      author:
+      datetime: '2020-05-09T03:24:56.225061'
+    - text: The cucumber reinforces the vegetal notes of the earthy tequila, which
+        stands in for sweet vermouth in this regal Americano variation.
+      author:
+      datetime: '2020-05-09T03:24:56.225065'
+    instructions:
+    - text: Muddle the cucumber, then add spirits
+      author:
+      datetime: '2020-05-09T03:24:56.225069'
+    - text: Stir with ice, then fine-strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.225074'
+    - text: Top with 2 oz Laurent-Perrier Brut
+      author:
+      datetime: '2020-05-09T03:24:56.225077'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

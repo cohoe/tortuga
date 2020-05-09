@@ -1,0 +1,56 @@
+- slug: widows-kiss
+  display_name: Widow’s Kiss
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 1895
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: lairds-bonded-apple-brandy
+      display_name: Lairds Bonded Apple Brandy
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: yellow-chartreuse
+      display_name: Yellow Chartreuse
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: benedictine
+      display_name: Benedictine
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: angostura-bitters
+      display_name: Angostura Bitters
+      quantity: 2
+      unit: dashes
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: George Kappeler, Modern American Drinks, 1895
+      author:
+      datetime: '2020-05-09T03:24:56.214742'
+    - text: Kappeler penned Modern American Drinks while serving as head bartender
+        at the Holland House, then one of the finest hotels in New York City.
+      author:
+      datetime: '2020-05-09T03:24:56.214746'
+    instructions:
+    - text: Stir with ice, then strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.214750'
+    - text: (No garnish)
+      author:
+      datetime: '2020-05-09T03:24:56.214752'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

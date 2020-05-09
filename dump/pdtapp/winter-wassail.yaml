@@ -1,0 +1,51 @@
+- slug: winter-wassail
+  display_name: Winter Wassail
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2011
+    glassware: []
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: tariquet-vs-classique-armagnac
+      display_name: Tariquet Vs Classique Armagnac
+      quantity: 1.25
+      unit: oz
+      notes: []
+    - slug: kronan-swedish-punsch
+      display_name: Kronan Swedish Punsch
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: st-elizabeth-allspice-dram
+      display_name: St Elizabeth Allspice Dram
+      quantity: 1
+      unit: Barspoon
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jeff Bell, Winter 2011
+      author:
+      datetime: '2020-05-09T03:24:56.139630'
+    - text: Jeff spiked traditional English wassail, a ceremonial cider-based tipple
+        mulled with citrus and spice, with wintry Armagnac and aromatic Swedish punsch.
+      author:
+      datetime: '2020-05-09T03:24:56.139636'
+    instructions:
+    - text: Build in a preheated mug
+      author:
+      datetime: '2020-05-09T03:24:56.139640'
+    - text: Top with 4 oz winter wassail mix, heated
+      author:
+      datetime: '2020-05-09T03:24:56.139643'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

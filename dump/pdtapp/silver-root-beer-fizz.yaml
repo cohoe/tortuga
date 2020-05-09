@@ -1,0 +1,61 @@
+- slug: silver-root-beer-fizz
+  display_name: Silver Root Beer Fizz
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2009
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: mount-gay-eclipse-white-rum
+      display_name: Mount Gay Eclipse White Rum
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: smith-cross-rum
+      display_name: Smith Cross Rum
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: pineapple-juice
+      display_name: Pineapple Juice
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: white
+      display_name: White
+      quantity: 1
+      unit: egg
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jim Meehan, Fall 2009
+      author:
+      datetime: '2020-05-09T03:24:56.239958'
+    - text: Jim created this savory cocktail for Chef Wylie Dufresne, who is a self-professed
+        root beer fanatic.
+      author:
+      datetime: '2020-05-09T03:24:56.239963'
+    instructions:
+    - text: Dry-shake, then shake with ice and strain into a chilled fizz glass
+      author:
+      datetime: '2020-05-09T03:24:56.239967'
+    - text: Top with 2 oz Maine Root Root Beer
+      author:
+      datetime: '2020-05-09T03:24:56.239969'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

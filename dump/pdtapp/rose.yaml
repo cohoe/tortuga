@@ -1,0 +1,48 @@
+- slug: rose
+  display_name: Rose
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 1921
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: noilly-prat-dry-vermouth
+      display_name: Noilly Prat Dry Vermouth
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: clear-creek-kirschwasser
+      display_name: Clear Creek Kirschwasser
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: bonne-maman-raspberry-preserves
+      display_name: Bonne Maman Raspberry Preserves
+      quantity: 1
+      unit: barspoon
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Adolphe Torelli, 900 Recettes de Cocktails, 1921
+      author:
+      datetime: '2020-05-09T03:24:56.214228'
+    - text: Barman Johnny Mitta of Paris’s Hotel Chatham created this cocktail in
+        the 1920s.
+      author:
+      datetime: '2020-05-09T03:24:56.214232'
+    instructions:
+    - text: Stir with ice, then fine-strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.214236'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

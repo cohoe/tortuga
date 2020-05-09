@@ -1,0 +1,56 @@
+- slug: el-molino
+  display_name: El Molino
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2009
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: sombra-mezcal
+      display_name: Sombra Mezcal
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: lustau-palo-cortado-peninsula
+      display_name: Lustau Palo Cortado Peninsula
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: marie-brizard-white-creme-de-cacao
+      display_name: Marie Brizard White Creme De Cacao
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: st-elizabeth-allspice-dram
+      display_name: St Elizabeth Allspice Dram
+      quantity: 1
+      unit: barspoon
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jim Meehan, Spring 2009
+      author:
+      datetime: '2020-05-09T03:24:56.233541'
+    - text: El Molino refers to the mill used to grind freshly roasted cocoa beans
+        into chocolate.
+      author:
+      datetime: '2020-05-09T03:24:56.233546'
+    instructions:
+    - text: Stir with ice, then strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.233550'
+    - text: (No garnish)
+      author:
+      datetime: '2020-05-09T03:24:56.233552'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

@@ -1,0 +1,44 @@
+- slug: rusty-nail
+  display_name: Rusty Nail
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 1977
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: famous-grouse-blended-scotch-whisky
+      display_name: Famous Grouse Blended Scotch Whisky
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: drambuie
+      display_name: Drambuie
+      quantity: 0.75
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Stan Jones, Jones’ Complete Barguide, 1977
+      author:
+      datetime: '2020-05-09T03:24:56.208542'
+    - text: According to David Wondrich, a cocktail composed of Scotch and Drambuie
+        called the B.I.F. was first published in 1937.
+      author:
+      datetime: '2020-05-09T03:24:56.208546'
+    instructions:
+    - text: Stir with ice, then strain over a large ice cube into a chilled rocks
+        glass
+      author:
+      datetime: '2020-05-09T03:24:56.208550'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

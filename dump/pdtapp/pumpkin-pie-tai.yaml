@@ -1,0 +1,68 @@
+- slug: pumpkin-pie-tai
+  display_name: Pumpkin Pie Tai
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2014
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: banks-7-golden-age-rum
+      display_name: Banks 7 Golden Age Rum
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: farmers-market-pumpkin-puree
+      display_name: Farmers Market Pumpkin Puree
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: kronan-swedish-punsch
+      display_name: Kronan Swedish Punsch
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: schonauer-apfel-schnapps
+      display_name: Schonauer Apfel Schnapps
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: diplomatico-reserva-exclusiva
+      display_name: Diplomatico Reserva Exclusiva
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: petite-canne-sugar-cane-syrup
+      display_name: Petite Canne Sugar Cane Syrup
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: st-elizabeth-allspice-dram
+      display_name: St Elizabeth Allspice Dram
+      quantity: 1
+      unit: Barspoon
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Euclides López & Jeff Bell, Fall 2014
+      author:
+      datetime: '2020-05-09T03:24:56.188234'
+    - text: This combination of Mai Tai and Pumpkin Pie ingredients reminds Jeff of
+        the iconic psychedelic dyeing process.
+      author:
+      datetime: '2020-05-09T03:24:56.188239'
+    instructions:
+    - text: Shake with ice and fine-strain into a tiki mug filled with pebble ice
+      author:
+      datetime: '2020-05-09T03:24:56.188244'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

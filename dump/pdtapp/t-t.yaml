@@ -1,0 +1,58 @@
+- slug: t-t
+  display_name: T & T
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2009
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: tamarind-puree
+      display_name: Tamarind Puree
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: astral-blanco-tequila
+      display_name: Astral Blanco Tequila
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: sombra-mezcal
+      display_name: Sombra Mezcal
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: benedictine
+      display_name: Benedictine
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: angostura-bitters
+      display_name: Angostura Bitters
+      quantity: 2
+      unit: dashes
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Euclides López, Spring 2009
+      author:
+      datetime: '2020-05-09T03:24:56.185390'
+    - text: 'The two Ts are both prescribed forms of air-conditioning where López
+        grew up in Mexico: tamarind (served as aqua fresca) and tequila (served as-is).'
+      author:
+      datetime: '2020-05-09T03:24:56.185394'
+    instructions:
+    - text: Shake with ice, then strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.185399'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

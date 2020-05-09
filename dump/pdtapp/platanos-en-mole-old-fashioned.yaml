@@ -1,0 +1,50 @@
+- slug: platanos-en-mole-old-fashioned
+  display_name: Plátanos en Mole Old Fashioned
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2010
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: zacapa-23-centenario-rum
+      display_name: Zacapa 23 Centenario Rum
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: giffard-banane-du-bresil
+      display_name: Giffard Banane Du Bresil
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: bittermens-xocolatl-mole-bitters
+      display_name: Bittermens Xocolatl Mole Bitters
+      quantity: 12
+      unit: drops
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jim Meehan, Summer 2010
+      author:
+      datetime: '2020-05-09T03:24:56.192979'
+    - text: Inspired by the classic dessert, this cocktail was first served at the
+        StarChefs.com International Chef’s Congress, held at the Seventh Regiment
+        Armory on New York City’s Park Avenue.
+      author:
+      datetime: '2020-05-09T03:24:56.192990'
+    instructions:
+    - text: Stir with ice, then strain over one large ice cube in a chilled rocks
+        glass
+      author:
+      datetime: '2020-05-09T03:24:56.192994'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

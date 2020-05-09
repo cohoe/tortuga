@@ -1,0 +1,57 @@
+- slug: hotel-dalsace
+  display_name: Hôtel d’Alsace
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2008
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: bushmills-irish-whiskey
+      display_name: Bushmills Irish Whiskey
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: cointreau
+      display_name: Cointreau
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: benedictine
+      display_name: Benedictine
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: rosemary
+      display_name: Rosemary
+      quantity: 1
+      unit: sprig
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: David Slape, Spring 2008
+      author:
+      datetime: '2020-05-09T03:24:56.171907'
+    - text: David named this drink after the posh Parisian hotel where Irish scribe
+        Oscar Wilde spent his final years.
+      author:
+      datetime: '2020-05-09T03:24:56.171912'
+    instructions:
+    - text: Muddle the liqueurs and bottom half of rosemary sprig, then add whiskey
+      author:
+      datetime: '2020-05-09T03:24:56.171916'
+    - text: Stir with ice and fine-strain over one large ice cube in a chilled rocks
+        glass
+      author:
+      datetime: '2020-05-09T03:24:56.171918'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

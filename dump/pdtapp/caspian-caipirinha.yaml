@@ -1,0 +1,53 @@
+- slug: caspian-caipirinha
+  display_name: Caspian Caipirinha
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2013
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: fenugreek-infused-cachaca
+      display_name: Fenugreek Infused Cachaca
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: wedges
+      display_name: Wedges
+      quantity: 3
+      unit: Lime
+      notes: []
+    - slug: dried-persian-lime-cordial
+      display_name: Dried Persian Lime Cordial
+      quantity: 0.5
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Payman Bahmani & Jeff Bell, Winter 2013
+      author:
+      datetime: '2020-05-09T03:24:56.137547'
+    - text: Dried Persian limes and fenugreek are common ingredients in the cuisine
+        of the Caspian Sea. They also complement the earthy flavors of cachaça in
+        this West Asian take on the classic Caipirinha.
+      author:
+      datetime: '2020-05-09T03:24:56.137552'
+    instructions:
+    - text: Shake with ice and pour unstrained into a chilled Combier Kümmel rinsed
+        rocks glass
+      author:
+      datetime: '2020-05-09T03:24:56.137556'
+    - text: (No garnish)
+      author:
+      datetime: '2020-05-09T03:24:56.137559'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

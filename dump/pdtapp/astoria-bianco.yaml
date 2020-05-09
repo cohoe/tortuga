@@ -1,0 +1,49 @@
+- slug: astoria-bianco
+  display_name: Astoria Bianco
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2005
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: tanqueray-london-dry-gin
+      display_name: Tanqueray London Dry Gin
+      quantity: 2.5
+      unit: oz
+      notes: []
+    - slug: martini-bianco-vermouth
+      display_name: Martini Bianco Vermouth
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: house-orange-bitters
+      display_name: House Orange Bitters
+      quantity: 2
+      unit: dashes
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jim Meehan, New York, 2005
+      author:
+      datetime: '2020-05-09T03:24:56.205422'
+    - text: Years before Old Tom gin was reintroduced on the U.S. market, Jim approximated
+        the flavor profile by substituting bianco vermouth for dry in this resurrection
+        of the Astoria cocktail.
+      author:
+      datetime: '2020-05-09T03:24:56.205426'
+    instructions:
+    - text: Stir with ice, then strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.205443'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

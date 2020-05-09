@@ -1,0 +1,51 @@
+- slug: tom-collins
+  display_name: Tom Collins
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 1876
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: haymans-old-tom-gin
+      display_name: Haymans Old Tom Gin
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: simple-syrup
+      display_name: Simple Syrup
+      quantity: 0.5
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jerry Thomas, The Bar-Tenders’ Guide, 1876
+      author:
+      datetime: '2020-05-09T03:24:56.144524'
+    - text: This cocktail was named after John Collins, a waiter at Limmer’s Hotel
+        in London, who was famous for his gin punch.
+      author:
+      datetime: '2020-05-09T03:24:56.144528'
+    instructions:
+    - text: Shake with ice, then strain into a chilled collins glass filled with ice
+      author:
+      datetime: '2020-05-09T03:24:56.144532'
+    - text: Top with 2 oz club soda
+      author:
+      datetime: '2020-05-09T03:24:56.144534'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

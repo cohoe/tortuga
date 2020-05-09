@@ -1,0 +1,58 @@
+- slug: blackstar
+  display_name: Blackstar
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2007
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: smirnoff-vodka
+      display_name: Smirnoff Vodka
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: grapefruit-juice
+      display_name: Grapefruit Juice
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: luxardo-sambuca
+      display_name: Luxardo Sambuca
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: simple-syrup
+      display_name: Simple Syrup
+      quantity: 0.25
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jim Meehan, New York, 2007
+      author:
+      datetime: '2020-05-09T03:24:56.236934'
+    - text: The name of this cocktail refers to the whole star anise pod that floats
+        on the surface as an aromatic garnish.
+      author:
+      datetime: '2020-05-09T03:24:56.236938'
+    instructions:
+    - text: Shake with ice, then strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.236943'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

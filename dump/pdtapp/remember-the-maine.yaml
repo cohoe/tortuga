@@ -1,0 +1,56 @@
+- slug: remember-the-maine
+  display_name: Remember the Maine
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 1937
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: wild-turkey-russells-reserve-6-year-old-rye-whiskey
+      display_name: Wild Turkey Russells Reserve 6 Year Old Rye Whiskey
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: carpano-antica-formula-vermouth
+      display_name: Carpano Antica Formula Vermouth
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: cherry-heering
+      display_name: Cherry Heering
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: pernod
+      display_name: Pernod
+      quantity: 1
+      unit: barspoon
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: 'Charles H. Baker, Jr., The Gentleman’s Companion: An Exotic Drinking
+        Book, 1937'
+      author:
+      datetime: '2020-05-09T03:24:56.223618'
+    - text: The original recipe hails from Baker’s “hazy memory of a night in Havana
+        during the unpleasantness of 1933, when each swallow was punctuated with bombs
+        going off on the Prado, or the sound of 3″ shells being fired at the Hotel
+        Nacional.”
+      author:
+      datetime: '2020-05-09T03:24:56.223622'
+    instructions:
+    - text: Stir with ice, then strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.223626'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

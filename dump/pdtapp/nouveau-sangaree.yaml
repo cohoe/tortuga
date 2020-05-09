@@ -1,0 +1,58 @@
+- slug: nouveau-sangaree
+  display_name: Nouveau Sangaree
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2009
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: pierre-chermette-beaujolais
+      display_name: Pierre Chermette Beaujolais
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: lairds-bonded-apple-brandy
+      display_name: Lairds Bonded Apple Brandy
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: plymouth-sloe-gin
+      display_name: Plymouth Sloe Gin
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: deep-mountain-grade-b-maple-syrup
+      display_name: Deep Mountain Grade B Maple Syrup
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: angostura-bitters
+      display_name: Angostura Bitters
+      quantity: 2
+      unit: dashes
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jim Meehan, Winter 2009
+      author:
+      datetime: '2020-05-09T03:24:56.243126'
+    - text: This cocktail was created for writer Noah Rothbaum, who asked Jim to create
+        a wine cocktail with Beaujolais Nouveau for a holiday cocktail feature.
+      author:
+      datetime: '2020-05-09T03:24:56.243131'
+    instructions:
+    - text: Stir with ice, then strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.243135'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

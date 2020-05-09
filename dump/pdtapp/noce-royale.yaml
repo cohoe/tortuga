@@ -1,0 +1,54 @@
+- slug: noce-royale
+  display_name: Noce Royale
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2009
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: beefeater-gin
+      display_name: Beefeater Gin
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: plymouth-sloe-gin
+      display_name: Plymouth Sloe Gin
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: monteverdi-nocino
+      display_name: Monteverdi Nocino
+      quantity: 0.25
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Lindsay Nader, Fall 2009
+      author:
+      datetime: '2020-05-09T03:24:56.146131'
+    - text: Noce is Italian for “walnut” and royale, in cocktail terminology, marks
+        a drink as being topped with Champagne.
+      author:
+      datetime: '2020-05-09T03:24:56.146135'
+    instructions:
+    - text: Stir with ice, then strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.146139'
+    - text: Top with 2 oz Laurent-Perrier Brut
+      author:
+      datetime: '2020-05-09T03:24:56.146142'
+    - text: (No garnish)
+      author:
+      datetime: '2020-05-09T03:24:56.146144'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

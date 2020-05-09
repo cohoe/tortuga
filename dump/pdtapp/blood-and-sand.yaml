@@ -1,0 +1,56 @@
+- slug: blood-and-sand
+  display_name: Blood and Sand
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 1930
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: famous-grouse-blended-scotch-whisky
+      display_name: Famous Grouse Blended Scotch Whisky
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: orange-juice
+      display_name: Orange Juice
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: cherry-heering
+      display_name: Cherry Heering
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: carpano-antica-formula-vermouth
+      display_name: Carpano Antica Formula Vermouth
+      quantity: 0.5
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Harry Craddock, The Savoy Cocktail Book, 1930
+      author:
+      datetime: '2020-05-09T03:24:56.140159'
+    - text: Named after the 1922 Rudolph Valentino movie of the same name, this recipe
+        originally called for equal parts of each ingredient.
+      author:
+      datetime: '2020-05-09T03:24:56.140163'
+    instructions:
+    - text: Shake with ice, then strain into chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.140167'
+    - text: (No garnish)
+      author:
+      datetime: '2020-05-09T03:24:56.140170'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

@@ -1,0 +1,67 @@
+- slug: navy-grog
+  display_name: Navy Grog
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 1941
+    glassware: []
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: goslings-black-seal-rum
+      display_name: Goslings Black Seal Rum
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: appleton-estate-reserve-rum
+      display_name: Appleton Estate Reserve Rum
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: el-dorado-15-year-old-rum
+      display_name: El Dorado 15 Year Old Rum
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: grapefruit-juice
+      display_name: Grapefruit Juice
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: honey-syrup
+      display_name: Honey Syrup
+      quantity: 0.5
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Don the Beachcomber, 1941
+      author:
+      datetime: '2020-05-09T03:24:56.226863'
+    - text: The term “grog” was coined by members of the British Royal Navy, who named
+        their rum ration after Admiral Edward “Old Grog” Vernon, so nicknamed because
+        he wore a grogram coat.
+      author:
+      datetime: '2020-05-09T03:24:56.226872'
+    instructions:
+    - text: Build in a chilled rocks glass filled with pebble ice
+      author:
+      datetime: '2020-05-09T03:24:56.226877'
+    - text: Swizzle, then top with more pebble ice
+      author:
+      datetime: '2020-05-09T03:24:56.226879'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

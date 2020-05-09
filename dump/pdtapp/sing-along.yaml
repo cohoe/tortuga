@@ -1,0 +1,54 @@
+- slug: sing-along
+  display_name: Sing Along
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2014
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: singani-63
+      display_name: Singani 63
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: kiuchi-yuzu-wine
+      display_name: Kiuchi Yuzu Wine
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: roulot-apricot-brandy
+      display_name: Roulot Apricot Brandy
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: bitter-truth-aromatic-bitters
+      display_name: Bitter Truth Aromatic Bitters
+      quantity: 1
+      unit: dash
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jim Meehan, Spring 2014
+      author:
+      datetime: '2020-05-09T03:24:56.235139'
+    - text: Aromatic notes of citrus and stone fruit are prominent characteristics
+        of the Bolivian brandy base of the cocktail, hence the name-play on the Muscat
+        of Alexandria grape-based distillate, Singani.
+      author:
+      datetime: '2020-05-09T03:24:56.235146'
+    instructions:
+    - text: Stir with ice, then strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.235156'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

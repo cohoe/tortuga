@@ -1,0 +1,51 @@
+- slug: diamondback
+  display_name: Diamondback
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 1951
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: rittenhouse-bonded-rye-whiskey
+      display_name: Rittenhouse Bonded Rye Whiskey
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: lairds-bonded-apple-brandy
+      display_name: Lairds Bonded Apple Brandy
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: yellow-chartreuse
+      display_name: Yellow Chartreuse
+      quantity: 0.5
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Ted Saucier, Bottoms Up, 1951
+      author:
+      datetime: '2020-05-09T03:24:56.171452'
+    - text: According to Bottoms Up, the Diamondback hailed from the lounge of the
+        same name in the Lord Baltimore Hotel.
+      author:
+      datetime: '2020-05-09T03:24:56.171456'
+    instructions:
+    - text: Stir with ice, then strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.171460'
+    - text: (No garnish)
+      author:
+      datetime: '2020-05-09T03:24:56.171462'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

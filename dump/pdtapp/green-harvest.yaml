@@ -1,0 +1,58 @@
+- slug: green-harvest
+  display_name: Green Harvest
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2009
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: dried-sorrel-flowers-brewed-and-chilled
+      display_name: Dried Sorrel Flowers Brewed And Chilled
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: astral-blanco-tequila
+      display_name: Astral Blanco Tequila
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: green-chartreuse
+      display_name: Green Chartreuse
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: grapes-reserve-3-for-garnish
+      display_name: Grapes Reserve 3 For Garnish
+      quantity: 7
+      unit: concord
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jim Meehan, Fall 2009
+      author:
+      datetime: '2020-05-09T03:24:56.142168'
+    - text: In viticultural terms, “green harvesting” is the pruning of immature grape
+        clusters that allows the remaining fruit on the vine to ripen with a greater
+        concentration of flavor.
+      author:
+      datetime: '2020-05-09T03:24:56.142173'
+    instructions:
+    - text: Muddle the grapes, then add remaining ingredients
+      author:
+      datetime: '2020-05-09T03:24:56.142177'
+    - text: Stir with ice, then fine-strain into a chilled fizz glass filled with
+        ice cubes
+      author:
+      datetime: '2020-05-09T03:24:56.142179'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

@@ -1,0 +1,71 @@
+- slug: sunburn
+  display_name: Sunburn
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2012
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: macchu-pisco-la-diablada
+      display_name: Macchu Pisco La Diablada
+      quantity: 1.25
+      unit: oz
+      notes: []
+    - slug: wolffer-estate-rose
+      display_name: Wolffer Estate Rose
+      quantity: 1.25
+      unit: oz
+      notes: []
+    - slug: clear-creek-kirschwasser
+      display_name: Clear Creek Kirschwasser
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: grapefruit-juice
+      display_name: Grapefruit Juice
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: petit-canne-sugar-cane-syrup
+      display_name: Petit Canne Sugar Cane Syrup
+      quantity: 0.3
+      unit: oz
+      notes: []
+    - slug: 10-12-tarragon-leaves
+      display_name: 10 12 Tarragon Leaves
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: John deBary, Summer 2012
+      author:
+      datetime: '2020-05-09T03:24:56.198168'
+    - text: John’s summery twist on Julie Reiner’s Cuzco Cocktail is named after the
+        cherubic glow one achieves after a glorious afternoon sipping pisco in the
+        sun.
+      author:
+      datetime: '2020-05-09T03:24:56.198173'
+    instructions:
+    - text: Muddle tarragon and syrup, then add everything else
+      author:
+      datetime: '2020-05-09T03:24:56.198177'
+    - text: Shake with ice, then fine-strain into a chilled fizz glass filled with
+        pebble ice
+      author:
+      datetime: '2020-05-09T03:24:56.198179'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

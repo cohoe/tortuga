@@ -1,0 +1,54 @@
+- slug: martinez
+  display_name: Martinez
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 1884
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: haymans-old-tom-gin
+      display_name: Haymans Old Tom Gin
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: dolin-rouge-vermouth
+      display_name: Dolin Rouge Vermouth
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: luxardo-maraschino-liqueur
+      display_name: Luxardo Maraschino Liqueur
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: adam-elmegirabs-bokers-bitters
+      display_name: Adam Elmegirabs Bokers Bitters
+      quantity: 2
+      unit: dashes
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: O. H. Byron, Modern Bartenders’ Guide, 1884
+      author:
+      datetime: '2020-05-09T03:24:56.162625'
+    - text: Thanks to the efforts of bartenders such as Scotland’s Adam Elmegirab,
+        who reproduced Boker’s Bitters and made it available commercially, drinks
+        such as the Martinez have regained prominence.
+      author:
+      datetime: '2020-05-09T03:24:56.162629'
+    instructions:
+    - text: Stir with ice, then strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.162633'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

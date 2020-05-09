@@ -1,0 +1,54 @@
+- slug: salty-shores
+  display_name: Salty Shores
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2011
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: lairds-bonded-apple-brandy
+      display_name: Lairds Bonded Apple Brandy
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: cocchi-vermouth-di-torino
+      display_name: Cocchi Vermouth Di Torino
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: salt-caramel-syrup
+      display_name: Salt Caramel Syrup
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: house-orange-bitters
+      display_name: House Orange Bitters
+      quantity: 1
+      unit: dash
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Michael Klein, Fall 2011
+      author:
+      datetime: '2020-05-09T03:24:56.228325'
+    - text: Michael created this ode to Atlantic City featuring a caramel syrup that
+        alludes to the shore’s famed saltwater taffy just in time to toast the second
+        season of HBO’s Boardwalk Empire.
+      author:
+      datetime: '2020-05-09T03:24:56.228330'
+    instructions:
+    - text: Stir with ice, then strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.228339'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

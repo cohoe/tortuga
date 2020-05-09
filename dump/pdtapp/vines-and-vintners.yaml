@@ -1,0 +1,52 @@
+- slug: vines-and-vintners
+  display_name: Vines and Vintners
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2011
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: wolffer-estate-rose
+      display_name: Wolffer Estate Rose
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: tomato-water
+      display_name: Tomato Water
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: gran-classico-bitter
+      display_name: Gran Classico Bitter
+      quantity: 0.5
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Michael Klein, Summer 2011
+      author:
+      datetime: '2020-05-09T03:24:56.166505'
+    - text: Michael’s culinary school training came in handy for preparations in cocktails
+        such as this garden fresh Americano variation, which relies on the fruits
+        of two different vines for balance.
+      author:
+      datetime: '2020-05-09T03:24:56.166509'
+    instructions:
+    - text: Stir with ice, then strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.166513'
+    - text: (No garnish)
+      author:
+      datetime: '2020-05-09T03:24:56.166515'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

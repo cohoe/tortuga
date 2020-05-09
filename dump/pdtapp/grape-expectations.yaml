@@ -1,0 +1,60 @@
+- slug: grape-expectations
+  display_name: Grape Expectations
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2012
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: macchu-pisco
+      display_name: Macchu Pisco
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: didier-meuzard-ratafia-de-bourgogne
+      display_name: Didier Meuzard Ratafia De Bourgogne
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: varnelli-amaro-dellerborista
+      display_name: Varnelli Amaro Dellerborista
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: grapes
+      display_name: Grapes
+      quantity: 5
+      unit: concord
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jeff Bell, Summer 2012
+      author:
+      datetime: '2020-05-09T03:24:56.185064'
+    - text: Pip, the protagonist of Dickens’ Great Expectations, is another term for
+        a grape seed. Jeff works with grapes in many forms including Ratafia de Bourgogne,
+        Pisco, and concords themselves.
+      author:
+      datetime: '2020-05-09T03:24:56.185071'
+    instructions:
+    - text: Muddle the grapes, then add the rest of the ingredients and ice
+      author:
+      datetime: '2020-05-09T03:24:56.185075'
+    - text: Shake and fine-strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.185078'
+    - text: (No garnish)
+      author:
+      datetime: '2020-05-09T03:24:56.185080'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

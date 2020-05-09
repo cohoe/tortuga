@@ -1,0 +1,56 @@
+- slug: cocchi-cola
+  display_name: Cocchi Cola
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2013
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: george-dickel-no-12-tennessee-whisky
+      display_name: George Dickel No 12 Tennessee Whisky
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: cocchi-americano
+      display_name: Cocchi Americano
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: amaro-nonino
+      display_name: Amaro Nonino
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: bittermens-elemakule-tiki-bitters
+      display_name: Bittermens Elemakule Tiki Bitters
+      quantity: 1
+      unit: Dash
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jim Meehan, Summer 2013
+      author:
+      datetime: '2020-05-09T03:24:56.159813'
+    - text: Using the Jack & Coke as his inspiration, Jim developed this Tennessee
+        whiskey–based Manhattan variation with tiki bitters providing a cola accent.
+      author:
+      datetime: '2020-05-09T03:24:56.159817'
+    instructions:
+    - text: Stir with ice, then strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.159822'
+    - text: (No garnish)
+      author:
+      datetime: '2020-05-09T03:24:56.159824'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

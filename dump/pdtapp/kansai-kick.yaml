@@ -1,0 +1,56 @@
+- slug: kansai-kick
+  display_name: Kansai Kick
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2010
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: yamazaki-12-year-old
+      display_name: Yamazaki 12 Year Old
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: blandys-sercial-5-year-old-madeira
+      display_name: Blandys Sercial 5 Year Old Madeira
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: kassatly-chtaura-orgeat
+      display_name: Kassatly Chtaura Orgeat
+      quantity: 0.375
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: John deBary, Spring 2010
+      author:
+      datetime: '2020-05-09T03:24:56.207884'
+    - text: Whisky aged on Japan’s Kansai plain stands in for Irish in this Madeira-accented
+        twist on the Cameron’s Kick cocktail.
+      author:
+      datetime: '2020-05-09T03:24:56.207889'
+    instructions:
+    - text: Shake with ice, then strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.207893'
+    - text: (No garnish)
+      author:
+      datetime: '2020-05-09T03:24:56.207895'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

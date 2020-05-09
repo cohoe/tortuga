@@ -1,0 +1,59 @@
+- slug: idle-hands
+  display_name: Idle Hands
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2012
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: siete-leguas-reposado-tequila
+      display_name: Siete Leguas Reposado Tequila
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: spezia-gewurtztraminer
+      display_name: Spezia Gewurtztraminer
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: ferrand-orange-curacao
+      display_name: Ferrand Orange Curacao
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: averna
+      display_name: Averna
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: equivalent-of-a-quarter-vial-bittermens-hellfire-habanero-shrub
+      display_name: Equivalent Of A Quarter Vial Bittermens Hellfire Habanero Shrub
+      quantity: 2
+      unit: dashes
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Payman Bahmani, Spring 2012
+      author:
+      datetime: '2020-05-09T03:24:56.214512'
+    - text: The aptly named Hellfire bitters reminded Payman of the old saying, “idle
+        hands are the devil’s playthings”. We suggest you keep yours busy sipping
+        this.
+      author:
+      datetime: '2020-05-09T03:24:56.214516'
+    instructions:
+    - text: Stir with ice, then strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.214520'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

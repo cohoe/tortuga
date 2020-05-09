@@ -1,0 +1,66 @@
+- slug: mezcal-mule
+  display_name: Mezcal Mule
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2009
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: del-maguey-mezcal-vida
+      display_name: Del Maguey Mezcal Vida
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: house-ginger-beer
+      display_name: House Ginger Beer
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: boiron-passion-fruit-puree
+      display_name: Boiron Passion Fruit Puree
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: agave-syrup
+      display_name: Agave Syrup
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: slices-reserve-1-for-garnish
+      display_name: Slices Reserve 1 For Garnish
+      quantity: 4
+      unit: cucumber
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jim Meehan, Winter 2009
+      author:
+      datetime: '2020-05-09T03:24:56.146418'
+    - text: Passion fruit and cucumber brighten this earthy mule spiced with a blend
+        of native Mexican chilis.
+      author:
+      datetime: '2020-05-09T03:24:56.146422'
+    instructions:
+    - text: Muddle the agave syrup and cucumber, then add remaining ingredients
+      author:
+      datetime: '2020-05-09T03:24:56.146427'
+    - text: Shake with ice, then strain into a chilled rocks glass filled with ice
+      author:
+      datetime: '2020-05-09T03:24:56.146429'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

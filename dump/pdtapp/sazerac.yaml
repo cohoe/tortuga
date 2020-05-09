@@ -1,0 +1,38 @@
+- slug: sazerac
+  display_name: Sazerac
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 1908
+    glassware: []
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: pinch-a-lemon-peel-over-the-surface-and-discard
+      display_name: Pinch A Lemon Peel Over The Surface And Discard
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: William Boothby, World Drinks & How to Mix Them, 1908
+      author:
+      datetime: '2020-05-09T03:24:56.140356'
+    - text: This cocktail is synonymous with Sazerac de Forge et Fils cognac, which
+        was originally used to prepare the drink, and the Sazerac coffee house that
+        Thomas Handy took over in the 1870s, when he changed the base spirit to rye
+        whiskey.
+      author:
+      datetime: '2020-05-09T03:24:56.140360'
+    instructions:
+    - text: (No garnish)
+      author:
+      datetime: '2020-05-09T03:24:56.140364'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

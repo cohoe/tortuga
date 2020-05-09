@@ -1,0 +1,36 @@
+- slug: manuka-sage-southside
+  display_name: Manuka Sage Southside
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2010
+    glassware: []
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: kiuchi-yuzu-wine-carbonated
+      display_name: Kiuchi Yuzu Wine Carbonated
+      quantity: 1
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Karen Fu, Winter 2010
+      author:
+      datetime: '2020-05-09T03:24:56.204097'
+    - text: This aromatic variation upon the classic gin-based Southside cocktail
+        was selected as a finalist in the American leg of the 2010 42Below Cocktail
+        World Cup.
+      author:
+      datetime: '2020-05-09T03:24:56.204101'
+    instructions: []
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

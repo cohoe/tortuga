@@ -1,0 +1,60 @@
+- slug: alambic-fizz
+  display_name: Alambic Fizz
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2012
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: louis-royer-force-53o
+      display_name: Louis Royer Force 53O
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: blandys-bual-5-year-old-madeira
+      display_name: Blandys Bual 5 Year Old Madeira
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: dale-degroffs-pimento-aromatic-bitters
+      display_name: Dale Degroffs Pimento Aromatic Bitters
+      quantity: 1
+      unit: dash
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jeff Bell, Summer 2012
+      author:
+      datetime: '2020-05-09T03:24:56.169144'
+    - text: This rich French 75 variation, whose name plays off the Alembic still
+        used to distill cognac, replaces Champagne with Lambic beer, which reinforces
+        the stone fruit notes in the cognac.
+      author:
+      datetime: '2020-05-09T03:24:56.169150'
+    instructions:
+    - text: Shake with ice, then strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.169154'
+    - text: Top with 1.5 oz Lindeman’s Peche Lambic
+      author:
+      datetime: '2020-05-09T03:24:56.169156'
+    - text: (No garnish)
+      author:
+      datetime: '2020-05-09T03:24:56.169158'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

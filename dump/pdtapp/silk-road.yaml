@@ -1,0 +1,54 @@
+- slug: silk-road
+  display_name: Silk Road
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2007
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: black-sesame-infused-aquavit
+      display_name: Black Sesame Infused Aquavit
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: caramelized-simple-syrup
+      display_name: Caramelized Simple Syrup
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: angostura-bitters
+      display_name: Angostura Bitters
+      quantity: 1
+      unit: dash
+      notes: []
+    - slug: peychauds-bitters
+      display_name: Peychauds Bitters
+      quantity: 1
+      unit: dash
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Don Lee, Fall 2007
+      author:
+      datetime: '2020-05-09T03:24:56.165772'
+    - text: This cocktail was fashioned after Joyva Sesame Crunch candy and named
+        after the ancient trade route that once linked Asia to India and Europe.
+      author:
+      datetime: '2020-05-09T03:24:56.165776'
+    instructions:
+    - text: Stir with ice, then strain into a chilled rocks glass filled with one
+        large ice cube
+      author:
+      datetime: '2020-05-09T03:24:56.165780'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

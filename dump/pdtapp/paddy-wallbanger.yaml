@@ -1,0 +1,56 @@
+- slug: paddy-wallbanger
+  display_name: Paddy Wallbanger
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2009
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: black-bush-irish-whiskey
+      display_name: Black Bush Irish Whiskey
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: dolin-dry-vermouth
+      display_name: Dolin Dry Vermouth
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: galliano-lautentico
+      display_name: Galliano Lautentico
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: house-orange-bitters
+      display_name: House Orange Bitters
+      quantity: 2
+      unit: dashes
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Gerry Corcoran, Spring 2009
+      author:
+      datetime: '2020-05-09T03:24:56.150053'
+    - text: Irishman Gerry Corcoran substituted orange bitters for o.j. in his Harvey
+        Wallbanger–inspired Dry Manhattan.
+      author:
+      datetime: '2020-05-09T03:24:56.150057'
+    instructions:
+    - text: Stir with ice, then strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.150061'
+    - text: (No garnish)
+      author:
+      datetime: '2020-05-09T03:24:56.150063'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

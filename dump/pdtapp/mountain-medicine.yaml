@@ -1,0 +1,63 @@
+- slug: mountain-medicine
+  display_name: Mountain Medicine
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2011
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: berkshire-mountain-distillers-ragged-mountain-rum
+      display_name: Berkshire Mountain Distillers Ragged Mountain Rum
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: benedictine
+      display_name: Benedictine
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: simple-syrup
+      display_name: Simple Syrup
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: of-angostura-bitters
+      display_name: Of Angostura Bitters
+      quantity: 2
+      unit: Dashes
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jim Meehan, Fall 2011
+      author:
+      datetime: '2020-05-09T03:24:56.192087'
+    - text: Ragged Mountain Rum was distilled by a former physicians assistant, lime
+        juice saved thousands of sailors from scurvy, Bénédictine herbal liqueur was
+        first dispensed as an elixir by monks, and Angostura was originally formulated
+        by a German surgeon general to relieve stomach disorders.
+      author:
+      datetime: '2020-05-09T03:24:56.192091'
+    instructions:
+    - text: Shake with ice, then strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.192096'
+    - text: (No garnish)
+      author:
+      datetime: '2020-05-09T03:24:56.192098'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

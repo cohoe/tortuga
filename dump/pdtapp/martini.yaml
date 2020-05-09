@@ -1,0 +1,44 @@
+- slug: martini
+  display_name: Martini
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 1904
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: plymouth-gin
+      display_name: Plymouth Gin
+      quantity: 3
+      unit: oz
+      notes: []
+    - slug: dolin-dry-vermouth
+      display_name: Dolin Dry Vermouth
+      quantity: 1
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Frank Newman, American Bar, 1904
+      author:
+      datetime: '2020-05-09T03:24:56.195994'
+    - text: Over the last hundred years, the preparation and choice of garnish of
+        this protean cocktail has been one of the most reliable means of gauging the
+        palate of an era.
+      author:
+      datetime: '2020-05-09T03:24:56.195998'
+    instructions:
+    - text: Stir with ice, then strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.196002'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

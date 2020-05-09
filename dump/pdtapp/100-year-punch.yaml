@@ -1,0 +1,60 @@
+- slug: 100-year-punch
+  display_name: 100 Year Punch
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2008
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: elijah-craig-12-year-old-bourbon
+      display_name: Elijah Craig 12 Year Old Bourbon
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: bek-se-ju-100-year-wine
+      display_name: Bek Se Ju 100 Year Wine
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: ssal-yut-rice-syrup
+      display_name: Ssal Yut Rice Syrup
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: fee-brothers-old-fashion-bitters
+      display_name: Fee Brothers Old Fashion Bitters
+      quantity: 2
+      unit: dashes
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Daniel Eun, Winter 2008
+      author:
+      datetime: '2020-05-09T03:24:56.190037'
+    - text: In Korea the ginseng and other herbs used to flavor baekseju (“100-years
+        wine”) were hoped to help one live for 100 years.
+      author:
+      datetime: '2020-05-09T03:24:56.190042'
+    instructions:
+    - text: Zest half the tangerine into a mixing glass, then add remaining ingredients
+      author:
+      datetime: '2020-05-09T03:24:56.190046'
+    - text: Stir with ice, then fine-strain into a chilled rocks glass filled with
+        ice cubes
+      author:
+      datetime: '2020-05-09T03:24:56.190048'
+    - text: Top with 1 oz Q Tonic
+      author:
+      datetime: '2020-05-09T03:24:56.190050'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

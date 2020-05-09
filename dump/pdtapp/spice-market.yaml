@@ -1,0 +1,48 @@
+- slug: spice-market
+  display_name: Spice Market
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2009
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: miyaksaka-masumi-arabashiri
+      display_name: Miyaksaka Masumi Arabashiri
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: beefeater-24-gin
+      display_name: Beefeater 24 Gin
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: john-d-taylors-velvet-falernum
+      display_name: John D Taylors Velvet Falernum
+      quantity: 1
+      unit: barspoon
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Nate Dumas, Spring 2009
+      author:
+      datetime: '2020-05-09T03:24:56.218730'
+    - text: This ode to the East combines unpasteurized sake with master distiller
+        Desmond Payne’s grapefruit, sencha, and green tea-accented gin.
+      author:
+      datetime: '2020-05-09T03:24:56.218735'
+    instructions:
+    - text: Stir with ice, then strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.218739'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

@@ -1,0 +1,46 @@
+- slug: cinema-highball
+  display_name: Cinema Highball
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2007
+    glassware: []
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: coca-cola-classic
+      display_name: Coca Cola Classic
+      quantity: 4.5
+      unit: oz
+      notes: []
+    - slug: buttered-popcorn-infused-rum
+      display_name: Buttered Popcorn Infused Rum
+      quantity: 2
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Don Lee, Winter 2007
+      author:
+      datetime: '2020-05-09T03:24:56.215147'
+    - text: Don Lee’s popcorn-infused rum transforms a familiar drink into a night
+        out at the movies in a glass.
+      author:
+      datetime: '2020-05-09T03:24:56.215151'
+    instructions:
+    - text: Build in a chilled collins glass filled with ice cubes
+      author:
+      datetime: '2020-05-09T03:24:56.215155'
+    - text: (No garnish)
+      author:
+      datetime: '2020-05-09T03:24:56.215158'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

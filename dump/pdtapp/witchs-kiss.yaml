@@ -1,0 +1,59 @@
+- slug: witchs-kiss
+  display_name: Witch’s Kiss
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2008
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: cinnamon-infused-tequila
+      display_name: Cinnamon Infused Tequila
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: strega
+      display_name: Strega
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: agave-syrup
+      display_name: Agave Syrup
+      quantity: 1
+      unit: barspoon
+      notes: []
+    - slug: red-jacket-orchards-apple-butter
+      display_name: Red Jacket Orchards Apple Butter
+      quantity: 1
+      unit: barspoon
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jim Meehan, Fall 2008
+      author:
+      datetime: '2020-05-09T03:24:56.235440'
+    - text: This tequila-based ode to Kappeler’s Widow’s Kiss relies on saffron-hued
+        Strega in place of Yellow Chartreuse and apple butter in place of Bénédictine
+        herbal liqueur.
+      author:
+      datetime: '2020-05-09T03:24:56.235444'
+    instructions:
+    - text: Shake with ice and fine-strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.235448'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

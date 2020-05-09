@@ -1,0 +1,54 @@
+- slug: bijou
+  display_name: Bijou
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 1895
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: tanqueray-london-dry-gin
+      display_name: Tanqueray London Dry Gin
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: dolin-rouge-vermouth
+      display_name: Dolin Rouge Vermouth
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: green-chartreuse
+      display_name: Green Chartreuse
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: house-orange-bitters
+      display_name: House Orange Bitters
+      quantity: 1
+      unit: dash
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: C. F. Lawlor, The Mixicologist, 1895
+      author:
+      datetime: '2020-05-09T03:24:56.146640'
+    - text: 'French for “jewel,” the Bijou’s name allegedly refers to the precious
+        stones represented by its three primary ingredients: diamonds, rubies, and
+        emeralds.'
+      author:
+      datetime: '2020-05-09T03:24:56.146643'
+    instructions:
+    - text: Stir with ice, then strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.146647'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

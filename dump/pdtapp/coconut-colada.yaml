@@ -1,0 +1,54 @@
+- slug: coconut-colada
+  display_name: Coconut Colada
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2006
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: bacardi-ron-superior-heritage-limited-edition
+      display_name: Bacardi Ron Superior Heritage Limited Edition
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: pineapple-juice
+      display_name: Pineapple Juice
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: ciao-bella-coconut-sorbet
+      display_name: Ciao Bella Coconut Sorbet
+      quantity: 1
+      unit: scoop
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jim Meehan, New York, 2006
+      author:
+      datetime: '2020-05-09T03:24:56.242066'
+    - text: In 2006 a guest of Gramercy Tavern asked Jim to make her a Piña Colada.
+        The bar didn’t stock Coco López, so he used a scoop of Claudia Fleming’s coconut
+        sorbet in place of the rich syrup.
+      author:
+      datetime: '2020-05-09T03:24:56.242070'
+    instructions:
+    - text: Shake with ice, then strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.242075'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

@@ -1,0 +1,59 @@
+- slug: pimms-cup
+  display_name: Pimm’s Cup
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 1946
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: pimms-1-cup
+      display_name: Pimms 1 Cup
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: simple-syrup
+      display_name: Simple Syrup
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: slices-1-reserved-for-garnish
+      display_name: Slices 1 Reserved For Garnish
+      quantity: 3
+      unit: cucumber
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Lucius Beebe, The Stork Club Bar Book, 1946
+      author:
+      datetime: '2020-05-09T03:24:56.186660'
+    - text: James Pimm became famous for his “house cup,” a gin sling with a proprietary
+        mix of liqueurs and fruit extracts in the 19th century.
+      author:
+      datetime: '2020-05-09T03:24:56.186664'
+    instructions:
+    - text: Muddle the cucumber and syrup, then add Pimms and lemon juice
+      author:
+      datetime: '2020-05-09T03:24:56.186668'
+    - text: Shake with ice, then strain into a chilled collins glass filled with ice
+      author:
+      datetime: '2020-05-09T03:24:56.186671'
+    - text: Top with 1 oz Q Ginger Ale.
+      author:
+      datetime: '2020-05-09T03:24:56.186673'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

@@ -1,0 +1,67 @@
+- slug: summer-blues
+  display_name: Summer Blues
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2012
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: el-buho-mezcal
+      display_name: El Buho Mezcal
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: lillet-rouge
+      display_name: Lillet Rouge
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: blueberries
+      display_name: Blueberries
+      quantity: 2
+      unit: tbsp
+      notes: []
+    - slug: pine-tree-syrup
+      display_name: Pine Tree Syrup
+      quantity: 1
+      unit: barspoon
+      notes: []
+    - slug: angostura-bitters
+      display_name: Angostura Bitters
+      quantity: 1
+      unit: dash
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Euclides López, Spring 2012
+      author:
+      datetime: '2020-05-09T03:24:56.237759'
+    - text: Antioxidant-rich blueberries and endorphin-stimulating mezcal are the
+        perfect panacea for the summer blues.
+      author:
+      datetime: '2020-05-09T03:24:56.237763'
+    instructions:
+    - text: In a mixing tin, muddle the blueberries and pine tree syrup, then add
+        the rest of the ingredients
+      author:
+      datetime: '2020-05-09T03:24:56.237768'
+    - text: Shake with ice and fine-strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.237770'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

@@ -1,0 +1,49 @@
+- slug: rite-of-spring
+  display_name: Rite of Spring
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2008
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: tanqueray-london-dry-gin
+      display_name: Tanqueray London Dry Gin
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: vya-dry-vermouth
+      display_name: Vya Dry Vermouth
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: pickled-ramp-brine
+      display_name: Pickled Ramp Brine
+      quantity: 0.25
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Don Lee, Spring 2008
+      author:
+      datetime: '2020-05-09T03:24:56.230763'
+    - text: When ramps, the wild spring onions that sprout up in cool, forested regions
+        of the Northeast, show up at the farmer’s market, we know that the growing
+        season has officially begun.
+      author:
+      datetime: '2020-05-09T03:24:56.230767'
+    instructions:
+    - text: Stir with ice, then strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.230771'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

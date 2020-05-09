@@ -1,0 +1,54 @@
+- slug: le-pere-bis
+  display_name: Le Père Bis
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2008
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: chamomile-tea-freshly-brewed
+      display_name: Chamomile Tea Freshly Brewed
+      quantity: 4
+      unit: oz
+      notes: []
+    - slug: ardbeg-10-year-old-single-malt-scotch-whisky
+      display_name: Ardbeg 10 Year Old Single Malt Scotch Whisky
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: st-germain
+      display_name: St Germain
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: honey-syrup
+      display_name: Honey Syrup
+      quantity: 0.5
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jim Meehan, Winter 2008
+      author:
+      datetime: '2020-05-09T03:24:56.147309'
+    - text: In 2006, Rob Cooper asked Jim to create a winter warmer with St. Germain.
+        To prove that the liqueur could pair with the most powerful spirits, he mixed
+        it with one of Islay’s legendary peat monsters.
+      author:
+      datetime: '2020-05-09T03:24:56.147313'
+    instructions:
+    - text: Build in a preheated mug and stir
+      author:
+      datetime: '2020-05-09T03:24:56.147317'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

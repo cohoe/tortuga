@@ -1,0 +1,56 @@
+- slug: brooklyn
+  display_name: Brooklyn
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 1910
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: rittenhouse-bonded-rye-whiskey
+      display_name: Rittenhouse Bonded Rye Whiskey
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: dolin-dry-vermouth
+      display_name: Dolin Dry Vermouth
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: luxardo-maraschino-liqueur
+      display_name: Luxardo Maraschino Liqueur
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: picon-club
+      display_name: Picon Club
+      quantity: 0.25
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jack Grohusko, Jack’s Manual, 1910
+      author:
+      datetime: '2020-05-09T03:24:56.162844'
+    - text: With amer Picon conspicuously absent in the Americas, the Manhattan’s
+        ubiquity is unchallenged, even in this cocktail’s namesake borough.
+      author:
+      datetime: '2020-05-09T03:24:56.162848'
+    instructions:
+    - text: Stir with ice, then strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.162852'
+    - text: (No garnish)
+      author:
+      datetime: '2020-05-09T03:24:56.162854'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

@@ -1,0 +1,59 @@
+- slug: precious-pluot
+  display_name: Precious Pluot
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2011
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: channing-daughters-scuttlehole-chardonnay
+      display_name: Channing Daughters Scuttlehole Chardonnay
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: rothman-winter-orchard-apricot
+      display_name: Rothman Winter Orchard Apricot
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: clear-creek-plum-brandy
+      display_name: Clear Creek Plum Brandy
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: 1-2-pluot
+      display_name: 1 2 Pluot
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: John deBary, Summer 2011
+      author:
+      datetime: '2020-05-09T03:24:56.199715'
+    - text: The pluot, a genetically engineered plum/apricot hybrid, is the perfect
+        complement to this precious mixture of Oregon plum brandy and Austrian apricot
+        liqueur.
+      author:
+      datetime: '2020-05-09T03:24:56.199719'
+    instructions:
+    - text: Muddle the half pluot, then add remaining ingredients
+      author:
+      datetime: '2020-05-09T03:24:56.199723'
+    - text: Shake with ice, then fine-strain into a chilled collins glass filled with
+        ice
+      author:
+      datetime: '2020-05-09T03:24:56.199725'
+    - text: Top with .75 oz club soda
+      author:
+      datetime: '2020-05-09T03:24:56.199727'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

@@ -1,0 +1,53 @@
+- slug: chrysanthemum
+  display_name: Chrysanthemum
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 1916
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: dolin-dry-vermouth
+      display_name: Dolin Dry Vermouth
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: benedictine
+      display_name: Benedictine
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: vieux-pontarlier-absinthe
+      display_name: Vieux Pontarlier Absinthe
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: house-orange-bitters
+      display_name: House Orange Bitters
+      quantity: 1
+      unit: dash
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Hugo Ensslin, Recipes for Mixed Drinks, 1916
+      author:
+      datetime: '2020-05-09T03:24:56.200589'
+    - text: Numerous early-20th-century cocktails, none more pleasant to sip than
+        this, were named after flowers.
+      author:
+      datetime: '2020-05-09T03:24:56.200596'
+    instructions:
+    - text: Stir with ice, then strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.200601'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

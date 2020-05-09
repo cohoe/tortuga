@@ -1,0 +1,57 @@
+- slug: tomayto-tomahto
+  display_name: Tomayto Tomahto
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2011
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: siete-leguas-blanco-tequila
+      display_name: Siete Leguas Blanco Tequila
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: green-chartreuse
+      display_name: Green Chartreuse
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: petit-canne-sugar-cane-syrup
+      display_name: Petit Canne Sugar Cane Syrup
+      quantity: 1
+      unit: barspoon
+      notes: []
+    - slug: tomatoes
+      display_name: Tomatoes
+      quantity: 3
+      unit: cherry
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Lydia Reissmueller, Summer 2011
+      author:
+      datetime: '2020-05-09T03:24:56.245519'
+    - text: However you pronounce the juicy red fruit that bursts with flavor come
+        high summer, they have an affinity for Tequila that Lydia showcases in this
+        Chartreuse-spiced sour.
+      author:
+      datetime: '2020-05-09T03:24:56.245523'
+    instructions:
+    - text: In a shaking tin muddle the tomatoes, then add remaining ingredients
+      author:
+      datetime: '2020-05-09T03:24:56.245527'
+    - text: Shake with ice and fine-strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.245529'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

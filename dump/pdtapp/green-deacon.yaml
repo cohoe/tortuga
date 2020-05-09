@@ -1,0 +1,52 @@
+- slug: green-deacon
+  display_name: Green Deacon
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2008
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: plymouth-gin
+      display_name: Plymouth Gin
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: grapefruit-juice
+      display_name: Grapefruit Juice
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: plymouth-sloe-gin
+      display_name: Plymouth Sloe Gin
+      quantity: 0.75
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jim Meehan, Fall 2008
+      author:
+      datetime: '2020-05-09T03:24:56.218471'
+    - text: This absinthe-rinsed variation on the Rosy Deacon cocktail from Jones’s
+        Complete Bar Guide was recipe-tested with our dear friend J.C. Iglesias.
+      author:
+      datetime: '2020-05-09T03:24:56.218501'
+    instructions:
+    - text: Shake with ice, then strain into a chilled, St. George Absinthe-rinsed
+        coupe
+      author:
+      datetime: '2020-05-09T03:24:56.218506'
+    - text: (No garnish)
+      author:
+      datetime: '2020-05-09T03:24:56.218509'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

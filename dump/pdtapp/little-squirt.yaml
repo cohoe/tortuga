@@ -1,0 +1,65 @@
+- slug: little-squirt
+  display_name: Little Squirt
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2011
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: siete-leguas-blanco-tequila
+      display_name: Siete Leguas Blanco Tequila
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: yellow-chartreuse
+      display_name: Yellow Chartreuse
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: del-maguey-vida-mezcal
+      display_name: Del Maguey Vida Mezcal
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: 1-4-slice-red-bell-pepper
+      display_name: 1 4 Slice Red Bell Pepper
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jeff Bell and Euclides López, Summer 2011
+      author:
+      datetime: '2020-05-09T03:24:56.203913'
+    - text: Euclides and Jeff spiced up the classic Paloma with muddled red bell pepper,
+        smoky mezcal, and a little Yellow Chartreuse. It’s served with Mexican Squirt
+        for authenticity. In a pinch, Ting will do.
+      author:
+      datetime: '2020-05-09T03:24:56.203917'
+    instructions:
+    - text: Muddle the pepper and Chartreuse, then add the lemon juice, mezcal, and
+        tequila
+      author:
+      datetime: '2020-05-09T03:24:56.203921'
+    - text: Shake with ice and fine-strain into a chilled, collins glass rimmed with
+        rimming mix N.7 and filled with ice cubes
+      author:
+      datetime: '2020-05-09T03:24:56.203932'
+    - text: Top with 1.5 oz Squirt, Mexican formula
+      author:
+      datetime: '2020-05-09T03:24:56.203935'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

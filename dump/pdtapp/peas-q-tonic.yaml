@@ -1,0 +1,51 @@
+- slug: peas-q-tonic
+  display_name: Peas & Q Tonic
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2013
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: nolets-silver-dry-gin
+      display_name: Nolets Silver Dry Gin
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: pea-puree
+      display_name: Pea Puree
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: green-chartreuse
+      display_name: Green Chartreuse
+      quantity: 0.5
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Michael Klein, Spring 2013
+      author:
+      datetime: '2020-05-09T03:24:56.141012'
+    - text: Mind your Ps and Qsor, in this case, the way the peas and Chartreuse balance
+        the floral quality of the gin.
+      author:
+      datetime: '2020-05-09T03:24:56.141016'
+    instructions:
+    - text: Shake with ice, then strain into a chilled collins glass filled with ice
+      author:
+      datetime: '2020-05-09T03:24:56.141020'
+    - text: Top with 1.5 oz Q Tonic
+      author:
+      datetime: '2020-05-09T03:24:56.141022'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

@@ -1,0 +1,61 @@
+- slug: wedding-bell
+  display_name: Wedding Bell
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2011
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: paul-beau-v-s-o-p-cognac
+      display_name: Paul Beau V S O P Cognac
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: cocchi-americano
+      display_name: Cocchi Americano
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: bonne-maman-raspberry-preserves
+      display_name: Bonne Maman Raspberry Preserves
+      quantity: 1
+      unit: barspoon
+      notes: []
+    - slug: huilerie-beaujolaise-vinaigre-de-mangue
+      display_name: Huilerie Beaujolaise Vinaigre De Mangue
+      quantity: 1
+      unit: barspoon
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jeff Bell, Summer 2011
+      author:
+      datetime: '2020-05-09T03:24:56.165540'
+    - text: The mango tree and raspberry are symbols of love. Being a lover himself,
+        Jeff tied them all into a knot with cognac and Cocchi Americano aperitif wine.
+      author:
+      datetime: '2020-05-09T03:24:56.165544'
+    instructions:
+    - text: Shake with ice, then fine-strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.165548'
+    - text: Top with .5 oz club soda
+      author:
+      datetime: '2020-05-09T03:24:56.165551'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

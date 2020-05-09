@@ -1,0 +1,56 @@
+- slug: night-owl
+  display_name: Night Owl
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2011
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: kiuchi-yuzu-wine
+      display_name: Kiuchi Yuzu Wine
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: averell-damson-gin
+      display_name: Averell Damson Gin
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: kiuchi-no-shizuku
+      display_name: Kiuchi No Shizuku
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: yamazaki-12-year-old
+      display_name: Yamazaki 12 Year Old
+      quantity: 0.5
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jim Meehan, Summer 2011
+      author:
+      datetime: '2020-05-09T03:24:56.196840'
+    - text: 'Jim stirred up two products from Kiuchi Brewery in Japan: a wine fermented
+        from fresh yuzu juice and a distillate of their owl-adorned white ale.'
+      author:
+      datetime: '2020-05-09T03:24:56.196845'
+    instructions:
+    - text: Stir with ice, then strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.196849'
+    - text: (No garnish)
+      author:
+      datetime: '2020-05-09T03:24:56.196852'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

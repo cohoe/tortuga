@@ -1,0 +1,62 @@
+- slug: persephone
+  display_name: Persephone
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2008
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: lairds-applejack
+      display_name: Lairds Applejack
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: dolin-rouge-vermouth
+      display_name: Dolin Rouge Vermouth
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: plymouth-sloe-gin
+      display_name: Plymouth Sloe Gin
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: simple-syrup
+      display_name: Simple Syrup
+      quantity: 0.5
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: David Slape, Winter 2008
+      author:
+      datetime: '2020-05-09T03:24:56.163093'
+    - text: According to Greek mythology, the seasons were a result of Persephone’s
+        abduction by Hades; nature suffered while her mother Demeter searched for
+        her.
+      author:
+      datetime: '2020-05-09T03:24:56.163097'
+    instructions:
+    - text: Stir with ice, then strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.163101'
+    - text: (No garnish)
+      author:
+      datetime: '2020-05-09T03:24:56.163104'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

@@ -1,0 +1,57 @@
+- slug: quinetet
+  display_name: Quinetet
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2014
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: hendricks-gin
+      display_name: Hendricks Gin
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: quinetum-cordial
+      display_name: Quinetum Cordial
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: celery-juice
+      display_name: Celery Juice
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 0.25
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jeff Bell, Spring 2014
+      author:
+      datetime: '2020-05-09T03:24:56.208104'
+    - text: Jeff Bell formulated this savory quintet of ingredients featuring Hendrick’s
+        new Quinetum cordial; a product modeled after a 19th century medicinal tonic.
+      author:
+      datetime: '2020-05-09T03:24:56.208108'
+    instructions:
+    - text: Shake with ice, then strain into a chilled collins glass filled with an
+        ice spear
+      author:
+      datetime: '2020-05-09T03:24:56.208112'
+    - text: Top with 1 oz Dry Cucumber Soda
+      author:
+      datetime: '2020-05-09T03:24:56.208115'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

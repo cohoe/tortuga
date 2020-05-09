@@ -1,0 +1,49 @@
+- slug: white-thorn
+  display_name: White Thorn
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2011
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: redbreast-12-year-old-irish-whiskey
+      display_name: Redbreast 12 Year Old Irish Whiskey
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: averell-damson-gin
+      display_name: Averell Damson Gin
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: dolin-blanc-vermouth
+      display_name: Dolin Blanc Vermouth
+      quantity: 0.5
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Anne Robinson, Fall 2011
+      author:
+      datetime: '2020-05-09T03:24:56.236437'
+    - text: Anne’s variation on the classic Blackthorn cocktail swaps red vermouth
+        for white and accents the dark, fruity notes in the pure pot still whiskey
+        with Averell damson plum gin.
+      author:
+      datetime: '2020-05-09T03:24:56.236442'
+    instructions:
+    - text: Stir with ice, then strain into a Suze Saveur D’Autrefois-rinsed coupe
+      author:
+      datetime: '2020-05-09T03:24:56.236446'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

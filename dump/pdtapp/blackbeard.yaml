@@ -1,0 +1,65 @@
+- slug: blackbeard
+  display_name: Blackbeard
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2008
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: beefeater-gin
+      display_name: Beefeater Gin
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: krogstad-aquavit
+      display_name: Krogstad Aquavit
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: pineapple-juice
+      display_name: Pineapple Juice
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: agave-syrup
+      display_name: Agave Syrup
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: 4-blackberries
+      display_name: 4 Blackberries
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Daniel Eun, Summer 2008
+      author:
+      datetime: '2020-05-09T03:24:56.232598'
+    - text: Daniel ended up with more blackberries on his chin than in his mouth during
+        recipe testing, so we called his drink the Blackbeard.
+      author:
+      datetime: '2020-05-09T03:24:56.232602'
+    instructions:
+    - text: Muddle the berries and syrup in a mixing tin, then add remaining ingredients
+      author:
+      datetime: '2020-05-09T03:24:56.232607'
+    - text: Dry-shake and pour unstrained into a chilled rocks glass filled with pebble
+        ice
+      author:
+      datetime: '2020-05-09T03:24:56.232609'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

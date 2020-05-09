@@ -1,0 +1,64 @@
+- slug: cabeza-y-cervesa
+  display_name: Cabeza y Cervesa
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2013
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: cabeza-tequila
+      display_name: Cabeza Tequila
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: pok-pok-som-tamarind-drinking-vinegar
+      display_name: Pok Pok Som Tamarind Drinking Vinegar
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: lea-perrins-worcestershire-sauce
+      display_name: Lea Perrins Worcestershire Sauce
+      quantity: 1
+      unit: drop
+      notes: []
+    - slug: bittermens-hellfire-habanero-shrub
+      display_name: Bittermens Hellfire Habanero Shrub
+      quantity: 10
+      unit: drops
+      notes: []
+    - slug: victory-prima-pils
+      display_name: Victory Prima Pils
+      quantity: 5
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jeff Bell & Jim Meehan, Spring 2013
+      author:
+      datetime: '2020-05-09T03:24:56.164393'
+    - text: 'This is an ode to two pairs: tequila & beer and our colleagues Simon
+        Ford & Dushan Zaric, who helped create Cabeza Tequila.'
+      author:
+      datetime: '2020-05-09T03:24:56.164397'
+    instructions:
+    - text: Stir with ice and strain into a chilled pilsner glass filled with ice
+        cubes.
+      author:
+      datetime: '2020-05-09T03:24:56.164401'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

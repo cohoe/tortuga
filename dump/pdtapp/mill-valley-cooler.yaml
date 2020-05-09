@@ -1,0 +1,36 @@
+- slug: mill-valley-cooler
+  display_name: Mill Valley Cooler
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2012
+    glassware: []
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: pinch-an-orange-peel-over-the-surface-and-discard
+      display_name: Pinch An Orange Peel Over The Surface And Discard
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: John deBary, Summer 2012
+      author:
+      datetime: '2020-05-09T03:24:56.227050'
+    - text: John deBary created this cinnamon accented sour for Anya Dubin, who grew
+        up in Mill Valley north of San Francisco.
+      author:
+      datetime: '2020-05-09T03:24:56.227054'
+    instructions:
+    - text: (No garnish)
+      author:
+      datetime: '2020-05-09T03:24:56.227058'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

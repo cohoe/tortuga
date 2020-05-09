@@ -1,0 +1,49 @@
+- slug: proverbial-apple
+  display_name: Proverbial Apple
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2011
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: indigenous-fresh-pressed-apple-vodka
+      display_name: Indigenous Fresh Pressed Apple Vodka
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: orleans-apple-aperitif
+      display_name: Orleans Apple Aperitif
+      quantity: 1.25
+      unit: oz
+      notes: []
+    - slug: berkshire-mountain-distillers-ethereal-gin
+      display_name: Berkshire Mountain Distillers Ethereal Gin
+      quantity: 0.5
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jim Meehan, Fall 2011
+      author:
+      datetime: '2020-05-09T03:24:56.217566'
+    - text: They say the apple doesn’t fall far from the tree; nor do the ingredients
+        in this autumnal Vesper variation prepared with vodka distilled from Hudson
+        Valley apples and a Vermont-based fortified cider infused with local herbs.
+      author:
+      datetime: '2020-05-09T03:24:56.217570'
+    instructions:
+    - text: Stir with ice, then strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.217577'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

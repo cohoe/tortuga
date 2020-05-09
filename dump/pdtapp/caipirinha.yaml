@@ -1,0 +1,52 @@
+- slug: caipirinha
+  display_name: Caipirinha
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 1989
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: novo-fogo-cachaca-organica-silver
+      display_name: Novo Fogo Cachaca Organica Silver
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: 1-2-lime-quartered
+      display_name: 1 2 Lime Quartered
+      notes: []
+    - slug: demerara-sugar-or-2-cubes
+      display_name: Demerara Sugar Or 2 Cubes
+      quantity: 2
+      unit: barspoons
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Charles Schumann, Tropical Bar Book, 1989
+      author:
+      datetime: '2020-05-09T03:24:56.240653'
+    - text: According to cocktail historians Jared Brown and Anistatia Miller, caipirinha
+        is the Brazilian term for “country bumpkin.”
+      author:
+      datetime: '2020-05-09T03:24:56.240658'
+    instructions:
+    - text: Muddle the lime and sugar, then add the cachaça
+      author:
+      datetime: '2020-05-09T03:24:56.240662'
+    - text: Shake with ice and pour unstrained into a chilled rocks glass
+      author:
+      datetime: '2020-05-09T03:24:56.240664'
+    - text: (No garnish)
+      author:
+      datetime: '2020-05-09T03:24:56.240666'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

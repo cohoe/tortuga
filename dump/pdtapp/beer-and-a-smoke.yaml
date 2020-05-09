@@ -1,0 +1,57 @@
+- slug: beer-and-a-smoke
+  display_name: Beer and a Smoke
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2009
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: sombra-mezcal
+      display_name: Sombra Mezcal
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: the-bitter-truth-celery-bitters
+      display_name: The Bitter Truth Celery Bitters
+      quantity: 1
+      unit: dash
+      notes: []
+    - slug: cholula-hot-sauce
+      display_name: Cholula Hot Sauce
+      quantity: 4
+      unit: dashes
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jim Meehan, Spring 2009
+      author:
+      datetime: '2020-05-09T03:24:56.234661'
+    - text: Six years after the smoking ban was enacted in New York City, Jim found
+        a way to reunite his beer with a smoke, albeit not the incendiary type.
+      author:
+      datetime: '2020-05-09T03:24:56.234665'
+    instructions:
+    - text: Stir with ice, then strain into a chilled pilsner glass rimmed with Beer
+        and a Smoke rimming mix
+      author:
+      datetime: '2020-05-09T03:24:56.234669'
+    - text: Top with 6 oz Victory Pilsner
+      author:
+      datetime: '2020-05-09T03:24:56.234672'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

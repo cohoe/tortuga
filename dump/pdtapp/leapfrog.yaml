@@ -1,0 +1,70 @@
+- slug: leapfrog
+  display_name: Leapfrog
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2007
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: plymouth-gin
+      display_name: Plymouth Gin
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: rothman-winter-orchard-apricot-liqueur
+      display_name: Rothman Winter Orchard Apricot Liqueur
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: simple-syrup
+      display_name: Simple Syrup
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: house-orange-bitters
+      display_name: House Orange Bitters
+      quantity: 2
+      unit: dashes
+      notes: []
+    - slug: leaves
+      display_name: Leaves
+      quantity: 6
+      unit: mint
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jim Meehan, Summer 2007
+      author:
+      datetime: '2020-05-09T03:24:56.222492'
+    - text: Jim built upon the foundation of Tom Bullock’s Leaping Frog cocktail from
+        The Ideal Bartender, adding gin, mint, and bitters to the mix.
+      author:
+      datetime: '2020-05-09T03:24:56.222497'
+    instructions:
+    - text: Muddle the mint leaves with the simple syrup, then add the rest of the
+        ingredients
+      author:
+      datetime: '2020-05-09T03:24:56.222501'
+    - text: Shake with ice and fine-strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.222503'
+    - text: (No garnish)
+      author:
+      datetime: '2020-05-09T03:24:56.222505'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

@@ -1,0 +1,65 @@
+- slug: lions-den
+  display_name: Lion’s Den
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2013
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: siete-leguas-reposado-tequila
+      display_name: Siete Leguas Reposado Tequila
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: yellow-chartreuse
+      display_name: Yellow Chartreuse
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: agave-syrup
+      display_name: Agave Syrup
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: pepper
+      display_name: Pepper
+      quantity: 1
+      unit: Shishito
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jeff Bell, Winter 2013
+      author:
+      datetime: '2020-05-09T03:24:56.202209'
+    - text: Jeff accented the spicy quality of the tequila though the addition of
+        shishito pepper, whose Japanese name originates from the pepper’s resemblance
+        to a lion's head. Note that PDT doesn’t muddle the pepperthey just shake it
+        up with Kold Draft ice cubes. Depending on your shaking technique, you may
+        wish to give it a little muddle, beforehand.
+      author:
+      datetime: '2020-05-09T03:24:56.202213'
+    instructions:
+    - text: Shake with ice and fine-strain into a chilled coupe rimmed with rimming
+        mix N.7
+      author:
+      datetime: '2020-05-09T03:24:56.202217'
+    - text: (No garnish)
+      author:
+      datetime: '2020-05-09T03:24:56.202219'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

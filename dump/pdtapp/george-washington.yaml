@@ -1,0 +1,54 @@
+- slug: george-washington
+  display_name: George Washington
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2013
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: lairds-applejack
+      display_name: Lairds Applejack
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: rittenhouse-bonded-rye-whiskey
+      display_name: Rittenhouse Bonded Rye Whiskey
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: cocchi-vermouth-di-torino
+      display_name: Cocchi Vermouth Di Torino
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: cazottes-wild-cherry-sweet-wine
+      display_name: Cazottes Wild Cherry Sweet Wine
+      quantity: 0.75
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jim Meehan, Summer 2013
+      author:
+      datetime: '2020-05-09T03:24:56.180976'
+    - text: We like to think that the applejack-drinking, rye-whiskey-distilling,
+        cherry-tree-cutting-down statesman would have appreciated this cocktail.
+      author:
+      datetime: '2020-05-09T03:24:56.180980'
+    instructions:
+    - text: Stir with ice, then strain over one large ice cube in a chilled, The Bitter
+        Truth Pimento Dram–rinsed rocks glass
+      author:
+      datetime: '2020-05-09T03:24:56.180985'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

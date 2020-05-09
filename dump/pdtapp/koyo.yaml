@@ -1,0 +1,53 @@
+- slug: koyo
+  display_name: Koyo
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2008
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: miyaksaka-masumi-okuden-kanzukuri
+      display_name: Miyaksaka Masumi Okuden Kanzukuri
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: dubonnet-rouge
+      display_name: Dubonnet Rouge
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: cynar
+      display_name: Cynar
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: yellow-chartreuse
+      display_name: Yellow Chartreuse
+      quantity: 0.25
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Daniel Eun, Fall 2008
+      author:
+      datetime: '2020-05-09T03:24:56.180222'
+    - text: Koyo, Japanese for “colorful leaves,” refers to the time during the fall
+        when the leaves turn red, orange, yellow, and brown.
+      author:
+      datetime: '2020-05-09T03:24:56.180227'
+    instructions:
+    - text: Stir with ice, then strain into a chilled, St. Germain-rinsed coupe
+      author:
+      datetime: '2020-05-09T03:24:56.180231'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

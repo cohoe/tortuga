@@ -1,0 +1,57 @@
+- slug: tao-of-pooh
+  display_name: Tao of Pooh
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2010
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: coconut-water
+      display_name: Coconut Water
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: 42-below-manuka-honey-vodka
+      display_name: 42 Below Manuka Honey Vodka
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: galliano-lautentico
+      display_name: Galliano Lautentico
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: the-bitter-truth-lemon-bitters
+      display_name: The Bitter Truth Lemon Bitters
+      quantity: 2
+      unit: dashes
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jim Meehan, Spring 2010
+      author:
+      datetime: '2020-05-09T03:24:56.195569'
+    - text: Winnie the Pooh had a well-documented love affair with honey. The combination
+        of these ingredients is a meditation on how the flower begets a bee nest’s
+        sweet reward.
+      author:
+      datetime: '2020-05-09T03:24:56.195575'
+    instructions:
+    - text: Stir with ice, then strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.195580'
+    - text: (No garnish)
+      author:
+      datetime: '2020-05-09T03:24:56.195582'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

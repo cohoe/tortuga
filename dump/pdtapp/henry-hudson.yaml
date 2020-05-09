@@ -1,0 +1,60 @@
+- slug: henry-hudson
+  display_name: Henry Hudson
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2009
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: bols-genever
+      display_name: Bols Genever
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: channing-daughters-scuttlehole-chardonnay
+      display_name: Channing Daughters Scuttlehole Chardonnay
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: simple-syrup
+      display_name: Simple Syrup
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: van-oosten-batavia-arrack
+      display_name: Van Oosten Batavia Arrack
+      quantity: 0.25
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jim Meehan & Gerry Corcoran, Spring 2009
+      author:
+      datetime: '2020-05-09T03:24:56.154463'
+    - text: To commemorate the 400th anniversary of Henry Hudson’s landfall during
+        his exploration for Holland, we created this Dutch genever–based punchspiked
+        with Indonesian arrack to give you a taste of the world Hudson was seeking.
+      author:
+      datetime: '2020-05-09T03:24:56.154467'
+    instructions:
+    - text: Stir with ice, then strain over one large ice cube in a chilled rocks
+        glass
+      author:
+      datetime: '2020-05-09T03:24:56.154471'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

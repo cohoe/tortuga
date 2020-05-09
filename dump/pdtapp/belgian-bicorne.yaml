@@ -1,0 +1,64 @@
+- slug: belgian-bicorne
+  display_name: Belgian Bicorne
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2014
+    glassware: []
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: hot-water
+      display_name: Hot Water
+      quantity: 4
+      unit: oz
+      notes: []
+    - slug: bols-barrel-aged-genever
+      display_name: Bols Barrel Aged Genever
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: mandarine-napoleon
+      display_name: Mandarine Napoleon
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: demerara-syrup
+      display_name: Demerara Syrup
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: of-angostura-bitters
+      display_name: Of Angostura Bitters
+      quantity: 4
+      unit: Dashes
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jeff Bell, Winter 2014
+      author:
+      datetime: '2020-05-09T03:24:56.231243'
+    - text: Instead of using whisky in his toddy, Jeff split the base between Dutch
+        genever and Belgian mandarine liqueur, creating an elixir similar in composition
+        to Napoléon Bonaparte’s bicorne hat.
+      author:
+      datetime: '2020-05-09T03:24:56.231247'
+    instructions:
+    - text: Build in a pre-warmed toddy glass
+      author:
+      datetime: '2020-05-09T03:24:56.231251'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

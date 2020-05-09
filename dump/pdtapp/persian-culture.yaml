@@ -1,0 +1,73 @@
+- slug: persian-culture
+  display_name: Persian Culture
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2012
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: krogstad-aquavit
+      display_name: Krogstad Aquavit
+      quantity: 1.75
+      unit: oz
+      notes: []
+    - slug: persian-yogurt
+      display_name: Persian Yogurt
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: honey-syrup
+      display_name: Honey Syrup
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: sprigs
+      display_name: Sprigs
+      quantity: 2
+      unit: dill
+      notes: []
+    - slug: leaves
+      display_name: Leaves
+      quantity: 8
+      unit: mint
+      notes: []
+    - slug: slices
+      display_name: Slices
+      quantity: 3
+      unit: cucumber
+      notes: []
+    - slug: 1-8-tsp-0-4-g-kosher-salt
+      display_name: 1 8 Tsp 0 4 G Kosher Salt
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Payman Bahmani, Summer 2012
+      author:
+      datetime: '2020-05-09T03:24:56.193274'
+    - text: Payman spiked this doogh, a traditional Persian yogurt drink, with savory
+        aquavit to enhance the herbal components and added a pinch of salt to bring
+        all the flavors into focus.
+      author:
+      datetime: '2020-05-09T03:24:56.193278'
+    instructions:
+    - text: Muddle the herbs and syrup, then add remaining ingredients
+      author:
+      datetime: '2020-05-09T03:24:56.193282'
+    - text: Shake with ice and fine-strain into a chilled egg coupe
+      author:
+      datetime: '2020-05-09T03:24:56.193284'
+    - text: Top with 1 oz club soda
+      author:
+      datetime: '2020-05-09T03:24:56.193287'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

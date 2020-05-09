@@ -1,0 +1,61 @@
+- slug: pils-al-pastor
+  display_name: Pils al Pastor
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2014
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: cabeza-tequila
+      display_name: Cabeza Tequila
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: pok-pok-pineapple-som-drinking-vinegar
+      display_name: Pok Pok Pineapple Som Drinking Vinegar
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: ancho-reyes-chile-liqueur
+      display_name: Ancho Reyes Chile Liqueur
+      quantity: 0.75
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jeff Bell, Fall 2014
+      author:
+      datetime: '2020-05-09T03:24:56.201948'
+    - text: Pineapple and chili pair well in Tacos al Pastor, so Jeff incorporated
+        them in this modern michelada rimmed with Lior Sercarz’s harissa-inspired
+        spice blend.
+      author:
+      datetime: '2020-05-09T03:24:56.201952'
+    instructions:
+    - text: Shake with ice, then strain into a chilled pilsner glass rimmed with rimming
+        mix N.37 and filled with ice cubes
+      author:
+      datetime: '2020-05-09T03:24:56.201956'
+    - text: Top with 3 oz Victory Prima Pilsner
+      author:
+      datetime: '2020-05-09T03:24:56.201959'
+    - text: (No garnish)
+      author:
+      datetime: '2020-05-09T03:24:56.201961'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

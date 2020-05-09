@@ -1,0 +1,48 @@
+- slug: brewers-breakfast
+  display_name: Brewer’s Breakfast
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2010
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: miyaksaka-masumi-arabashiri
+      display_name: Miyaksaka Masumi Arabashiri
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: glen-thunder-corn-whiskey
+      display_name: Glen Thunder Corn Whiskey
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: galliano-lautentico
+      display_name: Galliano Lautentico
+      quantity: 0.25
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jim Meehan, Spring 2010
+      author:
+      datetime: '2020-05-09T03:24:56.163849'
+    - text: The grainy white whiskey and creamy sake sweetened with Galliano reminded
+        Jim of a brewer’s morning dram, so he added a few Honey Nut Cheerios.
+      author:
+      datetime: '2020-05-09T03:24:56.163853'
+    instructions:
+    - text: Stir with ice, then strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.163857'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

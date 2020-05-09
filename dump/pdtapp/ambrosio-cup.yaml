@@ -1,0 +1,75 @@
+- slug: ambrosio-cup
+  display_name: Ambrosio Cup
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2011
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: leblon-cachaca
+      display_name: Leblon Cachaca
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: zubrowka-vodka
+      display_name: Zubrowka Vodka
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: lustau-manzanilla-papirusa
+      display_name: Lustau Manzanilla Papirusa
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: simple-syrup
+      display_name: Simple Syrup
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: sprigs
+      display_name: Sprigs
+      quantity: 2
+      unit: mint
+      notes: []
+    - slug: of-bison-grass
+      display_name: Of Bison Grass
+      quantity: 1
+      unit: sprig
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Anne Robinson, Spring 2011
+      author:
+      datetime: '2020-05-09T03:24:56.167824'
+    - text: 'Anne named this busty combination of Brazillian cachaça and Polish bison
+        grass vodka after supermodel Alessandra Ambrosio: a Brazilian born model of
+        Polish descent.'
+      author:
+      datetime: '2020-05-09T03:24:56.167829'
+    instructions:
+    - text: Muddle the mint, bison grass, and syrup, then add remaining ingredients
+      author:
+      datetime: '2020-05-09T03:24:56.167833'
+    - text: Shake with ice, then fine-strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.167835'
+    - text: Top with 1 oz club soda
+      author:
+      datetime: '2020-05-09T03:24:56.167841'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

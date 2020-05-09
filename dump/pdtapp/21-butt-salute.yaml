@@ -1,0 +1,53 @@
+- slug: 21-butt-salute
+  display_name: 21 Butt Salute
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2011
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: gordon-macphail-orkney-highland-park-8-year-old
+      display_name: Gordon Macphail Orkney Highland Park 8 Year Old
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: lustau-almacenista-amontillado
+      display_name: Lustau Almacenista Amontillado
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: belle-de-brillet
+      display_name: Belle De Brillet
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: of-house-orange-bitters
+      display_name: Of House Orange Bitters
+      quantity: 2
+      unit: dashes
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jeff Bell, Fall 2011
+      author:
+      datetime: '2020-05-09T03:24:56.138085'
+    - text: Jeff’s Rob Roy variation features a highly limited Almacenista sherry
+        from a 21-barrel (“butt”) solera, bottled by Manuel Cuevas Jurado.
+      author:
+      datetime: '2020-05-09T03:24:56.138090'
+    instructions:
+    - text: Stir with ice, then strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.138094'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

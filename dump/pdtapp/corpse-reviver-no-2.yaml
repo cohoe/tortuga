@@ -1,0 +1,58 @@
+- slug: corpse-reviver-no-2
+  display_name: Corpse Reviver No. 2
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 1930
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: plymouth-gin
+      display_name: Plymouth Gin
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: cointreau
+      display_name: Cointreau
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: lillet-blanc
+      display_name: Lillet Blanc
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.75
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Harry Craddock, The Savoy Cocktail Book, 1930
+      author:
+      datetime: '2020-05-09T03:24:56.225570'
+    - text: 'There were two Corpse Revivers listed in The Savoy Cocktail Book. This
+        one came with a warning: “Four of these taken in swift succession will unrevive
+        the corpse again.”'
+      author:
+      datetime: '2020-05-09T03:24:56.225574'
+    instructions:
+    - text: Shake with ice, then strain into a chilled Vieux Pontarlier Absinthe-rinsed
+        coupe
+      author:
+      datetime: '2020-05-09T03:24:56.225578'
+    - text: (No garnish)
+      author:
+      datetime: '2020-05-09T03:24:56.225580'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

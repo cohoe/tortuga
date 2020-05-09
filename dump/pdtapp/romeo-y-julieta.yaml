@@ -1,0 +1,52 @@
+- slug: romeo-y-julieta
+  display_name: Romeo y Julieta
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2009
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: ron-zacapa-centenario-23-rum
+      display_name: Ron Zacapa Centenario 23 Rum
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: carpano-antica-formula-vermouth
+      display_name: Carpano Antica Formula Vermouth
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: campari
+      display_name: Campari
+      quantity: 0.5
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: David Slape, Winter 2009
+      author:
+      datetime: '2020-05-09T03:24:56.206500'
+    - text: David named this rich rum-based Negroni, rolled with blond tobacco essence,
+        after his favorite brand of Cuban cigar.
+      author:
+      datetime: '2020-05-09T03:24:56.206504'
+    instructions:
+    - text: Stir with ice, then strain into a chilled coupe rinsed with 4 spritzes
+        Aftel tobacco essence
+      author:
+      datetime: '2020-05-09T03:24:56.206508'
+    - text: (No garnish)
+      author:
+      datetime: '2020-05-09T03:24:56.206517'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

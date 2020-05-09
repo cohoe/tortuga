@@ -1,0 +1,60 @@
+- slug: sloe-gin-fizz
+  display_name: Sloe Gin Fizz
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 1910
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: plymouth-sloe-gin
+      display_name: Plymouth Sloe Gin
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: plymouth-gin
+      display_name: Plymouth Gin
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: simple-syrup
+      display_name: Simple Syrup
+      quantity: 0.25
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jack Grohusko, Jack’s Manual, 1910
+      author:
+      datetime: '2020-05-09T03:24:56.165069'
+    - text: Plymouth sloe gin is prepared by macerating berries gathered from blackthorn
+        bushes in high-proof gin for months, sweetening the mixture to taste, and
+        diluting it to 26% ABV before bottling.
+      author:
+      datetime: '2020-05-09T03:24:56.165073'
+    instructions:
+    - text: Shake with ice, then strain into a chilled fizz glass
+      author:
+      datetime: '2020-05-09T03:24:56.165077'
+    - text: Top with 3 oz club soda
+      author:
+      datetime: '2020-05-09T03:24:56.165079'
+    - text: (No garnish)
+      author:
+      datetime: '2020-05-09T03:24:56.165081'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

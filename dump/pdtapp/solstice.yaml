@@ -1,0 +1,61 @@
+- slug: solstice
+  display_name: Solstice
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2007
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: rittenhouse-bonded-rye-whiskey
+      display_name: Rittenhouse Bonded Rye Whiskey
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: lairds-bonded-apple-brandy
+      display_name: Lairds Bonded Apple Brandy
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: amaro-nonino
+      display_name: Amaro Nonino
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: dubonnet-rouge
+      display_name: Dubonnet Rouge
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: jack-rudy-grenadine
+      display_name: Jack Rudy Grenadine
+      quantity: 0.25
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: John Deragon, Summer 2007
+      author:
+      datetime: '2020-05-09T03:24:56.204935'
+    - text: Solstice, Latin for “stationary sun,” refers to both the longest and shortest
+        days of the year. John prefers his on the darkest.
+      author:
+      datetime: '2020-05-09T03:24:56.204940'
+    instructions:
+    - text: Stir with ice, then strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.204944'
+    - text: (No garnish)
+      author:
+      datetime: '2020-05-09T03:24:56.204947'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

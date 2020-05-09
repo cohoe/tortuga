@@ -1,0 +1,49 @@
+- slug: bentons-old-fashioned
+  display_name: Benton’s Old-Fashioned
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2007
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: bacon-fat-infused-bourbon
+      display_name: Bacon Fat Infused Bourbon
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: deep-mountain-grade-b-maple-syrup
+      display_name: Deep Mountain Grade B Maple Syrup
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: angostura-bitters
+      display_name: Angostura Bitters
+      quantity: 2
+      unit: dashes
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Don Lee, Winter 2007
+      author:
+      datetime: '2020-05-09T03:24:56.179734'
+    - text: 'The crossroad of haute barnyard and barroom: Don combined the countries
+        best bacon (Benton’s) with one Kentucky’s finest bourbons (Four Roses).'
+      author:
+      datetime: '2020-05-09T03:24:56.179739'
+    instructions:
+    - text: Stir with ice, then strain into a chilled rocks glass filled with one
+        large ice cube
+      author:
+      datetime: '2020-05-09T03:24:56.179744'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

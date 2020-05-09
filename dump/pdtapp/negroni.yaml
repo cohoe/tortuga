@@ -1,0 +1,48 @@
+- slug: negroni
+  display_name: Negroni
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 1943
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: beefeater-gin
+      display_name: Beefeater Gin
+      quantity: 1.25
+      unit: oz
+      notes: []
+    - slug: campari
+      display_name: Campari
+      quantity: 1.25
+      unit: oz
+      notes: []
+    - slug: martini-rosso-vermouth
+      display_name: Martini Rosso Vermouth
+      quantity: 1.25
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: J. S. Brucart, Cien Cocktails, 1943
+      author:
+      datetime: '2020-05-09T03:24:56.150949'
+    - text: The combination of gin, sweet vermouth, and Campari was called the Camparinette
+        and the Campari Cardinal years before becoming universally known as the Negroni.
+      author:
+      datetime: '2020-05-09T03:24:56.150953'
+    instructions:
+    - text: Stir with ice and strain over a large ice cube in a rocks glass
+      author:
+      datetime: '2020-05-09T03:24:56.150957'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

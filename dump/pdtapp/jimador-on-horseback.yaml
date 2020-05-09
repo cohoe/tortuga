@@ -1,0 +1,58 @@
+- slug: jimador-on-horseback
+  display_name: Jimador On Horseback
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2012
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: sombra-mezcal
+      display_name: Sombra Mezcal
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: sandeman-medium-dry-amontillado
+      display_name: Sandeman Medium Dry Amontillado
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: benedictine
+      display_name: Benedictine
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: st-dalfour-royal-fig-jam
+      display_name: St Dalfour Royal Fig Jam
+      quantity: 1
+      unit: barspoon
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jim Meehan, Fall 2012
+      author:
+      datetime: '2020-05-09T03:24:56.242620'
+    - text: 'Devils on Horseback in liquid form: the earthy, smoky mezcal envelops
+        the fig notes of the jam and sherry like a strip of bacon.'
+      author:
+      datetime: '2020-05-09T03:24:56.242625'
+    instructions:
+    - text: Shake with ice and fine-strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.242629'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

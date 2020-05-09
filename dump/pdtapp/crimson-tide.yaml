@@ -1,0 +1,56 @@
+- slug: crimson-tide
+  display_name: Crimson Tide
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2009
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: lemon-hart-151-proof-demerara-rum
+      display_name: Lemon Hart 151 Proof Demerara Rum
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: spiced-sorrel
+      display_name: Spiced Sorrel
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: domaine-de-canton-ginger-liqueur
+      display_name: Domaine De Canton Ginger Liqueur
+      quantity: 0.5
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Kevin Diedrich, Winter 2009
+      author:
+      datetime: '2020-05-09T03:24:56.209746'
+    - text: A Trinidadian friend of Kevin’s introduced him to spiced sorrel, a sweetened,
+        ginger- and clove-spiced hibiscus tea blend tailor-made for rum drinks.
+      author:
+      datetime: '2020-05-09T03:24:56.209750'
+    instructions:
+    - text: Shake with ice, then strain into a chilled collins glass filled with ice
+      author:
+      datetime: '2020-05-09T03:24:56.209754'
+    - text: Top with .75 oz club soda
+      author:
+      datetime: '2020-05-09T03:24:56.209757'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

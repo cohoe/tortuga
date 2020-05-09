@@ -1,0 +1,54 @@
+- slug: swollen-gland
+  display_name: Swollen Gland
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2009
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: berkshire-mountain-distillers-greylock-gin
+      display_name: Berkshire Mountain Distillers Greylock Gin
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: orange-juice
+      display_name: Orange Juice
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: yellow-chartreuse
+      display_name: Yellow Chartreuse
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: peychauds-bitters
+      display_name: Peychauds Bitters
+      quantity: 4
+      unit: dashes
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jim Meehan & Lydia Reissmueller, Fall 2009
+      author:
+      datetime: '2020-05-09T03:24:56.190466'
+    - text: A subtle twist on Harry McElhone’s Monkey Gland cocktail, published in
+        Harry’s ABC of Mixing Cocktails in 1922.
+      author:
+      datetime: '2020-05-09T03:24:56.190470'
+    instructions:
+    - text: Shake with ice and fine-strain into a chilled, Vieux Pontarlier Absinthe-rinsed
+        coupe
+      author:
+      datetime: '2020-05-09T03:24:56.190474'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

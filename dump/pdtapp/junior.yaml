@@ -1,0 +1,56 @@
+- slug: junior
+  display_name: Junior
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2002
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: rittenhouse-bonded-rye-whiskey
+      display_name: Rittenhouse Bonded Rye Whiskey
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: benedictine
+      display_name: Benedictine
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: angostura-bitters
+      display_name: Angostura Bitters
+      quantity: 1
+      unit: dash
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Dave Wondrich, Esquire Drinks, 2002
+      author:
+      datetime: '2020-05-09T03:24:56.180443'
+    - text: David Wondrich unearthed this sophisticated sour published by Broadway
+        press agent Murdock Pemberton in a 1937 issue of Esquire.
+      author:
+      datetime: '2020-05-09T03:24:56.180447'
+    instructions:
+    - text: Shake with ice, then strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.180452'
+    - text: (No garnish)
+      author:
+      datetime: '2020-05-09T03:24:56.180454'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

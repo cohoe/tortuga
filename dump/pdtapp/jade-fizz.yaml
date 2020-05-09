@@ -1,0 +1,73 @@
+- slug: jade-fizz
+  display_name: Jade Fizz
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2012
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: leblon-cachaca
+      display_name: Leblon Cachaca
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: yellow-chartreuse
+      display_name: Yellow Chartreuse
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: of-cucumber
+      display_name: Of Cucumber
+      quantity: 3
+      unit: slices
+      notes: []
+    - slug: 1-8-tsp-0-5-g-wako-grade-matcha-powder
+      display_name: 1 8 Tsp 0 5 G Wako Grade Matcha Powder
+      notes: []
+    - slug: white
+      display_name: White
+      quantity: 1
+      unit: egg
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Karen Fu, Spring 2012
+      author:
+      datetime: '2020-05-09T03:24:56.168143'
+    - text: Karen chose a “jade dew” grade of Japanese matcha tea, along with cucumbers
+        and Chartreuse, to compliment the vegetal qualities of earthy cachaça in this
+        airy sour.
+      author:
+      datetime: '2020-05-09T03:24:56.168148'
+    instructions:
+    - text: Muddle the cucumber and Chartreuse, then add remaining ingredients
+      author:
+      datetime: '2020-05-09T03:24:56.168152'
+    - text: Dry-shake, then shake with ice and fine-strain into a chilled egg coupe
+      author:
+      datetime: '2020-05-09T03:24:56.168155'
+    - text: (No garnish)
+      author:
+      datetime: '2020-05-09T03:24:56.168157'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

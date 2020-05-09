@@ -1,0 +1,62 @@
+- slug: harvest-sling
+  display_name: Harvest Sling
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2007
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: lairds-bonded-apple-brandy
+      display_name: Lairds Bonded Apple Brandy
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: martini-rosso-vermouth
+      display_name: Martini Rosso Vermouth
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: benedictine
+      display_name: Benedictine
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: cherry-heering
+      display_name: Cherry Heering
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: house-ginger-beer
+      display_name: House Ginger Beer
+      quantity: 0.5
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: John Deragon, Fall 2007
+      author:
+      datetime: '2020-05-09T03:24:56.221163'
+    - text: The Singapore Sling was John’s muse for this refreshing autumnal highball.
+      author:
+      datetime: '2020-05-09T03:24:56.221167'
+    instructions:
+    - text: Shake with ice, then strain into a chilled collins glass filled with ice
+      author:
+      datetime: '2020-05-09T03:24:56.221174'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

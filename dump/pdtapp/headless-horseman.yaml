@@ -1,0 +1,53 @@
+- slug: headless-horseman
+  display_name: Headless Horseman
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2012
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: osocalis-rare-alambic-brandy
+      display_name: Osocalis Rare Alambic Brandy
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: farmers-market-pumpkin-puree
+      display_name: Farmers Market Pumpkin Puree
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: kronan-swedish-punsch
+      display_name: Kronan Swedish Punsch
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: st-elizabeth-allspice-dram
+      display_name: St Elizabeth Allspice Dram
+      quantity: 0.25
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jeff Bell, Fall 2012
+      author:
+      datetime: '2020-05-09T03:24:56.202452'
+    - text: What better namesake for this pumpkin-based cocktail than a decapitated
+        horseman, parading around with a jack-o’-lantern in his hand?
+      author:
+      datetime: '2020-05-09T03:24:56.202457'
+    instructions:
+    - text: Shake with ice and fine-strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.202461'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

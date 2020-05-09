@@ -1,0 +1,36 @@
+- slug: white-dragon
+  display_name: White Dragon
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2014
+    glassware: []
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: pinch-an-orange-peel-over-the-surface-and-discard
+      display_name: Pinch An Orange Peel Over The Surface And Discard
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jim Meehan, Spring 2014
+      author:
+      datetime: '2020-05-09T03:24:56.181337'
+    - text: The classic White Lady cocktail served as inspiration for this twist on
+        the most famous tequila-based daisythe Margarita.
+      author:
+      datetime: '2020-05-09T03:24:56.181341'
+    instructions:
+    - text: (No garnish)
+      author:
+      datetime: '2020-05-09T03:24:56.181345'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

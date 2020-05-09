@@ -1,0 +1,40 @@
+- slug: queens-park-swizzle
+  display_name: Queens Park Swizzle
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 1947
+    glassware: []
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: peychauds-bitters
+      display_name: Peychauds Bitters
+      quantity: 2
+      unit: dashes
+      notes: []
+    - slug: angostura-bitters
+      display_name: Angostura Bitters
+      quantity: 2
+      unit: dashes
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jules Bergeron, Trader Vic’s Bartender’s Guide, 1947
+      author:
+      datetime: '2020-05-09T03:24:56.166704'
+    - text: Traditional swizzles are prepared with a barspoon-length of dried branch
+        from a tropical bush that has five pruned prongs on one end.
+      author:
+      datetime: '2020-05-09T03:24:56.166712'
+    instructions: []
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

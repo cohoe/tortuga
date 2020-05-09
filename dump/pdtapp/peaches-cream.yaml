@@ -1,0 +1,47 @@
+- slug: peaches-cream
+  display_name: Peaches & Cream
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2013
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: absolut-elyx
+      display_name: Absolut Elyx
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: 1-2-oz-lustau-deluxe-cream-capataz-andres
+      display_name: 1 2 Oz Lustau Deluxe Cream Capataz Andres
+      notes: []
+    - slug: 1-2-oz-lillet-blanc
+      display_name: 1 2 Oz Lillet Blanc
+      notes: []
+    - slug: 1-2-oz-peach-street-distillers-peach-brandy
+      display_name: 1 2 Oz Peach Street Distillers Peach Brandy
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jim Meehan, Spring 2013
+      author:
+      datetime: '2020-05-09T03:24:56.237181'
+    - text: This intoxicating elixir, named after the Beck song, takes the peaches
+        and cream a little more literally than the high-pitched crooner.
+      author:
+      datetime: '2020-05-09T03:24:56.237185'
+    instructions:
+    - text: Stir with ice, then strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.237190'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

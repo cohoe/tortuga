@@ -1,0 +1,53 @@
+- slug: smartie
+  display_name: Smartie
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2014
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: paul-beau-v-s-o-p-cognac
+      display_name: Paul Beau V S O P Cognac
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: kamoizumi-umeshu
+      display_name: Kamoizumi Umeshu
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: aperol
+      display_name: Aperol
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: grapefruit-juice
+      display_name: Grapefruit Juice
+      quantity: 1
+      unit: tsp
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jeff Bell, Spring 2014
+      author:
+      datetime: '2020-05-09T03:24:56.155665'
+    - text: Here’s a “smart” way to show off the beautiful plum notes in one of our
+        favorite sake producer’s umeshu (plum wine).
+      author:
+      datetime: '2020-05-09T03:24:56.155670'
+    instructions:
+    - text: Stir with ice, then strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.155678'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

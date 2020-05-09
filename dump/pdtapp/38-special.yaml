@@ -1,0 +1,67 @@
+- slug: 38-special
+  display_name: 38 Special
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2011
+    glassware: []
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: ommegang-witte
+      display_name: Ommegang Witte
+      quantity: 5
+      unit: oz
+      notes: []
+    - slug: partida-reposado-tequila
+      display_name: Partida Reposado Tequila
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: amaro-averna
+      display_name: Amaro Averna
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: grapefruit-juice
+      display_name: Grapefruit Juice
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: valentina-hot-sauce
+      display_name: Valentina Hot Sauce
+      quantity: 0.25
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jeff Bell, Spring 2011
+      author:
+      datetime: '2020-05-09T03:24:56.216091'
+    - text: This cocktail features La Boîte’s Shabazi N.38, a spice blend featuring
+        green chilies, parsley, and coriander.
+      author:
+      datetime: '2020-05-09T03:24:56.216095'
+    instructions:
+    - text: Build in an iced pilsner glass rimmed with kosher salt and La Boîte Shabazi
+        N.38 spice blend
+      author:
+      datetime: '2020-05-09T03:24:56.216100'
+    - text: (No garnish)
+      author:
+      datetime: '2020-05-09T03:24:56.216102'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

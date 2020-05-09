@@ -1,0 +1,54 @@
+- slug: clover-shrub
+  display_name: Clover Shrub
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2012
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: beefeater-24-gin
+      display_name: Beefeater 24 Gin
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: pok-pok-som-raspberry-drinking-vinegar
+      display_name: Pok Pok Som Raspberry Drinking Vinegar
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: white
+      display_name: White
+      quantity: 1
+      unit: egg
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jim Meehan, Summer 2012
+      author:
+      datetime: '2020-05-09T03:24:56.183718'
+    - text: Jim created this subtle twist on the Clover Club to serve at the annual
+        “Bartender’s Breakfast” hosted by Pernod Ricard’s English Gins at Tales of
+        the Cocktail in New Orleans.
+      author:
+      datetime: '2020-05-09T03:24:56.183722'
+    instructions:
+    - text: Dry-shake, then shake with ice and strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.183726'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

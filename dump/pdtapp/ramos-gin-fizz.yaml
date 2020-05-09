@@ -1,0 +1,74 @@
+- slug: ramos-gin-fizz
+  display_name: Ramos Gin Fizz
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 1895
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: beefeater-gin
+      display_name: Beefeater Gin
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: heavy-cream
+      display_name: Heavy Cream
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: simple-syrup
+      display_name: Simple Syrup
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: orange-flower-water
+      display_name: Orange Flower Water
+      quantity: 5
+      unit: drops
+      notes: []
+    - slug: white
+      display_name: White
+      quantity: 1
+      unit: egg
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: George Kappeler, Modern American Drinks, 1895
+      author:
+      datetime: '2020-05-09T03:24:56.232332'
+    - text: The New Orleans Fizz first served in Henry C. Ramos’s Imperial Cabinet
+        Saloon didn’t gain its eponym until the early 20th century.
+      author:
+      datetime: '2020-05-09T03:24:56.232336'
+    instructions:
+    - text: Dry-shake, shake with ice, and fine-strain into a chilled collins glass
+      author:
+      datetime: '2020-05-09T03:24:56.232341'
+    - text: Top with 1 oz club soda
+      author:
+      datetime: '2020-05-09T03:24:56.232343'
+    - text: (No garnish)
+      author:
+      datetime: '2020-05-09T03:24:56.232345'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

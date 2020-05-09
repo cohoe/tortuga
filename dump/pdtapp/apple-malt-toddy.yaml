@@ -1,0 +1,58 @@
+- slug: apple-malt-toddy
+  display_name: Apple Malt Toddy
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2009
+    glassware: []
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: red-jacket-orchards-apple-cider
+      display_name: Red Jacket Orchards Apple Cider
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: chivas-regal-12-year-old-blended-scotch-whisky
+      display_name: Chivas Regal 12 Year Old Blended Scotch Whisky
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: adrien-camut-aperitif-normand-pommeau
+      display_name: Adrien Camut Aperitif Normand Pommeau
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: st-elizabeth-allspice-dram
+      display_name: St Elizabeth Allspice Dram
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: deep-mountain-grade-b-maple-syrup
+      display_name: Deep Mountain Grade B Maple Syrup
+      quantity: 1
+      unit: barspoon
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jim Meehan, Fall 2009
+      author:
+      datetime: '2020-05-09T03:24:56.210779'
+    - text: 'Jim created this warmer for a Greenmarket event with produce from two
+        of PDT’s favorite local purveyors: Deep Mountain and Red Jacket Orchards.'
+      author:
+      datetime: '2020-05-09T03:24:56.210783'
+    instructions:
+    - text: Heat everything and serve in a preheated mug
+      author:
+      datetime: '2020-05-09T03:24:56.210787'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

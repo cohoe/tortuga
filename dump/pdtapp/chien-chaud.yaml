@@ -1,0 +1,54 @@
+- slug: chien-chaud
+  display_name: Chien Chaud
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2008
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: coconut-water
+      display_name: Coconut Water
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: rhum-jm-blanc-40o
+      display_name: Rhum Jm Blanc 40O
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: yellow-chartreuse
+      display_name: Yellow Chartreuse
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: angostura-bitters
+      display_name: Angostura Bitters
+      quantity: 2
+      unit: dashes
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: David Wondrich & Jim Meehan, Spring 2008
+      author:
+      datetime: '2020-05-09T03:24:56.214969'
+    - text: After driving past a hot dog stand in Martinique, David and Jim came up
+        with this drink, whose name is the literal translation of “hot dog” into French.
+      author:
+      datetime: '2020-05-09T03:24:56.214973'
+    instructions:
+    - text: Shake with ice, then strain into a chilled fizz glass filled with ice
+        cubes
+      author:
+      datetime: '2020-05-09T03:24:56.214978'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

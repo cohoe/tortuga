@@ -1,0 +1,65 @@
+- slug: pearacea
+  display_name: Pearacea
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2014
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: cutty-sark-prohibition-edition-blended-scotch-whisky
+      display_name: Cutty Sark Prohibition Edition Blended Scotch Whisky
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: house-ginger-beer
+      display_name: House Ginger Beer
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: honey-syrup
+      display_name: Honey Syrup
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: clear-creek-pear-brandy
+      display_name: Clear Creek Pear Brandy
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: angostura-bitters
+      display_name: Angostura Bitters
+      quantity: 1
+      unit: dash
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jim Meehan, Winter 2014
+      author:
+      datetime: '2020-05-09T03:24:56.226345'
+    - text: A juxtaposition of panacea, a cure-all named after the Greek goddess of
+        remedy, and pear; which distinguishes Jim’s elixir from Sam Ross’s better-known
+        Penicillin cocktail.
+      author:
+      datetime: '2020-05-09T03:24:56.226349'
+    instructions:
+    - text: Shake with ice, then strain into a chilled rocks glass filled with one
+        large ice cube
+      author:
+      datetime: '2020-05-09T03:24:56.226353'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

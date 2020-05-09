@@ -1,0 +1,58 @@
+- slug: flora-astoria
+  display_name: Flora Astoria
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2010
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: hendricks-gin
+      display_name: Hendricks Gin
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: dolin-blanc-vermouth
+      display_name: Dolin Blanc Vermouth
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: dolin-dry-vermouth
+      display_name: Dolin Dry Vermouth
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: john-d-taylors-velvet-falernum
+      display_name: John D Taylors Velvet Falernum
+      quantity: 1
+      unit: barspoon
+      notes: []
+    - slug: lavender-tincture
+      display_name: Lavender Tincture
+      quantity: 4
+      unit: dashes
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Lindsay Nader & Anne Robinson, Spring 2010
+      author:
+      datetime: '2020-05-09T03:24:56.241127'
+    - text: Lindsay and Anne collaborated on this flowery spin on the classic Astoria
+        cocktail, named after the annex added to the Waldorf hotel in 1897.
+      author:
+      datetime: '2020-05-09T03:24:56.241131'
+    instructions:
+    - text: Stir with ice, then strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.241136'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

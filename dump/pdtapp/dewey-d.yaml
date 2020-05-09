@@ -1,0 +1,54 @@
+- slug: dewey-d
+  display_name: Dewey D.
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2008
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: old-overholt-rye-whiskey
+      display_name: Old Overholt Rye Whiskey
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: lustau-east-india-sherry
+      display_name: Lustau East India Sherry
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: aperol
+      display_name: Aperol
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: angostura-bitters
+      display_name: Angostura Bitters
+      quantity: 2
+      unit: dashes
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Don Lee, Spring 2008
+      author:
+      datetime: '2020-05-09T03:24:56.171684'
+    - text: Don crafted this Manhattan variation for Chef Wylie Dufresne’s father
+        Dewey, who was an outspoken champion of sherry long before it became a staple
+        behind cocktail bars.
+      author:
+      datetime: '2020-05-09T03:24:56.171689'
+    instructions:
+    - text: Stir with ice, then strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.171693'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

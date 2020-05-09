@@ -1,0 +1,51 @@
+- slug: kin-kan
+  display_name: Kin Kan
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2008
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: beefeater-gin
+      display_name: Beefeater Gin
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: kumquat-syrup
+      display_name: Kumquat Syrup
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.75
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: John Deragon, Spring 2008
+      author:
+      datetime: '2020-05-09T03:24:56.200772'
+    - text: Kin kan is Japanese for kumquat, the small, aromatic citrus fruit that
+        is cultivated throughout Southeast Asia from autumn until winter.
+      author:
+      datetime: '2020-05-09T03:24:56.200776'
+    instructions:
+    - text: Shake with ice, then strain into a chilled, St. Germain-rinsed coupe
+      author:
+      datetime: '2020-05-09T03:24:56.200780'
+    - text: (No garnish)
+      author:
+      datetime: '2020-05-09T03:24:56.200782'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

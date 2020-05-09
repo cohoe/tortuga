@@ -1,0 +1,66 @@
+- slug: fish-house-punch
+  display_name: Fish House Punch
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 1862
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: smith-cross-rum
+      display_name: Smith Cross Rum
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: pierre-ferrand-ambre-cognac
+      display_name: Pierre Ferrand Ambre Cognac
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: simple-syrup
+      display_name: Simple Syrup
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: peach-street-distillers-peach-brandy
+      display_name: Peach Street Distillers Peach Brandy
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 0.25
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jerry Thomas, The Bar-Tenders’ Guide, 1862
+      author:
+      datetime: '2020-05-09T03:24:56.216653'
+    - text: The original recipe called for peach brandy, a peach eau de vie aged in
+        wood barrels that was absent from the market when we resurrected this recipe.
+        In the years since, Peach Street Distillers has released the first new bottling
+        of peach brandy in over a centuryand it’s a gem!
+      author:
+      datetime: '2020-05-09T03:24:56.216658'
+    instructions:
+    - text: Shake with ice, then strain into a chilled punch glass filled with ice
+        cubes
+      author:
+      datetime: '2020-05-09T03:24:56.216662'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

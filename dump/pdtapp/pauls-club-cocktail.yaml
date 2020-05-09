@@ -1,0 +1,54 @@
+- slug: pauls-club-cocktail
+  display_name: Paul’s Club Cocktail
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2007
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: tanqueray-london-dry-gin
+      display_name: Tanqueray London Dry Gin
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: concord-shrub
+      display_name: Concord Shrub
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: simple-syrup
+      display_name: Simple Syrup
+      quantity: 0.25
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jim Meehan & Don Lee, Fall 2007
+      author:
+      datetime: '2020-05-09T03:24:56.212150'
+    - text: Jim’s homage to Paul Ricard and Paul’s Club, the bar he used to manage
+        in Madison, Wisconsin.
+      author:
+      datetime: '2020-05-09T03:24:56.212157'
+    instructions:
+    - text: Stir with ice, then strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.212161'
+    - text: Float .25 oz of Ricard
+      author:
+      datetime: '2020-05-09T03:24:56.212164'
+    - text: (No garnish)
+      author:
+      datetime: '2020-05-09T03:24:56.212168'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

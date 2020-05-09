@@ -1,0 +1,67 @@
+- slug: butternut-bambino
+  display_name: Butternut Bambino
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2011
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: elijah-craig-12-year-old-bourbon
+      display_name: Elijah Craig 12 Year Old Bourbon
+      quantity: 1.75
+      unit: oz
+      notes: []
+    - slug: galliano-lautentico
+      display_name: Galliano Lautentico
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: heavy-cream
+      display_name: Heavy Cream
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: simple-syrup
+      display_name: Simple Syrup
+      quantity: 1
+      unit: Barspoon
+      notes: []
+    - slug: butternut-squash-puree-heaping
+      display_name: Butternut Squash Puree Heaping
+      quantity: 2
+      unit: barspoons
+      notes: []
+    - slug: white
+      display_name: White
+      quantity: 1
+      unit: egg
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: John deBary & Anne Robinson, Fall 2011
+      author:
+      datetime: '2020-05-09T03:24:56.227841'
+    - text: Anne and John conceived this savory, squash-enriched bourbon flip sweetened
+        with the then-new formula of Galliano. Consider it their babybetter yet, their
+        bambino.
+      author:
+      datetime: '2020-05-09T03:24:56.227846'
+    instructions:
+    - text: Combine in a shaker and shake without ice
+      author:
+      datetime: '2020-05-09T03:24:56.227850'
+    - text: Shake with ice and fine-strain into a chilled egg coupe
+      author:
+      datetime: '2020-05-09T03:24:56.227856'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

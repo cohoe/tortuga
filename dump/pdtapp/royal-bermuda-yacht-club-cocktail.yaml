@@ -1,0 +1,53 @@
+- slug: royal-bermuda-yacht-club-cocktail
+  display_name: Royal Bermuda Yacht Club Cocktail
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 1945
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: mount-gay-eclipse-amber-rum
+      display_name: Mount Gay Eclipse Amber Rum
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: cointreau
+      display_name: Cointreau
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: john-d-taylors-velvet-falernum
+      display_name: John D Taylors Velvet Falernum
+      quantity: 0.5
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Crosby Gaige, Cocktail Guide & Ladies’ Companion, 1945
+      author:
+      datetime: '2020-05-09T03:24:56.140797'
+    - text: Ted Haigh renewed interest in our Bajan rum–based Daiquiri variation in
+        his seminal modern cocktail guide, Vintage Spirits and Forgotten Cocktails.
+      author:
+      datetime: '2020-05-09T03:24:56.140801'
+    instructions:
+    - text: Shake with ice, then strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.140805'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

@@ -1,0 +1,57 @@
+- slug: 1-2-punch
+  display_name: 1-2 Punch
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2013
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: johnnie-walker-double-black-scotch-whisky
+      display_name: Johnnie Walker Double Black Scotch Whisky
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: grapefruit-juice
+      display_name: Grapefruit Juice
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: citrus-oleo-saccharum
+      display_name: Citrus Oleo Saccharum
+      quantity: 0.5
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jeff Bell, Summer 2013
+      author:
+      datetime: '2020-05-09T03:24:56.169955'
+    - text: The jab and cross are the classic combo in the boxing ring. In the barroom,
+        Scotch and beer reign supreme.
+      author:
+      datetime: '2020-05-09T03:24:56.169960'
+    instructions:
+    - text: Stir with ice, then strain into a chilled pilsner glass filled with ice
+        cubes
+      author:
+      datetime: '2020-05-09T03:24:56.169964'
+    - text: Top with 3 oz Victory Prima Pilsner
+      author:
+      datetime: '2020-05-09T03:24:56.169966'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

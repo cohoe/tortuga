@@ -1,0 +1,63 @@
+- slug: concord-companion
+  display_name: Concord Companion
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2010
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: beefeater-gin
+      display_name: Beefeater Gin
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: bonal-gentiane-quina
+      display_name: Bonal Gentiane Quina
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: simple-syrup
+      display_name: Simple Syrup
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: grapes
+      display_name: Grapes
+      quantity: 4
+      unit: concord
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jim Meehan, Fall 2010
+      author:
+      datetime: '2020-05-09T03:24:56.160695'
+    - text: Concord grapes and absinthe have an affinity we love to showcase during
+        the fall, right before we start serving the Cranberry Cobbler for the holiday
+        season.
+      author:
+      datetime: '2020-05-09T03:24:56.160699'
+    instructions:
+    - text: Muddle the grapes and syrup, then add the remaining ingredients
+      author:
+      datetime: '2020-05-09T03:24:56.160703'
+    - text: Shake with ice, then fine-strain into a chilled, St. George absinthe–rinsed
+        coupe
+      author:
+      datetime: '2020-05-09T03:24:56.160705'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

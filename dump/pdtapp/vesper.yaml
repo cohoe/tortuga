@@ -1,0 +1,49 @@
+- slug: vesper
+  display_name: Vesper
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 1953
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: plymouth-gin
+      display_name: Plymouth Gin
+      quantity: 2.25
+      unit: oz
+      notes: []
+    - slug: belvedere-vodka
+      display_name: Belvedere Vodka
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: lillet-blanc
+      display_name: Lillet Blanc
+      quantity: 0.5
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Ian Fleming, Casino Royale, 1953
+      author:
+      datetime: '2020-05-09T03:24:56.156094'
+    - text: This Martini hybrid, named after Bond’s love in Casino Royale, is largely
+        culpable for a generation of imbibers thinking spirituous drinks should be
+        shaken, not stirred.
+      author:
+      datetime: '2020-05-09T03:24:56.156098'
+    instructions:
+    - text: Stir with ice, then strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.156102'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

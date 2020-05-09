@@ -1,0 +1,64 @@
+- slug: rock-chai
+  display_name: Rock & Chai
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2012
+    glassware: []
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: fresh-brewed-chai-tea-infused-in-boiling-water
+      display_name: Fresh Brewed Chai Tea Infused In Boiling Water
+      quantity: 4.5
+      unit: oz
+      notes: []
+    - slug: hochstadters-rock-rye-6-year-old
+      display_name: Hochstadters Rock Rye 6 Year Old
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: pama-pomegranate-liqueur
+      display_name: Pama Pomegranate Liqueur
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: fernet-branca
+      display_name: Fernet Branca
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: petite-canne-sugar-cane-syrup
+      display_name: Petite Canne Sugar Cane Syrup
+      quantity: 1
+      unit: barspoon
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jim Meehan & Michael Klein, Winter 2012
+      author:
+      datetime: '2020-05-09T03:24:56.237492'
+    - text: Jim and Michael spiced up Rob Cooper’s Rock & Rye, a 19th century style
+        bottled Old Fashioned cocktail, with chai tea to warm the cockles of your
+        gullet.
+      author:
+      datetime: '2020-05-09T03:24:56.237497'
+    instructions:
+    - text: Build in a preheated mug
+      author:
+      datetime: '2020-05-09T03:24:56.237501'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

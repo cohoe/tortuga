@@ -1,0 +1,59 @@
+- slug: el-diablo
+  display_name: El Diablo
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 1947
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: siembra-azul-blanco-tequila
+      display_name: Siembra Azul Blanco Tequila
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: house-ginger-beer
+      display_name: House Ginger Beer
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: merlet-creme-de-cassis
+      display_name: Merlet Creme De Cassis
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: agave-syrup
+      display_name: Agave Syrup
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.75
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jules Bergeron, Trader Vic’s Bartender’s Guide, 1947
+      author:
+      datetime: '2020-05-09T03:24:56.143022'
+    - text: Trader Vic’s revised manual devoted 9 pages to tequila drinks8 pages more
+        than did any significant cocktail book from the first half of the century.
+      author:
+      datetime: '2020-05-09T03:24:56.143026'
+    instructions:
+    - text: Shake with ice, then strain into a chilled rocks glass filled with ice
+        cubes
+      author:
+      datetime: '2020-05-09T03:24:56.143030'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

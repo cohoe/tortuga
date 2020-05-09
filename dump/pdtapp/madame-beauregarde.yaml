@@ -1,0 +1,73 @@
+- slug: madame-beauregarde
+  display_name: Madame Beauregarde
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2010
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: grosperrin-v-s-o-p-cognac
+      display_name: Grosperrin V S O P Cognac
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: quinta-do-noval-black-port
+      display_name: Quinta Do Noval Black Port
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: simple-syrup
+      display_name: Simple Syrup
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: blueberries
+      display_name: Blueberries
+      quantity: 2
+      unit: tbsp
+      notes: []
+    - slug: white
+      display_name: White
+      quantity: 1
+      unit: egg
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Sean Hoard & Lindsay Nader, Summer 2010
+      author:
+      datetime: '2020-05-09T03:24:56.198748'
+    - text: This cocktail is named after Violet Beauregarde, the gum-chewing competitor
+        from Charlie & the Chocolate Factory who is transformed into a blueberry when
+        she chews Wonka’s experimental, three-course dinner gum.
+      author:
+      datetime: '2020-05-09T03:24:56.198752'
+    instructions:
+    - text: Muddle the blueberries with the simple syrup, then add remaining ingredients
+      author:
+      datetime: '2020-05-09T03:24:56.198756'
+    - text: Dry-shake, then shake with ice
+      author:
+      datetime: '2020-05-09T03:24:56.198758'
+    - text: Add 2 oz club soda
+      author:
+      datetime: '2020-05-09T03:24:56.198760'
+    - text: Fine-strain into a Ricard–rinsed egg coupe
+      author:
+      datetime: '2020-05-09T03:24:56.198763'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

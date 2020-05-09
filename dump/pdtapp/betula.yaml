@@ -1,0 +1,53 @@
+- slug: betula
+  display_name: Betula
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2007
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: birch-infused-rye-whiskey
+      display_name: Birch Infused Rye Whiskey
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: ron-matusalem-clasico
+      display_name: Ron Matusalem Clasico
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: deep-mountain-grade-b-maple-syrup
+      display_name: Deep Mountain Grade B Maple Syrup
+      quantity: 0.5
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: John Deragon, Fall 2007
+      author:
+      datetime: '2020-05-09T03:24:56.188975'
+    - text: This drink tastes like sipping birch beer, hence the name betula, the
+        Latin word for birch.
+      author:
+      datetime: '2020-05-09T03:24:56.188980'
+    instructions:
+    - text: Shake with ice, then strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.188984'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

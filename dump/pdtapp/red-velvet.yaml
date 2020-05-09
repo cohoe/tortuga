@@ -1,0 +1,54 @@
+- slug: red-velvet
+  display_name: Red Velvet
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2014
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: coconut-water
+      display_name: Coconut Water
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: bulleit-bourbon
+      display_name: Bulleit Bourbon
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: john-d-taylors-velvet-falernum
+      display_name: John D Taylors Velvet Falernum
+      quantity: 0.25
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jeff Bell, Summer 2014
+      author:
+      datetime: '2020-05-09T03:24:56.141221'
+    - text: Coconut water mimics the creamy texture of the frosting in Jeff Bell’s
+        bone-dry ode to one of his favorite cakes.
+      author:
+      datetime: '2020-05-09T03:24:56.141225'
+    instructions:
+    - text: Stir with ice, then strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.141229'
+    - text: Float 4 dashes of Peychaud’s Bitters over the surface
+      author:
+      datetime: '2020-05-09T03:24:56.141231'
+    - text: (No garnish)
+      author:
+      datetime: '2020-05-09T03:24:56.141234'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

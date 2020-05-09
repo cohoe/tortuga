@@ -1,0 +1,66 @@
+- slug: red-headed-saint
+  display_name: Red-Headed Saint
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2009
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: leblon-cachaca
+      display_name: Leblon Cachaca
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: agave-syrup
+      display_name: Agave Syrup
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: yellow-chartreuse
+      display_name: Yellow Chartreuse
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: a-b-smeby-verbena-bitters
+      display_name: A B Smeby Verbena Bitters
+      quantity: 4
+      unit: dashes
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: David Slape, Spring 2009
+      author:
+      datetime: '2020-05-09T03:24:56.164103'
+    - text: We eschewed house-made bitters until tasting our friend Louis Smeby’s
+        outstanding verbena bitters, which complemented the grassy, sugarcane-based
+        cachaça.
+      author:
+      datetime: '2020-05-09T03:24:56.164107'
+    instructions:
+    - text: Shake with ice, then strain into a chilled collins glass filled with pebble
+        ice
+      author:
+      datetime: '2020-05-09T03:24:56.164112'
+    - text: Top with 4 dashes Peychaud’s Bitters
+      author:
+      datetime: '2020-05-09T03:24:56.164114'
+    - text: (No garnish)
+      author:
+      datetime: '2020-05-09T03:24:56.164116'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

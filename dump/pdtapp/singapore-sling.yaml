@@ -1,0 +1,75 @@
+- slug: singapore-sling
+  display_name: Singapore Sling
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 1931
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: pineapple-juice
+      display_name: Pineapple Juice
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: plymouth-gin
+      display_name: Plymouth Gin
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: cherry-heering
+      display_name: Cherry Heering
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: jack-rudy-grenadine
+      display_name: Jack Rudy Grenadine
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: cointreau
+      display_name: Cointreau
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: benedictine
+      display_name: Benedictine
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: angostura-bitters
+      display_name: Angostura Bitters
+      quantity: 1
+      unit: dash
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Sloppy Joe’s Bar Cocktail Manual, 1931
+      author:
+      datetime: '2020-05-09T03:24:56.191258'
+    - text: A tropical cousin of the more austere Straits Sling, the Singapore Sling
+        was created around 1915 at the Long Bar of the Raffles Hotel by barman Ngiam
+        Tong Boon.
+      author:
+      datetime: '2020-05-09T03:24:56.191262'
+    instructions:
+    - text: Shake with ice, then strain into a chilled collins glass filled with ice
+        cubes
+      author:
+      datetime: '2020-05-09T03:24:56.191267'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

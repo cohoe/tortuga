@@ -1,0 +1,58 @@
+- slug: scanda-panda
+  display_name: Scanda Panda
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2011
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: bols-genever
+      display_name: Bols Genever
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: krogstad-aquavit
+      display_name: Krogstad Aquavit
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: hum-botanical-spirit
+      display_name: Hum Botanical Spirit
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: petit-canne-sugar-cane-syrup
+      display_name: Petit Canne Sugar Cane Syrup
+      quantity: 0.25
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: John deBary, Spring 2011
+      author:
+      datetime: '2020-05-09T03:24:56.201059'
+    - text: John coupled Scandinavian base spirits in his spring sour garnished with
+        Finnish (Panda brand) black licorice. Enjoy until the crocuses pop.
+      author:
+      datetime: '2020-05-09T03:24:56.201063'
+    instructions:
+    - text: Shake with ice, then strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.201067'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

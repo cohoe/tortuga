@@ -1,0 +1,63 @@
+- slug: orchard-sling
+  display_name: Orchard Sling
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2013
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: lairds-applejack
+      display_name: Lairds Applejack
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: clear-creek-slivovitz
+      display_name: Clear Creek Slivovitz
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: jack-rudy-grenadine
+      display_name: Jack Rudy Grenadine
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: leaves
+      display_name: Leaves
+      quantity: 3
+      unit: sage
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: John deBary, Summer 2013
+      author:
+      datetime: '2020-05-09T03:24:56.203643'
+    - text: Fruit from one of the best growing seasons in memory inspired John deBary’s
+        late summer sling lengthened with Raphael Lyon’s cherry and apple spiked sparkling
+        honey wine.
+      author:
+      datetime: '2020-05-09T03:24:56.203647'
+    instructions:
+    - text: Shake with ice and fine-strain into a chilled collins glass filled with
+        ice cubes
+      author:
+      datetime: '2020-05-09T03:24:56.203651'
+    - text: Top with 1.5 oz Enlightenment Cuvée Anguis Singularum II
+      author:
+      datetime: '2020-05-09T03:24:56.203654'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

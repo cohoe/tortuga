@@ -1,0 +1,58 @@
+- slug: rosita
+  display_name: Rosita
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 1974
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: partida-reposado-tequila
+      display_name: Partida Reposado Tequila
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: martini-rosso-vermouth
+      display_name: Martini Rosso Vermouth
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: dolin-dry-vermouth
+      display_name: Dolin Dry Vermouth
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: campari
+      display_name: Campari
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: angostura-bitters
+      display_name: Angostura Bitters
+      quantity: 1
+      unit: dash
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: 'Mr. Boston: Official Bartender’s Guide, 1974'
+      author:
+      datetime: '2020-05-09T03:24:56.209229'
+    - text: Gary Regan popularized this drink in his 1991 book The Bartender’s Bible,
+        adding the dash of bitters and a tad more tequila to the original.
+      author:
+      datetime: '2020-05-09T03:24:56.209233'
+    instructions:
+    - text: Stir with ice, then strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.209237'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

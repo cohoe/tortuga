@@ -1,0 +1,48 @@
+- slug: white-negroni
+  display_name: White Negroni
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2002
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: plymouth-gin
+      display_name: Plymouth Gin
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: lillet-blanc
+      display_name: Lillet Blanc
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: suze-saveur-dautrefois
+      display_name: Suze Saveur Dautrefois
+      quantity: 0.75
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Wayne Collins, London, 2002
+      author:
+      datetime: '2020-05-09T03:24:56.187123'
+    - text: Wayne Collins created this aperitif for Nick Blacknell, who brought him
+        a bottle of Suze to prepare drinks with before a dinner in Bordeaux.
+      author:
+      datetime: '2020-05-09T03:24:56.187127'
+    instructions:
+    - text: Stir with ice, then strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.187131'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

@@ -1,0 +1,56 @@
+- slug: prince-of-wales
+  display_name: Prince of Wales
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 1896
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: h-by-hine-fine-champagne-vsop
+      display_name: H By Hine Fine Champagne Vsop
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: blandys-sercial-5-year-old-madeira
+      display_name: Blandys Sercial 5 Year Old Madeira
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: grand-marnier
+      display_name: Grand Marnier
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: angostura-bitters
+      display_name: Angostura Bitters
+      quantity: 1
+      unit: dash
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Louis Fouquet, Bariana, 1896
+      author:
+      datetime: '2020-05-09T03:24:56.186919'
+    - text: In 1860 Albert Edward, Prince of Wales and son of Queen Victoria, became
+        the first member of the British royal family to visit North America.
+      author:
+      datetime: '2020-05-09T03:24:56.186923'
+    instructions:
+    - text: Stir with ice, then strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.186927'
+    - text: Top with 1 oz Laurent-Perrier Brut
+      author:
+      datetime: '2020-05-09T03:24:56.186929'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

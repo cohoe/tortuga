@@ -1,0 +1,63 @@
+- slug: alma-mater
+  display_name: Alma Mater
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2011
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: deaths-door-white-whisky
+      display_name: Deaths Door White Whisky
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: martini-rosato-vermouth
+      display_name: Martini Rosato Vermouth
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: aperol
+      display_name: Aperol
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: the-bitter-truth-aromatic-bitters
+      display_name: The Bitter Truth Aromatic Bitters
+      quantity: 2
+      unit: Dashes
+      notes: []
+    - slug: 2-strawberries-trimmed-and-halved
+      display_name: 2 Strawberries Trimmed And Halved
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jim Meehan & Karen Fu, Spring 2011
+      author:
+      datetime: '2020-05-09T03:24:56.182620'
+    - text: Using the red and white colors of Jim Meehan’s alma mater (Wisconsin)
+        as inspiration, Karen and Jim collaborated on this fruity take on the classic
+        Old Pal cocktail.
+      author:
+      datetime: '2020-05-09T03:24:56.182625'
+    instructions:
+    - text: In a mixing glass muddle the strawberries, then add remaining ingredients
+      author:
+      datetime: '2020-05-09T03:24:56.182629'
+    - text: Stir with ice, then fine-strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.182631'
+    - text: (No garnish)
+      author:
+      datetime: '2020-05-09T03:24:56.182634'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

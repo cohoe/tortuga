@@ -1,0 +1,62 @@
+- slug: wicked-witch
+  display_name: Wicked Witch
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2012
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: jameson-irish-whiskey
+      display_name: Jameson Irish Whiskey
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: lustau-manzanilla-papirusa
+      display_name: Lustau Manzanilla Papirusa
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: strega
+      display_name: Strega
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: chamomile-syrup
+      display_name: Chamomile Syrup
+      quantity: 1
+      unit: barspoon
+      notes: []
+    - slug: of-bittermens-boston-bittahs
+      display_name: Of Bittermens Boston Bittahs
+      quantity: 4
+      unit: dashes
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Anne Robinson, Spring 2012
+      author:
+      datetime: '2020-05-09T03:24:56.153512'
+    - text: You can’t find these wicked bittahs in just any packie, but Anne got her
+        mitts on ’em to create a bev in honor of her hometown using Jameson (onna-conna
+        it being her go-to drink back in the Hub) and saffron-y Strega.
+      author:
+      datetime: '2020-05-09T03:24:56.153517'
+    instructions:
+    - text: Stir with ice, then strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.153521'
+    - text: (No garnish)
+      author:
+      datetime: '2020-05-09T03:24:56.153523'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

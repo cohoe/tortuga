@@ -1,0 +1,53 @@
+- slug: '8'
+  display_name: '#8'
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2008
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: don-julio-reposado-tequila
+      display_name: Don Julio Reposado Tequila
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: lustau-palo-cortado-peninsula
+      display_name: Lustau Palo Cortado Peninsula
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: barenjager-honey-liqueur
+      display_name: Barenjager Honey Liqueur
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: house-orange-bitters
+      display_name: House Orange Bitters
+      quantity: 2
+      unit: dashes
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Daniel Eun, Fall 2008
+      author:
+      datetime: '2020-05-09T03:24:56.183176'
+    - text: Daniel chose “#8” for the number of months Don Julio Reposado is aged
+        and for the number of his favorite basketball player, Kobe Bryant.
+      author:
+      datetime: '2020-05-09T03:24:56.183186'
+    instructions:
+    - text: Stir with ice, then strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.183190'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

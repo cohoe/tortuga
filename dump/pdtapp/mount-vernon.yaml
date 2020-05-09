@@ -1,0 +1,58 @@
+- slug: mount-vernon
+  display_name: Mount Vernon
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2007
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: clear-creek-kirschwasser
+      display_name: Clear Creek Kirschwasser
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: lustau-solera-reserva-brandy-de-jerez
+      display_name: Lustau Solera Reserva Brandy De Jerez
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: grapefruit-juice
+      display_name: Grapefruit Juice
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: lustau-pedro-ximenez-san-emilio
+      display_name: Lustau Pedro Ximenez San Emilio
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: cherry-heering
+      display_name: Cherry Heering
+      quantity: 0.5
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jim Meehan, Winter 2007
+      author:
+      datetime: '2020-05-09T03:24:56.197848'
+    - text: This cocktail was inspired by George Washington, who operated of one of
+        the largest distilleries in the country on his personal estate, Mount Vernon.
+      author:
+      datetime: '2020-05-09T03:24:56.197853'
+    instructions:
+    - text: Shake with ice, then strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.197857'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

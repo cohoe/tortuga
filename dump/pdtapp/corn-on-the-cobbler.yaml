@@ -1,0 +1,55 @@
+- slug: corn-on-the-cobbler
+  display_name: Corn on the Cobbler
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2013
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: george-dickel-no-12-tennessee-whisky
+      display_name: George Dickel No 12 Tennessee Whisky
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: corn-water
+      display_name: Corn Water
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: lustau-palo-cortado-peninsula
+      display_name: Lustau Palo Cortado Peninsula
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: honey-syrup
+      display_name: Honey Syrup
+      quantity: 0.25
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jeff Bell, Summer 2013
+      author:
+      datetime: '2020-05-09T03:24:56.229414'
+    - text: Jeff captured the essence of summercorn on the cobin this savory long
+        drink prepared with puréed corn and a Tennessee whiskey distilled from a corn-heavy
+        mash bill.
+      author:
+      datetime: '2020-05-09T03:24:56.229418'
+    instructions:
+    - text: Shake with ice, then strain into a chilled collins glass filled with pebble
+        ice
+      author:
+      datetime: '2020-05-09T03:24:56.229422'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

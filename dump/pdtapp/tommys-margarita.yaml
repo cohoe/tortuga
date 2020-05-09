@@ -1,0 +1,51 @@
+- slug: tommys-margarita
+  display_name: Tommy’s Margarita
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin: {}
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: l-j-blanco-tequila
+      display_name: L J Blanco Tequila
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: agave-syrup
+      display_name: Agave Syrup
+      quantity: 1
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Tommy’s Mexican Restaurant, San Francisco
+      author:
+      datetime: '2020-05-09T03:24:56.150754'
+    - text: In 1987 Julio Bermejo created this modern Margarita variation, which substitutes
+        agave nectar for triple sec, and named it after his family’s Mexican restaurant,
+        Tommy’s.
+      author:
+      datetime: '2020-05-09T03:24:56.150758'
+    instructions:
+    - text: Shake with ice, then strain into a rocks glass filled with ice cubes
+      author:
+      datetime: '2020-05-09T03:24:56.150762'
+    - text: (No garnish)
+      author:
+      datetime: '2020-05-09T03:24:56.150764'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

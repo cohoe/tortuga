@@ -1,0 +1,53 @@
+- slug: menage-a-trois
+  display_name: Ménage à Trois
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2012
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: rhum-clement-v-s-o-p
+      display_name: Rhum Clement V S O P
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: navarre-vieux-pineau-des-charentes
+      display_name: Navarre Vieux Pineau Des Charentes
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: dolin-dry-vermouth
+      display_name: Dolin Dry Vermouth
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: dutchs-colonial-cocktail-bitters
+      display_name: Dutchs Colonial Cocktail Bitters
+      quantity: 1
+      unit: dash
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jim Meehan, Spring 2012
+      author:
+      datetime: '2020-05-09T03:24:56.244619'
+    - text: We think there’s something erotic about this mélange of old Pineau des
+        Charentes, elegant Martinique rhum, and lively Chambéry vermouth.
+      author:
+      datetime: '2020-05-09T03:24:56.244623'
+    instructions:
+    - text: Stir with ice, then strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.244627'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

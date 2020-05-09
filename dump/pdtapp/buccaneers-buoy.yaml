@@ -1,0 +1,74 @@
+- slug: buccaneers-buoy
+  display_name: Buccaneer’s Buoy
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2011
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: banks-5-island-rum
+      display_name: Banks 5 Island Rum
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: lemon-hart-151-proof-demerara-rum
+      display_name: Lemon Hart 151 Proof Demerara Rum
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: plymouth-sloe-gin
+      display_name: Plymouth Sloe Gin
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: green-chartreuse
+      display_name: Green Chartreuse
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: earl-grey-tea-syrup
+      display_name: Earl Grey Tea Syrup
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: pineapple-juice
+      display_name: Pineapple Juice
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: st-elizabeth-allspice-dram
+      display_name: St Elizabeth Allspice Dram
+      quantity: 1
+      unit: barspoon
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Michael Klein, Winter 2011
+      author:
+      datetime: '2020-05-09T03:24:56.200355'
+    - text: Michael spiced his tiki tipple with traditional English ingredients to
+        add tweedy continental flair and an Edwardian spirit of adventure.
+      author:
+      datetime: '2020-05-09T03:24:56.200359'
+    instructions:
+    - text: Shake with ice, then strain into a chilled tiki mug filled with pebble
+        ice
+      author:
+      datetime: '2020-05-09T03:24:56.200363'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

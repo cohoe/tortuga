@@ -1,0 +1,56 @@
+- slug: mary-pickford
+  display_name: Mary Pickford
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 1928
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: banks-5-island-rum
+      display_name: Banks 5 Island Rum
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: pineapple-juice
+      display_name: Pineapple Juice
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: luxardo-maraschino-liqueur
+      display_name: Luxardo Maraschino Liqueur
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: jack-rudy-grenadine
+      display_name: Jack Rudy Grenadine
+      quantity: 0.25
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Pedro Chicote, Cocktails, 1928
+      author:
+      datetime: '2020-05-09T03:24:56.182861'
+    - text: Eddie Woelke of Havana’s Jockey Club named this cocktail after the pioneering
+        silent-film actress and producer.
+      author:
+      datetime: '2020-05-09T03:24:56.182865'
+    instructions:
+    - text: Shake with ice, then strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.182885'
+    - text: (No garnish)
+      author:
+      datetime: '2020-05-09T03:24:56.182888'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

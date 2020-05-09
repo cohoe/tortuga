@@ -1,0 +1,53 @@
+- slug: mint-julep
+  display_name: Mint Julep
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 1862
+    glassware: []
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: bookers-bourbon
+      display_name: Bookers Bourbon
+      quantity: 2.5
+      unit: oz
+      notes: []
+    - slug: simple-syrup
+      display_name: Simple Syrup
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: leaves-plus-3-mint-sprigs-for-garnish
+      display_name: Leaves Plus 3 Mint Sprigs For Garnish
+      quantity: 8
+      unit: Mint
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jerry Thomas, The Bar-Tenders’ Guide, 1862
+      author:
+      datetime: '2020-05-09T03:24:56.149815'
+    - text: The keys to a great mint julep are a proper julep cup (preferably silver),
+        cold crushed ice, lively mint, and the finest overproof bourbon you can afford
+        to mix with.
+      author:
+      datetime: '2020-05-09T03:24:56.149819'
+    instructions:
+    - text: In a chilled julep cup muddle the mint and syrup, then add the bourbon
+        and top with pebble ice
+      author:
+      datetime: '2020-05-09T03:24:56.149823'
+    - text: Swizzle, then top with more pebble ice
+      author:
+      datetime: '2020-05-09T03:24:56.149825'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

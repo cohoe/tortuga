@@ -1,0 +1,49 @@
+- slug: americano-highball
+  display_name: Americano Highball
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 1932
+    glassware: []
+    construction:
+      slug: unknown
+      display_name: Unknown
+    components:
+    - slug: carpano-antica-formula-vermouth
+      display_name: Carpano Antica Formula Vermouth
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: campari
+      display_name: Campari
+      quantity: 1.5
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Leurs Cocktails Par Antoine, 1932
+      author:
+      datetime: '2020-05-09T03:24:56.181149'
+    - text: Originally called the Milano-Torino, this drink was so popular among American
+        tourists, that the Italian barmen renamed it in their honor.
+      author:
+      datetime: '2020-05-09T03:24:56.181153'
+    instructions:
+    - text: Build in a chilled collins glass
+      author:
+      datetime: '2020-05-09T03:24:56.181157'
+    - text: Add ice cubes
+      author:
+      datetime: '2020-05-09T03:24:56.181159'
+    - text: Top with 2.5 oz club soda
+      author:
+      datetime: '2020-05-09T03:24:56.181165'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

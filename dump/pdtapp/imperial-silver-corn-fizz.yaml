@@ -1,0 +1,59 @@
+- slug: imperial-silver-corn-fizz
+  display_name: Imperial Silver Corn Fizz
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2009
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: george-dickel-no-12-tennessee-whisky
+      display_name: George Dickel No 12 Tennessee Whisky
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: corn-water
+      display_name: Corn Water
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: honey-syrup
+      display_name: Honey Syrup
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: white
+      display_name: White
+      quantity: 1
+      unit: egg
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jim Meehan, Summer 2009
+      author:
+      datetime: '2020-05-09T03:24:56.217346'
+    - text: Chef Wylie Dufresne helped us develop the corn water to enhance the corn-based
+        Tennessee whiskey.
+      author:
+      datetime: '2020-05-09T03:24:56.217350'
+    instructions:
+    - text: Dry-shake, then shake with ice, then strain into a chilled egg coupe
+      author:
+      datetime: '2020-05-09T03:24:56.217354'
+    - text: Top with 1 oz Laurent-Perrier Brut
+      author:
+      datetime: '2020-05-09T03:24:56.217357'
+    - text: (No garnish)
+      author:
+      datetime: '2020-05-09T03:24:56.217359'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

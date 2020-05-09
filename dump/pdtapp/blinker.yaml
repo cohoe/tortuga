@@ -1,0 +1,52 @@
+- slug: blinker
+  display_name: Blinker
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 1934
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: wild-turkey-rye-whiskey
+      display_name: Wild Turkey Rye Whiskey
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: grapefruit-juice
+      display_name: Grapefruit Juice
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: bonne-maman-raspberry-preserves
+      display_name: Bonne Maman Raspberry Preserves
+      quantity: 1
+      unit: barspoon
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Patrick Gavin Duffy, The Official Mixer’s Manual, 1934
+      author:
+      datetime: '2020-05-09T03:24:56.167184'
+    - text: Ted Haigh’s Vintage Spirits and Forgotten Cocktails jumpstarted the classic
+        cocktail renaissance in 2004 by featuring “forgotten cocktails” such as this
+        one.
+      author:
+      datetime: '2020-05-09T03:24:56.167189'
+    instructions:
+    - text: Shake with ice, then fine-strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.167192'
+    - text: (No garnish)
+      author:
+      datetime: '2020-05-09T03:24:56.167195'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

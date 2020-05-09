@@ -1,0 +1,49 @@
+- slug: daiquiri
+  display_name: Daiquiri
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 1914
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: banks-5-island-rum
+      display_name: Banks 5 Island Rum
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: simple-syrup
+      display_name: Simple Syrup
+      quantity: 0.75
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jacques Straub, Drinks, 1914
+      author:
+      datetime: '2020-05-09T03:24:56.155907'
+    - text: Charles H. Baker claims his friends Harry Stout and Jennings Cox created
+        the Daiquiri in a village of the same name situated outside the Bacardi plant
+        in Santiago de Cuba.
+      author:
+      datetime: '2020-05-09T03:24:56.155911'
+    instructions:
+    - text: Shake with ice, then strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.155915'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

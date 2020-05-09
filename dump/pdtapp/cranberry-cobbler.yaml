@@ -1,0 +1,72 @@
+- slug: cranberry-cobbler
+  display_name: Cranberry Cobbler
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2007
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: beefeater-gin
+      display_name: Beefeater Gin
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: lustau-east-india-sherry
+      display_name: Lustau East India Sherry
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: cranberry-simple-syrup
+      display_name: Cranberry Simple Syrup
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: cranberries-from-the-cranberry-simple-syrup-recipe-reserve-3-for-garnish
+      display_name: Cranberries From The Cranberry Simple Syrup Recipe Reserve 3 For
+        Garnish
+      quantity: 7
+      unit: macerated
+      notes: []
+    - slug: wheel
+      display_name: Wheel
+      quantity: 1
+      unit: orange
+      notes: []
+    - slug: wedge
+      display_name: Wedge
+      quantity: 1
+      unit: lemon
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Michael Madrusan & Jim Meehan, Winter 2007
+      author:
+      datetime: '2020-05-09T03:24:56.162378'
+    - text: Cranberries are the last berries available before winter settles over
+        the Northeast. We used them to prepare a classic cobbler, sweetened with a
+        historic style of off-dry sherry.
+      author:
+      datetime: '2020-05-09T03:24:56.162383'
+    instructions:
+    - text: Add the citrus, cranberries and syrup to a mixing tin and muddle
+      author:
+      datetime: '2020-05-09T03:24:56.162387'
+    - text: Add everything else and ice
+      author:
+      datetime: '2020-05-09T03:24:56.162389'
+    - text: Shake with ice and strain into a chilled rocks glass filled with pebble
+        ice
+      author:
+      datetime: '2020-05-09T03:24:56.162392'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

@@ -1,0 +1,51 @@
+- slug: pearl-button
+  display_name: Pearl Button
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2008
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: mae-de-ouro-cachaca
+      display_name: Mae De Ouro Cachaca
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: lillet-blanc
+      display_name: Lillet Blanc
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 0.5
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: John Deragon, Spring 2008
+      author:
+      datetime: '2020-05-09T03:24:56.198971'
+    - text: The combination of ingredients gives off an opalescent glimmer reminiscent
+        of the pearl buttons on John’s vest.
+      author:
+      datetime: '2020-05-09T03:24:56.198975'
+    instructions:
+    - text: Shake with ice, then strain into a chilled collins glass filled with ice
+      author:
+      datetime: '2020-05-09T03:24:56.198979'
+    - text: Top with 1.5 oz of San Pellegrino Limonata
+      author:
+      datetime: '2020-05-09T03:24:56.198985'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

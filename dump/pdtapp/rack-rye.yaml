@@ -1,0 +1,61 @@
+- slug: rack-rye
+  display_name: Rack & Rye
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2009
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: wild-turkey-russells-reserve-6-year-old-rye-whiskey
+      display_name: Wild Turkey Russells Reserve 6 Year Old Rye Whiskey
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: van-oosten-batavia-arrack
+      display_name: Van Oosten Batavia Arrack
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: demerara-syrup
+      display_name: Demerara Syrup
+      quantity: 0.25
+      unit: oz
+      notes: []
+    - slug: angostura-bitters
+      display_name: Angostura Bitters
+      quantity: 2
+      unit: dashes
+      notes: []
+    - slug: angostura-orange-bitters
+      display_name: Angostura Orange Bitters
+      quantity: 2
+      unit: dashes
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Lydia Reissmueller, Fall 2009
+      author:
+      datetime: '2020-05-09T03:24:56.166301'
+    - text: Lydia Reissmueller came up with this twist on Rock & Rye, a liqueur prepared
+        by sweetening straight rye, batavia arrack, demerara syrup and bitters
+      author:
+      datetime: '2020-05-09T03:24:56.166306'
+    instructions:
+    - text: Stir with ice, then strain into a chilled rocks glass filled with ice
+      author:
+      datetime: '2020-05-09T03:24:56.166310'
+    - text: Pinch an orange peel and lemon peel over the surface and discard
+      author:
+      datetime: '2020-05-09T03:24:56.166313'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

@@ -1,0 +1,53 @@
+- slug: aperol-spritz
+  display_name: Aperol Spritz
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2000
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: aperol
+      display_name: Aperol
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: zardetto-prosecco
+      display_name: Zardetto Prosecco
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: club-soda
+      display_name: Club Soda
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: orange-juice
+      display_name: Orange Juice
+      quantity: 0.5
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Corporate creation, 2000s
+      author:
+      datetime: '2020-05-09T03:24:56.164643'
+    - text: This simple recipe, listed on the back of the Aperol bottle, is also known
+        as the Venetian Spritz.
+      author:
+      datetime: '2020-05-09T03:24:56.164648'
+    instructions:
+    - text: Build in a chilled rocks glass, then fill with ice cubes and stir
+      author:
+      datetime: '2020-05-09T03:24:56.164652'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

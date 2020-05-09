@@ -1,0 +1,53 @@
+- slug: gold-coast
+  display_name: Gold Coast
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2009
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: karlssons-gold-vodka
+      display_name: Karlssons Gold Vodka
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: carlshamns-flaggpunsch
+      display_name: Carlshamns Flaggpunsch
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: sprig-fresh-dill
+      display_name: Sprig Fresh Dill
+      quantity: 1
+      unit: pinch
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jim Meehan, Winter 2009
+      author:
+      datetime: '2020-05-09T03:24:56.170707'
+    - text: Jim created this old-fashioned featuring classic Swedish ingredients after
+        visiting the Bjäre Peninsula in southern Sweden, where the potatoes used to
+        make Karlsson’s vodka are grown.
+      author:
+      datetime: '2020-05-09T03:24:56.170711'
+    instructions:
+    - text: In a mixing glass, muddle the dill and Flaggpunsch, then add vodka
+      author:
+      datetime: '2020-05-09T03:24:56.170715'
+    - text: Stir with ice, then fine-strain over one large ice cube in a chilled rocks
+        glass
+      author:
+      datetime: '2020-05-09T03:24:56.170717'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

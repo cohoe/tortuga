@@ -1,0 +1,60 @@
+- slug: carte-blanche
+  display_name: Carte Blanche
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2011
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: 1-75-oz-delord-blanche-armagnac
+      display_name: 1 75 Oz Delord Blanche Armagnac
+      notes: []
+    - slug: lillet-blanc
+      display_name: Lillet Blanc
+      quantity: 1
+      unit: oz
+      notes: []
+    - slug: dolin-dry-vermouth
+      display_name: Dolin Dry Vermouth
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: grapes
+      display_name: Grapes
+      quantity: 6
+      unit: white
+      notes: []
+    - slug: leaf
+      display_name: Leaf
+      quantity: 1
+      unit: shiso
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Edixon Caridad, Fall 2011
+      author:
+      datetime: '2020-05-09T03:24:56.199469'
+    - text: Given free reign to create a new cocktail for our menu, Edixon muddled
+        white grapes with shiso to accentuate the delicate vegetal and bright fruit
+        notes in Delord’s blanche armagnac.
+      author:
+      datetime: '2020-05-09T03:24:56.199474'
+    instructions:
+    - text: Muddle the shiso leaf and grapes, then add the rest of the ingredients
+      author:
+      datetime: '2020-05-09T03:24:56.199478'
+    - text: Stir with ice and fine-strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.199481'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

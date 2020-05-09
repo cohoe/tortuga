@@ -1,0 +1,54 @@
+- slug: black-jack
+  display_name: Black Jack
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 1914
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: pierre-ferrand-ambre-cognac
+      display_name: Pierre Ferrand Ambre Cognac
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: clear-creek-kirschwasser
+      display_name: Clear Creek Kirschwasser
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: coffee-concentrate
+      display_name: Coffee Concentrate
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: demerara-syrup
+      display_name: Demerara Syrup
+      quantity: 0.25
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jacques Straub, Drinks, 1914
+      author:
+      datetime: '2020-05-09T03:24:56.244837'
+    - text: In 2009 Gonçalo de Sousa Monteiro hosted a delegation of bartenders from
+        Berlin at PDT who mixed a selection of original recipes and classics including
+        this one.
+      author:
+      datetime: '2020-05-09T03:24:56.244841'
+    instructions:
+    - text: Shake with ice, then strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.244845'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

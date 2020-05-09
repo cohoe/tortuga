@@ -1,0 +1,49 @@
+- slug: japanese-cocktail
+  display_name: Japanese Cocktail
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 1862
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: h-by-hine-fine-champagne-vsop
+      display_name: H By Hine Fine Champagne Vsop
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: kassatly-chtaura-orgeat
+      display_name: Kassatly Chtaura Orgeat
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: angostura-bitters
+      display_name: Angostura Bitters
+      quantity: 2
+      unit: dashes
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jerry Thomas, The Bar-Tenders’ Guide, 1862
+      author:
+      datetime: '2020-05-09T03:24:56.205886'
+    - text: Jerry Thomas created this in June 1860 for a delegation of Japanese dignitaries
+        who were staying in the Metropolitan Hotelright across the street from his
+        bar at 622 Broadway.
+      author:
+      datetime: '2020-05-09T03:24:56.205891'
+    instructions:
+    - text: Stir with ice, then strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.205895'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

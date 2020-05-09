@@ -1,0 +1,59 @@
+- slug: southside-fizz
+  display_name: Southside Fizz
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 1916
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: plymouth-gin
+      display_name: Plymouth Gin
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: simple-syrup
+      display_name: Simple Syrup
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: leaves
+      display_name: Leaves
+      quantity: 4
+      unit: mint
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Hugo Ensslin, Recipes for Mixed Drinks, 1916
+      author:
+      datetime: '2020-05-09T03:24:56.154205'
+    - text: It’s unlikely this cocktail was named after Chicago’s South Side Gang,
+        which later became infamous for selling beer during Prohibition.
+      author:
+      datetime: '2020-05-09T03:24:56.154209'
+    instructions:
+    - text: Muddle the mint and syrup, then add remaining ingredients
+      author:
+      datetime: '2020-05-09T03:24:56.154216'
+    - text: Shake with ice and fine-strain into a chilled fizz glass
+      author:
+      datetime: '2020-05-09T03:24:56.154218'
+    - text: Top with 1 oz club soda
+      author:
+      datetime: '2020-05-09T03:24:56.154221'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

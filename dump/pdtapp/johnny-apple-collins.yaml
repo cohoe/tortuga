@@ -1,0 +1,61 @@
+- slug: johnny-apple-collins
+  display_name: Johnny Apple Collins
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2008
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: makers-mark-bourbon
+      display_name: Makers Mark Bourbon
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: schonauer-apple-schnapps
+      display_name: Schonauer Apple Schnapps
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: lemon-juice
+      display_name: Lemon Juice
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: the-bitter-truth-jerry-thomas-bitters
+      display_name: The Bitter Truth Jerry Thomas Bitters
+      quantity: 2
+      unit: dashes
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jim Meehan, Fall 2008
+      author:
+      datetime: '2020-05-09T03:24:56.193533'
+    - text: Despite the international cast of ingredients, the use of America’s native
+        spirit as the base of his apple-accented Collins inspired Jim to name it after
+        to the historic folk hero.
+      author:
+      datetime: '2020-05-09T03:24:56.193537'
+    instructions:
+    - text: Shake with ice, then strain into a chilled collins glass filled with ice
+        cubes
+      author:
+      datetime: '2020-05-09T03:24:56.193541'
+    - text: Top with 2 oz Fever-Tree Bitter Lemon Soda
+      author:
+      datetime: '2020-05-09T03:24:56.193543'
+    - text: Stir
+      author:
+      datetime: '2020-05-09T03:24:56.193545'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

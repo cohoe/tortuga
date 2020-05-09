@@ -1,0 +1,68 @@
+- slug: severine
+  display_name: Sévérine
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2013
+    glassware: []
+    construction:
+      slug: stir
+      display_name: Stir
+    components:
+    - slug: ciroc-vodka
+      display_name: Ciroc Vodka
+      quantity: 1.5
+      unit: oz
+      notes: []
+    - slug: lillet-blanc
+      display_name: Lillet Blanc
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: pierre-ferrand-ambre-cognac
+      display_name: Pierre Ferrand Ambre Cognac
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: suze-saveur-dautrefois
+      display_name: Suze Saveur Dautrefois
+      quantity: 1
+      unit: barspoon
+      notes: []
+    - slug: white-peppercorns
+      display_name: White Peppercorns
+      quantity: 6
+      unit: kampot
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: John deBary, Fall 2013
+      author:
+      datetime: '2020-05-09T03:24:56.180713'
+    - text: John spiced up the French base spirits in his Vesper variation with rare
+        Cambodian Kampot peppercorns to pay tribute to Skyfall Bond girl Bérénice
+        Marlohe’s ancestry.
+      author:
+      datetime: '2020-05-09T03:24:56.180717'
+    instructions:
+    - text: Muddle the peppercorns, then add remaining ingredients
+      author:
+      datetime: '2020-05-09T03:24:56.180721'
+    - text: Stir with ice and fine-strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.180723'
+    - text: Pinch a lemon twist over the surface
+      author:
+      datetime: '2020-05-09T03:24:56.180726'
+    - text: (No garnish)
+      author:
+      datetime: '2020-05-09T03:24:56.180728'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

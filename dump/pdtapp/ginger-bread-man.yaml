@@ -1,0 +1,58 @@
+- slug: ginger-bread-man
+  display_name: Ginger Bread Man
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 2012
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: banks-golden-age-rum
+      display_name: Banks Golden Age Rum
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: kings-ginger
+      display_name: Kings Ginger
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: molasses-syrup
+      display_name: Molasses Syrup
+      quantity: 0.5
+      unit: oz
+      notes: []
+    - slug: dale-degroffs-pimento-aromatic-bitters
+      display_name: Dale Degroffs Pimento Aromatic Bitters
+      quantity: 1
+      unit: barspoon
+      notes: []
+    - slug: white
+      display_name: White
+      quantity: 1
+      unit: egg
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Jim Meehan, Winter 2012
+      author:
+      datetime: '2020-05-09T03:24:56.190735'
+    - text: Jim substituted molasses-based rum and ginger liqueur for flour and butter
+        in this sipper to savor when you’re away from the cookie jar.
+      author:
+      datetime: '2020-05-09T03:24:56.190739'
+    instructions:
+    - text: Dry-shake, then shake with ice and strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.190743'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []

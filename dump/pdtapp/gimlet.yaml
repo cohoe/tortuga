@@ -1,0 +1,48 @@
+- slug: gimlet
+  display_name: Gimlet
+  origin: {}
+  specs:
+  - slug: pdt
+    display_name: PDT
+    origin:
+      year: 1922
+    glassware: []
+    construction:
+      slug: shake
+      display_name: Shake
+    components:
+    - slug: plymouth-gin
+      display_name: Plymouth Gin
+      quantity: 2
+      unit: oz
+      notes: []
+    - slug: housemade-lime-cordial
+      display_name: Housemade Lime Cordial
+      quantity: 0.75
+      unit: oz
+      notes: []
+    - slug: lime-juice
+      display_name: Lime Juice
+      quantity: 0.75
+      unit: oz
+      notes: []
+    garnish: []
+    straw: false
+    citations: []
+    notes:
+    - text: Harry McElhone, ABC of Mixing Cocktails, 1922
+      author:
+      datetime: '2020-05-09T03:24:56.243307'
+    - text: The Gimlet is attributed to British Royal Navy Surgeon General Sir Thomas
+        Gimlette, who took his scurvy inhibitor with a tot of gin.
+      author:
+      datetime: '2020-05-09T03:24:56.243311'
+    instructions:
+    - text: Shake with ice, then strain into a chilled coupe
+      author:
+      datetime: '2020-05-09T03:24:56.243315'
+    images: []
+  spec_count: 1
+  citations: []
+  notes: []
+  images: []
