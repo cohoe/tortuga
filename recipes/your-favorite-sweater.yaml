@@ -1,0 +1,45 @@
+---
+- slug: your-favorite-sweater
+  display_name: Your Favorite Sweater
+  origin:
+    creator: Blake Walker
+    venue: Amor y Amargo
+    location: New York NY
+  specs:
+    - slug: original
+      glassware:
+        - slug: rocks
+      components:
+        - slug: banks-5-island-rum
+          quantity: .75
+          unit: oz
+        - slug: cachaca
+          quantity: .5
+          unit: oz
+        - slug: st-raphael-ambre-aperitif
+          quantity: .5
+          unit: oz
+        - slug: capitoline-tiber-aperitivo
+          quantity: .5
+          unit: oz
+        - slug: navy-strength-jamaican-rum
+          quantity: .25
+          unit: oz
+        - slug: scrappys-lime-bitters
+          quantity: 1
+          unit: dash
+        - slug: boy-drinks-world-aromatic-walnut-bitters
+          quantity: 1
+          unit: dash
+      construction:
+        slug: stir
+      instructions:
+        - text: Combine all ingredients in a rocks glass with ice. Gently stir to integrate and chill.
+      garnish:
+        - slug: orange twist
+      straw: false
+      citations:
+        - title: "Tip Your Bartender: Amor y Amargo, New York"
+          author:
+            - PUNCH
+          href: https://punchdrink.com/articles/tip-your-bartender-amor-y-amargo-new-york/

@@ -1,0 +1,28 @@
+---
+- slug: black-apple-old-fashioned
+  display_name: Black Apple Old Fashioned
+  origin:
+    creator: Sother Teague
+    venue: Amor y Amargo
+  specs:
+    - slug: original
+      construction: build
+      components:
+        - slug: jagermeister
+          quantity: 1.5
+          unit: oz
+        - slug: apple-brandy
+          quantity: 1
+          unit: oz
+        - slug: apple-bitters
+          quantity: 2
+          unit: dash
+      instructions:
+        - text: add all ingredients to an ice-filled tumbler.
+      garnish:
+        - slug: orange-twist
+      cititations:
+        - title: "Amor y Amargo's Black Apple Old-Fashioned"
+          author:
+            - PUNCH
+          href: 'https://punchdrink.com/recipes/black-apple-old-fashioned/'

@@ -1,0 +1,48 @@
+---
+- slug: rabiosa
+  display_name: Rabiosa
+  origin:
+    creator: Fanny Chu
+    venue: Donna
+    location: Brooklyn NY
+    story: >-
+      Told that black cherry and mezcal are not complementary flavors, Fanny Chu set out to make the Rabiosa. Her cocktail has notes of black cherry, almond, warm chocolate, spice and smoke for a drink that reads like the love child of a Margarita and a Daiquiri.
+
+
+  specs:
+    - slug: original
+      glassware:
+        - slug: shake
+      components:
+        - slug: bacardi 8 rum
+          quantity: 1
+          unit: oz
+        - slug: del maguey vida mezcal
+          quantity: 1
+          unit: oz
+        - slug: lime juice
+          quantity: .75
+          unit: oz
+        - slug: ratafia black cherry liqueur
+          quantity: .5
+          unit: oz
+        - slug: orgeat
+          quantity: .25
+          unit: oz
+        - slug: cane syrup
+          quantity: 1
+          unit: tsp
+        - slug: bittermens elemakule tiki bitters
+          quantity: 8
+          unit: dash
+      construction:
+        slug: shake
+      instructions:
+        - text: Combine all ingredients in a mixing tin and shake with ice. Double-strain into a chilled coupe.
+      straw: false
+      citations:
+        - title: Tip Your Bartender: Donna, Brooklyn
+          author:
+            - PUNCH
+          date: 2020-04-17
+          href: https://punchdrink.com/articles/tip-your-bartender-donna-brooklyn/

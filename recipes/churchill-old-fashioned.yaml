@@ -1,0 +1,35 @@
+---
+- slug: churchill-old-fashioned
+  display_name: Churchill Old Fashioned
+  origin:
+    creator: Julio Cabrera
+    venue: Cafe La Trova
+    location: Miami FL
+  specs:
+    - slug: original
+      construction: stir
+      components:
+        - slug: santa-teresa-1796-rum
+          quantity: 2
+          unit: oz
+        - slug: demerara-syrup
+          quantity: .25
+          unit: oz
+        - slug: bitter-truth-cuba-coffee-bitters
+          quantity: 2
+          unit: dash
+        - slug: bitter-truth-aromatic-leaf-bitters
+          quantity: 2
+          unit: dash
+      instructions:
+        - text: combine all ingredients in a mixing glass with ice. Stir and strain into an old fashioned glass over a large cube of ice
+      garnish:
+        - slug: grapefruit-peel
+        - slug: small cigar
+          notes:
+            - text: optional, on the side
+      cititations:
+        - title: "Tip Your Bartender: Cafe La Trova, Miami"
+          author:
+            - PUNCH
+          href: https://punchdrink.com/articles/tip-your-bartender-cafe-la-trova-miami/

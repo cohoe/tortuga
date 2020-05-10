@@ -1,0 +1,45 @@
+---
+- slug: iron-ranger
+  display_name: Iron Ranger
+  origin:
+    creator: Erick Castro
+    venue: Raised by Wolves
+    location: San Diego CA
+  specs:
+    - slug: original
+      glassware:
+        - slug: hurricane
+      components:
+        - slug: makers-mark-cask-strength-bourbon
+          quantity: 2
+          unit: oz
+        - slug: lemon-juice
+          quantity: .75
+          unit: oz
+        - slug: pineapple-juice
+          quantity: 1
+          unit: oz
+        - slug: falernum
+          quantity: .5
+          unit: oz
+        - slug: simple-syrup
+          quantity: .5
+          unit: oz
+        - slug: angostura-bitters
+          quantity: 2
+          unit: dash
+      construction:
+        slug: shake
+      instructions:
+        - text: combine all ingredients in a mixing tin with .5oz pebble ice and shake to briefly chill and dilute
+        - text: strain into a chilled hurricane glass filled with pebble ice
+      garnish:
+        - slug: cinnamon-stick
+        - slug: mint-sprig
+      straw: false
+      citations:
+        - title: Iron Ranger From Raised by Wolves
+          author:
+            - Imbibe
+          date: 2018-12-29
+          href: https://imbibemagazine.com/iron-ranger-from-raised-by-wolves/
