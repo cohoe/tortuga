@@ -15,10 +15,10 @@
         - slug: demerara-syrup
           quantity: .25
           unit: oz
-        - slug: bitter-truth-cuba-coffee-bitters
+        - slug: bitter-truth-essence-of-cuba-coffee-bitters
           quantity: 2
           unit: dash
-        - slug: bitter-truth-aromatic-leaf-bitters
+        - slug: bitter-truth-essence-of-cuba-aromatic-leaf-bitters
           quantity: 2
           unit: dash
       instructions:

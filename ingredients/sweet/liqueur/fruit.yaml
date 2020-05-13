@@ -135,7 +135,7 @@
   kind: product
 
 - display_name: "Pierre Ferrand Dry Cura\xE7ao"
-  parent: triple-sec
+  parent: brandy-orange-liqueur
   slug: pierre-ferrand-dry-curacao
   kind: product
 
@@ -168,6 +168,8 @@
   parent: orange-liqueur
   slug: brandy-orange-liqueur
   kind: ingredient
+  aliases:
+    - Dry Curacao
 
 - display_name: Grand Marnier
   parent: brandy-orange-liqueur
@@ -208,6 +210,13 @@
   parent: cherry-liqueur
   slug: maraschino-liqueur
   kind: ingredient
+
+- display_name: Ratafia Black Cherry Liqueur
+  parent: cherry-liqueur
+  slug: ratafia-black-cherry-liqueur
+  kind: product
+  aliases:
+    - Rapa Giovanni Ratafia Cherry Liqueur
 
 - display_name: Luxardo Maraschino Liqueur
   parent: maraschino-liqueur
@@ -339,6 +348,13 @@
   aliases:
     - DeKuyper Peachtree Schnapps
     - DeKuyper Peach Schnapps
+
+- display_name: Rothman & Winter Orchard Peach Liqueur
+  parent: peach-liqueur
+  slug: rothman-winter-orchard-peach-liqueur
+  kind: product
+  aliases:
+    - Rothman & Winter Peach Liqueur
 
 - display_name: Pomegranate Liqueur
   parent: fruit-liqueur

@@ -208,3 +208,23 @@
   parent: verbena-bitters
   slug: a-b-smeby-verbena-bitters
   kind: product
+
+- display_name: "Scrappy's Lime Bitters"
+  parent: bitters
+  slug: scrappys-lime-bitters
+  kind: product
+
+- display_name: "Boy Drinks World Aromatic Walnut bitters"
+  parent: bitters
+  slug: boy-drinks-world-aromatic-walnut-bitters
+  kind: product
+
+- display_name: Bitter Truth Essence of Cuba Coffee Bitters
+  parent: bitters
+  slug: bitter-truth-essence-of-cuba-coffee-bitters
+  kind: product
+
+- display_name: Bitter Truth Essence of Cuba Aromatic Leaf Bitters
+  parent: bitters
+  slug: bitter-truth-essence-of-cuba-aromatic-leaf-bitters
+  kind: product

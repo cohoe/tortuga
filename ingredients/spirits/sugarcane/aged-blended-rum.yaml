@@ -44,3 +44,8 @@
   parent: aged-blended-rum
   slug: pussers-navy-rum
   kind: product
+
+- display_name: Real McCoy 12-year Rum
+  parent: aged-blended-rum
+  slug: real-mccoy-12-year-rum
+  kind: product

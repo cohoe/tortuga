@@ -203,6 +203,11 @@
   slug: patron-silver
   kind: product
 
+- display_name: Patrón Reposado Tequila
+  parent: reposado-tequila
+  slug: patron-reposado-tequila
+  kind: product
+
 - display_name: Olmeca Altos Reposado Tequila
   parent: reposado-tequila
   slug: olmeca-altos-reposado-tequila

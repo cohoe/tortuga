@@ -10,7 +10,7 @@
       glassware:
         - slug: hurricane
       components:
-        - slug: makers-mark-cask-strength-bourbon
+        - slug: makers-mark-cask-strength-bourbon-whiskey
           quantity: 2
           unit: oz
         - slug: lemon-juice

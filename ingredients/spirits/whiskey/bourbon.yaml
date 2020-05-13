@@ -63,6 +63,11 @@
   slug: makers-mark-bourbon-whiskey
   kind: product
 
+- display_name: "Maker's Mark Cask Strength Bourbon Whiskey"
+  parent: bourbon-whiskey
+  slug: makers-mark-cask-strength-bourbon-whiskey
+  kind: product
+
 - display_name: Old Grand-Dad 114 Bourbon
   parent: bourbon-whiskey
   slug: old-grand-dad-114-bourbon

@@ -5,21 +5,21 @@
     - slug: presidente
       display_name: Presidente
       origin:
-        - creator: Kyshali Ramirez
-          venue: Apothecary 330
-          location: Fort Lauderdale FL
-          story: >-
+        creator: Kyshali Ramirez
+        venue: Apothecary 330
+        location: Fort Lauderdale FL
+        story: >-
             While this Cuban classic is right at home in Kyshali Ramirez’s home state of Florida, it’s also straightforward enough to make at your home bar. Apothecary 330’s version calls for equal parts aged rum and bianco vermouth, lifted by housemade grenadine.
       glassware:
         - slug: coupe
       components:
-        - slug: santa-teresa-1976-rum
+        - slug: santa-teresa-1796-rum
           quantity: 1.5
           unit: oz
-        - slug: bianco-vermouth
+        - slug: white-vermouth
           quantity: 1.5
           unit: oz
-        - slug: dry-curacao
+        - slug: brandy-orange-liqueur
           quantity: .5
           unit: oz
         - slug: grenadine
@@ -31,7 +31,7 @@
         - text: shake with ice, then strain into a rocks glass filled with ice cubes
         - combine all the ingredients in a mixing glass. Add ice and stir. Strain into a chillec coupe.
       garnish:
-        - orange-twist
+        - slug: orange-twist
       straw: false
       notes:
         - text: homemade grenadine, 8oz POM pomegranate juice, 4oz sugar, 5-6 drops orange blossom water

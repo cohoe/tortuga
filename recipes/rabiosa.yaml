@@ -29,7 +29,7 @@
         - slug: orgeat
           quantity: .25
           unit: oz
-        - slug: cane syrup
+        - slug: cane-sugar-syrup
           quantity: 1
           unit: tsp
         - slug: bittermens elemakule tiki bitters
@@ -41,7 +41,7 @@
         - text: Combine all ingredients in a mixing tin and shake with ice. Double-strain into a chilled coupe.
       straw: false
       citations:
-        - title: Tip Your Bartender: Donna, Brooklyn
+        - title: 'Tip Your Bartender: Donna, Brooklyn'
           author:
             - PUNCH
           date: 2020-04-17

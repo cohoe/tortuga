@@ -271,3 +271,8 @@
   parent: pommeau
   slug: drouhin-pommeau
   kind: product
+
+- display_name: Capitoline Tiber aperitif
+  parent: fortified-wine
+  slug: capitoline-tiber-aperitif
+  kind: product

@@ -56,3 +56,10 @@
     - appleton-estate-reserve-rum
     - appleton-estate-12-year-rare-blend-rum
     - smith-cross-jamaican-rum
+
+- display_name: Navy-strength Jamaican Rum
+  parent: rum
+  slug: navy-strength-jamaican-rum
+  kind: index
+  elements:
+    - smith-cross-jamaican-rum

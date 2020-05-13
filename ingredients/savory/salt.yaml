@@ -18,3 +18,8 @@
   parent: salt
   slug: sea-salt
   kind: ingredient
+
+- display_name: Saline
+  parent: salt
+  slug: saline
+  kind: ingredient

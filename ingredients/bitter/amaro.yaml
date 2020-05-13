@@ -88,3 +88,13 @@
   parent: amaro
   slug: aperol
   kind: product
+
+- display_name: Rabarbaro
+  parent: amaro
+  slug: rabarbaro
+  kind: ingredient
+
+- display_name: Zucca Rabarbaro
+  parent: rabarbaro
+  slug: zucca-rabarbaro
+  kind: product
