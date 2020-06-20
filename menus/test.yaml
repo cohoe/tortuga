@@ -1,0 +1,11 @@
+---
+- slug: test
+  display_name: Test Menu
+  items:
+    - cocktail_slug: 18th-century
+      spec_slug: original
+    - cocktail_slug: diamondback
+    - cocktail_slug: flor-de-jerez
+    - cocktail_slug: moscow-mule
+    - cocktail_slug: freehand-old-fashioned
+    - cocktail_slug: how-do-i-compare
