@@ -1,6 +1,6 @@
 ---
 - slug: test
-  display_name: Test Menu
+  display_name: Test
   items:
     - cocktail_slug: 18th-century
       spec_slug: original
