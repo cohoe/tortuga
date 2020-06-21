@@ -59,6 +59,11 @@
   slug: negra-modelo-beer
   kind: product
 
+- display_name: Framboise
+  parent: lambic
+  slug: framboise
+  kind: ingredient
+
 - display_name: Oud Beersel Framboise
   parent: framboise
   slug: oud-beersel-framboise
@@ -68,11 +73,6 @@
   parent: framboise
   slug: brouwerij-boon-framboise
   kind: product
-
-- display_name: Framboise
-  parent: lambic
-  slug: framboise
-  kind: ingredient
 
 - display_name: Lambic
   parent: beer
