@@ -3,6 +3,5 @@
   display_name: Something Local
   items:
     - cocktail_slug: esmeralda
-    - cocktail_slug: ward-8
     - cocktail_slug: mai-tai
       spec_slug: state-park
