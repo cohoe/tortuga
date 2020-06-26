@@ -149,6 +149,11 @@
   slug: cocchi-americano
   kind: product
 
+- display_name: Short Path Americano
+  parent: americano
+  slug: short-path-americano
+  kind: product
+
 - display_name: Cocchi Americano Rosa
   parent: americano
   slug: cocchi-americano-rosa
@@ -189,4 +194,14 @@
 - display_name: "Otto's Athens Vermouth"
   parent: vermouth
   slug: ottos-athens-vermouth
+  kind: product
+
+- display_name: "Partners Sweet Vermouth"
+  parent: sweet-vermouth
+  slug: partners-sweet-vermouth
+  kind: product
+
+- display_name: "Cinazo Sweet Vermouth"
+  parent: sweet-vermouth
+  slug: cinazo-sweet-vermouth
   kind: product

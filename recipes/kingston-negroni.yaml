@@ -4,6 +4,33 @@
   origin:
     creator: Joaquín Simó
   specs:
+    - slug: original
+      display_name: Original
+      glassware:
+        - slug: rocks
+      components:
+        - slug: smith-cross-jamaican-rum
+          quantity: 1
+          unit: oz
+        - slug: campari
+          quantity: 1
+          unit: oz
+        - slug: carpano-antica-formula-vermouth
+          quantity: 1
+          unit: oz
+      construction:
+        slug: stir
+      instructions:
+        - text: add all ingredients to a mixing glass with ice and stir until chilled
+      garnish:
+        - slug: orange-peel
+          notes:
+            - text: long, trimmed
+      citations:
+        - title: Kington Negroni
+          author:
+            - Punch
+          href: https://punchdrink.com/recipes/kingston-negroni/
     - slug: improved
       display_name: Improved
       origin:
@@ -37,3 +64,6 @@
           date: 2020-05-07
           notes:
             - text: via Instagram with @creativedrunk
+      notes:
+        - text: way more root forward than i hoped, slightly dilluted it gets better
+        - text: definitly unique and interesting

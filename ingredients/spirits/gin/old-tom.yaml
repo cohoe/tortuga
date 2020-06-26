@@ -12,3 +12,8 @@
   parent: old-tom-gin
   slug: ransom-old-tom-gin
   kind: product
+
+- display_name: Barr Hill Tom Cat Gin
+  parent: old-tom-gin
+  slug: barr-hill-tom-cat-gin
+  kind: product

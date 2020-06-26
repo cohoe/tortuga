@@ -93,6 +93,52 @@
         - title: Dante
           href: https://www.dante-nyc.com/menus/#cocktails
         - title: The Speakeasy Podcast
+    - slug: rail-stop
+      display_name: Rail Stop
+      origin:
+        venue: Rail Stop
+        location: Brighton MA
+      components:
+        - slug: barr-hill-tom-cat-gin
+          quantity: 2
+          unit: oz
+        - slug: partners-sweet-vermouth
+          quantity: .5
+          unit: oz
+        - slug: cinazo-sweet-vermouth
+          quantity: .5
+          unit: oz
+        - slug: short-path-americano
+          quantity: .5
+          unit: oz
+        - slug: maraska-maraschino-liqueur
+          quantity: .25
+          unit: oz
+        - slug: orange bitters
+          quantity: 4
+          unit: dash
+        - slug: mamajuana-bitters
+          quantity: 5
+          unit: dash
+      construction:
+        slug: stir
+      instructions:
+        - text: stir with ice, then strain into a chilled coupe
+      notes:
+      citations:
+        - title: Direct
+          author:
+            - Grant Cohoe
+          date: 2020-06-15
+          notes:
+            - text: Directly from Ben Shapiro
+  citations:
+    - title: Modern Bartenders' Guide
+      author:
+        - O.H. Byron
+      date: 1884-01-01
+      notes:
+        - text: exact publishing month and day are unknown
   citations:
     - title: Modern Bartenders' Guide
       author:

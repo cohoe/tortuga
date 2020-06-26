@@ -1,0 +1,39 @@
+---
+- slug: days-like-this
+  display_name: Days Like This
+  origin:
+    creator: Andrew Volk
+    venue: Portland Hunt and Alpine
+    location: Portland ME
+    story: >-
+      This drink plays off the highlighted barrel and toasted sugar notes in Bacardi 8, placing them at the fore and letting sherry and floral vermouth elevate those flavors instead of competing with them. It’s an easy year-round drink that can be appreciated by the pros while also serving as a great introduction to rum cocktails.
+  specs:
+    - slug: original
+      glassware:
+        - slug: coupe
+      components:
+        - slug: bacardi-8-rum
+          quantity: 2
+          unit: oz
+        - slug: amontillado-sherry
+          quantity: .75
+          unit: oz
+        - slug: dry-vermouth
+          quantity: .75
+          unit: oz
+        - slug: angostura-bitters
+          quantity: 2
+          unit: dash
+      construction:
+        slug: stir
+      instructions:
+        - text: add all ingredients to a mixing glass with ice and stir
+      garnish:
+        - slug: orange twist
+      straw: false
+      citations:
+        - title: 'Tip Your Bartender: Donna, Brooklyn'
+          author:
+            - PUNCH
+          date: 2020-05-28
+          href: https://punchdrink.com/articles/tip-your-bartender-portland-hunt-alpine-club-portland-me

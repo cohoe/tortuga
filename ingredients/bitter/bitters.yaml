@@ -228,3 +228,8 @@
   parent: bitters
   slug: bitter-truth-essence-of-cuba-aromatic-leaf-bitters
   kind: product
+
+- display_name: Mamajuana Bitters
+  parent: bitters
+  slug: mamajuana-bitters
+  kind: ingredient
