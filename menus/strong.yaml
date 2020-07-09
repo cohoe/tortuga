@@ -5,3 +5,6 @@
     - cocktail_slug: east-india-negroni
       spec_slug: modified
     - cocktail_slug: rack-and-rye
+    - cocktail_slug: normandy-old-fashioned
+      notes:
+        - text: maybe???
