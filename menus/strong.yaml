@@ -1,0 +1,7 @@
+---
+- slug: something-strong
+  display_name: Something Strong
+  items:
+    - cocktail_slug: east-india-negroni
+      spec_slug: modified
+    - cocktail_slug: rack-and-rye

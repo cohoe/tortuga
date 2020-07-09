@@ -1,0 +1,72 @@
+- slug: east-india-negroni
+  display_name: East India Negroni
+  origin:
+    creator: Jim Meehan
+    venue: PDT
+    location: New York NY
+    year: 2010
+    story: >-
+      Lustau's East India Sherry is similar in style to the type of fortified
+      wine Joseph Banks may have stocked on his sailing vessel, and a great stand-in
+      for sweet vermouth, in this sugarcane based variation on the classic gin drink.
+  specs:
+    - slug: pdt
+      display_name: PDT
+      glassware:
+      - slug: rocks
+        display_name: Rocks
+      construction:
+        slug: stir
+      components:
+      - slug: banks-5-island-rum
+        display_name: Banks 5 Island Rum
+        quantity: 2
+        unit: oz
+      - slug: lustau-east-india-sherry
+        display_name: Lustau East India Sherry
+        quantity: 0.75
+        unit: oz
+      - slug: campari
+        display_name: Campari
+        quantity: 0.75
+        unit: oz
+      garnish:
+        - slug: orange-twist
+      straw: false
+      citations:
+        - title: PDT Cocktails
+          href: https://mixologytech.com/pdt/index.html
+      instructions:
+        - text: Stir with ice, then strain into a rocks glass filled with one large ice cube
+    - slug: modified
+      display_name: Modified
+      origin:
+        creator: Grant Cohoe
+        location: Cambridge MA
+        year: 2020
+        story: >-
+          This is a combination of Don Lee's Dewey D (also from PDT) and the East India Negroni.
+      glassware:
+        - slug: rocks
+      construction:
+        slug: stir
+      components:
+      - slug: banks-5-island-rum
+        display_name: Banks 5 Island Rum
+        quantity: 2
+        unit: oz
+      - slug: lustau-east-india-sherry
+        display_name: Lustau East India Sherry
+        quantity: 1
+        unit: oz
+      - slug: aperol
+        display_name: Aperol
+        quantity: 0.75
+        unit: oz
+      garnish:
+        - slug: orange-twist
+      straw: false
+      citations:
+        - title: Direct
+      instructions:
+        - text: Stir with ice, then strain into a rocks glass filled with one large ice cube
