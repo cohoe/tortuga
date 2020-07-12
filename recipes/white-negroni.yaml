@@ -1,0 +1,65 @@
+- slug: white-negroni
+  display_name: White Negroni
+  specs:
+    - slug: death-co
+      display_name: Death & Co
+      origin:
+        creator: Alex Day
+        year: 2009
+      glassware:
+        - slug: rocks
+          display_name: Rocks
+      construction:
+        slug: stir
+        display_name: Stir
+      components:
+        - slug: fords-gin
+          display_name: Fords Gin
+          quantity: 1.5
+          unit: ounces
+        - slug: dolin-blanc-vermouth
+          display_name: Dolin Blanc Vermouth
+          quantity: 0.75
+          unit: ounce
+        - slug: suze-saveur-dautrefois-liqueur
+          display_name: Suze Saveur Dautrefois Liqueur
+          quantity: 0.75
+          unit: ounce
+      garnish:
+        - slug: lemon-peel
+          display_name: Lemon Peel
+      straw: false
+      instructions:
+        - text: stir all the ingredients over ice, then strain into a double rocks glass over 1 large ice cube
+      notes:
+        - text: Color looks like yellow chartreuse. I do not like this. Very light and floral.
+    - slug: pdt
+      display_name: PDT
+      origin:
+        creator: Wayne Collins
+        location: London
+        year: 2002
+      glassware: coupe
+      construction:
+        slug: stir
+        display_name: Stir
+      components:
+        - slug: plymouth-gin
+          display_name: Plymouth Gin
+          quantity: 2
+          unit: oz
+        - slug: lillet-blanc
+          display_name: Lillet Blanc
+          quantity: 1
+          unit: oz
+        - slug: suze-saveur-dautrefois
+          display_name: Suze Saveur Dautrefois
+          quantity: 0.75
+          unit: oz
+      straw: false
+      notes:
+        - text: >-
+            Wayne Collins created this aperitif for Nick Blacknell, who brought him
+            a bottle of Suze to prepare drinks with before a dinner in Bordeaux.
+      instructions:
+        - text: Stir with ice, then strain into a chilled coupe
