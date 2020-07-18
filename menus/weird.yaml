@@ -1,0 +1,6 @@
+---
+- slug: something-weird
+  display_name: Something Weird
+  items:
+    - cocktail_slug: pbj
+    - cocktail_slug: rack-rye
