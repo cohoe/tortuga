@@ -1,0 +1,58 @@
+---
+- slug: 17th-century
+  display_name: 17th Century
+  origin:
+    creator: Phil Ward
+    venue: Mayahuel
+    location: New York NY
+  specs:
+    - slug: original
+      glassware:
+        - slug: coupe
+      components:
+        - slug: mezcal
+          quantity: 1.5
+          unit: oz
+        - slug: lillet-blanc
+          quantity: .75
+          unit: oz
+        - slug: white-creme-de-cacao
+          quantity: .75
+          unit: oz
+        - slug: lemon-juice
+          quantity: .75
+          unit: oz
+      construction:
+        slug: shake
+      instructions:
+        - text: shake all ingredients with ice, then strain into a coupe
+      straw: false
+    - slug: cocktail-virgin
+      glassware:
+        - slug: coupe
+      components:
+        - slug: montelobos-mezcal
+          quantity: 1.5
+          unit: oz
+        - slug: cocchi-americano
+          quantity: .75
+          unit: oz
+        - slug: marie-brizard-white-creme-de-cacao
+          quantity: .75
+          unit: oz
+        - slug: lemon-juice
+          quantity: .75
+          unit: oz
+      construction:
+        slug: shake
+      instructions:
+        - text: shake all ingredients with ice, then strain into a coupe
+      straw: false
+    citations:
+      - title: 17th Century Recipe
+        href: https://www.foodandwine.com/recipes/17th-century-cocktails-2011
+      - title: 17th century
+        author:
+          - Fredrick Yarm
+        href: http://cocktailvirgin.blogspot.com/2015/04/17th-century.html
+        date: 2015-04-27

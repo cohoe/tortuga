@@ -1,0 +1,36 @@
+---
+- slug: 19th-century
+  display_name: 19th Century
+  origin:
+    creator: Brian Miller
+    venue: Pegu Club
+    location: New York NY
+  specs:
+    - slug: original
+      glassware:
+        - slug: coupe
+      components:
+        - slug: woodford-reserve-bourbon
+          quantity: 1.5
+          unit: oz
+        - slug: white-creme-de-cacao
+          quantity: .75
+          unit: oz
+        - slug: lillet-rouge
+          quantity: .75
+          unit: oz
+        - slug: lemon-juice
+          quantity: .75
+          unit: oz
+      construction:
+        slug: shake
+      instructions:
+        - text: shake all ingredients with ice, then strain into a cocktail glass
+      straw: false
+      citations:
+        - title: 19th Century
+          author:
+            - Punch
+          href: https://punchdrink.com/recipes/19th-century/
+      notes:
+        - text: kinda like a framboise fizz. bourbon gets completely lost
