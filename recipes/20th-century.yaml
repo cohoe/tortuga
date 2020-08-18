@@ -4,8 +4,16 @@
   origin:
     creator: C.A Tucker
     year: 1937
+    story: >-
+      This cocktail was credited to C.A. Tucker and named after the 20th Century
+      Limited luxury train that traveled between New York City and Chicago from
+      1902 to 1967.
   specs:
-    - slug: original
+    - slug: the-campbell
+      origin:
+        creator: Paris Durante
+        venue: The Campbell
+        location: New York NY
       glassware:
         - slug: nicknora
       components:
@@ -29,3 +37,31 @@
       citations:
         - title: The 20th Century Cocktail
           href: 'https://imbibemagazine.com/the-20th-century-cocktail/'
+      notes:
+        - text: used plymouth. this tastes like alcoholic lemonade. goes down super easy
+        - text: but it is rather tart. wonder if the other spec would hold up better
+    - slug: pdt
+      glassware: coupe
+      construction:
+        slug: shake
+      origin:
+      components:
+        - slug: plymouth-gin
+          quantity: 1.5
+          unit: oz
+        - slug: lemon-juice
+          quantity: .75
+          unit: oz
+        - slug: lillet-blanc
+          quantity: .75
+          unit: oz
+        - slug: marie-brizard-creme-de-cacao-blanc
+          quantity: .75
+          unit: oz
+      instructions:
+        - text: Shake with ice, then strain into a chilled coupe
+      citations:
+        - title: PDT Cocktails
+          href: https://mixologytech.com/pdt/index.html
+      notes:
+        - text: this is much more balanced than the other spec. still kinda like alcoholic lemonade

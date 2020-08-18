@@ -27,6 +27,10 @@
       instructions:
         - text: shake all ingredients with ice, then strain into a coupe
       straw: false
+      notes:
+        - text: follows the template, not my favorite of them. though this is basically a grownup marg
+        - text: it is very much like a marg but a bit more interesting. tart bite from a lemon is interesting
+        - text: mezcal and chocolate is definitely cool
     - slug: cocktail-virgin
       glassware:
         - slug: coupe
