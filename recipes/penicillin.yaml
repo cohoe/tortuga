@@ -1,0 +1,72 @@
+---
+- slug: penicillin
+  display_name: Penicillin
+  origin:
+    creator: Sam Ross
+    venue: Milk & Honey
+    location: New York NY
+  specs:
+    - slug: original
+      glassware:
+        - slug: rocks
+      components:
+        - slug: blended-scotch-whisky
+          quantity: 2
+          unit: oz
+        - slug: lemon-juice
+          quantity: .75
+          unit: oz
+        - slug: honey-syrup
+          quantity: .75
+          unit: oz
+        - slug: islay-scotch-whiskey
+          quantity: .25
+          unit: oz
+        - slug: ginger
+          quantity: 2-3
+          unit: quarter-size slices
+      construction:
+        slug: shake
+      instructions:
+        - text: Muddle fresh ginger in a shaker and add the remaining ingredients, except for the Islay whiskey.
+        - text: Fill the shaker with ice and shake to chill; double-strain into an ice-filled rocks glass. Float the whiskey on top.
+      garnish:
+        - slug: candied-ginger
+      straw: false
+      citations:
+        - title: Imbibe Magazine
+          author:
+            - Imbibe
+          date: 2016-03-14
+          href: https://imbibemagazine.com/penicillin-cocktail/
+    - slug: simplified
+      glassware:
+        - slug: rocks
+      components:
+        - slug: blended-scotch-whisky
+          quantity: 2
+          unit: oz
+        - slug: lemon-juice
+          quantity: .75
+          unit: oz
+        - slug: honey-syrup
+          quantity: .25
+          unit: oz
+        - slug: falernum
+          quantity: .5
+          unit: oz
+        - slug: islay-scotch-whiskey
+          quantity: .25
+          unit: oz
+      construction:
+        slug: shake
+      instructions:
+        - text: Shake all ingredients except the islay with ice and double strain into an ice-filled rocks glass. Float the whiskey on top.
+      straw: false
+      notes:
+        - text: Try out King Floyds Scorched Pear & Ginger Bitters in this?
+  citations:
+    - title: Penicillin
+      author:
+        - Robert Simonson
+      href: https://punchdrink.com/recipes/penicillin/
