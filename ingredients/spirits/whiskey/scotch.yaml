@@ -137,3 +137,8 @@
   parent: blended-malt-scotch-whisky
   slug: compass-box-peat-monster-blended-malt-scotch-whisky
   kind: product
+
+- display_name: "Dewar's White Label Scotch"
+  parent: blende-scotch-whisky
+  slug: dewars-white-label-scotch
+  kind: product
