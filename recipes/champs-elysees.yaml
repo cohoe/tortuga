@@ -37,6 +37,11 @@
         - title: PDT Cocktails
           href: https://mixologytech.com/pdt/index.html
         - title: The Canon Cocktail Book
+          author:
+            - Jamie Boudreau
+            - James O. Fraioli
+          date: 2016
+          publisher: Houghton Mifflin Harcourt
           page: 94
       notes:
         - text: 'canon replaces green with yellow and removes simple, 1.5:.5:.5 spec'

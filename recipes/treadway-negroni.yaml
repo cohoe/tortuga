@@ -1,0 +1,32 @@
+---
+- slug: treadway-negroni
+  display_name: Treadway Negroni
+  origin:
+    creator: Sam Treadway
+    venue: Backbar
+    location: Somerville MA
+  specs:
+    - slug: original
+      glassware:
+        - slug: rocks
+      components:
+        - slug: del-maguey-vida-mezcal
+          quantity: 1
+          unit: oz
+        - slug: amaro-nonino
+          quantity: 1
+          unit: oz
+        - slug: lustau-amontillado-sherry
+          quantity: 1
+          unit: oz
+        - slug: angostura-bitters
+          quantity: 2
+          unit: dash
+      construction:
+        slug: stir
+      instructions:
+        - text: stir all the ingredients with ice, then strain into a rocks glass with a large ice cube
+      straw: false
+      notes:
+        - text: its fine, doesn't knock my socks off. Could do well as a reverse "low abv" with more amaro? not bad though
+        - text: I did this with an orange peel and a brandied cherry (leftover)

@@ -1,0 +1,46 @@
+---
+- slug: guatemalan-square
+  display_name: Guatemalan Square
+  origin:
+    creator: Sother Teague
+    venue: Amor y Amargo
+    location: New York NY
+  specs:
+    - slug: original
+      glassware:
+        - slug: rocks
+      components:
+        - slug: zacapa-23-rum
+          quantity: 1
+          unit: oz
+        - slug: rittenhouse 100 rye whiskey
+          quantity: .5
+          unit: oz
+        - slug: carpano-antica
+          quantity: .5
+          unit: oz
+        - slug: pierre-ferrand-dry-curacao
+          quantity: .25
+          unit: oz
+        - slug: angostura-bitters
+          quantity: 2
+          unit: dash
+        - slug: peychauds-bitters
+          quantity: 2
+          unit: dash
+      construction:
+        slug: stir
+      instructions:
+        - text: Stir all ingredients in a mixing glass to chill and combine. Strain into a chilled Cocktial glass.
+      garnish:
+        - slug: orange twist
+      straw: false
+      citations:
+        - title: I'm Just Here for the Drinks
+          author:
+            - Sother Teague
+          date: 2018-08-28
+          publisher: Media Lab Books
+          page: 214
+      notes:
+        - text: did with ango-1919 and house-sweet-vermouth. was ok, had more rye than I perhaps like. perfectly fine

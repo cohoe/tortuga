@@ -1,0 +1,39 @@
+---
+- slug: la-condesa
+  display_name: La Condesa
+  origin:
+    creator: Eron Plevon
+    venue: ALEX&NDER
+    location: Louisville KY
+  specs:
+    - slug: original
+      glassware:
+        - slug: rocks
+      components:
+        - slug: copper-kings-floodwall-apple-brandy
+          quantity: 1
+          unit: oz
+        - slug: mezcal
+          quantity: 1
+          unit: oz
+        - slug: sweet-vermouth
+          quantity: 1
+          unit: oz
+        - slug: mole-bitters
+          quantity: 2
+          unit: dash
+      construction:
+        slug: stir
+      instructions:
+        - text: stir all the ingredients over ice, then strain into a rocks glass
+      garnish:
+        - slug: brandied-cherry
+      straw: false
+      notes:
+        - text: did with house sweet vermouth. very mezcal forward. maybe it'd be better with a 2:1:1 negroni
+      citations:
+        - title: 'La Condesa Cocktail'
+          author:
+            - Imbibe
+          date: 2019-10-10
+          href: 'https://imbibemagazine.com/la-condesa-apple-brandy-cocktail/'

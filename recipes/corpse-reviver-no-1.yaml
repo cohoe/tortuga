@@ -1,0 +1,41 @@
+---
+- slug: corpse-reviver-no-1
+  display_name: Corpse Revivier No. 1
+  specs:
+    - slug: canon
+      glassware:
+        - slug: coupe
+      components:
+        - slug: cognac
+          quantity: 1.5
+          unit: oz
+        - slug: bonded-apple-brandy
+          quantity: 1
+          unit: oz
+        - slug: sweet-vermouth
+          quantity: 1
+          unit: oz
+        - slug: angostura bitters
+          quantity: 1
+          unit: dash
+      construction:
+        slug: stir
+      instructions:
+        - text: shake with ice, then strain into a chilled coupe
+        - text: in a mixing glass filled with ice, add the cognac, brandy, vermouth, and bitters, if desired. Stir and strain into a coupe glass.
+      garnish:
+        - slug: lemon twist
+          notes:
+            - text: or orange twist. if desired.
+      straw: false
+      citations:
+        - title: The Canon Cocktail Book
+          author:
+            - Jamie Boudreau
+            - James O. Fraioli
+          date: 2016
+          publisher: Houghton Mifflin Harcourt
+          page: 111
+      notes:
+        - text: within the context of a manhattan it is good. I go back and forth about
+            enjoying it and saying meh. might be a better fall drink.
