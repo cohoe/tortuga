@@ -7,7 +7,7 @@
     location: New York NY
     year: 1930
   specs:
-    - slug: original
+    - slug: pdt
       glassware:
         - slug: coupe
       components:
@@ -18,7 +18,7 @@
           quantity: .75
           unit: oz
         - slug: green chartreuse
-          quantity: .75
+          quantity: .5
           unit: oz
         - slug: simple syrup
           quantity: .25
@@ -36,6 +36,32 @@
       citations:
         - title: PDT Cocktails
           href: https://mixologytech.com/pdt/index.html
+      notes:
+        - text: I dont love this as much as I used to. Too herbal.
+    - slug: canon
+      glassware:
+        - slug: coupe
+      components:
+        - slug: cognac
+          quantity: 1.5
+          unit: oz
+        - slug: lemon-juice
+          quantity: .5
+          unit: oz
+        - slug: yellow-chartreuse
+          quantity: .5
+          unit: oz
+        - slug: angostura bitters
+          quantity: 1
+          unit: dash
+      construction:
+        slug: shake
+      instructions:
+        - text: shake with ice, then strain into a chilled coupe
+      garnish:
+        - slug: lemon twist
+      straw: false
+      citations:
         - title: The Canon Cocktail Book
           author:
             - Jamie Boudreau
@@ -43,5 +69,3 @@
           date: 2016
           publisher: Houghton Mifflin Harcourt
           page: 94
-      notes:
-        - text: 'canon replaces green with yellow and removes simple, 1.5:.5:.5 spec'
