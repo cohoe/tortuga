@@ -1,0 +1,34 @@
+---
+- slug: tipperary
+  display_name: Tipperary
+  specs:
+    - slug: brother-cleve-remix
+      display_name: Brother Cleve Remix
+      glassware:
+        - slug: nick-nora
+      components:
+        - slug: writers-tears-irish-whiskey
+          quantity: 1.5
+          unit: oz
+        - slug: cinzano
+          quantity: .75
+          unit: oz
+        - slug: green-chartruese
+          quantity: 75
+          unit: oz
+      construction:
+        slug: stir
+      instructions:
+        - text: stir with ice in a mixing glass. strain into a nick & nora glass.
+      garnish:
+        - slug: orange-peel
+          notes:
+            - text: express orange oil from a fat twist
+      citations:
+        - title: Ghosts of Cocktails Past
+          author:
+            - Brother Cleve
+          page: 18
+      notes:
+        - text: did with carpano. the charteuse cuts through everything. its not bad but its all chartreuse.
+        - text: 1.5:.75:.5 with french sweet completely changed the character. while i like it more, im not sure its really better. the whiskey comes out more
