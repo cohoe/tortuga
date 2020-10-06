@@ -1,0 +1,46 @@
+---
+- slug: flor-de-jerez
+  display_name: Flor de Jerez
+  specs:
+    - slug: original
+      origin:
+        creator: Tyson Buhler
+        venue: The Ramble Hotel
+        location: Denver CO
+      glassware:
+        - slug: double-old-fashioned
+      components:
+        - slug: old-grand-dad-bonded-bourbon
+          quantity: 1
+          unit: oz
+        - slug: plantation-pineapple-rum
+          quantity: .5
+          unit: oz
+        - slug: smith-and-cross-rum
+          quantity: .25
+          unit: oz
+        - slug: averna-amaro
+          quantity: .25
+          unit: oz
+        - slug: vanilla-syrup
+          quantity: 1
+          unit: tsp
+        - slug: angostura-bitters
+          quantity: 1
+          unit: dash
+      construction:
+        slug: stir
+      instructions:
+        - text: stir all ingredients with ice and strain into a double old fashioned glass
+      garnish:
+        - slug: orange-twist
+      straw: false
+      citations:
+        - title: Instagram
+          date: 2020-10-03
+          href: https://www.instagram.com/p/CF5N8eKjE4j/
+      notes:
+        - text: >-
+            came in a little hot. did with .75 bourbon and .25 rye to simulate the high-rye
+            bourbon. did not get any vanilla in there. added .25 licor-43 and that rounded
+            it out quite nicely. S&C could use tweak too.
