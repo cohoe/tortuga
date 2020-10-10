@@ -1,0 +1,39 @@
+---
+- slug: hanky-panky
+  display_name: Hanky Panky
+  origin:
+    creator: Ada Coleman
+    venue: The American Bar
+    location: London
+  specs:
+    - slug: original
+      glassware:
+        - slug: nick-nora
+      components:
+        - slug: sweet-vermouth
+          quantity: 1.5
+          unit: oz
+        - slug: gin
+          quantity: 1.5
+          unit: oz
+        - slug: fernet-branca
+          quantity: 2
+          unit: dash
+      construction:
+        slug: stir
+      instructions:
+        - text: Stir ingredients well in a mixing glass to chill and deluge, then strain into a chilled Nick & Nora glass.
+      garnish:
+        - slug: orange-twist
+          notes:
+            - text: discarded
+      straw: false
+      citations:
+        - title: I'm Just Here for the Drinks
+          author:
+            - Sother Teague
+          date: 2018-08-28
+          publisher: Media Lab Books
+          page: 227
+      notes:
+        - text: I really like this. Did with Plymouth and Dolin. Great simple martini variation.
