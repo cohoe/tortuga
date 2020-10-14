@@ -1,0 +1,49 @@
+---
+- slug: rum-with-a-vieux
+  display_name: Rum With a Vieux
+  specs:
+    - slug: original
+      origin:
+        creator: Jim Romdall
+        venue: Rumba
+        location: Seattle WA
+      glassware:
+        - slug: cocktail
+      components:
+        - slug: lightly-aged-rhum-agricole
+          quantity: 1
+          unit: oz
+        - slug: cognac
+          quantity: 1
+          unit: oz
+        - slug: aged-jamaican-rum
+          quantity: .25
+          unit: oz
+        - slug: rich-simple-syrup
+          quantity: .25
+          unit: oz
+        - slug: peychauds-bitters
+          quantity: 4
+          unit: dash
+        - slug: angostura-bitters
+          quantity: 2
+          unit: dash
+        - slug: absinthe
+          quantity: 3
+          unit: dash
+      construction:
+        slug: shake
+      instructions:
+        - text: >-
+            Rinse the inside of a chilled cocktail glass with the absinthe, discarding
+            the excess. In a mixing glass, stir the remaining liquid ingredients with
+            ice to chill, then strain into the prepared glass. Twist a lemon peel over
+            the drink to express the oils, then discard.
+      garnish:
+        - slug: lemon-peel
+      straw: false
+      citations:
+        - title: A Rum With a Vieux
+          publisher: Imbibe
+          date: 2020-09-25
+          href: https://imbibemagazine.com/recipe/a-rum-with-a-vieux/

@@ -1,0 +1,38 @@
+---
+- slug: night-tripper
+  display_name: Night Tripper
+  specs:
+    - slug: original
+      origin:
+        creator: Chris Hannah
+        venue: Jewel of the South
+        location: New Orleans LA
+      glassware:
+        - slug: rocks
+      components:
+        - slug: bourbon
+          quantity: 1.75
+          unit: oz
+        - slug: averna-amaro
+          quantity: .75
+          unit: oz
+        - slug: strega
+          quantity: .5
+          unit: oz
+        - slug: peychauds-bitters
+          quantity: 2
+          unit: dash
+      construction:
+        slug: stir
+      instructions:
+        - text: >-
+            Combine all of the ingredients in a mixing glass with ice and stir to
+            chill. Strain into a rocks glass over a single ice cube. Garnish.
+      garnish:
+        - slug: orange-peel
+      straw: false
+      citations:
+        - title: Night Tripper from Jewel of the South
+          publisher: Imbibe
+          date: 2020-01-10
+          href: https://imbibemagazine.com/recipe/night-tripper-from-jewel-of-the-south/

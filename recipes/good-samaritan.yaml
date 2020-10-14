@@ -1,0 +1,41 @@
+---
+- slug: good-samaritan
+  display_name: Good Samaritan
+  specs:
+    - slug: original
+      origin:
+        creator: Paul Rogers
+        venue: Marsh House
+        location: Nashville TN
+        story: >-
+          This equal-parts beauty pairs the richness of bourbon and sherry with
+          the bright sweetness of banana liqueur and lemon juice.
+      glassware:
+        - slug: rocks
+      components:
+        - slug: bourbon
+          quantity: 1
+          unit: oz
+        - slug: amontillado-sherry
+          quantity: 1
+          unit: oz
+        - slug: giffard-banane-du-bresil
+          quantity: 1
+          unit: oz
+        - slug: lemon-juice
+          quantity: 1
+          unit: oz
+      construction:
+        slug: shake
+      instructions:
+        - text: Combine all the ingredients in a shaker with ice and shake to combine. Strain into a rocks glass over fresh ice and garnish.
+      garnish:
+        - slug: dehydrated-lemon-wheel
+          notes:
+            - text: or fresh lemon wheel
+      straw: false
+      citations:
+        - title: Equal Parts Cocktail: Good Samaritan
+          publisher: Imbibe
+          date: 2019-05-27
+          href: https://imbibemagazine.com/recipe/equal-parts-cocktail-good-samaritan/

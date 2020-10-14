@@ -1,0 +1,62 @@
+---
+- slug: pedro-martinez
+  display_name: Pedro Martinez
+  specs:
+    - slug: original
+      origin:
+        creator: Michael Shea
+        venue: Rum Club
+        location: Portland OR
+      glassware:
+        - slug: rocks
+      components:
+        - slug: demerara-rum
+          quantity: 2
+          unit: oz
+        - slug: cocchi-vermouth-di-torino
+          quantity: 1
+          unit: oz
+        - slug: maraschino-liqueur
+          quantity: .25
+          unit: oz
+        - slug: aromatic-bitters
+          quantity: 10
+          unit: drop
+        - slug: orange-bitters
+          quantity: 3
+          unit: dash
+        - slug: absinthe
+          quantity: 4
+          unit: drop
+        - slug: lime-peel
+          quantity: 1
+          notes:
+            - slug: small strip
+      construction:
+        slug: stir
+      instructions:
+        - text: >-
+            Squeeze the lime peel inside a mixing glass, then drop in the peel 
+            and add the remaining liquid ingredients. Stir the ingredients with 
+            ice to chill, then strain into a glass holding a single large ice cube. 
+      garnish:
+        - slug: lemon-twist
+          quantity: 2
+          notes:
+            - text: discarded
+      straw: false
+      citations:
+        - title: Pedro Martinez Cocktail
+          date: 2020-08-20
+          href: https://imbibemagazine.com/recipe/pedro-martinez-cocktail/
+      notes:
+        - text: >-
+            pay careful attention to the drops vs dashes. mine was far too ango-heavy which
+            is easy to do when you mix drops and dashes. the lime peel doesn't seem to do
+            much.
+        - text: >-
+            Having fixed my issue above, this is a good stirred rum drink. I dont think its
+            as good as the Rail Stop martinez but very few things are. Did with 1.5oz El
+            Dorado 12 and a half oz of Privateer to give it some kick. One dash Ango.
+            No sugar is cool and the house sweet vermouth works out pretty good. Dolin would
+            make this a bit too sweet I think.
