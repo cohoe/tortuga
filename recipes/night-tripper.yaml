@@ -10,13 +10,13 @@
       glassware:
         - slug: rocks
       components:
-        - slug: bourbon
+        - slug: bourbon-whiskey
           quantity: 1.75
           unit: oz
-        - slug: averna-amaro
+        - slug: amaro-averna
           quantity: .75
           unit: oz
-        - slug: strega
+        - slug: strega-liqueur
           quantity: .5
           unit: oz
         - slug: peychauds-bitters

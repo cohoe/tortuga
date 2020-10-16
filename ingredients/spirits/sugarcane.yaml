@@ -57,6 +57,16 @@
     - appleton-estate-12-year-rare-blend-rum
     - smith-cross-jamaican-rum
 
+- display_name: Demerara Rum
+  parent: rum
+  slug: demerara-rum
+  kind: index
+  elements:
+    - el-dorado-3-year-rum
+    - el-dorado-8-year-rum
+    - el-dorado-12-year-rum
+    - el-dorado-15-year-rum
+
 - display_name: Navy-strength Jamaican Rum
   parent: rum
   slug: navy-strength-jamaican-rum

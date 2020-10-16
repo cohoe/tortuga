@@ -139,6 +139,6 @@
   kind: product
 
 - display_name: "Dewar's White Label Scotch"
-  parent: blende-scotch-whisky
+  parent: blended-scotch-whisky
   slug: dewars-white-label-scotch
   kind: product

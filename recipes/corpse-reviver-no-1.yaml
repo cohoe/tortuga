@@ -9,7 +9,7 @@
         - slug: cognac
           quantity: 1.5
           unit: oz
-        - slug: bonded-apple-brandy
+        - slug: lairds-bonded-apple-brandy
           quantity: 1
           unit: oz
         - slug: sweet-vermouth
@@ -33,7 +33,8 @@
           author:
             - Jamie Boudreau
             - James O. Fraioli
-          date: 2016
+          # @TODO exact date unknown
+          date: 2016-01-01
           publisher: Houghton Mifflin Harcourt
           page: 111
       notes:

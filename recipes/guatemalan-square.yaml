@@ -10,13 +10,13 @@
       glassware:
         - slug: rocks
       components:
-        - slug: zacapa-23-rum
+        - slug: ron-zacapa-centenario-23-rum
           quantity: 1
           unit: oz
         - slug: rittenhouse 100 rye whiskey
           quantity: .5
           unit: oz
-        - slug: carpano-antica
+        - slug: carpano-antica-formula-vermouth
           quantity: .5
           unit: oz
         - slug: pierre-ferrand-dry-curacao

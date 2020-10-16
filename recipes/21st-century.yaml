@@ -26,11 +26,11 @@
           display_name: Lemon Juice
           quantity: 0.75
           unit: oz
-        - slug: pernod
-          quantity: rinse
-    straw: false
-    citations: []
-    notes:
-      - text: still need an absinthe/pastis per spec. not bad but the scotch i used seems to have messed it up
-    instructions:
-      - text: Shake with ice, then strain into chilled, Pernod-rinsed coupe
+        - slug: pernod-anise-liqueur
+          unit: rinse
+      straw: false
+      citations: []
+      notes:
+        - text: still need an absinthe/pastis per spec. not bad but the scotch i used seems to have messed it up
+      instructions:
+        - text: Shake with ice, then strain into chilled, Pernod-rinsed coupe

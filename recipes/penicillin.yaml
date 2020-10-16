@@ -19,12 +19,14 @@
         - slug: honey-syrup
           quantity: .75
           unit: oz
-        - slug: islay-scotch-whiskey
+        - slug: islay-single-malt-scotch-whisky
           quantity: .25
           unit: oz
         - slug: ginger
-          quantity: 2-3
+          quantity: 2
           unit: quarter-size slices
+          notes:
+            - text: "2 or 3"
       construction:
         slug: shake
       instructions:
@@ -55,7 +57,7 @@
         - slug: falernum
           quantity: .5
           unit: oz
-        - slug: islay-scotch-whiskey
+        - slug: islay-single-malt-scotch-whisky
           quantity: .25
           unit: oz
       construction:

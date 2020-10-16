@@ -1,3 +1,6 @@
+---
+# @TODO break out categories from mexican law
+#
 - display_name: Del Maguey Chichicapa Mezcal
   parent: mezcal
   slug: del-maguey-chichicapa-mezcal
@@ -41,4 +44,9 @@
 - display_name: Sombra Mezcal
   parent: mezcal
   slug: sombra-mezcal
+  kind: product
+
+- display_name: Montelobos Mezcal
+  parent: mezcal
+  slug: montelobos-mezcal
   kind: product

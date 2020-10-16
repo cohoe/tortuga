@@ -10,16 +10,16 @@
       glassware:
         - slug: double-old-fashioned
       components:
-        - slug: old-grand-dad-bonded-bourbon
+        - slug: old-grand-dad-bonded-bourbon-whiskey
           quantity: 1
           unit: oz
         - slug: plantation-pineapple-rum
           quantity: .5
           unit: oz
-        - slug: smith-and-cross-rum
+        - slug: smith-cross-jamaican-rum
           quantity: .25
           unit: oz
-        - slug: averna-amaro
+        - slug: amaro-averna
           quantity: .25
           unit: oz
         - slug: vanilla-syrup

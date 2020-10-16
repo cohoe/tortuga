@@ -13,7 +13,7 @@
       glassware:
         - slug: rocks
       components:
-        - slug: bourbon
+        - slug: bourbon-whiskey
           quantity: 1
           unit: oz
         - slug: amontillado-sherry
@@ -35,7 +35,7 @@
             - text: or fresh lemon wheel
       straw: false
       citations:
-        - title: Equal Parts Cocktail: Good Samaritan
+        - title: 'Equal Parts Cocktail: Good Samaritan'
           publisher: Imbibe
           date: 2019-05-27
           href: https://imbibemagazine.com/recipe/equal-parts-cocktail-good-samaritan/

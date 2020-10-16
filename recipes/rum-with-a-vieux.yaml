@@ -10,13 +10,13 @@
       glassware:
         - slug: cocktail
       components:
-        - slug: lightly-aged-rhum-agricole
+        - slug: lightly-aged-rhum
           quantity: 1
           unit: oz
         - slug: cognac
           quantity: 1
           unit: oz
-        - slug: aged-jamaican-rum
+        - slug: jamaican-rum
           quantity: .25
           unit: oz
         - slug: rich-simple-syrup

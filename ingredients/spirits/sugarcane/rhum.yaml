@@ -1,3 +1,6 @@
+---
+# @TODO: Split agricole vs rhum
+#
 - display_name: Aged Rhum
   slug: aged-rhum
   parent: rhum

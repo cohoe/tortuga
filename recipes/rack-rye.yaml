@@ -1,0 +1,47 @@
+- slug: rack-rye
+  display_name: Rack & Rye
+  origin:
+    creator: Lydia Reissmueller
+    venue: PDT
+    location: New York NY
+    year: 2009
+    story: >-
+      Lydia Reissmueller came up with this twist on Rock & Rye, a liqueur prepared
+      by sweetening straight rye, batavia arrack, demerara syrup and bitters. Fall 2009.
+  specs:
+    - slug: pdt
+      display_name: PDT
+      glassware:
+        - slug: rocks
+          display_name: Rocks
+      construction:
+        slug: stir
+        display_name: Stir
+      components:
+        - slug: wild-turkey-rye-whiskey
+          quantity: 1.5
+          unit: oz
+        - slug: batavia-arrack-van-oosten
+          quantity: 0.75
+          unit: oz
+        - slug: demerara-syrup
+          quantity: 0.25
+          unit: oz
+        - slug: angostura-bitters
+          quantity: 2
+          unit: dash
+        - slug: angostura-orange-bitters
+          quantity: 2
+          unit: dash
+      garnish:
+        - slug: lemon-peel
+          notes:
+            - text: discard
+        - slug: orange-peel
+          notes:
+            - text: discard
+      straw: false
+      instructions:
+      - text: >-
+          Stir with ice, then strain into a chilled rocks glass filled with ice.
+          Pinch an orange peel and lemon peel over the surface and discard

@@ -21,8 +21,8 @@
           display_name: Dolin Blanc Vermouth
           quantity: 0.75
           unit: ounce
-        - slug: suze-saveur-dautrefois-liqueur
-          display_name: Suze Saveur Dautrefois Liqueur
+        - slug: suze
+          display_name: Suze
           quantity: 0.75
           unit: ounce
       garnish:
@@ -52,8 +52,8 @@
           display_name: Lillet Blanc
           quantity: 1
           unit: oz
-        - slug: suze-saveur-dautrefois
-          display_name: Suze Saveur Dautrefois
+        - slug: suze
+          display_name: Suze
           quantity: 0.75
           unit: oz
       straw: false

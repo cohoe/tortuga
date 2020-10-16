@@ -15,6 +15,11 @@
   aliases:
     - "Laird's Old Apple Brandy - 7 1/2"
 
+- display_name: "Copper & Kings Floodwall Apple Brandy"
+  parent: apple-brandy
+  slug: copper-kings-floodwall-apple-brandy
+  kind: product
+
 - display_name: Applejack
   parent: apple-brandy
   slug: applejack

@@ -39,3 +39,8 @@
   kind: product
   aliases:
     - The Sexton Irish Whiskey
+
+- display_name: Writers Tears Irish Whiskey
+  parent: irish-whiskey
+  slug: writers-tears-irish-whiskey
+  kind: product
