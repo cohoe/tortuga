@@ -33,6 +33,10 @@
       straw: false
       citations:
         - title: Meehan's Bartender Manual
+      notes:
+        - text: >-
+            The rhum really punches forward here. I'm sure this is what it was supposed to be but
+            I don't think it's my thing.
     - slug: State Park
       glassware:
         - slug: tiki

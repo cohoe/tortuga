@@ -52,11 +52,12 @@
       instructions:
         - text: shake all ingredients with ice, then strain into a coupe
       straw: false
-    citations:
-      - title: 17th Century Recipe
-        href: https://www.foodandwine.com/recipes/17th-century-cocktails-2011
-      - title: 17th century
-        author:
-          - Fredrick Yarm
-        href: http://cocktailvirgin.blogspot.com/2015/04/17th-century.html
-        date: 2015-04-27
+      citations:
+        - title: 17th century
+          author:
+            - Fredrick Yarm
+          href: http://cocktailvirgin.blogspot.com/2015/04/17th-century.html
+          date: 2015-04-27
+  citations:
+    - title: 17th Century Recipe
+      href: https://www.foodandwine.com/recipes/17th-century-cocktails-2011
