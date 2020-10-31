@@ -1,0 +1,44 @@
+---
+- slug: exit-strategy
+  display_name: Exit Strategy
+  origin:
+    creator: Natasha David
+    venue: Nitecap
+    location: New York NY
+  specs:
+    - slug: amaro
+      glassware: double-old-fashioned
+      components:
+        - slug: amaro-nonino
+          quantity: 1.5
+          unit: oz
+        - slug: garmain-robin-craft-method-brandy
+          quantity: .75
+          unit: oz
+        - slug: amaro-meletti
+          quantity: .25
+          unit: oz
+        - slug: kosher-salt
+          quantity: 1
+          unit: pinch
+      construction:
+        slug: stir
+      instructions:
+        text: >-
+          Combine all the ingredients except the garnish in a mixing glass filled
+          with ice. Stir until chilled and strain into a double old-fashioned glass
+          over a large ice cube. Garnish with the orange twist.
+      garnish:
+        - slug: orange-twist
+      straw: false
+      citations:
+        - title: 'Amaro'
+          author:
+            - Brad Thomas Parsons
+          date: 2016-01-29
+          publisher: Ten Speed Press
+          page: 148
+      notes:
+        - text: >-
+            My first time making this (09/09/2019) was "dont remmeber much was probably
+            ok"? Understatement because I didn't do twists then. This is a great drink.

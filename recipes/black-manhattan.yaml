@@ -1,0 +1,45 @@
+---
+- slug: black-manhattan
+  display_name: Black Manhattan
+  origin:
+    venue: Bourbon and Branch
+    location: San Francisco CA
+    year: 2007
+  specs:
+    - slug: original
+      glassware:
+        - slug: coupe
+      components:
+        - slug: bourbon
+          quantity: 2
+          unit: oz
+        - slug: averna
+          quantity: 1
+          unit: oz
+        - slug: angostura-bitters
+          quantity: 1
+          unit: dash
+        - slug: orange-bitters
+          quantity: 1
+          unit: dash
+      construction:
+        slug: stir
+      instructions:
+        - text: >-
+            Combine all the ingredients except the garnish in a mixing glass
+            filled with ice. Stir until chilled and strain into a chilled coupe
+            or cocktail glass. Garnish with the cocktail cherry.
+      garnish:
+        - slug: cherry
+      straw: false
+      citations:
+        - title: 'Amaro'
+          author:
+            - Brad Thomas Parsons
+          date: 2016-01-29
+          publisher: Ten Speed Press
+          page: 127
+      notes:
+        - text: >-
+            Not bad, but not super exciting. Then again it is a bourbon drink
+            and I don't exactly love those.

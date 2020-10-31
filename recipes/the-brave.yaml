@@ -1,0 +1,52 @@
+---
+- slug: the-brave
+  display_name: The Brave
+  origin:
+    creator: Bobby Heugel
+    venue: Anvil Bar and Refuge
+  specs:
+    - slug: original
+      glassware:
+        - slug: wineglass
+      components:
+        - slug: del-maguey-chichicapa-mezcal
+          quantity: 1
+          unit: oz
+        - slug: 7-leguas-blanco-tequila
+          quantity: 1
+          unit: oz
+        - slug: averna
+          quantity: .5
+          unit: oz
+        - slug: royal-combier
+          quantity: 1
+          unit: barspoon
+          notes:
+            - text: Grand Marnier or another Curacao also OK
+        - slug: angostura-bitters
+          quantity: 3
+          unit: mists
+      construction:
+        slug: build
+      instructions:
+        - text: >-
+            In a wineglass, combine the mezcal, tequila, Averna, and curacao and swirl
+            together. Using an atomizer or an olive oil mister, mist 3 small pumps of
+            bitters on the insides of the glass above the cocktail. Garnish with a
+            flamed orange zest, rested on the rim of the wineglass.
+      garnish:
+        - slug: orange twist
+      straw: false
+      citations:
+        - title: 'Amaro'
+          author:
+            - Brad Thomas Parsons
+          date: 2016-01-29
+          publisher: Ten Speed Press
+          page: 130
+      notes:
+        - text: >-
+            Another scaffa. Very agave heavy. I almost would prefer the chilling
+            effect of the Oaxaca Old Fashioned rather than room-temperature. I
+            also used Astral rather than Siete Leguas and the Pierre Ferrand
+            dry curacao. Wonder if full sweet orange would work better.

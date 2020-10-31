@@ -1,0 +1,8 @@
+---
+- slug: something-shot
+  display_name: Something Shot
+  items:
+    - cocktail_slug: cia # Amaro p214
+    - cocktail_slug: full-monte # Amaro p214
+    - cocktail_slug: jimbo # Amaro p218
+    - cocktail_slug: schatz, bro # Amaro p220

@@ -5,7 +5,7 @@
     creator: Harry McElhone
     year: 1927
   specs:
-    - slug: original
+    - slug: pdt
       glassware:
         - slug: rocks
       components:
@@ -29,3 +29,37 @@
         - title: Meehan's Bartender Manual
       notes:
         - text: could sub a bourbon in for the rye
+    - slug: amaro
+      glassware: rocks
+      components:
+        - slug: bourbon
+          quantity: 1.5
+          unit: oz
+        - slug: campari
+          quantity: .75
+          unit: oz
+        - slug: sweet-vermouth
+          quantity: .75
+          unit: oz
+      construction:
+        slug: stir
+      instructions:
+        text: >-
+          Combine the bourbon, Cambari, and sweet vermouth in a mixing glass filled
+          with ice. Stir until chilled and strain into a double old-fashioned flass
+          over a large ice cube or into a chilled coupe or cocktail glass. Garnish
+          with the orange zest.
+      garnish:
+        - slug: orange-zest
+      straw: false
+      citations:
+        - title: 'Amaro'
+          author:
+            - Brad Thomas Parsons
+          date: 2016-01-29
+          publisher: Ten Speed Press
+          page: 100
+      notes:
+        - text: >-
+            Turns out this works out better than I expected. A phat twist with
+            French sweet vermouth certainly helps.
