@@ -9,7 +9,10 @@
         venue: Apothecary 330
         location: Fort Lauderdale FL
         story: >-
-            While this Cuban classic is right at home in Kyshali Ramirez’s home state of Florida, it’s also straightforward enough to make at your home bar. Apothecary 330’s version calls for equal parts aged rum and bianco vermouth, lifted by housemade grenadine.
+            While this Cuban classic is right at home in Kyshali Ramirez's
+            home state of Florida, it’s also straightforward enough to make
+            at your home bar. Apothecary 330's version calls for equal parts
+            aged rum and bianco vermouth, lifted by housemade grenadine.
       glassware:
         - slug: coupe
       components:
@@ -28,14 +31,17 @@
       construction:
         slug: stir
       instructions:
-        - text: shake with ice, then strain into a rocks glass filled with ice cubes
-        - combine all the ingredients in a mixing glass. Add ice and stir. Strain into a chillec coupe.
+        - text: combine all the ingredients in a mixing glass. Add ice and stir. Strain into a chilled coupe.
       garnish:
         - slug: orange-twist
       straw: false
       notes:
-        - text: homemade grenadine, 8oz POM pomegranate juice, 4oz sugar, 5-6 drops orange blossom water
-        - text: Add pomegranate juice to a saucepan over medium heat and bring to a simmer. Cook until reduced by half, about 4 ounces. Add sugar and stir until completely dissolved. Remove from heat and add 5 to 6 drops of orange blossom water. Bottle and refrigerate.
+        - text: >-
+            Homemade grenadine, 8oz POM pomegranate juice, 4oz sugar, 5-6 drops
+            orange blossom water. Add pomegranate juice to a saucepan over medium
+            heat and bring to a simmer. Cook until reduced by half, about 4 ounces.
+            Add sugar and stir until completely dissolved. Remove from heat and
+            add 5 to 6 drops of orange blossom water. Bottle and refrigerate.
         - text: even with not-grenadine this is good. real grenadine probably makes it better
       citations:
         - title: 'Tip Your Bartender: Apothecary 330'

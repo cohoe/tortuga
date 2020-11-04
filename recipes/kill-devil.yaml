@@ -1,0 +1,50 @@
+---
+- slug: kill-devil
+  display_name: Kill Devil
+  origin:
+    creator: Jillian Vose
+    venue: The Dead Rabbit Grocery and Grog
+  specs:
+    - slug: original
+      display_name: Original
+      glassware:
+        - slug: punch-glass
+      components:
+        - slug: mount-gay-black-barrel-rum
+          quantity: 1.5
+          unit: oz
+        - slug: banks-7-rum
+          quantity: .5
+          unit: oz
+        - slug: barbadillo-olorosso-sherry
+          quantity: .5
+          unit: oz
+        - slug: togarashi-syrup
+          quantity: 1
+          unit: oz
+        - slug: pineapple-juice
+          quantity: .5
+          unit: oz
+        - slug: lime-juice
+          quantity: .75
+          unit: oz
+        - slug: angostura-bitters
+          quantity: 1
+          unit: dash
+      construction:
+        slug: shake
+      instructions:
+        - text: shake with ice; fine strain and serve with an ice nugget
+      garnish:
+        - slug: nutmeg
+      straw: false
+      notes:
+      citations:
+        - title: 'Mixology & Mayhem'
+          author:
+            - Sean Muldoon
+            - Jack McGarry
+            - Jillian Vose
+          publisher: Houghton Mifflin Harcourt
+          date: 2018
+          page: 163
