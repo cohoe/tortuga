@@ -1,0 +1,45 @@
+---
+- slug: waterproof-watch
+  display_name: Waterproof Watch
+  origin:
+    creator: Sother Teague
+    venue: Amor y Amargo
+    location: Brooklyn NY
+  specs:
+    - slug: imbibe
+      glassware:
+        - slug: rocks
+      components:
+        - slug: london-dry-gin
+          quantity: 1.5
+          unit: oz
+        - slug: amaro-montenegro
+          quantity: .75
+          unit: oz
+        - slug: aperol
+          quantity: .75
+          unit: oz
+        - slug: dale-degroffs-pimento-bitters
+          quantity: 2
+          unit: dash
+      construction:
+        slug: stir
+      instructions:
+        - text: >-
+            Stir all of the ingredients together in a mixing glass with ice to 
+            chill, then strain into a rocks glass over fresh ice. Garnish.
+      garnish:
+        - slug: orange-twist
+      straw: false
+      citations:
+        - title: Imbibe Magazine
+          date: 2019-10-16
+          href: https://imbibemagazine.com/recipe/amor-amargo-waterproof-watch/
+      notes:
+        - text: From the menu, the note is "bright, juicy, baking spice".
+        - text: >-
+            The Aperol seems to take a front stage here. Wonder if I might like
+            Plymouth here more. Starts off OK but I definitely prefer the Coral
+            Reef in this style of drink. The Montenegro seems to get lost. This
+            might be one of the most neutral drinks I've ever had. Not bitter
+            but not sweet. Good gateway with time in the glass.

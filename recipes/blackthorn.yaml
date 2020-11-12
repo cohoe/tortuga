@@ -42,5 +42,38 @@
         - title: Imbibe Magazine
           date: 2019-01-01
           page: 81
-  notes:
-    - text: i want to like this more, but it came out somewhat watery. Did with Dead Rabbit.
+      notes:
+        - text: i want to like this more, but it came out somewhat watery. Did with Dead Rabbit.
+    - slug: wonderich
+      glassware:
+        - slug: coupe
+      components:
+        - slug: powers-irish-whiskey
+          quantity: 1.5
+          unit: oz
+        - slug: dolin-dry-vermouth
+          quantity: 1.5
+          unit: oz
+        - slug: absinthe
+          quantity: 1
+          unit: dash
+        - slug: bogarts-bitters
+          quantity: 3
+          unit: dash
+      construction: stir
+      instructions:
+        - text: Stir. With anticipation, mind you.
+      garnish:
+        - slug: lemon-twist
+      straw: false
+      citations:
+        - title: Twitter
+          author:
+            - David Wonderich
+          date: 2020-11-04
+          href: https://twitter.com/DavidWondrich/status/1324125017773395970
+      notes:
+        - text: >-
+            This is quite nice. Probably better with a lemon twist versus my orange. Nice
+            balance, not watered down like the other spec.
+

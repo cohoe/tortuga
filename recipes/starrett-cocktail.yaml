@@ -1,0 +1,53 @@
+---
+- slug: starrett-cocktail
+  display_name: Starrett Cocktail
+  origin:
+    creator: Ned King
+    venue: Gigantic
+    location: Easthampton MA
+    story: >-
+      Amaretto meets a blend of base spirits in this robust cocktail.
+  specs:
+    - slug: imbibe
+      glassware:
+        - slug: rocks
+      components:
+        - slug: cognac
+          quantity: 1
+          unit: oz
+        - slug: el-dorado-15-rum
+          quantity: .5
+          unit: oz
+        - slug: genever
+          quantity: .5
+          unit: oz
+        - slug: cynar
+          quantity: .5
+          unit: oz
+        - slug: amaretto
+          quantity: .5
+          unit: oz
+        - slug: bogarts-bitters
+          quantity: 3
+          unit: dash
+        - slug: angostura-bitters
+          quantity: 2
+          unit: dash
+      construction:
+        slug: stir
+      instructions:
+        - text: >-
+            Stir all the ingredients with ice, strain into an ice-filled glass, then garnish.
+      garnish:
+        - slug: lemon-twist
+      straw: false
+      notes:
+        - text: Made this with cruzan single barrel. It is balanced but kinda feels slightly watery
+      citations:
+        - title: Imbibe Magazine
+          date: 2020-11-01
+          issue: November/December
+      notes:
+        - text: >-
+            A lot of bottles go into the making of this drink. Comes out OK but not overly great. The
+            Mole bitters take front and center.

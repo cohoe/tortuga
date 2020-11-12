@@ -1,0 +1,41 @@
+---
+- slug: casualty
+  display_name: Casualty
+  origin:
+    venue: Amor y Amargo
+    location: New York NY
+  specs:
+    - slug: original
+      glassware:
+        - slug: coupe
+      components:
+        - slug: famous-grouse-blended-scotch-whisky
+          quantity: 1.5
+          unit: oz
+        - slug: amaro-montenegro
+          quantity: .75
+          unit: oz
+        - slug: byrrh
+          quantity: .75
+          unit: oz
+        - slug: chocolate-bitters
+          quantity: 2
+          unit: dash
+      construction:
+        slug: stir
+      instructions:
+        - text: >-
+            Combine all ingredients in a mixing glass and stir all ingreidnets with plenty
+            of ice. Strain the drink into a chiled cocktail glass. Express an orange twist
+            over the drink and drop in.
+      garnish:
+        - slug: orange-twist
+      straw: false
+      citations:
+        - title: Punch
+          href: https://punchdrink.com/recipes/casualty/
+      notes:
+        - text: >-
+            Did with Dewers white label. Gotta be careful about the chocolate bitters.
+            They can often overpower. I think I'm OK though. For being a scotch drink
+            this goes down rather easy. Almost like sweet vermouth based but not.
