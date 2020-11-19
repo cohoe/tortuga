@@ -1,0 +1,47 @@
+---
+- slug: brown-bomber
+  display_name: Brown Bomber
+  specs:
+    - slug: pdt
+      display_name: PDT
+      origin:
+        creator: Jim Meehan
+        venue: PDT
+        location: New York NY
+        year: 2008
+        story: >-
+          Jim created this for the PDT cocktail menu in the spring
+          of 2008.
+      glassware:
+        - slug: coupe
+      components:
+        - slug: george-dickel-no-12-tennesee-whisky
+          quantity: 2
+          unit: oz
+        - slug: lillet-blanc
+          quantity: .75
+          unit: oz
+        - slug: suze
+          quantity: .5
+          unit: oz
+      construction:
+        slug: stir
+      instructions:
+        - text: >-
+            Stir with ice, then strain into a chilled coupe. Garnish with
+            the lemon twist.
+      garnish:
+        - slug: lemon-twist
+      straw: false
+      citations:
+        - title: Meehan's Bartender Manual
+          publisher: Ten Speed Press
+          date: 2017
+          author:
+            - Jim Meehan
+          page: 336
+      notes:
+        - text: >-
+            Did with Uncle Nearest 1884. This has an interesting herbal and
+            slightly spice quality to it. Go figure. Definitely worthy of a
+            "weird" award, but not really my thing. Somewhat dry.

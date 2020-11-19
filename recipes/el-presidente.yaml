@@ -1,6 +1,11 @@
 ---
 - slug: el-presidente
   display_name: El Presidente
+  origin:
+    creator: Constantino Ribalaigua
+    venue: Bar La Florida
+    location: Havana Cuba
+    year: 1915
   specs:
     - slug: presidente
       display_name: Presidente
@@ -48,3 +53,42 @@
           author:
             - PUNCH
           href: https://punchdrink.com/articles/tip-your-bartender-apothecary-330-fort-lauderdale/
+    - slug: pdt
+      display_name: PDT
+      origin:
+        creator: Jim Meehan
+        venue: PDT
+        location: New York NY
+      glassware:
+        - slug: coupe
+      components:
+        - slug: havana-club-anejo-anos-rum
+          quantity: 1.5
+          unit: oz
+        - slug: alessio-vermouth-bianco
+          quantity: 1.5
+          unit: oz
+        - slug: pierre-ferrand-dry-curacao
+          quantity: .25
+          unit: oz
+        - slug: jack-rudy-grenadine
+          quantity: 1
+          unit: barspoon
+        - slug: angostura-bitters
+          quantity: 1
+          unit: dash
+      construction:
+        slug: stir
+      instructions:
+        - text: >-
+            Stir with ice, then strain into a chilled coupe. Garnish with the orange twist.
+      garnish:
+        - slug: orange-twist
+      straw: false
+      citations:
+        - title: Meehan's Bartender Manual
+          publisher: Ten Speed Press
+          date: 2017
+          author:
+            - Jim Meehan
+          page: 261

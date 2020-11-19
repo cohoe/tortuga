@@ -1,0 +1,39 @@
+---
+- slug: bobby-burns
+  display_name: Bobby Burns
+  specs:
+    - slug: pdt
+      display_name: PDT
+      glassware:
+        - slug: coupe
+      components:
+        - slug: compass-box-oak-cross-blended-malt-scotch-whiskey
+          quantity: 2
+          unit: oz
+        - slug: martini-rosso-vermouth
+          quantity: .75
+          unit: oz
+        - slug: benedictine
+          quantity: .25
+          unit: oz
+      construction:
+        slug: stir
+      instructions:
+        - text: >-
+            Stir with ice, then strain into a chilled coupe. Serve with
+            the cookies on the side.
+      garnish:
+        - slug: walkers-scottish-shortbread-cookies
+      straw: false
+      citations:
+        - title: Meehan's Bartender Manual
+          publisher: Ten Speed Press
+          date: 2017
+          author:
+            - Jim Meehan
+          page: 323
+      notes:
+        - text: >-
+            Did with Dewers. It's fine, but not overly exciting for me. I also
+            don't really dig scotch. Certainly not offensive. The cookies may
+            make this a more interesting time.

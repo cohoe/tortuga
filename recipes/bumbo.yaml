@@ -1,0 +1,37 @@
+---
+- slug: bumbo
+  display_name: Bumbo
+  specs:
+    - slug: amor-y-amargo
+      origin:
+        creator: Sother Teague
+        venue: Amor y Amargo
+        location: Brooklyn NY
+      construction: stir
+      components:
+        - slug: diplomatico-anejo
+          quantity: 1.5
+          unit: oz
+        - slug: smith-and-cross-rum
+          quantity: .5
+          unit: oz
+        - slug: punch-fantasia
+          quantity: .25
+          unit: oz
+        - slug: cane-syrup
+          quantity: 1
+          unit: barspoon
+        - slug: scrappys-lime-bitters
+          quantity: 2
+          unit: dash
+      instructions:
+        - text: >-
+            Build all ingredients in an Old Fashioned glass. Add ice and stir
+            gently to combine. Express a large grapefruit twist over the
+            drink and place in the glass.
+      garnish:
+        - slug: grapefruit-twist
+      cititations:
+        - title: Instagram
+          date: 2016-01-06
+          href: https://www.instagram.com/p/BANxAsELbTi/?hl=en
