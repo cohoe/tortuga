@@ -7,3 +7,8 @@
   parent: american-grape-brandy
   slug: bertoux-brandy
   kind: product
+
+- display_name: Germain Robin Craft Method Brandy
+  parent: american-grape-brandy
+  slug: germain-robin-craft-method-brandy
+  kind: product

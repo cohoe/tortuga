@@ -40,6 +40,11 @@
   slug: bonal-gentiane-quina
   kind: product
 
+- display_name: Byrrh
+  parent: quinquina
+  slug: byrrh
+  kind: product
+
 - display_name: Madeira
   parent: fortified-wine
   slug: madeira
@@ -210,6 +215,11 @@
 - display_name: Lustau Oloroso Sherry
   parent: oloroso-sherry
   slug: lustau-oloroso-sherry
+  kind: product
+
+- display_name: Barbadillo Oloroso Sherry
+  parent: oloroso-sherry
+  slug: barbadillo-oloroso-sherry
   kind: product
 
 - display_name: Lustau Palo Cortado Sherry

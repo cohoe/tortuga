@@ -32,7 +32,7 @@
     - slug: amaro
       glassware: rocks
       components:
-        - slug: bourbon
+        - slug: bourbon-whiskey
           quantity: 1.5
           unit: oz
         - slug: campari

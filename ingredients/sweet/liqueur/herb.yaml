@@ -131,3 +131,8 @@
   parent: herbal-liqueur
   slug: jagermeister
   kind: product
+
+- display_name: Punch Fantasia
+  parent: herbal-liqueur
+  slug: punch-fantasia
+  kind: product

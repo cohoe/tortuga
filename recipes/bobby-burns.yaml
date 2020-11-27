@@ -7,10 +7,10 @@
       glassware:
         - slug: coupe
       components:
-        - slug: compass-box-oak-cross-blended-malt-scotch-whiskey
+        - slug: compass-box-oak-cross-blended-malt-scotch-whisky
           quantity: 2
           unit: oz
-        - slug: martini-rosso-vermouth
+        - slug: martini-rossi-sweet-vermouth
           quantity: .75
           unit: oz
         - slug: benedictine

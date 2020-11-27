@@ -64,6 +64,11 @@
   slug: bokers-bitters
   kind: product
 
+- display_name: "Bogart's Bitters"
+  parent: bitters
+  slug: bogarts-bitters
+  kind: ingredient
+
 - display_name: Fee Brothers Old Fashioned Bitters
   parent: bitters
   slug: fee-brothers-old-fashioned-bitters

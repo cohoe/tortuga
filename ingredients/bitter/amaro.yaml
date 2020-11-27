@@ -74,6 +74,11 @@
   slug: cynar
   kind: product
 
+- display_name: Amaro Montenegro
+  parent: amaro
+  slug: amaro-montenegro
+  kind: product
+
 - display_name: Fernet-Branca
   parent: amaro
   slug: fernet-branca

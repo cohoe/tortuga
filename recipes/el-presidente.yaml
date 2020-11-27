@@ -62,7 +62,7 @@
       glassware:
         - slug: coupe
       components:
-        - slug: havana-club-anejo-anos-rum
+        - slug: havana-club-7-year-old-rum
           quantity: 1.5
           unit: oz
         - slug: alessio-vermouth-bianco

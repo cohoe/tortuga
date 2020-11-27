@@ -15,6 +15,11 @@
   slug: banks-5-island-rum
   kind: product
 
+- display_name: Banks 7 Golden Age Rum
+  parent: lightly-aged-blended-rum
+  slug: banks-7-golden-age-rum
+  kind: product
+
 - display_name: El Dorado 3-Year Rum
   parent: lightly-aged-blended-rum
   slug: el-dorado-3-year-rum
@@ -30,7 +35,17 @@
   slug: mount-gay-eclipse-rum
   kind: product
 
+- display_name: Mount Gay Black Barrel Rum
+  parent: lightly-aged-blended-rum
+  slug: mount-gay-black-barrel-rum
+  kind: product
+
 - display_name: Myers's Dark Rum
   parent: lightly-aged-blended-rum
   slug: myerss-dark-rum
+  kind: product
+
+- display_name: "Diplomático Añejo Rum"
+  parent: lightly-aged-blended-rum
+  slug: diplomatico-anejo-rum
   kind: product

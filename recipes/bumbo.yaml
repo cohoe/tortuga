@@ -9,16 +9,16 @@
         location: Brooklyn NY
       construction: stir
       components:
-        - slug: diplomatico-anejo
+        - slug: diplomatico-anejo-rum
           quantity: 1.5
           unit: oz
-        - slug: smith-and-cross-rum
+        - slug: smith-cross-jamaican-rum
           quantity: .25
           unit: oz
         - slug: punch-fantasia
           quantity: .25
           unit: oz
-        - slug: cane-syrup
+        - slug: rich-cane-sugar-syrup
           quantity: 1
           unit: barspoon
         - slug: scrappys-lime-bitters

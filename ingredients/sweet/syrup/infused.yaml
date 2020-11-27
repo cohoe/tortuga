@@ -115,3 +115,8 @@
   parent: infused-syrup
   slug: charred-pineapple-syrup
   kind: ingredient
+
+- display_name: Togarashi Syrup
+  parent: infused-syrup
+  slug: togarashi-syrup
+  kind: ingredient

@@ -22,6 +22,11 @@
   slug: dolin-blanc-vermouth
   kind: product
 
+- display_name: Alessio Vermouth Bianco 
+  parent: white-vermouth
+  slug: alessio-vermouth-bianco 
+  kind: product
+
 - display_name: Martini & Rossi Bianco Vermouth
   parent: white-vermouth
   slug: martini-rossi-bianco-vermouth

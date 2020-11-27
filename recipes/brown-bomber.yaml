@@ -15,7 +15,7 @@
       glassware:
         - slug: coupe
       components:
-        - slug: george-dickel-no-12-tennesee-whisky
+        - slug: george-dickel-no-12-tennessee-whiskey
           quantity: 2
           unit: oz
         - slug: lillet-blanc

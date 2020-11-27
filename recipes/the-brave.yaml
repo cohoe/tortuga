@@ -12,13 +12,13 @@
         - slug: del-maguey-chichicapa-mezcal
           quantity: 1
           unit: oz
-        - slug: 7-leguas-blanco-tequila
+        - slug: siete-leguas-blanco-tequila
           quantity: 1
           unit: oz
-        - slug: averna
+        - slug: amaro-averna
           quantity: .5
           unit: oz
-        - slug: royal-combier
+        - slug: royal-combier-liqueur
           quantity: 1
           unit: barspoon
           notes:

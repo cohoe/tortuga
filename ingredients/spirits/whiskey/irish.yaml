@@ -44,3 +44,8 @@
   parent: irish-whiskey
   slug: writers-tears-irish-whiskey
   kind: product
+
+- display_name: Powers Irish Whiskey
+  parent: irish-whiskey
+  slug: powers-irish-whiskey
+  kind: product

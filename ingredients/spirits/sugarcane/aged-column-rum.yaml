@@ -27,6 +27,9 @@
   parent: aged-column-still-rum
   slug: havana-club-7-year-old-rum
   kind: product
+  aliases:
+    - Havana Club Añejo Clásico Rum
+    - Havana Club Añejo Años Rum
 
 - display_name: Matusalem Gran Reserva 15 Rum
   parent: aged-column-still-rum
