@@ -1,0 +1,39 @@
+---
+- slug: rusty-nail
+  display_name: Rusty Nail
+  origin:
+    year: 1937
+    story: >-
+      According to David Wondrich, a cocktail composed of Scotch and Drambuie
+      called the B.I.F. was first published in 1937.
+  specs:
+    - slug: pdt
+      display_name: PDT
+      glassware:
+        - slug: rocks
+      construction:
+        slug: stir
+      components:
+        - slug: famous-grouse-blended-scotch-whisky
+          display_name: Famous Grouse Blended Scotch Whisky
+          quantity: 2
+          unit: oz
+        - slug: drambuie
+          display_name: Drambuie
+          quantity: 0.75
+          unit: oz
+      garnish:
+        - slug: orange-twist
+      straw: false
+      citations:
+        - title: PDT Cocktails
+          href: https://mixologytech.com/pdt/index.html
+      notes:
+        - text: >-
+            Did with Dewars blended. Actually quite nice. I think some of the
+            other specs could make this a bit more interesting. Not overly
+            scotchy and not super sweet.
+      instructions:
+        - text: Stir with ice, then strain over a large ice cube into a chilled rocks glass.
+# https://punchdrink.com/recipes/bobby-heugels-rusty-nail/
+# https://imbibemagazine.com/recipe/the-rusty-nail-cocktail/

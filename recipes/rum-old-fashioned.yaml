@@ -2,43 +2,6 @@
 - slug: rum-old-fashioned
   display_name: Rum Old Fashioned
   specs:
-    - slug: Two Rum
-      origin:
-        venue: Drink
-        location: Boston MA
-        year: 2018
-        story: >-
-          Early on in our drinking careers, Brendan asked for something boozy
-          and rum based. We were surprised how tame the Smith & Cross became.
-      glassware:
-        - slug: rocks
-      components:
-        - slug: smith & cross jamaican rum
-          quantity: .5
-          unit: oz
-        - slug: el dorado 12 year rum
-          quantity: 1.5
-          unit: oz
-        - slug: demerara syrup
-          quantity: .5
-          unit: oz
-        - slug: mole bitters
-          quantity: 1
-          unit: dash
-        - slug: orange bitters
-          quantity: 2
-          unit: dash
-      construction:
-        slug: stir
-      instructions:
-        - text: stir all the ingredients with ice then strain into a rocks glass over one large ice cube
-      garnish:
-        - slug: orange twist
-      straw: false
-      citations:
-        - title: Self
-      notes:
-        - text: spec guestimated based on the Franklin Mortgage spec
     - slug: Three Rum
       origin:
         creator: Mike Treffehn
@@ -56,7 +19,7 @@
         - slug: smith & cross jamaican rum
           quantity: .5
           unit: oz
-        - slug: demerara syrup
+        - slug: rich demerara syrup
           quantity: 1
           unit: tsp
         - slug: orange bitters
@@ -81,3 +44,13 @@
           href: https://www.seriouseats.com/recipes/2014/01/franklin-mortgage-three-rum-old-fashioned-cocktail-recipe.html
       notes:
         - text: demerara syrup should be 2:1 sugar:water
+        - text: >-
+            This has a really interesting chocolate-esque note, and its
+            more than just the bitters. I suspect its a mix of the Zacapa
+            and the bitters, maybe with some of that mid-range Appleton.
+            I really like it. For an old fashioned its a lot of work but
+            comes out really good. Did about 1/8oz of 2:1 demerara syrup
+            since getting out a teaspoon sucks. As with other drinks the
+            S&C can be a bit of a bully but here it is tamed quite nicely
+            to amp up the proof and provide a backbone but not overpower
+            with its funk.
