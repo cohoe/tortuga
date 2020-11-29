@@ -1,0 +1,11 @@
+---
+display_name: Pygmy Island
+ingredients:
+  - slug: the-dead-rabbit-irish-whiskey
+  - slug: dolin-rouge-vermouth
+  - slug: fernet-branca
+# defacto goes up to (not including the family). All ingreidents
+# that are in the parent chain up to the family.
+# defacto_ingredients:
+#   - slug: irish-whiskey
+#   - slug: sweet-vermouth
