@@ -49,3 +49,8 @@
   parent: irish-whiskey
   slug: powers-irish-whiskey
   kind: product
+
+- display_name: The Dead Rabbit Irish Whiskey
+  parent: irish-whiskey
+  slug: the-dead-rabbit-irish-whiskey
+  kind: product
