@@ -1,6 +1,12 @@
 ---
 - slug: tipperary
   display_name: Tipperary
+  origin:
+    year: 1916
+    story: >-
+      A drink with this name appears in Robert Vermeire's Cocktails: How
+      to Mix Them as a gin-based sour with grenadine, orange juice, sweet
+      vermouth, and mint.
   specs:
     - slug: brother-cleve-remix
       display_name: Brother Cleve Remix
@@ -10,7 +16,7 @@
         - slug: writers-tears-irish-whiskey
           quantity: 1.5
           unit: oz
-        - slug: cinzano-extra-dry-vermouth
+        - slug: cinzano-rosso-vermouth
           quantity: .75
           unit: oz
         - slug: green-chartreuse
@@ -32,3 +38,51 @@
       notes:
         - text: did with carpano. the charteuse cuts through everything. its not bad but its all chartreuse.
         - text: 1.5:.75:.5 with french sweet completely changed the character. while i like it more, im not sure its really better. the whiskey comes out more
+    - slug: pdt
+      display_name: PDT
+      glassware: coupe
+      construction:
+        slug: stir
+      components:
+        - slug: bushmills-black-bush-irish-whiskey
+          quantity: 2
+          unit: oz
+        - slug: dolin-rouge-vermouth
+          quantity: 1
+          unit: oz
+        - slug: green-chartreuse
+          quantity: 1
+          unit: rinse
+      straw: false
+      instructions:
+        - text: Stir with ice, then strain into a chilled Green Chartreuse-rised coupe.
+      citations:
+        - title: PDT Cocktails
+          href: https://mixologytech.com/pdt/index.html
+      notes:
+        - text: >-
+            I like the lack of heavy chartreusing going on here. Comes off a
+            bit light with just the whiskey and vermouth (did with Dead Rabbit).
+            The orange twist and perhaps a touch more than a rinse may do this
+            better. Alternatively a less refined irish whiskey. Upon further
+            experimentation, no the quality going in has a bearing on the quality
+            coming out. Writers Tears was "ok" but I was not particuarly thrilled.
+            Nor was I with some house sweet vermouth. The Dolin adds a required
+            sweetness here. I'm curious how the proper Black Bush would do. My
+            mix of 50% of each Dead Rabbit / Writers Tears and Dolin / House Sweet
+            is actually rather enjoyable. The rinse of Chatreuse is still plenty
+            appropriate and any more would lead to a Brother Cleve-esque spec. I
+            still think it could use a twist. Oh fuck it... NO. The orange twist
+            totally screws with this and overpowers the drink. Would not recommend.
+            Becomes too citrusy. Again it's not "bad" but I'd rather not have it
+            given the choice. Wonder if OG Bushmills would do better. I'm afraid my
+            proper evaluation criteria are somewhat impaired at the moment but
+            what the hell why not. OG Bushmills is far to bland. Doesn't stand
+            up for itself and not overly flavorful. The original spec I did with
+            Dead Rabbit was better than this. I think I enjoyed the blend as
+            mentioned above, which could give credence to the Black Bush as the
+            spec originally calls for. It's the 1-year anniversary of my trip to
+            Ireland where I passed through the town of Bushmills and did not have
+            an opportunity to stop and get a proper rundown of their marks. The
+            Black Bush is apparently high-malt which I'm not sure any of my
+            stock can properly mimick.

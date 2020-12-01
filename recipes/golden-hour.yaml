@@ -1,0 +1,38 @@
+---
+- slug: golden-hour
+  display_name: Golden Hour
+  origin:
+    creator: Elliot Clark
+    venue: Basil Hayden's Whiskey
+    location: Clermont KY
+  specs:
+    - slug: food52
+      glassware:
+        - slug: rocks
+      components:
+        - slug: basil-haydens-straight-bourbon-whiskey
+          quantity: 1
+          unit: oz
+        - slug: lillet-blanc
+          quantity: .75
+          unit: oz
+        - slug: aperol
+          quantity: .75
+          unit: oz
+      construction:
+        slug: stir
+      instructions:
+        - text: >-
+            Combine all ingredients in a mixing glass with ice. Stir until cold.
+            Strain liquid into a glass and serve up or with a large ice cube. Garnish
+            with a large zest of grapefruit.
+      garnish:
+        - slug: grapefruit-twist
+      straw: false
+      citations:
+        - title: A Citrusy Bourbon Cocktail to Serve & Sip on Thanksgiving
+          publisher: msn
+          author:
+            - Erin Alexander
+          date: 2020-11-21
+          href: https://www.msn.com/en-us/foodanddrink/cocktails/a-citrusy-bourbon-cocktail-to-serve-and-sip-on-thanksgiving/ar-BB1beEW1
