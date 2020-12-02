@@ -1,10 +1,12 @@
 ---
 - slug: maple-bourbon-sour
   display_name: Maple Bourbon Sour
-  origin:
-    creator: Laura Bailey
   specs:
-    - slug: original
+    - slug: critial-role
+      origin:
+        creator: Laura Bailey
+        venue: Critical Role
+        location: YouTube
       glassware:
         - slug: rocks
       components:
@@ -24,10 +26,40 @@
       garnish:
         - slug: lemon wedge
       straw: false
-  citations:
-    - title: "Between the Sheets: Laura's Maple Bourbon Sour"
-      author:
-        - Critical Role
-      href: https://www.youtube.com/watch?v=oC-tvSnpRrM
-  notes:
-    - text: on paper the lemon juice seems high, need to try it out and perhaps refactor
+      citations:
+        - title: "Between the Sheets: Laura's Maple Bourbon Sour"
+          author:
+            - Critical Role
+          href: https://www.youtube.com/watch?v=oC-tvSnpRrM
+      notes:
+        - text: on paper the lemon juice seems high, need to try it out and perhaps refactor
+    - slug: modified
+      origin:
+        creator: Grant Cohoe
+        location: Cambridge MA
+      glassware:
+        - slug: rocks
+      components:
+        - slug: bourbon-whiskey
+          quantity: 2
+          unit: oz
+        - slug: lemon-juice
+          quantity: 1
+          unit: oz
+        - slug: grade-b-maple-syrup
+          quantity: .75
+          unit: oz
+      construction:
+        slug: shake
+      instructions:
+        - text: shake all ingredients over ice then strain into a rocks glass over a large ice cube
+      straw: false
+      citations:
+      - title: Direct
+        author:
+          - Grant Cohoe
+      notes:
+        - text: >-
+            The 1.5oz of lemon juice in the original would have been far to acidic. Granted I have
+            not tried it yet so I should check myself first. But this comes out quite nicely. An
+            interesting twist on otherwise regular ingredients.

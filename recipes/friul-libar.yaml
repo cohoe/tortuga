@@ -1,0 +1,55 @@
+---
+- slug: friul-libar
+  display_name: Friûl Libar
+  origin:
+    creator: Justin Elliott
+    venue: Qui
+    location: Austin TX
+    story: >-
+      "Friûl Libar", or "free Friuli" is the slogan of the autonomy movement of the
+      Friulian people in northeastern Italy, where Nonino is produced.
+  specs:
+    - slug: original
+      glassware:
+        - slug: coupe
+      components:
+        - slug: amaro-nonino
+          quantity: 1.5
+          unit: oz
+        - slug: genius-navy-gin
+          quantity: .5
+          unit: oz
+        - slug: lemon-juice
+          quantity: .5
+          unit: oz
+        - slug: demerara-syrup
+          quantity: .25
+          unit: oz
+        - slug: peychauds-bitters
+          quantity: 2
+          unit: dashes
+      construction:
+        slug: shake
+      instructions:
+        - text: >-
+            Combine all of the ingredients except the garnish in a cocktail shaker
+            filled with ice. Shake until chilled and double-strain into a chilled
+            coupe or cocktail glass. Express the lemon peel over the surface of the
+            drink, then, per Elliott, "garnish sexily" by putting a notch in the peel
+            and affixing it to the glass. "I hate things floating around in my drink",
+            he explains.
+      garnish:
+        - slug: lemon-zest
+      straw: false
+      citations:
+        - title: 'Amaro'
+          author:
+            - Brad Thomas Parsons
+          date: 2016-01-29
+          publisher: Ten Speed Press
+          page: 156
+      notes:
+        - text: >-
+            Did with Bluecoat 47% gin. I dig this. Interesting play between the
+            lemon and nonino. Its a sour with a bit more complexities. The super
+            hot gin would likely give this an extra kick.
