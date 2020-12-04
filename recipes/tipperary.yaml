@@ -44,7 +44,7 @@
       construction:
         slug: stir
       components:
-        - slug: bushmills-black-bush-irish-whiskey
+        - slug: black-bush-irish-whiskey
           quantity: 2
           unit: oz
         - slug: dolin-rouge-vermouth

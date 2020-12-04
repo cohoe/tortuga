@@ -102,3 +102,8 @@
   parent: bourbon-whiskey
   slug: old-forester-86-proof-bourbon
   kind: product
+
+- display_name: Basil Haydens Straight Bourbon Whiskey
+  parent: bourbon-whiskey
+  slug: basil-haydens-straight-bourbon-whiskey
+  kind: product

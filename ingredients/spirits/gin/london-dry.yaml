@@ -32,3 +32,8 @@
   parent: london-dry-gin
   slug: martin-millers-westbourne-strength-gin
   kind: product
+
+- display_name: Genius Navy Gin
+  parent: london-dry-gin
+  slug: genius-navy-gin
+  kind: product
