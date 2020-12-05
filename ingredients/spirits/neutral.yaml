@@ -1,0 +1,5 @@
+---
+- display_name: Neutral Spirit
+  parent: spirits
+  slug: neutral-spirit
+  kind: family

@@ -1,11 +1,11 @@
 ---
-- display_name: Grain
-  parent: spirits
-  slug: grain
-  kind: family
+- display_name: Whiskey
+  parent: grain-spirit
+  slug: whiskey
+  kind: ingredient
 
 - display_name: American Whiskey
-  parent: grain
+  parent: whiskey
   slug: american-whiskey
   kind: ingredient
 
@@ -15,31 +15,31 @@
   kind: ingredient
 
 - display_name: Canadian Whiskey
-  parent: grain
+  parent: whiskey
   slug: canadian-whiskey
   kind: ingredient
 
 - display_name: Irish Whiskey
-  parent: grain
+  parent: whiskey
   slug: irish-whiskey
   kind: ingredient
 
 - display_name: Japanese Whisky
-  parent: grain
+  parent: whiskey
   slug: japanese-whisky
   kind: ingredient
 
 - display_name: Rye Whiskey
-  parent: grain
+  parent: whiskey
   slug: rye-whiskey
   kind: ingredient
 
 - display_name: Scotch Whisky
-  parent: grain
+  parent: whiskey
   slug: scotch-whisky
   kind: ingredient
 
 - display_name: Tennessee Whiskey
-  parent: grain
+  parent: whiskey
   slug: tennessee-whiskey
   kind: ingredient

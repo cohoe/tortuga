@@ -1,0 +1,5 @@
+---
+- display_name: Grain Spirit
+  parent: spirits
+  slug: grain-spirit
+  kind: family
