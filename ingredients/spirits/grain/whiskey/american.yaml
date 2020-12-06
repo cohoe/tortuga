@@ -27,3 +27,9 @@
   parent: american-whiskey
   slug: skrewball-peanut-butter-whiskey
   kind: product
+
+- display_name: GrandTen American Single Malt Whiskey
+  parent: american-whiskey
+  slug: grandten-american-single-malt-whiskey
+  kind: product
+

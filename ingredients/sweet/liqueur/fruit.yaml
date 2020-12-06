@@ -52,6 +52,11 @@
   slug: apple-liqueur
   kind: ingredient
 
+- display_name: Jack Daniels Winter Jack
+  parent: fruit-liqueur
+  slug: jack-daniels-winter-jack
+  kind: product
+
 - display_name: "Berentzen's Apple Liqueur"
   parent: apple-liqueur
   slug: berentzens-apple-liqueur
@@ -245,6 +250,11 @@
   slug: merlet-creme-de-cassis
   kind: product
 
+- display_name: "Lejay Cr\xE8me de Cassis"
+  parent: creme-de-cassis
+  slug: lejay-creme-de-cassis
+  kind: product
+
 - display_name: Grapefruit Liqueur
   parent: fruit-liqueur
   slug: grapefruit-liqueur
@@ -376,6 +386,11 @@
   slug: chambord-raspberry-liqueur
   kind: product
 
+- display_name: Drillaud Raspberry Liqueur
+  parent: raspberry-liqueur
+  slug: drillaud-raspberry-liqueur
+  kind: product
+
 - display_name: St. George Raspberry Liqueur
   parent: raspberry-liqueur
   slug: st-george-raspberry-liqueur
@@ -416,4 +431,9 @@
 - display_name: Pimm's No. 1
   parent: fruit-liqueur
   slug: pimms-no-1
+  kind: product
+
+- display_name: Bayou Satsuma Liqueur
+  parent: orange-liqueur
+  slug: bayou-satsuma-liqueur
   kind: product

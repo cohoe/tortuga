@@ -50,3 +50,8 @@
   parent: mezcal
   slug: montelobos-mezcal
   kind: product
+
+- display_name: Casamigos Mezcal
+  parent: mezcal
+  slug: casamigos-mezcal
+  kind: product

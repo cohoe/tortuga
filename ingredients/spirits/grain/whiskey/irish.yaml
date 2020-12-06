@@ -54,3 +54,18 @@
   parent: irish-whiskey
   slug: the-dead-rabbit-irish-whiskey
   kind: product
+
+- display_name: GrandTen South Boston Irish Whiskey
+  parent: irish-whiskey
+  slug: grandten-south-boston-irish-whiskey
+  kind: product
+
+- display_name: Jameson Crested Irish Whiskey
+  parent: irish-whiskey
+  slug: jameson-crested-irish-whiskey
+  kind: product
+
+- display_name: Tullamore D.E.W. Rum Cask Irish Whiskey
+  parent: irish-whiskey
+  slug: tullamore-dew-rum-cask-irish-whiskey
+  kind: product

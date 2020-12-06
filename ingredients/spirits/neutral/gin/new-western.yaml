@@ -37,3 +37,13 @@
   parent: new-western-gin
   slug: privateer-tiki-gin
   kind: product
+
+- display_name: Black Button Citrus-forward Gin
+  parent: new-western-gin
+  slug: black-button-citrus-forward-gin
+  kind: product
+
+- display_name: Bluecoat Gin
+  parent: new-western-gin
+  slug: bluecoat-gin
+  kind: product

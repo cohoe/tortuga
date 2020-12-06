@@ -17,3 +17,8 @@
   parent: old-tom-gin
   slug: barr-hill-tom-cat-gin
   kind: product
+
+- display_name: Lockhouse Barrel-rested Gin
+  parent: old-tom-gin
+  slug: lockhouse-barrel-rested-gin
+  kind: product

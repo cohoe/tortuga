@@ -37,3 +37,8 @@
   parent: london-dry-gin
   slug: genius-navy-gin
   kind: product
+
+- display_name: Citadelle Gin
+  parent: london-dry-gin
+  slug: citadelle-gin
+  kind: product

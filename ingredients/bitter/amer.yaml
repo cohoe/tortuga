@@ -1,0 +1,14 @@
+- display_name: Amer
+  parent: bitter
+  slug: amer
+  kind: product
+
+- display_name: Amer Picon
+  parent: amaro
+  slug: amer-picon
+  kind: product
+
+- display_name: Bigallet China-China Amer
+  parent: amaro
+  slug: bigallet-china-china-amer
+  kind: product

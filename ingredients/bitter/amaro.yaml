@@ -44,11 +44,6 @@
   slug: amaro-ramazzotti
   kind: product
 
-- display_name: Amer Picon
-  parent: amaro
-  slug: amer-picon
-  kind: product
-
 - display_name: Campari
   parent: amaro
   slug: campari
@@ -102,4 +97,9 @@
 - display_name: Zucca Rabarbaro
   parent: rabarbaro
   slug: zucca-rabarbaro
+  kind: product
+
+- display_name: Vecchio Amaro del Capo
+  parent: amaro
+  slug: vecchio-amaro-del-capo
   kind: product

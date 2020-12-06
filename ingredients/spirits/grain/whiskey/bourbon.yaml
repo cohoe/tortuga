@@ -107,3 +107,23 @@
   parent: bourbon-whiskey
   slug: basil-haydens-straight-bourbon-whiskey
   kind: product
+
+- display_name: Black Button Single Barrel Straight Port Cask Finished Bourbon
+  parent: bourbon-whiskey
+  slug: black-button-single-barrel-straight-port-cask-finished-bourbon
+  kind: product
+
+- display_name: Conneaut Creek Bourbon
+  parent: bourbon-whiskey
+  slug: conneaut-creek-bourbon
+  kind: product
+
+- display_name: Redemption High-Rye Bourbon
+  parent: bourbon-whiskey
+  slug: redemption-high-rye-bourbon
+  kind: product
+
+- display_name: Woodford Reserve Double-Oaked Bourbon
+  parent: bourbon-whiskey
+  slug: woodford-reserve-double-oaked-bourbon
+  kind: product

@@ -18,6 +18,11 @@
   slug: lazzaroni-amaretto
   kind: product
 
+- display_name: di Amore Amaretto
+  parent: amaretto
+  slug: di-amore-amaretto
+  kind: product
+
 - display_name: Luxardo Amaretto
   parent: amaretto
   slug: luxardo-amaretto

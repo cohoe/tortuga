@@ -22,3 +22,8 @@
   parent: honey-liqueur
   slug: irish-mist
   kind: product
+
+- display_name: Dubliner Whiskey & Honeycomb
+  parent: honey-liqueur
+  slug: dubliner-whiskey-honeycomb
+  kind: product

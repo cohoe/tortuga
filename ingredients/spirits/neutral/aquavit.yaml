@@ -1,8 +1,8 @@
 ---
 - display_name: Aquavit
-  parent: spirits
+  parent: neutral-spirit
   slug: aquavit
-  kind: family
+  kind: ingredient
 
 - display_name: Krogstad Aquavit
   parent: aquavit

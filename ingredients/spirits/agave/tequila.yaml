@@ -212,3 +212,28 @@
   parent: reposado-tequila
   slug: olmeca-altos-reposado-tequila
   kind: product
+
+- display_name: Astral
+  parent: blanco-tequila
+  slug: astral-silver
+  kind: product
+
+- display_name: Casamigos Reposado Tequila
+  parent: reposado-tequila
+  slug: casamigos-reposado-tequila
+  kind: product
+
+- display_name: Cazadores Reposado Tequila
+  parent: reposado-tequila
+  slug: cazadores-reposado-tequila
+  kind: product
+
+- display_name: Lunazul Blanco Tequila
+  parent: blanco-tequila
+  slug: lunazul-blanco-tequila
+  kind: product
+
+- display_name: Tres Generaciones Añejo Tequila
+  parent: anejo-tequila
+  slug: tres-generaciones-anejo-tequila
+  kind: product

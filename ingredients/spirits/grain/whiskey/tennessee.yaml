@@ -7,3 +7,8 @@
   parent: tennessee-whiskey
   slug: jack-daniels-tennessee-whiskey
   kind: product
+
+- display_name: Uncle Nearest 1884 Tennessee Whiskey
+  parent: tennessee-whiskey
+  slug: uncle-nearest-1884-tennessee-whiskey
+  kind: product
