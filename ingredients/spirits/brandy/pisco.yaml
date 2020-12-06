@@ -42,3 +42,8 @@
   parent: pisco
   slug: waqar-pisco
   kind: product
+
+- display_name: Caravedo Torontel Puro Pisco
+  parent: pisco
+  slug: caravedo-torotel-puro-pisco
+  kind: product

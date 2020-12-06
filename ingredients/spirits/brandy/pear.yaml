@@ -1,0 +1,15 @@
+
+- display_name: Pear Brandy
+  parent: brandy
+  slug: pear-brandy
+  kind: ingredient
+
+- display_name: Clear Creek Pear Brandy
+  parent: pear-brandy
+  slug: clear-creek-pear-brandy
+  kind: product
+
+- display_name: Poire William Pear Brandy
+  parent: pear-brandy
+  slug: poire-william-pear-brandy
+  kind: product

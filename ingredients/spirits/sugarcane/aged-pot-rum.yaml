@@ -7,3 +7,8 @@
   parent: aged-pot-still-rum
   slug: old-monk-7-year-rum
   kind: product
+
+- display_name: Bayou XO Mardi Gras Rum
+  parent: aged-pot-still-rum
+  slug: bayou-xo-mardi-gras-rum
+  kind: product

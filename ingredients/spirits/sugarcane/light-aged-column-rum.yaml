@@ -63,3 +63,13 @@
   parent: lightly-aged-column-still-rum
   slug: scarlet-ibis-rum
   kind: product
+
+- display_name: Cruzan Aged Dark Rum
+  parent: lightly-aged-column-still-rum
+  slug: cruzan-aged-dark-rum
+  kind: product
+
+- display_name: Havana Club Añejo 3 Rum
+  parent: lightly-aged-column-still-rum
+  slug: havana-club-anejo-3-rum
+  kind: product

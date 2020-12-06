@@ -49,3 +49,8 @@
   parent: lightly-aged-blended-rum
   slug: diplomatico-anejo-rum
   kind: product
+
+- display_name: Plantation 3 Star Rum
+  parent: lightly-aged-blended-rum
+  slug: plantation-3-star-rum
+  kind: product

@@ -1,0 +1,46 @@
+- slug: honeymoon-cocktail
+  display_name: Honeymoon Cocktail
+  origin:
+    creator: Huge Ensslin
+    year: 1916
+    story: >-
+      One can only speculate about the reasoning behind the author’s choice
+      of "Honeymoon" as the title of this knee-bendingly boozy sour.
+  specs:
+    - slug: pdt
+      display_name: PDT
+      origin:
+        year: 1916
+      glassware:
+        - slug: coupe
+      construction:
+        slug: shake
+      components:
+        - slug: lairds-bonded-apple-brandy
+          quantity: 2
+          unit: oz
+        - slug: marie-brizard-orange-curacao
+          quantity: 0.5
+          unit: oz
+        - slug: benedictine
+          quantity: 0.5
+          unit: oz
+        - slug: lemon-juice
+          display_name: Lemon Juice
+          quantity: 0.5
+          unit: oz
+      instructions:
+        - text: Shake with ice, then strain into a chilled coupe
+      straw: false
+      citations:
+        - title: PDT Cocktails
+          href: https://mixologytech.com/pdt/index.html
+      notes:
+        - text: >-
+            This was quite nice. Good for a fall drink. Calvados may be too
+            heavy compared to the lairds but I'm out.
+        - text: >-
+            Made this again with the appropriate Lairds. A little too dry.
+            Wonder if cointreau or some other non-super-dry orange curacao
+            would do better. While interesting in apple/lemon blend I'm not
+            convinced I actually like this one again.

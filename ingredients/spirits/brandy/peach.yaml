@@ -1,0 +1,10 @@
+
+- display_name: Peach Brandy
+  parent: brandy
+  slug: peach-brandy
+  kind: ingredient
+
+- display_name: GrandTen Peach Brandy
+  parent: peach-brandy
+  slug: grandten-peach-brandy
+  kind: product

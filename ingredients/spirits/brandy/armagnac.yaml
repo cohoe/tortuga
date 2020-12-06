@@ -7,3 +7,8 @@
   parent: armagnac
   slug: tariquet-vs-classique-bas-armagnac
   kind: product
+
+- display_name: Marie Duffau Napoleon Armagnac
+  parent: armagnac
+  slug: marie-duffau-napoleon-armagnac
+  kind: product

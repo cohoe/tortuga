@@ -20,6 +20,11 @@
   slug: diplomatico-reserva-exclusiva-rum
   kind: product
 
+- display_name: "Diplomático Mantuano Rum"
+  parent: aged-blended-rum
+  slug: diplomatico-mantuano-rum
+  kind: product
+
 - display_name: El Dorado 8-Year Rum
   parent: aged-blended-rum
   slug: el-dorado-8-year-rum
@@ -32,7 +37,7 @@
 
 - display_name: Mount Gay X.O. Rum
   parent: aged-blended-rum
-  slug: mount-gay-x-o-rum
+  slug: mount-gay-xo-rum
   kind: product
 
 - display_name: Plantation Barbados 5-Year Rum
@@ -48,4 +53,19 @@
 - display_name: Real McCoy 12-year Rum
   parent: aged-blended-rum
   slug: real-mccoy-12-year-rum
+  kind: product
+
+- display_name: "Doorly's 8-year Rum"
+  parent: aged-blended-rum
+  slug: doorlys-8-year-rum
+  kind: product
+
+- display_name: "Dos Maderas 5+5 Rum"
+  parent: aged-blended-rum
+  slug: dos-maderas-5-5-rum
+  kind: product
+
+- display_name: "Plantation 20th Anniversary Rum"
+  parent: aged-blended-rum
+  slug: plantation-20th-anniversary-rum
   kind: product

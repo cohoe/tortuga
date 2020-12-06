@@ -40,6 +40,11 @@
   slug: busnel-vsop-calvados
   kind: product
 
+- display_name: Boulard VSOP Calvados
+  parent: calvados
+  slug: boularr-vsop-calvados
+  kind: product
+
 - display_name: Daron Fine Calvados
   parent: calvados
   slug: daron-fine-calvados

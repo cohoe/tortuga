@@ -13,7 +13,22 @@
   slug: rum-bar-gold
   kind: product
 
-- display_name: Privateer Ambre Rum
+- display_name: Privateer Amber Rum
   parent: lightly-aged-pot-still-rum
-  slug: privateer-ambre-rum
+  slug: privateer-amber-rum
+  kind: product
+
+- display_name: GrandTen Medford Rum
+  parent: lightly-aged-pot-still-rum
+  slug: grandten-medford-rum
+  kind: product
+
+- display_name: "Privateer New England Reserve #35"
+  parent: lightly-aged-pot-still-rum
+  slug: privateer-new-england-reserve-35
+  kind: product
+
+- display_name: Plantation Xaymaca Rum
+  parent: lightly-aged-pot-still-rum
+  slug: plantation-xaymaca-rum
   kind: product

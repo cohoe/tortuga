@@ -23,6 +23,11 @@
   slug: flor-de-cana-7-year-rum
   kind: product
 
+- display_name: "Flor De Ca\xF1a 12-Year Rum"
+  parent: aged-column-still-rum
+  slug: flor-de-cana-12-year-rum
+  kind: product
+
 - display_name: Havana Club 7-Year-Old Rum
   parent: aged-column-still-rum
   slug: havana-club-7-year-old-rum
@@ -48,3 +53,8 @@
   aliases:
     - Zacapa 23 Rum
     - Zacapa 23 Centenario Rum
+
+- display_name: Angostura 1919 Rum
+  parent: aged-column-still-rum
+  slug: angostura-1919-rum
+  kind: product

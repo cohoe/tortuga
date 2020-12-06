@@ -29,3 +29,8 @@
   kind: product
   aliases:
     - Plantation Stiggin's Fancy Pineapple Rum
+
+- display_name: Bacardi Dragon Berry Rum
+  parent: flavored-rum
+  slug: bacardi-dragon-berry-rum
+  kind: product
