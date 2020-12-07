@@ -213,9 +213,9 @@
   slug: olmeca-altos-reposado-tequila
   kind: product
 
-- display_name: Astral
+- display_name: Astral Blanco Tequila
   parent: blanco-tequila
-  slug: astral-silver
+  slug: astral-blanco-tequila
   kind: product
 
 - display_name: Casamigos Reposado Tequila

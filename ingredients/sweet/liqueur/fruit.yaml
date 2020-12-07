@@ -437,3 +437,13 @@
   parent: orange-liqueur
   slug: bayou-satsuma-liqueur
   kind: product
+
+- display_name: Mango Liqueur
+  parent: fruit-liqueur
+  slug: mango-liqueur
+  kind: ingredient
+
+- display_name: Patrón Citrónge Mango
+  parent: fruit-liqueur
+  slug: patron-citronge-mango
+  kind: ingredient

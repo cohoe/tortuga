@@ -38,6 +38,7 @@
       glassware:
         - slug: rocks
       components:
+        # FALSE! Needs a different mccoy
         - slug: real-mccoy-12-year-rum
           quantity: 1.5
           unit: oz

@@ -23,6 +23,11 @@
   slug: eagle-rare-10-year-bourbon
   kind: product
 
+- display_name: Elijah Craig Small Batch Bourbon
+  parent: bourbon-whiskey
+  slug: elijah-craig-small-batch-bourbon
+  kind: product
+
 - display_name: Elijah Craig 12-Year Bourbon
   parent: bourbon-whiskey
   slug: elijah-craig-12-year-bourbon

@@ -22,3 +22,8 @@
   parent: american-grape-brandy
   slug: copper-kings-american-brandy
   kind: product
+
+- display_name: "Copper & Kings Craftwerk Jacks Abby Brandy"
+  parent: american-grape-brandy
+  slug: copper-kings-craftwerk-jacks-abby-brandy
+  kind: product

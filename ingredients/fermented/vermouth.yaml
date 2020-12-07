@@ -32,6 +32,11 @@
   slug: martini-rossi-bianco-vermouth
   kind: product
 
+- display_name: Carpano Bianco Vermouth
+  parent: white-vermouth
+  slug: carpano-bianco-vermouth
+  kind: product
+
 - display_name: Dry Vermouth
   parent: vermouth
   slug: dry-vermouth

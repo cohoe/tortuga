@@ -20,6 +20,11 @@
   slug: copper-kings-floodwall-apple-brandy
   kind: product
 
+- display_name: "GrandTen North Country Apple Brandy"
+  parent: apple-brandy
+  slug: grandten-north-country-apple-brandy
+  kind: product
+
 - display_name: Applejack
   parent: apple-brandy
   slug: applejack
@@ -42,7 +47,7 @@
 
 - display_name: Boulard VSOP Calvados
   parent: calvados
-  slug: boularr-vsop-calvados
+  slug: boulard-vsop-calvados
   kind: product
 
 - display_name: Daron Fine Calvados

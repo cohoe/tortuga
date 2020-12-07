@@ -12,3 +12,8 @@
   parent: aged-pot-still-rum
   slug: bayou-xo-mardi-gras-rum
   kind: product
+
+- display_name: GrandTen Graves Light and Fog Station Rum
+  parent: aged-pot-still-rum
+  slug: grandten-graves-light-and-fog-station-rum
+  kind: product

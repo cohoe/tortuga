@@ -25,16 +25,6 @@
   slug: massenez-kirsch-vieux-cherry-brandy
   kind: product
 
-- display_name: Pear Brandy
-  parent: eau-de-vie
-  slug: pear-brandy
-  kind: ingredient
-
-- display_name: Clear Creek Pear Brandy
-  parent: pear-brandy
-  slug: clear-creek-pear-brandy
-  kind: product
-
 - display_name: Raspberry Brandy
   parent: eau-de-vie
   slug: raspberry-brandy
@@ -58,4 +48,14 @@
 - display_name: Clear Creek Plum Brandy
   parent: plum-brandy
   slug: clear-creek-plum-brandy
+  kind: product
+
+- display_name: Grape Eau-de-Vie
+  parent: eau-de-vie
+  slug: grape-eau-de-vie
+  kind: ingredient
+
+- display_name: Conneaut Creek Cussawago Blanc
+  parent: grape-eau-de-vie
+  slug: conneaut-creek-cussawago-blanc
   kind: product

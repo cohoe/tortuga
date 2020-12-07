@@ -32,3 +32,8 @@
   parent: lightly-aged-pot-still-rum
   slug: plantation-xaymaca-rum
   kind: product
+
+- display_name: Bully Boy Boston Rum
+  parent: lightly-aged-pot-still-rum
+  slug: bully-boy-boston-rum
+  kind: product

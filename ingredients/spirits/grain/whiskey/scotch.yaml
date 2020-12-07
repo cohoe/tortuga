@@ -38,6 +38,11 @@
   slug: laphroaig-12-year-scotch-whisky
   kind: product
 
+- display_name: Lagavulin 16-Year Islay Scotch Whisky
+  parent: islay-single-malt-scotch-whisky
+  slug: lagavulin-16-year-islay-scotch-whisky
+  kind: product
+
 - display_name: Speyside Single Malt Scotch Whisky
   parent: single-malt-scotch-whisky
   slug: speyside-single-malt-scotch-whisky
