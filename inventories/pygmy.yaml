@@ -1,203 +1,203 @@
 ---
 - display_name: Pygmy Island
   items:
-    - slug: bayou-xo-mardi-gras-rum
-    - slug: bully-boy-boston-rum
-    - slug: conneaut-creek-goat-island-rum
-    - slug: conneaut-creek-bourbon
-    - slug: conneaut-creek-evansburg-brandy
-    - slug: bayou-satsuma-liqueur
-    - slug: grandten-peach-brandy
-    - slug: grandten-american-single-malt-whiskey
-    - slug: grandten-south-boston-irish-whiskey
-    - slug: grandten-medford-rum
-    - slug: grandten-graves-light-and-fog-station-rum
-    - slug: privateer-amber-rum
-    - slug: privateer-new-england-reserve-35
-    - slug: appleton-estate-reserve-rum
-    - slug: appleton-signature-rum
-    - slug: appleton-estate-12-year-rare-blend-rum
-    - slug: smith-cross-jamaican-rum
-    - slug: doorlys-8-year-rum
-    - slug: mount-gay-xo-rum
-    - slug: mount-gay-black-barrel-rum
-    - slug: real-mccoy-12-year-rum
-    - slug: angostura-1919-rum
-    - slug: bacardi-superior-rum
-    - slug: bacardi-8-rum
-    - slug: bacardi-dragon-berry-rum
-    - slug: cruzan-aged-dark-rum
-    - slug: banks-5-island-rum
-    - slug: banks-7-golden-age-rum
-    - slug: havana-club-7-year-old-rum
-    - slug: havana-club-anejo-3-rum
-    - slug: flor-de-cana-12-year-rum
-    - slug: ron-zacapa-centenario-23-rum
-    - slug: diplomatico-mantuano-rum
-    - slug: el-dorado-12-year-rum
-    - slug: santa-teresa-1796-rum
-    - slug: dos-maderas-5-5-rum
-    - slug: plantation-pineapple-rum
-    - slug: plantation-barbados-5-year-rum
-    - slug: plantation-20th-anniversary-rum
-    - slug: plantation-xaymaca-rum
-    - slug: plantation-3-star-rum
-    - slug: old-monk-7-year-rum
-    - slug: goslings-black-seal-rum
-    - slug: lemon-hart-151-rum
-    - slug: wray-nephew-overproof-rum
-    - slug: spiced-rum
-    - slug: barbancourt-3-star-rum
-    - slug: barbancourt-5-star-rhum
-    - slug: batavia-arrack-van-oosten
-    - slug: rhum-clement-v-s-o-p
-    - slug: unaged-rhum
-    - slug: avua-amburana-cachaca
-    - slug: avua-prata-cachaca
-    - slug: caravedo-torontel-puro-pisco
-    - slug: conneaut-creek-cussawago-blanc
-    - slug: copper-kings-american-brandy
-    - slug: copper-kings-floodwall-apple-brandy
-    - slug: copper-kings-craftwerk-jacks-abby-brandy
-    - slug: marie-duffau-napoleon-armagnac
-    - slug: pierre-ferrand-1840-cognac
-    - slug: pierre-ferrand-ambre-cognac
-    - slug: pierre-ferrand-dry-curacao
-    - slug: remy-martin-vsop-cognac
-    - slug: boulard-vsop-calvados
-    - slug: lairds-applejack
-    - slug: lairds-bonded-apple-brandy
-    - slug: grandten-north-country-apple-brandy
-    - slug: poire-william-pear-brandy
-    - slug: midnight-moon-apple-pie-moonshine
-    - slug: skrewball-peanut-butter-whiskey
-    - slug: uncle-nearest-1884-tennessee-whiskey
-    - slug: bushmills-irish-whiskey
-    - slug: redbreast-12-year-irish-whiskey
-    - slug: writers-tears-irish-whiskey
-    - slug: the-dead-rabbit-irish-whiskey
-    - slug: grandten-south-boston-irish-whiskey
-    - slug: jameson-crested-irish-whiskey
-    - slug: tullamore-dew-rum-cask-irish-whiskey 
-    - slug: black-button-citrus-forward-gin
-    - slug: black-button-single-barrel-straight-port-cask-finished-bourbon
-    - slug: black-button-bespoke-bourbon-cream
-    - slug: buffalo-trace-bourbon
-    - slug: elijah-craig-small-batch-bourbon
-    - slug: redemption-high-rye-bourbon
-    - slug: woodford-reserve-double-oaked-bourbon
-    - slug: old-overholt-rye-whiskey
-    - slug: rittenhouse-100-rye-whiskey
-    - slug: dewars-white-label-scotch
-    - slug: lagavulin-16-year-islay-scotch-whisky
-    - slug: astral-blanco-tequila
-    - slug: casamigos-mezcal
-    - slug: casamigos-reposado-tequila
-    - slug: cazadores-reposado-tequila
-    - slug: lunazul-blanco-tequila
-    - slug: tres-generaciones-anejo-tequila
-    - slug: del-maguey-chichicapa-mezcal
-    - slug: santo-mezquilla
-    - slug: barr-hill-tom-cat-gin
-    - slug: beefeater-london-dry-gin
-    - slug: bluecoat-gin
-    - slug: bols-genever
-    - slug: lockhouse-barrel-rested-gin
-    - slug: plymouth-sloe-gin
-    - slug: plymouth-gin
-    - slug: ransom-old-tom-gin
-    - slug: vodka
-    - slug: absinthe
-    - slug: pernod-anise-liqueur
-    - slug: linie-aquavit
-    - slug: cointreau
-    - slug: blue-curacao
-    - slug: di-amore-amaretto
-    - slug: drillaud-raspberry-liqueur
-    - slug: grand-marnier
-    - slug: giffard-banane-du-bresil
-    - slug: jack-daniels-winter-jack
-    - slug: lejay-creme-de-cassis
-    - slug: licor-43
-    - slug: luxardo-maraschino-liqueur
-    - slug: maraska-maraschino-liqueur
-    - slug: marie-brizard-white-creme-de-cacao
-    - slug: massenez-creme-de-peche-peach-liqueur
-    - slug: patron-citronge-mango
-    - slug: pimms-no-1
-    - slug: rothman-winter-orchard-peach-liqueur
-    - slug: rothman-winter-apricot-liqueur
-    - slug: st-germain
-    - slug: becherovka
-    - slug: benedictine
-    - slug: drambuie
-    - slug: st-elizabeth-allspice-dram
-    - slug: green-chartreuse
-    - slug: yellow-chartreuse
-    - slug: domaine-de-canton-ginger-liqueur
-    - slug: jagermeister
-    - slug: john-d-taylors-velvet-falernum
-    - slug: kronan-swedish-punsch
-    - slug: punch-fantasia
-    - slug: southern-comfort
-    - slug: suze
-    - slug: aperol
-    - slug: amaro-averna
-    - slug: bigallet-china-china-amer
-    - slug: campari
-    - slug: cynar
-    - slug: amaro-meletti
-    - slug: amaro-montenegro
-    - slug: amaro-nardini
-    - slug: amaro-nonino
-    - slug: amaro-ramazzotti
-    - slug: vecchio-amaro-del-capo
-    - slug: zucca-rabarbaro
-    - slug: kahlua
-    - slug: carpano-antica-formula-vermouth
-    - slug: dolin-rouge-vermouth
-    - slug: punt-e-mes
-    - slug: carpano-bianco-vermouth
-    - slug: house-sweet-vermouth
-    - slug: dolin-blanc-vermouth
-    - slug: martini-rossi-bianco-vermouth
-    - slug: dolin-dry-vermouth
-    - slug: manzanilla-sherry
-    - slug: amontillado-sherry
-    - slug: oloroso-sherry
-    - slug: lustau-east-india-sherry
-    - slug: bonal-gentiane-quina
-    - slug: byrrh
-    - slug: cocchi-americano
-    - slug: dubonnet-rouge
-    - slug: lillet-rouge
-    - slug: lillet-blanc
-    - slug: rich-cane-sugar-syrup
-    - slug: cinnamon-syrup
-    - slug: vanilla-syrup
-    - slug: togarashi-syrup
-    - slug: simple-syrup
-    - slug: rich-simple-syrup
-    - slug: maple-syrup
-    - slug: demerara-syrup
-    - slug: agave-syrup
-    - slug: honey-syrup
-    - slug: grenadine
-    - slug: orgeat
-    - slug: angostura-bitters
-    - slug: fee-brothers-whiskey-barrel-aged-bitters
-    - slug: bokers-bitters
-    - slug: celery-bitters
-    - slug: fee-brothers-grapefruit-bitters
-    - slug: bittermens-xocolatl-mole-bitters
-    - slug: regans-orange-bitters
-    - slug: orange-bitters
-    - slug: peychauds-bitters
-    - slug: dale-degroffs-pimento-bitters
-    - slug: fee-brothers-rhubarb-bitters
-    - slug: bittermens-elemakule-tiki-bitters
-    - slug: scrappys-lime-bitters
-    - slug: mamajuana-bitters
+    bayou-xo-mardi-gras-rum:
+    bully-boy-boston-rum:
+    conneaut-creek-goat-island-rum:
+    conneaut-creek-bourbon:
+    conneaut-creek-evansburg-brandy:
+    bayou-satsuma-liqueur:
+    grandten-peach-brandy:
+    grandten-american-single-malt-whiskey:
+    grandten-south-boston-irish-whiskey:
+    grandten-medford-rum:
+    grandten-graves-light-and-fog-station-rum:
+    privateer-amber-rum:
+    privateer-new-england-reserve-35:
+    appleton-estate-reserve-rum:
+    appleton-signature-rum:
+    appleton-estate-12-year-rare-blend-rum:
+    smith-cross-jamaican-rum:
+    doorlys-8-year-rum:
+    mount-gay-xo-rum:
+    mount-gay-black-barrel-rum:
+    real-mccoy-12-year-rum:
+    angostura-1919-rum:
+    bacardi-superior-rum:
+    bacardi-8-rum:
+    bacardi-dragon-berry-rum:
+    cruzan-aged-dark-rum:
+    banks-5-island-rum:
+    banks-7-golden-age-rum:
+    havana-club-7-year-old-rum:
+    havana-club-anejo-3-rum:
+    flor-de-cana-12-year-rum:
+    ron-zacapa-centenario-23-rum:
+    diplomatico-mantuano-rum:
+    el-dorado-12-year-rum:
+    santa-teresa-1796-rum:
+    dos-maderas-5-5-rum:
+    plantation-pineapple-rum:
+    plantation-barbados-5-year-rum:
+    plantation-20th-anniversary-rum:
+    plantation-xaymaca-rum:
+    plantation-3-star-rum:
+    old-monk-7-year-rum:
+    goslings-black-seal-rum:
+    lemon-hart-151-rum:
+    wray-nephew-overproof-rum:
+    spiced-rum:
+    barbancourt-3-star-rum:
+    barbancourt-5-star-rhum:
+    batavia-arrack-van-oosten:
+    rhum-clement-v-s-o-p:
+    unaged-rhum:
+    avua-amburana-cachaca:
+    avua-prata-cachaca:
+    caravedo-torontel-puro-pisco:
+    conneaut-creek-cussawago-blanc:
+    copper-kings-american-brandy:
+    copper-kings-floodwall-apple-brandy:
+    copper-kings-craftwerk-jacks-abby-brandy:
+    marie-duffau-napoleon-armagnac:
+    pierre-ferrand-1840-cognac:
+    pierre-ferrand-ambre-cognac:
+    pierre-ferrand-dry-curacao:
+    remy-martin-vsop-cognac:
+    boulard-vsop-calvados:
+    lairds-applejack:
+    lairds-bonded-apple-brandy:
+    grandten-north-country-apple-brandy:
+    poire-william-pear-brandy:
+    midnight-moon-apple-pie-moonshine:
+    skrewball-peanut-butter-whiskey:
+    uncle-nearest-1884-tennessee-whiskey:
+    bushmills-irish-whiskey:
+    redbreast-12-year-irish-whiskey:
+    writers-tears-irish-whiskey:
+    the-dead-rabbit-irish-whiskey:
+    grandten-south-boston-irish-whiskey:
+    jameson-crested-irish-whiskey:
+    tullamore-dew-rum-cask-irish-whiskey :
+    black-button-citrus-forward-gin:
+    black-button-single-barrel-straight-port-cask-finished-bourbon:
+    black-button-bespoke-bourbon-cream:
+    buffalo-trace-bourbon:
+    elijah-craig-small-batch-bourbon:
+    redemption-high-rye-bourbon:
+    woodford-reserve-double-oaked-bourbon:
+    old-overholt-rye-whiskey:
+    rittenhouse-100-rye-whiskey:
+    dewars-white-label-scotch:
+    lagavulin-16-year-islay-scotch-whisky:
+    astral-blanco-tequila:
+    casamigos-mezcal:
+    casamigos-reposado-tequila:
+    cazadores-reposado-tequila:
+    lunazul-blanco-tequila:
+    tres-generaciones-anejo-tequila:
+    del-maguey-chichicapa-mezcal:
+    santo-mezquilla:
+    barr-hill-tom-cat-gin:
+    beefeater-london-dry-gin:
+    bluecoat-gin:
+    bols-genever:
+    lockhouse-barrel-rested-gin:
+    plymouth-sloe-gin:
+    plymouth-gin:
+    ransom-old-tom-gin:
+    vodka:
+    absinthe:
+    pernod-anise-liqueur:
+    linie-aquavit:
+    cointreau:
+    blue-curacao:
+    di-amore-amaretto:
+    drillaud-raspberry-liqueur:
+    grand-marnier:
+    giffard-banane-du-bresil:
+    jack-daniels-winter-jack:
+    lejay-creme-de-cassis:
+    licor-43:
+    luxardo-maraschino-liqueur:
+    maraska-maraschino-liqueur:
+    marie-brizard-white-creme-de-cacao:
+    massenez-creme-de-peche-peach-liqueur:
+    patron-citronge-mango:
+    pimms-no-1:
+    rothman-winter-orchard-peach-liqueur:
+    rothman-winter-apricot-liqueur:
+    st-germain:
+    becherovka:
+    benedictine:
+    drambuie:
+    st-elizabeth-allspice-dram:
+    green-chartreuse:
+    yellow-chartreuse:
+    domaine-de-canton-ginger-liqueur:
+    jagermeister:
+    john-d-taylors-velvet-falernum:
+    kronan-swedish-punsch:
+    punch-fantasia:
+    southern-comfort:
+    suze:
+    aperol:
+    amaro-averna:
+    bigallet-china-china-amer:
+    campari:
+    cynar:
+    amaro-meletti:
+    amaro-montenegro:
+    amaro-nardini:
+    amaro-nonino:
+    amaro-ramazzotti:
+    vecchio-amaro-del-capo:
+    zucca-rabarbaro:
+    kahlua:
+    carpano-antica-formula-vermouth:
+    dolin-rouge-vermouth:
+    punt-e-mes:
+    carpano-bianco-vermouth:
+    house-sweet-vermouth:
+    dolin-blanc-vermouth:
+    martini-rossi-bianco-vermouth:
+    dolin-dry-vermouth:
+    manzanilla-sherry:
+    amontillado-sherry:
+    oloroso-sherry:
+    lustau-east-india-sherry:
+    bonal-gentiane-quina:
+    byrrh:
+    cocchi-americano:
+    dubonnet-rouge:
+    lillet-rouge:
+    lillet-blanc:
+    rich-cane-sugar-syrup:
+    cinnamon-syrup:
+    vanilla-syrup:
+    togarashi-syrup:
+    simple-syrup:
+    rich-simple-syrup:
+    maple-syrup:
+    demerara-syrup:
+    agave-syrup:
+    honey-syrup:
+    grenadine:
+    orgeat:
+    angostura-bitters:
+    fee-brothers-whiskey-barrel-aged-bitters:
+    bokers-bitters:
+    celery-bitters:
+    fee-brothers-grapefruit-bitters:
+    bittermens-xocolatl-mole-bitters:
+    regans-orange-bitters:
+    orange-bitters:
+    peychauds-bitters:
+    dale-degroffs-pimento-bitters:
+    fee-brothers-rhubarb-bitters:
+    bittermens-elemakule-tiki-bitters:
+    scrappys-lime-bitters:
+    mamajuana-bitters:
 
 # Heavens Door
 # Those couple of random Mezcals
@@ -205,16 +205,3 @@
 # grey goose, simrnoff, titos
 # la muse
 # moscatel sherry
-
-
-
-    - slug: the-dead-rabbit-irish-whiskey
-    - slug: dolin-rouge-vermouth
-    - slug: fernet-branca
-    - slug: el-dorado-12-year-rum
-    - slug: london-dry-gin
-  # defacto goes up to (not including the family). All ingreidents
-  # that are in the parent chain up to the family.
-  # defacto_ingredients:
-  #   - slug: irish-whiskey
-  #   - slug: sweet-vermouth
