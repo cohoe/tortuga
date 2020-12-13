@@ -5,7 +5,7 @@
   kind: ingredient
 
 - display_name: Celery Bitters
-  parent: bitters
+  parent: vegetable-bitters
   slug: celery-bitters
   kind: ingredient
 
@@ -15,7 +15,7 @@
   kind: product
 
 - display_name: Rhubarb Bitters
-  parent: bitters
+  parent: vegetable-bitters
   slug: rhubarb-bitters
   kind: ingredient
 

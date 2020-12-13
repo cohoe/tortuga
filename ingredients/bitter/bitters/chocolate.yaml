@@ -1,13 +1,13 @@
 ---
-- display_name: Chocolate Bitters
+- display_name: Mole Bitters
   parent: bitters
-  slug: chocolate-bitters
+  slug: mole-bitters
   kind: ingredient
   aliases:
-    - Mole Bitters
+    - Chocolate Bitters
 
 - display_name: Bittermens Xocolatl Mole Bitters
-  parent: chocolate-bitters
+  parent: mole-bitters
   slug: bittermens-xocolatl-mole-bitters
   kind: product
 
