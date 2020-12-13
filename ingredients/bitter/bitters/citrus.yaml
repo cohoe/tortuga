@@ -1,0 +1,75 @@
+---
+- display_name: Citrus Bitters
+  parent: bitters
+  slug: citrus-bitters
+  kind: ingredient
+
+- display_name: Grapefruit Bitters
+  parent: citrus-bitters
+  slug: grapefruit-bitters
+  kind: ingredient
+
+- display_name: Bittermens Hopped Grapefruit Bitters
+  parent: grapefruit-bitters
+  slug: bittermens-hopped-grapefruit-bitters
+  kind: product
+
+- display_name: Fee Brothers Grapefruit Bitters
+  parent: grapefruit-bitters
+  slug: fee-brothers-grapefruit-bitters
+  kind: product
+
+- display_name: The Bitter Truth Grapefruit Bitters
+  parent: grapefruit-bitters
+  slug: the-bitter-truth-grapefruit-bitters
+  kind: product
+
+- display_name: Lemon Bitters
+  parent: citrus-bitters
+  slug: lemon-bitters
+  kind: ingredient
+
+- display_name: The Bitter Truth Lemon Bitters
+  parent: lemon-bitters
+  slug: the-bitter-truth-lemon-bitters
+  kind: product
+
+- display_name: Orange Bitters
+  parent: citrus-bitters
+  slug: orange-bitters
+  kind: ingredient
+
+- display_name: Angostura Orange Bitters
+  parent: orange-bitters
+  slug: angostura-orange-bitters
+  kind: product
+
+- display_name: House Orange Bitters
+  parent: orange-bitters
+  slug: house-orange-bitters
+  kind: custom
+
+- display_name: "Regan's Orange Bitters"
+  parent: orange-bitters
+  slug: regans-orange-bitters
+  kind: product
+
+- display_name: Peach Bitters
+  parent: citrus-bitters
+  slug: peach-bitters
+  kind: ingredient
+
+- display_name: Fee Brothers Peach Bitters
+  parent: peach-bitters
+  slug: fee-brothers-peach-bitters
+  kind: product
+
+- display_name: Lime Bitters
+  parent: citrus-bitters
+  slug: lime-bitters
+  kind: ingredient
+
+- display_name: "Scrappy's Lime Bitters"
+  parent: lime-bitters
+  slug: scrappys-lime-bitters
+  kind: product

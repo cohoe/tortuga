@@ -1,0 +1,100 @@
+---
+- display_name: Aromatic Bitters
+  parent: bitters
+  slug: aromatic-bitters
+  kind: ingredient
+
+- display_name: Bitter Truth Aromatic Bitters
+  parent: aromatic-bitters
+  slug: bitter-truth-aromatic-bitters
+  kind: product
+
+- display_name: Barrel-Aged Bitters
+  parent: aromatic-bitters
+  slug: barrel-aged-bitters
+  kind: ingredient
+
+- display_name: Fee Brothers Whiskey Barrel-Aged Bitters
+  parent: barrel-aged-bitters
+  slug: fee-brothers-whiskey-barrel-aged-bitters
+  kind: product
+
+- display_name: "Feldman's BarreleAged Bitters"
+  parent: barrel-aged-bitters
+  slug: feldmans-barreleaged-bitters
+  kind: product
+
+- display_name: Bokers Bitters
+  parent: aromatic-bitters
+  slug: bokers-bitters
+  kind: product
+
+- display_name: "Bogart's Bitters"
+  parent: aromatic-bitters
+  slug: bogarts-bitters
+  kind: ingredient
+
+- display_name: Fee Brothers Old Fashioned Bitters
+  parent: aromatic-bitters
+  slug: fee-brothers-old-fashioned-bitters
+  kind: product
+
+- display_name: Angostura Bitters
+  parent: aromatic-bitters
+  slug: angostura-bitters
+  kind: product
+
+- display_name: "Peychaud's Bitters"
+  parent: aromatic-bitters
+  slug: peychauds-bitters
+  kind: product
+
+- display_name: "House Peychaud's Bitters"
+  parent: peychauds-bitters
+  slug: house-peychauds-bitters
+  kind: custom
+
+- display_name: Pimento Bitters
+  parent: aromatic-bitters
+  slug: pimento-bitters
+  kind: ingredient
+
+- display_name: "Dale Degroff's Pimento Bitters"
+  parent: pimento-bitters
+  slug: dale-degroffs-pimento-bitters
+  kind: product
+
+- display_name: Tiki Bitters
+  parent: aromatic-bitters
+  slug: tiki-bitters
+  kind: ingredient
+
+- display_name: "Bittermens 'Elemakule Tiki Bitters"
+  parent: tiki-bitters
+  slug: bittermens-elemakule-tiki-bitters
+  kind: product
+
+- display_name: "Abbott's Bitters"
+  parent: aromatic-bitters
+  slug: abbotts-bitters
+  kind: product
+
+- display_name: Amargo Chuncho Bitters
+  parent: aromatic-bitters
+  slug: amargo-chuncho-bitters
+  kind: product
+
+- display_name: "Bitter Truth Jerry Thomas' Own Decanter Bitters"
+  parent: aromatic-bitters
+  slug: bitter-truth-jerry-thomas-own-decanter-bitters
+  kind: product
+
+- display_name: "Boy Drinks World Aromatic Walnut bitters"
+  parent: aromatic-bitters
+  slug: boy-drinks-world-aromatic-walnut-bitters
+  kind: product
+
+- display_name: Bittercube Cherry Bark & Vanilla Bitters
+  parent: aromatic-bitters
+  slug: bittercube-cherry-bark-vanilla-bitters
+  kind: product

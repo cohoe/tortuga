@@ -1,0 +1,30 @@
+---
+- display_name: Herbal Bitters
+  parent: bitters
+  slug: herbal-bitters
+  kind: ingredient
+
+- display_name: Verbena Bitters
+  parent: herbal-bitters
+  slug: verbena-bitters
+  kind: ingredient
+
+- display_name: A.B. Smeby Verbena Bitters
+  parent: verbena-bitters
+  slug: a-b-smeby-verbena-bitters
+  kind: product
+
+- display_name: Bitter Truth Essence of Cuba Coffee Bitters
+  parent: herbal-bitters
+  slug: bitter-truth-essence-of-cuba-coffee-bitters
+  kind: product
+
+- display_name: Bitter Truth Essence of Cuba Aromatic Leaf Bitters
+  parent: herbal-bitters
+  slug: bitter-truth-essence-of-cuba-aromatic-leaf-bitters
+  kind: product
+
+- display_name: Mamajuana Bitters
+  parent: herbal-bitters
+  slug: mamajuana-bitters
+  kind: ingredient

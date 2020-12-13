@@ -1,0 +1,25 @@
+---
+- display_name: Vegetable Bitters
+  parent: bitters
+  slug: vegetable-bitters
+  kind: ingredient
+
+- display_name: Celery Bitters
+  parent: bitters
+  slug: celery-bitters
+  kind: ingredient
+
+- display_name: The Bitter Truth Celery Bitters
+  parent: celery-bitters
+  slug: the-bitter-truth-celery-bitters
+  kind: product
+
+- display_name: Rhubarb Bitters
+  parent: bitters
+  slug: rhubarb-bitters
+  kind: ingredient
+
+- display_name: Fee Brothers Rhubarb Bitters
+  parent: rhubarb-bitters
+  slug: fee-brothers-rhubarb-bitters
+  kind: product

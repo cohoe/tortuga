@@ -1,0 +1,21 @@
+---
+- display_name: Fruit Bitters
+  parent: bitters
+  slug: fruit-bitters
+  kind: ingredient
+
+- display_name: Apple Bitters
+  parent: fruit-bitters
+  slug: apple-bitters
+  kind: ingredient
+
+- display_name: Bar Keep Apple Bitters
+  parent: apple-bitters
+  slug: bar-keep-apple-bitters
+  kind: product
+
+- display_name: Bar Code Baked Apple Bitters
+  parent: apple-bitters
+  slug: bar-code-baked-apple-bitters
+  kind: product
+

@@ -1,0 +1,11 @@
+---
+- display_name: Chocolate Bitters
+  parent: bitters
+  slug: chocolate-bitters
+  kind: ingredient
+
+- display_name: Bittermens Xocolatl Mole Bitters
+  parent: chocolate-bitters
+  slug: bittermens-xocolatl-mole-bitters
+  kind: product
+
