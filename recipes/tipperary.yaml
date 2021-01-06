@@ -40,7 +40,8 @@
         - text: 1.5:.75:.5 with french sweet completely changed the character. while i like it more, im not sure its really better. the whiskey comes out more
     - slug: pdt
       display_name: PDT
-      glassware: coupe
+      glassware:
+        - slug: coupe
       construction:
         slug: stir
       components:
