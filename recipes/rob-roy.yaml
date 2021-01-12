@@ -11,7 +11,7 @@
       glassware:
         - slug: cocktail
       components:
-        - slug: scotch
+        - slug: scotch-whisky
           quantity: 2
           unit: oz
         - slug: sweet-vermouth

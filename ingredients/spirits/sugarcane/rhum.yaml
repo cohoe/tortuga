@@ -48,13 +48,18 @@
   parent: rhum
   kind: ingredient
 
+- display_name: Unaged Rhum Agricole
+  slug: unaged-rhum-agricole
+  parent: unaged-rhum
+  kind: ingredient
+
 - display_name: Barbancourt Rhum Blanc
   parent: unaged-rhum
   slug: barbancourt-rhum-blanc
   kind: product
 
 - display_name: "Cl\xE9ment Première Canne"
-  parent: unaged-rhum
+  parent: unaged-rhum-agricole
   slug: clement-premiere-canne
   kind: product
 
@@ -64,21 +69,21 @@
   kind: custom
 
 - display_name: J. M. Rhum Blanc
-  parent: unaged-rhum
+  parent: unaged-rhum-agricole
   slug: j-m-rhum-blanc
   kind: product
 
 - display_name: La Favorite Rhum Agricole Blanc
-  parent: unaged-rhum
+  parent: unaged-rhum-agricole
   slug: la-favorite-rhum-agricole-blanc
   kind: product
 
 - display_name: Neisson Rhum Agricole Blanc
-  parent: unaged-rhum
+  parent: unaged-rhum-agricole
   slug: neisson-rhum-agricole-blanc
   kind: product
 
 - display_name: Neisson Rhum Blanc
-  parent: unaged-rhum
+  parent: unaged-rhum-agricole
   slug: neisson-rhum-blanc
   kind: product

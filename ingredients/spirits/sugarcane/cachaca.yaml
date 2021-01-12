@@ -3,6 +3,11 @@
   slug: aged-cachaca
   kind: ingredient
 
+- display_name: "Unaged Cacha\xE7a"
+  parent: cachaca
+  slug: unaged-cachaca
+  kind: ingredient
+
 - display_name: "Avu\xE1 Amburana Cacha\xE7a"
   parent: aged-cachaca
   slug: avua-amburana-cachaca
@@ -14,12 +19,12 @@
   kind: product
 
 - display_name: "Beleza Pura Cacha\xE7a"
-  parent: cachaca
+  parent: unaged-cachaca
   slug: beleza-pura-cachaca
   kind: product
 
 - display_name: "M\xE3e De Ouro Cacha\xE7a"
-  parent: cachaca
+  parent: aged-cachaca
   slug: mae-de-ouro-cachaca
   kind: product
 
@@ -29,12 +34,12 @@
   kind: custom
 
 - display_name: "Sagatiba Cacha\xE7a"
-  parent: cachaca
+  parent: unaged-cachaca
   slug: sagatiba-cachaca
   kind: product
 
 - display_name: "Leblon Cacha\xE7a"
-  parent: cachaca
+  parent: unaged-cachaca
   slug: leblon-cachaca
   kind: product
 
@@ -52,3 +57,20 @@
   parent: leblon-cachaca
   slug: sencha-green-tea-infused-leblon-cachaca
   kind: custom
+
+- display_name: "Novo Fogo Silver Cacha\xE7a"
+  parent: unaged-cachaca
+  slug: novo-fogo-silver-cachaca
+  kind: product
+
+- display_name: "Novo Fogo Chameleon Cacha\xE7a"
+  parent: aged-cachaca
+  slug: novo-fogo-chameleon-cachaca
+  kind: product
+  aliases:
+    - "Novo Fogo Gold Cacha\xE7a"
+
+- display_name: "Novo Fogo Barrel-Aged Cacha\xE7a"
+  parent: aged-cachaca
+  slug: novo-fogo-barrel-aged-cachaca
+  kind: product

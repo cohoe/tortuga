@@ -29,7 +29,8 @@
         - title: PDT Cocktails
           href: https://mixologytech.com/pdt/index.html
         - title: Tropical Bar Book
-          author: Charles Schumann
+          author:
+            - Charles Schumann
           date: 1989-04-01
       notes:
         - text: >-
