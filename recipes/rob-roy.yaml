@@ -1,0 +1,61 @@
+---
+- slug: rob-roy
+  display_name: Rob Roy
+  origin:
+    story: >-
+      The Scotch Whisky Manhattan was named after the romantic comic opera Rob
+      Roy, which opened in 1894 in Manhattan’s Herald Square, right around the corner
+      from the newly built Waldorf Hotel.
+  specs:
+    - slug: original
+      glassware:
+        - slug: cocktail
+      components:
+        - slug: scotch
+          quantity: 2
+          unit: oz
+        - slug: sweet-vermouth
+          quantity: 1
+          unit: oz
+        - slug: angostura-bitters
+          quantity: 2
+          unit: dash
+      construction:
+        slug: stir
+      instructions:
+        - text: >-
+            Combine all of the ingredients in a mixing glass with ice, stir to chill,
+            then strain into a chilled glass and garnish.
+      garnish:
+        - slug: cherry
+      straw: false
+      citations:
+        - title: Rob Roy Cocktail
+          date: 2018-01-12
+          href: https://imbibemagazine.com/recipe/recipe-rob-roy/
+    - slug: pdt
+      display_name: PDT
+      glassware:
+        - slug: coupe
+      construction:
+        slug: stir
+      components:
+        - slug: famous-grouse-blended-scotch-whisky
+          quantity: 2.5
+          unit: oz
+        - slug: dolin-rouge-vermouth
+          quantity: 0.75
+          unit: oz
+        - slug: angostura-orange-bitters
+          quantity: 2
+          unit: dashes
+      garnish:
+        - slug: lemon-twist
+      instructions:
+        - text: Stir with ice, then strain into a chilled coupe.
+      straw: false
+      citations:
+        - title: 'The Cocktail Book: A Sideboard Manual for Gentlemen'
+          date: 1900
+        - title: PDT Cocktails
+          href: https://mixologytech.com/pdt/index.html

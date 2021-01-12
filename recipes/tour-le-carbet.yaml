@@ -1,0 +1,36 @@
+---
+- slug: tour-le-carbet
+  display_name: Tour le Carbet
+  origin:
+    creator: Shannon Mustipher
+    location: Brooklyn NY
+  specs:
+    - slug: imbibe
+      glassware:
+        - slug: coupe
+      components:
+        - slug: unaged-rhum-agricole
+          quantity: 2
+          unit: oz
+        - slug: lime-juice
+          quantity: .75
+          unit: oz
+        - slug: falernum
+          quantity: .75
+          unit: oz
+        - slug: suze
+          quantity: .5
+          unit: oz
+      construction:
+        slug: shake
+      instructions:
+        - text: >-
+            Shake all of the ingredients with ice, then double strain into a
+            chilled glass and garnish.
+      garnish:
+        - slug: lime-wheel
+      straw: false
+      citations:
+        - title: 'Rhum Agricole Cocktail: Tour Le Carbet'
+          date: 2020-08-20
+          href: https://imbibemagazine.com/recipe/rhum-agricole-cocktail-tour-le-carbet/

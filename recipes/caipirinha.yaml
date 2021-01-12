@@ -4,11 +4,11 @@
   origin:
     location: Brazil
   specs:
-    - slug: original
+    - slug: pdt
       glassware:
         - slug: rocks
       components:
-        - slug: cachaça
+        - slug: novo-fogo-silver-cachaça
           quantity: 2
           unit: oz
         - slug: lime
@@ -16,16 +16,63 @@
         - slug: demerara sugar
           quantity: 2
           unit: barspoon
+          notes:
+            - text: Or 2 cubes
       construction:
         slug: shake
       instructions:
-        - text: muddle the lime and sugar, then add the Cachaça
-        - text: shake with ice and pour unstrained into a chilled rocks glass
+        - text: >-
+            Muddle the lime and sugar, then add the cachaça. Shake with ice
+            and pour unstrained into a chilled rocks glass.
       straw: false
       citations:
         - title: PDT Cocktails
           href: https://mixologytech.com/pdt/index.html
         - title: Tropical Bar Book
+          author: Charles Schumann
           date: 1989-04-01
       notes:
-        - text: 2bs sugar or 2 cubes
+        - text: >-
+            All of these were each with the Avua Prata and Amburana. First was the PDT spec.
+            Not enough sugar. Second was the Fogo spec with a tbsp sugar. Way too sweet.
+            Need to find something in the middle. A little Sprite made this more drinkable.
+        - text: >-
+            Did with 1/4oz lime and 1/4oz 2:1 demerara. Came out ok but not stellar.
+            Wonder if that's the raw Leblon talking. At Fogo I've been getting the
+            Novo gold. Maybe not enough lime?
+    - slug: master-your-glass
+      glassware:
+        - slug: rocks
+      components:
+        - slug: cachaca
+          quantity: 2
+          unit: oz
+        - slug: lime
+          quantity: 1
+          unit: oz
+        - slug: simple-syrup
+          quantity: 1
+          unit: oz
+      construction:
+        slug: stir
+      instructions:
+        - text: >-
+            Prepare the lime by slicing off the ends and cutting it in half down the spine.
+            Remove the spine from each side by slicing in a V shape then quarter the pieces
+            and place into a mixing glass. Muddle the lime with the simple syrup then add
+            the Cachaça and ice. Stir to combine then pour unstrained into a double old-fashioned
+            glass.
+      straw: false
+      citations:
+        - title: 'An Authentic Brazilian Buzz - The Caipirinha | Master Your Glass'
+          date: 2020-12-11
+          href: 'https://www.youtube.com/watch?v=B0a6-a72l1M'
+      notes:
+        - text: >-
+            Lime management is key. This video taught me how to pick good limes. They should
+            be smooth, slightly shiny, and soft. Hard and rough texture no bueno.
+        - text: >-
+            This is the best home-grown caipirinha I've ever made. The problem with grain
+            sugar is that you get the sandy beach at the bottom of the glass. PDT doesn't
+            do enough lime. I'm sure an aged cachaça would do ok but to be honest this is
+            plenty good enough.

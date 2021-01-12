@@ -1,0 +1,36 @@
+---
+- slug: mezcaletti
+  display_name: Mezcaletti
+  origin:
+    creator: Richard Boccato
+    venue: Bar Clacson
+    location: Los Angeles CA
+  specs:
+    - slug: original
+      glassware:
+        - slug: rocks
+      components:
+        - slug: mezcal
+          quantity: 1
+          unit: oz
+        - slug: amaro-meletti
+          quantity: 1
+          unit: oz
+        - slug: orange-bitters
+          quantity: 2
+          unit: dash
+      construction:
+        slug: build
+      instructions:
+        - text: >-
+            Build in a rocks glass over a large cube. Gently stir ten to fifteen
+            times. Garnish with a lemon twist.
+      garnish:
+        - slug: lemon-twist
+      straw: false
+      citations:
+        - title: Mezcaletti Cocktail Recipe
+          author:
+            - Punch
+          publisher: PUNCH
+          href: https://punchdrink.com/recipes/mezcaletti/

@@ -1,0 +1,48 @@
+---
+- slug: care-to-dance
+  display_name: 'Care to Dance?'
+  specs:
+    - slug: original
+      origin:
+        creator: Jeremy Downer
+      glassware:
+        - slug: rocks
+      components:
+        - slug: bigallet-china-china-amer
+          quantity: 1
+          unit: oz
+        - slug: altos-reposado-tequila
+          quantity: 1
+          unit: oz
+        - slug: lairds-bonded-apple-brandy
+          quantity: .75
+          unit: oz
+        - slug: carpano-antica-sweet-vermouth
+          quantity: .25
+          unit: oz
+        - slug: green-chartreuse
+          quantity: 1
+          unit: barspoon
+        - slug: bittermens-hellfire-habanero-shrub
+          quantity: 3
+          unit: dash
+          notes:
+            - text: 3-4 dashes
+      construction:
+        slug: stir
+      instructions:
+        - text: >-
+            Combine all in a mixing glass and stir (without ice!)
+            Pour into a rocks glass, neat. Express the fresh oils from
+            an orange peel and discard.
+      garnish:
+        - slug: orange-twist
+          notes:
+            - text: discarded
+      straw: false
+      citations:
+        - title: Instagram
+          date: 2020-01-30
+          href: https://www.instagram.com/p/B79QEgPlQc_/
+      notes:
+        - text: 'Another scaffa!'

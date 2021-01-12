@@ -1,0 +1,45 @@
+---
+- slug: rum-martinez
+  display_name: Rum Martinez
+  origin:
+    creator: Harper Fendler
+  specs:
+    - slug: food52
+      glassware:
+        - slug: coupe
+      components:
+        - slug: santa-teresa-1796-rum
+          quantity: 1.5
+          unit: oz
+        - slug: sweet-vermouth
+          quantity: .75
+          unit: oz
+        - slug: suze
+          quantity: .25
+          unit: oz
+        - slug: luxardo
+          quantity: 1
+          unit: tsp
+        - slug: orange-bitters
+          quantity: 2
+          unit: dash
+        - slug: angostura-bitters
+          quantity: 2
+          unit: dash
+      construction:
+        slug: stir
+      instructions:
+        - text: >-
+            Add all the ingredients to a mixing glass filled with ice, and stir
+            to combine. Strain and serve in a coupe glass. Pierce cherry with
+            rosemary sprig and light the end of the sprig over flame until it
+            smokes. Garnish the drink and enjoy.
+      garnish:
+        - slug: rosemary-sprig
+        - slug: luxardo-cherry
+      straw: false
+      citations:
+        - title: Rum Martinez Cocktail Recipe From Harper Fendler
+          publisher: Food52
+          date: 2020-11-05
+          href: https://food52.com/recipes/84292-rum-martinez-cocktail
