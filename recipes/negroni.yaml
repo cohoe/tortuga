@@ -4,23 +4,36 @@
   origin:
     location: Italy
   specs:
-    - slug: original
+    - slug: pdt
       glassware:
         - slug: rocks
       components:
-        - slug: london dry gin
-          quantity: 1
+        - slug: beefeater-london-dry-gin
+          quantity: 1.25
           unit: oz
         - slug: campari
-          quantity: 1
+          quantity: 1.25
           unit: oz
-        - slug: sweet vermouth
-          quantity: 1
+        - slug: sweet-vermouth
+          quantity: 1.25
           unit: oz
       construction:
         slug: stir
       instructions:
-        - text: stir all the ingredients with ice, then strain into a rocks glass with a large ice cube
+        - text: >-
+            Stir with ice and strain over a large ice cube in a rocks glass.
       garnish:
-        - slug: orange peel
+        - slug: orange-twist
       straw: false
+      citations:
+        - title: PDT Cocktails
+          href: https://mixologytech.com/pdt/index.html
+        - title: Cien Cocktails
+          date: 1943
+          author:
+            - J.S. Brucart
+      notes:
+        - text: >-
+            I don't dislike this as much as I thought I would. Delightfully dry,
+            not overly Campari-y. Dolin rouge does really well to balance it out.
+            A 2:1:1 spec works just as well, if not slightly better.
