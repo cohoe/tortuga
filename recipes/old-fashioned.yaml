@@ -2,26 +2,33 @@
 - slug: old-fashioned
   display_name: Old Fashioned
   specs:
-    - slug: original
+    - slug: eater
       glassware:
-        - slug: rocks
+        - slug: old-fashioned
       components:
-        - slug: bourbon whiskey
+        - slug: bourbon-whiskey
           quantity: 2
           unit: oz
-        - slug: simple syrup
-          quantity: .25
+          notes:
+            - text: 'Overproof rye or bourbon'
+        - slug: simple-syrup
+          quantity: .5
           unit: oz
-        - slug: angostura bitters
+        - slug: angostura-bitters
           quantity: 2
           unit: dash
       construction:
         slug: stir
       instructions:
-        - text: stir all the ingredients with ice, then strain into a rocks glass with a large ice cube
-        - text: rub an orange peel around the rim of the glass
+        - text: >-
+            Combine whiskey, simple syrup and bitters in a cocktail shaker with ice.
+            Stir then strain into Old Fashioned glass with ice. Garnish with orange twist.
       garnish:
-        - slug: orange peel
+        - slug: orange-twist
       straw: false
       notes:
         - text: the orange peel does actually make a difference
+        - text: I do .25oz simple and regular bourbon instead.
+      citations:
+        - title: 'Mastering the Old Fashioned, the Best Gateway Whiskey Cocktail'
+          href: 'https://www.eater.com/21551041/best-old-fashioned-cocktail-recipe'

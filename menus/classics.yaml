@@ -1,0 +1,11 @@
+---
+- slug: classics
+  display_name: Classics
+  items:
+    - cocktail_slug: old-fashioned
+    - cocktail_slug: negroni
+    - cocktail_slug: daiquiri
+    - cocktail_slug: margarita
+    - cocktail_slug: manhattan
+    - cocktail_slug: martini
+    - cocktail_slug: sidecar
