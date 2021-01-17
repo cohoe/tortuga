@@ -1,0 +1,47 @@
+- slug: platanos-en-mole-old-fashioned
+  display_name: Plátanos en Mole Old Fashioned
+  origin:
+    creator: Jim Meehan
+    year: 2010
+    story: >-
+      Inspired by the classic dessert, this cocktail was first served at the
+      StarChefs.com International Chef’s Congress, held at the Seventh Regiment
+      Armory on New York City’s Park Avenue.
+  specs:
+    - slug: pdt
+      display_name: PDT
+      origin:
+        year: 2010
+      glassware:
+        - slug: rocks
+      construction:
+        slug: stir
+      components:
+        - slug: zacapa-23-centenario-rum
+          display_name: Zacapa 23 Centenario Rum
+          quantity: 2
+          unit: oz
+        - slug: giffard-banane-du-bresil
+          display_name: Giffard Banane Du Bresil
+          quantity: 0.25
+          unit: oz
+        - slug: bittermens-xocolatl-mole-bitters
+          display_name: Bittermens Xocolatl Mole Bitters
+          quantity: 12
+          unit: drops
+      instructions:
+        - text: Stir with ice, then strain over one large ice cube in a chilled rocks glass.
+      garnish:
+        - slug: chili-powder
+          quantity: 1
+          unit: pinch
+      straw: false
+      citations:
+        - title: PDT Cocktails
+          href: https://mixologytech.com/pdt/index.html
+      notes:
+        - text: >-
+            This is strange, especially with the chili powder. Not bad but it doesn't wow me.
+            The mole bitters come out and the end, the banana and rum seem to get lost into
+            some kind of amorphic blob of flavor.
+            After diluting slightly in the glass I find I like this even less.
