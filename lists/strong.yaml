@@ -1,0 +1,10 @@
+---
+- slug: something-strong
+  display_name: Something Strong
+  items:
+    - cocktail_slug: east-india-negroni
+      spec_slug: modified
+    - cocktail_slug: rack-rye
+    - cocktail_slug: normandy-old-fashioned
+      notes:
+        - text: maybe???

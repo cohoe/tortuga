@@ -1,0 +1,7 @@
+---
+- slug: scaffa
+  display_name: Scaffa
+  items:
+    - cocktail_slug: just-the-paperwork
+    - cocktail_slug: how-do-i-compare
+    - cocktail_slug: the-brave # Amaro p130
