@@ -3,47 +3,49 @@
   slug: pisco
   kind: ingredient
 
-- display_name: Barsol Quebranta Pisco
+- display_name: Chilean Pisco
   parent: pisco
-  slug: barsol-quebranta-pisco
-  kind: product
+  slug: chilean-pisco
+  kind: ingredient
 
-- display_name: Chamomile-Infused Barsol Quebranta Pisco
-  parent: barsol-quebranta-pisco
-  slug: chamomile-infused-barsol-quebranta-pisco
-  kind: custom
+- display_name: Tradicional Pisco
+  parent: chilean-pisco
+  slug: tradicional-pisco
+  kind: ingredient
 
-- display_name: Campo De Encanto Acholado Pisco
-  parent: pisco
-  slug: campo-de-encanto-acholado-pisco
-  kind: product
+- display_name: Especial Pisco
+  parent: chilean-pisco
+  slug: especial-pisco
+  kind: ingredient
 
-- display_name: La Diablada Pisco
-  parent: pisco
-  slug: la-diablada-pisco
-  kind: product
-
-- display_name: Macchu Pisco
-  parent: pisco
-  slug: macchu-pisco
-  kind: product
-
-- display_name: Spiced Macchu Pisco
-  parent: macchu-pisco
-  slug: spiced-macchu-pisco
-  kind: custom
-
-- display_name: Strawberry-And Pineapple-Infused Macchu Pisco
-  parent: macchu-pisco
-  slug: strawberry-and-pineapple-infused-macchu-pisco
-  kind: custom
+- display_name: Reservado Pisco
+  parent: chilean-pisco
+  slug: reservado-pisco
+  kind: ingredient
 
 - display_name: Waqar Pisco
-  parent: pisco
+  parent: reservado-pisco
   slug: waqar-pisco
   kind: product
 
-- display_name: Caravedo Torontel Puro Pisco
-  parent: pisco
-  slug: caravedo-torontel-puro-pisco
-  kind: product
+- display_name: Gran Pisco
+  parent: chilean-pisco
+  slug: gran-pisco
+  kind: ingredient
+
+- display_name: Unaged Pisco
+  parent: chilean-pisco
+  slug: unaged-pisco
+  kind: index
+  aliases:
+    - Corriente Pisco
+
+- display_name: Guarda Pisco
+  parent: chilean-pisco
+  slug: guarda-pisco
+  kind: index
+
+- display_name: Envejecido Pisco
+  parent: chilean-pisco
+  slug: envejecido-pisco
+  kind: index

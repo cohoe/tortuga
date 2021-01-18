@@ -1,6 +1,4 @@
 ---
-# @TODO: Split agricole vs rhum
-#
 - display_name: Aged Rhum
   slug: aged-rhum
   parent: rhum
@@ -13,11 +11,6 @@
   aliases:
     - Barbancourt 8-Year-Old Rhum
 
-- display_name: La Favorite Rhum Agricole Ambre
-  parent: aged-rhum
-  slug: la-favorite-rhum-agricole-ambre
-  kind: product
-
 - display_name: "Neisson Rhum R\xE9serve Sp\xE9ciale"
   parent: aged-rhum
   slug: neisson-rhum-reserve-speciale
@@ -26,11 +19,6 @@
 - display_name: "Rhum Cl\xE9ment V.S.O.P."
   parent: aged-rhum
   slug: rhum-clement-v-s-o-p
-  kind: product
-
-- display_name: St. James Royal Ambre Rhum Agricole
-  parent: aged-rhum
-  slug: st-james-royal-ambre-rhum-agricole
   kind: product
 
 - display_name: Lightly Aged Rhum
@@ -48,42 +36,12 @@
   parent: rhum
   kind: ingredient
 
-- display_name: Unaged Rhum Agricole
-  slug: unaged-rhum-agricole
-  parent: unaged-rhum
-  kind: ingredient
-
 - display_name: Barbancourt Rhum Blanc
   parent: unaged-rhum
   slug: barbancourt-rhum-blanc
-  kind: product
-
-- display_name: "Cl\xE9ment Première Canne"
-  parent: unaged-rhum-agricole
-  slug: clement-premiere-canne
   kind: product
 
 - display_name: Granny Smith Apple-Infused Rhum Barbancourt
   parent: barbancourt-rhum-blanc
   slug: granny-smith-apple-infused-rhum-barbancourt
   kind: custom
-
-- display_name: J. M. Rhum Blanc
-  parent: unaged-rhum-agricole
-  slug: j-m-rhum-blanc
-  kind: product
-
-- display_name: La Favorite Rhum Agricole Blanc
-  parent: unaged-rhum-agricole
-  slug: la-favorite-rhum-agricole-blanc
-  kind: product
-
-- display_name: Neisson Rhum Agricole Blanc
-  parent: unaged-rhum-agricole
-  slug: neisson-rhum-agricole-blanc
-  kind: product
-
-- display_name: Neisson Rhum Blanc
-  parent: unaged-rhum-agricole
-  slug: neisson-rhum-blanc
-  kind: product

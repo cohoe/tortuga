@@ -1,0 +1,35 @@
+---
+- display_name: Calvados
+  parent: apple-brandy
+  slug: calvados
+  kind: ingredient
+
+- display_name: "Calvados Pays d'Auge"
+  parent: calvados
+  slug: calvados-pays-dauge
+  kind: ingredient
+
+- display_name: Busnel VSOP Calvados
+  parent: calvados-pays-dauge
+  slug: busnel-vsop-calvados
+  kind: product
+
+- display_name: Boulard VSOP Calvados
+  parent: calvados-pays-dauge
+  slug: boulard-vsop-calvados
+  kind: product
+
+- display_name: Daron Fine Calvados
+  parent: calvados-pays-dauge
+  slug: daron-fine-calvados
+  kind: product
+
+- display_name: Domaine du Manoir de Montreuil Réserve
+  parent: calvados-pays-dauge
+  slug: domaine-du-manoir-de-montreuil-reserve
+  kind: product
+
+- display_name: "Calvados Domfrontais"
+  parent: calvados
+  slug: calvados-domfrontais
+  kind: ingredient

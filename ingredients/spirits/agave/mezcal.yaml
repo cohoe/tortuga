@@ -1,6 +1,14 @@
 ---
-# @TODO break out categories from mexican law
-#
+- display_name: Mezcal Ancestral
+  parent: mezcal
+  slug: mezcal-ancestral
+  kind: ingredient
+
+- display_name: Mezcal Artesanal
+  parent: mezcal
+  slug: mezcal-artesanal
+  kind: ingredient
+
 - display_name: Del Maguey Chichicapa Mezcal
   parent: mezcal
   slug: del-maguey-chichicapa-mezcal
@@ -31,9 +39,9 @@
   slug: ilegal-reposado-mezcal
   kind: product
 
-- display_name: Los Amantes Joven Mezcal
+- display_name: Los Amantes Mezcal
   parent: mezcal
-  slug: los-amantes-joven-mezcal
+  slug: los-amantes-mezcal
   kind: product
 
 - display_name: Los Nahuales Mezcal
@@ -55,3 +63,18 @@
   parent: mezcal
   slug: casamigos-mezcal
   kind: product
+
+- display_name: Joven Mezcal
+  parent: mezcal
+  slug: joven-mezcal
+  kind: index
+
+- display_name: Reposado Mezcal
+  parent: mezcal
+  slug: reposado-mezcal
+  kind: index
+
+- display_name: Añejo Mezcal
+  parent: mezcal
+  slug: anejo-mezcal
+  kind: index

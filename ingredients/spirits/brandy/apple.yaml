@@ -34,28 +34,3 @@
   parent: applejack
   slug: lairds-applejack
   kind: product
-
-- display_name: Calvados
-  parent: apple-brandy
-  slug: calvados
-  kind: ingredient
-
-- display_name: Busnel VSOP Calvados
-  parent: calvados
-  slug: busnel-vsop-calvados
-  kind: product
-
-- display_name: Boulard VSOP Calvados
-  parent: calvados
-  slug: boulard-vsop-calvados
-  kind: product
-
-- display_name: Daron Fine Calvados
-  parent: calvados
-  slug: daron-fine-calvados
-  kind: product
-
-- display_name: Domaine du Manoir de Montreuil Réserve
-  parent: calvados
-  slug: domaine-du-manoir-de-montreuil-reserve
-  kind: product

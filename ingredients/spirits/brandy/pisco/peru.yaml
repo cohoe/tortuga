@@ -1,0 +1,60 @@
+---
+- display_name: Peruvian Pisco
+  parent: pisco
+  slug: peruvian-pisco
+  kind: ingredient
+
+- display_name: Puro Pisco
+  parent: peruvian-pisco
+  slug: puro-pisco
+  kind: ingredient
+
+- display_name: Barsol Quebranta Pisco
+  parent: puro-pisco
+  slug: barsol-quebranta-pisco
+  kind: product
+
+- display_name: Chamomile-Infused Barsol Quebranta Pisco
+  parent: barsol-quebranta-pisco
+  slug: chamomile-infused-barsol-quebranta-pisco
+  kind: custom
+
+- display_name: Macchu Pisco
+  parent: puro-pisco
+  slug: macchu-pisco
+  kind: product
+
+- display_name: Spiced Macchu Pisco
+  parent: macchu-pisco
+  slug: spiced-macchu-pisco
+  kind: custom
+
+- display_name: Strawberry-And Pineapple-Infused Macchu Pisco
+  parent: macchu-pisco
+  slug: strawberry-and-pineapple-infused-macchu-pisco
+  kind: custom
+
+- display_name: Caravedo Torontel Puro Pisco
+  parent: puro-pisco
+  slug: caravedo-torontel-puro-pisco
+  kind: product
+
+- display_name: Acholado Pisco
+  parent: peruvian-pisco
+  slug: acholado-pisco
+  kind: ingredient
+
+- display_name: Campo De Encanto Acholado Pisco
+  parent: acholado-pisco
+  slug: campo-de-encanto-acholado-pisco
+  kind: product
+
+- display_name: La Diablada Pisco
+  parent: acholado-pisco
+  slug: la-diablada-pisco
+  kind: product
+
+- display_name: Mosto Verde Pisco
+  parent: peruvian-pisco
+  slug: mosto-verde-pisco
+  kind: ingredient

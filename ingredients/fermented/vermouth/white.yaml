@@ -1,0 +1,53 @@
+---
+- display_name: White Vermouth
+  parent: vermouth
+  slug: white-vermouth
+  kind: ingredient
+  aliases:
+    - Bianco Vermouth
+    - Blanc Vermouth
+
+- display_name: Contratta Vermouth Bianco
+  parent: white-vermouth
+  slug: contratta-vermouth-bianco
+  kind: product
+
+- display_name: Dolin Blanc Vermouth
+  parent: white-vermouth
+  slug: dolin-blanc-vermouth
+  kind: product
+
+- display_name: Alessio Vermouth Bianco
+  parent: white-vermouth
+  slug: alessio-vermouth-bianco
+  kind: product
+
+- display_name: Martini & Rossi Bianco Vermouth
+  parent: white-vermouth
+  slug: martini-rossi-bianco-vermouth
+  kind: product
+
+- display_name: Carpano Bianco Vermouth
+  parent: white-vermouth
+  slug: carpano-bianco-vermouth
+  kind: product
+
+- display_name: Sage-Infused Dolin Blanc Vermouth
+  parent: dolin-blanc-vermouth
+  slug: sage-infused-dolin-blanc-vermouth
+  kind: custom
+
+- display_name: Earl Grey-Infused Dolin Blanc Vermouth
+  parent: dolin-blanc-vermouth
+  slug: earl-grey-infused-dolin-blanc-vermouth
+  kind: custom
+
+- display_name: Basil-Infused Dolin Blanc Vermouth
+  parent: dolin-blanc-vermouth
+  slug: basil-infused-dolin-blanc-vermouth
+  kind: custom
+
+- display_name: Chamomile-Infused Bianco Vermouth
+  parent: white-vermouth
+  slug: chamomile-infused-bianco-vermouth
+  kind: custom

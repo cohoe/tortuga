@@ -1,0 +1,20 @@
+---
+- display_name: Americano
+  parent: fortified-wine
+  slug: americano
+  kind: ingredient
+
+- display_name: Cocchi Americano Rosa
+  parent: americano
+  slug: cocchi-americano-rosa
+  kind: product
+
+- display_name: Cocchi Americano
+  parent: americano
+  slug: cocchi-americano
+  kind: product
+
+- display_name: Short Path Americano
+  parent: americano
+  slug: short-path-americano
+  kind: product

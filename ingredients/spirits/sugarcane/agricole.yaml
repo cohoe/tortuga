@@ -1,0 +1,45 @@
+---
+- display_name: Unaged Rhum Agricole
+  slug: unaged-rhum-agricole
+  parent: unaged-rhum
+  kind: ingredient
+
+- display_name: "Cl\xE9ment Première Canne"
+  parent: unaged-rhum-agricole
+  slug: clement-premiere-canne
+  kind: product
+
+- display_name: J. M. Rhum Blanc
+  parent: unaged-rhum-agricole
+  slug: j-m-rhum-blanc
+  kind: product
+
+- display_name: La Favorite Rhum Agricole Blanc
+  parent: unaged-rhum-agricole
+  slug: la-favorite-rhum-agricole-blanc
+  kind: product
+
+- display_name: Neisson Rhum Agricole Blanc
+  parent: unaged-rhum-agricole
+  slug: neisson-rhum-agricole-blanc
+  kind: product
+
+- display_name: Neisson Rhum Blanc
+  parent: unaged-rhum-agricole
+  slug: neisson-rhum-blanc
+  kind: product
+
+- display_name: Aged Rhum Agricole
+  parent: lightly-aged-rhum
+  slug: aged-rhum-agricole
+  kind: ingredient
+
+- display_name: La Favorite Rhum Agricole Ambre
+  parent: aged-rhum-agricole
+  slug: la-favorite-rhum-agricole-ambre
+  kind: product
+
+- display_name: St. James Royal Ambre Rhum Agricole
+  parent: aged-rhum-agricole
+  slug: st-james-royal-ambre-rhum-agricole
+  kind: product

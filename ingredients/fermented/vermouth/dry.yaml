@@ -1,0 +1,47 @@
+---
+- display_name: Dry Vermouth
+  parent: vermouth
+  slug: dry-vermouth
+  kind: ingredient
+
+- display_name: Dolin Dry Vermouth
+  parent: dry-vermouth
+  slug: dolin-dry-vermouth
+  kind: product
+
+- display_name: Dry French Vermouth
+  parent: dry-vermouth
+  slug: dry-french-vermouth
+  kind: ingredient
+
+- display_name: Martini & Rossi Dry Vermouth
+  parent: dry-vermouth
+  slug: martini-rossi-dry-vermouth
+  kind: product
+
+- display_name: Noilly Prat Dry Vermouth
+  parent: dry-vermouth
+  slug: noilly-prat-dry-vermouth
+  kind: product
+
+- display_name: Vya Dry Vermouth
+  parent: dry-vermouth
+  slug: vya-dry-vermouth
+  kind: product
+
+- display_name: Lofi Dry Vermouth
+  parent: dry-vermouth
+  slug: lofi-dry-vermouth
+  kind: product
+
+- display_name: Cinzano Extra Dry Vermouth
+  parent: dry-vermouth
+  slug: cinzano-extra-dry-vermouth
+  kind: product
+  aliases:
+    - Cinzano Dry Vermouth
+
+- display_name: Watermelon-Infused Dolin Dry Vermouth
+  parent: dolin-dry-vermouth
+  slug: watermelon-infused-dolin-dry-vermouth
+  kind: custom
