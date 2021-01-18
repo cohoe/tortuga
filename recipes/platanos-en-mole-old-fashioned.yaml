@@ -17,16 +17,13 @@
       construction:
         slug: stir
       components:
-        - slug: zacapa-23-centenario-rum
-          display_name: Zacapa 23 Centenario Rum
+        - slug: ron-zacapa-centenario-23-rum
           quantity: 2
           unit: oz
         - slug: giffard-banane-du-bresil
-          display_name: Giffard Banane Du Bresil
           quantity: 0.25
           unit: oz
         - slug: bittermens-xocolatl-mole-bitters
-          display_name: Bittermens Xocolatl Mole Bitters
           quantity: 12
           unit: drops
       instructions:
