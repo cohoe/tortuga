@@ -1,0 +1,50 @@
+---
+- slug: harrys-matador
+  display_name: "Harry's Matador"
+  origin:
+    creator: Ivan Mitankin
+    venue: Harry's
+    location: New York NY
+    story: >-
+      This version of the classic Matador cocktail drinks like a tequila Manhattan,
+      with the rich, almost chocolatey notes of reposado tequila taking center stage.
+      Choose a good reposado or añejo tequila, Ivan Mitankin advises: "You need a
+      wood-aged tequila for the cocktail to come alive. With a blanco, it just loses it."
+  specs:
+    - slug: punch
+      glassware:
+        - slug: nick-nora
+      components:
+        - slug: celestial-reposado-tequila
+          quantity: 2
+          unit: oz
+        - slug: dolin-blanc-vermouth
+          quantity: .75
+          unit: oz
+        - slug: grand-marnier
+          quantity: .25
+          unit: oz
+        - slug: orange-bitters
+          quantity: 2
+          unit: dash
+        - slug: grapefruit-peel
+      construction:
+        slug: stir
+      instructions:
+        - text: >-
+            Combine first four ingredients in a mixing glass over ice. Twist a grapefruit
+            peel over the top of the glass to express the essential oils, then discard.
+            Strain into a Nick & Nora glass. Garnish with dehydrated lemon wheel.
+      garnish:
+        - slug: dehydrated-lemon-wheel
+      straw: false
+      citations:
+        - title: Punch
+          href: https://punchdrink.com/recipes/harrys-matador/
+      notes:
+        - text: >-
+            I did with an average reposado (Cazadores) and was out of Dolin (Carpano).
+            Definitely missed something there. For the Manhattan style this would work
+            really well with a bit higher class. Will definitely give it a go.
+        - text: >-
+            This differs from a regular Matador which is way more citrusy.

@@ -223,6 +223,11 @@
   slug: casamigos-reposado-tequila
   kind: product
 
+- display_name: Celestial Reposado Tequila
+  parent: reposado-tequila
+  slug: celestial-reposado-tequila
+  kind: product
+
 - display_name: Cazadores Reposado Tequila
   parent: reposado-tequila
   slug: cazadores-reposado-tequila
