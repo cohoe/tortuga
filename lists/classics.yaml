@@ -3,6 +3,7 @@
   display_name: Classics
   items:
     - cocktail_slug: old-fashioned
+      highlight: true
     - cocktail_slug: negroni
     - cocktail_slug: daiquiri
     - cocktail_slug: margarita
