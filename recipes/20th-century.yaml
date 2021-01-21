@@ -41,7 +41,8 @@
         - text: used plymouth. this tastes like alcoholic lemonade. goes down super easy
         - text: but it is rather tart. wonder if the other spec would hold up better
     - slug: pdt
-      glassware: coupe
+      glassware:
+        - slug: coupe
       construction:
         slug: shake
       origin:

@@ -30,7 +30,8 @@
       notes:
         - text: could sub a bourbon in for the rye
     - slug: amaro
-      glassware: rocks
+      glassware:
+        - slug: rocks
       components:
         - slug: bourbon-whiskey
           quantity: 1.5

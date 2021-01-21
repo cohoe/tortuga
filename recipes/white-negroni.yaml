@@ -8,7 +8,6 @@
         year: 2009
       glassware:
         - slug: rocks
-          display_name: Rocks
       construction:
         slug: stir
         display_name: Stir
@@ -39,7 +38,8 @@
         creator: Wayne Collins
         location: London
         year: 2002
-      glassware: coupe
+      glassware:
+        - slug: coupe
       construction:
         slug: stir
         display_name: Stir
