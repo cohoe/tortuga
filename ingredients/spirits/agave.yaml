@@ -1,4 +1,11 @@
 ---
+# @TODO this is for testing
+- display_name: Tequila
+  parent: agave
+  slug: tequila
+  #kind: ingredient
+  kind: family
+
 - display_name: Agave
   parent: spirits
   slug: agave
@@ -22,9 +29,4 @@
 - display_name: Mezcal
   parent: agave
   slug: mezcal
-  kind: ingredient
-
-- display_name: Tequila
-  parent: agave
-  slug: tequila
   kind: ingredient
