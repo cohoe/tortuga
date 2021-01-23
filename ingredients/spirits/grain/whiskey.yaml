@@ -2,12 +2,12 @@
 - display_name: Whiskey
   parent: grain-spirit
   slug: whiskey
-  kind: ingredient
+  kind: family
 
 - display_name: American Whiskey
   parent: whiskey
   slug: american-whiskey
-  kind: ingredient
+  kind: family
 
 - display_name: Bourbon Whiskey
   parent: american-whiskey
@@ -17,22 +17,22 @@
 - display_name: Canadian Whiskey
   parent: whiskey
   slug: canadian-whiskey
-  kind: ingredient
+  kind: family
 
 - display_name: Irish Whiskey
   parent: whiskey
   slug: irish-whiskey
-  kind: ingredient
+  kind: family
 
 - display_name: Japanese Whisky
   parent: whiskey
   slug: japanese-whisky
-  kind: ingredient
+  kind: family
 
 - display_name: Rye Whiskey
   parent: whiskey
   slug: rye-whiskey
-  kind: ingredient
+  kind: family
 
 - display_name: Scotch Whisky
   parent: whiskey
@@ -42,4 +42,4 @@
 - display_name: Tennessee Whiskey
   parent: whiskey
   slug: tennessee-whiskey
-  kind: ingredient
+  kind: family

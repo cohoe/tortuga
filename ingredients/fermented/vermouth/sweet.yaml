@@ -2,7 +2,7 @@
 - display_name: Sweet Vermouth
   parent: vermouth
   slug: sweet-vermouth
-  kind: ingredient
+  kind: family
 
 - display_name: Carpano Antica Formula Vermouth
   parent: sweet-vermouth

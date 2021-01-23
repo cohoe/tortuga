@@ -2,7 +2,7 @@
 - display_name: Gin
   parent: neutral-spirit
   slug: gin
-  kind: ingredient
+  kind: family
 
 - display_name: Old Tom Gin
   parent: gin
