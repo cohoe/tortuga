@@ -2,7 +2,7 @@
 - display_name: White Vermouth
   parent: vermouth
   slug: white-vermouth
-  kind: ingredient
+  kind: family
   aliases:
     - Bianco Vermouth
     - Blanc Vermouth

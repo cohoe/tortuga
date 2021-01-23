@@ -2,7 +2,7 @@
 - display_name: Dry Vermouth
   parent: vermouth
   slug: dry-vermouth
-  kind: ingredient
+  kind: family
 
 - display_name: Dolin Dry Vermouth
   parent: dry-vermouth

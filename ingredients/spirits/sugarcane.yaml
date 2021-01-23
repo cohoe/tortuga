@@ -6,22 +6,22 @@
 - display_name: Batavia Arrack
   parent: sugarcane
   slug: batavia-arrack
-  kind: ingredient
+  kind: family
 
 - display_name: Flavored Rum
   parent: rum
   slug: flavored-rum
-  kind: ingredient
+  kind: family
 
 - display_name: "Cacha\xE7a"
   parent: sugarcane
   slug: cachaca
-  kind: ingredient
+  kind: family
 
 - display_name: Rum
   parent: sugarcane
   slug: rum
-  kind: ingredient
+  kind: family
 
 - display_name: Lightly Aged Rum
   parent: rum
@@ -46,7 +46,7 @@
 - display_name: Rhum
   parent: sugarcane
   slug: rhum
-  kind: ingredient
+  kind: family
 
 - display_name: Jamaican Rum
   parent: rum
