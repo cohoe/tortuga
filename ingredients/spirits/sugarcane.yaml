@@ -52,20 +52,25 @@
   parent: rum
   slug: jamaican-rum
   kind: index
-  elements:
-    - appleton-estate-reserve-rum
-    - appleton-estate-12-year-rare-blend-rum
-    - smith-cross-jamaican-rum
+  conditions:
+    - bin_op: or
+      field: slug
+      operator: contains
+      value: appleton-estate
+#  elements:
+#    - appleton-estate-reserve-rum
+#    - appleton-estate-12-year-rare-blend-rum
+#    - smith-cross-jamaican-rum
 
 - display_name: Demerara Rum
   parent: rum
   slug: demerara-rum
   kind: index
-  elements:
-    - el-dorado-3-year-rum
-    - el-dorado-8-year-rum
-    - el-dorado-12-year-rum
-    - el-dorado-15-year-rum
+  conditions:
+    - bin_op: or
+      field: slug
+      operator: contains
+      value: el-dorado
 
 - display_name: Navy-strength Jamaican Rum
   parent: rum
