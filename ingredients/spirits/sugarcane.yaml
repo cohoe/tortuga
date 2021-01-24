@@ -3,14 +3,14 @@
   slug: sugarcane
   kind: family
 
+- display_name: Rum
+  parent: sugarcane
+  slug: rum
+  kind: family
+
 - display_name: Batavia Arrack
   parent: sugarcane
   slug: batavia-arrack
-  kind: family
-
-- display_name: Flavored Rum
-  parent: rum
-  slug: flavored-rum
   kind: family
 
 - display_name: "Cacha\xE7a"
@@ -18,61 +18,8 @@
   slug: cachaca
   kind: family
 
-- display_name: Rum
-  parent: sugarcane
-  slug: rum
-  kind: family
-
-- display_name: Lightly Aged Rum
-  parent: rum
-  slug: lightly-aged-rum
-  kind: ingredient
-
-- display_name: Aged Rum
-  parent: rum
-  slug: aged-rum
-  kind: ingredient
-
-- display_name: Long Aged Rum
-  parent: rum
-  slug: long-aged-rum
-  kind: ingredient
-
-- display_name: Spiced Rum
-  parent: rum
-  slug: spiced-rum
-  kind: ingredient
-
 - display_name: Rhum
   parent: sugarcane
   slug: rhum
   kind: family
 
-- display_name: Jamaican Rum
-  parent: rum
-  slug: jamaican-rum
-  kind: index
-  conditions:
-    - bin_op: or
-      field: slug
-      operator: contains
-      value: appleton-estate
-  elements_include:
-    - smith-cross-jamaican-rum
-
-- display_name: Demerara Rum
-  parent: rum
-  slug: demerara-rum
-  kind: index
-  conditions:
-    - bin_op: or
-      field: slug
-      operator: contains
-      value: el-dorado
-
-- display_name: Navy-strength Jamaican Rum
-  parent: rum
-  slug: navy-strength-jamaican-rum
-  kind: index
-  elements_include:
-    - smith-cross-jamaican-rum

@@ -42,9 +42,18 @@
 - display_name: Sweet Italian Vermouth
   parent: sweet-vermouth
   slug: sweet-italian-vermouth
-  kind: ingredient
+  kind: index
   aliases:
     - Vermouth di Torino
+  conditions:
+    - bin_op: and
+      field: parent
+      operator: equals
+      value: sweet-vermouth
+    - bin_op: or
+      field: slug
+      operator: contains
+      value: torino
 
 - display_name: Vya Sweet Vermouth
   parent: sweet-vermouth
