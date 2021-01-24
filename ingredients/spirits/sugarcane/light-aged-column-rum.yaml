@@ -7,7 +7,7 @@
   parent: lightly-aged-rum
   slug: white-rum
   kind: index
-  elements:
+  elements_include:
     - lightly-aged-column-still-rum
     - banks-5-island-rum
     - el-dorado-3-year-rum

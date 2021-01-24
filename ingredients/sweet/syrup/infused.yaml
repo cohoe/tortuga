@@ -21,13 +21,10 @@
 - display_name: Cinnamon Syrup
   parent: infused-syrup
   slug: cinnamon-syrup
-  kind: index
-  elements:
-    - cinnamon-bark-syrup
-    - cinnamon-clove-syrup
+  kind: ingredient
 
 - display_name: Cinnamon Bark Syrup
-  parent: infused-syrup
+  parent: cinnamon-syrup
   slug: cinnamon-bark-syrup
   kind: ingredient
 
@@ -37,7 +34,7 @@
   kind: ingredient
 
 - display_name: Cinnamon Clove Syrup
-  parent: infused-syrup
+  parent: cinnamon-syrup
   slug: cinnamon-clove-syrup
   kind: ingredient
 

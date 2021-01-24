@@ -57,10 +57,8 @@
       field: slug
       operator: contains
       value: appleton-estate
-#  elements:
-#    - appleton-estate-reserve-rum
-#    - appleton-estate-12-year-rare-blend-rum
-#    - smith-cross-jamaican-rum
+  elements_include:
+    - smith-cross-jamaican-rum
 
 - display_name: Demerara Rum
   parent: rum
@@ -76,5 +74,5 @@
   parent: rum
   slug: navy-strength-jamaican-rum
   kind: index
-  elements:
+  elements_include:
     - smith-cross-jamaican-rum
