@@ -31,7 +31,7 @@
       construction:
         slug: stir
       instructions:
-        - text: Stir all ingredients in a mixing glass to chill and combine. Strain into a chilled Cocktial glass.
+        - text: Stir all ingredients in a mixing glass to chill and combine. Strain into a chilled Cocktail glass.
       garnish:
         - slug: orange twist
       straw: false
@@ -44,3 +44,8 @@
           page: 214
       notes:
         - text: did with ango-1919 and house-sweet-vermouth. was ok, had more rye than I perhaps like. perfectly fine
+        - text: >-
+            Did with all the spec'd components. Oh yeah this works. Somewhat dry
+            not overly so. A phat orange twist would be good here (mine was somewhat
+            small). Could be dangerous and easily poundable. The weird vanilla/coffee notes
+            from the Zacapa 23 work splendedly.
