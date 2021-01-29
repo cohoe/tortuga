@@ -1,0 +1,45 @@
+---
+- slug: oh-my-word
+  display_name: Oh My Word!
+  origin:
+    creator: Sother Teague
+    venue: Amor y Amargo
+    location: New York NY
+  specs:
+    - slug: original
+      glassware:
+        - slug: rocks
+      components:
+        - slug: old-tom-gin
+          quantity: .75
+          unit: oz
+        - slug: amaro-montenegro
+          quantity: .75
+          unit: oz
+        - slug: green-chartreuse
+          quantity: .75
+          unit: oz
+        - slug: maraschino-liqueur
+          quantity: .75
+          unit: oz
+        - slug: orange-bitters
+          quantity: 2
+          unit: dash
+      construction:
+        slug: stir
+      instructions:
+        - text: Stir with plenty of ice to chill and dilute. Strain and serve up.
+      straw: false
+      citations:
+        - title: I'm Just Here for the Drinks
+          author:
+            - Sother Teague
+          date: 2018-08-28
+          publisher: Media Lab Books
+          page: 199
+      notes:
+        - text: >-
+            This works quite nicely. Did two variants with Barr Hill Tomcat / Maraska
+            and Ransom/Luxardo. They came out different with the former being a bit
+            sweeter and less aromatic. The other was more aromatic and a touch dryer but
+            also less rich. Either would be fine but I think the ligher one works better.
