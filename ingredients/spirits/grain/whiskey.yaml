@@ -40,6 +40,6 @@
   kind: ingredient
 
 - display_name: Tennessee Whiskey
-  parent: whiskey
+  parent: american-whiskey
   slug: tennessee-whiskey
   kind: family

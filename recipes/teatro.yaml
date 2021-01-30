@@ -1,0 +1,55 @@
+---
+- slug: teatro
+  display_name: Teatro
+  origin:
+    creator: Sother Teague
+    story: >-
+      Teatro, Spanish for theater, is a spin on the classic Bijou cocktail.
+      Bijou, in addition to once being a popuar name for theaters and movie
+      houses in the U.S, is also the French word for jewel, and its name is
+      meant to represent the cocktail's main ingreidents: gin represents
+      diamonds, Chartreuse represents emeralds and sweet vermouth represents
+      rubies. Stirred together in equal parts and served up, it's quite a
+      delicious concoction. When I was building a menu and looking to fill
+      a slot with a tequila drink, I decided to play around with the Bijou
+      recipe because I love the combination of tequila and herbal liqueurs.
+      The sweet vermouth adds a richness and the bitters bring in a slight
+      citrus note that binds everything together. Though it's an all spirit
+      drink, the Teatro may feel too flabby on your palate, so feel free to
+      shake this one so it's aerated and lighter in texture.
+  specs:
+    - slug: original
+      glassware:
+        - slug: coupe
+      components:
+        - slug: olmeca-altos-blanco-tequila
+          quantity: 1
+          unit: oz
+        - slug: green-chartreuse
+          quantity: 1
+          unit: oz
+        - slug: sweet-vermouth
+          quantity: 1
+          unit: oz
+        - slug: orange bitters
+          quantity: 2
+          unit: dash
+      construction:
+        slug: stir
+      instructions:
+        - text: Stir all ingredients with ice. Strain into a Cocktail glass over ice.
+      garnish:
+        - slug: cherries
+      straw: false
+      citations:
+        - title: I'm Just Here for the Drinks
+          author:
+            - Sother Teague
+          date: 2018-08-28
+          publisher: Media Lab Books
+          page: 164
+      notes:
+        - text: >-
+            I've been drinking but this works nicely. Pay attention to what you're
+            doing so you don't end up with a double. Not that that's a bad thing.
+            Not overly sweet, but not super dry either. Did with Astral blanco.
