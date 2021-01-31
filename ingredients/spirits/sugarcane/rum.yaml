@@ -35,6 +35,7 @@
       value: appleton-estate
   elements_include:
     - smith-cross-jamaican-rum
+    - plantation-xaymaca-rum
 
 - display_name: Demerara Rum
   parent: rum
