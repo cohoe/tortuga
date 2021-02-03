@@ -1,7 +1,7 @@
 - display_name: Pisco
   parent: grape-brandy
   slug: pisco
-  kind: ingredient
+  kind: family
 
 - display_name: Chilean Pisco
   parent: pisco
