@@ -1,7 +1,7 @@
 - display_name: Moonshine
   parent: whiskey
   slug: moonshine
-  kind: ingredient
+  kind: family
 
 - display_name: Midnight Moon Apple Pie Moonshine
   parent: moonshine

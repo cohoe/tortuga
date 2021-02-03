@@ -37,7 +37,7 @@
 - display_name: Scotch Whisky
   parent: whiskey
   slug: scotch-whisky
-  kind: ingredient
+  kind: family
 
 - display_name: Tennessee Whiskey
   parent: american-whiskey

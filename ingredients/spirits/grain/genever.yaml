@@ -1,7 +1,7 @@
 - display_name: Genever
   parent: grain-spirit
   slug: genever
-  kind: ingredient
+  kind: family
 
 - display_name: Anchor Genevieve
   parent: genever
