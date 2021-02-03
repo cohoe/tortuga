@@ -1,0 +1,40 @@
+---
+- slug: bijou
+  display_name: Bijou
+  specs:
+    - slug: teague
+      glassware:
+        - slug: coupe
+      components:
+        - slug: london-dry-gin
+          quantity: .75
+          unit: oz
+        - slug: green-chartreuse
+          quantity: .75
+          unit: oz
+        - slug: sweet-vermouth
+          quantity: .75
+          unit: oz
+        - slug: orange-bitters
+          quantity: 1
+          unit: dash
+      construction:
+        slug: stir
+      instructions:
+        - text: >-
+            Pour all ingredients into a mixing glass and top with plenty of ice.
+            Stir to chill and dilute. Strain into a chilled Cocktail glass.
+      garnish:
+        - slug: cherry
+      straw: false
+      citations:
+        - title: I'm Just Here for the Drinks
+          author:
+            - Sother Teague
+          date: 2018-08-28
+          publisher: Media Lab Books
+          page: 164
+      notes:
+        - text: >-
+            I do like this. AM would too. Did with Beefeater because I thought that
+            was what it called for but I misrememebered. The colder the better.
