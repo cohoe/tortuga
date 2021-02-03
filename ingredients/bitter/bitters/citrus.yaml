@@ -2,7 +2,7 @@
 - display_name: Citrus Bitters
   parent: bitters
   slug: citrus-bitters
-  kind: ingredient
+  kind: family
 
 - display_name: Grapefruit Bitters
   parent: citrus-bitters

@@ -2,7 +2,7 @@
 - display_name: Aromatic Bitters
   parent: bitters
   slug: aromatic-bitters
-  kind: ingredient
+  kind: family
 
 - display_name: Bitter Truth Aromatic Bitters
   parent: aromatic-bitters

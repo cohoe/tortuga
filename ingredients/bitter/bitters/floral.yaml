@@ -2,7 +2,7 @@
 - display_name: Herbal Bitters
   parent: bitters
   slug: herbal-bitters
-  kind: ingredient
+  kind: family
 
 - display_name: Verbena Bitters
   parent: herbal-bitters

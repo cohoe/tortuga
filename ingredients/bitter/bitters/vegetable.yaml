@@ -2,7 +2,7 @@
 - display_name: Vegetable Bitters
   parent: bitters
   slug: vegetable-bitters
-  kind: ingredient
+  kind: family
 
 - display_name: Celery Bitters
   parent: vegetable-bitters

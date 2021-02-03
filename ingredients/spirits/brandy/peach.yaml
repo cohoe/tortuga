@@ -2,7 +2,7 @@
 - display_name: Peach Brandy
   parent: brandy
   slug: peach-brandy
-  kind: ingredient
+  kind: family
 
 - display_name: GrandTen Peach Brandy
   parent: peach-brandy

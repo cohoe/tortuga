@@ -2,7 +2,7 @@
 - display_name: Mole Bitters
   parent: bitters
   slug: mole-bitters
-  kind: ingredient
+  kind: family
   aliases:
     - Chocolate Bitters
 

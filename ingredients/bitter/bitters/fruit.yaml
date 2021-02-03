@@ -2,7 +2,7 @@
 - display_name: Fruit Bitters
   parent: bitters
   slug: fruit-bitters
-  kind: ingredient
+  kind: family
 
 - display_name: Apple Bitters
   parent: fruit-bitters

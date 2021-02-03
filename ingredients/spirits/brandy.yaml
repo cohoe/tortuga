@@ -7,14 +7,14 @@
 - display_name: Grape Brandy
   parent: brandy
   slug: grape-brandy
-  kind: ingredient
+  kind: family
 
 - display_name: Apple Brandy
   parent: brandy
   slug: apple-brandy
-  kind: ingredient
+  kind: family
 
 - display_name: Eau-de-Vie
   parent: brandy
   slug: eau-de-vie
-  kind: ingredient
+  kind: family
