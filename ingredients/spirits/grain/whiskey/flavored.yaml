@@ -1,0 +1,10 @@
+---
+- display_name: Flavored Whiskey
+  parent: whiskey
+  slug: flavored-whiskey
+  kind: family
+
+- display_name: Skrewball Peanut Butter Whiskey
+  parent: flavored-whiskey
+  slug: skrewball-peanut-butter-whiskey
+  kind: product
