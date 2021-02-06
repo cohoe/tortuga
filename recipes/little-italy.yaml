@@ -1,0 +1,57 @@
+---
+- slug: little-italy
+  display_name: Little Italy
+  origin:
+    creator: Audrey Saunders
+    year: 2005
+    story: >-
+      This 2005 cocktail from New York cocktail icon Audrey Saunders is
+      true to its name, with a combination of classic Italian and American
+      ingredients: spicy American rye mixed with the vegetal, bittersweet Cynar
+      and sweet, herbal Italian vermouth. This variation on the classic
+      Manhattan has become the constant drink I order when I'm looking for
+      something brown, bitter, and stirred at the end of the night. A little
+      splash of cherry syrup in the mixing glass would also be welcome.
+  specs:
+    - slug: amaro
+      glassware:
+        - slug: coupe
+      components:
+        - slug: rye-whiskey
+          quantity: 2
+          unit: oz
+        - slug: sweet-vermouth
+          quantity: .75
+          unit: oz
+        - slug: cynar
+          quantity: .5
+          unit: oz
+      construction:
+        slug: stir
+      instructions:
+        - text: >-
+            Combine the rye, Cynar, and sweet vermouth in a mixing glass filled
+            with ice. Stir until chilled and strain into a chilled coupe or
+            cocktail glass. Garnish with the skewered cherries.
+      garnish:
+        - slug: cherry
+          quantity: 3
+          notes:
+            - text: skewered
+      straw: false
+      citations:
+        - title: 'Amaro'
+          author:
+            - Brad Thomas Parsons
+          date: 2016
+          publisher: Ten Speed Press
+          page: 171
+      notes:
+        - text: >-
+            Given this drinks cherry presence I figured the Cleveland Whiskey
+            rye with black cherry wood would be a solid fit to use. However the
+            note about spicy rye takes precedence. This comes out way better with
+            some Rittenhouse 100 Rye. I believe it does trend towards the suggestion
+            of an end-of-night drink thats basically a modifie Negroni. Has an
+            almost chocolate-like quality to it. This comment comes after a few in
+            so a grain of salt is required.
