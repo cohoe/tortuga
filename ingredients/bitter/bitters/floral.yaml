@@ -28,3 +28,8 @@
   parent: herbal-bitters
   slug: mamajuana-bitters
   kind: ingredient
+
+- display_name: "Devil's Larder Chamomile Bitters"
+  parent: herbal-bitters
+  slug: devils-larder-chamomile-bitters
+  kind: product

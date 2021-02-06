@@ -1,0 +1,58 @@
+---
+- slug: disco-ball
+  display_name: Disco Ball
+  origin:
+    creator: Sother Teague
+    venue: Amor y Amargo
+    location: New York NY
+    story: >-
+      Based on a shot of the same name (equal parts mezcal, green and yellow chartreuse),
+      I added a little dry(sic) vermouth and altered the equal parts original to be a longer and
+      more sophisticated cocktail that is simultaneously sweet and smokey. It'll have you
+      putting on your boogie shoes, while still leaving you in prime dancing shape.
+  specs:
+    - slug: original
+      glassware:
+        - slug: cocktail
+      components:
+        - slug: mezcal
+          quantity: 1
+          unit: oz
+        - slug: white-vermouth
+          quantity: 1
+          unit: oz
+        - slug: green-chartreuse
+          quantity: .5
+          unit: oz
+        - slug: yellow-chartreuse
+          quantity: .5
+          unit: oz
+        - slug: devils-larder-chamomile-bitters
+          quantity: 2
+          unit: dash
+      construction:
+        slug: stir
+      instructions:
+        - text: Stir with plenty of ice to chill and dilute. Strain and serve up.
+        - text: >-
+            Stir first five ingredients in a mixing glass with plenty of ice to chill and
+            dilute. Strain into a chilled Cocktail glass.
+      garnish:
+        - slug: lemon-twist
+          notes:
+            - text: discarded
+      straw: false
+      citations:
+        - title: I'm Just Here for the Drinks
+          author:
+            - Sother Teague
+          #date: 2018-08-28
+          date: 2018
+          publisher: Media Lab Books
+          page: 243
+      notes:
+        - text: >-
+            Did with Casamigos, Dolin, and Boston Bittahs. I had doubts going into this
+            but it really works. Carpano might bring down the sweetness a touch. A fully
+            chilled glass would also make a difference. I dig it. Touch of smoke touch of
+            herbal but not overly in-your-face.
