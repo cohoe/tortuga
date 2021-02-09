@@ -10,7 +10,7 @@
       glassware:
         - slug: cocktail
       components:
-        - slug: plantation-5-year-rum
+        - slug: plantation-barbados-5-year-rum
           quantity: 1.5
           unit: oz
         - slug: cynar

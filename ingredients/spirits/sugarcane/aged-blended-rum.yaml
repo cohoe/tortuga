@@ -44,6 +44,9 @@
   parent: aged-blended-rum
   slug: plantation-barbados-5-year-rum
   kind: product
+  aliases:
+    - Plantation Grande Reserve 5 Year
+    - Plantation 5 Years
 
 - display_name: Pusser's Navy Rum
   parent: aged-blended-rum
