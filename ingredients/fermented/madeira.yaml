@@ -1,0 +1,20 @@
+---
+- display_name: Madeira
+  parent: fortified-wine
+  slug: madeira
+  kind: family
+
+- display_name: "Blandy's 5-Year Malmsey Madeira"
+  parent: madeira
+  slug: blandys-5-year-malmsey-madeira
+  kind: product
+
+- display_name: "Blandy's Sercial Madeira"
+  parent: madeira
+  slug: blandys-sercial-madeira
+  kind: product
+
+- display_name: Sandeman Rainwater Madeira
+  parent: madeira
+  slug: sandeman-rainwater-madeira
+  kind: product

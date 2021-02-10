@@ -1,0 +1,47 @@
+---
+- display_name: Quinquina
+  parent: fortified-wine
+  slug: quinquina
+  kind: family
+
+- display_name: Lillet Blanc
+  parent: quinquina
+  slug: lillet-blanc
+  kind: product
+
+- display_name: "Lillet Ros\xE9"
+  parent: quinquina
+  slug: lillet-rose
+  kind: product
+
+- display_name: "Rose-Infused Lillet Ros\xE9"
+  parent: lillet-rose
+  slug: rose-infused-lillet-rose
+  kind: custom
+
+- display_name: Lillet Rouge
+  parent: quinquina
+  slug: lillet-rouge
+  kind: product
+
+- display_name: Lilletperitif
+  parent: quinquina
+  slug: lilletperitif
+  kind: custom
+  # 1 lillet, .5 cynar, .25 campari
+
+- display_name: Bonal Gentiane-Quina
+  parent: quinquina
+  slug: bonal-gentiane-quina
+  kind: product
+
+- display_name: Byrrh
+  parent: quinquina
+  slug: byrrh
+  kind: product
+
+- display_name: Dubonnet Rouge
+  parent: quinquina
+  slug: dubonnet-rouge
+  kind: product
+

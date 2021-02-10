@@ -1,0 +1,55 @@
+---
+- display_name: Port
+  parent: fortified-wine
+  slug: port
+  kind: family
+
+- display_name: Tawny Port
+  parent: port
+  slug: tawny-port
+  kind: ingredient
+
+- display_name: 5-year Tawny Port
+  parent: tawny-port
+  slug: 5-year-tawny-port
+  kind: ingredient
+
+- display_name: "Dow's Ruby Port"
+  parent: ruby-port
+  slug: dows-ruby-port
+  kind: product
+
+- display_name: "Dow's Tawny Port"
+  parent: tawny-port
+  slug: dows-tawny-port
+  kind: product
+
+- display_name: Noval Black Port
+  parent: port
+  slug: noval-black-port
+  kind: product
+
+- display_name: Offley Rich Tawny Port
+  parent: tawny-port
+  slug: offley-rich-tawny-port
+  kind: product
+
+- display_name: Otima 10-Year Tawny Port
+  parent: tawny-port
+  slug: otima-10-year-tawny-port
+  kind: product
+
+- display_name: Ruby Port
+  parent: port
+  slug: ruby-port
+  kind: ingredient
+
+- display_name: Sandeman Ruby Port
+  parent: ruby-port
+  slug: sandeman-ruby-port
+  kind: product
+
+- display_name: White Port
+  parent: port
+  slug: white-port
+  kind: ingredient
