@@ -5,7 +5,7 @@
   kind: family
 
 - display_name: Blood Orange Liqueur
-  parent: fruit-liqueur
+  parent: orange-liqueur
   slug: blood-orange-liqueur
   kind: ingredient
 
