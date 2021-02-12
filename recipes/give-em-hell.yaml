@@ -29,7 +29,7 @@
         - slug: absinthe
           unit: dash
       construction:
-        slug: punch
+        slug: build
       instructions:
         - text: add all ingredients to a punch bowl, with absinthe to taste
         - text: adjust to taste if needed (sometimes the tea and citrus vary in potency)
