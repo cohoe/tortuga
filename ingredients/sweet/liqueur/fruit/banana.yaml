@@ -1,0 +1,17 @@
+---
+- display_name: Banana Liqueur
+  parent: fruit-liqueur
+  slug: banana-liqueur
+  kind: ingredient
+
+- display_name: "Marie Brizard Cr\xE8me De Banane"
+  parent: banana-liqueur
+  slug: marie-brizard-creme-de-banane
+  kind: product
+  aliases:
+    - Marie Brizard Banana Liqueur
+
+- display_name: Giffard Banane du Brésil
+  parent: banana-liqueur
+  slug: giffard-banane-du-bresil
+  kind: product

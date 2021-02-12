@@ -1,0 +1,42 @@
+---
+- display_name: Cherry Liqueur
+  parent: fruit-liqueur
+  slug: cherry-liqueur
+  kind: ingredient
+
+- display_name: Cherry Heering
+  parent: cherry-liqueur
+  slug: cherry-heering
+  kind: product
+
+- display_name: Marie Brizard Cherry Liqueur
+  parent: cherry-liqueur
+  slug: marie-brizard-cherry-liqueur
+  kind: product
+
+- display_name: Rothman & Winter Cherry Liqueur
+  parent: cherry-liqueur
+  slug: rothman-winter-cherry-liqueur
+  kind: product
+
+- display_name: Maraschino Liqueur
+  parent: cherry-liqueur
+  slug: maraschino-liqueur
+  kind: ingredient
+
+- display_name: Ratafia Black Cherry Liqueur
+  parent: cherry-liqueur
+  slug: ratafia-black-cherry-liqueur
+  kind: product
+  aliases:
+    - Rapa Giovanni Ratafia Cherry Liqueur
+
+- display_name: Luxardo Maraschino Liqueur
+  parent: maraschino-liqueur
+  slug: luxardo-maraschino-liqueur
+  kind: product
+
+- display_name: Maraska Maraschino Liqueur
+  parent: maraschino-liqueur
+  slug: maraska-maraschino-liqueur
+  kind: product

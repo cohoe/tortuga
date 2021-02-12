@@ -1,0 +1,35 @@
+---
+- display_name: Peach Liqueur
+  parent: fruit-liqueur
+  slug: peach-liqueur
+  kind: ingredient
+
+- display_name: Marie Brizard Peach Liqueur
+  parent: peach-liqueur
+  slug: marie-brizard-peach-liqueur
+  kind: product
+
+- display_name: "Massenez Cr\xE8me De P\xEAche Peach Liqueur"
+  parent: peach-liqueur
+  slug: massenez-creme-de-peche-peach-liqueur
+  kind: product
+
+- display_name: "Mathilde P\xEAche Liqueur"
+  parent: peach-liqueur
+  slug: mathilde-peche-liqueur
+  kind: product
+
+- display_name: DeKuyper Peachtree
+  parent: peach-liqueur
+  slug: dekuyper-peachtree
+  kind: product
+  aliases:
+    - DeKuyper Peachtree Schnapps
+    - DeKuyper Peach Schnapps
+
+- display_name: Rothman & Winter Orchard Peach Liqueur
+  parent: peach-liqueur
+  slug: rothman-winter-orchard-peach-liqueur
+  kind: product
+  aliases:
+    - Rothman & Winter Peach Liqueur

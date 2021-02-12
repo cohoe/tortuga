@@ -1,0 +1,104 @@
+---
+- display_name: Orange Liqueur
+  parent: fruit-liqueur
+  slug: orange-liqueur
+  kind: family
+
+- display_name: Blood Orange Liqueur
+  parent: fruit-liqueur
+  slug: blood-orange-liqueur
+  kind: ingredient
+
+- display_name: Solerno Blood Orange Liqueur
+  parent: blood-orange-liqueur
+  slug: solerno-blood-orange-liqueur
+  kind: product
+
+- display_name: Sugarcane Spirit Orange Liqueur
+  parent: orange-liqueur
+  slug: sugarcane-spirit-orange-liqueur
+  kind: ingredient
+
+- display_name: Santa Teresa Rhum Orange Liqueur
+  parent: sugarcane-spirit-orange-liqueur
+  slug: santa-teresa-rhum-orange-liqueur
+  kind: product
+
+- display_name: "Rhum Cl\xE9ment Creole Shrub"
+  parent: sugarcane-spirit-orange-liqueur
+  slug: rhum-clement-creole-shrub
+  kind: product
+
+- display_name: Triple Sec
+  parent: orange-liqueur
+  slug: triple-sec
+  kind: ingredient
+  aliases:
+    - "Cura\xE7ao"
+
+- display_name: "Gabriel Boudier Cura\xE7ao"
+  parent: triple-sec
+  slug: gabriel-boudier-curacao
+  kind: product
+
+- display_name: "Marie Brizard Orange Cura\xE7ao"
+  parent: triple-sec
+  slug: marie-brizard-orange-curacao
+  kind: product
+
+- display_name: "Pierre Ferrand Dry Cura\xE7ao"
+  parent: brandy-orange-liqueur
+  slug: pierre-ferrand-dry-curacao
+  kind: product
+
+- display_name: Cointreau
+  parent: triple-sec
+  slug: cointreau
+  kind: product
+
+- display_name: Original Combier
+  parent: triple-sec
+  slug: original-combier
+  kind: product
+
+- display_name: "Blue Cura\xE7ao"
+  parent: triple-sec
+  slug: blue-curacao
+  kind: ingredient
+
+- display_name: "Giffard Blue Cura\xE7ao"
+  parent: blue-curacao
+  slug: giffard-blue-curacao
+  kind: product
+
+- display_name: Patrón Citrónge
+  parent: orange-liqueur
+  slug: patron-citronge
+  kind: product
+
+- display_name: Brandy Orange Liqueur
+  parent: orange-liqueur
+  slug: brandy-orange-liqueur
+  kind: ingredient
+  aliases:
+    - Dry Curacao
+
+- display_name: Grand Marnier
+  parent: brandy-orange-liqueur
+  slug: grand-marnier
+  kind: product
+
+- display_name: "Mandarine Napol\xE9on Liqueur"
+  parent: brandy-orange-liqueur
+  slug: mandarine-napoleon-liqueur
+  kind: product
+
+- display_name: Royal Combier Liqueur
+  parent: brandy-orange-liqueur
+  slug: royal-combier-liqueur
+  kind: product
+
+- display_name: Bayou Satsuma Liqueur
+  parent: orange-liqueur
+  slug: bayou-satsuma-liqueur
+  kind: product

@@ -1,0 +1,27 @@
+---
+- display_name: Apricot Liqueur
+  parent: fruit-liqueur
+  slug: apricot-liqueur
+  kind: ingredient
+
+- display_name: Marie Brizard Apricot Liqueur
+  parent: apricot-liqueur
+  slug: marie-brizard-apricot-liqueur
+  kind: product
+  aliases:
+    - Marie Brizard Apry
+
+- display_name: Rothman & Winter Apricot Liqueur
+  parent: apricot-liqueur
+  slug: rothman-winter-apricot-liqueur
+  kind: product
+  aliases:
+    - Rothman & Winter Orchard Apricot Liqueur
+    - Orchard Apricot Liqueur
+
+- display_name: "Combier Liqueur d'Abricot"
+  parent: apricot-liqueur
+  slug: combier-liqueur-dabricot
+  kind: product
+  aliases:
+    - Combier Apricot Liqueur

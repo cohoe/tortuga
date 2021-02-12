@@ -1,0 +1,89 @@
+---
+- display_name: Blackberry Liqueur
+  parent: fruit-liqueur
+  slug: blackberry-liqueur
+  kind: ingredient
+
+- display_name: "Giffard Cr\xE8me de M\xFBre (Blackberry)"
+  parent: blackberry-liqueur
+  slug: giffard-creme-de-mure-blackberry
+  kind: product
+
+- display_name: Marie Brizard Blackberry Liqueur
+  parent: blackberry-liqueur
+  slug: marie-brizard-blackberry-liqueur
+  kind: product
+
+- display_name: "Massenez Cr\xE8me de M\xFBre Blackberry Liqueur"
+  parent: blackberry-liqueur
+  slug: massenez-creme-de-mure-blackberry-liqueur
+  kind: product
+
+- display_name: "Cr\xE8me de Cassis"
+  parent: fruit-liqueur
+  slug: creme-de-cassis
+  kind: ingredient
+  aliases:
+    - Blackcurrrant Liqueur
+
+- display_name: "Theuriet Cr\xE8me de Cassis"
+  parent: creme-de-cassis
+  slug: theuriet-creme-de-cassis
+  kind: product
+
+- display_name: "Merlet Cr\xE8me de Cassis"
+  parent: creme-de-cassis
+  slug: merlet-creme-de-cassis
+  kind: product
+
+- display_name: "Lejay Cr\xE8me de Cassis"
+  parent: creme-de-cassis
+  slug: lejay-creme-de-cassis
+  kind: product
+
+- display_name: Strawberry Liqueur
+  parent: fruit-liqueur
+  slug: strawberry-liqueur
+  kind: ingredient
+
+- display_name: Marie Brizard Strawberry Liqueur
+  parent: strawberry-liqueur
+  slug: marie-brizard-strawberry-liqueur
+  kind: product
+
+- display_name: "Merlet Cr\xE8me de Fraise Des Bois Strawberry Liqueur"
+  parent: strawberry-liqueur
+  slug: merlet-creme-de-fraise-des-bois-strawberry-liqueur
+  kind: product
+
+- display_name: Raspberry Liqueur
+  parent: fruit-liqueur
+  slug: raspberry-liqueur
+  kind: ingredient
+
+- display_name: Chambord Raspberry Liqueur
+  parent: raspberry-liqueur
+  slug: chambord-raspberry-liqueur
+  kind: product
+
+- display_name: Drillaud Raspberry Liqueur
+  parent: raspberry-liqueur
+  slug: drillaud-raspberry-liqueur
+  kind: product
+
+- display_name: St. George Raspberry Liqueur
+  parent: raspberry-liqueur
+  slug: st-george-raspberry-liqueur
+  kind: product
+
+- display_name: Patxaran Liqueur
+  parent: fruit-liqueur
+  slug: patxaran-liqueur
+  kind: ingredient
+  aliases:
+    - Sloe Liqueur
+
+- display_name: "Zoco Pachar\xE1n Navarro Liqueur"
+  parent: patxaran-liqueur
+  slug: zoco-pacharan-navarro-liqueur
+  kind: product
