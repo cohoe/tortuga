@@ -7,7 +7,8 @@
     location: Miami FL
   specs:
     - slug: original
-      construction: stir
+      construction:
+        slug: stir
       components:
         - slug: santa-teresa-1796-rum
           quantity: 2

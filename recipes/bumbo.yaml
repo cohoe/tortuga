@@ -7,7 +7,8 @@
         creator: Sother Teague
         venue: Amor y Amargo
         location: Brooklyn NY
-      construction: stir
+      construction:
+        slug: stir
       components:
         - slug: diplomatico-anejo-rum
           quantity: 1.5

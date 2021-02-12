@@ -60,7 +60,8 @@
         - slug: bogarts-bitters
           quantity: 3
           unit: dash
-      construction: stir
+      construction:
+        slug: stir
       instructions:
         - text: Stir. With anticipation, mind you.
       garnish:

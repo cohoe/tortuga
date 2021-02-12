@@ -6,7 +6,8 @@
     venue: Amor y Amargo
   specs:
     - slug: original
-      construction: build
+      construction:
+        slug: build
       components:
         - slug: jagermeister
           quantity: 1.5
