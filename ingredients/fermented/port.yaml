@@ -14,11 +14,6 @@
   slug: 5-year-tawny-port
   kind: ingredient
 
-- display_name: "Dow's Ruby Port"
-  parent: ruby-port
-  slug: dows-ruby-port
-  kind: product
-
 - display_name: "Dow's Tawny Port"
   parent: tawny-port
   slug: dows-tawny-port
@@ -47,6 +42,11 @@
 - display_name: Sandeman Ruby Port
   parent: ruby-port
   slug: sandeman-ruby-port
+  kind: product
+
+- display_name: "Dow's Ruby Port"
+  parent: ruby-port
+  slug: dows-ruby-port
   kind: product
 
 - display_name: White Port

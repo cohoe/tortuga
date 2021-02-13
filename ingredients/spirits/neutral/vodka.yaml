@@ -2,7 +2,7 @@
 - display_name: Vodka
   parent: neutral-spirit
   slug: vodka
-  kind: ingredient
+  kind: family
 
 - display_name: Absolut Vodka
   parent: vodka
