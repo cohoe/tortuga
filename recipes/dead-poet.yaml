@@ -28,7 +28,6 @@
         - slug: orange bitters
           quantity: 2
           unit: dash
-        - slug: lime peel
       construction:
         slug: stir
       instructions:
