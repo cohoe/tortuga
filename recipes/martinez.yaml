@@ -122,6 +122,8 @@
           unit: dash
       construction:
         slug: stir
+      garnish:
+        - slug: orange-twist
       instructions:
         - text: stir with ice, then strain into a chilled coupe
       notes:
