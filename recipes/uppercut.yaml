@@ -1,7 +1,6 @@
 ---
 - slug: uppercut
   display_name: Uppercut
-  status: None
   origin:
     creator: Sother Teague
     venue: Amor y Amargo

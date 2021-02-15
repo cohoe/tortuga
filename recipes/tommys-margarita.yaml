@@ -9,7 +9,7 @@
       glassware:
         - slug: rocks
       components:
-        - slug: L&J blanco tequila
+        - slug: l-j-blanco-tequila
           quantity: 2
           unit: oz
         - slug: lime juice

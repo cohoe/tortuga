@@ -1,6 +1,6 @@
 ---
 - slug: corpse-reviver-no-1
-  display_name: Corpse Revivier No. 1
+  display_name: Corpse Reviver No. 1
   specs:
     - slug: canon
       glassware:
@@ -33,8 +33,7 @@
           author:
             - Jamie Boudreau
             - James O. Fraioli
-          # @TODO exact date unknown
-          date: 2016-01-01
+          year: 2016
           publisher: Houghton Mifflin Harcourt
           page: 111
       notes:
