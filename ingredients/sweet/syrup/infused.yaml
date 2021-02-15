@@ -1,102 +1,102 @@
 - display_name: Infused Syrup
   parent: syrup
   slug: infused-syrup
-  kind: ingredient
+  kind: custom
 
 - display_name: Banana Syrup
   parent: infused-syrup
   slug: banana-syrup
-  kind: ingredient
+  kind: custom
 
 - display_name: Black Cardamom Syrup
   parent: infused-syrup
   slug: black-cardamom-syrup
-  kind: ingredient
+  kind: custom
 
 - display_name: Braeburn Apple Syrup
   parent: infused-syrup
   slug: braeburn-apple-syrup
-  kind: ingredient
+  kind: custom
 
 - display_name: Cinnamon Syrup
   parent: infused-syrup
   slug: cinnamon-syrup
-  kind: ingredient
+  kind: custom
 
 - display_name: Cinnamon Bark Syrup
   parent: cinnamon-syrup
   slug: cinnamon-bark-syrup
-  kind: ingredient
+  kind: custom
 
 - display_name: Clove Syrup
   parent: infused-syrup
   slug: clove-syrup
-  kind: ingredient
+  kind: custom
 
 - display_name: Cinnamon Clove Syrup
   parent: cinnamon-syrup
   slug: cinnamon-clove-syrup
-  kind: ingredient
+  kind: custom
 
 - display_name: Cumin Syrup
   parent: infused-syrup
   slug: cumin-syrup
-  kind: ingredient
+  kind: custom
 
 - display_name: Curried Ginger Syrup
   parent: infused-syrup
   slug: curried-ginger-syrup
-  kind: ingredient
+  kind: custom
 
 - display_name: Espresso-Infused Demerara Syrup
   parent: infused-syrup
   slug: espresso-infused-demerara-syrup
-  kind: ingredient
+  kind: custom
 
 - display_name: Eurovanille Vanilla Syrup
   parent: infused-syrup
   slug: eurovanille-vanilla-syrup
-  kind: ingredient
+  kind: custom
 
 - display_name: Ginger Syrup
   parent: infused-syrup
   slug: ginger-syrup
-  kind: ingredient
+  kind: custom
 
 - display_name: Hibiscus Syrup
   parent: infused-syrup
   slug: hibiscus-syrup
-  kind: ingredient
+  kind: custom
 
 - display_name: Lemongrass Syrup
   parent: infused-syrup
   slug: lemongrass-syrup
-  kind: ingredient
+  kind: custom
 
 - display_name: Apricot Syrup
   parent: infused-syrup
   slug: apricot-syrup
-  kind: ingredient
+  kind: custom
 
 - display_name: Mymoune Rose Syrup
   parent: infused-syrup
   slug: mymoune-rose-syrup
-  kind: ingredient
+  kind: custom
 
 - display_name: Passion Fruit Syrup
   parent: infused-syrup
   slug: passion-fruit-syrup
-  kind: ingredient
+  kind: custom
 
 - display_name: Scarlet Glow Syrup
   parent: infused-syrup
   slug: scarlet-glow-syrup
-  kind: ingredient
+  kind: custom
 
 - display_name: Vanilla Syrup
   parent: infused-syrup
   slug: vanilla-syrup
-  kind: ingredient
+  kind: custom
 
 - display_name: "Donn's Spices #2"
   parent: vanilla-syrup
@@ -106,14 +106,14 @@
 - display_name: Li Hing Mui Syrup
   parent: infused-syrup
   slug: li-hing-mui-syrup
-  kind: ingredient
+  kind: custom
 
 - display_name: Charred Pineapple Syrup
   parent: infused-syrup
   slug: charred-pineapple-syrup
-  kind: ingredient
+  kind: custom
 
 - display_name: Togarashi Syrup
   parent: infused-syrup
   slug: togarashi-syrup
-  kind: ingredient
+  kind: custom

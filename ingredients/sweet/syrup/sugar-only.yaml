@@ -1,32 +1,32 @@
 - display_name: Simple Syrup
   parent: syrup
   slug: simple-syrup
-  kind: ingredient
+  kind: custom
 
 - display_name: Rich Simple Syrup
   parent: simple-syrup
   slug: rich-simple-syrup
-  kind: ingredient
+  kind: custom
 
 - display_name: Caramelized Simple Syrup
   parent: simple-syrup
   slug: caramelized-simple-syrup
-  kind: ingredient
+  kind: custom
 
 - display_name: Cane Sugar Syrup
   parent: syrup
   slug: cane-sugar-syrup
-  kind: ingredient
+  kind: custom
 
 - display_name: Martinique Cane Sugar Syrup
   parent: cane-sugar-syrup
   slug: martinique-cane-sugar-syrup
-  kind: ingredient
+  kind: custom
 
 - display_name: Rich Cane Sugar Syrup
   parent: syrup
   slug: rich-cane-sugar-syrup
-  kind: ingredient
+  kind: custom
   aliases:
     - "2:1 Cane Syrup"
     - Rich Cane Syrup
@@ -49,37 +49,37 @@
 - display_name: Brown Sugar Syrup
   parent: syrup
   slug: brown-sugar-syrup
-  kind: ingredient
+  kind: custom
 
 - display_name: Demerara Syrup
   parent: syrup
   slug: demerara-syrup
-  kind: ingredient
+  kind: custom
 
 - display_name: Agave Nectar
   parent: syrup
   slug: agave-nectar
-  kind: ingredient
+  kind: custom
 
 - display_name: Agave Syrup
   parent: agave-nectar
   slug: agave-syrup
-  kind: ingredient
+  kind: custom
 
 - display_name: Honey Syrup
   parent: syrup
   slug: honey-syrup
-  kind: ingredient
+  kind: custom
 
 - display_name: Acacia Honey Syrup
   parent: honey-syrup
   slug: acacia-honey-syrup
-  kind: ingredient
+  kind: custom
 
 - display_name: Super Rich Honey Syrup
   parent: honey-syrup
   slug: super-rich-honey-syrup
-  kind: ingredient
+  kind: custom
   # 3:1
 
 - display_name: "3:2 Simple Syrup"
