@@ -59,6 +59,6 @@
       straw: false
       citations:
         - title: 'The Cocktail Book: A Sideboard Manual for Gentlemen'
-          date: 1900
+          year: 1900
         - title: PDT Cocktails
           href: https://mixologytech.com/pdt/index.html
