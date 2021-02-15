@@ -6,13 +6,14 @@
     venue: Donna
     location: Brooklyn NY
     story: >-
-      Told that black cherry and mezcal are not complementary flavors, Fanny Chu set out to make the Rabiosa. Her cocktail has notes of black cherry, almond, warm chocolate, spice and smoke for a drink that reads like the love child of a Margarita and a Daiquiri.
-
-
+      Told that black cherry and mezcal are not complementary flavors, Fanny Chu
+      set out to make the Rabiosa. Her cocktail has notes of black cherry, almond,
+      warm chocolate, spice and smoke for a drink that reads like the love child
+      of a Margarita and a Daiquiri.
   specs:
     - slug: original
       glassware:
-        - slug: shake
+        - slug: coupe
       components:
         - slug: bacardi 8 rum
           quantity: 1
