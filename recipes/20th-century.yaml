@@ -15,7 +15,7 @@
         venue: The Campbell
         location: New York NY
       glassware:
-        - slug: nicknora
+        - slug: nick-nora
       components:
         - slug: gin
           quantity: 1.5

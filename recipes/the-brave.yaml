@@ -7,7 +7,7 @@
   specs:
     - slug: original
       glassware:
-        - slug: wineglass
+        - slug: wine
       components:
         - slug: del-maguey-chichicapa-mezcal
           quantity: 1

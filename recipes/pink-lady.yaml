@@ -4,7 +4,7 @@
   specs:
     - slug: original
       glassware:
-        - slug: UNKNOWN
+        - slug: rocks
       components:
         - slug: plymouth gin
           quantity: 1.5

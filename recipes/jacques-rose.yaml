@@ -11,7 +11,7 @@
   specs:
     - slug: original
       glassware:
-        - slug: sour
+        - slug: coupe
       components:
         - slug: daron fine calvados
           quantity: 2

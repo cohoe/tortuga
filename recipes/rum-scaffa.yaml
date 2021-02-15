@@ -8,7 +8,7 @@
   specs:
     - slug: original
       glassware:
-        - slug: cocktail
+        - slug: nick-nora
       components:
         - slug: plantation-barbados-5-year-rum
           quantity: 1.5

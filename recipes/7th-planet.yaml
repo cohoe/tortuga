@@ -6,7 +6,7 @@
   specs:
     - slug: original
       glassware:
-        - slug: UNKNOWN
+        - slug: highball
       components:
         - slug: olmeca altos reposado tequila
           quantity: 2

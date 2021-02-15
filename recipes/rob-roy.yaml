@@ -9,7 +9,7 @@
   specs:
     - slug: original
       glassware:
-        - slug: cocktail
+        - slug: nick-nora
       components:
         - slug: scotch-whisky
           quantity: 2

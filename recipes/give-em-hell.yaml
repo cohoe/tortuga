@@ -9,7 +9,7 @@
   specs:
     - slug: original
       glassware:
-        - slug: bowl
+        - slug: punch-bowl
       components:
         - slug: sexton irish whiskey
           quantity: 1

@@ -4,7 +4,7 @@
   specs:
     - slug: eater
       glassware:
-        - slug: old-fashioned
+        - slug: rocks
       components:
         - slug: bourbon-whiskey
           quantity: 2

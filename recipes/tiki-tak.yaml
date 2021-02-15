@@ -8,7 +8,7 @@
   specs:
     - slug: original
       glassware:
-        - slug: stemless wine
+        - slug: stemless-wine
       components:
         - slug: Lofi dry vermouth
           quantity: 1

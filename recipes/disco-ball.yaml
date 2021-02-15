@@ -13,7 +13,7 @@
   specs:
     - slug: original
       glassware:
-        - slug: cocktail
+        - slug: nick-nora
       components:
         - slug: mezcal
           quantity: 1

@@ -8,7 +8,7 @@
         venue: Rumba
         location: Seattle WA
       glassware:
-        - slug: cocktail
+        - slug: nick-nora
       components:
         - slug: lightly-aged-rhum
           quantity: 1

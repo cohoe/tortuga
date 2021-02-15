@@ -8,7 +8,7 @@
   specs:
     - slug: original
       glassware:
-        - slug: UNKNOWN
+        - slug: rocks
       components:
         - slug: bourbon whiskey
           quantity: 1

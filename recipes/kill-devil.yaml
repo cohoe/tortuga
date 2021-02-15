@@ -8,7 +8,7 @@
     - slug: original
       display_name: Original
       glassware:
-        - slug: punch-glass
+        - slug: punch
       components:
         - slug: mount-gay-black-barrel-rum
           quantity: 1.5

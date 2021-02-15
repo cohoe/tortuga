@@ -4,7 +4,7 @@
   specs:
     - slug: original
       glassware:
-        - slug: nicknora
+        - slug: nick-nora
       components:
         - slug: rittenhouse 100 rye whiskey
           quantity: 2

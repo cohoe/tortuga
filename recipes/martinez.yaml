@@ -29,7 +29,7 @@
         - title: PDT Cocktails
     - slug: 'Death & Co'
       glassware:
-        - slug: nickandnora
+        - slug: nick-nora
       components:
         - slug: "hayman's old tom gin"
           quantity: 1.5

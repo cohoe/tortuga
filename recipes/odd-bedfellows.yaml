@@ -6,7 +6,7 @@
   specs:
     - slug: original
       glassware:
-        - slug: fancy fizz
+        - slug: fizz
       components:
         - slug: fernet-branca
           quantity: 1

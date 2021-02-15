@@ -7,7 +7,7 @@
   specs:
     - slug: original
       glassware:
-        - slug: UNKNOWN
+        - slug: tiki
       components:
         - slug: clement premiere canne
           quantity: 1
