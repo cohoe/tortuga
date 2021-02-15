@@ -25,10 +25,10 @@
       construction:
         slug: stir
       instructions:
-        text: >-
-          Combine all the ingredients except the garnish in a mixing glass filled
-          with ice. Stir until chilled and strain into a double old-fashioned glass
-          over a large ice cube. Garnish with the orange twist.
+        - text: >-
+            Combine all the ingredients except the garnish in a mixing glass filled
+            with ice. Stir until chilled and strain into a double old-fashioned glass
+            over a large ice cube. Garnish with the orange twist.
       garnish:
         - slug: orange-twist
       straw: false
