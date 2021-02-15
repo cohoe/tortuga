@@ -39,7 +39,8 @@
       instructions:
         - text: Stir all ingredients with ice. Strain into a Cocktail glass over ice.
       garnish:
-        - slug: cherries
+        - slug: cherry
+          display_name: Cherries
       straw: false
       citations:
         - title: I'm Just Here for the Drinks

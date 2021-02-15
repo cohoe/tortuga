@@ -28,7 +28,9 @@
         - text: build in a chilled mule mug, then fill with ice cubes
       garnish:
         - slug: lime shell
-        - slug: candied ginger on a pick
+        - slug: candied ginger
+          notes:
+            - text: on a pick
       citations:
         - title: Meehan's Bartender Manual
           author:
@@ -62,7 +64,8 @@
         - text: top with club soda
       garnish:
         - slug: lime wheel
-        - slug: candied ginger flag
+        - slug: candied ginger
+          display_name: Candied Ginger Flag
       straw: yes
   notes:
     - text: this is a test note for all specs

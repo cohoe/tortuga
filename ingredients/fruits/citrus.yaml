@@ -19,9 +19,29 @@
   slug: lemon
   kind: ingredient
 
+- display_name: Dehydrated Lemon Wheel
+  parent: lemon
+  slug: dehydrated-lemon-wheel
+  kind: ingredient
+
 - display_name: Lime
   parent: citrus
   slug: lime
+  kind: ingredient
+
+- display_name: Lime Wheel
+  parent: lime
+  slug: lime-wheel
+  kind: ingredient
+
+- display_name: Lime Wedge
+  parent: lime
+  slug: lime-wedge
+  kind: ingredient
+
+- display_name: Lime Shell
+  parent: lime
+  slug: lime-shell
   kind: ingredient
 
 - display_name: Orange
@@ -33,6 +53,11 @@
   parent: orange
   slug: orange-wheel
   kind: ingredient
+
+- display_name: Aleppo-dusted Orange Wheel
+  parent: orange-wheel
+  slug: aleppo-dusted-orange-wheel
+  kind: custom
 
 - display_name: Orange Crescent
   parent: orange

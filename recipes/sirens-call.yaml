@@ -9,7 +9,7 @@
       glassware:
         - slug: rocks
       components:
-        - slug: rhum-clement-v-s-o-p
+        - slug: rhum-clement-vsop
           quantity: 1
           unit: oz
         - slug: banks 5 island rum
@@ -29,7 +29,9 @@
       instructions:
         - text: shake all ingredients with ice then strain into a rocks glass over one large ice cube
       garnish:
-        - slug: spritz of absinthe
+        - slug: absinthe
+          unit: spritz
+          quantity: 1
       straw: false
       citations:
         - title: Direct

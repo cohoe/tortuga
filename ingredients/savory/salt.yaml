@@ -23,3 +23,8 @@
   parent: salt
   slug: saline
   kind: ingredient
+
+- display_name: Sal de Gusano
+  parent: salt
+  slug: sal-de-gusano
+  kind: ingredient

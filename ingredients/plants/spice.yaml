@@ -14,6 +14,11 @@
   slug: cinnamon
   kind: ingredient
 
+- display_name: Cinnamon Stick
+  parent: cinnamon
+  slug: cinnamon-stick
+  kind: ingredient
+
 - display_name: Cloves
   parent: spice
   slug: cloves
@@ -32,6 +37,11 @@
 - display_name: Freshly-Peeled Ginger
   parent: ginger
   slug: freshly-peeled-ginger
+  kind: ingredient
+
+- display_name: Candied Ginger
+  parent: ginger
+  slug: candied-ginger
   kind: ingredient
 
 - display_name: Mustard
@@ -57,4 +67,9 @@
 - display_name: Whole Black Peppercorn
   parent: black-pepper
   slug: whole-black-peppercorn
+  kind: ingredient
+
+- display_name: Chili Powder
+  parent: spice
+  slug: chili-powder
   kind: ingredient

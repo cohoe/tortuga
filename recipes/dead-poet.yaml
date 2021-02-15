@@ -35,7 +35,9 @@
         - text: stir all the ingredients with ice, then strain into a chilled glass
         - text: twist a lime peel over the drink
       garnish:
-        - slug: twisted lime peel
+        - slug: lime peel
+          notes:
+            - text: twisted
       straw: false
       citations:
         - title: 'Tequila Cocktail: Dead Poet'

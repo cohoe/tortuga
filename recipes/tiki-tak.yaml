@@ -34,7 +34,8 @@
         - text: shake all ingredients with ice then roll into a stemless wine glass
         - text: top with crushed ice
       garnish:
-        - slug: umbrella-skewered cherry
+        - slug: cherry
+          display_name: Umbrella-skewered Cherry
         - slug: lime wedge
       straw: false
       citations:

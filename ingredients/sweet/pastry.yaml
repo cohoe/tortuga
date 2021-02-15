@@ -1,0 +1,20 @@
+---
+- display_name: Pastry
+  slug: pastry
+  parent: sweet
+  kind: family
+
+- display_name: Baked
+  slug: baked
+  parent: sweet
+  kind: family
+
+- display_name: Cookies
+  slug: cookies
+  parent: baked
+  kind: ingredient
+
+- display_name: Walkers Scottish Shortbread Cookies
+  slug: walkers-scottish-shortbread-cookies
+  parent: cookies
+  kind: product

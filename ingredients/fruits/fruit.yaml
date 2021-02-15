@@ -9,9 +9,19 @@
   slug: apple
   kind: ingredient
 
+- display_name: Apple Chip
+  parent: fruit
+  slug: apple-chip
+  kind: ingredient
+
 - display_name: Fuji Apple
   parent: apple
   slug: fuji-apple
+  kind: ingredient
+
+- display_name: Apple Slice
+  parent: apple
+  slug: apple-slice
   kind: ingredient
 
 - display_name: Granny Smith Apple
@@ -129,6 +139,11 @@
   slug: anjou-pear
   kind: ingredient
 
+- display_name: Anjou Pear Slice
+  parent: anjou-pear
+  slug: anjou-pear-slice
+  kind: ingredient
+
 - display_name: Bartlett Pear
   parent: pear
   slug: bartlett-pear
@@ -153,6 +168,16 @@
   parent: pineapple
   slug: pineapple-wedge
   kind: ingredient
+
+- display_name: Pineapple Leaf
+  parent: pineapple
+  slug: pineapple-leaf
+  kind: ingredient
+
+- display_name: Chile Powder-dipped Pineapple
+  parent: pineapple
+  slug: chile-powder-dipped-pineapple
+  kind: custom
 
 - display_name: Prickly Pear
   parent: fruit

@@ -26,10 +26,13 @@
       construction:
         slug: stir
       instructions:
-        - text: stir all the ingredients over ice, then strain into a coupe
-        - text: flame an orange twist over the drink
+        - text: >-
+            Stir all the ingredients over ice, then strain into a coupe.
+            Flame an orange twist over the drink.
       garnish:
-        - slug: flamed orange twist
+        - slug: orange twist
+          notes:
+            - text: Flamed
       straw: false
       citations:
         - title: Death & Co

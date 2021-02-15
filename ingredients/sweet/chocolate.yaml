@@ -13,3 +13,8 @@
   parent: cocoa-powder
   slug: hersheys-unsweetened-cocoa-powder
   kind: product
+
+- display_name: Bitter Chocolate
+  parent: chocolate
+  slug: bitter-chocolate
+  kind: ingredient

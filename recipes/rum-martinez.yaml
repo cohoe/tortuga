@@ -35,8 +35,11 @@
             rosemary sprig and light the end of the sprig over flame until it
             smokes. Garnish the drink and enjoy.
       garnish:
-        - slug: rosemary-sprig
-        - slug: luxardo-cherry
+        - slug: rosemary
+          quantity: 1
+          unit: sprig
+        - slug: maraschino-cherry
+          display_name: Luxardo Cherry
       straw: false
       citations:
         - title: Rum Martinez Cocktail Recipe From Harper Fendler

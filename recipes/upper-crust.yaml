@@ -26,7 +26,9 @@
       instructions:
         - text: shake all ingredients and strain into a sugar-rimmed nick-and-nora or coupe glass
       garnish:
-        - slug: wide and long lemon twist
+        - slug: lemon twist
+          notes:
+            - text: Wide and Long.
       straw: false
       citations:
         - title: I'm Just Here for the Drinks

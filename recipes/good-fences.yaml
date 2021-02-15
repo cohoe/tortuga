@@ -25,8 +25,12 @@
         - text: pour bouron and syrup into a highball filled with ice
         - text: top with cider
       garnish:
-        - slug: grated cinnamon
-        - slug: apple slice
+        - slug: cinnamon
+          notes:
+            - text: grated
+        - slug: apple
+          unit: slice
+          quantity: 1
       straw: false
       citations:
         - title: I'm Just Here for the Drinks

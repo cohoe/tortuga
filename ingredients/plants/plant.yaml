@@ -13,3 +13,8 @@
   parent: tobacco
   slug: aftel-tobacco-essence
   kind: product
+
+- display_name: Cigar
+  parent: plant
+  slug: cigar
+  kind: ingredient

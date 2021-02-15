@@ -27,5 +27,7 @@
         - text: build in a pint glass over ice cubes
       garnish:
         - slug: maraschino cherry
-        - slug: lemon wedge
+        - slug: lemon
+          unit: wedge
+          quantity: 1
       straw: false

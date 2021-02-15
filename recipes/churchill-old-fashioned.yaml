@@ -26,7 +26,8 @@
         - text: combine all ingredients in a mixing glass with ice. Stir and strain into an old fashioned glass over a large cube of ice
       garnish:
         - slug: grapefruit-peel
-        - slug: small cigar
+        - slug: cigar
+          display_name: Small Cigar
           notes:
             - text: optional, on the side
       citations:

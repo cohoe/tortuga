@@ -28,7 +28,9 @@
       instructions:
         - text: stir all the ingredients over ice, then strain into a coupe
       garnish:
-        - slug: fuji apple slice
+        - slug: fuji apple
+          quantity: 1
+          unit: slice
       straw: false
       citations:
         - title: Death & Co

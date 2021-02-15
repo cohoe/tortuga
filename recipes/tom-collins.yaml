@@ -19,11 +19,13 @@
       construction:
         slug: shake
       instructions:
-        - text: short shake all the ingredients (except the club soda) with 3 ice cubes, then strain into a highball glass filled with ice cubes
-        - text: top with club soda
+        - text: >-
+            Short shake all the ingredients (except the club soda) with 3 ice cubes, then strain
+            into a highball glass filled with ice cubes. Top with club soda.
       garnish:
         - slug: orange crescent
-        - slug: cherry flag
+        - slug: cherry
+          display_name: Cherry Flag
       straw: true
       citations:
       - title: 'Death & Co: Modern Classic Cocktails'

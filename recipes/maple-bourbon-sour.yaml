@@ -24,7 +24,9 @@
       instructions:
         - text: shake all ingredients over ice then strain into a rocks glass over a large ice ball
       garnish:
-        - slug: lemon wedge
+        - slug: lemon
+          unit: wedge
+          quantity: 1
       straw: false
       citations:
         - title: "Between the Sheets: Laura's Maple Bourbon Sour"

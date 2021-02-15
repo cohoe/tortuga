@@ -25,10 +25,13 @@
       construction:
         slug: stir
       instructions:
-        - text: stir all ingredients with plenty of ice in a large mixing glass
-        - text: strain into a snifter over a large-format ice cube
+        - text: >-
+            Stir all ingredients with plenty of ice in a large mixing glass.
+            Strain into a snifter over a large-format ice cube.
       garnish:
-        - slug: lemon twist, discarded
+        - slug: lemon twist
+          notes:
+            - text: discarded
       straw: false
       citations:
         - title: I'm Just Here for the Drinks
