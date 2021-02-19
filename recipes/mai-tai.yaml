@@ -29,7 +29,8 @@
       instructions:
         - text: shake with ice, then strain into a chilled rocks glass filled with pebble ice
       garnish:
-        - slug: mint sprig
+        - slug: mint
+          unit: sprig
       straw: false
       citations:
         - title: Meehan's Bartender Manual

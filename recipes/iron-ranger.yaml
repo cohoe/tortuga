@@ -35,7 +35,8 @@
         - text: strain into a chilled hurricane glass filled with pebble ice
       garnish:
         - slug: cinnamon-stick
-        - slug: mint-sprig
+        - slug: mint
+          unit: sprig
       straw: false
       citations:
         - title: Iron Ranger From Raised by Wolves

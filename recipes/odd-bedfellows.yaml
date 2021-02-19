@@ -34,8 +34,9 @@
         - text: top with more pebble ice
       garnish:
         - slug: pineapple wedge
-        - slug: mint sprig
+        - slug: mint
           quantity: 2
+          unit: sprig
         - slug: bitter-chocolate
           optional: true
           preparation: grated

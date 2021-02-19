@@ -31,7 +31,8 @@
       instructions:
         - text: build in a glass over ice and top with cider
       garnish:
-        - slug: apple-slice
+        - slug: apple
+          unit: slice
           notes:
             - text: apple or grape slices
       straw: false

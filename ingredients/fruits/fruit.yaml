@@ -19,11 +19,6 @@
   slug: fuji-apple
   kind: ingredient
 
-- display_name: Apple Slice
-  parent: apple
-  slug: apple-slice
-  kind: ingredient
-
 - display_name: Granny Smith Apple
   parent: apple
   slug: granny-smith-apple
@@ -137,11 +132,6 @@
 - display_name: Anjou Pear
   parent: pear
   slug: anjou-pear
-  kind: ingredient
-
-- display_name: Anjou Pear Slice
-  parent: anjou-pear
-  slug: anjou-pear-slice
   kind: ingredient
 
 - display_name: Bartlett Pear

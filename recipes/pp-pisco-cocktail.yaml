@@ -41,7 +41,8 @@
         - text: strain into a Collins glass filled with crushed ice
         - text: top with chilled ginger beer
       garnish:
-        - slug: mint sprig
+        - slug: mint
+          unit: sprig
         - slug: cucumber
         - slug: lemon
       straw: false

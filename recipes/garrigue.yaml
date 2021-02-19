@@ -31,7 +31,9 @@
         - text: shake over ice and fine-strain into a chilled coupe glass
       garnish:
         - slug: lemon twist
-        - slug: dried lavender sprig
+        - slug: lavender
+          unit: sprig
+          preparation: dehydrated
       straw: false
       citations:
         - title: 101 Best New Cocktails

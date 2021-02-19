@@ -30,7 +30,8 @@
         - text: stir all the ingredients (except the champagne) over ice, then strain into a flute
         - text: top with champagne
       garnish:
-        - slug: anjou pear slice
+        - slug: anjou pear
+          unit: slice
       straw: false
       citations:
         - title: 'Death & Co: Modern Classic Cocktails'

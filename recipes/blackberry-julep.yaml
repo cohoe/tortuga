@@ -28,7 +28,8 @@
         - slug: mixed-berry-marinade
           unit: tablespoon
           quantity: 1
-        - slug: mint sprig
+        - slug: mint
+          unit: sprig
       straw: false
       citations:
         - title: I'm Just Here for the Drinks

@@ -54,11 +54,6 @@
   slug: lavender
   kind: ingredient
 
-- display_name: Dried Lavender Sprig
-  parent: herb
-  slug: dried-lavender-sprig
-  kind: ingredient
-
 - display_name: Lavender Tincture
   parent: lavender
   slug: lavender-tincture
@@ -72,11 +67,6 @@
 - display_name: Mint Leaves
   parent: mint
   slug: mint-leaves
-  kind: ingredient
-
-- display_name: Mint Sprig
-  parent: mint
-  slug: mint-sprig
   kind: ingredient
 
 - display_name: Oregano
