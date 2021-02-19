@@ -28,8 +28,9 @@
         - slug: grapefruit-peel
         - slug: cigar
           display_name: Small Cigar
+          optional: true
           notes:
-            - text: optional, on the side
+            - text: on the side
       citations:
         - title: "Tip Your Bartender: Cafe La Trova, Miami"
           author:

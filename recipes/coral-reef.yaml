@@ -21,6 +21,7 @@
           quantity: .75
           unit: oz
         - slug: club soda
+          optional: true
       construction:
         slug: build
       instructions:

@@ -38,6 +38,7 @@
         - slug: rosemary
           quantity: 1
           unit: sprig
+          preparation: flamed
         - slug: maraschino-cherry
           display_name: Luxardo Cherry
       straw: false
