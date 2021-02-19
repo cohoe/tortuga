@@ -25,8 +25,7 @@
         - text: Stir ingredients well in a mixing glass to chill and deluge, then strain into a chilled Nick & Nora glass.
       garnish:
         - slug: orange-twist
-          notes:
-            - text: discarded
+          preparation: discarded
       straw: false
       citations:
         - title: I'm Just Here for the Drinks

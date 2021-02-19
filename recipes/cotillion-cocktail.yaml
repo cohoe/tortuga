@@ -37,8 +37,7 @@
         - text: double strain into a chilled glass
       garnish:
         - slug: orange peel
-          notes:
-            - text: Flamed
+          preparation: flamed
       straw: false
       notes:
         - text: Made this with cruzan single barrel. It is balanced but kinda feels slightly watery

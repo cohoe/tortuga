@@ -29,8 +29,7 @@
       garnish:
         - slug: lime shell
         - slug: candied ginger
-          notes:
-            - text: on a pick
+          preparation: pick
       citations:
         - title: Meehan's Bartender Manual
           author:
@@ -38,8 +37,6 @@
           publisher: Ten Speed Press
           location: Berkeley
           date: 2017-10-17
-      notes:
-        - text: this is a test note for a single spec
     - slug: Death & Co
       glassware:
         - slug: highball
@@ -65,7 +62,5 @@
       garnish:
         - slug: lime wheel
         - slug: candied ginger
-          display_name: Candied Ginger Flag
+          preparation: flag
       straw: yes
-  notes:
-    - text: this is a test note for all specs

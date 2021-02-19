@@ -39,8 +39,7 @@
             dilute. Strain into a chilled Cocktail glass.
       garnish:
         - slug: lemon-twist
-          notes:
-            - text: discarded
+          preparation: discarded
       straw: false
       citations:
         - title: I'm Just Here for the Drinks

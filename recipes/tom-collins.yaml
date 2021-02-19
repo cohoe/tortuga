@@ -25,7 +25,7 @@
       garnish:
         - slug: orange crescent
         - slug: cherry
-          display_name: Cherry Flag
+          preparation: flag
       straw: true
       citations:
       - title: 'Death & Co: Modern Classic Cocktails'

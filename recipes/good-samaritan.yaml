@@ -30,7 +30,8 @@
       instructions:
         - text: Combine all the ingredients in a shaker with ice and shake to combine. Strain into a rocks glass over fresh ice and garnish.
       garnish:
-        - slug: dehydrated-lemon-wheel
+        - slug: lemon-wheel
+          preparation: dehydrated
           notes:
             - text: or fresh lemon wheel
       straw: false

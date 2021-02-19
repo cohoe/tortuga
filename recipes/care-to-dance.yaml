@@ -37,8 +37,7 @@
             an orange peel and discard.
       garnish:
         - slug: orange-twist
-          notes:
-            - text: discarded
+          preparation: discarded
       straw: false
       citations:
         - title: Instagram

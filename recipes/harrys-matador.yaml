@@ -36,7 +36,8 @@
             peel over the top of the glass to express the essential oils, then discard.
             Strain into a Nick & Nora glass. Garnish with dehydrated lemon wheel.
       garnish:
-        - slug: dehydrated-lemon-wheel
+        - slug: lemon-wheel
+          preparation: dehydrated
       straw: false
       citations:
         - title: Punch

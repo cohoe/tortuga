@@ -35,11 +35,9 @@
           unit: dash
       garnish:
         - slug: lemon-peel
-          notes:
-            - text: discard
+          preparation: discarded
         - slug: orange-peel
-          notes:
-            - text: discard
+          preparation: discarded
       straw: false
       instructions:
       - text: >-

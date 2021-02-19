@@ -37,8 +37,7 @@
         - slug: lime wheel
           display_name: Lime Wheels
         - slug: nutmeg
-          notes:
-            - text: Freshly grated
+          preparation: grated
       straw: false
   citations:
     - title: Recipes From The Sexton Midnight Club New Orleans

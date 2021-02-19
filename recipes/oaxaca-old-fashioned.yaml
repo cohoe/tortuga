@@ -31,8 +31,7 @@
             Flame an orange twist over the drink.
       garnish:
         - slug: orange twist
-          notes:
-            - text: Flamed
+          preparation: flamed
       straw: false
       citations:
         - title: Death & Co

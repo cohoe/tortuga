@@ -36,8 +36,7 @@
       garnish:
         - slug: cherry
           quantity: 3
-          notes:
-            - text: skewered
+          preparation: pick
       straw: false
       citations:
         - title: 'Amaro'

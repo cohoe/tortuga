@@ -37,9 +37,8 @@
         - slug: mint sprig
           quantity: 2
         - slug: bitter-chocolate
-          notes:
-            - text: Optional
-            - text: grated
+          optional: true
+          preparation: grated
       straw: false
       citations:
         - title: I'm Just Here for the Drinks

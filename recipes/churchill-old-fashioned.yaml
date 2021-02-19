@@ -29,8 +29,7 @@
         - slug: cigar
           display_name: Small Cigar
           optional: true
-          notes:
-            - text: on the side
+          preparation: side
       citations:
         - title: "Tip Your Bartender: Cafe La Trova, Miami"
           author:

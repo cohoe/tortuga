@@ -31,8 +31,7 @@
       garnish:
         - slug: brandied cherry
           quantity: 3
-          notes:
-            - text: on a cocktail pick
+          preparation: pick
       straw: false
       citations:
         - title: Death & Co

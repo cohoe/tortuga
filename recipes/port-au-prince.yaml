@@ -40,7 +40,7 @@
       garnish:
         - slug: pineapple
         - slug: brandied cherry
-          display_name: Brandied Cherry Flag
+          preparation: flag
       straw: false
       citations:
         - title: Death & Co

@@ -29,8 +29,7 @@
       garnish:
         - slug: raspberry
           quantity: 3
-          notes:
-            - text: on a pick
+          preparation: pick
       straw: false
       citations:
         - title: PDT Cocktails

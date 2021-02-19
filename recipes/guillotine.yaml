@@ -30,8 +30,7 @@
             Strain into a snifter over a large-format ice cube.
       garnish:
         - slug: lemon twist
-          notes:
-            - text: discarded
+          preparation: discarded
       straw: false
       citations:
         - title: I'm Just Here for the Drinks

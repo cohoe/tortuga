@@ -26,8 +26,7 @@
         - text: top with cider
       garnish:
         - slug: cinnamon
-          notes:
-            - text: grated
+          preparation: grated
         - slug: apple
           unit: slice
           quantity: 1

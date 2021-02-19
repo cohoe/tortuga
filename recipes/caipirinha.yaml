@@ -17,7 +17,7 @@
           quantity: 2
           unit: barspoon
           notes:
-            - text: Or 2 cubes
+            - text: Alternatively use 2 cubes
       construction:
         slug: shake
       instructions:

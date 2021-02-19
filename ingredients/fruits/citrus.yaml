@@ -19,9 +19,9 @@
   slug: lemon
   kind: ingredient
 
-- display_name: Dehydrated Lemon Wheel
+- display_name: Lemon Wheel
   parent: lemon
-  slug: dehydrated-lemon-wheel
+  slug: lemon-wheel
   kind: ingredient
 
 - display_name: Lime

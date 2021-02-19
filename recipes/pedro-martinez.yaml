@@ -31,7 +31,7 @@
         - slug: lime-peel
           quantity: 1
           notes:
-            - text: small strip
+            - text: Small strip
       construction:
         slug: stir
       instructions:
@@ -42,8 +42,7 @@
       garnish:
         - slug: lemon-twist
           quantity: 2
-          notes:
-            - text: discarded
+          preparation: discarded
       straw: false
       citations:
         - title: Pedro Martinez Cocktail
