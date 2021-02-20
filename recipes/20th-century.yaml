@@ -45,7 +45,6 @@
         - slug: coupe
       construction:
         slug: shake
-      origin:
       components:
         - slug: plymouth-gin
           quantity: 1.5
