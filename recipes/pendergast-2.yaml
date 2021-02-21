@@ -1,0 +1,51 @@
+---
+- slug: pendergast-2
+  display_name: 'Pendergast #2'
+  origin:
+    creator: Ryan Maybee
+    venue: Manifesto
+    location: Kansas City MO
+    story: >-
+      This cocktail is inspired by 'Boss Tom' Pendergast, the businessman who 'ran'
+      Kansas City during Prohibition, and kept things swinging. He's largely credited
+      with making KC the biggest party town in the country during that time, which
+      led to the rise of it as a Jazz town and to the invention of bebop.
+  specs:
+    - slug: ijhftd
+      glassware:
+        - slug: rocks
+      components:
+        - slug: j-riegers-kansas-city-whiskey
+          quantity: 1.5
+          unit: oz
+        - slug: sweet-vermouth
+          quantity: .75
+          unit: oz
+        - slug: benedictine
+          quantity: .5
+          unit: oz
+        - slug: orange-bitters
+          quantity: 3
+          unit: dash
+          notes:
+            - text: 3-4 dashes
+      construction:
+        slug: stir
+      instructions:
+        - text: Stir with plenty of ice to chill and dilute. Strain and serve up.
+        - text: >-
+            Combine all ingredients in a mixing glass with ice and stir until
+            well-chilled. Strain, down, into a chilled Rocks glass, sans ice.
+      straw: false
+      garnish:
+        - slug: lemon-twist
+          display_name: Lemon Zest
+      citations:
+        - title: I'm Just Here for the Drinks
+          author:
+            - Sother Teague
+          date: 2018-08-28
+          publisher: Media Lab Books
+          page: 95
+        - title: Pendergast
+          href: https://imbibemagazine.com/recipe/pendergast-recipe/

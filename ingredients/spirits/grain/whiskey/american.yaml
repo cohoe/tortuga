@@ -28,3 +28,7 @@
   slug: grandten-american-single-malt-whiskey
   kind: product
 
+- display_name: J. Rieger's Kansas City Whiskey
+  slug: j-riegers-kansas-city-whiskey
+  kind: product
+  parent: american-whiskey
