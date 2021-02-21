@@ -112,7 +112,20 @@
   parent: infused-syrup
   slug: charred-pineapple-syrup
   kind: custom
-
+  components:
+    - slug: pineapple
+      quantity: 250
+      unit: gram
+      preparation: flamed
+    - slug: rich-simple-syrup
+      quantity: 750
+      unit: gram
+    - slug: jalapeño
+      quantity: 2
+  instructions:
+    - text: >-
+        Combine all ingredients in a Vitamix and blend, then strain through a chinois.
+        Store in a glass bottle.
 - display_name: Togarashi Syrup
   parent: infused-syrup
   slug: togarashi-syrup

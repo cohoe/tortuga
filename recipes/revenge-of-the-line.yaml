@@ -35,23 +35,6 @@
       garnish:
         - slug: chile powder dipped pineapple
       straw: false
-      # @TODO
-#    - slug: charred pineapple syrup
-#      glassware:
-#        - slug: bottle
-#      components:
-#        - slug: charred pineapple
-#          quantity: 250
-#          unit: gram
-#        - slug: '2:1 simple syrup'
-#          quantity: 750
-#          unit: gram
-#        - slug: jalapeños
-#          quantity: 2
-#      construction:
-#        slug: shake
-#      instructions:
-#        - combine all ingredients in a Vitamix and blend, then strain through a chinois.
   citations:
     - title: Revenge of the Line
       author:
@@ -63,4 +46,4 @@
       href: https://assets.punchdrink.com/wp-content/uploads/2014/06/28110756/Article-REVENGE-OF-THE-LIME-Easy-Tiki-Cocktail-Recipe.jpg
       credit: Alexa Bendek
   notes:
-    - text: one
+
