@@ -1,5 +1,11 @@
 ---
 - slug: stir
+  default_instructions:
+    - text: Stir all ingredients in a mixing glass over ice, then strain into a glass.
 - slug: shake
+  default_instructions:
+    - text: Shake all ingreidnets over ice then strain into a glass.
 - slug: build
+  default_instructions:
+    - text: Add all ingredients directly to the glass.
 - slug: swizzle
