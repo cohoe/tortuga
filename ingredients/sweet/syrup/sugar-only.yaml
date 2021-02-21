@@ -2,6 +2,18 @@
   parent: syrup
   slug: simple-syrup
   kind: custom
+  components:
+    - slug: sugar
+      quantity: 1
+      unit: cup
+    - slug: water
+      quantity: 1
+      unit: cup
+  instructions:
+    - text: >-
+        Bring the water to a simmer then remove from heat. Add the sugar and
+        stir to thoroughly combine. Let sit for a few minutes before transfering
+        to a bottle or other container.
 
 - display_name: Rich Simple Syrup
   parent: simple-syrup
