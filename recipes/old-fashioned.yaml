@@ -2,6 +2,41 @@
 - slug: old-fashioned
   display_name: Old Fashioned
   specs:
+    - slug: death-co
+      display_name: 'Death & Co'
+      glassware:
+        - slug: double-old-fashioned
+      components:
+        - slug: eagle-rare-10-year-bourbon
+          quantity: 2
+          unit: oz
+        - slug: demerara-syrup
+          quantity: 1
+          unit: tsp
+        - slug: angostura-bitters
+          quantity: 2
+          unit: dashes
+        - slug: bitter-truth-aromatic-bitters
+          quantity: 1
+          unit: dash
+      construction:
+        slug: stir
+      instructions:
+        - text: >-
+            Stir all the ingredients over ice, then strain into a double rocks glass over
+            1 large ice cube. Garnish with the orange and lemon twists.
+      garnish:
+        - slug: orange-twist
+        - slug: lemon-twist
+      straw: false
+      citations:
+        - title: 'Death & Co: Modern Classic Cocktails'
+          author:
+            - David Kaplan
+            - Nick Fauchald
+            - Alex Day
+          date: 2014-10-07
+          publisher: Ten Speed Press
     - slug: eater
       glassware:
         - slug: rocks
