@@ -69,3 +69,46 @@
         - text: >-
             Way more root forward than I hoped, slightly dilluted it gets better.
             Definitly unique and interesting.
+    - slug: lost-lake
+      display_name: Lost Lake
+      origin:
+        creator: Shelby Allison and Paul McGee
+        venue: Lost Lake
+        location: Chicago IL
+      glassware:
+        - slug: rocks
+      components:
+        - slug: appleton-signature-rum
+          quantity: 1
+          unit: oz
+        - slug: plantation-pineapple-rum
+          quantity: 1
+          unit: oz
+        - slug: cinzano-rosso-vermouth
+          quantity: .75
+          unit: oz
+        - slug: campari
+          quantity: .75
+          unit: oz
+      construction:
+        slug: stir
+      instructions:
+        - text: >-
+            Stir all of the ingredients in a mixing glass with ice. Strain up
+            or over a large ice cube, Express an orange peel over the drink,
+            then use as a garnish.
+      garnish:
+        - slug: orange-twist
+      straw: false
+      citations:
+        - title: 'Pineapple Kingston Negroni from Lost Lake'
+          publisher: Imbibe
+          href: 'https://imbibemagazine.com/recipe/lost-lake-pineapple-kingston-negroni/'
+      notes:
+        - text: >-
+            Did with a 1:1 blend of dolin:cocchi-torino. This is really nice. An initial hit of
+            fruitiness that evolves to a slightly bitter drying finish. This could be a good
+            way to ween onto Campari. Wonder how the Zucca would do here? Compared to the Sother
+            Teague Improved spec which comes out a bit root-y this might be able to balance it
+            out. Nope, I consider that definitely inferior. Lacks any of the bitter bite
+            that gives it a good length. Not bad but definitely stick with the spec.
