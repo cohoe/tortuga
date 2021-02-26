@@ -1,0 +1,47 @@
+---
+- slug: the-lighter-side
+  display_name: The Lighter Side
+  origin:
+    creator: Dustin Harstaad
+  specs:
+    - slug: canon
+      glassware:
+        - slug: coupe
+      components:
+        - slug: bourbon
+          quantity: 2
+          unit: oz
+        - slug: aperol
+          quantity: .5
+          unit: oz
+        - slug: peach-liqueur
+          quantity: .25
+          unit: oz
+        - slug: angostura bitters
+          quantity: 4
+          unit: dash
+      construction:
+        slug: stir
+      instructions:
+        - text: shake with ice, then strain into a chilled coupe
+        - text: >-
+            In a mixing glass filled with ice, add the bourbon, Aperol, peach liqueur,
+            and bitters. Stir and strain into a chilled coupe glass. Garnish with a
+            lemon twist.
+      garnish:
+        - slug: lemon twist
+      straw: false
+      citations:
+        - title: The Canon Cocktail Book
+          author:
+            - Jamie Boudreau
+            - James O. Fraioli
+          year: 2016
+          publisher: Houghton Mifflin Harcourt
+          page: 66
+      notes:
+        - text: >-
+            This is rather fruity given its stirred nature. I like it. A quality
+            phat lemon works great. Did with Elijah Craig and Massenez. May be
+            a touch on the sweet side. Staying chilled and undilluted would be
+            recommended.
