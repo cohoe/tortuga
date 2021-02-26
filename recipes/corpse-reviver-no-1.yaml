@@ -21,7 +21,6 @@
       construction:
         slug: stir
       instructions:
-        - text: shake with ice, then strain into a chilled coupe
         - text: in a mixing glass filled with ice, add the cognac, brandy, vermouth, and bitters, if desired. Stir and strain into a coupe glass.
       garnish:
         - slug: lemon twist
@@ -40,3 +39,7 @@
       notes:
         - text: within the context of a manhattan it is good. I go back and forth about
             enjoying it and saying meh. might be a better fall drink.
+        - text: >-
+            Again not bad. Definitely higher than meh. As a manhattan it has an interesting
+            grape and apple component from the brandies. wonder if something with more punch
+            than the dolin sweet would work better.

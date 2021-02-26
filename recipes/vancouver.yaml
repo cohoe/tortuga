@@ -1,0 +1,43 @@
+---
+- slug: vancouver
+  display_name: Vancouver
+  specs:
+    - slug: canon
+      glassware:
+        - slug: coupe
+      components:
+        - slug: gin
+          quantity: 1.5
+          unit: oz
+        - slug: sweet-vermouth
+          quantity: .75
+          unit: oz
+        - slug: benedictine
+          quantity: .25
+          unit: oz
+        - slug: orange bitters
+          quantity: 2
+          unit: dash
+      construction:
+        slug: stir
+      instructions:
+        - text: >-
+            In a mixing glass filled with ice, add the gin, vermouth, benedictine,
+            and bitters. Stir and strain into a chilled coupe glass. Garnish with a
+            lemon or orange twist.
+      garnish:
+        - slug: lemon twist
+      straw: false
+      citations:
+        - title: The Canon Cocktail Book
+          author:
+            - Jamie Boudreau
+            - James O. Fraioli
+          year: 2016
+          publisher: Houghton Mifflin Harcourt
+          page: 283
+      notes:
+        - text: >-
+            Oh yes. Did with Citadelle, Dolin, and an Orange Twist. This is an excellent
+            lighter-ish version of a martinez, which I find surprising. Could benefit from
+            more chilling. The bene adds a nice herbal note without being overpowering.
