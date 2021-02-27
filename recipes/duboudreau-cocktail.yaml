@@ -1,0 +1,79 @@
+---
+- slug: duboudreau-cocktail
+  display_name: DuBoudreau Cocktail
+  origin:
+    creator: Jim Meehan
+    story: >-
+      This is a variation of a recipe [Jamie Boudreau] had submitted to Jim Meehan of PDT
+      fame for Food & Wine's annual cocktail book. He took my recipe, added Dubonnet, and
+      changed the name, which, quite frankly, makde the cocktail better.
+  specs:
+    - slug: canon
+      glassware:
+        - slug: rocks
+      components:
+        - slug: rye
+          quantity: 2
+          unit: oz
+        - slug: dubonnet-rouge
+          quantity: .75
+          unit: oz
+        - slug: fernet-branca
+          quantity: .25
+          unit: oz
+        - slug: st-germain
+          quantity: .25
+          unit: oz
+      construction:
+        slug: stir
+      instructions:
+        - text: >-
+            In a mixing glass filled with ice, add the rye, Dubonnet Rouge, Fernet-Branca,
+            and St-Germain. Stir and strain into a rocks glass. Garnish with a
+            lemon twist.
+      garnish:
+        - slug: lemon twist
+      straw: false
+      citations:
+        - title: The Canon Cocktail Book
+          author:
+            - Jamie Boudreau
+            - James O. Fraioli
+          year: 2016
+          publisher: Houghton Mifflin Harcourt
+          page: 76
+      notes:
+        - text: >-
+            Did with Old Overholt. Rather light and dry. Not quite my style but a good balanced
+            drink. The Rittenhouse that Meehan uses may give a bit more oomph.
+    - slug: meehan
+      glassware:
+        - slug: coupe
+      components:
+        - slug: rittenhouse-100-rye-whiskey
+          quantity: 2
+          unit: oz
+        - slug: dubonnet-rouge
+          quantity: .75
+          unit: oz
+        - slug: fernet-branca
+          quantity: .25
+          unit: oz
+        - slug: st-germain
+          quantity: .25
+          unit: oz
+      construction:
+        slug: stir
+      instructions:
+        - text: >-
+            Stir with ice, then strain into a chilled coupe. Garnish with the lemon twist.
+      garnish:
+        - slug: lemon twist
+      straw: false
+      citations:
+        - title: Meehan's Bartender Manual
+          publisher: Ten Speed Press
+          year: 2017
+          author:
+            - Jim Meehan
+          page: 341
