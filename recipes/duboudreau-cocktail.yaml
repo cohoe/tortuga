@@ -12,7 +12,7 @@
       glassware:
         - slug: rocks
       components:
-        - slug: rye
+        - slug: rye-whiskey
           quantity: 2
           unit: oz
         - slug: dubonnet-rouge

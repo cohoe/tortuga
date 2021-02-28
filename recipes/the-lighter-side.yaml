@@ -8,7 +8,7 @@
       glassware:
         - slug: coupe
       components:
-        - slug: bourbon
+        - slug: bourbon-whiskey
           quantity: 2
           unit: oz
         - slug: aperol
