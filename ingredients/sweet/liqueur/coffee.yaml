@@ -1,7 +1,7 @@
 - display_name: Coffee Liqueur
   parent: liqueur
   slug: coffee-liqueur
-  kind: ingredient
+  kind: family
 
 - display_name: Galliano Ristretto
   parent: coffee-liqueur
