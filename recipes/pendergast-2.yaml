@@ -32,7 +32,6 @@
       construction:
         slug: stir
       instructions:
-        - text: Stir with plenty of ice to chill and dilute. Strain and serve up.
         - text: >-
             Combine all ingredients in a mixing glass with ice and stir until
             well-chilled. Strain, down, into a chilled Rocks glass, sans ice.
@@ -49,3 +48,8 @@
           page: 95
         - title: Pendergast
           href: https://imbibemagazine.com/recipe/pendergast-recipe/
+      notes:
+        - text: >-
+            A very interesting citrus twang on a whiskey stirred drink. I rather
+            like this. Could benefit from super-enhanced chilling. Has a lot of
+            richness. Did with house sweet vermouth.
