@@ -1,0 +1,51 @@
+---
+- slug: psycho-killer
+  display_name: Psycho Killer
+  origin:
+    creator: Jillian Vose
+    venue: The Dead Rabbit Grocery and Grog
+  specs:
+    - slug: original
+      display_name: Original
+      glassware:
+        - slug: nick-nora
+      components:
+        - slug: redbreast-12-year-irish-whiskey
+          quantity: 2
+          unit: oz
+        - slug: giffard-banane-du-bresil
+          quantity: .5
+          unit: oz
+        - slug: giffard-white-creme-de-cacao
+          quantity: .5
+          unit: oz
+        - slug: campari
+          quantity: .75
+          unit: oz
+        - slug: vieux-pontarlier-absinthe
+          quantity: 2
+          unit: dash
+      construction:
+        slug: stir
+      instructions:
+        - text: Stir with ice; strain with julep strainer and serve up without ice.
+      garnish:
+        - slug: orange-twist
+      straw: false
+      citations:
+        - title: 'Mixology & Mayhem'
+          author:
+            - Sean Muldoon
+            - Jack McGarry
+            - Jillian Vose
+          publisher: Houghton Mifflin Harcourt
+          year: 2018
+        - title: "Wednesday Happy Hour - A Chocolate Banana Irish Whiskey Negroni"
+          href: 'https://cocktailswithsuderman.substack.com/p/wednesday-happy-hour-a-chocolate'
+      notes:
+        - text: >-
+            Orange twist came from the blog, not in the book. All others
+            as spec except for absinthe and cacao brands. Amazingly this
+            works out really well. I think it'd be better over ice like
+            a true Negroni. This has an interesting bittersweet character
+            without being overly forward on anything.
