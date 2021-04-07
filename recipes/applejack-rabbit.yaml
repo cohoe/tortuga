@@ -5,7 +5,7 @@
     creator: Judge Jr
     year: 1927
   specs:
-    - slug: original
+    - slug: pdt
       glassware:
         - slug: coupe
       components:
@@ -29,3 +29,38 @@
       citations:
         - title: PDT Cocktails
           href: https://mixologytech.com/pdt/index.html
+    - slug: treadway
+      glassware:
+        - slug: coupe
+      components:
+        - slug: laird's bonded apple brandy
+          quantity: 2
+          unit: oz
+        - slug: lemon juice
+          quantity: .75
+          unit: oz
+        - slug: cointreau
+          quantity: .5
+          unit: oz
+        - slug: maple syrup
+          quantity: .25
+          unit: oz
+        - slug: fernet-branca
+          quantity: 1
+          unit: barspoon
+        - slug: orange-bitters
+          quantity: 1
+          unit: dash
+      construction:
+        slug: shake
+      instructions:
+        - text: shake with ice, then strain into a chilled coupe
+      straw: false
+      citations:
+        - title: Instagram
+          href: https://www.instagram.com/p/CNGPljJsnj3/
+      notes:
+        - text: >-
+            This ends up coming out a bit more fruity, and definitely
+            less of the maple. But still excellent. Much easier to make
+            since it doesnt require real orange.
