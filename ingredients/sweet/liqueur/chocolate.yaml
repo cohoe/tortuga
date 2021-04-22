@@ -42,3 +42,8 @@
   parent: white-creme-de-cacao
   slug: marie-brizard-white-creme-de-cacao
   kind: product
+
+- display_name:  "Giffard White Cr\xE8me de Cacao"
+  slug: giffard-white-creme-de-cacao
+  parent: white-creme-de-cacao
+  kind: product
