@@ -1,0 +1,44 @@
+---
+- slug: brooklyn
+  display_name: Brooklyn
+  specs:
+    - slug: death-co
+      display_name: Death & Co
+      glassware:
+        - slug: nick-nora
+      components:
+        - slug: rittenhouse-100-rye-whiskey
+          quantity: 2
+          unit: oz
+        - slug: dolin-dry-vermouth
+          quantity: .75
+          unit: oz
+        - slug: bigallet-china-china-amer
+          quantity: .25
+          unit: oz
+        - slug: maraska-maraschino-liqueur
+          quantity: 1
+          unit: tsp
+      construction:
+        slug: stir
+      instructions:
+        - text: >-
+            Stir all the ingredients over ice, then strain into a chilled
+            Nick & Nora glass. Garnish with the cherry.
+      garnish:
+        - slug: brandied-cherry
+          quantity: 1
+      straw: false
+      citations:
+        - title: 'Cocktail Codex'
+          author:
+            - Alex Day
+            - Nick Fauchald
+            - David Kaplan
+          year: 2018
+          publisher: Ten Speed Press
+          page: 87
+      notes:
+        - text: >-
+            This starts out as just some rye but it evolves into something more
+            complex as time goes on. Balanced but on the dry side of the spectrum.
