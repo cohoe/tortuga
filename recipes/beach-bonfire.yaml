@@ -1,0 +1,57 @@
+---
+- slug: beach-bonfire
+  display_name: Beach Bonfire
+  origin:
+    creator: Alex Day
+    year: 2015
+  specs:
+    - slug: death-co
+      display_name: Death & Co
+      glassware:
+        - slug: rocks
+      components:
+        - slug: elijah-craig-small-batch-bourbon
+          quantity: 1.5
+          unit: oz
+        - slug: avua-amburana-cachaca
+          quantity: .5
+          unit: oz
+        - slug: pineapple-gum-syrup
+          quantity: 1
+          unit: tsp
+        - slug: angostura-bitters
+          quantity: 1
+          unit: dash
+        - slug: bittermens-xocolatl-bitters
+          quantity: 1
+          unit: dash
+      construction:
+        slug: stir
+      instructions:
+        - text: >-
+            Stir all the ingredients over ice, then strain into an Old-Fashioned
+            glass over 1 large ice cube. Using a PolyScience Smoking Gun or something
+            similar, shoot some hickory smoke over the drink to create just a
+            whisper of smoke aroma. Garnish with the dehydrated pineapple and serve
+            with the glass of beer alongside.
+      garnish:
+        - slug: pineapple slice
+          quantity: 1
+          preparation: dehydrated
+        - slug: pilsner
+          quantity: 1
+          unit: glass
+      straw: false
+      citations:
+        - title: 'Cocktail Codex'
+          author:
+            - Alex Day
+            - Nick Fauchald
+            - David Kaplan
+          year: 2018
+          publisher: Ten Speed Press
+          page: 24
+      notes:
+        - text: >-
+            This would be way better with the smoke and garnish. Spec'd ingredients alone
+            are OK but not overly exciting. An interesting blend of bourbon/cachaca.
