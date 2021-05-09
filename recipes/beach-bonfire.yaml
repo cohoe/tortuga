@@ -22,7 +22,7 @@
         - slug: angostura-bitters
           quantity: 1
           unit: dash
-        - slug: bittermens-xocolatl-bitters
+        - slug: bittermens-xocolatl-mole-bitters
           quantity: 1
           unit: dash
       construction:
@@ -35,8 +35,9 @@
             whisper of smoke aroma. Garnish with the dehydrated pineapple and serve
             with the glass of beer alongside.
       garnish:
-        - slug: pineapple slice
+        - slug: pineapple
           quantity: 1
+          unit: slice
           preparation: dehydrated
         - slug: pilsner
           quantity: 1

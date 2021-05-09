@@ -1,7 +1,7 @@
 - display_name: Infused Syrup
   parent: syrup
   slug: infused-syrup
-  kind: custom
+  kind: ingredient
 
 - display_name: Banana Syrup
   parent: infused-syrup
@@ -108,6 +108,11 @@
   slug: li-hing-mui-syrup
   kind: custom
 
+- display_name: Pineapple Gum Syrup
+  parent: infused-syrup
+  slug: pineapple-gum-syrup
+  kind: ingredient
+
 - display_name: Charred Pineapple Syrup
   parent: infused-syrup
   slug: charred-pineapple-syrup
@@ -126,6 +131,7 @@
     - text: >-
         Combine all ingredients in a Vitamix and blend, then strain through a chinois.
         Store in a glass bottle.
+
 - display_name: Togarashi Syrup
   parent: infused-syrup
   slug: togarashi-syrup
