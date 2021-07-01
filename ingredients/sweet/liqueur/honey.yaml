@@ -1,7 +1,7 @@
 - display_name: Honey Liqueur
   parent: liqueur
   slug: honey-liqueur
-  kind: ingredient
+  kind: family
 
 - display_name: "B\xE4renj\xE4ger Honey Liqueur"
   parent: honey-liqueur

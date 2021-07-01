@@ -1,7 +1,7 @@
 - display_name: Herbal Liqueur
   parent: liqueur
   slug: herbal-liqueur
-  kind: ingredient
+  kind: family
 
 - display_name: Becherovka
   parent: herbal-liqueur

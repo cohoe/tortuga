@@ -1,7 +1,7 @@
 - display_name: Anise Liqueur
   parent: liqueur
   slug: anise-liqueur
-  kind: ingredient
+  kind: family
 
 - display_name: Anisette
   parent: anise-liqueur

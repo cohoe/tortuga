@@ -1,7 +1,7 @@
 - display_name: Flower Liqueur
   parent: liqueur
   slug: flower-liqueur
-  kind: ingredient
+  kind: family
 
 - display_name: Rose Liqueur
   parent: flower-liqueur

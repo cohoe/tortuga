@@ -1,7 +1,7 @@
 - display_name: Nut Liqueur
   parent: liqueur
   slug: nut-liqueur
-  kind: ingredient
+  kind: family
 
 - display_name: Amaretto
   parent: nut-liqueur

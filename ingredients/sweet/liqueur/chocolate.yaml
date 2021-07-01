@@ -1,7 +1,7 @@
 - display_name: Chocolate Liqueur
   parent: liqueur
   slug: chocolate-liqueur
-  kind: ingredient
+  kind: family
 
 - display_name: Godiva Liqueur (dark)
   parent: chocolate-liqueur

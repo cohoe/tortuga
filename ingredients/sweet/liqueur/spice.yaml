@@ -1,5 +1,10 @@
-- display_name: Allspice Liqueur
+- display_name: Spice Liqueur
   parent: liqueur
+  slug: spice-liqueur
+  kind: family
+
+- display_name: Allspice Liqueur
+  parent: spice-liqueur
   slug: allspice-liqueur
   kind: ingredient
   aliases:
@@ -11,7 +16,7 @@
   kind: product
 
 - display_name: Vanilla Liqueur
-  parent: liqueur
+  parent: spice-liqueur
   slug: vanilla-liqueur
   kind: ingredient
 
@@ -23,4 +28,14 @@
 - display_name: Tuaca
   parent: vanilla-liqueur
   slug: tuaca
+  kind: product
+
+- display_name: Chili Liqueur
+  parent: spice-liqueur
+  slug: chili-liqueur
+  kind: ingredient
+
+- display_name: Ancho Reyes Chili Liqueur
+  parent: chili-liqueur
+  slug: ancho-reyes-chili-liqueur
   kind: product
