@@ -14,11 +14,6 @@
   slug: pilsner
   kind: ingredient
 
-- display_name: Ale
-  parent: beer
-  slug: ale
-  kind: ingredient
-
 - display_name: Blanche De Bruxelles Beer
   parent: beer
   slug: blanche-de-bruxelles-beer
