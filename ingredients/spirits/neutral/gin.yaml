@@ -7,7 +7,7 @@
 - display_name: Old Tom Gin
   parent: gin
   slug: old-tom-gin
-  kind: ingredient
+  kind: family
 
 - display_name: Plymouth Gin
   parent: gin
@@ -17,17 +17,17 @@
 - display_name: London Dry Gin
   parent: gin
   slug: london-dry-gin
-  kind: ingredient
+  kind: family
 
 - display_name: Sloe Gin
   parent: gin
   slug: sloe-gin
-  kind: ingredient
+  kind: family
 
 - display_name: New Western Gin
   parent: gin
   slug: new-western-gin
-  kind: ingredient
+  kind: family
   aliases:
     - Western Style Gin
     - New Style Gin
