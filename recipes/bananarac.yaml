@@ -1,0 +1,53 @@
+---
+- slug: bananarac
+  display_name: Bananarac
+  origin:
+    creator: Natasha David
+    year: 2014
+  specs:
+    - slug: codex
+      display_name: codex
+      glassware:
+        - slug: old-fashioned
+      components:
+        - slug: pierre-ferrand-1840-cognac
+          quantity: 1
+          unit: oz
+        - slug: old-overholt-rye
+          quantity: 1
+          unit: oz
+        - slug: giffard-banane-du-bresil
+          quantity: .5
+          unit: oz
+        - slug: demerara-gum-syrup
+          quantity: .5
+          unit: tsp
+        - slug: bitter-truth-aromatic-bitters
+          quantity: 1
+          unit: dash
+      construction:
+        slug: stir
+      instructions:
+        - text: >-
+            Rinse a chilled Old-Fashioned glass with absinthe and dump. Stir the
+            remaining ingredients over ice, then strain into the glass. Express the
+            lemon twist over the drink and discard.
+      garnish:
+        - slug: lemon-twist
+          quantity: 1
+          preparation: discarded
+      straw: false
+      citations:
+        - title: 'Cocktail Codex'
+          author:
+            - Alex Day
+            - Nick Fauchald
+            - David Kaplan
+          year: 2018
+          publisher: Ten Speed Press
+          page: 35
+      notes:
+        - text: >-
+            Did with Bokers bitters. I really thought this wouldn't come out so good but
+            wow was I wrong. Lot of funk going on between the banana and rye. The elevated
+            proof cognac gives some backbone. A very chilled glass would do this nicely.
