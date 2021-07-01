@@ -24,6 +24,11 @@
   slug: bacardi-ron-superior-limited-edition
   kind: product
 
+- display_name: Bacardi Black Rum
+  parent: lightly-aged-column-still-rum
+  slug: bacardi-black-rum
+  kind: product
+
 - display_name: "Ca\xF1a Brava Rum"
   parent: lightly-aged-column-still-rum
   slug: cana-brava-rum

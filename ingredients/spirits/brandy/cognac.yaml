@@ -3,28 +3,66 @@
   slug: cognac
   kind: ingredient
 
+- display_name: Courvoisier Millennium Cognac
+  parent: cognac
+  slug: courvoisier-millennium-cognac
+  kind: product
+
+- display_name: Louis Royer Force 53 Cognac
+  parent: cognac
+  slug: louis-royer-force-53-cognac
+  kind: product
+
+# XO
+- display_name: XO Cognac
+  parent: cognac
+  slug: xo-cognac
+  kind: ingredient
+
+- display_name: Pierre Ferrand Ambre Cognac
+  parent: xo-cognac
+  slug: pierre-ferrand-ambre-cognac
+  kind: product
+
+# VS
 - display_name: VS Cognac
   parent: cognac
   slug: vs-cognac
   kind: ingredient
 
 - display_name: Courvoisier Cognac
-  parent: cognac
-  slug: courvoisier-cognac
+  parent: vs-cognac
+  slug: courvoisier-vs-cognac
   kind: product
 
-- display_name: Courvoisier Millennium Cognac
+- display_name: Pierre Ferrand 1840 Cognac
+  parent: vs-cognac
+  slug: pierre-ferrand-1840-cognac
+  kind: product
+
+# VSOP
+- display_name: VSOP Cognac
   parent: cognac
-  slug: courvoisier-millennium-cognac
+  slug: vsop-cognac
+  kind: ingredient
+
+- display_name: Martell VSOP Cognac
+  parent: vsop-cognac
+  slug: martell-vsop-cognac
+  kind: product
+
+- display_name: "R\xE9my Martin VSOP Cognac"
+  parent: vsop-cognac
+  slug: remy-martin-vsop-cognac
   kind: product
 
 - display_name: Guillon-Painturaud Cognac Grande Champagne VSOP
-  parent: cognac
+  parent: vsop-cognac
   slug: guillon-painturaud-cognac-grande-champagne-vsop
   kind: product
 
 - display_name: Hine H VSOP Cognac
-  parent: cognac
+  parent: vsop-cognac
   slug: hine-h-vsop-cognac
   kind: product
 
@@ -32,28 +70,3 @@
   parent: hine-h-vsop-cognac
   slug: walnut-infused-hine-vsop-cognac
   kind: custom
-
-- display_name: Louis Royer Force 53 Cognac
-  parent: cognac
-  slug: louis-royer-force-53-cognac
-  kind: product
-
-- display_name: Martell VSOP Cognac
-  parent: cognac
-  slug: martell-vsop-cognac
-  kind: product
-
-- display_name: Pierre Ferrand 1840 Cognac
-  parent: cognac
-  slug: pierre-ferrand-1840-cognac
-  kind: product
-
-- display_name: Pierre Ferrand Ambre Cognac
-  parent: cognac
-  slug: pierre-ferrand-ambre-cognac
-  kind: product
-
-- display_name: "R\xE9my Martin VSOP Cognac"
-  parent: cognac
-  slug: remy-martin-vsop-cognac
-  kind: product

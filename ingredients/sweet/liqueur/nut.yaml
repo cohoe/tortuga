@@ -13,6 +13,11 @@
   slug: amaretto-di-saronno
   kind: product
 
+- display_name: DeKuyper Amaretto
+  parent: amaretto
+  slug: dekuyper-amaretto
+  kind: product
+
 - display_name: Lazzaroni Amaretto
   parent: amaretto
   slug: lazzaroni-amaretto

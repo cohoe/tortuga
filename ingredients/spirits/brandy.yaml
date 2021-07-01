@@ -18,3 +18,8 @@
   parent: brandy
   slug: eau-de-vie
   kind: family
+
+- display_name: Flavored Brandy
+  parent: brandy
+  slug: flavored-brandy
+  kind: family

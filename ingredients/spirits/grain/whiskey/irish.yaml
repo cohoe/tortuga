@@ -69,3 +69,8 @@
   parent: irish-whiskey
   slug: tullamore-dew-rum-cask-irish-whiskey
   kind: product
+
+- display_name: Tullamore DEW Irish Whiskey
+  parent: irish-whiskey
+  slug: tullamore-dew-irish-whiskey
+  kind: product

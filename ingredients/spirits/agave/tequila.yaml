@@ -63,6 +63,11 @@
   slug: el-tesoro-anejo-tequila
   kind: product
 
+- display_name: "1800 Gran Reserva A\xF1ejo Tequila"
+  parent: anejo-tequila
+  slug: 1800-gran-reserva-anejo-tequila
+  kind: product
+
 - display_name: El Tesoro Platinum Tequila
   parent: blanco-tequila
   slug: el-tesoro-platinum-tequila

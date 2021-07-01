@@ -1,0 +1,45 @@
+---
+- display_name: Gondor
+  items:
+    1800-gran-reserva-anejo-tequila:
+    courvoisier-vs-cognac:
+    dekuyper-amaretto:
+    godiva-liqueur:
+    cherry-liqueur: #grand-marnier-cherry-liqueur:
+    coffee-liqueur: #copa-de-oro-coffee-liqueur:
+    plantation-barbados-5-year-rum:
+    old-monk-7-year-rum:
+    johnny-walker-black-label-blended-scotch-whisky:
+    tullamore-dew-irish-whiskey:
+    myers-dark-rum:
+    baileys-irish-cream:
+    beefeater-london-dry-gin:
+    amaro-nonino:
+    fireball-cinnamon-whisky:
+    jose-cuervo-gold:
+    ouzo: #12-ouzo:
+    kahlua:
+    sweet-vermouth: #gallo-sweet-vermouth:
+    canadian-whiskey: #harwood-canadian-whiskey:
+    christian-brothers-honey-brandy:
+    stolichnaya-vodka:
+    vsop-cognac: #st-remy-vsop-cognac:
+    dry-vermouth:
+    banks-5-island-rum:
+    aperol:
+    appleton-estate-12-year-rare-blend-rum:
+    el-dorado-12-year-rum:
+    amaro-meletti:
+    lairds-bonded-apple-brandy:
+    diplomatico-mantuano-rum:
+    jack-daniels-tennessee-whiskey:
+    bourbon-whiskey: #jim-beam:
+    bacardi-black-rum:
+    crown-royal-canadian-whiskey:
+    irish-cream: # carolans-irish-cream:
+    high-rye-bourbon-whiskey:
+    old-grand-dad-bonded-bourbon-whiskey:
+    vodka: # russian-standard-gold-vodka:
+    #western-reserve-vodka:
+    amaretto: # meiers-amaretto:
+    honey-liqueur: # evan-williams-honey-liqueur

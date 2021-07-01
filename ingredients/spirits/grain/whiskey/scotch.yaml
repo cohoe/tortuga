@@ -147,3 +147,8 @@
   parent: blended-scotch-whisky
   slug: dewars-white-label-scotch
   kind: product
+
+- display_name: "Johnny Walker Black Label Blended Scotch Whisky"
+  parent: blended-scotch-whisky
+  slug: johnny-walker-black-label-blended-scotch-whisky
+  kind: product

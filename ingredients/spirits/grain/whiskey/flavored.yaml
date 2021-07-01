@@ -8,3 +8,8 @@
   parent: flavored-whiskey
   slug: skrewball-peanut-butter-whiskey
   kind: product
+
+- display_name: Fireball Cinnamon Whisky
+  parent: flavored-whiskey
+  slug: firewall-cinnamon-whisky
+  kind: product

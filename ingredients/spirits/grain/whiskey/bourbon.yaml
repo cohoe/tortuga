@@ -132,3 +132,13 @@
   parent: bourbon-whiskey
   slug: woodford-reserve-double-oaked-bourbon
   kind: product
+
+- display_name: High-Rye Bourbon Whiskey
+  parent: bourbon-whiskey
+  slug: high-rye-bourbon-whiskey
+  kind: index
+  conditions:
+    - bin_op: or
+      field: slug
+      operator: contains
+      value: high-rye-bourbon
