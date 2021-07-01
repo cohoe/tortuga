@@ -4,14 +4,14 @@
     1800-gran-reserva-anejo-tequila:
     courvoisier-vs-cognac:
     dekuyper-amaretto:
-    godiva-liqueur:
+    chocolate-liqueur: #godiva-liqueur:
     cherry-liqueur: #grand-marnier-cherry-liqueur:
     coffee-liqueur: #copa-de-oro-coffee-liqueur:
     plantation-barbados-5-year-rum:
     old-monk-7-year-rum:
     johnny-walker-black-label-blended-scotch-whisky:
     tullamore-dew-irish-whiskey:
-    myers-dark-rum:
+    myerss-dark-rum:
     baileys-irish-cream:
     beefeater-london-dry-gin:
     amaro-nonino:
@@ -43,3 +43,5 @@
     #western-reserve-vodka:
     amaretto: # meiers-amaretto:
     honey-liqueur: # evan-williams-honey-liqueur
+    angostura-bitters:
+    orange-bitters:

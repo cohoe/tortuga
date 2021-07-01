@@ -30,7 +30,7 @@
   slug: vs-cognac
   kind: ingredient
 
-- display_name: Courvoisier Cognac
+- display_name: Courvoisier VS Cognac
   parent: vs-cognac
   slug: courvoisier-vs-cognac
   kind: product
