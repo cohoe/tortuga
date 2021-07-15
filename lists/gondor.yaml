@@ -1,0 +1,8 @@
+---
+- slug: gondor
+  display_name: Gondor
+  items:
+    - cocktail_slug: exit-strategy
+    - cocktail_slug: tommys-margarita
+    - cocktail_slug: daiquiri
+    - cocktail_slug: coral-reef
