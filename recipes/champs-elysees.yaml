@@ -69,3 +69,42 @@
           year: 2016
           publisher: Houghton Mifflin Harcourt
           page: 94
+    - slug: deep-dive
+      origin:
+        creator: Tommy Stearns
+        venue: Deep Dive
+        location: Seattle WA
+      glassware:
+        - slug: coupe
+      components:
+        - slug: cognac
+          quantity: 1.5
+          unit: oz
+        - slug: lime-juice
+          quantity: .5
+          unit: oz
+        - slug: green-chartreuse
+          quantity: .25
+          unit: oz
+        - slug: yellow-chartreuse
+          quantity: .25
+          unit: oz
+        - slug: honey-syrup
+          quantity: .25
+          unit: oz
+          notes:
+            - text: "1:1"
+        - slug: angostura bitters
+          quantity: 2
+          unit: dash
+      construction:
+        slug: shake
+      instructions:
+        - text: Shake all of the ingredients with ice, double strain into a chilled glass, then garnish.
+      garnish:
+        - slug: lemon twist
+      straw: false
+      citations:
+        - title: Imbibe Magazine
+          date: 2021-01-01
+          issue: January/February
