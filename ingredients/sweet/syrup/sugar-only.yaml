@@ -68,6 +68,11 @@
   slug: demerara-syrup
   kind: custom
 
+- display_name: Demerara Gum Syrup
+  parent: demerara-syrup
+  slug: demerara-gum-syrup
+  kind: custom
+
 - display_name: Agave Nectar
   parent: syrup
   slug: agave-nectar

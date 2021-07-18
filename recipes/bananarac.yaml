@@ -8,12 +8,12 @@
     - slug: codex
       display_name: codex
       glassware:
-        - slug: old-fashioned
+        - slug: rocks
       components:
         - slug: pierre-ferrand-1840-cognac
           quantity: 1
           unit: oz
-        - slug: old-overholt-rye
+        - slug: old-overholt-rye-whiskey
           quantity: 1
           unit: oz
         - slug: giffard-banane-du-bresil
