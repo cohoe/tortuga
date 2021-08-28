@@ -1,0 +1,40 @@
+---
+- slug: cabb
+  display_name: CABB
+  origin:
+    creator: Sother Teague
+    venue: Amor y Amargo
+    year: 2021
+  specs:
+    - slug: original
+      construction:
+        slug: build
+      components:
+        - slug: apple-brandy
+          quantity: 1
+          unit: oz
+        - slug: cynar
+          quantity: 1
+          unit: oz
+        - slug: white-vermouth
+          quantity: .5
+          unit: oz
+        - slug: branca-menta
+          quantity: .25
+          unit: oz
+      instructions:
+        - text: Build in a cordial glass. No chilling or dilution.
+      citations:
+        - title: Direct
+          author:
+            - Grant Cohoe
+          date: 2021-04-03
+          notes:
+            - text: via Instagram with @creativedrunk
+      notes:
+        - text: >-
+            This is rather delightful. Has a touch of the minty/menthol on
+            the end and enough complexity to keep you interested. Did with
+            Lairds Bonded Apple brandy and Dolin Blanc Vermouth. Plus being
+            a scaffa it's super easy to build. A very nice end of the evening
+            drink.
