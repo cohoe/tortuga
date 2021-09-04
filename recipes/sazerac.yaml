@@ -1,0 +1,56 @@
+---
+- slug: sazerac
+  display_name: Sazerac
+  origin:
+    location: New Orleans LA
+  specs:
+    - slug: tom-macy
+      display_name: Tom Macy
+      origin:
+        creator: Tom Macy
+        venue: Clover Club
+        location: Brooklyn NY
+      glassware:
+        - slug: rocks
+      components:
+        - slug: hochstadters-vatted-rye
+          quantity: 1.5
+          unit: oz
+        - slug: louis-royer-force-53
+          quantity: .5
+          unit: oz
+        - slug: demerara-syrup
+          quantity: 1
+          unit: tsp
+        - slug: peychaud-bitters
+          quantity: 4
+          unit: dash
+        - slug: angostura-bitters
+          quantity: 1
+          unit: dash
+        - slug: pernod-absinthe
+          quantity: .25
+          unit: oz
+      construction:
+        slug: stir
+      instructions:
+        - text: >-
+            Rinse a chilled glass with absinthe and set aside. Combine the
+            remaining ingredients in a mixing glass over ice and stir until
+            chilled. Strain into the prepared glass. Garnish with an
+            expressed lemon peel held 4 to 6 inches over the surface of the
+            drink.
+      garnish:
+        - slug: lemon-twist
+          preparation: discarded
+      straw: false
+      citations:
+        - title: Tom Macy's Sazerac Cocktail Recipe
+          author:
+            - Punch
+          href: https://punchdrink.com/recipes/tom-macys-sazerac/
+      notes:
+        - text: >-
+            Oh yeah, this works. Don't have much experience to compare it
+            to but despite the peychauds and absinthe it's not overly
+            anise-y.

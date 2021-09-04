@@ -1,0 +1,46 @@
+---
+- slug: scobeyville-slugger
+  display_name: Scobeyville Slugger
+  origin:
+    creator: Tommmy
+    venue: Sichuan Garden
+    location: Woburn MA
+  specs:
+    - slug: encyclopedia-brown
+      display_name: Encyclopedia Brown
+      glassware:
+        - slug: rocks
+      components:
+        - slug: lairds-75-apple-brandy
+          quantity: 1.5
+          unit: oz
+        - slug: dolin-blanc-vermouth
+          quantity: .75
+          unit: oz
+        - slug: ransom-old-tom-gin
+          quantity: .5
+          unit: oz
+        - slug: angostura-bitters
+          quantity: 1
+          unit: dash
+        - slug: absinthe
+          quantity: 1
+          unit: dash
+      construction:
+        slug: stir
+      instructions:
+        - text: >-
+            Stir all ingredients over ice then strain into a rocks glass
+            over one large ice cube. No garnish
+      straw: false
+      citations:
+        - title: Direct
+          author:
+            - Grant Cohoe
+          date: 2021-05-22
+          notes:
+            - text: Directly from Eli Shapiro
+      notes:
+        - text: >-
+            Served in a chilled flask in a book alongside the glass and ice.
+            Encyclopedia Brown is a rotating stirred drink on the menu.
