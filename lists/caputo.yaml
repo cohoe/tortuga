@@ -1,0 +1,15 @@
+---
+- slug: caputo
+  display_name: Caputo
+  items:
+    # Round 1
+    - cocktail_slug: fish-house-punch
+    # Round 2
+    - cocktail_slug: applejack-rabbit
+      spec_slug: pdt
+    - cocktail_slug: pbj
+    - cocktail_slug: flor-de-jerez
+    # Round 3
+    - cocktail_slug: coral-reef
+    - cocktail_slug: banana-daiquiri
+    - cocktail_slug: paddy-melt
