@@ -6,3 +6,32 @@
     - cocktail_slug: tommys-margarita
     - cocktail_slug: daiquiri
     - cocktail_slug: coral-reef
+    - cocktail_slug: golden-handcuffs
+    - cocktail_slug: just-the-paperwork
+
+- slug: gondor-winter-2020
+  display_name: Gondor Winter 2020
+  items:
+    - cocktail_slug: fish-house-punch
+    - cocktail_slug: golden-handcuffs
+    - cocktail_slug: sharpie-mustache
+    - cocktail_slug: pbj
+    - cocktail_slug: just-the-paperwork
+    - cocktail_slug: martinez
+      spec_slug: rail-stop
+    - cocktail_slug: casualty
+    - cocktail_slug: el-presidente
+      spec_slug: presidente
+
+- slug: gondor-fall-2021
+  display_name: Gondor Fall 2021
+  items:
+    - cocktail_slug: tipperary # irish, manhattan
+    - cocktail_slug: kingston-negroni # rum, negroni
+      spec_slug: lost-lake
+    - cocktail_slug: cabb #brandy, scaffa
+    - cocktail_slug: pendergast-2 # whiskey, negroni
+    - cocktail_slug: hanky-panky # gin, martini
+    # Pick one:
+    - cocktail_slug: starting-gate # rum/scotch
+    - cocktail_slug: teatro # tequila, negroni
