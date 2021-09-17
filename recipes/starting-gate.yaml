@@ -1,0 +1,54 @@
+---
+- slug: starting-gate
+  display_name: Starting Gate
+  origin:
+    venue: Eastern Standard
+    location: Boston MA
+    year: 2019
+  specs:
+    - slug: original
+      construction:
+        slug: stir
+      components:
+        - slug: appleton-reserve-rum
+          quantity: .75
+          unit: oz
+        - slug: glenfiddich-15-scotch
+          quantity: .75
+          unit: oz
+        - slug: palo-cortado-sherry
+          quantity: .75
+          unit: oz
+        - slug: manzanilla-sherry
+          quantity: .5
+          unit: oz
+        - slug: simple-cane-syrup
+          quantity: .5
+          unit: oz
+        - slug: mint-leaves
+          quantity: 5
+      instructions:
+        - text: >-
+            Add all ingredients to a mixing glass and stir over ice making 
+            sure the mint is being gently massaged by the cubes. Double-strain using a 
+            fine mesh strainer into a double old fashioned glass over one large ice cube. 
+            Garnish with a spanked mint leaf rubbed around the edge of the glass 
+            (discarded).
+      garnish:
+        - slug: mint-leaf
+          preparation: discarded
+      citations:
+        - title: Direct
+          author:
+            - Grant Cohoe
+          date: 2021-09-13
+          href: https://www.instagram.com/p/CTupANyLNBt/
+          notes:
+            - text: via Instagram with @cannonjacks
+      notes:
+        - text: >-
+            The end result is a wonderful old fashioned with a scotch/rum base and 
+            thoughtful blend of sherry utilizing mint to bolster the aromatics. A lot of 
+            rum old fashioneds play up the classic rum+cigar combo so it's quite 
+            refreshing (literally) to not have any of that going on here. I also find the 
+            use of a solera-aged scotch to be quite appropriate for a sherry drink.
