@@ -1,0 +1,49 @@
+---
+- slug: dont-give-up-the-ship
+  display_name: Don't Give Up the Ship
+  specs:
+    - slug: zig-zag
+      origin:
+        venue: Zig Zag Cafe
+        location: Seattle WA
+      glassware:
+        - slug: coupe
+      components:
+        - slug: london-dry-gin
+          quantity: 1.5
+          unit: oz
+        - slug: cointreau
+          quantity: .5
+          unit: oz
+        - slug: fernet-branca
+          quantity: .5
+          unit: oz
+        - slug: sweet-vermouth
+          quantity: .5
+          unit: oz
+        - slug: orange-bitters
+          quantity: 2
+          unit: dashes
+          notes:
+            - text: 1-2 dashes
+      construction:
+        slug: stir
+      instructions:
+        - text: >-
+            Add all ingredients to a mixing glass and stir on ice for 15 to
+            20 seconds. Strain off the ice into a footed coupe or cocktail
+            glass and garnish with an orange peel.
+      garnish:
+        - slug: orange-twist
+      straw: false
+      citations:
+        - title: Best Dont Give Up The Ship Recipe
+          author:
+            - Jason O'Bryan
+          href: https://robbreport.com/food-drink/spirits/best-dont-give-up-ship-recipe-gin-cocktail-1234629846/
+      notes:
+        - text: >-
+            All ingredients as spec'd. I think its a bit too orange-y. Between the Cointreau,
+            orange bitters, and orange garnish. I also get a weird sensation that reminds me
+            of sunscreen spray which I find quite unsettling. Maybe my orange peel or Carpano
+            have gone wonk? Something about this is sharp and not in a good way.
