@@ -1,0 +1,64 @@
+---
+- slug: bywater-cocktail
+  display_name: Bywater Cocktail
+  origin:
+    creator: Chris Hannah
+    venue: Arnaud's French 75
+    location: New Orleans LA
+  specs:
+    - slug: imbibe
+      glassware:
+        - slug: coupe
+      components:
+        - slug: cruzan-single-barrel-rum
+          quantity: 1.75
+          unit: oz
+        - slug: green-chartreuse
+          quantity: .75
+          unit: oz
+        - slug: averna
+          quantity: .5
+          unit: oz
+        - slug: john-d-taylor-velvet-falernum
+          quantity: .25
+          unit: oz
+        - slug: peychauds-bitters
+          quantity: 2
+          unit: dash
+        - slug: regans-orange-bitters
+          quantity: 2
+          unit: dash
+      construction:
+        slug: stir
+      instructions:
+        - text: >-
+            Combine the liquid ingredients in a mixing glass and fill with
+            ice. Stir well for 20 seconds and strain into a chilled cocktail
+            glass or coupe. Twist an orange peel over the drink to extract
+            its oils, then discard and garnish with a cherry.
+      garnish:
+        - slug: orange-peel
+          discarded: true
+        - slug: cherry
+      straw: false
+      citations:
+        - title: Bywater Cocktail
+          author:
+            - Imbibe
+          date: 2011-04-13
+          href: https://imbibemagazine.com/recipe/bywater-cocktail-recipe/
+        - title: Bywater Cocktail Recipe
+          author:
+            - Paul Clarke
+          date: 2018-08-09
+          href: https://www.seriouseats.com/bywater-cocktail-recipe
+        - title: Instagram
+          href: https://www.instagram.com/p/COkU8SBKgoD/
+      notes:
+        - text: >-
+            This drink would work really good if I actually paid attention
+            while making it and used the right ratio of spirit.
+        - text: >-
+            Per the Imbibe article you could also use Amer Picon and omit the
+            orange bitters and garnish. Also per Instagram Meletti also
+            stakes a claim to one.
