@@ -1,0 +1,41 @@
+---
+- slug: american-trilogy
+  display_name: American Trilogy
+  specs:
+    - slug: robb-report
+      origin:
+        creator: Richard Boccato and Michael McIlroy
+        venue: Little Branch
+        location: New York NY
+      glassware:
+        - slug: rocks
+      components:
+        - slug: rye-whiskey
+          quantity: 1
+          unit: oz
+          notes:
+            - text: Wild Turkey 101, Rittenhouse, Sazerac
+        - slug: lairds-bonded-apple-brandy
+          quantity: 1
+          unit: oz
+        - slug: simple-demerara-syrup
+          quantity: .25
+          unit: oz
+        - slug: regans-orange-bitters
+          quantity: 2
+          unit: dashes
+      construction:
+        slug: stir
+      instructions:
+        - text: >-
+            Add all ingredients to a rocks glass with the biggest piece (or pieces)
+            of ice you have. Stir 5 to 10 seconds (if you have small ice) or 15 to
+            20 seconds (if you have big ice). Garnish with an orange peel. Enjoy.
+      garnish:
+        - slug: orange-twist
+      straw: false
+      citations:
+        - title: Best American Trilogy Recipe
+          author:
+            - Jason O'Bryan
+          href: https://robbreport.com/food-drink/spirits/best-american-trilogy-recipe-apple-brandy-rye-whiskey-old-fashioned-1234636140/
