@@ -1,0 +1,41 @@
+---
+- slug: yamabuki-whisky-cocktail
+  display_name: Yamabuki Whisky Cocktail
+  origin:
+    creator: Evan Leihy
+    venue: Swordfish Cocktail Club
+    location: Greenville SC
+    story: >-
+      The rich woodsy notes of Japanese whisky come to life when paired with a
+      softly sweet blanc vermouth and the warming spice of an amaro.
+  specs:
+    - slug: imbibe
+      glassware:
+        - slug: coupe
+      components:
+        - slug: suntory-toki-whisky
+          quantity: 1.5
+          unit: oz
+        - slug: dolin-blanc-vermouth
+          quantity: .75
+          unit: oz
+        - slug: amaro-montenegro
+          quantity: .5
+          unit: oz
+        - slug: angostura-orange-bitters
+          quantity: 1
+          unit: dash
+      construction:
+        slug: stir
+      instructions:
+        - text: >-
+            Add all of the ingredients to a mixing glass and stir with ice.
+            Strain into cocktail glass. Express the oils of the lemon peel
+            over the top of the drink, then use as a garnish.
+      garnish:
+        - slug: lemon-twist
+      straw: false
+      citations:
+        - title: Imbibe Magazine
+          date: 2020-10-14
+          href: https://imbibemagazine.com/recipe/yamabuki-whisky-cocktail/
