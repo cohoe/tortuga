@@ -1,0 +1,45 @@
+---
+- slug: cloud-people
+  display_name: Cloud People
+  origin:
+    creator: Misty Kalkofen
+    location: Boston MA
+    story: The Zapotec people are also known as the cloud people
+  specs:
+    - slug: original
+      glassware:
+        - slug: nick-nora
+      components:
+        - slug: Del Maguey Vida de Muertos Mezcal
+          quantity: 2
+          unit: oz
+        - slug: yellow-chartreuse
+          quantity: .5
+          unit: oz
+        - slug: dolin-dry-vermouth
+          quantity: .5
+          unit: oz
+        - slug: angostura-orange-bitters
+          quantity: 1
+          unit: dash
+      construction:
+        slug: stir
+      instructions:
+        - text: >-
+            Stir all ingredients with ice, then strain into a chilled
+            Nick & Nora glass. Express a lemon twist over the glass
+            and rub along the rim, then discard.
+      garnish:
+        - slug: lemon-twist
+          discarded: true
+      straw: false
+      citations:
+        - title: Boston.com Cocktail Club - Mezcal Cocktails with Misty Kalkofen
+          href: https://bostoncomcocktailclubmezcal.splashthat.com/
+      notes:
+        - text: >-
+            Oh yeah, I dig this. Better if I gave it the full chilling it deserves.
+            Lemon twist is clutch. Could probably get away with grapefruit but
+            absolutely not orange. Need some the drying effect. I feel like this
+            isn't overly sweet either. Did with the normal Vida though since
+            apparently Del Maguey has a new one thats going to confuse everyone.
