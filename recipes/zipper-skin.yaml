@@ -1,0 +1,86 @@
+---
+- slug: zipper-skin
+  display_name: Zipper Skin
+  origin:
+    creator: Sother Teague
+    venue: Amor y Amargo
+    location: New York NY
+    story: >-
+      Zipper Skins are a variety of Dancy tangerine whose skins are easily peeled
+      or zipped off. This drink is plentiful with orange flavors: China China is
+      an orange and herb amaro that has notes of charred orange marmalde. Southern
+      Amaro is made by High Wire Distilling in Charleston SC. Made from gentian,
+      mint, black tea and Daney tangerines, it's rich and flavorful and brings this
+      while concoction together in Southern style. Though it's a sipper, it zips
+      down fast.
+  specs:
+    - slug: ijhftd
+      glassware:
+        - slug: rocks
+      components:
+        - slug: bourbon
+          quantity: 1
+          unit: oz
+        - slug: southern-amaro
+          quantity: 1
+          unit: oz
+        - slug: bigallet-china-china
+          quantity: 1
+          unit: oz
+        - slug: cocktail-punk-smoked-orange-bitters
+          quantity: 2
+          unit: dash
+      construction:
+        slug: stir
+      instructions:
+        - text: >-
+            Build in an Old Fashioned glass. Add ice and gently stir to combine.
+      garnish:
+        - slug: orange-twist
+          discarded: true
+      straw: false
+      citations:
+        - title: I'm Just Here for the Drinks
+          author:
+            - Sother Teague
+          date: 2018-08-28
+          publisher: Media Lab Books
+          page: 243
+    - slug: teague
+      glassware:
+        - slug: rocks
+      components:
+        - slug: bourbon
+          quantity: 1.5
+          unit: oz
+        - slug: southern-amaro
+          quantity: .75
+          unit: oz
+        - slug: bigallet-china-china
+          quantity: .75
+          unit: oz
+        - slug: cocktail-punk-smoked-orange-bitters
+          quantity: 1
+          unit: dash
+      construction:
+        slug: stir
+      instructions:
+        - text: >-
+            Stir all ingredients with ice then strain into a small rocks glass
+            over one large ice cube. Garnish with an orange twist.
+      garnish:
+        - slug: orange-twist
+      straw: false
+      citations:
+        - title: Direct
+          author:
+            - Grant Cohoe
+          date: 2021-04-03
+          notes:
+            - text: via Instagram with @creativedrunk
+      notes:
+        - text: >-
+            Canonical Amor would be to use Evan Williams Single Barrel for the
+            bourbon. While the book claims discarded garnish, photo evidence
+            suggests this is no longer the practice. I have not had the
+            Southern amaro yet so everything I have is guestimation.
