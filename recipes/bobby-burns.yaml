@@ -37,3 +37,35 @@
             Did with Dewers. It's fine, but not overly exciting for me. I also
             don't really dig scotch. Certainly not offensive. The cookies may
             make this a more interesting time.
+    - slug: burn-it-down-bobby
+      display_name: Burn it down Bobby
+      origin:
+        venue: Bogies Place
+        location: Boston MA
+      glassware:
+        - slug: rocks
+      components:
+        - slug: johnny-walker-high-rye-blended-scotch
+          quantity: 1.5
+          unit: oz
+          notes:
+            - text: Or Johnny walker Black
+        - slug: sweet-vermouth
+          quantity: 1.5
+          unit: oz
+        - slug: benedictine
+          quantity: .5
+          unit: oz
+        - slug: laphroag
+      construction:
+        slug: stir
+      instructions:
+        - text: >-
+            Stir with ice, then strain into a chilled laphroaig-rinsed rocks
+            glass without ice. No garnish.
+      straw: false
+      citations:
+        - title: Direct
+          date: 2021-12-11
+          author:
+            - Grant Cohoe
