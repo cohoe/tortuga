@@ -35,3 +35,14 @@
     # Pick one:
     - cocktail_slug: starting-gate # rum/scotch
     - cocktail_slug: teatro # tequila, negroni
+
+- slug: gondor-winter-2021
+  items:
+    - cocktail_slug: martinez
+    - cocktail_slug: oh-my-word
+    - cocktail_slug: waterproof-watch
+    - cocktail_slug: kingston-negroni
+    #- cocktail_slug: bumbo
+    - cocktail_slug: exit-strategy
+    - cocktail_slug: oaxaca-old-fashioned
+    - cocktail_slug: sharpie-mustache

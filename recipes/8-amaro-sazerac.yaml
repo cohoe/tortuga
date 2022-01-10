@@ -1,0 +1,55 @@
+---
+- slug: 8-amaro-sazerac
+  display_name: 8 Amaro Sazerac
+  origin:
+    venue: Amor y Amargo
+    location: New York NY
+  specs:
+    - slug: ijhftd
+      glassware:
+        - slug: rocks
+      components:
+        - slug: amaro
+          quantity: 2
+          unit: oz
+        - slug: peychauds-bitters
+          quantity: 4
+          unit: dash
+        - slug: bittermens-orange-cream-citrate
+          quantity: 1
+          unit: dash
+        - slug: green-chartreuse
+          quantity: 1
+          unit: rinse
+      construction:
+        slug: stir
+      instructions:
+        - text: >-
+            Stir all ingredients over ice, then strain into a rocks glass
+            rinsed with Green Chartruse without ice. Garnish with a lemon peel.
+      notes:
+        - text: >-
+            The 8 amaro blend changes over time. I use a set based on a decent
+            IG post. All blends are equal parts.
+            Aperol, Cynar, Dell'erborist, Vecchio, Montenegro, Averna, Ramazzotti, China-China
+            A post from the bar in 2021 yields the following instead.
+            Aperol, Cynar, Dell'erborist, Vecchio, Montenegro, Averna, Ramazzotti, Amer Nouvelle
+            I call that close enough.
+        - text: >-
+            Did with a big rock once. Worked great, went down a little too fast.
+            Rock didn't hurt but I think could take away from the sipping.
+            This drink is excellent.
+      garnish:
+        - slug: lemon-twist
+          discarded: false
+      straw: false
+      citations:
+        - title: Instagram
+          date: 2021-06-02
+          href: https://www.instagram.com/p/CPo9j0DnZUn/
+        - title: Instagram
+          date: 2021-01-22
+          href: https://www.instagram.com/p/CKX8HAJl_Lf/
+        - title: Instagram
+          date: 2021-05-10
+          href: https://www.instagram.com/p/COsm_jMLUNK/
