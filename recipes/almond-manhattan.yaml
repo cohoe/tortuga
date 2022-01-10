@@ -1,0 +1,41 @@
+---
+- slug: almond-manhattan
+  display_name: Almond Manhattan
+  origin:
+    venue: Northside Speakeasy
+    location: Akron OH
+  specs:
+    - slug: original
+      glassware:
+        - slug: rocks
+      components:
+        - slug: dickel-rye-whiskey
+          quantity: 2
+          unit: oz
+        - slug: carpano-antica-vermouth
+          quantity: 1
+          unit: oz
+        - slug: angostura-bitters
+          quantity: 2
+          unit: dash
+        - slug: cherry-syrup
+          quantity: 1
+          unit: barspoon
+          notes:
+            - text: Quoted as a dash of cherry syrup, barspoon extrapolated.
+        - slug: orgeat
+          quantity: .25
+          unit: oz
+      construction:
+        slug: stir
+      instructions:
+        - text: stir all the ingredients over ice, then strain into a rocks glass over fresh ice.
+      garnish:
+        - slug: brandied cherry
+          quantity: 2
+      straw: false
+      citations:
+        - title: Direct
+          author:
+            - Grant Cohoe
+          date: 2021-12-28

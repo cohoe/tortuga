@@ -1,0 +1,51 @@
+---
+- slug: ce-soir
+  display_name: Ce Soir
+  origin:
+    creator: Nicole Lebedevich
+    venue: The Hawthorne
+    location: Boston MA
+    story: >-
+      A mix of two ounces of Cognac, with touches of yellow Chartreuse and
+      Cynar, and two types of bitters, Nicole Lebedevitch’s Ce Soir is simple,
+      potent and elegant—and, according to Robert Simonson, who chose it as
+      one of his top cocktails of 2017, it deserves to be better-known.
+  specs:
+    - slug: punch
+      glassware:
+        - slug: nick-nora
+      components:
+        - slug: pierre-ferrand-1840-cognac
+          quantity: 2
+          unit: oz
+          notes:
+            - text: 1840 is higher-proof
+        - slug: cynar
+          quantity: .75
+          unit: oz
+        - slug: yellow-chartreuse
+          quantity: .5
+          unit: oz
+        - slug: angostura-bitters
+          quantity: 1
+          unit: dash
+        - slug: regans-orange-bitters
+          quantity: 1
+          unit: dash
+      garnish:
+        - slug: lemon-twist
+          discarded: true
+      construction:
+        slug: stir
+      instructions:
+        - text: >-
+            Combine all ingredients in a mixing glass over ice and stir until
+            chilled. Strain into a chilled coupe or cocktail glass. Express
+            the lemon peel and discard.
+      straw: false
+      citations:
+        - title: "Ce Soir Cocktail Recipe"
+          author:
+            - Punch
+          publisher: PUNCH
+          href: https://punchdrink.com/recipes/ce-soir/
