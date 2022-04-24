@@ -1,0 +1,70 @@
+---
+- slug: columbian-punch
+  display_name: Columbian Punch
+  origin:
+    story: >-
+      Said punch recipe dates back to the early 19th Century and in 1893 was named
+      "Columbian Punch" at the first world’s fair, the 1893 Columbian World
+      Exposition in Chicago, which celebrated the near-quadricentennial (so they
+      were a year late, big deal) of Columbus’ “discovery” of America.
+  specs:
+    - slug: looka
+      display_name: Looka
+      glassware:
+        - slug: bowl
+      components:
+        - slug: appleton-estate-jamaican-rum
+          quantity: 1
+          unit: quart
+        - slug: grape-brandy
+          quantity: 1
+          unit: pint
+        - slug: green-chartreuse
+          quantity: 4
+          unit: oz
+        - slug: oolong-tea
+          quantity: 1
+          unit: pint
+        - slug: lemon
+          quantity: 2
+        - slug: orange
+          quantiy: 2
+        - slug: superfine-sugar
+          quantity: 1
+          unit: cup
+        - slug: champagne
+          quantity: 750
+          unit: ml
+      construction:
+        slug: build
+      instructions:
+        - text: >-
+            Carefully peel the lemons and oranges, getting as little of the white
+            pith as you can. Muddle the peels with the sugar until you’ve extracted
+            as much citrus oil as you can from them, and allow to sit for at least
+            an hour, preferably three hours. Juice the fruit and strain the juice.
+
+            Combine the boozes, juices and tea with the muddled peels and sugar in
+            a large punch bowl and stir until dissolved. Remove the peels. Add the
+            Champagne and stir, then add a large block of ice to keep chilled. Ladle
+            into small punch glasses and allow your guests to serve themselves until
+            it’s gone (and I guarantee you’ll have none left).
+      straw: false
+      citations:
+        - title: Looka! Blog Archive, Columbian Punch
+          author:
+            - Chuck
+          date: 2005-12-31
+          href: http://looka.gumbopages.com/2005/12/31/columbian-punch/
+      notes:
+        - text: >-
+            Saw this on Instagram from Fred Yarm for a party at Drink in Boston one
+            evening in 2022. Sounded interesting.
+        - text: >-
+            Columbian Punch created for the 1893 World's Fair in Chicago, and served
+            here at @drinkfortpoint for an event tonight. Jamaican #rum 
+            (@plantation.rum Xaymaca), #Cognac (Pierre Ferrand Amber), Green Chartreuse,
+            black tea, lemon juice, orange juice, sugar (lemon peel oleosaccharum),
+            champagne. Full recipe on Chuck Taggart's Looka blog via Ted Haigh where
+            i found it back in 2008; originslly published in Beverages and Sandwiches
+            for Your Husband's Friends, by "One Who Knows" 1893
