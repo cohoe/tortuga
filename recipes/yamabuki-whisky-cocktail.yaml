@@ -13,7 +13,7 @@
       glassware:
         - slug: coupe
       components:
-        - slug: suntory-toki-whisky
+        - slug: suntory-toki-japanese-whisky
           quantity: 1.5
           unit: oz
         - slug: dolin-blanc-vermouth

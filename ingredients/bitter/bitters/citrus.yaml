@@ -73,3 +73,13 @@
   parent: lime-bitters
   slug: scrappys-lime-bitters
   kind: product
+
+- display_name: "Bittermens Orange Cream Citrate"
+  parent: orange-bitters
+  slug: bittermens-orange-cream-citrate
+  kind: product
+
+- display_name: "Cocktail Punk Smoked Orange Bitters"
+  parent: orange-bitters
+  slug: cocktail-punk-smoked-orange-bitters
+  kind: product

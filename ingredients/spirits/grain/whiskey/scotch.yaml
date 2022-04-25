@@ -58,6 +58,11 @@
   slug: glenlivet-12-year-old-single-malt-scotch-whisky
   kind: product
 
+- display_name: Glenfiddich 15 Scotch
+  parent: speyside-single-malt-scotch-whisky
+  slug: glenfiddich-15-scotch
+  kind: product
+
 - display_name: Macallan Fine Oak 10-Year Scotch Whisky
   parent: speyside-single-malt-scotch-whisky
   slug: macallan-fine-oak-10-year-scotch-whisky
@@ -151,4 +156,9 @@
 - display_name: "Johnny Walker Black Label Blended Scotch Whisky"
   parent: blended-scotch-whisky
   slug: johnny-walker-black-label-blended-scotch-whisky
+  kind: product
+
+- display_name: "Johnny Walker High Rye Blended Scotch"
+  parent: blended-scotch-whisky
+  slug: johnny-walker-high-rye-blended-scotch
   kind: product

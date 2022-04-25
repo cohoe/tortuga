@@ -11,7 +11,7 @@
       glassware:
         - slug: rocks
       components:
-        - slug: lairds-75-apple-brandy
+        - slug: lairds-old-apple-brandy
           quantity: 1.5
           unit: oz
         - slug: dolin-blanc-vermouth

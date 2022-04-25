@@ -18,13 +18,13 @@
       glassware:
         - slug: rocks
       components:
-        - slug: bourbon
+        - slug: bourbon-whiskey
           quantity: 1
           unit: oz
-        - slug: southern-amaro
+        - slug: high-wire-southern-amaro
           quantity: 1
           unit: oz
-        - slug: bigallet-china-china
+        - slug: bigallet-china-china-amer
           quantity: 1
           unit: oz
         - slug: cocktail-punk-smoked-orange-bitters
@@ -37,7 +37,7 @@
             Build in an Old Fashioned glass. Add ice and gently stir to combine.
       garnish:
         - slug: orange-twist
-          discarded: true
+          preparation: discarded
       straw: false
       citations:
         - title: I'm Just Here for the Drinks
@@ -50,13 +50,13 @@
       glassware:
         - slug: rocks
       components:
-        - slug: bourbon
+        - slug: bourbon-whiskey
           quantity: 1.5
           unit: oz
-        - slug: southern-amaro
+        - slug: high-wire-southern-amaro
           quantity: .75
           unit: oz
-        - slug: bigallet-china-china
+        - slug: bigallet-china-china-amer
           quantity: .75
           unit: oz
         - slug: cocktail-punk-smoked-orange-bitters

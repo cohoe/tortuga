@@ -33,3 +33,8 @@
   parent: tea
   slug: green-tea
   kind: ingredient
+
+- display_name: Oolong Tea
+  parent: tea
+  slug: oolong-tea
+  kind: ingredient

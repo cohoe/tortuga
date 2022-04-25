@@ -30,3 +30,8 @@
   parent: absinthe
   slug: vieux-pontarlier-absinthe
   kind: product
+
+- display_name: Pernod Absinthe
+  parent: absinthe
+  slug: pernod-absinthe
+  kind: product

@@ -31,7 +31,7 @@
             and rub along the rim, then discard.
       garnish:
         - slug: lemon-twist
-          discarded: true
+          preparation: discarded
       straw: false
       citations:
         - title: Boston.com Cocktail Club - Mezcal Cocktails with Misty Kalkofen

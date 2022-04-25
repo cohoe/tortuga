@@ -13,16 +13,16 @@
       glassware:
         - slug: rocks
       components:
-        - slug: hochstadters-vatted-rye
+        - slug: hochstadters-vatted-rye-whiskey
           quantity: 1.5
           unit: oz
-        - slug: louis-royer-force-53
+        - slug: louis-royer-force-53-cognac
           quantity: .5
           unit: oz
         - slug: demerara-syrup
           quantity: 1
           unit: tsp
-        - slug: peychaud-bitters
+        - slug: peychauds-bitters
           quantity: 4
           unit: dash
         - slug: angostura-bitters

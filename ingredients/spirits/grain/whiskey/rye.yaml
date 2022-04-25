@@ -67,3 +67,13 @@
   parent: wild-turkey-rye-whiskey
   slug: dried-currant-infused-wild-turkey-rye-whiskey
   kind: custom
+
+- display_name: Dickel Rye Whiskey
+  parent: rye-whiskey
+  slug: dickel-rye-whiskey
+  kind: product
+
+- display_name: Hochstadters Vatted Rye Whiskey
+  parent: rye-whiskey
+  slug: hochstadters-vatted-rye-whiskey
+  kind: product

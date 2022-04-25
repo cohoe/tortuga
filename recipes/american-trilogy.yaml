@@ -18,9 +18,11 @@
         - slug: lairds-bonded-apple-brandy
           quantity: 1
           unit: oz
-        - slug: simple-demerara-syrup
+        - slug: demerara-syrup
           quantity: .25
           unit: oz
+          notes:
+            - text: simple demerara syrup called for here.
         - slug: regans-orange-bitters
           quantity: 2
           unit: dashes

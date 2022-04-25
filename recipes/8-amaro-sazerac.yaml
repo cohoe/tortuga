@@ -41,7 +41,7 @@
             This drink is excellent.
       garnish:
         - slug: lemon-twist
-          discarded: false
+          preparation: discarded
       straw: false
       citations:
         - title: Instagram

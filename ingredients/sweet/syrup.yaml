@@ -87,3 +87,8 @@
   kind: ingredient
   aliases:
     - Gomme Syrup
+
+- display_name: Cherry Syrup
+  parent: syrup
+  slug: cherry-syrup
+  kind: ingredient

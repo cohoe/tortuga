@@ -70,3 +70,8 @@
   parent: hine-h-vsop-cognac
   slug: walnut-infused-hine-vsop-cognac
   kind: custom
+
+- display_name: Louis Royer Force 53 Cognac
+  parent: vsop-cognac
+  slug: louis-royer-force-53-cognac
+  kind: product

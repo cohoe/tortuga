@@ -28,3 +28,8 @@
   parent: white-sugar
   slug: sugar-cubes
   kind: ingredient
+
+- display_name: Superfine Sugar
+  parent: sugar
+  slug: superfine-sugar
+  kind: ingredient

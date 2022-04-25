@@ -103,3 +103,13 @@
   parent: amaro
   slug: vecchio-amaro-del-capo
   kind: product
+
+- display_name: Branca-Menta
+  parent: amaro
+  slug: branca-menta
+  kind: product
+
+- display_name: High Wire Southern Amaro
+  parent: amaro
+  slug: high-wire-southern-amaro
+  kind: product

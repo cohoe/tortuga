@@ -17,3 +17,8 @@
   parent: japanese-whisky
   slug: yamazaki-12-year-japanese-whisky
   kind: product
+
+- display_name: Suntory Toki Japanese Whisky
+  parent: japanese-whisky
+  slug: suntory-toki-japanese-whisky
+  kind: product

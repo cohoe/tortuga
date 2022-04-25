@@ -16,10 +16,10 @@
         - slug: green-chartreuse
           quantity: .75
           unit: oz
-        - slug: averna
+        - slug: amaro-averna
           quantity: .5
           unit: oz
-        - slug: john-d-taylor-velvet-falernum
+        - slug: john-d-taylors-velvet-falernum
           quantity: .25
           unit: oz
         - slug: peychauds-bitters
@@ -38,7 +38,7 @@
             its oils, then discard and garnish with a cherry.
       garnish:
         - slug: orange-peel
-          discarded: true
+          preparation: discarded
         - slug: cherry
       straw: false
       citations:

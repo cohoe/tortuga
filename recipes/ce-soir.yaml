@@ -34,7 +34,7 @@
           unit: dash
       garnish:
         - slug: lemon-twist
-          discarded: true
+          preparation: discarded
       construction:
         slug: stir
       instructions:

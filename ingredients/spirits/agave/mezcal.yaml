@@ -34,6 +34,11 @@
   slug: del-maguey-vida-mezcal
   kind: product
 
+- display_name: Del Maguey Vida de Muertos Mezcal
+  parent: mezcal
+  slug: del-maguey-vida-de-muertos-mezcal
+  kind: product
+
 - display_name: Ilegal Reposado Mezcal
   parent: mezcal
   slug: ilegal-reposado-mezcal

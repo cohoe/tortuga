@@ -11,11 +11,14 @@
     - slug: looka
       display_name: Looka
       glassware:
-        - slug: bowl
+        - slug: punch-bowl
       components:
-        - slug: appleton-estate-jamaican-rum
+        - slug: appleton-signature-rum
           quantity: 1
           unit: quart
+          notes:
+            - text: >-
+                Exact mark is unspecified, Signature is assumed. See note re: Xaymaca
         - slug: grape-brandy
           quantity: 1
           unit: pint
@@ -28,7 +31,7 @@
         - slug: lemon
           quantity: 2
         - slug: orange
-          quantiy: 2
+          quantity: 2
         - slug: superfine-sugar
           quantity: 1
           unit: cup

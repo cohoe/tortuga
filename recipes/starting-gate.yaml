@@ -10,7 +10,7 @@
       construction:
         slug: stir
       components:
-        - slug: appleton-reserve-rum
+        - slug: appleton-estate-reserve-rum
           quantity: .75
           unit: oz
         - slug: glenfiddich-15-scotch
@@ -22,7 +22,7 @@
         - slug: manzanilla-sherry
           quantity: .5
           unit: oz
-        - slug: simple-cane-syrup
+        - slug: cane-sugar-syrup
           quantity: .5
           unit: oz
         - slug: mint-leaves
@@ -35,7 +35,8 @@
             Garnish with a spanked mint leaf rubbed around the edge of the glass 
             (discarded).
       garnish:
-        - slug: mint-leaf
+        - slug: mint-leaves
+          quantity: 1
           preparation: discarded
       citations:
         - title: Direct
