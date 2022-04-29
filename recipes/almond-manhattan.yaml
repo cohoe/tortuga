@@ -20,9 +20,7 @@
           unit: dash
         - slug: cherry-syrup
           quantity: 1
-          unit: barspoon
-          notes:
-            - text: Quoted as a dash of cherry syrup, barspoon extrapolated.
+          unit: dash
         - slug: orgeat
           quantity: .25
           unit: oz
@@ -39,3 +37,10 @@
           author:
             - Grant Cohoe
           date: 2021-12-28
+      notes:
+        - text: >
+            Did with Rittenhouse 100 Rye, others as specd. Came out cloudy which is not how I remember
+            but looking back at pictures sorta makes sense. Is a little on the sweet side. Might be due
+            to a full barspoon of cherry syrup I put in. The quarter oz of orgeat may be worth reducing
+            to avoid overpowering. Flavor-wise not bad. Need a strong rye to stand up to everything
+            that is going on here.
