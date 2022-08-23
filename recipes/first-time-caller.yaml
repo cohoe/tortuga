@@ -1,0 +1,40 @@
+---
+- slug: first-time-caller
+  display_name: First Time Caller
+  origin:
+    venue: The Dewberry
+    location: Charleston SC
+    story: >-
+      A nightcap that took a tropical holiday vacation.
+  specs:
+    - slug: imbibe
+      glassware:
+        - slug: rocks
+      construction:
+        slug: build
+      components:
+        - slug: aged-jamaican-rum
+          quantity: 2.5
+          unit: oz
+        - slug: creme-de-caco
+          quantity: .25
+          unit: oz
+        - slug: banana-liqueur
+          quantity: .25
+          unit: oz
+        - slug: angostura-bitters
+          quantity: 2
+          unit: dash
+      instructions:
+        - text: Add all of the ingredients to an Old Fashioned glass holding a large ice cube. Stir twice, twist an orange peel over the drink, then garnish.
+      garnish:
+        - slug: orange-twist
+        - slug: brandied-cherry
+      citations:
+        - title: First-Time Caller, an Old Fashioned Variation
+          href: https://imbibemagazine.com/recipe/first-time-caller-an-old-fashioned-variation
+      notes:
+        - text: >-
+            Build? That seems a bit weird. Stir works just fine. Delightful with Appleton 12,
+            but maybe a bit too sweet. Also forgot bitters. The build might actually work too
+            since it gets pretty watery.
