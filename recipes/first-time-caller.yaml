@@ -13,10 +13,10 @@
       construction:
         slug: build
       components:
-        - slug: aged-jamaican-rum
+        - slug: jamaican-rum
           quantity: 2.5
           unit: oz
-        - slug: creme-de-caco
+        - slug: creme-de-cacao
           quantity: .25
           unit: oz
         - slug: banana-liqueur
