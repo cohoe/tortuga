@@ -1,0 +1,40 @@
+---
+- slug: di-pompelmo
+  display_name: Di Pompelmo
+  specs:
+    - slug: amor-y-amargo
+      origin:
+        creator: Sother Teague
+        venue: Amor y Amargo
+        location: Brooklyn NY
+      construction:
+        slug: build
+      components:
+        - slug: olmeca-altos-blanco-tequila
+          quantity: 1.5
+          unit: oz
+        - slug: cocchi-americano
+          quantity: .75
+          unit: oz
+        - slug: aperol
+          quantity: .5
+          unit: oz
+        - slug: bittermens-citron-sauvage-liqueur
+          quantity: .25
+          unit: oz
+        - slug: water
+          quantity: .5
+          unit: oz
+        - slug: bittermens-hopped-grapefruit-bitters
+          quantity: 2
+          unit: dash
+      instructions:
+        - text: >-
+            Funnel all of the ingredients into a flask. Cap tightly and chill.
+            When ready to serve, remove the cap and insert a grapefruit peel
+            into the flask neck.
+      garnish:
+        - slug: grapefruit-twist
+      citations:
+        - title: "PUNCH | Di Pompelmo Cocktail"
+          href: https://punchdrink.com/recipes/di-pompelmo/

@@ -113,3 +113,8 @@
   parent: amaro
   slug: high-wire-southern-amaro
   kind: product
+
+- display_name: Braulio Amaro
+  parent: amaro
+  slug: braulio-amaro
+  kind: product

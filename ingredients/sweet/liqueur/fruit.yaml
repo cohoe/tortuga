@@ -38,6 +38,11 @@
   slug: combier-pamplemousse-rose-liqueur
   kind: product
 
+- display_name: Bittermens Citron Sauvage Liqueur
+  parent: grapefruit-liqueur
+  slug: bittermens-citron-sauvage-liqueur
+  kind: product
+
 - display_name: Limoncello
   parent: fruit-liqueur
   slug: limoncello

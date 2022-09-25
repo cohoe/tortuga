@@ -1,0 +1,31 @@
+---
+- slug: braulio-cano
+  display_name: Braulio Cano
+  specs:
+    - slug: cocchi
+      origin:
+        venue: Amor y Amargo
+        location: Brooklyn NY
+      construction:
+        slug: stir
+      components:
+        - slug: cocchi-americano-rosa
+          quantity: 1.5
+          unit: oz
+        - slug: braulio-amaro
+          quantity: 1.5
+          unit: oz
+        - slug: bittermens-orange-cream-citrate
+          quantity: 6
+          unit: drops
+        - slug: seltzer
+      instructions:
+        - text: >-
+            Mix all the ingredients in a mixing glass with ice. Then strain into
+            a chilled glass filled with ice. Top with soda and garnish with
+            a lemon zest.
+      garnish:
+        - slug: lemon-twist
+      citations:
+        - title: "Braulio Cano - Guilio Cocchi"
+          href: https://www.cocchi.it/cocktails/braulio-cano/
