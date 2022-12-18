@@ -46,3 +46,12 @@
     - cocktail_slug: exit-strategy
     - cocktail_slug: oaxaca-old-fashioned
     - cocktail_slug: sharpie-mustache
+
+- slug: gondor-summer-2022
+  items:
+    - cocktail_slug: amaro-manhattan
+    - cocktail_slug: negroni
+    - cocktail_slug: coral-reef
+    - cocktail_slug: daiquiri
+    - cocktail_slug: rum-manhattan
+    - cocktail_slug: champs-elysees
