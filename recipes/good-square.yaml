@@ -1,0 +1,37 @@
+---
+- slug: good-square
+  display_name: Good Square
+  origin:
+    creator: Sother Teague
+    venue: Amor y Amargo
+    location: New York NY
+  specs:
+    - slug: youtube
+      glassware:
+        - slug: rocks
+      components:
+        - slug: lairds-bonded-apple-brandy
+          quantity: 1.5
+          unit: oz
+        - slug: rittenhouse-100-rye
+          quantity: 1.5
+          unit: oz
+        - slug: punt-e-mes
+          quantity: 1.5
+          unit: oz
+        - slug: strega
+          quantity: 0.25
+          unit: oz
+        - slug: peychauds-bitters
+          quantity: 2
+          unit: dash
+      construction:
+        slug: stir
+      instructions:
+        - text: Stir all ingreidents with ice then strain into a chilled tuplip or rocks glass.
+      garnish:
+        - slug: orange-twist
+      straw: false
+      citations:
+        - title: Some fun recipes using Lairds Apple Brandy and Applejack 
+          href: "https://www.youtube.com/watch?v=RNOzbQJrsqA"
